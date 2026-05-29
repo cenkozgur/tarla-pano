@@ -1,8 +1,8 @@
-import { useState } from 'react'
+import { useEffect, useState } from 'react'
 import { RECORD_TYPES, typeOf, recordsOf, addRecord, deleteRecord, deleteField, fieldSummary } from '../lib/defter'
 import { tl, gun } from '../lib/fmt'
 
-export default function FieldDetail({ field, onBack, onChanged }) {
+export default function FieldDetail({ field, catalog, onBack, onChanged }) {
   const [, force] = useState(0)
   const [adding, setAdding] = useState(false)
   const refresh = () => {
@@ -51,6 +51,7 @@ export default function FieldDetail({ field, onBack, onChanged }) {
 
       {adding ? (
         <RecordForm
+          catalog={catalog}
           onCancel={() => setAdding(false)}
           onSave={(data) => {
             addRecord(field.id, data)
@@ -112,14 +113,35 @@ function Stat({ label, value, tone }) {
   )
 }
 
-function RecordForm({ onSave, onCancel }) {
+function RecordForm({ catalog, onSave, onCancel }) {
   const [type, setType] = useState('gubre')
   const [date, setDate] = useState(new Date().toISOString().slice(0, 10))
   const [amount, setAmount] = useState('')
   const [unit, setUnit] = useState('kg')
   const [money, setMoney] = useState('')
   const [note, setNote] = useState('')
+  const [priceKey, setPriceKey] = useState('')
   const isRevenue = typeOf(type).kind === 'revenue'
+
+  // gelir kaydında ürün listesi, gider kaydında girdi (mazot/gübre) listesi
+  const priceList = (isRevenue ? catalog?.commodities : catalog?.inputs) || []
+  const picked = priceList.find((p) => p.key === priceKey)
+
+  // seçili kalem + miktar -> tutarı otomatik hesapla (kullanıcı sonra elle değiştirebilir)
+  useEffect(() => {
+    if (picked && amount !== '' && !Number.isNaN(Number(amount))) {
+      const u = picked.unit?.split('/')?.[1]
+      if (u) setUnit(u)
+      setMoney(String(Math.round(picked.price * Number(amount) * 100) / 100))
+    }
+    // eslint-disable-next-line react-hooks/exhaustive-deps
+  }, [priceKey, amount])
+
+  // tür gelir<->gider değişince seçimi sıfırla
+  useEffect(() => {
+    setPriceKey('')
+    // eslint-disable-next-line react-hooks/exhaustive-deps
+  }, [isRevenue])
 
   const save = () => {
     onSave({
@@ -162,9 +184,27 @@ function RecordForm({ onSave, onCancel }) {
         </Field>
       </div>
 
+      {priceList.length > 0 && (
+        <Field label={isRevenue ? 'Üründen hesapla (ops.)' : 'Girdiden hesapla (ops.)'}>
+          <select value={priceKey} onChange={(e) => setPriceKey(e.target.value)} className="input">
+            <option value="">— seçilmedi (elle gir) —</option>
+            {priceList.map((p) => (
+              <option key={p.key} value={p.key}>
+                {p.name} · {tl(p.price)} {p.unit}
+              </option>
+            ))}
+          </select>
+        </Field>
+      )}
+
       <Field label={isRevenue ? 'Gelir (₺)' : 'Maliyet (₺)'}>
         <input type="number" inputMode="decimal" value={money} onChange={(e) => setMoney(e.target.value)} placeholder="0" className="input" />
       </Field>
+      {picked && amount !== '' && (
+        <p className="-mt-1 text-[11px] text-stone-400">
+          ≈ {tl(picked.price)} {picked.unit} × {amount} = {tl(picked.price * Number(amount))} ₺ (değiştirebilirsin)
+        </p>
+      )}
 
       <Field label="Not (opsiyonel)">
         <input value={note} onChange={(e) => setNote(e.target.value)} placeholder="örn. üre, 2. atım" className="input" />

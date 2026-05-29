@@ -1,5 +1,6 @@
-import { useState } from 'react'
-import { loadFields, addField, fieldSummary } from '../lib/defter'
+import { useEffect, useRef, useState } from 'react'
+import { loadFields, addField, fieldSummary, exportData, importData } from '../lib/defter'
+import { fetchMarket } from '../lib/market'
 import { tl } from '../lib/fmt'
 import FieldDetail from './FieldDetail'
 
@@ -7,14 +8,48 @@ export default function Defter() {
   const [fields, setFields] = useState(loadFields())
   const [selectedId, setSelectedId] = useState(null)
   const [adding, setAdding] = useState(false)
+  const [catalog, setCatalog] = useState({ inputs: [], commodities: [] })
+
+  // güncel girdi/ürün fiyatları -> kayıt eklerken otomatik maliyet/gelir
+  useEffect(() => {
+    fetchMarket()
+      .then((m) => setCatalog({ inputs: m.inputs || [], commodities: m.commodities || [] }))
+      .catch(() => {})
+  }, [])
 
   const reload = () => setFields(loadFields())
+  const fileRef = useRef(null)
+
+  const handleExport = () => {
+    const blob = new Blob([exportData()], { type: 'application/json' })
+    const url = URL.createObjectURL(blob)
+    const a = document.createElement('a')
+    a.href = url
+    a.download = `tarla-defteri-${new Date().toISOString().slice(0, 10)}.json`
+    a.click()
+    URL.revokeObjectURL(url)
+  }
+
+  const handleImport = async (e) => {
+    const file = e.target.files?.[0]
+    if (!file) return
+    try {
+      const res = importData(await file.text(), { merge: true })
+      reload()
+      alert(`İçe aktarıldı: ${res.fields} tarla, ${res.records} kayıt birleştirildi.`)
+    } catch (err) {
+      alert('Hata: ' + err.message)
+    }
+    e.target.value = ''
+  }
+
   const selected = fields.find((f) => f.id === selectedId)
 
   if (selected) {
     return (
       <FieldDetail
         field={selected}
+        catalog={catalog}
         onBack={() => {
           setSelectedId(null)
           reload()
@@ -80,6 +115,29 @@ export default function Defter() {
           })}
         </div>
       )}
+
+      {/* yedek */}
+      <div className="mt-6 border-t border-stone-200 pt-4">
+        <p className="mb-2 text-[11px] text-stone-400">
+          Veriler bu cihazda saklanır. Telefon değişmeden önce yedek al.
+        </p>
+        <div className="flex gap-2">
+          <button
+            onClick={handleExport}
+            disabled={fields.length === 0}
+            className="flex-1 rounded-xl bg-stone-100 py-2.5 text-sm font-medium text-stone-600 disabled:opacity-40"
+          >
+            ⬇️ Yedek al
+          </button>
+          <button
+            onClick={() => fileRef.current?.click()}
+            className="flex-1 rounded-xl bg-stone-100 py-2.5 text-sm font-medium text-stone-600"
+          >
+            ⬆️ Geri yükle
+          </button>
+        </div>
+        <input ref={fileRef} type="file" accept="application/json,.json" onChange={handleImport} className="hidden" />
+      </div>
     </div>
   )
 }

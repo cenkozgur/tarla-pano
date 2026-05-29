@@ -83,6 +83,33 @@ export function deleteRecord(id) {
   write(RECORDS_KEY, loadRecords().filter((r) => r.id !== id))
 }
 
+// ---- yedek (içe/dışa aktar) ----
+export function exportData() {
+  return JSON.stringify(
+    { app: 'tarla-pano', version: 1, exportedAt: new Date().toISOString(), fields: loadFields(), records: loadRecords() },
+    null,
+    2,
+  )
+}
+
+// merge=true: aynı id'leri atlayıp birleştirir; false: tümünü değiştirir
+export function importData(json, { merge = true } = {}) {
+  const data = typeof json === 'string' ? JSON.parse(json) : json
+  if (!Array.isArray(data?.fields) || !Array.isArray(data?.records)) {
+    throw new Error('Geçersiz yedek dosyası')
+  }
+  if (merge) {
+    const fIds = new Set(loadFields().map((f) => f.id))
+    const rIds = new Set(loadRecords().map((r) => r.id))
+    write(FIELDS_KEY, [...loadFields(), ...data.fields.filter((f) => !fIds.has(f.id))])
+    write(RECORDS_KEY, [...loadRecords(), ...data.records.filter((r) => !rIds.has(r.id))])
+  } else {
+    write(FIELDS_KEY, data.fields)
+    write(RECORDS_KEY, data.records)
+  }
+  return { fields: data.fields.length, records: data.records.length }
+}
+
 // ---- özet ----
 export function fieldSummary(field) {
   const recs = recordsOf(field.id)
