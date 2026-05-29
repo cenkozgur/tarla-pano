@@ -53,7 +53,7 @@ function Pano() {
   const [syncedAt, setSyncedAt] = useState(null)
   const lastLoad = useRef(0)
 
-  const load = useCallback(async () => {
+  const load = useCallback(async (fresh = false) => {
     setSyncing(true)
     setErr(null)
     try {
@@ -68,7 +68,7 @@ function Pano() {
       setErr(e.message)
     }
     try {
-      setMarket(await fetchMarket())
+      setMarket(await fetchMarket({ fresh }))
     } catch (e) {
       setErr((p) => p || e.message)
     }
@@ -110,7 +110,7 @@ function Pano() {
           </p>
         </div>
         <button
-          onClick={load}
+          onClick={() => load(true)}
           disabled={syncing}
           className="rounded-full bg-white p-2 text-lg shadow-sm ring-1 ring-black/5 active:scale-95 disabled:opacity-50"
           aria-label="Yenile"

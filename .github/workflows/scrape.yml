@@ -4,7 +4,10 @@ name: scrape
 # App veriyi raw.githubusercontent'ten çektiği için Pages rebuild gerekmez.
 on:
   schedule:
-    - cron: '*/30 * * * *' # her 30 dk (UTC)
+    # Saat başı tıkanıklığından kaçınmak için dakika :00 yerine ofset + fazla zamanlama.
+    # GH scheduler best-effort; bazı slotları düşürse bile boşluk küçük kalır.
+    # CDN 5 dk cache'lediği için 15 dk'dan sık anlamsız.
+    - cron: '5,20,35,50 * * * *'
   workflow_dispatch:
 
 permissions:
