@@ -1,26 +1,26 @@
 {
-  "updatedAt": "2026-05-29T19:44:34.561Z",
+  "updatedAt": "2026-05-29T20:36:25.077Z",
   "fx": [
     {
       "code": "USD",
       "name": "Dolar",
-      "buy": 45.88,
+      "buy": 45.89,
       "sell": 45.9,
       "change": 0.04
     },
     {
       "code": "EUR",
       "name": "Euro",
-      "buy": 53.57,
-      "sell": 53.61,
-      "change": 0.28
+      "buy": 53.53,
+      "sell": 53.59,
+      "change": 0.22
     },
     {
       "code": "GRA",
       "name": "Gram Altın",
-      "buy": 6717,
-      "sell": 6718.09,
-      "change": 1.31
+      "buy": 6703.08,
+      "sell": 6704.19,
+      "change": 1.1
     },
     {
       "code": "CEYREKALTIN",
@@ -138,7 +138,7 @@
       "name": "Üre Gübre",
       "unit": "₺/kg",
       "price": 33.9,
-      "change": 101.79,
+      "change": 0,
       "source": "Tarım Kredi",
       "date": "2026-04"
     },
@@ -147,7 +147,7 @@
       "name": "DAP Gübre",
       "unit": "₺/kg",
       "price": 41.9,
-      "change": 71.02,
+      "change": 0,
       "source": "Tarım Kredi",
       "date": "2026-04"
     },
@@ -156,7 +156,7 @@
       "name": "Amonyum Sülfat",
       "unit": "₺/kg",
       "price": 20.3,
-      "change": 81.25,
+      "change": 0,
       "source": "Tarım Kredi",
       "date": "2026-04"
     }
