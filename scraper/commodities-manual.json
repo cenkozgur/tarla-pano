@@ -9,7 +9,7 @@
     ],
     "defaultBorsa": "5ED10",
     "dieselCities": ["ANKARA", "ISTANBUL", "IZMIR", "KONYA", "ADANA", "BURSA", "ANTALYA", "SAMSUN", "TEKIRDAG", "CANAKKALE"],
-    "defaultCity": "ANKARA"
+    "defaultCity": "CANAKKALE"
   },
   "commodities": [
     { "key": "bugday", "name": "Buğday (ekmeklik)", "unit": "₺/kg", "price": 14.97, "change": 0, "source": "Edirne TB" },

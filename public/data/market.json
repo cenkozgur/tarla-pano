@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-05-29T21:46:36.559Z",
+  "updatedAt": "2026-05-29T21:49:03.537Z",
   "fx": [
     {
       "code": "USD",
@@ -245,9 +245,9 @@
       "key": "motorin",
       "name": "Motorin (mazot)",
       "unit": "₺/lt",
-      "price": 68.15,
-      "change": 0,
-      "source": "ANKARA ort."
+      "price": 68.78,
+      "change": 0.92,
+      "source": "CANAKKALE ort."
     },
     {
       "key": "ure",
@@ -278,6 +278,6 @@
     }
   ],
   "defaultBorsa": "5ED10",
-  "defaultCity": "ANKARA",
+  "defaultCity": "CANAKKALE",
   "note": "Borsa: TOBB (seçilebilir) · mazot: EPDK bayi ort. (seçilebilir) · gübre/kanola manuel."
 }
