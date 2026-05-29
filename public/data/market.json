@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-05-29T21:49:03.537Z",
+  "updatedAt": "2026-05-29T22:00:15.612Z",
   "fx": [
     {
       "code": "USD",
@@ -122,9 +122,9 @@
           "key": "kanola",
           "name": "Kanola",
           "unit": "₺/kg",
-          "price": 19.7,
-          "change": 0,
-          "source": "Manuel"
+          "price": 23,
+          "change": 16.75,
+          "source": "Trakya 2025 sezonu"
         }
       ]
     },
@@ -153,9 +153,9 @@
           "key": "kanola",
           "name": "Kanola",
           "unit": "₺/kg",
-          "price": 19.7,
-          "change": 0,
-          "source": "Manuel"
+          "price": 23,
+          "change": 16.75,
+          "source": "Trakya 2025 sezonu"
         }
       ]
     },
@@ -184,9 +184,9 @@
           "key": "kanola",
           "name": "Kanola",
           "unit": "₺/kg",
-          "price": 19.7,
-          "change": 0,
-          "source": "Manuel"
+          "price": 23,
+          "change": 16.75,
+          "source": "Trakya 2025 sezonu"
         }
       ]
     }
@@ -223,9 +223,9 @@
       "key": "kanola",
       "name": "Kanola",
       "unit": "₺/kg",
-      "price": 19.7,
-      "change": 0,
-      "source": "Manuel"
+      "price": 23,
+      "change": 16.75,
+      "source": "Trakya 2025 sezonu"
     }
   ],
   "dieselByCity": {
@@ -246,7 +246,7 @@
       "name": "Motorin (mazot)",
       "unit": "₺/lt",
       "price": 68.78,
-      "change": 0.92,
+      "change": 0,
       "source": "CANAKKALE ort."
     },
     {

@@ -204,7 +204,7 @@ async function main() {
   // ---- ürünler: her borsa için ayrı liste (kanola her zaman manuel) ----
   const borsaItems = (found) => {
     const items = Object.values(found)
-    if (!found.kanola && manualByKey.kanola) items.push({ ...manualByKey.kanola, source: 'Manuel' })
+    if (!found.kanola && manualByKey.kanola) items.push({ ...manualByKey.kanola })
     return items
   }
   const byBorsa = {}

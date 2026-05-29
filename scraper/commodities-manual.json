@@ -15,7 +15,7 @@
     { "key": "bugday", "name": "Buğday (ekmeklik)", "unit": "₺/kg", "price": 14.97, "change": 0, "source": "Edirne TB" },
     { "key": "arpa", "name": "Arpa", "unit": "₺/kg", "price": 13.13, "change": 0, "source": "Edirne TB" },
     { "key": "aycicegi", "name": "Ayçiçeği (yağlık)", "unit": "₺/kg", "price": 32.25, "change": 0, "source": "Edirne TB" },
-    { "key": "kanola", "name": "Kanola", "unit": "₺/kg", "price": 19.7, "change": 0, "source": "Manuel" }
+    { "key": "kanola", "name": "Kanola", "unit": "₺/kg", "price": 23.0, "change": 0, "source": "Trakya 2025 sezonu" }
   ],
   "inputs": [
     { "key": "motorin", "name": "Motorin (mazot)", "unit": "₺/lt", "price": 68.14, "change": 0, "source": "Ankara ort." },
