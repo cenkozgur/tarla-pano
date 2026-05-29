@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-05-29T22:00:15.612Z",
+  "updatedAt": "2026-05-29T22:39:15.806Z",
   "fx": [
     {
       "code": "USD",
@@ -123,7 +123,7 @@
           "name": "Kanola",
           "unit": "₺/kg",
           "price": 23,
-          "change": 16.75,
+          "change": 0,
           "source": "Trakya 2025 sezonu"
         }
       ]
@@ -154,7 +154,7 @@
           "name": "Kanola",
           "unit": "₺/kg",
           "price": 23,
-          "change": 16.75,
+          "change": 0,
           "source": "Trakya 2025 sezonu"
         }
       ]
@@ -185,7 +185,7 @@
           "name": "Kanola",
           "unit": "₺/kg",
           "price": 23,
-          "change": 16.75,
+          "change": 0,
           "source": "Trakya 2025 sezonu"
         }
       ]
@@ -224,7 +224,7 @@
       "name": "Kanola",
       "unit": "₺/kg",
       "price": 23,
-      "change": 16.75,
+      "change": 0,
       "source": "Trakya 2025 sezonu"
     }
   ],
