@@ -1,26 +1,26 @@
 {
-  "updatedAt": "2026-05-29T18:40:58.475Z",
+  "updatedAt": "2026-05-29T19:44:34.561Z",
   "fx": [
     {
       "code": "USD",
       "name": "Dolar",
-      "buy": 45.89,
+      "buy": 45.88,
       "sell": 45.9,
-      "change": 0.05
+      "change": 0.04
     },
     {
       "code": "EUR",
       "name": "Euro",
-      "buy": 53.58,
+      "buy": 53.57,
       "sell": 53.61,
       "change": 0.28
     },
     {
       "code": "GRA",
       "name": "Gram Altın",
-      "buy": 6729.34,
-      "sell": 6730.2,
-      "change": 1.49
+      "buy": 6717,
+      "sell": 6718.09,
+      "change": 1.31
     },
     {
       "code": "CEYREKALTIN",
@@ -137,25 +137,28 @@
       "key": "ure",
       "name": "Üre Gübre",
       "unit": "₺/kg",
-      "price": 16.8,
-      "change": 0,
-      "source": "Manuel"
+      "price": 33.9,
+      "change": 101.79,
+      "source": "Tarım Kredi",
+      "date": "2026-04"
     },
     {
       "key": "dap",
       "name": "DAP Gübre",
       "unit": "₺/kg",
-      "price": 24.5,
-      "change": 0,
-      "source": "Manuel"
+      "price": 41.9,
+      "change": 71.02,
+      "source": "Tarım Kredi",
+      "date": "2026-04"
     },
     {
       "key": "as",
       "name": "Amonyum Sülfat",
       "unit": "₺/kg",
-      "price": 11.2,
-      "change": 0,
-      "source": "Manuel"
+      "price": 20.3,
+      "change": 81.25,
+      "source": "Tarım Kredi",
+      "date": "2026-04"
     }
   ],
   "note": "Borsa: TOBB Edirne TB · mazot: EPDK bayi ort. · gübre/kanola manuel."

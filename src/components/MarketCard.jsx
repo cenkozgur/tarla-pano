@@ -62,7 +62,12 @@ export function InputsCard({ inputs }) {
           <div key={x.key} className="flex items-center justify-between">
             <div>
               <div className="text-sm font-medium text-stone-700">{x.name}</div>
-              {x.source && <div className="text-[10px] text-stone-400">{x.source}</div>}
+              {x.source && (
+                <div className="text-[10px] text-stone-400">
+                  {x.source}
+                  {x.date ? ` · ${x.date}` : ''}
+                </div>
+              )}
             </div>
             <div className="text-right">
               <div className="font-semibold text-stone-800">

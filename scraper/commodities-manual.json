@@ -14,8 +14,8 @@
   ],
   "inputs": [
     { "key": "motorin", "name": "Motorin (mazot)", "unit": "₺/lt", "price": 68.14, "change": 0, "source": "Ankara ort." },
-    { "key": "ure", "name": "Üre Gübre", "unit": "₺/kg", "price": 16.8, "change": 0, "source": "Manuel" },
-    { "key": "dap", "name": "DAP Gübre", "unit": "₺/kg", "price": 24.5, "change": 0, "source": "Manuel" },
-    { "key": "as", "name": "Amonyum Sülfat", "unit": "₺/kg", "price": 11.2, "change": 0, "source": "Manuel" }
+    { "key": "ure", "name": "Üre Gübre", "unit": "₺/kg", "price": 33.9, "change": 0, "source": "Tarım Kredi", "date": "2026-04" },
+    { "key": "dap", "name": "DAP Gübre", "unit": "₺/kg", "price": 41.9, "change": 0, "source": "Tarım Kredi", "date": "2026-04" },
+    { "key": "as", "name": "Amonyum Sülfat", "unit": "₺/kg", "price": 20.3, "change": 0, "source": "Tarım Kredi", "date": "2026-04" }
   ]
 }
