@@ -108,17 +108,29 @@ async function getBorsa(borsaKod, borsaAdi) {
   })
   if (!r.ok) throw new Error(`tobb ${r.status}`)
   const html = await r.text()
+  // başlık kolonlarını bul -> kolon sırası borsadan borsaya değişebilir
+  const headers = [...html.matchAll(/<th[^>]*>([\s\S]*?)<\/th>/g)].map((m) => decode(stripTags(m[1])))
+  const colIdx = (re, fallback) => {
+    const i = headers.findIndex((h) => re.test(h))
+    return i >= 0 ? i : fallback
+  }
+  const NAME = colIdx(/Ürün/i, 0)
+  const AVG = colIdx(/Ortalama/i, 5)
+  const DATE = colIdx(/Tarih/i, 2)
+
   const rows = [...html.matchAll(/<tr[^>]*>([\s\S]*?)<\/tr>/g)].map((m) =>
     [...m[1].matchAll(/<td[^>]*>([\s\S]*?)<\/td>/g)].map((t) => decode(stripTags(t[1]))),
   )
-  const find = (re) => rows.find((tds) => tds.length >= 6 && re.test(tds[0]))
+  const find = (re) => rows.find((tds) => tds.length > AVG && re.test(tds[NAME] || ''))
   const out = {}
   for (const t of BORSA_TARGETS) {
     const row = find(t.match) || (t.alt && find(t.alt))
     if (!row) continue
-    const price = trNum(row[5]) // Ortalama (TL)
-    if (price == null) continue
-    const date = (row[2] || '').slice(0, 10).split('.').reverse().join('-') // dd.mm.yyyy -> yyyy-mm-dd
+    let price = trNum(row[AVG]) // Ortalama (TL)
+    if (price == null || price <= 0) continue
+    // bazı borsalar TL/ton raporluyor (örn. Eskişehir). Tahıl kg fiyatı >200₺ olmaz -> ton kabul et
+    if (price > 200) price = round2(price / 1000)
+    const date = (row[DATE] || '').slice(0, 10).split('.').reverse().join('-') // dd.mm.yyyy -> yyyy-mm-dd
     out[t.key] = { key: t.key, name: t.name, unit: '₺/kg', price, change: 0, source: borsaAdi, date }
   }
   return out
@@ -169,11 +181,17 @@ async function main() {
   const manual = await getManual()
   const cfg = manual.config || {}
 
-  const [fx, news, borsa, diesel] = await Promise.allSettled([
+  const borsalar = cfg.borsalar?.length ? cfg.borsalar : [{ kod: '5ED10', ad: 'Edirne TB' }]
+  const cities = cfg.dieselCities?.length ? cfg.dieselCities : ['ANKARA']
+  const defaultBorsa = cfg.defaultBorsa || borsalar[0].kod
+  const defaultCity = cfg.defaultCity || cities[0]
+  const manualByKey = Object.fromEntries(manual.commodities.map((m) => [m.key, m]))
+
+  const [fx, news, borsaResults, dieselResults] = await Promise.allSettled([
     getFx(),
     getNews(),
-    getBorsa(cfg.borsaKod || '5ED10', cfg.borsaAdi || 'Edirne TB'),
-    getDiesel(cfg.dieselCity || 'ANKARA'),
+    Promise.allSettled(borsalar.map((b) => getBorsa(b.kod, b.ad))),
+    Promise.allSettled(cities.map((c) => getDiesel(c))),
   ])
 
   // kaynak patlarsa önceki değeri koru -> alan asla kaybolmaz, app çökmez
@@ -183,28 +201,49 @@ async function main() {
   if (news.status === 'fulfilled') out.news = news.value
   else { errors.push(`news: ${news.reason.message}`); if (prev?.news) out.news = prev.news }
 
-  // ürünler: borsadan geleni kullan, gelmeyeni manuel fallback
-  const borsaData = borsa.status === 'fulfilled' ? borsa.value : {}
-  if (borsa.status !== 'fulfilled') errors.push(`borsa: ${borsa.reason.message}`)
-  const commodities = manual.commodities.map((m) => borsaData[m.key] || { ...m, source: m.source + ' (fallback)' })
-
-  // girdiler: motorin'i otomatik, gerisi manuel
-  const inputs = manual.inputs.map((m) => {
-    if (m.key === 'motorin' && diesel.status === 'fulfilled') {
-      return { ...m, price: diesel.value, source: `${cfg.dieselCity || 'ANKARA'} ort.` }
+  // ---- ürünler: her borsa için ayrı liste (kanola her zaman manuel) ----
+  const borsaItems = (found) => {
+    const items = Object.values(found)
+    if (!found.kanola && manualByKey.kanola) items.push({ ...manualByKey.kanola, source: 'Manuel' })
+    return items
+  }
+  const byBorsa = {}
+  ;(borsaResults.value || []).forEach((res, i) => {
+    const b = borsalar[i]
+    if (res.status === 'fulfilled') {
+      byBorsa[b.kod] = { ad: b.ad, items: withChange(borsaItems(res.value), prev?.commoditiesByBorsa?.[b.kod]?.items) }
+    } else {
+      errors.push(`borsa ${b.kod}: ${res.reason.message}`)
+      if (prev?.commoditiesByBorsa?.[b.kod]) byBorsa[b.kod] = prev.commoditiesByBorsa[b.kod] // eskiyi koru
     }
-    return m
   })
-  if (diesel.status !== 'fulfilled') errors.push(`diesel: ${diesel.reason.message}`)
+  out.commoditiesByBorsa = byBorsa
+  // varsayılan borsa düz commodities olarak (eski şema / seçim desteklemeyenler için)
+  out.commodities = byBorsa[defaultBorsa]?.items || manual.commodities
 
-  out.commodities = withChange(commodities, prev?.commodities)
+  // ---- mazot: her şehir için ayrı fiyat ----
+  const byCity = {}
+  ;(dieselResults.value || []).forEach((res, i) => {
+    if (res.status === 'fulfilled') byCity[cities[i]] = res.value
+    else { errors.push(`mazot ${cities[i]}: ${res.reason.message}`); if (prev?.dieselByCity?.[cities[i]]) byCity[cities[i]] = prev.dieselByCity[cities[i]] }
+  })
+  out.dieselByCity = byCity
+  // girdiler: motorin varsayılan şehirden, gübreler manuel
+  const inputs = manual.inputs.map((m) =>
+    m.key === 'motorin' && byCity[defaultCity] != null
+      ? { ...m, price: byCity[defaultCity], source: `${defaultCity} ort.` }
+      : m,
+  )
   out.inputs = withChange(inputs, prev?.inputs)
-  out.note = `Borsa: TOBB ${cfg.borsaAdi || ''} · mazot: EPDK bayi ort. · gübre/kanola manuel.`
+
+  out.defaultBorsa = defaultBorsa
+  out.defaultCity = defaultCity
+  out.note = `Borsa: TOBB (seçilebilir) · mazot: EPDK bayi ort. (seçilebilir) · gübre/kanola manuel.`
   if (errors.length) out.errors = errors
 
   await writeFile(OUT, JSON.stringify(out, null, 2) + '\n')
   console.log(
-    `✓ market.json — fx:${out.fx?.length ?? 0} haber:${out.news?.length ?? 0} ürün:${out.commodities.length} girdi:${out.inputs.length}`,
+    `✓ market.json — fx:${out.fx?.length ?? 0} haber:${out.news?.length ?? 0} borsa:${Object.keys(byBorsa).length} şehir:${Object.keys(byCity).length}`,
   )
   if (errors.length) console.warn('⚠️', errors.join(' | '))
 }

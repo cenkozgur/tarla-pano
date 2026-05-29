@@ -28,9 +28,35 @@ export function FxCard({ fx }) {
   )
 }
 
-export function PricesCard({ commodities, note }) {
+function Picker({ value, onChange, options }) {
   return (
-    <Card title="Ürün Fiyatları" icon="🌾">
+    <select
+      value={value}
+      onChange={(e) => onChange(e.target.value)}
+      className="rounded-lg bg-stone-100 px-2 py-1 text-xs font-medium text-stone-600"
+    >
+      {options.map((o) => (
+        <option key={o.value} value={o.value}>
+          {o.label}
+        </option>
+      ))}
+    </select>
+  )
+}
+
+export function PricesCard({ byBorsa, fallback, selected, onSelect, note }) {
+  const hasSel = byBorsa && Object.keys(byBorsa).length > 0
+  const commodities = (hasSel && byBorsa[selected]?.items) || fallback || []
+  if (!commodities.length) return null
+  const action = hasSel ? (
+    <Picker
+      value={selected}
+      onChange={onSelect}
+      options={Object.entries(byBorsa).map(([k, v]) => ({ value: k, label: v.ad }))}
+    />
+  ) : null
+  return (
+    <Card title="Ürün Fiyatları" icon="🌾" action={action}>
       <div className="space-y-2">
         {commodities.map((x) => (
           <div key={x.key} className="flex items-center justify-between">
@@ -54,11 +80,24 @@ export function PricesCard({ commodities, note }) {
   )
 }
 
-export function InputsCard({ inputs }) {
+export function InputsCard({ inputs, byCity, selectedCity, onSelectCity }) {
+  const hasCity = byCity && Object.keys(byCity).length > 0
+  const items = inputs.map((x) =>
+    x.key === 'motorin' && hasCity && byCity[selectedCity] != null
+      ? { ...x, price: byCity[selectedCity], source: `${selectedCity} ort.` }
+      : x,
+  )
+  const action = hasCity ? (
+    <Picker
+      value={selectedCity}
+      onChange={onSelectCity}
+      options={Object.keys(byCity).map((c) => ({ value: c, label: c }))}
+    />
+  ) : null
   return (
-    <Card title="Girdi Maliyetleri" icon="⛽">
+    <Card title="Girdi Maliyetleri" icon="⛽" action={action}>
       <div className="space-y-2">
-        {inputs.map((x) => (
+        {items.map((x) => (
           <div key={x.key} className="flex items-center justify-between">
             <div>
               <div className="text-sm font-medium text-stone-700">{x.name}</div>

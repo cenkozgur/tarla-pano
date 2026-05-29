@@ -1,26 +1,26 @@
 {
-  "updatedAt": "2026-05-29T20:36:25.077Z",
+  "updatedAt": "2026-05-29T21:13:37.181Z",
   "fx": [
     {
       "code": "USD",
       "name": "Dolar",
-      "buy": 45.89,
-      "sell": 45.9,
-      "change": 0.04
+      "buy": 45.73,
+      "sell": 45.92,
+      "change": -0.1
     },
     {
       "code": "EUR",
       "name": "Euro",
-      "buy": 53.53,
-      "sell": 53.59,
-      "change": 0.22
+      "buy": 53.38,
+      "sell": 53.57,
+      "change": 0.07
     },
     {
       "code": "GRA",
       "name": "Gram Altın",
-      "buy": 6703.08,
-      "sell": 6704.19,
-      "change": 1.1
+      "buy": 6686.84,
+      "sell": 6687.67,
+      "change": 0.85
     },
     {
       "code": "CEYREKALTIN",
@@ -87,6 +87,110 @@
       "date": "2026-05-27"
     }
   ],
+  "commoditiesByBorsa": {
+    "5ED10": {
+      "ad": "Edirne TB",
+      "items": [
+        {
+          "key": "bugday",
+          "name": "Buğday (ekmeklik)",
+          "unit": "₺/kg",
+          "price": 14.97,
+          "change": 0,
+          "source": "Edirne TB",
+          "date": "2026-05-11"
+        },
+        {
+          "key": "arpa",
+          "name": "Arpa",
+          "unit": "₺/kg",
+          "price": 13.13,
+          "change": 0,
+          "source": "Edirne TB",
+          "date": "2026-03-30"
+        },
+        {
+          "key": "aycicegi",
+          "name": "Ayçiçeği (yağlık)",
+          "unit": "₺/kg",
+          "price": 32.25,
+          "change": 0,
+          "source": "Edirne TB",
+          "date": "2026-05-18"
+        },
+        {
+          "key": "kanola",
+          "name": "Kanola",
+          "unit": "₺/kg",
+          "price": 19.7,
+          "change": 0,
+          "source": "Manuel"
+        }
+      ]
+    },
+    "5KO10": {
+      "ad": "Konya TB",
+      "items": [
+        {
+          "key": "bugday",
+          "name": "Buğday (ekmeklik)",
+          "unit": "₺/kg",
+          "price": 16.51,
+          "change": 0,
+          "source": "Konya TB",
+          "date": "2026-05-14"
+        },
+        {
+          "key": "arpa",
+          "name": "Arpa",
+          "unit": "₺/kg",
+          "price": 15.07,
+          "change": 0,
+          "source": "Konya TB",
+          "date": "2026-04-30"
+        },
+        {
+          "key": "kanola",
+          "name": "Kanola",
+          "unit": "₺/kg",
+          "price": 19.7,
+          "change": 0,
+          "source": "Manuel"
+        }
+      ]
+    },
+    "5ES10": {
+      "ad": "Eskişehir TB",
+      "items": [
+        {
+          "key": "bugday",
+          "name": "Buğday (ekmeklik)",
+          "unit": "₺/kg",
+          "price": 14,
+          "change": -99.9,
+          "source": "Eskişehir TB",
+          "date": "2026-03-24"
+        },
+        {
+          "key": "arpa",
+          "name": "Arpa",
+          "unit": "₺/kg",
+          "price": 15.21,
+          "change": -99.9,
+          "source": "Eskişehir TB",
+          "date": "2026-05-06"
+        },
+        {
+          "key": "kanola",
+          "name": "Kanola",
+          "unit": "₺/kg",
+          "price": 19.7,
+          "change": 0,
+          "source": "Manuel"
+        }
+      ]
+    }
+  },
   "commodities": [
     {
       "key": "bugday",
@@ -121,9 +225,19 @@
       "unit": "₺/kg",
       "price": 19.7,
       "change": 0,
-      "source": "Manuel (fallback)"
+      "source": "Manuel"
     }
   ],
+  "dieselByCity": {
+    "ANKARA": 68.15,
+    "ISTANBUL": 66.98,
+    "IZMIR": 68.42,
+    "KONYA": 69.31,
+    "ADANA": 68.98,
+    "BURSA": 68.03,
+    "ANTALYA": 69.47,
+    "SAMSUN": 68.72
+  },
   "inputs": [
     {
       "key": "motorin",
@@ -161,5 +275,7 @@
       "date": "2026-04"
     }
   ],
-  "note": "Borsa: TOBB Edirne TB · mazot: EPDK bayi ort. · gübre/kanola manuel."
+  "defaultBorsa": "5ED10",
+  "defaultCity": "ANKARA",
+  "note": "Borsa: TOBB (seçilebilir) · mazot: EPDK bayi ort. (seçilebilir) · gübre/kanola manuel."
 }

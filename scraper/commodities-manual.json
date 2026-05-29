@@ -2,9 +2,14 @@
   "_comment": "config + fallback. Borsa (TOBB) ve mazot (hasanadiguzel) otomatik çekilir; çekilemezse buradaki değer kullanılır. Kanola ve gübreler tamamen manuel.",
   "updatedAt": "2026-05-29",
   "config": {
-    "dieselCity": "ANKARA",
-    "borsaKod": "5ED10",
-    "borsaAdi": "Edirne TB"
+    "borsalar": [
+      { "kod": "5ED10", "ad": "Edirne TB" },
+      { "kod": "5KO10", "ad": "Konya TB" },
+      { "kod": "5ES10", "ad": "Eskişehir TB" }
+    ],
+    "defaultBorsa": "5ED10",
+    "dieselCities": ["ANKARA", "ISTANBUL", "IZMIR", "KONYA", "ADANA", "BURSA", "ANTALYA", "SAMSUN"],
+    "defaultCity": "ANKARA"
   },
   "commodities": [
     { "key": "bugday", "name": "Buğday (ekmeklik)", "unit": "₺/kg", "price": 14.97, "change": 0, "source": "Edirne TB" },

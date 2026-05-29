@@ -52,7 +52,12 @@ function Pano() {
   const [err, setErr] = useState(null)
   const [syncing, setSyncing] = useState(false)
   const [syncedAt, setSyncedAt] = useState(null)
+  const [borsa, setBorsaState] = useState(() => localStorage.getItem('tarla.borsa') || '')
+  const [city, setCityState] = useState(() => localStorage.getItem('tarla.city') || '')
   const lastLoad = useRef(0)
+
+  const chooseBorsa = (k) => { setBorsaState(k); localStorage.setItem('tarla.borsa', k) }
+  const chooseCity = (c) => { setCityState(c); localStorage.setItem('tarla.city', c) }
 
   const load = useCallback(async (fresh = false) => {
     setSyncing(true)
@@ -101,6 +106,13 @@ function Pano() {
     if (frost) maybeNotifyFrost(frost)
   }, [frost])
 
+  // seçim boşsa market'in varsayılanına ayarla
+  useEffect(() => {
+    if (!market) return
+    if (!borsa && market.defaultBorsa) chooseBorsa(market.defaultBorsa)
+    if (!city && market.defaultCity) chooseCity(market.defaultCity)
+  }, [market]) // eslint-disable-line react-hooks/exhaustive-deps
+
   return (
     <>
       <header className="flex items-center justify-between py-4">
@@ -139,10 +151,21 @@ function Pano() {
         {market ? (
           <>
             {market.fx?.length > 0 && <FxCard fx={market.fx} />}
-            {market.commodities?.length > 0 && (
-              <PricesCard commodities={market.commodities} note={market.note} />
+            <PricesCard
+              byBorsa={market.commoditiesByBorsa}
+              fallback={market.commodities}
+              selected={borsa || market.defaultBorsa}
+              onSelect={chooseBorsa}
+              note={market.note}
+            />
+            {market.inputs?.length > 0 && (
+              <InputsCard
+                inputs={market.inputs}
+                byCity={market.dieselByCity}
+                selectedCity={city || market.defaultCity}
+                onSelectCity={chooseCity}
+              />
             )}
-            {market.inputs?.length > 0 && <InputsCard inputs={market.inputs} />}
             {market.news?.length > 0 && <NewsCard news={market.news} />}
           </>
         ) : (
