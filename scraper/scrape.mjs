@@ -49,14 +49,36 @@ const decode = (s) =>
     .replace(/&quot;/g, '"').replace(/&#39;/g, "'").replace(/&rsquo;/g, '’')
 
 // ---- kaynaklar -----------------------------------------------------------
+// truncgil bazen bozuk JSON döner -> parse patlarsa ihtiyacımız olan
+// alanları ham metinden regex ile çıkar (payload'ın gerisindeki hatadan etkilenmez)
+function extractFxKey(text, key) {
+  const m = text.match(new RegExp(`"${key}"\\s*:\\s*\\{([^}]*)\\}`))
+  if (!m) return null
+  const field = (f) => {
+    const mm = m[1].match(new RegExp(`"${f}"\\s*:\\s*"?([-0-9.,]+)"?`))
+    return mm ? trNum(mm[1]) : null
+  }
+  const buy = field('Buying'), sell = field('Selling')
+  if (buy == null && sell == null) return null
+  return { Buying: buy, Selling: sell, Change: field('Change') ?? 0 }
+}
+
 async function getFx() {
-  const r = await fetch(TRUNCGIL)
+  const r = await fetch(TRUNCGIL, { headers: { 'User-Agent': UA } })
   if (!r.ok) throw new Error(`truncgil ${r.status}`)
-  const d = await r.json()
-  return FX_MAP.map(([code, name]) => {
-    const x = d[code]
+  const text = await r.text()
+  let d
+  try {
+    d = JSON.parse(text)
+  } catch {
+    d = null // bozuk JSON -> regex fallback'e düş
+  }
+  const rows = FX_MAP.map(([code, name]) => {
+    const x = (d && d[code]) || extractFxKey(text, code)
     return x ? { code, name, buy: round2(x.Buying), sell: round2(x.Selling), change: round2(x.Change ?? 0) } : null
   }).filter(Boolean)
+  if (!rows.length) throw new Error('fx alanları çıkarılamadı')
+  return rows
 }
 
 async function getNews(limit = 8) {
@@ -154,11 +176,12 @@ async function main() {
     getDiesel(cfg.dieselCity || 'ANKARA'),
   ])
 
+  // kaynak patlarsa önceki değeri koru -> alan asla kaybolmaz, app çökmez
   if (fx.status === 'fulfilled') out.fx = fx.value
-  else errors.push(`fx: ${fx.reason.message}`)
+  else { errors.push(`fx: ${fx.reason.message}`); if (prev?.fx) out.fx = prev.fx }
 
   if (news.status === 'fulfilled') out.news = news.value
-  else errors.push(`news: ${news.reason.message}`)
+  else { errors.push(`news: ${news.reason.message}`); if (prev?.news) out.news = prev.news }
 
   // ürünler: borsadan geleni kullan, gelmeyeni manuel fallback
   const borsaData = borsa.status === 'fulfilled' ? borsa.value : {}

@@ -1,5 +1,42 @@
 {
-  "updatedAt": "2026-05-29T18:11:21.907Z",
+  "updatedAt": "2026-05-29T18:40:58.475Z",
+  "fx": [
+    {
+      "code": "USD",
+      "name": "Dolar",
+      "buy": 45.89,
+      "sell": 45.9,
+      "change": 0.05
+    },
+    {
+      "code": "EUR",
+      "name": "Euro",
+      "buy": 53.58,
+      "sell": 53.61,
+      "change": 0.28
+    },
+    {
+      "code": "GRA",
+      "name": "Gram Altın",
+      "buy": 6729.34,
+      "sell": 6730.2,
+      "change": 1.49
+    },
+    {
+      "code": "CEYREKALTIN",
+      "name": "Çeyrek Altın",
+      "buy": 10725.86,
+      "sell": 10972.81,
+      "change": 0
+    },
+    {
+      "code": "CUMHURIYETALTINI",
+      "name": "Cumhuriyet Altını",
+      "buy": 44504,
+      "sell": 45176,
+      "change": -0.56
+    }
+  ],
   "news": [
     {
       "title": "Hububatta süne alarımı! Bakanlık teknik ekipleri sahaya indi: O bölgede tüm köyler için ilaçlama kararı verildi",
@@ -121,8 +158,5 @@
       "source": "Manuel"
     }
   ],
-  "note": "Borsa: TOBB Edirne TB · mazot: EPDK bayi ort. · gübre/kanola manuel.",
-  "errors": [
-    "fx: fetch failed"
-  ]
+  "note": "Borsa: TOBB Edirne TB · mazot: EPDK bayi ort. · gübre/kanola manuel."
 }

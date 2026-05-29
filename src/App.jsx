@@ -136,10 +136,12 @@ function Pano() {
 
         {market ? (
           <>
-            <FxCard fx={market.fx} />
-            <PricesCard commodities={market.commodities} note={market.note} />
-            {market.inputs && <InputsCard inputs={market.inputs} />}
-            <NewsCard news={market.news} />
+            {market.fx?.length > 0 && <FxCard fx={market.fx} />}
+            {market.commodities?.length > 0 && (
+              <PricesCard commodities={market.commodities} note={market.note} />
+            )}
+            {market.inputs?.length > 0 && <InputsCard inputs={market.inputs} />}
+            {market.news?.length > 0 && <NewsCard news={market.news} />}
           </>
         ) : (
           !err && <Skeleton label="Piyasa verisi yükleniyor…" />
