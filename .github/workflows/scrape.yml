@@ -1,0 +1,37 @@
+name: scrape
+
+# Piyasa verisini (döviz/altın/haber) düzenli tazeler ve market.json'u commit'ler.
+# App veriyi raw.githubusercontent'ten çektiği için Pages rebuild gerekmez.
+on:
+  schedule:
+    - cron: '*/30 * * * *' # her 30 dk (UTC)
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+concurrency:
+  group: scrape
+  cancel-in-progress: false
+
+jobs:
+  scrape:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-node@v4
+        with:
+          node-version: 20
+      # scraper bağımlılıksız (Node 20 global fetch) -> npm install gerekmez
+      - run: node scraper/scrape.mjs
+      - name: commit & push
+        run: |
+          git config user.name "tarla-bot"
+          git config user.email "actions@users.noreply.github.com"
+          git add public/data/market.json
+          if git diff --staged --quiet; then
+            echo "değişiklik yok, atlanıyor"
+          else
+            git commit -m "chore(data): market.json $(date -u +%FT%TZ)"
+            git push
+          fi

@@ -1,0 +1,26 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="512" height="512" viewBox="0 0 512 512">
+  <rect width="512" height="512" rx="112" fill="#15803d"/>
+  <g stroke="#fde68a" stroke-width="14" stroke-linecap="round" fill="none">
+    <!-- ana sap -->
+    <path d="M256 430 V200"/>
+  </g>
+  <g fill="#fde68a">
+    <!-- başak taneleri: merkez sıra -->
+    <ellipse cx="256" cy="150" rx="20" ry="34"/>
+    <ellipse cx="256" cy="205" rx="20" ry="34"/>
+    <ellipse cx="256" cy="260" rx="20" ry="34"/>
+    <!-- sol taneler -->
+    <ellipse cx="212" cy="178" rx="18" ry="30" transform="rotate(-28 212 178)"/>
+    <ellipse cx="212" cy="233" rx="18" ry="30" transform="rotate(-28 212 233)"/>
+    <ellipse cx="212" cy="288" rx="18" ry="30" transform="rotate(-28 212 288)"/>
+    <!-- sağ taneler -->
+    <ellipse cx="300" cy="178" rx="18" ry="30" transform="rotate(28 300 178)"/>
+    <ellipse cx="300" cy="233" rx="18" ry="30" transform="rotate(28 300 233)"/>
+    <ellipse cx="300" cy="288" rx="18" ry="30" transform="rotate(28 300 288)"/>
+  </g>
+  <!-- yapraklar -->
+  <g stroke="#fde68a" stroke-width="14" stroke-linecap="round" fill="none">
+    <path d="M256 360 q-46 -10 -72 -52"/>
+    <path d="M256 360 q46 -10 72 -52"/>
+  </g>
+</svg>

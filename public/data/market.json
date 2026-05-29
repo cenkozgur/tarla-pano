@@ -1,0 +1,159 @@
+{
+  "updatedAt": "2026-05-29T17:51:42.354Z",
+  "fx": [
+    {
+      "code": "USD",
+      "name": "Dolar",
+      "buy": 45.89,
+      "sell": 45.9,
+      "change": 0.05
+    },
+    {
+      "code": "EUR",
+      "name": "Euro",
+      "buy": 53.57,
+      "sell": 53.6,
+      "change": 0.26
+    },
+    {
+      "code": "GRA",
+      "name": "Gram Altın",
+      "buy": 6722.72,
+      "sell": 6723.68,
+      "change": 1.39
+    },
+    {
+      "code": "CEYREKALTIN",
+      "name": "Çeyrek Altın",
+      "buy": 10725.86,
+      "sell": 10972.81,
+      "change": 0
+    },
+    {
+      "code": "CUMHURIYETALTINI",
+      "name": "Cumhuriyet Altını",
+      "buy": 44504,
+      "sell": 45176,
+      "change": -0.56
+    }
+  ],
+  "news": [
+    {
+      "title": "Hububatta süne alarımı! Bakanlık teknik ekipleri sahaya indi: O bölgede tüm köyler için ilaçlama kararı verildi",
+      "url": "https://www.tarimdanhaber.com/hububatta-sune-alarimi-bakanlik-teknik-ekipleri-sahaya-indi-o-bolgede-tum-koyler-icin-ilaclama-karari-verildi",
+      "source": "Tarımdan Haber",
+      "date": "2026-05-29"
+    },
+    {
+      "title": "Çin’in otonom traktörü Honghu T70 tarlalarda: Tarımda insan gücü tarihe mi karışıyor?",
+      "url": "https://www.tarimdanhaber.com/cinin-otonom-traktoru-sosyal-medyada-viral-oldu-tarlalarda-surucusuz-donem-basliyor",
+      "source": "Tarımdan Haber",
+      "date": "2026-05-29"
+    },
+    {
+      "title": "Sığır eti 971 TL, tavuk 420 TL! Amerika'da etin kilogramı kaç TL? İşte o çarpıcı liste",
+      "url": "https://www.tarimdanhaber.com/sigir-eti-971-tl-tavuk-420-tl-amerikada-etin-kilogrami-kac-tl-iste-o-carpici-liste",
+      "source": "Tarımdan Haber",
+      "date": "2026-05-29"
+    },
+    {
+      "title": "Son gün 5 Temmuz! Tarımsal amaçlı örgütler için kritik süreç başlıyor",
+      "url": "https://www.tarimdanhaber.com/son-gun-5-temmuz-tarimsal-amacli-orgutler-icin-kritik-surec-basliyor",
+      "source": "Tarımdan Haber",
+      "date": "2026-05-29"
+    },
+    {
+      "title": "Konya’da tarımsal afet! AB tescilli Hüyük çileğini dolu vurdu: 18 bin ton ürün yok oldu!",
+      "url": "https://www.tarimdanhaber.com/konyada-tarimsal-afet-ab-tescilli-huyuk-cilegini-dolu-vurdu-18-bin-ton-urun-yok-oldu",
+      "source": "Tarımdan Haber",
+      "date": "2026-05-28"
+    },
+    {
+      "title": "Elde kalan kurbanlıklara \"Prim\" ayarı: Bakanlıktan flaş fiyat kararı!",
+      "url": "https://www.tarimdanhaber.com/elde-kalan-kurbanliklara-prim-ayari-bakanliktan-flas-fiyat-karari",
+      "source": "Tarımdan Haber",
+      "date": "2026-05-28"
+    },
+    {
+      "title": "Bitlis Tarım ve Orman İl Müdürü Ramazan Çolak Kimdir? İşte kariyeri ve hayatı",
+      "url": "https://www.tarimdanhaber.com/bitlis-tarim-ve-orman-il-muduru-ramazan-colak-kimdir-iste-kariyeri-ve-hayati",
+      "source": "Tarımdan Haber",
+      "date": "2026-05-28"
+    },
+    {
+      "title": "Eskişehir Ticaret Borsası'nda ay sonu raporu: Hasat öncesi buğday ve arpa fiyatları ne durumda?",
+      "url": "https://www.tarimdanhaber.com/eskisehir-ticaret-borsasinda-ay-sonu-raporu-hasat-oncesi-bugday-ve-arpa-fiyatlari-ne-durumda",
+      "source": "Tarımdan Haber",
+      "date": "2026-05-27"
+    }
+  ],
+  "commodities": [
+    {
+      "key": "bugday",
+      "name": "Buğday (ekmeklik)",
+      "unit": "₺/kg",
+      "price": 11.4,
+      "change": 0.2,
+      "source": "Polatlı TB"
+    },
+    {
+      "key": "arpa",
+      "name": "Arpa",
+      "unit": "₺/kg",
+      "price": 9.8,
+      "change": -0.1,
+      "source": "Konya TB"
+    },
+    {
+      "key": "aycicegi",
+      "name": "Ayçiçeği",
+      "unit": "₺/kg",
+      "price": 22.5,
+      "change": 0.4,
+      "source": "Edirne TB"
+    },
+    {
+      "key": "kanola",
+      "name": "Kanola",
+      "unit": "₺/kg",
+      "price": 19.7,
+      "change": 0,
+      "source": "Tekirdağ TB"
+    }
+  ],
+  "inputs": [
+    {
+      "key": "motorin",
+      "name": "Motorin (mazot)",
+      "unit": "₺/lt",
+      "price": 52.4,
+      "change": 0.3,
+      "source": "Ortalama"
+    },
+    {
+      "key": "ure",
+      "name": "Üre Gübre",
+      "unit": "₺/kg",
+      "price": 16.8,
+      "change": 0,
+      "source": "Bayi ort."
+    },
+    {
+      "key": "dap",
+      "name": "DAP Gübre",
+      "unit": "₺/kg",
+      "price": 24.5,
+      "change": -0.2,
+      "source": "Bayi ort."
+    },
+    {
+      "key": "as",
+      "name": "Amonyum Sülfat",
+      "unit": "₺/kg",
+      "price": 11.2,
+      "change": 0.1,
+      "source": "Bayi ort."
+    }
+  ],
+  "note": "Ürün/girdi fiyatları manuel (2026-05-29); döviz/altın ve haberler canlı."
+}
