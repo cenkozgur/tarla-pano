@@ -8,8 +8,43 @@ import WeatherCard from './components/WeatherCard'
 import AlertsCard from './components/AlertsCard'
 import NotifyCard from './components/NotifyCard'
 import { FxCard, PricesCard, InputsCard, NewsCard } from './components/MarketCard'
+import Defter from './components/Defter'
 
 export default function App() {
+  const [view, setView] = useState('pano')
+  return (
+    <>
+      <div className="mx-auto max-w-md px-4 pb-24">
+        {view === 'pano' ? <Pano /> : <Defter />}
+      </div>
+      <BottomNav view={view} setView={setView} />
+    </>
+  )
+}
+
+function BottomNav({ view, setView }) {
+  const item = (key, icon, label) => (
+    <button
+      onClick={() => setView(key)}
+      className={`flex flex-1 flex-col items-center gap-0.5 py-2 text-[11px] font-medium ${
+        view === key ? 'text-green-700' : 'text-stone-400'
+      }`}
+    >
+      <span className="text-xl">{icon}</span>
+      {label}
+    </button>
+  )
+  return (
+    <nav className="fixed inset-x-0 bottom-0 z-10 border-t border-stone-200 bg-white/95 backdrop-blur pb-[env(safe-area-inset-bottom)]">
+      <div className="mx-auto flex max-w-md">
+        {item('pano', '🌾', 'Pano')}
+        {item('defter', '📒', 'Defter')}
+      </div>
+    </nav>
+  )
+}
+
+function Pano() {
   const [weather, setWeather] = useState(null)
   const [place, setPlace] = useState(null)
   const [market, setMarket] = useState(null)
@@ -42,17 +77,13 @@ export default function App() {
     setSyncing(false)
   }, [])
 
-  // ilk açılış
   useEffect(() => {
     load()
   }, [load])
 
-  // app öne geldiğinde / sekme görünür olunca tazele (60 sn'den eskiyse)
   useEffect(() => {
     const refresh = () => {
-      if (document.visibilityState === 'visible' && Date.now() - lastLoad.current > 60_000) {
-        load()
-      }
+      if (document.visibilityState === 'visible' && Date.now() - lastLoad.current > 60_000) load()
     }
     document.addEventListener('visibilitychange', refresh)
     window.addEventListener('focus', refresh)
@@ -65,13 +96,12 @@ export default function App() {
   const frost = weather ? frostAlert(weather) : null
   const windows = weather ? sprayWindows(weather) : null
 
-  // don tespit edilince (ve kullanıcı açtıysa) günde bir bildirim
   useEffect(() => {
     if (frost) maybeNotifyFrost(frost)
   }, [frost])
 
   return (
-    <div className="mx-auto max-w-md px-4 pb-10">
+    <>
       <header className="flex items-center justify-between py-4">
         <div>
           <h1 className="text-xl font-bold text-green-800">🌾 Tarla Panosu</h1>
@@ -90,9 +120,7 @@ export default function App() {
       </header>
 
       {err && (
-        <div className="mb-3 rounded-xl bg-red-50 p-3 text-sm text-red-700 ring-1 ring-red-200">
-          {err}
-        </div>
+        <div className="mb-3 rounded-xl bg-red-50 p-3 text-sm text-red-700 ring-1 ring-red-200">{err}</div>
       )}
 
       <div className="space-y-4">
@@ -119,9 +147,9 @@ export default function App() {
       </div>
 
       <footer className="pt-6 text-center text-[10px] text-stone-300">
-        Hava: Open-Meteo · Döviz/altın: truncgil · Veriler bilgilendirme amaçlıdır
+        Hava: Open-Meteo · Döviz/altın: truncgil · Borsa: TOBB · Veriler bilgilendirme amaçlıdır
       </footer>
-    </div>
+    </>
   )
 }
 
