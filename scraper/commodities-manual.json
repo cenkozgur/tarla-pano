@@ -1,16 +1,21 @@
 {
-  "_comment": "Borsa ürün fiyatları + girdi maliyetleri — güvenilir public API yok, elle güncellenir. Kaynak: ilgili Ticaret Borsası / akaryakıt bülteni. Değiştirip `npm run scrape` çalıştır.",
+  "_comment": "config + fallback. Borsa (TOBB) ve mazot (hasanadiguzel) otomatik çekilir; çekilemezse buradaki değer kullanılır. Kanola ve gübreler tamamen manuel.",
   "updatedAt": "2026-05-29",
+  "config": {
+    "dieselCity": "ANKARA",
+    "borsaKod": "5ED10",
+    "borsaAdi": "Edirne TB"
+  },
   "commodities": [
-    { "key": "bugday", "name": "Buğday (ekmeklik)", "unit": "₺/kg", "price": 11.4, "change": 0.2, "source": "Polatlı TB" },
-    { "key": "arpa", "name": "Arpa", "unit": "₺/kg", "price": 9.8, "change": -0.1, "source": "Konya TB" },
-    { "key": "aycicegi", "name": "Ayçiçeği", "unit": "₺/kg", "price": 22.5, "change": 0.4, "source": "Edirne TB" },
-    { "key": "kanola", "name": "Kanola", "unit": "₺/kg", "price": 19.7, "change": 0.0, "source": "Tekirdağ TB" }
+    { "key": "bugday", "name": "Buğday (ekmeklik)", "unit": "₺/kg", "price": 14.97, "change": 0, "source": "Edirne TB" },
+    { "key": "arpa", "name": "Arpa", "unit": "₺/kg", "price": 13.13, "change": 0, "source": "Edirne TB" },
+    { "key": "aycicegi", "name": "Ayçiçeği (yağlık)", "unit": "₺/kg", "price": 32.25, "change": 0, "source": "Edirne TB" },
+    { "key": "kanola", "name": "Kanola", "unit": "₺/kg", "price": 19.7, "change": 0, "source": "Manuel" }
   ],
   "inputs": [
-    { "key": "motorin", "name": "Motorin (mazot)", "unit": "₺/lt", "price": 52.4, "change": 0.3, "source": "Ortalama" },
-    { "key": "ure", "name": "Üre Gübre", "unit": "₺/kg", "price": 16.8, "change": 0.0, "source": "Bayi ort." },
-    { "key": "dap", "name": "DAP Gübre", "unit": "₺/kg", "price": 24.5, "change": -0.2, "source": "Bayi ort." },
-    { "key": "as", "name": "Amonyum Sülfat", "unit": "₺/kg", "price": 11.2, "change": 0.1, "source": "Bayi ort." }
+    { "key": "motorin", "name": "Motorin (mazot)", "unit": "₺/lt", "price": 68.14, "change": 0, "source": "Ankara ort." },
+    { "key": "ure", "name": "Üre Gübre", "unit": "₺/kg", "price": 16.8, "change": 0, "source": "Manuel" },
+    { "key": "dap", "name": "DAP Gübre", "unit": "₺/kg", "price": 24.5, "change": 0, "source": "Manuel" },
+    { "key": "as", "name": "Amonyum Sülfat", "unit": "₺/kg", "price": 11.2, "change": 0, "source": "Manuel" }
   ]
 }

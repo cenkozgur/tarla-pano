@@ -1,42 +1,5 @@
 {
-  "updatedAt": "2026-05-29T17:51:42.354Z",
-  "fx": [
-    {
-      "code": "USD",
-      "name": "Dolar",
-      "buy": 45.89,
-      "sell": 45.9,
-      "change": 0.05
-    },
-    {
-      "code": "EUR",
-      "name": "Euro",
-      "buy": 53.57,
-      "sell": 53.6,
-      "change": 0.26
-    },
-    {
-      "code": "GRA",
-      "name": "Gram Altın",
-      "buy": 6722.72,
-      "sell": 6723.68,
-      "change": 1.39
-    },
-    {
-      "code": "CEYREKALTIN",
-      "name": "Çeyrek Altın",
-      "buy": 10725.86,
-      "sell": 10972.81,
-      "change": 0
-    },
-    {
-      "code": "CUMHURIYETALTINI",
-      "name": "Cumhuriyet Altını",
-      "buy": 44504,
-      "sell": 45176,
-      "change": -0.56
-    }
-  ],
+  "updatedAt": "2026-05-29T18:11:21.907Z",
   "news": [
     {
       "title": "Hububatta süne alarımı! Bakanlık teknik ekipleri sahaya indi: O bölgede tüm köyler için ilaçlama kararı verildi",
@@ -92,25 +55,28 @@
       "key": "bugday",
       "name": "Buğday (ekmeklik)",
       "unit": "₺/kg",
-      "price": 11.4,
-      "change": 0.2,
-      "source": "Polatlı TB"
+      "price": 14.97,
+      "change": 0,
+      "source": "Edirne TB",
+      "date": "2026-05-11"
     },
     {
       "key": "arpa",
       "name": "Arpa",
       "unit": "₺/kg",
-      "price": 9.8,
-      "change": -0.1,
-      "source": "Konya TB"
+      "price": 13.13,
+      "change": 0,
+      "source": "Edirne TB",
+      "date": "2026-03-30"
     },
     {
       "key": "aycicegi",
-      "name": "Ayçiçeği",
+      "name": "Ayçiçeği (yağlık)",
       "unit": "₺/kg",
-      "price": 22.5,
-      "change": 0.4,
-      "source": "Edirne TB"
+      "price": 32.25,
+      "change": 0,
+      "source": "Edirne TB",
+      "date": "2026-05-18"
     },
     {
       "key": "kanola",
@@ -118,7 +84,7 @@
       "unit": "₺/kg",
       "price": 19.7,
       "change": 0,
-      "source": "Tekirdağ TB"
+      "source": "Manuel (fallback)"
     }
   ],
   "inputs": [
@@ -126,9 +92,9 @@
       "key": "motorin",
       "name": "Motorin (mazot)",
       "unit": "₺/lt",
-      "price": 52.4,
-      "change": 0.3,
-      "source": "Ortalama"
+      "price": 68.15,
+      "change": 0,
+      "source": "ANKARA ort."
     },
     {
       "key": "ure",
@@ -136,24 +102,27 @@
       "unit": "₺/kg",
       "price": 16.8,
       "change": 0,
-      "source": "Bayi ort."
+      "source": "Manuel"
     },
     {
       "key": "dap",
       "name": "DAP Gübre",
       "unit": "₺/kg",
       "price": 24.5,
-      "change": -0.2,
-      "source": "Bayi ort."
+      "change": 0,
+      "source": "Manuel"
     },
     {
       "key": "as",
       "name": "Amonyum Sülfat",
       "unit": "₺/kg",
       "price": 11.2,
-      "change": 0.1,
-      "source": "Bayi ort."
+      "change": 0,
+      "source": "Manuel"
     }
   ],
-  "note": "Ürün/girdi fiyatları manuel (2026-05-29); döviz/altın ve haberler canlı."
+  "note": "Borsa: TOBB Edirne TB · mazot: EPDK bayi ort. · gübre/kanola manuel.",
+  "errors": [
+    "fx: fetch failed"
+  ]
 }
