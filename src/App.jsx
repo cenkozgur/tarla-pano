@@ -7,6 +7,7 @@ import { maybeNotifyFrost } from './lib/notify'
 import WeatherCard from './components/WeatherCard'
 import AlertsCard from './components/AlertsCard'
 import NotifyCard from './components/NotifyCard'
+import RemindersCard from './components/RemindersCard'
 import { FxCard, PricesCard, InputsCard, NewsCard } from './components/MarketCard'
 import Defter from './components/Defter'
 
@@ -124,6 +125,7 @@ function Pano() {
       )}
 
       <div className="space-y-4">
+        <RemindersCard />
         {weather ? (
           <>
             <AlertsCard frost={frost} windows={windows} />

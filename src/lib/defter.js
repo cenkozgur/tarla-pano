@@ -4,6 +4,7 @@
 
 const FIELDS_KEY = 'tarla.fields'
 const RECORDS_KEY = 'tarla.records'
+const REMINDERS_KEY = 'tarla.reminders'
 
 export const RECORD_TYPES = [
   { key: 'ekim', label: 'Ekim', icon: '🌱', kind: 'cost' },
@@ -83,10 +84,52 @@ export function deleteRecord(id) {
   write(RECORDS_KEY, loadRecords().filter((r) => r.id !== id))
 }
 
+// ---- hatırlatmalar / görevler ----
+const today = () => new Date().toISOString().slice(0, 10)
+
+export const loadReminders = () => read(REMINDERS_KEY)
+
+export function addReminder({ fieldId, title, date }) {
+  const list = loadReminders()
+  const r = { id: uid(), fieldId: fieldId || null, title: title.trim(), date: date || today(), done: false, createdAt: Date.now() }
+  list.push(r)
+  write(REMINDERS_KEY, list)
+  return r
+}
+
+export function toggleReminder(id) {
+  write(REMINDERS_KEY, loadReminders().map((r) => (r.id === id ? { ...r, done: !r.done } : r)))
+}
+
+export function deleteReminder(id) {
+  write(REMINDERS_KEY, loadReminders().filter((r) => r.id !== id))
+}
+
+export const remindersOf = (fieldId) =>
+  loadReminders().filter((r) => r.fieldId === fieldId).sort((a, b) => (a.date < b.date ? -1 : 1))
+
+// Pano için: tamamlanmamış + bugün/gecikmiş/yaklaşan (daysAhead gün) — tarla adıyla
+export function dueReminders(daysAhead = 3) {
+  const t = today()
+  const limit = new Date(Date.now() + daysAhead * 86400000).toISOString().slice(0, 10)
+  const fields = new Map(loadFields().map((f) => [f.id, f.name]))
+  return loadReminders()
+    .filter((r) => !r.done && r.date <= limit)
+    .map((r) => ({ ...r, fieldName: r.fieldId ? fields.get(r.fieldId) || null : null, overdue: r.date < t, isToday: r.date === t }))
+    .sort((a, b) => (a.date < b.date ? -1 : 1))
+}
+
 // ---- yedek (içe/dışa aktar) ----
 export function exportData() {
   return JSON.stringify(
-    { app: 'tarla-pano', version: 1, exportedAt: new Date().toISOString(), fields: loadFields(), records: loadRecords() },
+    {
+      app: 'tarla-pano',
+      version: 1,
+      exportedAt: new Date().toISOString(),
+      fields: loadFields(),
+      records: loadRecords(),
+      reminders: loadReminders(),
+    },
     null,
     2,
   )
@@ -98,14 +141,18 @@ export function importData(json, { merge = true } = {}) {
   if (!Array.isArray(data?.fields) || !Array.isArray(data?.records)) {
     throw new Error('Geçersiz yedek dosyası')
   }
+  const rem = Array.isArray(data.reminders) ? data.reminders : []
   if (merge) {
     const fIds = new Set(loadFields().map((f) => f.id))
     const rIds = new Set(loadRecords().map((r) => r.id))
+    const mIds = new Set(loadReminders().map((m) => m.id))
     write(FIELDS_KEY, [...loadFields(), ...data.fields.filter((f) => !fIds.has(f.id))])
     write(RECORDS_KEY, [...loadRecords(), ...data.records.filter((r) => !rIds.has(r.id))])
+    write(REMINDERS_KEY, [...loadReminders(), ...rem.filter((m) => !mIds.has(m.id))])
   } else {
     write(FIELDS_KEY, data.fields)
     write(RECORDS_KEY, data.records)
+    write(REMINDERS_KEY, rem)
   }
   return { fields: data.fields.length, records: data.records.length }
 }

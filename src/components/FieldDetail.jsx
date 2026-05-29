@@ -1,5 +1,8 @@
 import { useEffect, useState } from 'react'
-import { RECORD_TYPES, typeOf, recordsOf, addRecord, deleteRecord, deleteField, fieldSummary } from '../lib/defter'
+import {
+  RECORD_TYPES, typeOf, recordsOf, addRecord, deleteRecord, deleteField, fieldSummary,
+  remindersOf, addReminder, toggleReminder, deleteReminder,
+} from '../lib/defter'
 import { tl, gun } from '../lib/fmt'
 
 export default function FieldDetail({ field, catalog, onBack, onChanged }) {
@@ -48,6 +51,8 @@ export default function FieldDetail({ field, catalog, onBack, onChanged }) {
           </div>
         )}
       </div>
+
+      <RemindersSection fieldId={field.id} />
 
       {adding ? (
         <RecordForm
@@ -98,6 +103,67 @@ export default function FieldDetail({ field, catalog, onBack, onChanged }) {
               </div>
             )
           })}
+        </div>
+      )}
+    </div>
+  )
+}
+
+function RemindersSection({ fieldId }) {
+  const [, force] = useState(0)
+  const [adding, setAdding] = useState(false)
+  const [title, setTitle] = useState('')
+  const [date, setDate] = useState(new Date().toISOString().slice(0, 10))
+  const refresh = () => force((n) => n + 1)
+
+  const items = remindersOf(fieldId)
+  const save = () => {
+    if (!title.trim()) return
+    addReminder({ fieldId, title, date })
+    setTitle('')
+    setDate(new Date().toISOString().slice(0, 10))
+    setAdding(false)
+    refresh()
+  }
+
+  return (
+    <div className="mb-4 rounded-2xl bg-white p-4 shadow-sm ring-1 ring-black/5">
+      <div className="mb-2 flex items-center justify-between">
+        <h3 className="flex items-center gap-1.5 text-sm font-semibold text-stone-700">⏰ Hatırlatmalar</h3>
+        <button onClick={() => setAdding((v) => !v)} className="text-xs font-medium text-green-700">
+          {adding ? 'kapat' : '+ ekle'}
+        </button>
+      </div>
+
+      {adding && (
+        <div className="mb-3 space-y-2">
+          <input value={title} onChange={(e) => setTitle(e.target.value)} placeholder="örn. 2. üre atımı" className="input" autoFocus />
+          <div className="flex gap-2">
+            <input type="date" value={date} onChange={(e) => setDate(e.target.value)} className="input" />
+            <button onClick={save} className="shrink-0 rounded-xl bg-green-600 px-4 font-semibold text-white">Ekle</button>
+          </div>
+        </div>
+      )}
+
+      {items.length === 0 ? (
+        <p className="text-[11px] text-stone-400">Hatırlatma yok.</p>
+      ) : (
+        <div className="space-y-1.5">
+          {items.map((r) => (
+            <div key={r.id} className="flex items-center gap-2.5">
+              <button
+                onClick={() => { toggleReminder(r.id); refresh() }}
+                className={`h-5 w-5 shrink-0 rounded-md border-2 active:scale-90 ${
+                  r.done ? 'border-green-600 bg-green-600 text-[11px] text-white' : 'border-stone-300'
+                }`}
+              >
+                {r.done ? '✓' : ''}
+              </button>
+              <span className={`flex-1 text-sm ${r.done ? 'text-stone-300 line-through' : 'text-stone-700'}`}>{r.title}</span>
+              <span className="shrink-0 text-[10px] text-stone-400">{gun(r.date)}</span>
+              <button onClick={() => { deleteReminder(r.id); refresh() }} className="shrink-0 text-[10px] text-stone-300">sil</button>
+            </div>
+          ))}
         </div>
       )}
     </div>
