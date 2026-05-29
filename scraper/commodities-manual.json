@@ -8,7 +8,7 @@
       { "kod": "5ES10", "ad": "Eskişehir TB" }
     ],
     "defaultBorsa": "5ED10",
-    "dieselCities": ["ANKARA", "ISTANBUL", "IZMIR", "KONYA", "ADANA", "BURSA", "ANTALYA", "SAMSUN"],
+    "dieselCities": ["ANKARA", "ISTANBUL", "IZMIR", "KONYA", "ADANA", "BURSA", "ANTALYA", "SAMSUN", "TEKIRDAG", "CANAKKALE"],
     "defaultCity": "ANKARA"
   },
   "commodities": [
