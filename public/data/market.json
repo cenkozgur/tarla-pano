@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-05-30T09:45:18.209Z",
+  "updatedAt": "2026-05-30T09:47:10.756Z",
   "fx": [
     {
       "code": "USD",
@@ -327,5 +327,6 @@
   ],
   "defaultBorsa": "5ED10",
   "defaultCity": "CANAKKALE",
-  "note": "Borsa: TOBB (seçilebilir) · mazot: EPDK bayi ort. (seçilebilir) · gübre/kanola manuel."
+  "note": "Fiyatlar TOBB ticaret borsasından (borsa seçilebilir). Kanola manuel (Trakya 2025).",
+  "inputsNote": "Mazot: akaryakıt bayi pompa fiyatı ortalaması (şehir seçilebilir). Gübre: Tarım Kredi (manuel)."
 }

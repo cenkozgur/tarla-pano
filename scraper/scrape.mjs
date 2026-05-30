@@ -274,7 +274,8 @@ async function main() {
 
   out.defaultBorsa = defaultBorsa
   out.defaultCity = defaultCity
-  out.note = `Borsa: TOBB (seçilebilir) · mazot: EPDK bayi ort. (seçilebilir) · gübre/kanola manuel.`
+  out.note = `Fiyatlar TOBB ticaret borsasından (borsa seçilebilir). Kanola manuel (Trakya 2025).`
+  out.inputsNote = `Mazot: akaryakıt bayi pompa fiyatı ortalaması (şehir seçilebilir). Gübre: Tarım Kredi (manuel).`
   if (errors.length) out.errors = errors
 
   await writeFile(OUT, JSON.stringify(out, null, 2) + '\n')
