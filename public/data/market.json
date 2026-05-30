@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-05-30T03:48:25.480Z",
+  "updatedAt": "2026-05-30T06:37:54.822Z",
   "fx": [
     {
       "code": "USD",
@@ -38,6 +38,12 @@
     }
   ],
   "news": [
+    {
+      "title": "TİGEM 2026 damızlık koyun fiyatlarını açıkladı! Fiyatlar uçtu, işte ırk ırk zamlı liste...",
+      "url": "https://www.tarimdanhaber.com/tigem-2026-damizlik-koyun-fiyatlarini-acikladi-fiyatlar-uctu-iste-irk-irk-zamli-liste",
+      "source": "Tarımdan Haber",
+      "date": "2026-05-30"
+    },
     {
       "title": "Hububatta süne alarımı! Bakanlık teknik ekipleri sahaya indi: O bölgede tüm köyler için ilaçlama kararı verildi",
       "url": "https://www.tarimdanhaber.com/hububatta-sune-alarimi-bakanlik-teknik-ekipleri-sahaya-indi-o-bolgede-tum-koyler-icin-ilaclama-karari-verildi",
@@ -79,12 +85,6 @@
       "url": "https://www.tarimdanhaber.com/bitlis-tarim-ve-orman-il-muduru-ramazan-colak-kimdir-iste-kariyeri-ve-hayati",
       "source": "Tarımdan Haber",
       "date": "2026-05-28"
-    },
-    {
-      "title": "Eskişehir Ticaret Borsası'nda ay sonu raporu: Hasat öncesi buğday ve arpa fiyatları ne durumda?",
-      "url": "https://www.tarimdanhaber.com/eskisehir-ticaret-borsasinda-ay-sonu-raporu-hasat-oncesi-bugday-ve-arpa-fiyatlari-ne-durumda",
-      "source": "Tarımdan Haber",
-      "date": "2026-05-27"
     }
   ],
   "commoditiesByBorsa": {
@@ -279,5 +279,17 @@
   ],
   "defaultBorsa": "5ED10",
   "defaultCity": "CANAKKALE",
-  "note": "Borsa: TOBB (seçilebilir) · mazot: EPDK bayi ort. (seçilebilir) · gübre/kanola manuel."
+  "note": "Borsa: TOBB (seçilebilir) · mazot: EPDK bayi ort. (seçilebilir) · gübre/kanola manuel.",
+  "errors": [
+    "mazot ANKARA: fetch failed",
+    "mazot ISTANBUL: fetch failed",
+    "mazot IZMIR: fetch failed",
+    "mazot KONYA: fetch failed",
+    "mazot ADANA: fetch failed",
+    "mazot BURSA: fetch failed",
+    "mazot ANTALYA: fetch failed",
+    "mazot SAMSUN: fetch failed",
+    "mazot TEKIRDAG: fetch failed",
+    "mazot CANAKKALE: fetch failed"
+  ]
 }
