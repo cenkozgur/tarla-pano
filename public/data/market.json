@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-05-30T06:37:54.822Z",
+  "updatedAt": "2026-05-30T09:05:54.097Z",
   "fx": [
     {
       "code": "USD",
@@ -279,17 +279,5 @@
   ],
   "defaultBorsa": "5ED10",
   "defaultCity": "CANAKKALE",
-  "note": "Borsa: TOBB (seçilebilir) · mazot: EPDK bayi ort. (seçilebilir) · gübre/kanola manuel.",
-  "errors": [
-    "mazot ANKARA: fetch failed",
-    "mazot ISTANBUL: fetch failed",
-    "mazot IZMIR: fetch failed",
-    "mazot KONYA: fetch failed",
-    "mazot ADANA: fetch failed",
-    "mazot BURSA: fetch failed",
-    "mazot ANTALYA: fetch failed",
-    "mazot SAMSUN: fetch failed",
-    "mazot TEKIRDAG: fetch failed",
-    "mazot CANAKKALE: fetch failed"
-  ]
+  "note": "Borsa: TOBB (seçilebilir) · mazot: EPDK bayi ort. (seçilebilir) · gübre/kanola manuel."
 }
