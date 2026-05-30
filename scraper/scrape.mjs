@@ -137,6 +137,28 @@ async function getNews(total = 12) {
   return merged
 }
 
+// Haber içeriklerinden gübre fiyatı çıkar (üre/DAP/sülfat, TL/ton -> ₺/kg).
+// Aralık doğrulaması ile saçma/torba fiyatlarını eler; üre VE DAP bulunması şart.
+function extractGubreFromNews(news) {
+  const R = { ure: [25000, 55000], dap: [35000, 65000], sulfat: [12000, 32000] }
+  for (const n of news || []) {
+    const t = `${n.title} ${n.content || n.summary || ''}`
+    const grab = (kw, [lo, hi]) => {
+      const m = t.match(new RegExp(`${kw}[^0-9]{0,45}?([0-9]{2}\\.[0-9]{3})`))
+      if (!m) return null
+      const v = +m[1].replace('.', '')
+      return v >= lo && v <= hi ? v : null
+    }
+    const ure = grab('Üre', R.ure)
+    const dap = grab('DAP', R.dap)
+    if (ure && dap) {
+      const sulfat = grab('Sülfat', R.sulfat) || grab('Amonyum', R.sulfat)
+      return { ure: ure / 1000, dap: dap / 1000, sulfat: sulfat ? sulfat / 1000 : null, date: n.date }
+    }
+  }
+  return null
+}
+
 // TOBB borsa portalından ürün fiyatları (Ortalama sütunu + son işlem tarihi)
 async function getBorsa(borsaKod, borsaAdi) {
   const r = await fetch(`https://borsa.tobb.org.tr/fiyat_borsa.php?borsakod=${borsaKod}`, {
@@ -264,18 +286,35 @@ async function main() {
     else { errors.push(`mazot ${cities[i]}: ${res.reason.message}`); if (prev?.dieselByCity?.[cities[i]]) byCity[cities[i]] = prev.dieselByCity[cities[i]] }
   })
   out.dieselByCity = byCity
-  // girdiler: motorin varsayılan şehirden, gübreler manuel
-  const inputs = manual.inputs.map((m) =>
-    m.key === 'motorin' && byCity[defaultCity] != null
-      ? { ...m, price: byCity[defaultCity], source: `${defaultCity} ort.` }
-      : m,
-  )
+  // gübre fiyatını haberden çekmeyi dene; persistence: taze haber > önceki haber değeri > manuel
+  const gubreNews = news.status === 'fulfilled' ? extractGubreFromNews(news.value) : null
+  const prevInputs = new Map((prev?.inputs || []).map((i) => [i.key, i]))
+  const GUBRE_FIELD = { ure: 'ure', dap: 'dap', as: 'sulfat' }
+
+  const inputs = manual.inputs.map((m) => {
+    if (m.key === 'motorin') {
+      return byCity[defaultCity] != null ? { ...m, price: byCity[defaultCity], source: `${defaultCity} ort.` } : m
+    }
+    const field = GUBRE_FIELD[m.key]
+    if (field) {
+      if (gubreNews && gubreNews[field] != null) {
+        return { ...m, price: gubreNews[field], source: 'Tarım Kredi (haber)', date: gubreNews.date }
+      }
+      const pv = prevInputs.get(m.key) // önceki haberden gelen değeri koru
+      if (pv && /haber/.test(pv.source || '')) {
+        return { ...m, price: pv.price, source: pv.source, date: pv.date }
+      }
+      return m // manuel fallback
+    }
+    return m
+  })
   out.inputs = withChange(inputs, prev?.inputs)
+  const gubreAuto = inputs.some((i) => /haber/.test(i.source || ''))
 
   out.defaultBorsa = defaultBorsa
   out.defaultCity = defaultCity
   out.note = `Fiyatlar TOBB ticaret borsasından (borsa seçilebilir). Kanola manuel (Trakya 2025).`
-  out.inputsNote = `Mazot: akaryakıt bayi fiyatı, günlük güncellenir (şehir seçilebilir). Gübre: yaklaşık değer, manuel.`
+  out.inputsNote = `Mazot: akaryakıt bayi fiyatı, günlük (şehir seçilebilir). Gübre: ${gubreAuto ? 'Tarım Kredi, haberden çekilir' : 'manuel (yaklaşık)'}.`
   if (errors.length) out.errors = errors
 
   await writeFile(OUT, JSON.stringify(out, null, 2) + '\n')
