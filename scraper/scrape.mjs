@@ -47,6 +47,18 @@ const decode = (s) =>
   s
     .replace(/&amp;/g, '&').replace(/&lt;/g, '<').replace(/&gt;/g, '>')
     .replace(/&quot;/g, '"').replace(/&#39;/g, "'").replace(/&rsquo;/g, '’')
+    .replace(/&nbsp;/g, ' ').replace(/&hellip;/g, '…')
+    .replace(/&ldquo;/g, '“').replace(/&rdquo;/g, '”')
+    .replace(/&ouml;/g, 'ö').replace(/&uuml;/g, 'ü').replace(/&ccedil;/g, 'ç')
+
+// HTML makaleyi okunabilir düz metne çevirir (paragraf bölmeleri korunur, reklam/etiket atılır)
+const htmlToText = (h) => {
+  if (!h) return ''
+  const t = decode(
+    h.replace(/<\/(p|div|h\d|li|tr|blockquote)>/gi, '\n').replace(/<br\s*\/?>/gi, '\n').replace(/<[^>]+>/g, ''),
+  )
+  return t.split('\n').map((s) => s.replace(/[ \t]+/g, ' ').trim()).filter(Boolean).join('\n\n')
+}
 
 // ---- kaynaklar -----------------------------------------------------------
 // truncgil bazen bozuk JSON döner -> parse patlarsa ihtiyacımız olan
@@ -92,11 +104,15 @@ async function getNews(limit = 8) {
       return mm ? mm[1].trim() : ''
     }
     const pub = g('pubDate')
+    const summary = htmlToText(g('description'))
+    const content = htmlToText(g('content:encoded')) || summary
     return {
       title: decode(g('title')),
       url: g('link'),
       source: 'Tarımdan Haber',
       date: pub ? new Date(pub).toISOString().slice(0, 10) : '',
+      summary: summary.slice(0, 300),
+      content: content.slice(0, 6000),
     }
   })
 }
