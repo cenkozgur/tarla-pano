@@ -17,7 +17,10 @@ const OUT = join(__dirname, '..', 'public', 'data', 'market.json')
 const MANUAL = join(__dirname, 'commodities-manual.json')
 
 const TRUNCGIL = 'https://finans.truncgil.com/v4/today.json'
-const NEWS_RSS = 'https://www.tarimdanhaber.com/rss'
+const NEWS_SOURCES = [
+  { name: 'Tarımdan Haber', url: 'https://www.tarimdanhaber.com/rss' },
+  { name: 'Tarım Pusulası', url: 'https://www.tarimpusulasi.com/rss/genel-0' },
+]
 const UA = 'Mozilla/5.0 TarlaPano'
 
 const FX_MAP = [
@@ -50,6 +53,8 @@ const decode = (s) =>
     .replace(/&nbsp;/g, ' ').replace(/&hellip;/g, '…')
     .replace(/&ldquo;/g, '“').replace(/&rdquo;/g, '”')
     .replace(/&ouml;/g, 'ö').replace(/&uuml;/g, 'ü').replace(/&ccedil;/g, 'ç')
+    .replace(/&#(\d+);/g, (_, n) => String.fromCodePoint(+n))
+    .replace(/&#x([0-9a-fA-F]+);/g, (_, n) => String.fromCodePoint(parseInt(n, 16)))
 
 // HTML makaleyi okunabilir düz metne çevirir (paragraf bölmeleri korunur, reklam/etiket atılır)
 const htmlToText = (h) => {
@@ -93,9 +98,9 @@ async function getFx() {
   return rows
 }
 
-async function getNews(limit = 8) {
-  const r = await fetch(NEWS_RSS, { headers: { 'User-Agent': UA } })
-  if (!r.ok) throw new Error(`rss ${r.status}`)
+async function getNewsFrom(src, limit) {
+  const r = await fetch(src.url, { headers: { 'User-Agent': UA } })
+  if (!r.ok) throw new Error(`${src.name} ${r.status}`)
   const xml = await r.text()
   return [...xml.matchAll(/<item>([\s\S]*?)<\/item>/g)].slice(0, limit).map((m) => {
     const it = m[1]
@@ -109,12 +114,27 @@ async function getNews(limit = 8) {
     return {
       title: decode(g('title')),
       url: g('link'),
-      source: 'Tarımdan Haber',
+      source: src.name,
       date: pub ? new Date(pub).toISOString().slice(0, 10) : '',
+      ts: pub ? new Date(pub).getTime() : 0,
       summary: summary.slice(0, 300),
-      content: content.slice(0, 6000),
+      content: content.slice(0, 5000),
     }
   })
+}
+
+// Tüm kaynakları çek, tarihe göre harmanla, başlığa göre tekille
+async function getNews(total = 12) {
+  const results = await Promise.allSettled(NEWS_SOURCES.map((s) => getNewsFrom(s, 8)))
+  const all = results.flatMap((r) => (r.status === 'fulfilled' ? r.value : []))
+  const seen = new Set()
+  const merged = all
+    .filter((n) => n.url && n.title && !seen.has(n.title) && seen.add(n.title))
+    .sort((a, b) => b.ts - a.ts)
+    .slice(0, total)
+    .map(({ ts, ...n }) => n) // ts'i çıktıdan at
+  if (!merged.length) throw new Error('hiçbir haber kaynağı yanıt vermedi')
+  return merged
 }
 
 // TOBB borsa portalından ürün fiyatları (Ortalama sütunu + son işlem tarihi)
