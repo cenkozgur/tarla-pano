@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-05-30T09:47:10.756Z",
+  "updatedAt": "2026-05-30T10:04:21.226Z",
   "fx": [
     {
       "code": "USD",
@@ -303,7 +303,7 @@
       "unit": "₺/kg",
       "price": 33.9,
       "change": 0,
-      "source": "Tarım Kredi",
+      "source": "Manuel",
       "date": "2026-04"
     },
     {
@@ -312,7 +312,7 @@
       "unit": "₺/kg",
       "price": 41.9,
       "change": 0,
-      "source": "Tarım Kredi",
+      "source": "Manuel",
       "date": "2026-04"
     },
     {
@@ -321,12 +321,12 @@
       "unit": "₺/kg",
       "price": 20.3,
       "change": 0,
-      "source": "Tarım Kredi",
+      "source": "Manuel",
       "date": "2026-04"
     }
   ],
   "defaultBorsa": "5ED10",
   "defaultCity": "CANAKKALE",
   "note": "Fiyatlar TOBB ticaret borsasından (borsa seçilebilir). Kanola manuel (Trakya 2025).",
-  "inputsNote": "Mazot: akaryakıt bayi pompa fiyatı ortalaması (şehir seçilebilir). Gübre: Tarım Kredi (manuel)."
+  "inputsNote": "Mazot: akaryakıt bayi fiyatı, günlük güncellenir (şehir seçilebilir). Gübre: yaklaşık değer, manuel."
 }
