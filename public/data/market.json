@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-05-31T22:15:20.886Z",
+  "updatedAt": "2026-05-31T23:19:23.189Z",
   "fx": [
     {
       "code": "USD",
@@ -332,14 +332,6 @@
   "errors": [
     "fx: fetch failed",
     "borsa 5ES10: fetch failed",
-    "mazot ANKARA: fetch failed",
-    "mazot ISTANBUL: fetch failed",
-    "mazot IZMIR: fetch failed",
-    "mazot KONYA: fetch failed",
-    "mazot ADANA: fetch failed",
-    "mazot BURSA: fetch failed",
-    "mazot ANTALYA: fetch failed",
-    "mazot SAMSUN: fetch failed",
     "mazot TEKIRDAG: fetch failed",
     "mazot CANAKKALE: fetch failed"
   ]
