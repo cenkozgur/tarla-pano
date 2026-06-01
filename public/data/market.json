@@ -1,43 +1,75 @@
 {
-  "updatedAt": "2026-06-01T05:19:23.595Z",
+  "updatedAt": "2026-06-01T10:33:43.184Z",
   "fx": [
     {
       "code": "USD",
       "name": "Dolar",
-      "buy": 45.89,
-      "sell": 45.94,
-      "change": 0.2
+      "buy": 45.91,
+      "sell": 45.91,
+      "change": 0.18
     },
     {
       "code": "EUR",
       "name": "Euro",
-      "buy": 53.5,
-      "sell": 53.58,
-      "change": 0.12
+      "buy": 53.52,
+      "sell": 53.54,
+      "change": 0.09
     },
     {
       "code": "GRA",
       "name": "Gram Altın",
-      "buy": 6671.77,
-      "sell": 6672.52,
-      "change": -0.23
+      "buy": 6647.06,
+      "sell": 6647.9,
+      "change": -0.59
     },
     {
       "code": "CEYREKALTIN",
       "name": "Çeyrek Altın",
-      "buy": 10725.86,
-      "sell": 10972.81,
-      "change": 0
+      "buy": 10588.58,
+      "sell": 10832.45,
+      "change": -1.28
     },
     {
       "code": "CUMHURIYETALTINI",
       "name": "Cumhuriyet Altını",
-      "buy": 44504,
-      "sell": 45176,
-      "change": -0.56
+      "buy": 43894,
+      "sell": 44566,
+      "change": -1.35
     }
   ],
   "news": [
+    {
+      "title": "EİB, Chicago’da Türk Gıda Ürünlerini Tanıttı",
+      "url": "https://www.tarimpusulasi.com/haber/eib-chicagoda-turk-gida-urunlerini-tanitti-46693",
+      "source": "Tarım Pusulası",
+      "date": "2026-06-01",
+      "summary": "Ege İhracatçı Birlikleri, Turkish Tastes Projesi kapsamında ABD'nin Chicago kentinde düzenlenen National Restaurant Association Show Fuarı'nda Türk gıda ürünlerinin tanıtımını gerçekleştirdi. Tadım etkinlikleri ve şef yarışmalarıyla ziyaretçilere Türk lezzetleri sunulurken, ABD pazarında 5 milyar do",
+      "content": "CHICAGO – Türk gıda ürünlerinin Amerika Birleşik Devletleri’ndeki (ABD) bilinirliğini ve tüketimini artırmak amacıyla Ege İhracatçı Birlikleri (EİB) tarafından 6 yıldır başarıyla sürdürülen Turkish Tastes (Türk Lezzetleri) Projesi, küresel arenada yeni bir tanıtım halkasını daha tamamladı. EİB, ABD'nin gıda sektöründeki en prestijli organizasyonlarından biri olan Chicago’daki National Restaurant Association (NRA) Show Fuarı’na katılarak Türk gıda ürünleriyle çıkarma yaptı.\n\nFuar kapsamında kurulan Turkish Tastes standında özel şef yarışmaları düzenlendi. Şef Greg Matchett ve Şef Kubilay Önder liderliğinde, Türk ürünlerinin öne çıktığı özel menüler uluslararası ziyaretçilerin beğenisine sunuldu. Yarışmacı şeflerin Türk malzemeleriyle hazırladığı özgün lezzetler, fuar katılımcılarından tam not aldı.\n\nABD Pazarına İhracatta Yeni Hedef: 5 Milyar Dolar\n\nFuar ve ikili iş görüşmelerine ilişkin açıklamalarda bulunan Ege İhracatçı Birlikleri Koordinatör Başkanı Muhammet Öztürk, 2 bin 245 firmanın katıldığı NRA Show'un önemine dikkat çekti. Turkish Tastes projesine başladıklarında ABD’ye gıda ihracatının 750 milyon dolar seviyesinde olduğunu hatırlatan Öztürk, güncel durumda bu rakamın 2 milyar dolara ulaştığını belirtti.\n\nABD'nin yıllık 240 milyar doların üzerinde gıda ithalatı gerçekleştirdiğini vurgulayan Öztürk, şu ifadeleri kullandı:\n\n\"EİB olarak ABD’ye gıda ihracatında 5 milyar dolarlık ihracat hacmine ulaşmak için çaba gösteriyoruz. Fuar kapsamında Turkish Tastes standında şef yarışmaları düzenlendi ve yarışmacı şefler Türk ürünleri kullanarak hazırladıkları menüleri ziyaretçilere sundu. Türk gıda ürünlerinin bu şekilde tanıtılması, sonraki süreçte ihracat rakamlarımıza pozitif yansıyor.\"\n\nÜst Düzey Ziyaret\n\nChicago'da düzenlenen prestijli fuarda Türk gıda sektörünün temsilcileri yalnız bırakılmadı. Turkish Tastes standını, Şikago Başkonsolosu Tahir Bora Atatanır, Şikago Ticaret Ataşesi Ahmet Samet Tekoğlu ve Şikago Eğitim Ataşesi Prof. Dr. Fatih Yardımcıoğlu ziyaret ederek yürütülen çalışmalar hakkında bilgi aldı.\n\nEge İhracatçı Birlikleri, 5 milyar dolarlık dev ihracat hedefine ulaşmak adına Turkish Tastes projesinin yanı sıra; New York Fancy Food Fuarı ve Kaliforniya’daki Natural Product Expo West Fuarı’na Türkiye Milli Katılım Organizasyonları düzenlemeye ve sektörel ticaret heyetleriyle ikili iş görüşmelerini desteklemeye devam edeceğini bildirdi."
+    },
+    {
+      "title": "Antalya Büyükşehir’den Çocuklara İpekböceği Eğitimi",
+      "url": "https://www.tarimpusulasi.com/haber/antalya-buyuksehirden-cocuklara-ipekbocegi-egitimi-46692",
+      "source": "Tarım Pusulası",
+      "date": "2026-06-01",
+      "summary": "Antalya Büyükşehir Belediyesi, ipekböceği kültürünün gelecek nesillere aktarılması amacıyla Döşemealtı’ndaki Osman Ali Cingöz Anasınıfı ve İlkokulu öğrencilerine eğitim verdi. Öğrencilere ipekböceğinin yaşam döngüsü anlatılırken, uygulamalı eğitim kapsamında besleme kitleri dağıtıldı.",
+      "content": "ANTALYA – Antalya Büyükşehir Belediyesi, kentin en önemli köklü değerleri arasında yer alan ipekböceği kültürünü korumak ve gelecek nesillere aktarmak için çalışmalarını aralıksız sürdürüyor. Tarımsal Hizmetler Dairesi Başkanlığı ekipleri, bu kapsamda Döşemealtı ilçesinde eğitim veren Osman Ali Cingöz Anasınıfı ve İlkokulu’nda öğrencilerle bir araya geldi.\n\nGerçekleştirilen etkinlikte minik öğrencilere ipekböceğinin yaşam döngüsü, beslenme süreçleri ve üretimin ekonomi ile kültürdeki önemi detaylı bir şekilde anlatıldı.\n\nÇizgi Film Eşliğinde Eğlenceli Eğitim\n\nProgram dahilinde ipekböcekçiliğinin geçmişten günümüze uzanan kültürel serüveni, çocukların ilgisini çekecek kısa bir çizgi film gösterimiyle aktarıldı. Eğlenceli anlatımın ardından uzman ekipler eşliğinde soru-cevap etkinliği yapıldı.\n\nEğitimin sonunda anasınıfı ve ilkokul öğrencilerine özel olarak hazırlanan \"ipekböceği besleme kitleri\" hediye edildi. İçerisinde larvadan termometreye kadar bakım sürecinde gereksinim duyulan tüm araç ve gereçlerin yer aldığı kitlerin nasıl kullanılacağı öğrencilere uygulamalı olarak gösterildi. Minikler, sınıflarında bu kitlerle ipekböceği besleyerek koza oluşum evrelerini canlı olarak gözlemleme şansı yakalayacak.\n\n\"Amacımız Bu Kadim Geleneği Çocuk Yaşta Tanıtmak\"\n\nAntalya Büyükşehir Belediyesi Tarımsal Hizmetler Dairesi Başkanlığı Sapadere İpekevi Sorumlusu Ayşenur Özdoğan Gülmez, projenin önemine değinerek şu değerlendirmelerde bulundu:\n\n“İpekböceği kültürü Antalya’mızın tarihini, geçmişini ve dokusunu anlayan kadim kültürlerden biri. Biz de ‘ağaç yaşken eğilir’ diyerek 2019 yılından bu yana anasınıfı ve ilkokul grubundaki çocuklarımıza ipekböcekçiliği besleme kitleri dağıtıyoruz. Çocuklarımız hem ipekböceği kültürünü tanıyor hem de ipekböceğinin nasıl beslendiğini hep birlikte öğrenmiş oluyor.”\n\nAntalya Büyükşehir Belediyesi, kent kültürünü yaşatan bu tür eğitim projelerini il genelindeki farklı okullarda da yaygınlaştırmayı hedefliyor."
+    },
+    {
+      "title": "Bakan Yumaklı: 39 Yeni Yerli Tohum Çeşidi Tescil Edildi",
+      "url": "https://www.tarimpusulasi.com/haber/bakan-yumakli-39-yeni-yerli-tohum-cesidi-tescil-edildi-46691",
+      "source": "Tarım Pusulası",
+      "date": "2026-06-01",
+      "summary": "Tarım ve Orman Bakanı İbrahim Yumaklı, Tarımsal Araştırmalar ve Politikalar Genel Müdürlüğü tarafından geliştirilen 39 yeni yerli tohum çeşidinin tescil edildiğini açıkladı. Yeni tescillerle birlikte Milli Çeşit Listesi'ndeki yerli tohum sayısı 1087'ye yükselirken, ayçiçeği ve buğday çeşitleri liste",
+      "content": "ANKARA – Tarım ve Orman Bakanı İbrahim Yumaklı, tarımsal üretimde dışa bağımlılığı azaltacak ve yerli üretimi güçlendirecek stratejik bir gelişmeyi duyurdu. Yerli tohum çalışmalarında büyük bir başarıya imza atıldığını belirten Bakan Yumaklı, tarla bitkilerinde 17 türde 39 yeni çeşidin daha tescil aldığını açıkladı.\n\nGelişmenin detaylarını paylaşan Bakan Yumaklı, şu ifadeleri kullandı:\n\n\"Tescilli tohumlarımızla stratejik gıda arzı güvenliğini teminat altına alıyoruz. Üreticilerimizin maliyetlerini düşürüyor, kazançlarını artırıyoruz. Uluslararası rekabet gücüne sahip, milli tohum tedarik sistemini güçlendiriyoruz.\"\n\nYerli Tohum Sayısında Büyük Eşik Aşıldı\n\nTarımsal Araştırmalar ve Politikalar Genel Müdürlüğü (TAGEM) bünyesindeki araştırma enstitülerinde geliştirilen yeni çeşitlerle birlikte, \"Milli Çeşit Listesi\"ndeki yerli tohum sayısı 1087'ye yükseldi.\n\nYeni tescil edilen yerli tohumların tarımsal üretime ve milli ekonomiye büyük bir değer katacağını vurgulayan Yumaklı, tohumların \"tahıl\", \"endüstri bitkileri\", \"tıbbi ve aromatik bitkiler\" ile \"yemeklik tane baklagiller ve yem bitkileri\" olmak üzere 4 ana kategoride toplandığını belirtti.\n\nTescillerin Yarısı Ayçiçeği ve Buğdaydan Oluşuyor\n\nAçıklanan verilere göre, yeni tescillenen yerli tohumlar arasında en büyük payı stratejik ürünler aldı. Ayçiçeği hattı 15 çeşitle ilk sırada yer alırken, onu 5 çeşitle ekmeklik buğday takip etti.\n\nListenin devamında yer alan diğer yerli tohum çeşitleri ve dağılımları ise şöyle şekillendi:\n\n2'şer çeşit: Pamuk, yer fıstığı, haşhaş, nohut\n\n1'er çeşit: Makarnalık buğday, arpa, çeltik, soya, aspir, patates, tütün, Aydın salebi, Muğla salebi, anason ve korunga.\n\nBakan Yumaklı, AR-GE çalışmalarıyla toprağın bereketini artırmayı hedeflediklerini belirterek yeni çeşitlerin Türkiye'ye ve üreticilere hayırlı olmasını diledi."
+    },
+    {
+      "title": "TMO hububat alım fiyatları için kritik hafta: Çiftçinin gözü Haziran ilk haftasında",
+      "url": "https://www.tarimdanhaber.com/tmo-hububat-alim-fiyatlari-icin-kritik-hafta-ciftcinin-gozu-haziran-ilk-haftasinda",
+      "source": "Tarımdan Haber",
+      "date": "2026-06-01",
+      "summary": "Geçmişte Mayıs’ta ilan edilen TMO hububat alım fiyatları, son 3 yıldır olduğu gibi yine Haziran’ın ilk haftasına kaldı. Bu hafta açıklanması beklenen fiyatlar öncesi konuşan Ömer Fethi Gürer, \"Bu yıl rekolte artsa da geçmiş iki yılın kuraklık yarası sürüyor; çiftçiyi toprağa küstürmeyin\" dedi.",
+      "content": "Haber Merkezi - Geçmiş yıllarda hububat alım fiyatlarını geleneksel olarak Mayıs ayının ilk haftasında ilan eden TMO, son 3 yıldır bu takvimi Haziran ayının ilk haftasına kaydırdı. Üreticinin hasat dönemine girdiği şu günlerde, bu hafta içinde açıklanması öngörülen fiyatlar tarım sektörünün birinci gündem maddesi haline geldi. Bölgesel bazda verim farklılıkları gözlemlenirken, yüksek enflasyonist ortamda açıklanacak rakamın çiftçinin kaderini belirleyeceği ifade ediliyor.\n\nNiğde Çiftçisinin Beklentisi: Buğdayda Kilogram Başına En Az 25 TL\n\nSürekli artan mazot, gübre, tohum ve ilaç gibi girdi maliyetlerine dikkat çeken Ömer Fethi Gürer, Niğde ili özelinde üreticilerin maliyet-refah dengesini kurabilmesi için buğday alım fiyatının en az 25 TL olması gerektiğini vurguladı.\n\nGürer, küresel piyasalardaki değişkenliğe ve ülkemizdeki yüksek enflasyona işaret ederek, maliyetleri bile karşılamaktan uzak kalacak bir fiyat politikasının üreticiyi toprağa küstüreceğinin altını çizdi.\n\n\"Çiftçi refahını sağlayacak bir alım fiyatı verilmezse, önümüzdeki yıllarda buğdayda dışa bağımlılık katlanarak artar.\"\n\nRekolte Artışı Aldatmasın: Geçen İki Yılın Kuraklık Yarası Sürüyor\n\nBu yıl yağışların etkisiyle rekoltede bir artış beklense de, tarım sektörünün hafızasındaki kuraklık riski henüz silinmiş değil. Son iki yılın ciddi kuraklık ve verim kayıplarıyla geçtiğini hatırlatan Gürer, bu yılki olası bir üretim artışının üreticinin geçmiş zararlarını kapatmaya ancak yeteceğini, bu yüzden fiyat belirlenirken \"rekolte yüksek\" bahanesine sığınılmaması gerektiğini belirtti."
+    },
     {
       "title": "Benzin ve motorine yeni indirim geliyor",
       "url": "https://www.tarimpusulasi.com/haber/benzin-ve-motorine-yeni-indirim-geliyor-46690",
@@ -79,14 +111,6 @@
       "content": "ASTANA — Avrasya Ekonomik Birliği (EAEU) üye ülkeleri, tarımsal üretimde dışa bağımlılığı azaltmak ve gıda güvenliğini en üst düzeye çıkarmak adına stratejik bir adım atıyor. Rusya Devlet Başkanı Vladimir Putin, Astana'da düzenlenen Yüksek Avrasya Ekonomik Konseyi toplantısında, üye ülkeler arasında ortak bir tarımsal tohum pazarı kurulacağını duyurdu. Putin, bu karara ilişkin resmi genelgenin 29 Mayıs'ta onaylanacağını belirtti.\n\n\"Gıda Arzını Kesintisiz Sağlamayı Hedefliyoruz\"\n\nZirvede gerçekleştirdiği konuşmada ortak çabaların önemine dikkat çeken Rusya Lideri Vladimir Putin, şu ifadeleri kullandı:\n\n\"Ortak çabalarımızla, iç pazara kendi üretimimiz olan hayati önemdeki tarım ürünlerini bağımsız ve kesintisiz bir şekilde tedarik etmeyi amaçlıyoruz. Bu doğrultuda atacağımı yeni bir ileri adım, tarım bitkilerinin ortak tohum pazarına ilişkin bugün onaylanacak olan genelge olacaktır.\"\n\nEAEU çatısı altında yer alan Ermenistan, Belarus, Kazakistan, Kırgızistan ve Rusya, bu yeni pazar entegrasyonu sayesinde tohum tedarikinde kendi kendine yetebilen bir yapı oluşturmayı hedefliyor.\n\nRusya'da Yerli Tohum Seferberliği ve Yükseliş Trendi\n\nProjenin altyapısına ilişkin veriler ise Rusya iç pazarındaki dönüşümü gözler önüne seriyor. Rusya Başbakan Yardımcısı Dmitry Patrushev, 27 Mayıs'ta Devlet Başkanı Putin'e sunduğu raporda, Rus tarım sektörünün planlı bir şekilde yerli ıslah (selekksiyon) çalışmalarına geçiş yaptığını vurguladı.\n\nPatrushev'in paylaştığı verilere göre, Rusya'da yerli tohum sağlama oranı 2022 yılından bu yana %60'tan %70 seviyesine yükseldi. Özellikle tarihsel olarak yabancı tohumların hakim olduğu ve alıcılı seyrin dış pazara bağlı kaldığı şeker pancarı, ayçiçeği ve kolza (kanola) gibi kritik ürün gruplarında ciddi bir üretim kırılması ve yerlileşme başarısı elde edildiği rapor edildi.\n\nOrtak tohum pazarının devreye girmesiyle birlikte, üye ülkeler arasındaki tohum ticaretinin bürokratik engellerden arındırılması ve bölgesel arz güvenliğinin garanti altına alınması bekleniyor."
     },
     {
-      "title": "Kurşun Kirliliği Tarım ve İnsan Sağlığını Tehdit Ediyor",
-      "url": "https://www.tarimpusulasi.com/haber/kursun-kirliligi-tarim-ve-insan-sagligini-tehdit-ediyor-46685",
-      "source": "Tarım Pusulası",
-      "date": "2026-05-31",
-      "summary": "Rusya Federal Bitki Karantina Merkezi uzmanları, toprak ve ürünlerdeki kurşun kirliliğinin tarımsal üretim ve insan sağlığı açısından ciddi riskler oluşturduğunu açıkladı. Uzmanlar, kurşunun bitkilerde birikebildiğini, verimi düşürdüğünü ve gıda zinciri yoluyla insan sağlığını tehdit ettiğini belirt",
-      "content": "MOSKOVA — Tarım topraklarında ve bitkisel ürünlerde meydana gelen kurşun kirliliği, küresel ölçekte agroekosistemleri ve insan sağlığını tehdit eden en ciddi ağır metal problemlerinden biri olmaya devam ediyor. Rusya Federal Veterinerlik ve Bitki Sağlığı Gözetim Servisi'ne (Rosselhoznadzor) bağlı Rusya Bitki Karantinası Merkezi (FGBU \"VNIİKR\") uzmanları, yüksek toksisiteye sahip bu ağır metalin yayılımı ve tarımsal alanların korunması için hayati uyarılar yayımladı.\n\nBitkisel Üretimde Kurşun Tehlikesi\n\nKurşun, hava veya toprak yoluyla bitki bünyesine girerek tehlikeli bileşikler oluşturuyor ve dokularda birikiyor. Her bitki türünün kurşunu emme kapasitesi, toprağın yapısına ve bitkinin cinsine göre değişiklik gösteriyor. Özellikle yapraklı sebzeler ve kök bitkileri (havuç, patates vb.), kurşunu diğer ürünlere kıyasla çok daha hızlı absorbe ediyor.\n\nYüksek konsantrasyonda kurşuna maruz kalan bitkilerde metabolizma bozuklukları, fotosentez süreçlerinde yavaşlama, büyüme geriliği ve yaprak deformasyonları meydana geliyor.\n\nİnsan Sağlığı Üzerindeki Geri Dönüşü Olmayan Etkiler\n\nBilimsel verilere göre kurşunun insan vücudunda hiçbir biyolojik işlevi bulunmuyor ve en düşük dozu bile zarar teşkil ediyor. Yetişkinler tüketilen kurşunun yüzde 3 ile yüzde 10'unu vücuduna alırken; yetersiz beslenen kişilerde ve alternatif diyet uygulayanlarda bu oran yüzde 60'a kadar çıkabiliyor. Çocuklarda ise kurşun emilim oranı yüzde 50 ve üzerine ulaşıyor.\n\nAğır metal, yetişkinlerde ağırlıklı olarak kemik ve dişlerde depolanırken, çocuklarda yumuşak dokular tarafından emiliyor. Zamanla biriken bu maddeler beyin, sinir sistemi, böbrekler ve kardiyovasküler sistem üzerinde geri dönüşü olmayan kronik hasarlara zemin hazırlıyor. Kurşun doğada eser miktarda bulunabilse de, mevcut kirliliğin çok büyük bir kısmı insan faaliyetlerinden kaynaklanıyor.\n\nTarım Alanlarını ve Ürünü Koruma Yöntemleri\n\nVNIİKR uzmanları, üreticilerin ve bahçe sahiplerinin kurşun riskini azaltmak için uygulayabileceği koruyucu önlemleri şu şekilde sıralıyor:\n\nKonum Seçimi: Bahçeler ve üretim alanları; yoğun trafikli yollardan, otoparklardan, demiryollarından ve sanayi bölgelerinden uzakta kurulmalıdır.\n\nToprak Analizi ve pH Dengesi: Toprakta kurşun şüphesi varsa mutlaka laboratuvar analizi yaptırılmalıdır. Kurşun, asidik topraklarda çok daha aktiftir. Bu nedenle toprağın pH seviyesi 6,5-7,0 (nötr veya hafif alkali) seviyesinde tutulmalıdır.\n\nKireçleme İşlemi: Toprağa dolomit unu, tebeşir veya sönmüş kireç uygulanarak yapılan kireçleme işlemi kurşunu bağlar ve bitkiler için zararsız bileşiklere dönüştürür.\n\nYükseltilmiş Yataklar: Çok kumlu topraklar kurşun geçişini hızlandırır. Bu alanlarda temizliğinden emin olunan topraklarla yükseltilmiş dikim yatakları oluşturulmalıdır.\n\nGübreleme ve Ekim Yönetimi: Kimyasal gübre ve pestisit kullanımından kaçınılmalı, kullanılacaksa dozajlara kesinlikle uyulmalıdır. Kompost ve gübre kullanımı ağır metalleri yok etmez ancak topraktan bitkiye geçişini engelleyebilir. Ayrıca yonca veya üçgül gibi belirli kültürlerin yetiştirilmesi, kirli toprakların temizlenmesine (fitoremediasyon) yardımcı olur.\n\nTüketim Öncesi Hijyen: Yeşillikler ve sebzeler yenmeden önce çok iyi yıkanmalı, kök sebzelerin kabukları soyulmalı ve yapraklı bitkilerin dış yaprakları mutlaka atılmalıdır.\n\nToprak kalitesinin yüksek verim için kritik olduğunu vurgulayan VNIİKR laboratuvarları, gelecekteki hasadı olumsuz etkileyen fitopatojenik mantarlar, nematodlar ve diğer tehlikeli bitki patojenlerinin tespiti için de karantina kapsamındaki ürünlerde ve topraklarda düzenli testler gerçekleştirmeye devam etmektedir."
-    },
-    {
       "title": "Çiftçiye EYT piyangosu! Yargıtay’dan yüz binlerce üreticiyi emekli edecek tarihi emsal karar",
       "url": "https://www.tarimdanhaber.com/ciftciye-eyt-piyangosu-yargitaydan-yuz-binlerce-ureticiyi-emekli-edecek-tarihi-emsal-karar",
       "source": "Tarımdan Haber",
@@ -109,30 +133,6 @@
       "date": "2026-05-31",
       "summary": "Hindistan’dan küresel piyasaları sarsacak pamuk kararı! İthalatta %11’lik vergiyi tamamen sıfırlayan karar sonrası, Türk pamuk üreticisi ve tekstil ihracatçısı için kritik süreç başladı. İşte yeni ekim sezonu öncesi Türkiye'yi bekleyen büyük riskler...",
       "content": "Haber Merkezi - Hindistan hükümeti, pamuk ithalatındaki gümrük vergilerini sıfırladı. Dünyanın en büyük pamuk üreticilerinden birinin attığı bu adım, küresel piyasaları sarsarken Türk pamuk üreticisi ve tekstil sanayicisi için alarm zillerinin çalmasına neden oldu.\n\n1 Haziran - 31 Ekim 2026 tarihleri arasında geçerli olacak bu karar, yerli çiftçiyi fiyat baskısı altında bırakırken, tekstildeki ihracat pazarlarımızı da riske atıyor. İşte detaylar...\n\nHindistan Pamuk İthalatında Vergiyi Neden Sıfırladı?\n\nHindistan, tekstil ve konfeksiyon sektörüne hammadde tedarikini kolaylaştırmak amacıyla %11 oranında uygulanan gümrük vergisi ve tarım altyapı vergisini tamamen kaldırdı.\n\nKararın arkasındaki temel nedenler şunlar:\n\nYüksek pamuk fiyatları nedeniyle artan üretim maliyetlerini düşürmek,\n\nÖzellikle tekstil sektöründeki KOBİ’lere hızlı bir rahatlama sağlamak,\n\nHint tekstil sanayisinin küresel pazardaki rekabet gücünü artırmak.\n\nHint sanayicileri bu kararı sevinçle karşılarken, küresel pamuk piyasaları ve Türkiye gibi üretici ülkeler büyük bir tedirginlik yaşıyor.\n\nTürk Pamuk Çiftçisini ve Tekstil Sektörünü Neler Bekliyor?\n\nHindistan’ın ucuz ithal pamuğa yönelmesi, dünya genelinde pamuk fiyatlarını aşağı yönlü baskılama riski taşıyor. Bu durum, Türkiye'deki paydaşları iki büyük tehlikeyle karşı karşıya bırakıyor:\n\nYerli Üretici Fiyat ve Talep Baskısı Altında\n\nTürkiye’de pamuk üretimi zaten uzun süredir geriliyor, ekim alanları daralıyor ve ithalat bağımlılığı artıyor. Yeni ekim sezonu öncesi gelen bu hamle, Türk çiftçisinin elindeki mevcut stoku ve yeni sezon ürününün değerini doğrudan tehdit ediyor. Üretici hem fiyat düşüşü hem de pazar daralması riskiyle karşı karşıya.\n\nTekstilde Hindistan ile Rekabet Zorlaşıyor\n\nMaliyetleri düşen Hint tekstil ürünleri, uluslararası pazarlarda daha agresif fiyatlar sunabilecek. Bu durum, Türkiye’nin en önemli ihracat pazarlarında rekabet gücünü zayıflatabilir ve küresel siparişlerin Hindistan’a kaymasına yol açabilir.\n\nSektör Temsilcilerinden Uyarı:\n\n\"Karar Hint tekstilini kısa vadede uçururken, Türk pamuk üreticisi için pazarın daralması anlamına geliyor. Üretici birlikleri ve tekstil sanayicileri olarak bu süreci çok yakından takip etmeliyiz.\"\n\nRisk Büyük, Takip Şart\n\nHindistan'ın 5 ay boyunca uygulayacağı bu vergi muafiyeti, küresel pamuk dengelerini değiştirecek güçte. Türkiye'nin hem tarımda yerli üreticiyi koruyacak hamleler yapması hem de tekstilde pazar kaybetmemek için hızlı aksiyon alması gerekiyor."
-    },
-    {
-      "title": "Rusya'nın Un İhracat Geliri 60 Milyon Dolara Ulaştı",
-      "url": "https://www.tarimpusulasi.com/haber/rusyanin-un-ihracat-geliri-60-milyon-dolara-ulasti-46684",
-      "source": "Tarım Pusulası",
-      "date": "2026-05-30",
-      "summary": "Rusya, 2026 yılının ilk dört ayında un ihracatında büyük bir ivme yakalayarak Avrasya Ekonomik Birliği ülkeleri hariç dış pazarlardan 60 milyon dolar gelir elde etti; en büyük alıcı alımlarını 2,5 kat artıran Çin oldu.",
-      "content": "MOSKOVA – Rusya Tarım Bakanlığı'na bağlı Federal \"Agroexport\" Merkezi tarafından açıklanan geçici verilere göre, Rusya 2026 yılı Ocak-Nisan döneminde yurt dışı pazarlara gerçekleştirdiği un ihracatında güçlü bir büyüme kaydetti. Rusya'nın bu dönemde buğday, çavdar ve buğday-çavdar karışımı un ihracatından elde ettiği toplam gelir, bir önceki yılın aynı dönemine kıyasla yükselerek 60 milyon dolara ulaştı. Söz konusu tutara, Avrasya Ekonomik Birliği (AEB) ülkelerinin Nisan ayı verilerinin dahil edilmediği belirtildi.\n\nAçıklanan resmi verilere göre, yılın ilk dört ayında fiziki ağırlık bazında yapılan un sevkiyatları toplamda 180 bin tona ulaştı. Küresel gıda tedarik zincirinde stratejik bir paya sahip olan Rus ununa yönelik en yüksek talep Asya pazarından geldi. Bu dönemde Çin Halk Cumhuriyeti, Rusya'dan yaptığı un ithalatını 2,5 kat artırarak 21 milyon dolarlık hacimle lider ithalatçı konumuna yerleşti.\n\nÇin'in ardından en fazla un sevk edilen diğer ülkeler ve sergiledikleri büyüme oranları şu şekilde kayıtlara geçti: Afganistan’a yapılan ihracat 1,6 kat artışla 5 milyon dolara, Moğolistan’a yapılan ihracat yüzde 13 artışla 5 milyon dolara ve Kuzey Kore’ye (KNDR) yapılan sevkiyatlar 1,7 kat artışla 4 milyon dolara yükseldi.\n\nİç Üretimde Dengeli Seyir ve Ürün Kırılımları\n\nTarım Piyasası Konjonktürü Enstitüsü (İKAR) Genel Müdür Yardımcısı İrina Glazunova, un üretimine ilişkin yerel piyasa verilerini paylaştı. Glazunova'nın aktardığı bilgilere göre, Rusya'da 2026 yılının ilk çeyreğinde (Ocak-Mart) toplam un üretimi, geçtiğimiz yılın aynı dönemiyle paralellik göstererek 2,4 milyon ton seviyesinde gerçekleşti.\n\nÜretim kırılımları incelendiğinde ise alt ürün gruplarında farklı dinamikler göze çarptı. Yılın ilk çeyreğinde çavdar unu üretimi yüzde 6,9 oranında azalarak 100,9 bin tona gerilerken; buğday ve buğday-çavdar unu üretimi ise yüzde 0,3'lük sınırlı bir artışla 2,2 milyon ton seviyesine ulaştı. İhracattaki gelir artışının, iç üretimdeki durağanlığa rağmen küresel un fiyatları ve katma değerli ürün talebinden kaynaklandığı belirtiliyor."
-    },
-    {
-      "title": "ESK listeyi açıkladı, süre başladı! 2026 besilik hayvan ithalatında sözleşme ve ödeme dönemi",
-      "url": "https://www.tarimdanhaber.com/esk-listeyi-acikladi-sure-basladi-2026-besilik-hayvan-ithalatinda-sozlesme-ve-odeme-donemi",
-      "source": "Tarımdan Haber",
-      "date": "2026-05-30",
-      "summary": "Et ve Süt Kurumu (ESK), 200 baş ve üzeri kapasiteye sahip üreticiler için 2026 besilik hayvan ithalatı sözleşmeye davet listesini yayımladı. İthal besilik sığır kapsamında hak sahibi olan üreticilerin 01-04 Haziran tarihleri arasında sözleşme imzalaması, 09 Haziran'a kadar da ödemeleri tamamlaması g",
-      "content": "Haber Merkezi - Türkiye genelinde hayvancılık sektörünün gözü kulağı 2026 besilik hayvan ithalatı süreçlerindeydi. Et ve Süt Kurumu (ESK), beklenen kritik duyuruyu resmi internet sitesi üzerinden yayımladı. 2026 Yılı İthal Besilik Sığır Satışları kapsamında, besi ahırı kapasitesi 200 baş ve üzerinde olan besici ile firmaları yakından ilgilendiren 2026_1 numaralı Sözleşmeye Davet Listesi ilan edildi.\n\n[related-posts id=\"27057\" color=\"bg-danger\"][/related-posts]\n\nBüyük kapasiteli işletmelere teslim edilecek hayvanlar için takvim oldukça dar tutuldu. Başvuru yapacak üreticilerin hak kaybına uğramaması için belirlenen tarihler arasında işlemlerini eksiksiz tamamlaması gerekiyor. İşte sözleşme imzalama ve ödeme süreçlerine dair tüm detaylar...\n\nBu Haber de Dikkatinizi Çekebilir→Yerli sığır varlığında büyük çöküş! Sayı bakın kaça düştü?\n\nSözleşmeler 1-4 Haziran Tarihlerinde İmzalanacak\n\nBesilik Sığır İthalatı 2026 takvimi kapsamında, yayımlanan 2026_1 listesinde adı bulunan besicilerin önünde çok kısa bir süre var. Hak sahibi üreticiler, 01–04 Haziran 2026 tarihleri arasında listede belirtilen Kombina Müdürlüklerine bizzat gitmek zorunda. Şahsen gidemeyecek olanlar ise noter onaylı vekaletname ile yetkilendirdikleri vekilleri aracılığıyla başvurarak \"İthal Besilik Sığır Satış Sözleşmesi\"ni imzalamakla yükümlü olacak.\n\n[related-posts id=\"28151\" color=\"bg-primary\"][/related-posts]\n\nKRİTİK UYARI: Belirtilen 4 günlük süre içerisinde sözleşmesini imzalamayan besicilerin talepleri doğrudan iptal edilecek ve bu kişiler sonradan herhangi bir hak iddia edemeyecek.\n\nÖdemeler İçin Son Gün 9 Haziran!\n\nİthal besilik sığır kapsamında imzalanacak sözleşmelerin ardından ikinci ve en önemli aşama ise ödeme süreci olacak. Sözleşmeyi imzalayan besiciler, Besilik hayvan ithalatı 2026 fiyatları üzerinden hesaplanacak toplam sözleşme bedellerini 01–09 Haziran 2026 tarihleri arasında yatırmak zorunda.\n\nÖdemelerle ilgili ESK şu net uyarılarda bulundu:\n\nÖdemeler, sözleşmenin imzalandığı Kombina Müdürlüğü tarafından besiciye bildirilen resmi IBAN numarasına veya Kurum hesabına nakit olarak yatırılacaktır.\n\nBildirilen hesap dışındaki herhangi bir hesaba yapılacak ödemeler kesinlikle geçersiz sayılacaktır.\n\nVerilen süre içerisinde sözleşme imzalamasına rağmen, parayı ilgili hesaba yatırmayan üreticilerin sözleşmeleri tek taraflı olarak feshedilecek.\n\nİthal Besilik Sığır Alımı Süreci Nasıl İşleyecek? İşte Adım Adım Takvim\n\nDuyuruda yer almayan teknik detaylar ve fiyatlandırma esasları için ESK'nın daha önce yayımladığı \"2026 Yılı Besilik Sığır İthalatı Başvuru ve Değerlendirme Talimatı\" hükümleri uygulanmaya devam edecek. Üreticilerin süreçte mağduriyet yaşamaması adına bağlı bulunduklari Kombina Müdürlükleri ile sürekli iletişimde kalması büyük önem arz ediyor."
-    },
-    {
-      "title": "Geleceğimizin gizli şifresi: Bitki ıslahı nedir, soframızı nasıl kurtarır?",
-      "url": "https://www.tarimdanhaber.com/gelecegimizin-gizli-sifresi-bitki-islahi-nedir-soframizi-nasil-kurtarir",
-      "source": "Tarımdan Haber",
-      "date": "2026-05-30",
-      "summary": "Markete, pazara gittiğimizde ödediğimiz fiyattan sofradaki yemeğin tadına kadar her şey aslında tek bir kelimeye bağlı! Tarımın ve gıda güvenliğinin gizli kahramanı olan bitki ıslahı nedir, yerli gen kaynaklarımız neden yok olma tehlikesiyle karşı karşıya? İşte herkesin bilmesi gereken o hayati gerç",
-      "content": "Haber Merkezi - Gıda fiyatlarının küresel çapta tırmandığı, iklim krizinin ve kuraklığın tarım topraklarını tehdit ettiği modern dünyada, her gün tükettiğimiz ekmeğin, domatesin ya da meyvelerin geleceği tek bir kelimeye bağlı: Bitki Islahı. Peki, tarım sektörünün kalbi sayılan ve son dönemde adını sıkça duyduğumuz bitki ıslahı aslında ne anlama geliyor? Şehirde yaşayan bir tüketici olarak bu kavram bizi neden yakından ilgilendiriyor?\n\nİşte tohumdan sofraya uzanan o hayati sürecin perde arkası...\n\nBitki Islahı Nedir?\n\nBitki ıslahı; elimizde bulunan yerli bitki ırklarının ve çeşitlerinin korunmasını, bunların özelliklerinin bilimsel çalışmalarla yükseltilmesini ve mevcut genetik kaynaklardan yararlanarak yeni, daha dayanıklı çeşitler elde edilmesini sağlayan çalışmalar bütünüdür.\n\nBunu bitkilerin \"evrimine olumlu ve bilimsel bir müdahale\" olarak da düşünebiliriz. Laboratuvarlarda ve deneme tarlalarında gece gündüz çalışan ıslah uzmanları (genetikçiler ve ziraat mühendisleri), doğadaki en güçlü, en verimli ve hastalıklara en dirençli bitki genlerini bir araya getirerek geleceğin tohumlarını inşa ederler.\n\nBitki Islahı Neden Hayati Bir Öneme Sahip?\n\nBitki ıslahı, sadece tarımsal bir faaliyet değil, bir ülkenin gıda güvenliği ve tohum bağımsızlığı mücadelesidir. Bu çalışmaların sektöre ve sofralarımıza sağladığı temel faydalar şunlardır:\n\nKuraklığa ve İklim Krizine Direnç: Değişen iklim şartlarında, susuzluğa ve aşırı sıcağa dayanabilen yeni çeşitler ancak ıslah yöntemiyle geliştirilebilir.\n\nYüksek Verim ve Kalite: Aynı dönüm araziden çok daha fazla ve besin değeri yüksek ürün alınmasını sağlar. Bu da doğrudan gıda arzını artırarak fiyatların dengelenmesine yardımcı olur.\n\nHastalık ve Zararlılarla Mücadele: Bitki hastalıklarına karşı dirençli çeşitler geliştirildiğinde, kimyasal ilaç (pestisit) kullanımı azalır. Bu sayede hem doğa korunur hem de sofralarımıza daha sağlıklı ürünler ulaşır.\n\nYerli Gen Kaynaklarının Korunması: Anadolu topraklarının binlerce yıllık kadim ve yerli tohumları (genetik stoklarımız), ıslah çalışmaları sayesinde modern tarıma kazandırılarak yok olmaktan kurtarılır.\n\nTohumuna Sahip Çıkan Geleceğine Sahip Çıkar\n\nTürkiye, biyolojik çeşitlilik ve endemik bitki türleri açısından dünyanın en şanslı coğrafyalarından biri. Tarımdan Haber olarak her fırsatta dile getirdiğimiz \"yerli üretim ve milli bağımsızlık\" vizyonunun temel taşı, işte bu genetik kaynaklarımızı korumaktan ve bitki ıslahı yatırımlarına ağırlık vermekten geçiyor. Kendi ıslah ettiğimiz yerli tohumlarımız ne kadar güçlü olursa, tarımda dışa bağımlılığımız da o denli azalacaktır."
     }
   ],
   "commoditiesByBorsa": {
@@ -161,10 +161,10 @@
           "key": "aycicegi",
           "name": "Ayçiçeği (yağlık)",
           "unit": "₺/kg",
-          "price": 32.25,
-          "change": 0,
+          "price": 31.28,
+          "change": -3.01,
           "source": "Edirne TB",
-          "date": "2026-05-18"
+          "date": "2026-06-01"
         },
         {
           "key": "kanola",
@@ -262,10 +262,10 @@
       "key": "aycicegi",
       "name": "Ayçiçeği (yağlık)",
       "unit": "₺/kg",
-      "price": 32.25,
-      "change": 0,
+      "price": 31.28,
+      "change": -3.01,
       "source": "Edirne TB",
-      "date": "2026-05-18"
+      "date": "2026-06-01"
     },
     {
       "key": "kanola",
@@ -328,5 +328,17 @@
   "defaultBorsa": "5ED10",
   "defaultCity": "CANAKKALE",
   "note": "Fiyatlar TOBB ticaret borsasından (borsa seçilebilir). Kanola manuel (Trakya 2025).",
-  "inputsNote": "Mazot: akaryakıt bayi fiyatı, günlük (şehir seçilebilir). Gübre: manuel (yaklaşık)."
+  "inputsNote": "Mazot: akaryakıt bayi fiyatı, günlük (şehir seçilebilir). Gübre: manuel (yaklaşık).",
+  "errors": [
+    "mazot ANKARA: fetch failed",
+    "mazot ISTANBUL: fetch failed",
+    "mazot IZMIR: fetch failed",
+    "mazot KONYA: fetch failed",
+    "mazot ADANA: fetch failed",
+    "mazot BURSA: fetch failed",
+    "mazot ANTALYA: fetch failed",
+    "mazot SAMSUN: fetch failed",
+    "mazot TEKIRDAG: fetch failed",
+    "mazot CANAKKALE: fetch failed"
+  ]
 }
