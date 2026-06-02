@@ -1,43 +1,59 @@
 {
-  "updatedAt": "2026-06-02T09:16:59.512Z",
+  "updatedAt": "2026-06-02T12:53:00.517Z",
   "fx": [
     {
       "code": "USD",
       "name": "Dolar",
-      "buy": 45.93,
+      "buy": 45.92,
       "sell": 45.93,
       "change": 0.06
     },
     {
       "code": "EUR",
       "name": "Euro",
-      "buy": 53.5,
-      "sell": 53.52,
-      "change": 0.15
+      "buy": 53.55,
+      "sell": 53.56,
+      "change": 0.22
     },
     {
       "code": "GRA",
       "name": "Gram Altın",
-      "buy": 6694.4,
-      "sell": 6695.16,
-      "change": 1.15
+      "buy": 6673.33,
+      "sell": 6674.16,
+      "change": 0.83
     },
     {
       "code": "CEYREKALTIN",
       "name": "Çeyrek Altın",
-      "buy": 10712.03,
-      "sell": 10958.67,
-      "change": 1.9
+      "buy": 10687.15,
+      "sell": 10930.86,
+      "change": 1.64
     },
     {
       "code": "CUMHURIYETALTINI",
       "name": "Cumhuriyet Altını",
-      "buy": 43564,
-      "sell": 44236,
-      "change": -2.08
+      "buy": 44364,
+      "sell": 45036,
+      "change": 1.81
     }
   ],
   "news": [
+    {
+      "title": "Şamil Tayyar paylaştı, çiftçi ayaklandı: TMO 2026 hububat alım fiyatlarına büyük tepki!",
+      "url": "https://www.tarimdanhaber.com/samil-tayyar-paylasti-ciftci-ayaklandi-tmo-2026-hububat-alim-fiyatlarina-buyuk-tepki",
+      "source": "Tarımdan Haber",
+      "date": "2026-06-02",
+      "summary": "Toprak Mahsulleri Ofisi'nin (TMO) merakla beklenen 2026 yılı hububat alım fiyatlarını açıklamasının ardından tarım sektöründe sular durulmuyor. Eski AK Parti milletvekili ve gazeteci Şamil Tayyar, fiyatların ilan edilmesiyle birlikte çiftçilerden çığ gibi tepki geldiğini duyurdu. Peki, 2026 TMO buğd",
+      "content": "Haber Merkezi - TMO, üreticilerin uzun süredir beklediği 2026 yılı hububat alım fiyatlarını ve bakanlık desteklerini resmen ilan etti. Ancak açıklanan rakamlar, yüksek girdi maliyetleri altında ezilen üreticiyi memnun etmeye yetmedi. Fiyatların duyurulmasıyla birlikte tarım kulisleri hareketlenirken, en çarpıcı değerlendirme siyasetçi ve gazeteci Şamil Tayyar’dan geldi.\n\nBAKMADAN GEÇMEYİN: Tarih tekerrür mü ediyor? Şamil Tayyar 2024 yılında da buğday fiyatları için tarladan böyle seslenmişti!\n\nTayyar, sosyal medya hesabı üzerinden yaptığı paylaşımda, fiyatların açıklanmasıyla birlikte çiftçilerden telefon ve mesaj yağmuruna tutulduğunu belirterek üreticinin büyük bir öfke içinde olduğunu gözler önüne serdi.\n\nŞamil Tayyar: \"Çiftçi Öfkeli, Fiyattan Memnun Değiller!\"\n\nŞamil Tayyar, TMO’nun hububat alım fiyatlarını duyurmasının hemen ardından yaptığı paylaşımla üreticinin sesi oldu. Çiftçilerin kendisine ulaştığını belirten Tayyar, şu ifadeleri kullandı: \"TMO, 2026 yılı hububat alım fiyatını açıkladı. Makarnalık ve ekmeklik buğday fiyatı ton başına 16 bin 500 lira, arpa fiyatı ton başına 12 bin 750 lira olarak açıklandı. Destek tutarları ise ton başına 3 bin 14 lira olarak belirlendi. Açıklandığı andan itibaren onlarca telefon geldi, mesajlar gönderildi. Çiftçi öfkeli, fiyattan memnun değiller. Duyurulur.\"\n\nTayyar’ın bu çıkışı, sosyal medyada kısa sürede binlerce etkileşim alırken, üreticilerin ve ziraat odalarının da temel gündem maddesi haline geldi.\n\nTMO 2026 Hububat Alım Fiyatları Ne Kadar Oldu?\n\nTMO tarafından açıklanan resmi verilere göre, 2. grup ürünler baz alınarak belirlenen ham alım fiyatları ton başına şu şekildedir:\n\nMakarnalık Buğday Fiyatı: 16.500 TL / Ton\n\nEkmeklik Buğday Fiyatı: 16.500 TL / Ton\n\nArpa Fiyatı: 12.750 TL / Ton\n\nBakanlık Desteği Dahil Çiftçinin Eline Ne Kadar Geçecek?\n\nTarım ve Orman Bakanlığı, bu yıl üreticilere dekar başına toplam 980 TL destekleme ödemesi yapılacağını duyurdu. Ülke genelindeki ortalama verim oranları hesaba katıldığında bu destek, ton başına 3.014 TL olarak hesaplandı. Bakanlık desteklerinin ham alım fiyatlarına eklenmesiyle birlikte üreticinin eline geçecek toplam rakamlar tablodaki gibi şekillendi:\n\nÜretici Fiyatlara Neden Tepki Gösteriyor?\n\nŞamil Tayyar’ın da dikkat çektiği üzere, çiftçilerin ana tepki odağını artan mazot, gübre, ilaç ve işçilik maliyetleri oluşturuyor. Üreticiler, açıklanan 16.500 TL'lik buğday alım fiyatının maliyet sınırında kaldığını, ton başına verilen 3.014 TL'lik desteğin ise yaralara merhem olmaktan uzak olduğunu belirtiyor.\n\nÖzellikle ürün bedeli ödemelerinin 45 gün içerisinde yapılacak olması da enflasyonist ortamda çiftçinin tepkisini çeken bir diğer unsur oldu."
+    },
+    {
+      "title": "Antalya'da Arıcılara Hibe Kovan Desteği: 408 Kovan Dağıtıldı",
+      "url": "https://www.tarimpusulasi.com/haber/antalyada-aricilara-hibe-kovan-destegi-408-kovan-dagitildi-46705",
+      "source": "Tarım Pusulası",
+      "date": "2026-06-02",
+      "summary": "Antalya Büyükşehir Belediyesi, yerelden kalkınma hedefleri doğrultusunda kırsal üretimi güçlendirmeye devam ediyor. Proje kapsamında Serik, Kumluca, Demre ve Akseki ilçelerinde arıcılık faaliyetinde bulunan 136 üreticiye toplam 408 adet arı kovanı ücretsiz olarak teslim edildi.",
+      "content": "ANTALYA - Antalya Büyükşehir Belediyesi, tarımsal ve hayvansal üretimi desteklemek amacıyla yürüttüğü yerelden kalkınma projelerine hız kesmeden devam ediyor. Kırsal bölgelerdeki üreticilerin girdi maliyetlerini azaltmayı ve arıcılık faaliyetlerini yaygınlaştırmayı hedefleyen belediye ekipleri; Serik, Kumluca, Demre ve Akseki ilçelerinde üretim yapan arıcılara yönelik geniş kapsamlı bir ekipman desteği gerçekleştirdi. Yürütülen saha çalışmaları neticesinde, arıcılıkla uğraşan 136 üreticiye toplamda 408 adet arı kovanı dağıtıldı.\n\nDağıtım programının detaylarına ilişkin açıklamalarda bulunan Antalya Büyükşehir Belediyesi Tarımsal Hizmetler Dairesi Başkanlığı personeli Fatih Alkan, kırsal kalkınmayı destekleme adımlarının sahada karşılık bulduğunu belirtti. Alkan, “Serik ilçesinde 36 üreticimize, kişi başı 3’er adet olmak üzere toplam 108 arı kovanını teslim ettik. Üreticilerimize hayırlı ve uğurlu olmasını diliyorum” ifadelerini kullanarak projenin Serik ayağındaki dağıtımların başarıyla tamamlandığını aktardı.\n\nBelediyenin arıcılık hamlesi Kumluca ve Demre ilçelerinde de eş zamanlı olarak sürdürüldü. Bu iki ilçede faaliyet gösteren 70 arıcılık üreticisine toplamda 210 adet arı kovanı teslim edildi. Akseki ilçesindeki üreticilerin de dahil edildiği projede, kovan yardımı alan vatandaşlar kırsal üretimin ve yerel ekonominin güçlendirilmesine yönelik sunulan katkılardan dolayı memnuniyetlerini dile getirerek Antalya Büyükşehir Belediyesi’ne teşekkürlerini iletti.\n\nEkipman desteğinden yararlanan üreticiler, sağlanan bu katkının özellikle yüksek maliyetler karşısında can suyu olduğunu ifade etti. Arıcılığa ilk olarak hobi amaçlı başladığını, gerekli eğitim ve sertifikasyon süreçlerini tamamladıktan sonra profesyonel üretime adım attığını belirten üretici Ayhan Kurt, piyasa koşullarına dikkat çekti. Kurt, \"Antalya Büyükşehir Belediyesi’nin hibe arı kovanı desteği sağlayacağını öğrenince başvurduk. Piyasa değeri 2000-2500 TL arasında değişen kovanlardan bize yeterli sayıda ücretsiz olarak verildi. Kovanlarımızı teslim aldık, artık bal üretimi için çalışmalarımıza hız vereceğiz\" dedi.\n\nProjeden faydalanan bir diğer üretici Vedat Özcan ise kovanları kendi imkanlarıyla imal ettirmeleri durumunda ciddi bir bütçe ayırmaları gerektiğini vurguladı. Özcan, “Kovanları dışarıda yaptırmış olsaydık 1500-2000 TL arasında bir masraf oluşacaktı. Sağ olsun Büyükşehir Belediye Başkanımız bizlere destek oldu. Maliyetlerimizi düşüren ve üretime katkı sağlayan bu projeler bizler için çok kıymetli” şeklinde konuşarak yerel yönetimin üretici dostu politikalarından duyduğu memnuniyeti ifade etti."
+    },
     {
       "title": "TMO buğday fiyatına Adana'dan tepki: Maliyetin altında kaldı",
       "url": "https://www.tarimpusulasi.com/haber/tmo-bugday-fiyatina-adanadan-tepki-maliyetin-altinda-kaldi-46704",
@@ -117,22 +133,6 @@
       "date": "2026-06-01",
       "summary": "Et ve Süt Kurumu (ESK), hayvancılık sektöründe taşları yerinden oynatacak iki kritik karara birden imza attı. ESK, ithal besilik dana fiyatını yüzde 80’in üzerinde bir artışla 228 TL'den 420 TL’ye çıkarırken, marketlere sattığı ithal karkas et fiyatını ise 590 liradan 570 liraya düşürdü. Girdi maliy",
       "content": "Haber Merkezi - Türkiye’de et fiyatları ve üretim maliyetleri gündemdeki sıcaklığını korurken, Et ve Süt Kurumu’ndan (ESK) besiciyi adeta şoke eden çelişkili bir hamle geldi. Kurum, bir taraftan üreticinin en büyük girdi kalemlerinden biri olan canlı hayvan fiyatları için dev bir zam kararı alırken, diğer taraftan piyasaya sürdüğü ithal etin fiyatını aşağı çekti.\n\n[related-posts id=\"28146\" color=\"bg-dark\"][/related-posts]\n\nSektör temsilcilerini ayağa kaldıran bu çifte karar, yerli üretimin sürdürülebilirliği konusunda büyük bir tartışmanın fitilini ateşledi.\n\nİthal Besilik Dana Fiyatına %84 Zam!\n\nESK tarafından alınan ilk karara göre, besicilerin üretim yapmak için ithal etmek zorunda kaldığı ithal besilik dana fiyatını kilogram başına 228 TL'den 420 TL’ye yükseltti.\n\nBu devasa artış, ahırını doldurmak ve kırmızı et üretmek isteyen çiftçinin girdi maliyetlerini doğrudan zirveye taşıdı. Maliyetlerin bu denli yükselmesiyle birlikte, yerli besicinin küresel rekabet gücü ve üretim iştahı ağır bir darbe almış oldu.\n\nDiğer Yandan İthal Karkas Et Fiyatı Düşürüldü\n\nÜreticinin ham madde maliyetini katlayan ESK, eş zamanlı olarak piyasayı regüle etmek gerekçesiyle marketlere satışını yaptığı ithal karkas et fiyatını ise 590 liradan 570 liraya düşürdü.\n\nHükümetin ham maddede maliyeti artırıp, nihai üründe fiyat düşürmesi tarım kulislerinde sert tepkiyle karşılandı. Piyasaya ucuz ithal et sürülerek yerli karkas kesim fiyatları üzerinde yapay bir baskı oluşturulması, besicileri içinden çıkılmaz bir mali girdaba sürüklüyor.\n\n\"Üretici Tamamen Bitirilmek mi İsteniyor?\"\n\nESK'nın attığı bu çelişkili adımlar, hayvancılık sektöründe uzun süredir devam eden ithalat bağımlılığı eleştirilerini yeniden alevlendirdi. Sektör paydaşları yaşanan tezat durumu şu sorularla özetledi...\n\n\"Bir devlet kurumu, üreticinin üretime başlarken ödediği hayvan fiyatını neredeyse iki katına çıkarıp, hasat ettiği yani kesime gönderdiği ürünün fiyatını nasıl aşağı çeker? Üreticinin girdi maliyetini yükseltirken, diğer taraftan ithal et fiyatını düşürerek yerli et fiyatlarına baskı uygulamak, üreticiyi tamamen bitirmek anlamına gelmiyor mu?\""
-    },
-    {
-      "title": "Mayıs 2026 hububat fiyatları analizi: Ekmeklik, makarnalık buğday ve arpa fiyatı serbest piyasada kaç TL oldu?",
-      "url": "https://www.tarimdanhaber.com/mayis-2026-hububat-fiyatlari-analizi-ekmeklik-makarnalik-bugday-ve-arpa-fiyati-serbest-piyasada-kac-tl-oldu",
-      "source": "Tarımdan Haber",
-      "date": "2026-06-01",
-      "summary": "Milyonlarca çiftçinin ve tarım sektörünün gözü kulağı açıklanacak TMO 2026 hububat alım fiyatlarına kilitlenmişken, geride kalan Mayıs ayının serbest piyasa ve borsa karnesi netleşti. 01–31 Mayıs 2026 dönemini kapsayan hububat fiyatları analizine göre borsa fiyatları, elektronik ürün senedi piyasası",
-      "content": "Haber Merkezi - Yeni sezon hasat dönemi hız kazanırken, tarım piyasalarındaki güncel fiyat hareketleri yakından takip ediliyor. TMO'nun buğday ve arpa taban fiyatlarını ilan etmesinden hemen önce, serbest piyasanın nabzını tutan 01–31 Mayıs 2026 Hububat Fiyatları analizini sizler için derledik.\n\n[related-posts id=\"28202\" color=\"bg-danger\"][/related-posts]\n\nYayınlanan verilere göre, fiziki piyasayı temsil eden 15 Ticaret Borsasının ortalama fiyatları, elektronik ürün senedi piyasası olan TÜRİB ortalamalarının tüm ana ürünlerde üzerinde gerçekleşti\n\nİşte borsa borsa, ürün ürün Mayıs ayı hububat fiyatları ve piyasanın özet değerlendirmesi:\n\n15 Borsa ve TÜRİB Ortalama Hububat Fiyat Listesi (Mayıs 2026)\n\nMayıs ayı boyunca borsa ve TÜRİB üzerinden yapılan işlemlerin ton başına ortalama fiyat dağılımı şu şekilde gerçekleşti...\n\nÖnemli Detay: TÜRİB bünyesinde Mayıs ayı boyunca yulaf ve çavdar ürünlerinde işlem gerçekleşmediğinden dolayı bu ürünlere ait fiyat bilgisi bulunmuyor.\n\nMayıs Ayı Hububat Piyasası Özet Değerlendirmesi\n\nVeriler doğrultusunda hazırlanan piyasa analiz raporunda şu kritik tespitler öne çıkıyor\n\nEn Güçlü Seyir Fiziki Piyasada: Fiziki piyasalar (Borsalar), elektronik ürün senedi piyasasına (TÜRİB) göre Mayıs ayı boyunca daha güçlü ve yüksek bir fiyat grafiği sergiledi.\n\nEn Yüksek Makas Makarnalık Buğdayda: İki piyasa arasındaki en belirgin fiyat farkı makarnalık buğdayda yaşandı. Borsa fiyatları, TÜRİB fiyatlarına kıyasla ton başına +2.092 TL daha yüksek seyretti.\n\nArpa Fiyatları Dengede: Arpa fiyatları iki piyasa karşılaştırıldığında en dengeli seyreden ürün oldu. Borsadaki ortalama arpa fiyatı, TÜRİB’in yalnızca +157 TL üzerinde kaldı.\n\nGözler TMO Alım Fiyatlarına Kilitlendi\n\nMayıs ayında serbest piyasada ekmeklik buğdayın tonu ortalama 14.150 TL ile 15.100 TL arasında alıcı bulurken, üreticilerin asıl beklentisi TMO'nun açıklayacağı taban fiyatlarda.\n\nGeçtiğimiz yıl (2025) desteklerle birlikte çiftçinin eline ekmeklik buğdayda 16.020 TL/Ton, arpada ise 13.520 TL/Ton geçmişti. Mayıs ayı serbest piyasa ortalamalarının borsa kanadında buğday için 15.000 TL sınırını aşmış olması, Haziran ayının ilk haftasında açıklanması beklenen TMO Buğday Fiyatları 2026 listesi için de önemli bir referans barajı oluşturuyor."
-    },
-    {
-      "title": "TMO Haziran 2026 mısır satış fiyatları belli oldu! İşte il il stoklar ve güncel fiyat listesi",
-      "url": "https://www.tarimdanhaber.com/tmo-haziran-2026-misir-satis-fiyatlari-belli-oldu-iste-il-il-stoklar-ve-guncel-fiyat-listesi",
-      "source": "Tarımdan Haber",
-      "date": "2026-06-01",
-      "summary": "Tarım piyasalarında gözler TMO’nun 2026 buğday alım fiyatı açıklamasına kilitlenmişken, TMO'dan sürpriz bir hamle geldi ve Haziran ayı mısır satışı ilan edildi. Kanatlı hayvan yetiştiriciliği, yem ve irmik sektörlerine yönelik fiili tüketim esasına göre 2 Haziran 2026'dan itibaren başlayacak satışla",
-      "content": "Haber Merkezi - Türkiye genelinde üreticiler ve tarım sektörü temsilcileri büyük bir merakla 2026 buğday alım fiyatları açıklamasına kilitlenmiş durumda. Tarım ve Orman Bakanlığı'nın sosyal medya hesaplarından gelmesi beklenen hububat alım fiyatı açıklaması için geri sayım sürerken, TMO stratejik bir adım atarak Haziran 2026 mısır satışı talimatını ve fiyat listesini yayınladı.\n\nPiyasanın regülasyonu adına büyük önem taşıyan stoklar, 2 Haziran 2026 tarihinden itibaren belirlenen şartlarla peşin bedel mukabili satışa açılıyor.\n\nTMO Haziran 2026 Mısır Satış Fiyatları Ne Kadar Oldu?\n\nTMO tarafından paylaşılan resmi belgelere göre, 2 Haziran 2026 tarihinden itibaren geçerli olacak KDV hariç yerli ve ithal mısır satış fiyat listesi şu şekilde şekillendi:\n\nBatman, Diyarbakır, Mardin, Şanlıurfa Yerli Mısır: 11.800 TL/Ton (Kapalı Depo Satış Fiyatı)\n\nAdana, Aksaray, Hatay, Kahramanmaraş, Konya, Mersin Yerli Mısır: 12.200 TL/Ton (Kapalı Depo Satış Fiyatı)\n\nİthal Mısır: 12.200 TL/Ton (Satış Fiyatı)\n\nÖnemli Not: TMO kapalı depolarındaki yerli mısır satışlarında bu fiyatlara KDV ve manipülasyon hariç olup, kapalı depolar için 150,00 TL/Ton manipülasyon ücreti uygulayacak.\n\nMısır Stokları Hangi Sektörlere ve Nasıl Satılacak?\n\nSatışa açılan mısır stokları öncelikli olarak Kanatlı Hayvan Yetiştiriciliği (beyaz et ve yumurta sektörü), irmik ve yem fabrikalarına fiili tüketim (1 aylık) esasına göre tahsis edilecek. Başvurular, ELÜS ve TMO depoları (yerli/ithal) için TMO ELASP platformu üzerinden gerçekleştirilecek.\n\nBununla birlikte bazı bölgelerde kişi ve kuruluş ayrımı yapılmaksızın serbest satışlar da tanımlandı.\n\nSakarya Başmüdürlüğü: Stoklarında bulunan 6.165 ton ithal mısır, kişi/kuruluş ayrımı olmaksızın serbest olarak peşin veya peşin fiyatına kredi kartına tek çekimle satışa sunuldu.\n\nMardin Başmüdürlüğü: TMO depolarında bulunan yaklaşık 1.849 ton 2023 mahsulü yerli mısır serbest satışa açıldı.\n\nBaşvurular doğrudan Başmüdürlüğe yapılacak.\n\nTMO Mısır Satışı Başvuru ve Son İşlem Tarihleri\n\nMısır tedarik edecek firmaların hak kaybı yaşamaması için TMO’nun belirlediği kritik takvime uyması gerekiyor:\n\nELASP Üzerinden Talep Toplama Tarihleri: 02 - 08 Haziran 2026\n\nTÜRİB Takas Son İşlem Tarihi: 22 Haziran 2026\n\nSon Para Yatırma Tarihi: 22 Haziran 2026\n\nÜrün Son Teslim Tarihi: 30 Haziran 2026\n\n(İthal mısır son teslimat tarihi ise ilgili Liman Başmüdürlüklerince belirlenecektir).\n\nTMO Haziran Mısır Satış Fiyatı Listesi"
     }
   ],
   "commoditiesByBorsa": {
