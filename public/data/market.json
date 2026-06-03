@@ -1,26 +1,26 @@
 {
-  "updatedAt": "2026-06-03T00:15:03.773Z",
+  "updatedAt": "2026-06-03T05:18:22.089Z",
   "fx": [
     {
       "code": "USD",
       "name": "Dolar",
-      "buy": 459454,
-      "sell": 459609,
-      "change": 3
+      "buy": 459375,
+      "sell": 459582,
+      "change": 2
     },
     {
       "code": "EUR",
       "name": "Euro",
-      "buy": 53438,
-      "sell": 534756,
-      "change": -5
+      "buy": 534367,
+      "sell": 534987,
+      "change": -3
     },
     {
       "code": "GRA",
       "name": "Gram Altın",
-      "buy": 661229,
-      "sell": 661301,
-      "change": -28
+      "buy": 660707,
+      "sell": 660795,
+      "change": -36
     },
     {
       "code": "CEYREKALTIN",
@@ -38,6 +38,14 @@
     }
   ],
   "news": [
+    {
+      "title": "Hububatta büyük destek çarpıklığı: Tekirdağ Ziraat Odaları’ndan TMO buğday fiyatlarına sert tepki!",
+      "url": "https://www.tarimdanhaber.com/hububatta-buyuk-destek-carpikligi-tekirdag-ziraat-odalarindan-tmo-bugday-fiyatlarina-sert-tepki",
+      "source": "Tarımdan Haber",
+      "date": "2026-06-03",
+      "summary": "Toprak Mahsulleri Ofisi (TMO) tarafından açıklanan 2026 yılı buğday taban alım fiyatları üreticide büyük hayal kırıklığına neden oldu. Tekirdağ Ziraat Odaları İl Koordinasyon Kurulu, yayınladığı zehir zemberek basın açıklamasında yeni planlı destekleme modelindeki hesaplama çarpıklıklarını rakamlarl",
+      "content": "Haber Merkezi - Türkiye’nin en önemli tahıl ambarlarından biri olan Trakya’da üreticiler ayağa kalktı. TMO tarafından 02 Haziran 2026 tarihinde ilan edilen buğday taban alım fiyatlarının ardından Tekirdağ Ziraat Odaları İl Koordinasyon Kurulu acil koduyla toplandı. Yapılan ortak basın açıklamasında, açıklanan fiyatların üretim maliyetlerinin çok altında kaldığı belirtilirken, hububat alımında uygulanacak yeni tarımsal destekler modelindeki gizli matematiksel çarpıklıklar tek tek hesaplanarak ifşa edildi.\n\nPlanlı Destekleme Modelinde Ton Başına Prim Kaldırıldı!\n\nZiraat Odaları tarafından yapılan açıklamada, 2025 yılı itibarıyla yürürlüğe giren yeni \"Planlı Destekleme Modeli\" kapsamında, geçmiş yıllarda başarıyla uygulanan ton başına prim desteklerinin tamamen kaldırıldığı vurgulandı. TMO’nun taban fiyat açıklamasıyla birlikte duyurulan ton başına 3.014 TL’lik desteğin ise gerçeği yansıtmadığı, arkasında ciddi bir hesap oyunu barındırdığı iddia edildi.\n\nOda başkanları, bu desteğin arkasındaki çarpık matematiksel formülü şu şekilde paylaştı:\n\nTemel Destek (Dekar başına): 403,00 TL\n\nPlanlı Üretim Desteği (Dekar başına): 403,00 TL\n\nSertifikalı Ürün Desteği (Dekar başına): 173,60 TL\n\nToplam Dekar Desteği: 979,60 TL\n\nBakanlığın açıkladığı 3.014 TL'lik ton başına destek elde edebilmek için toplam dekar desteğinin (979,60 TL) ton üretimine bölünmesiyle 3.074 metrekare (yaklaşık 3 dekar) alan şartı ortaya çıkıyor. Bu hesap ise Türkiye genelindeki 325 kg/dekar olan ortalama buğday verimi varsayımına dayanıyor. Oysa Tekirdağ ilinde ortalama buğday verimi 500 kg/dekar düzeyinde! Dolayısıyla açıklanan formül, yüksek verim alan bölge çiftçisini cezalandırıyor.\n\nBölgesel Gerçekler Hesaba Uymuyor: Destek 1.016 TL'ye Düştü!\n\nTekirdağ Ziraat Odaları'nın analizine göre, bölgede ortalama 3 dekardan 1.500 kg verim alındığı varsayıldığında; kilogram başına destek miktarına Sertifikalı Tohum Desteği de dahil edildiğinde ton başına destek miktarı ancak 1.537,00 TL'ye ulaşabiliyor.\n\nAncak en can alıcı nokta şu ki; bölgedeki çiftçilerin büyük çoğunluğunun sertifikalı tohum kullanmadığı gerçeğiyle bu destek hesaptan çıkarıldığında, ton başına gerçek destek miktarı sadece 1.016,00 TL seviyesine geriliyor. Bakanlığın bu hesabı genel kabul görmesi için çiftçinin en az %60’ının üstünde Sertifikalı Tohum ekimi yapması gerekiyor ki mevcut ekonomik şartlarda bu durum imkansız görülüyor.\n\nGirdi Maliyetleri %60 Arttı, Fiyat Artışı %20'de Kaldı!\n\nÜreticinin belini büken en büyük unsurun tarımsal girdi maliyetleri olduğunu hatırlatan oda başkanları, \"Gübre, mazot ve ilaçlama maliyetleri artık herkesin malumu. Her yıl %30 ile %60'a varan maliyet artışlarıyla üretim yapmaya çalışırken, alım fiyatlarına yapılan %20 zamlı hesabı siz kamuoyunun takdirine bırakıyoruz\" sözleriyle tepkilerini dile getirdiler.\n\nZiraat Odalarından Bakanlığa Acil Çağrı ve 2 Büyük Talep\n\nÜreticinin toprağa küsmemesi ve üretimin sürdürülebilirliği için Tarım ve Orman Bakanlığı ile Hazine ve Maliye Bakanlığı'na acil çağrıda bulunuldu:\n\nAcil Fark Ödemesi Sistemi: Üreticinin üretime devam edebilmesi için ürün fark ödemesinin en az 3,00 TL/kg olacak şekilde acilen sisteme dahil edilmesi,\n\nDesteklerin Erken Ödenmesi: Temel Destek ve Planlı Üretim Desteklerinin 2026 yılı içerisinde, geciktirilmeden üreticinin hesabına yatırılması talep edildi.\n\nBasın açıklaması, Süleymanpaşa, Hayrabolu, Çorlu, Malkara, Muratlı, Şarköy, Çerkezköy ve Saray Ziraat Odası başkanlarının ortak imzasıyla kamuoyuna duyuruldu."
+    },
     {
       "title": "Turhan Çömez: Canlı Hayvan İthalat Fiyatı 5,70 Dolardan 9,15 Dolara Çıktı",
       "url": "https://www.tarimpusulasi.com/haber/turhan-comez-canli-hayvan-ithalat-fiyati-570-dolardan-915-dolara-cikti-46708",
@@ -125,14 +133,6 @@
       "date": "2026-06-02",
       "summary": "Toprak Mahsulleri Ofisi (TMO), üreticilerin merakla beklediği 2026 yılı hububat alım ve satış fiyatlarını resmen duyurdu. Yağışlar nedeniyle geciken hasat döneminde çiftçiye can suyu olacak alım fiyatlarının yanı sıra, Tarım ve Orman Bakanlığı'nın ton başına vereceği destekler de netleşti. Peki, 202",
       "content": "Haber Merkezi - TMO, üreticilerin merakla beklediği 2026 yılı hububat alım ve satış fiyatlarını resmen duyurdu. Yağışlar nedeniyle geciken hasat döneminde çiftçiye can suyu olacak alım fiyatlarının yanı sıra, Tarım ve Orman Bakanlığı'nın ton başına vereceği destekler de netleşti.\n\nPeki, 2026 TMO buğday ve arpa fiyatları ne kadar oldu? Desteklerle birlikte çiftçinin eline ne kadar geçecek? İşte ekmeklik buğday, makarnalık buğday ve arpa fiyat listesi ile ödeme takvimine dair tüm detaylar...\n\nTürkiye genelinde hububat hasadı, bu yıl gerçekleşen yoğun yağışlar sebebiyle geçen yıla oranla gecikmeli olarak başladı. Belirli bölgelerde devam eden hasat süreciyle birlikte, üreticilerin mağdur olmaması adına hamleler hızlandı. Hasadını tamamlayan üreticilere güvenli depolama imkanı sunmak amacıyla TMO, 21 Mayıs 2026 tarihinden itibaren Çiftçi Kayıt Sistemi'ne (ÇKS) kayıtlı buğday ve arpa ürünlerini taahhütname karşılığında teslim almaya başlamıştı.\n\nHububat hasadını ve piyasa hareketlerini yakından takip eden Tarım ve Orman Bakanlığı ile TMO, piyasa istikrarını sağlamak ve üretici emeğini korumak amacıyla 2026 yılı hububat alım fiyatlarını kamuoyuna sundu.\n\n2026 TMO Hububat Alım Fiyatları Ne Kadar Oldu? (2. Grup Ürünler)\n\nAçıklanan yeni sezona ait TMO hububat alım fiyatları, 2. grup ürünler baz alınarak ton başına şu şekilde belirlendi:\n\nMakarnalık Buğday Alım Fiyatı: 16.500 TL / Ton\n\nEkmeklik Buğday Alım Fiyatı: 16.500 TL / Ton\n\nArpa Alım Fiyatı: 12.750 TL / Ton\n\nBakanlık Destekleriyle Ton Başına Kazanç Ne Kadar Olacak?\n\nTarım ve Orman Bakanlığı, üreticilerin üretim maliyetlerini hafifletmek ve sürdürülebilir tarımı teşvik etmek amacıyla bu yıl destek miktarında önemli bir artışa gitti. Üreticilere; temel destek, planlı üretim desteği ve sertifikalı tohum kullanım desteği olmak üzere dekar başına toplam 980 TL ödeme yapılacak.\n\nÜlke genelindeki ortalama verim oranları dikkate alınarak hesaplandığında, bu destekler ton başına toplam 3.014 TL destek ödemesine tekabül ediyor. Bakanlık desteklerinin alım fiyatlarına eklenmesiyle birlikte üreticinin eline geçecek net tutarlar şu şekilde gerçekleşti:\n\nTMO Ürün Bedeli Ödemeleri Ne Zaman Yapılacak?\n\nÜreticilerin en çok merak ettiği konulardan biri olan ödeme takvimi de netlik kazandı. TMO tarafından yapılan resmi açıklamaya göre; ürün bedeli ödemeleri, ürünün ofise teslim edilmesine müteakip 45 gün içerisinde doğrudan üreticilerin banka hesaplarına aktarılacak.\n\nTMO Hububat Satış Fiyatları ve Satış Tarihi de Belli Oldu\n\nPiyasa dengesini korumak ve sanayicinin önünü görebilmesini sağlamak amacıyla TMO, hububat satışlarına başlayacağı tarihi ve satış rakamlarını da eş zamanlı olarak ilan etti. 1 Ekim 2026 itibarıyla başlayacak olan TMO hububat satış fiyatları şu şekildedir:\n\n2. Grup Makarnalık Buğday Satış Fiyatı: 18.500 TL / Ton\n\n2. Grup Ekmeklik Buğday Satış Fiyatı: 18.500 TL / Ton\n\n2. Grup Arpa Satış Fiyatı: 14.000 TL / Ton\n\nTarım ve Orman Bakanlığı, açıklamanın sonunda tüm üreticilere hayırlı ve bereketli bir hasat sezonu diledi."
-    },
-    {
-      "title": "Tarım ve Orman Bakanlığı süt üreticilerine 24,5 milyar TL ödedi",
-      "url": "https://www.tarimpusulasi.com/haber/tarim-ve-orman-bakanligi-sut-ureticilerine-245-milyar-tl-odedi-46701",
-      "source": "Tarım Pusulası",
-      "date": "2026-06-01",
-      "summary": "Tarım ve Orman Bakanlığı, 1 Haziran Dünya Süt Günü kapsamında yaptığı açıklamada Türkiye'nin 2025 yılı çiğ süt üretiminin 21 milyon tonu aşarak Avrupa'da 3'üncü sırada yer aldığını bildirirken, son 6 yılda üreticilere 24,5 milyar lirayı aşkın çiğ süt desteği sağlandığını duyurdu.",
-      "content": "ANKARA - Tarım ve Orman Bakanlığı, 1 Haziran Dünya Süt Günü dolayısıyla resmi sosyal medya hesaplarından bir kutlama mesajı ve güncel sektörel verileri içeren 1 Haziran Dünya Süt Günü.jpg isimli bir infografik yayımladı. \"Birlikte Üretiyor Birlikte Büyüyoruz\" mottosuyla paylaşılan verilerde, Türkiye'nin çiğ süt üretimindeki küresel ve bölgesel gücü ile üreticilere yönelik mali desteklerin boyutları gözler önüne serildi.\n\nÜretim Verileri ve Küresel Sıralama Açıklandı\n\nBakanlık tarafından paylaşılan resmi verilere göre, Türkiye’de 2025 yılında toplam 21 milyon 379 bin 88 ton çiğ süt üretimi gerçekleştirildi. Bu üretimin 11 milyon 232 bin 541 tonluk kısmının ise ticari işletmelerce toplanan inek sütünden oluştuğu belirtildi. Elde edilen bu üretim hacmiyle birlikte Türkiye, inek sütü üretiminde Avrupa'da 3'üncü, dünyada ise 9'uncu sırada yer alarak küresel süt piyasasındaki güçlü konumunu korudu.\n\nÜreticiye Son 6 Yılda Dev Destek\n\nSektörün sürdürülebilirliğini sağlamak ve üreticinin emeğini korumak amacıyla yürütülen destekleme politikalarına da değinilen açıklamada, mali yardımların bilançosu paylaşıldı. Tarım ve Orman Bakanlığı, son 6 yıllık süreçte süt üreticilerine tam olarak 24 milyar 595 milyon 568 bin TL çiğ süt desteği ödemesi gerçekleştirildiğini bildirdi.\n\nBakanlığın yayımladığı resmi açıklamada şu ifadelere yer verildi:\n\n\"Sofralarımızın bereketi, üreticimizin emeğiyle büyüyor... 2025 yılında 21 milyon tonu aşan çiğ süt üretimimizle; Avrupa'da 3. Dünyada 9. sıradayız. Son 6 yılda süt üreticilerimize sağladığımız 24,5 milyar liralık destekle sektörümüze güç katmaya, emeği berekete dönüştürmeye devam edeceğiz. 1 Haziran Dünya Süt Günü kutlu olsun.\""
     }
   ],
   "commoditiesByBorsa": {
@@ -277,24 +277,24 @@
     }
   ],
   "dieselByCity": {
-    "ANKARA": 66.37,
-    "ISTANBUL": 65.2,
-    "IZMIR": 66.64,
-    "KONYA": 67.53,
-    "ADANA": 67.2,
-    "BURSA": 66.25,
-    "ANTALYA": 67.69,
-    "SAMSUN": 66.94,
-    "TEKIRDAG": 66.1,
-    "CANAKKALE": 67
+    "ANKARA": 67.43,
+    "ISTANBUL": 66.26,
+    "IZMIR": 67.7,
+    "KONYA": 68.59,
+    "ADANA": 68.26,
+    "BURSA": 67.31,
+    "ANTALYA": 68.75,
+    "SAMSUN": 68,
+    "TEKIRDAG": 67.16,
+    "CANAKKALE": 68.06
   },
   "inputs": [
     {
       "key": "motorin",
       "name": "Motorin (mazot)",
       "unit": "₺/lt",
-      "price": 67,
-      "change": 0,
+      "price": 68.06,
+      "change": 1.58,
       "source": "CANAKKALE ort."
     },
     {
@@ -328,17 +328,5 @@
   "defaultBorsa": "5ED10",
   "defaultCity": "CANAKKALE",
   "note": "Fiyatlar TOBB ticaret borsasından (borsa seçilebilir). Kanola manuel (Trakya 2025).",
-  "inputsNote": "Mazot: akaryakıt bayi fiyatı, günlük (şehir seçilebilir). Gübre: manuel (yaklaşık).",
-  "errors": [
-    "mazot ANKARA: fetch failed",
-    "mazot ISTANBUL: fetch failed",
-    "mazot IZMIR: fetch failed",
-    "mazot KONYA: fetch failed",
-    "mazot ADANA: fetch failed",
-    "mazot BURSA: fetch failed",
-    "mazot ANTALYA: fetch failed",
-    "mazot SAMSUN: fetch failed",
-    "mazot TEKIRDAG: fetch failed",
-    "mazot CANAKKALE: fetch failed"
-  ]
+  "inputsNote": "Mazot: akaryakıt bayi fiyatı, günlük (şehir seçilebilir). Gübre: manuel (yaklaşık)."
 }
