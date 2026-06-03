@@ -1,43 +1,59 @@
 {
-  "updatedAt": "2026-06-03T05:18:22.089Z",
+  "updatedAt": "2026-06-03T10:11:06.721Z",
   "fx": [
     {
       "code": "USD",
       "name": "Dolar",
-      "buy": 459375,
-      "sell": 459582,
-      "change": 2
+      "buy": 45956,
+      "sell": 459587,
+      "change": 4
     },
     {
       "code": "EUR",
       "name": "Euro",
-      "buy": 534367,
-      "sell": 534987,
-      "change": -3
+      "buy": 534422,
+      "sell": 534541,
+      "change": -7
     },
     {
       "code": "GRA",
       "name": "Gram Altın",
-      "buy": 660707,
-      "sell": 660795,
-      "change": -36
+      "buy": 659168,
+      "sell": 659263,
+      "change": -59
     },
     {
       "code": "CEYREKALTIN",
       "name": "Çeyrek Altın",
-      "buy": 1065434,
-      "sell": 1089969,
-      "change": 0
+      "buy": 1057079,
+      "sell": 1081193,
+      "change": -81
     },
     {
       "code": "CUMHURIYETALTINI",
       "name": "Cumhuriyet Altını",
-      "buy": 44164,
-      "sell": 44836,
-      "change": 136
+      "buy": 43764,
+      "sell": 44436,
+      "change": -89
     }
   ],
   "news": [
+    {
+      "title": "Yumaklı: IPARD III Kapsamında 30 Milyon Avro Destek Sağlanacak",
+      "url": "https://www.tarimpusulasi.com/haber/yumakli-ipard-iii-kapsaminda-30-milyon-avro-destek-saglanacak-46710",
+      "source": "Tarım Pusulası",
+      "date": "2026-06-03",
+      "summary": "Tarım ve Orman Bakanı İbrahim Yumaklı, 30 milyon avro bütçeli IPARD III Programı 11. Başvuru Çağrı İlanı'nın yayımlandığını açıkladı. Program kapsamında süt, et, yumurta, meyve-sebze ve su ürünleri işleme tesisleri ile süt toplama merkezleri ve soğuk hava depolarına destek sağlanacak.",
+      "content": "ANKARA — Tarım ve Orman Bakanı İbrahim Yumaklı, IPARD III Programı kapsamında hazırlanan 11. Başvuru Çağrı İlanı'nın yayımlandığını duyurdu. Bakan Yumaklı, sosyal medya hesabından yaptığı açıklamada programın toplam bütçesinin 30 milyon avro olduğunu belirtti.\n\nYumaklı, kırsal kalkınma yatırımlarının desteklenmesine yönelik çalışmaların sürdüğünü ifade ederek, program kapsamında tarım ve balıkçılık ürünlerinin işlenmesi ve pazarlanmasına yönelik yatırımların destekleneceğini kaydetti.\n\nAçıklamaya göre desteklerden; süt, et, yumurta, meyve-sebze ve su ürünleri işleme tesisleri yararlanabilecek. Ayrıca süt toplama merkezleri ile soğuk hava depoları da destek kapsamına alınacak.\n\nBakan Yumaklı paylaşımında, kırsal kalkınmanın güçlendirilmesi ve girişimcilerin desteklenmesi hedefiyle çalışmaların sürdüğünü belirterek, üretim kapasitesinin artırılmasına yönelik destek mekanizmalarının devam edeceğini ifade etti.\n\nIPARD III Programı, tarım ve kırsal kalkınma alanındaki yatırımların teşvik edilmesi, işleme ve depolama altyapısının geliştirilmesi ve kırsal bölgelerde ekonomik faaliyetlerin güçlendirilmesini amaçlayan destek programları arasında yer alıyor.\n\nTarım ve Orman Bakanlığı tarafından duyurulan yeni çağrı kapsamında başvuru süreçleri ve yatırım şartlarına ilişkin detayların ilgili kurumlar tarafından ilan edilmesi bekleniyor."
+    },
+    {
+      "title": "Tekirdağ Ziraat Odaları: Buğday Fiyatı Maliyetin Altında",
+      "url": "https://www.tarimpusulasi.com/haber/tekirdag-ziraat-odalari-bugday-fiyati-maliyetin-altinda-46709",
+      "source": "Tarım Pusulası",
+      "date": "2026-06-03",
+      "summary": "Tekirdağ Ziraat Odaları İl Koordinasyon Kurulu, TMO'nun 2026 yılı buğday taban alım fiyatlarının üretim maliyetlerinin altında kaldığını savundu. Kurul, açıklanan destek hesaplamalarının bölgesel verim koşullarını yansıtmadığını belirterek ürün fark ödemesinin kilogram başına en az 3 lira olarak bel",
+      "content": "TEKİRDAĞ — Toprak Mahsulleri Ofisi (TMO) tarafından 2 Haziran 2026 tarihinde ilan edilen buğday ve arpa taban alım fiyatları, üreticiler cephesinde tartışma yarattı. Tekirdağ Ziraat Odaları İl Koordinasyon Kurulu, yayımladığı ortak basın açıklamasıyla açıklanan taban fiyatların üretim maliyetlerinin altında kaldığını duyurdu.\n\nTekirdağ İl Koordinasyon Kurulu Başkanı İmdat Saygı ve ilçe ziraat odası başkanlarının ortak imzasıyla yayımlanan açıklamada, tarımsal üretimdeki girdi maliyetlerinin her geçen gün arttığına dikkat çekilerek, mevcut fiyat politikasının çiftçiyi zor durumda bıraktığı ifade edildi.\n\n\"Destekleme Modeli Bölge Gerçekleriyle Uyuşmuyor\"\n\nAçıklamada, 2025 yılı itibarıyla yürürlüğe giren planlı destekleme modeli kapsamında ton başına prim desteklerinin kaldırıldığı hatırlatıldı. TMO'nun taban fiyat açıklamasında ton başına 3.014 TL destek ödeneceğinin belirtilmesine karşın, bu hesaplamanın Türkiye genelindeki ortalama buğday verimi olan 325 kg/dekar varsayımı üzerinden yapıldığı vurgulandı.\n\nTekirdağ genelinde buğday verim ortalamasının 500 kg/dekar düzeyinde olduğunu belirten kurul yetkilileri, ilan edilen 3.014 TL'lik desteğin gerçek hesaplamasını şu verilerle paylaştı:\n\nTemel Destek (Dekar başına): 403,00 TL\n\nPlanlı Üretim Desteği (Dekar başına): 403,00 TL\n\nSertifikalı Ürün Desteği (Dekar başına): 173,60 TL\n\nToplam (Dekar Başına): 979,60 TL\n\nAçıklamada, yapılan bu hesaplamanın TMO'nun varsaydığı gibi 3 dekarlık alandan elde edilen 1 ton ürün için geçerli olabileceği, ancak Tekirdağ gibi yüksek verimli bölgelerde ton başına gerçek desteğin 1.016,06 TL'ye düştüğü belirtildi. Ayrıca çiftçinin bu hesaba sertifikalı tohum desteğini dahil edebilmesi için en az yüzde 60 oranında sertifikalı tohum ekimi yapması gerektiğinin altı çizildi.\n\nGirdi Maliyetleri Yüzde 60 Arttı, Taban Fiyat Yüzde 20 Zamlandı\n\nGübre, mazot ve ilaçlama gibi temel girdi fiyatlarındaki artış oranlarına değinen Tekirdağ Ziraat Odaları, yıllık üretim maliyetlerinin yüzde 30 ile yüzde 60 arasında yükseldiğini, buna karşın açıklanan alım fiyatındaki artışın yüzde 20 seviyesinde kaldığını belirterek bu durumun sürdürülemez olduğunu ifade etti.\n\nZiraat Odalarının Acil Talepleri\n\nÜreticilerin üretime devam edebilmesi amacıyla Tekirdağ Ziraat Odaları şu taleplerde bulundu:\n\nÜreticiye verilecek ürün fark ödemesinin (prim) en az 3,00 TL/Kg olacak şekilde acilen sisteme dahil edilmesi.\n\nResmî Gazete’de yayımlanan Cumhurbaşkanlığı Kararnamesi doğrultusunda, Temel Destek ve Planlı Üretim Desteklerinin 2026 yılı içerisinde çiftçilere ödenmesi.\n\nAçıklama, \"Üreticinin toprağa küsmemesi ve üretime devam edebilmesi için sesimizin duyulmasını istiyoruz. Kamuoyuna saygıyla duyurulur\" ifadeleriyle son buldu."
+    },
     {
       "title": "Hububatta büyük destek çarpıklığı: Tekirdağ Ziraat Odaları’ndan TMO buğday fiyatlarına sert tepki!",
       "url": "https://www.tarimdanhaber.com/hububatta-buyuk-destek-carpikligi-tekirdag-ziraat-odalarindan-tmo-bugday-fiyatlarina-sert-tepki",
@@ -117,22 +133,6 @@
       "date": "2026-06-02",
       "summary": "Antalya hallerinde 2026 yılı Mayıs ayında domates fiyat endeksi yıllık bazda yüzde 160,57 artarken, işlem miktarı yüzde 32,16 geriledi. Meyve fiyat endeksi yüzde 27,68, sebze fiyat endeksi ise yüzde 123,38 yükseldi. Veriler, arzda yaşanan düşüşün fiyatlar üzerindeki etkisini ortaya koydu.",
       "content": "ANTALYA - Antalya tarım hallerinde işlem gören domates, meyve ve sebze ürünlerine ait miktar ve fiyat endekslerinin Mayıs 2026 dönemi resmi sonuçları kamuoyuna açıklandı. Elde edilen son verilere göre, tarımsal arz talep dengelerindeki değişimler iç piyasa fiyat endekslerine doğrudan yansıdı. Mayıs ayında miktar endeksleri domateste 62, meyvede 64 ve sebzede 72 puan seviyesinde gerçekleşirken; fiyat endeksleri ise domateste 4926, meyvede 3926 ve sebzede 3105 olarak kayıtlara geçti.\n\nPiyasa arzındaki hareketliliği temsil eden Mayıs ayı miktar endeksi değişimleri incelendiğinde, aylık bazda tüm ürün gruplarında belirgin bir yükseliş gözlendi. Aylık işlem miktarı domateste yüzde 42.23, meyvede yüzde 81.76 ve sebzede yüzde 33.49 oranında artış gösterdi. Ancak üretim ve pazarlama dengelerini asıl ortaya koyan yıllık bazdaki değişimlerde tam tersi bir tablo oluştu. Yıllık bazda miktar endeksi meyvede yüzde 11.59 oranında artış gösterirken, domateste yüzde 32.16 ve sebzede yüzde 23.63 oranında sert azalışlar yaşandı. Bu verilere göre domates miktar endeksi yıllık bazda tarihi bir rekor azalış kaydetti.\n\nArzdaki bu daralma, hal çıkış fiyatlarında olağanüstü fiyat hareketlerini de beraberinde getirdi. Mayıs ayında domates fiyat endeksi, yıllık bazda yüzde 160.57 oranında rekor bir artışa imza attı. Uzmanlar, domatesin yıllık işlem miktarında yaşanan yüzde 32.16'lık büyük gerilemenin, fiyat endeksindeki bu agresif yükselişin temel tetikleyicisi olduğunu belirtti. Benzer şekilde, yıllık işlem miktarı yüzde 23.63 oranında daralan sebze grubunda da fiyat endeksi yıllık bazda yüzde 123.38 artış kaydetti. Meyve grubunda ise piyasaya sunulan miktar yüzde 11.59 oranında artmasına rağmen, fiyat endeksi yıllık bazda yüzde 27.68 yükseliş göstermekten geri durmadı.\n\nSon yedi yılın Mayıs ayı tarihsel trend analizi yapıldığında, piyasaların ortalama seyri daha net anlaşıldı. Mayıs ayında domates satış miktarı geçmiş yedi yılın ortalamasının üzerinde kalırken, meyve ve sebze satış miktarları ortalama seviyelerde seyretti. Fiyat seviyeleri açısından bakıldığında ise domates ve sebze fiyat endeksleri tarihi ortalamalar civarında dengelenirken, meyve fiyat seviyesinin geçmiş dönem ortalamalarının üzerinde gerçekleşmesi dikkat çekti.\n\nAylık bazdaki iç dinamiklerde ise domates işlem miktar endeksi yüzde 42.23 artarken, işlem fiyat endeksi bir önceki aya göre yüzde 33.95 düşüş sergiledi. Bu hareket, son yedi yılın Mayıs ayları dikkate alındığında miktar bazında ikinci en büyük artış, fiyat bazında ise dördüncü en büyük aylık azalış olarak kayıtlara geçti. Sebze grubunda aylık bazda miktar yüzde 33.49 artarken fiyatlar yüzde 38.71 düştü. Meyve grubunda ise işlem miktarı aylık bazda yüzde 81.76 artış gösterirken, işlem fiyat endeksinin aylık bazda yüzde 12.39 artması son yedi yılın rekor aylık artışı olarak finansal kayıtlardaki yerini aldı."
-    },
-    {
-      "title": "Tarım ve Orman Bakanlığı 2026 Hububat Alım Fiyatlarını Açıkladı",
-      "url": "https://www.tarimpusulasi.com/haber/tarim-ve-orman-bakanligi-2026-hububat-alim-fiyatlarini-acikladi-46702",
-      "source": "Tarım Pusulası",
-      "date": "2026-06-02",
-      "summary": "Tarım ve Orman Bakanlığı, 2026 yılı Toprak Mahsulleri Ofisi (TMO) hububat alım fiyatlarını açıkladı. Buna göre makarnalık ve ekmeklik buğdayın ton başına alım fiyatı 16 bin 500 TL, arpanın ise 12 bin 750 TL olarak belirlendi. Destek ödemeleriyle birlikte üreticilerin eline buğdayda ton başına 19 bin",
-      "content": "ANKARA – Tarım ve Orman Bakanlığı, 2026 yılı hububat alım fiyatlarını açıkladı. Bakanlık tarafından yapılan açıklamada, ülke genelinde hububat hasadının yağışlar nedeniyle geçen yıla göre gecikmeli başladığı belirtilirken, bazı bölgelerde hasat çalışmalarının sürdüğü ifade edildi.\n\nÜreticilere depolama imkânı sağlamak amacıyla Toprak Mahsulleri Ofisi'nin (TMO) 21 Mayıs 2026 tarihinden itibaren Çiftçi Kayıt Sistemi'nde (ÇKS) kayıtlı buğday ve arpa ürünlerini taahhütname karşılığında teslim almaya başladığı bildirildi.\n\nBuğday ve arpa alım fiyatları belli oldu\n\nBakanlık açıklamasına göre 2026 yılı TMO hububat alım fiyatları, ikinci grup ürünler için ton başına şu şekilde belirlendi:\n\nMakarnalık buğday: 16.500 TL\n\nEkmeklik buğday: 16.500 TL\n\nArpa: 12.750 TL\n\nAçıklamada, hububat hasadı ve piyasa gelişmelerinin yakından takip edildiği, mevcut şartlar dikkate alınarak alım fiyatlarının belirlendiği kaydedildi.\n\nDesteklerle birlikte üreticinin geliri artacak\n\nTarım ve Orman Bakanlığı tarafından üreticilere temel destek, planlı üretim desteği ve sertifikalı tohum kullanım desteği kapsamında dekara toplam 980 TL ödeme yapılacağı belirtildi.\n\nÜlke ortalama verimi dikkate alındığında bu desteklerin ton başına toplam 3 bin 14 TL'ye karşılık geldiği ifade edildi.\n\nBuna göre desteklerle birlikte üreticilerin eline geçecek toplam tutar:\n\nEkmeklik buğday: 19.514 TL/ton\n\nMakarnalık buğday: 19.514 TL/ton\n\nArpa: 15.764 TL/ton\n\nolarak hesaplandı.\n\nÜrün bedelleri 45 gün içinde ödenecek\n\nBakanlık açıklamasında, TMO tarafından teslim alınan ürünlerin bedellerinin, teslim tarihini takip eden 45 gün içerisinde üreticilerin banka hesaplarına aktarılacağı bildirildi.\n\nTMO satış fiyatları da açıklandı\n\nToprak Mahsulleri Ofisi'nin hububat satışlarına 1 Ekim 2026 tarihinde başlayacağı belirtilirken, ikinci grup ürünler için satış fiyatları da duyuruldu.\n\nBuna göre satış fiyatları:\n\nMakarnalık buğday: 18.500 TL/ton\n\nEkmeklik buğday: 18.500 TL/ton\n\nArpa: 14.000 TL/ton\n\nolarak belirlendi.\n\nTarım ve Orman Bakanlığı, açıklamasının sonunda tüm üreticilere bereketli ve verimli bir hasat sezonu temennisinde bulundu."
-    },
-    {
-      "title": "TMO 2026 yılı hububat alım fiyatlarını açıkladı! İşte buğday, arpa fiyatları ve Bakanlık destekleri",
-      "url": "https://www.tarimdanhaber.com/tmo-2026-yili-hububat-alim-fiyatlarini-acikladi-iste-bugday-arpa-fiyatlari-ve-bakanlik-destekleri",
-      "source": "Tarımdan Haber",
-      "date": "2026-06-02",
-      "summary": "Toprak Mahsulleri Ofisi (TMO), üreticilerin merakla beklediği 2026 yılı hububat alım ve satış fiyatlarını resmen duyurdu. Yağışlar nedeniyle geciken hasat döneminde çiftçiye can suyu olacak alım fiyatlarının yanı sıra, Tarım ve Orman Bakanlığı'nın ton başına vereceği destekler de netleşti. Peki, 202",
-      "content": "Haber Merkezi - TMO, üreticilerin merakla beklediği 2026 yılı hububat alım ve satış fiyatlarını resmen duyurdu. Yağışlar nedeniyle geciken hasat döneminde çiftçiye can suyu olacak alım fiyatlarının yanı sıra, Tarım ve Orman Bakanlığı'nın ton başına vereceği destekler de netleşti.\n\nPeki, 2026 TMO buğday ve arpa fiyatları ne kadar oldu? Desteklerle birlikte çiftçinin eline ne kadar geçecek? İşte ekmeklik buğday, makarnalık buğday ve arpa fiyat listesi ile ödeme takvimine dair tüm detaylar...\n\nTürkiye genelinde hububat hasadı, bu yıl gerçekleşen yoğun yağışlar sebebiyle geçen yıla oranla gecikmeli olarak başladı. Belirli bölgelerde devam eden hasat süreciyle birlikte, üreticilerin mağdur olmaması adına hamleler hızlandı. Hasadını tamamlayan üreticilere güvenli depolama imkanı sunmak amacıyla TMO, 21 Mayıs 2026 tarihinden itibaren Çiftçi Kayıt Sistemi'ne (ÇKS) kayıtlı buğday ve arpa ürünlerini taahhütname karşılığında teslim almaya başlamıştı.\n\nHububat hasadını ve piyasa hareketlerini yakından takip eden Tarım ve Orman Bakanlığı ile TMO, piyasa istikrarını sağlamak ve üretici emeğini korumak amacıyla 2026 yılı hububat alım fiyatlarını kamuoyuna sundu.\n\n2026 TMO Hububat Alım Fiyatları Ne Kadar Oldu? (2. Grup Ürünler)\n\nAçıklanan yeni sezona ait TMO hububat alım fiyatları, 2. grup ürünler baz alınarak ton başına şu şekilde belirlendi:\n\nMakarnalık Buğday Alım Fiyatı: 16.500 TL / Ton\n\nEkmeklik Buğday Alım Fiyatı: 16.500 TL / Ton\n\nArpa Alım Fiyatı: 12.750 TL / Ton\n\nBakanlık Destekleriyle Ton Başına Kazanç Ne Kadar Olacak?\n\nTarım ve Orman Bakanlığı, üreticilerin üretim maliyetlerini hafifletmek ve sürdürülebilir tarımı teşvik etmek amacıyla bu yıl destek miktarında önemli bir artışa gitti. Üreticilere; temel destek, planlı üretim desteği ve sertifikalı tohum kullanım desteği olmak üzere dekar başına toplam 980 TL ödeme yapılacak.\n\nÜlke genelindeki ortalama verim oranları dikkate alınarak hesaplandığında, bu destekler ton başına toplam 3.014 TL destek ödemesine tekabül ediyor. Bakanlık desteklerinin alım fiyatlarına eklenmesiyle birlikte üreticinin eline geçecek net tutarlar şu şekilde gerçekleşti:\n\nTMO Ürün Bedeli Ödemeleri Ne Zaman Yapılacak?\n\nÜreticilerin en çok merak ettiği konulardan biri olan ödeme takvimi de netlik kazandı. TMO tarafından yapılan resmi açıklamaya göre; ürün bedeli ödemeleri, ürünün ofise teslim edilmesine müteakip 45 gün içerisinde doğrudan üreticilerin banka hesaplarına aktarılacak.\n\nTMO Hububat Satış Fiyatları ve Satış Tarihi de Belli Oldu\n\nPiyasa dengesini korumak ve sanayicinin önünü görebilmesini sağlamak amacıyla TMO, hububat satışlarına başlayacağı tarihi ve satış rakamlarını da eş zamanlı olarak ilan etti. 1 Ekim 2026 itibarıyla başlayacak olan TMO hububat satış fiyatları şu şekildedir:\n\n2. Grup Makarnalık Buğday Satış Fiyatı: 18.500 TL / Ton\n\n2. Grup Ekmeklik Buğday Satış Fiyatı: 18.500 TL / Ton\n\n2. Grup Arpa Satış Fiyatı: 14.000 TL / Ton\n\nTarım ve Orman Bakanlığı, açıklamanın sonunda tüm üreticilere hayırlı ve bereketli bir hasat sezonu diledi."
     }
   ],
   "commoditiesByBorsa": {
@@ -294,7 +294,7 @@
       "name": "Motorin (mazot)",
       "unit": "₺/lt",
       "price": 68.06,
-      "change": 1.58,
+      "change": 0,
       "source": "CANAKKALE ort."
     },
     {
