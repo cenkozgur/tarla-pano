@@ -1,26 +1,26 @@
 {
-  "updatedAt": "2026-06-04T16:39:06.699Z",
+  "updatedAt": "2026-06-04T19:07:20.786Z",
   "fx": [
     {
       "code": "USD",
       "name": "Dolar",
-      "buy": 459641,
-      "sell": 459786,
+      "buy": 459646,
+      "sell": 459794,
       "change": 1
     },
     {
       "code": "EUR",
       "name": "Euro",
-      "buy": 535607,
-      "sell": 536117,
-      "change": 44
+      "buy": 535026,
+      "sell": 535602,
+      "change": 34
     },
     {
       "code": "GRA",
       "name": "Gram Altın",
-      "buy": 662391,
-      "sell": 662481,
-      "change": 108
+      "buy": 662159,
+      "sell": 662251,
+      "change": 104
     },
     {
       "code": "CEYREKALTIN",
@@ -38,6 +38,14 @@
     }
   ],
   "news": [
+    {
+      "title": "Hububatta 45 günlük vade krizinde gece yarısı telefonu: \"Para tutulmayacak, hemen ödeyin!\"",
+      "url": "https://www.tarimdanhaber.com/hububatta-45-gunluk-vade-krizinde-gece-yarisi-telefonu-para-tutulmayacak-hemen-odeyin",
+      "source": "Tarımdan Haber",
+      "date": "2026-06-04",
+      "summary": "Tarım Bakanı İbrahim Yumaklı ile kritik bir görüşme gerçekleştiren ATB Başkanı Şahin Bilgiç, buğday üreticisinin günlerdir tepki gösterdiği '45 günlük vade' krizine son noktayı koydu. Bakanlığın sahne arkası kararını ilk ağızdan aktaran Bilgiç, \"Para tutulmayacak, bugün-yarın bile ödeyecek durumdayı",
+      "content": "ATB Başkanı Bilgiç’ten Buğday Üreticisine Müjde: \"Para 45 Günde Değil, Birkaç Günde Ödenecek!\"\n\nHaber Merkezi - Toprak Mahsulleri Ofisi'nin (TMO) buğday alım fiyatını açıklamasının ardından üreticilerin en çok tepki gösterdiği \"45 günlük ödeme süresi\" hakkında flaş bir gelişme yaşandı. Adana Ticaret Borsası (ATB) Başkanı Şahin Bilgiç, Tarım ve Orman Bakanı İbrahim Yumaklı ve TMO Genel Müdürü Ahmet Güldal ile yaptığı kritik görüşmenin detaylarını paylaştı. Bilgiç, bakanlığın üreticiye ödemeleri 45 gün bekletmeden, birkaç gün içinde yapacağını belirtti.\n\n\"45 Gün En Kötü Senaryo İçin Söylendi, Bugün-Yarın Ödeyecek Durumdayız\"\n\nEkonomim'den Eray Şen'in haberine göre, TMO’nun ikinci grup buğday için ton başına 16 bin 500 lira, birinci grup için ise 16 bin 750 lira alım fiyatı açıkladığını hatırlatan ATB Başkanı Şahin Bilgiç, üreticilerden gelen \"45 günlük vade çok uzun\" şikayetlerini doğrudan Ankara'ya taşıdı.\n\nBakan Yumaklı ve TMO Genel Müdürü Güldal ile yaptığı görüşmenin detaylarını aktaran Bilgiç, şu ifadeleri kullandı:\n\n“Bizi arayan üreticilerimiz ödeme sürecinin uzunluğundan dert yanıyordu. Dün Tarım Bakanımız ve TMO Genel Müdürümüz ile görüştüm. 45 günlük sürenin, her ihtimal, olası yoğunluk ve gecikmeler dikkate alınarak ifade edilmiş bir 'en üst sınır' olduğu belirtildi. Tarım Bakanımızın net ifadesi; üreticiye ürünü döktüğü günden itibaren en kısa sürede ödeme yapılacağı yönünde. Hatta, 'Bugün-yarın bile ödeyebilecek durumdayız, hızlı ödeyeceğiz, para tutmayacağız' dediler.”\n\n\"Fiyat Dünya Oranının %50 Üzerinde Ama Girdi Maliyetleri Yüksek\"\n\nDünya piyasaları ile Türkiye'deki fiyatları kıyaslayan Bilgiç, küresel çapta buğdayın tonunun 250 dolar (yaklaşık 11 bin 500 TL) seviyesinde olduğunu belirterek, Türkiye'de verilen fiyatın dünya ortalamasının %50 üzerinde olduğunu kaydetti. Bölgesel savaşlar nedeniyle gübre ve yakıt gibi girdi maliyetlerinin yüksek olduğunu vurgulayan Bilgiç, yüksek verimin bu fiyatı tolere edeceğini söyledi:\n\n\"Üretici bu maliyetlerle belki çok büyük karlar etmeyecek ama sevindirici olan gelişme verim ve kalitenin çok yüksek olması. Biçilen yerlerde dekara 700-800 kiloları duymaya başladık. Geçen yıl 18.6 milyon ton olan Türkiye geneli üretimin bu yıl 23-24 milyon tonu bulmasını bekliyoruz. Yüksek rekolte fiyatı telafi edecektir. Verilen fiyat fazla değil ama üreticiyi sıkıntıya sokacak bir rakam da değil.\"\n\nTarihi Rekolte Beklentisi: Adana’da hedef 500 bin tonu geçmek\n\nTürkiye’nin bugüne kadar 21 milyon ton buğday üretimini geçmediğini hatırlatan ATB Başkanı Bilgiç, bu yıl beklenen 23.5 milyon tonluk tarihi rekoltenin çok ciddi bir seviye olduğunu belirtti. Adana özelinde de üretimin geçen yılki 350 bin ton seviyesinden bu yıl 500 bin tonun üzerine çıkacağını müjdeledi.\n\nLisanslı Depo İşlemleri Bir Günde Tamam\n\nÜreticilere ATB bünyesindeki lisanslı depoları kullanma çağrısında bulunan Bilgiç, \"TMO adına Adana Ticaret Borsası lisanslı depoları ürün almaya başladı. Üreticilerimiz ürünlerini lisanslı depolarımıza getirip, elektronik ürün senedi oluşturarak bir gün sonra işleme koyabilir. İster TMO’ya devredebilir, ister piyasaya satabilir\" diyerek sürecin hızlandırıldığını belirtti."
+    },
     {
       "title": "İran'daki Gerilim Küresel Gübre Üretimini Tehdit Ediyor",
       "url": "https://www.tarimpusulasi.com/haber/irandaki-gerilim-kuresel-gubre-uretimini-tehdit-ediyor-46729",
@@ -125,14 +133,6 @@
       "date": "2026-06-03",
       "summary": "TMO'nun yeni dönem hububat alım fiyatlarını duyurmasıyla serbest piyasada deprem yaşandı. Kararın ardından buğday fiyatları yatay seyrini korurken, arpa fiyatları sadece 24 saat içinde tonda bin lira birden çakıldı! 45 günlük vade bariyeriyle sarsılan piyasada düşüşün devam etmesinden endişe ediliyo",
       "content": "Tarımdan Haber Özel / Toprak Mahsulleri Ofisi'nin (TMO) merakla beklenen yeni dönem hububat alım fiyatlarını açıklaması, serbest piyasada deyim yerindeyse deprem etkisi yaptı. Açıklanan fiyatlar ve 45 günlük vade beklentisi sonrası, buğday fiyatları yatay seyrini korurken, arpa fiyatları adeta dibe vurdu. Ticaret borsalarında sadece 24 saat içinde tonda bin lira birden zarar eden arpa, hububat içinde asıl darbeyi yiyen ürün oldu.\n\nPeki, arpa fiyatları neden bu kadar sert düştü, serbest piyasada beklentiler ne yönde ve bu durum yem fiyatlarını nasıl etkileyecek? İşte ticaret borsaları ve TÜRİB'den alınan son dakika verileriyle hububat piyasasındaki sıcak gelişmeler...\n\nArpa Fiyatları Bir Günde Tonda Bin Lira Birden Düştü!\n\nHububat alım fiyatları açıklanmadan önce piyasada güçlü bir duruş sergileyen arpa fiyatları, TMO'nun müdahalesiyle birlikte sert bir kırılma yaşadı. 2 Haziran 2026 tarihinde ticaret borsalarında 14 bin lira bandında (ortalama 14.031 TL) işlem gören arpa, fiyatların ilan edilmesinin ardından 3 Haziran 2026'da tonda bin lira birden değer kaybederek 13 bin lira bandına (ortalama 13.043 TL) geriledi.\n\nSektör yetkililerine göre, arpanın buğdaya oranla çok daha derin bir darbe almasını iki temel nedene bağlıyor:\n\nAlım Fiyatının Beklentilerin Altında Kalması: TMO'nun arpa alım fiyatını 12.750 TL olarak açıklaması piyasadaki rüzgarı tersine çevirdi. Buğday fiyatına yüzde 26 artış yapılırken, arpa fiyatına yüzde 16 artış yapıldı.\n\n45 Günlük Vade Bariyeri: Üreticinin parasını 45 gün sonra alacağı yönündeki beklenti, serbest piyasadaki peşin satış baskısını artırdı ve fiyatları aşağı çekti.\n\nSerbest Piyasada Korkutan Tahmin: \"11 Bin Liraya Kadar Düşebilir\"\n\nPiyasa analistleri ve sektör temsilcileri, arpa fiyatları için düşüş trendinin henüz son bulmadığı konusunda uyarıyor. İlk gün yaşanan bin liralık şok düşüşün ardından, serbest piyasada arpa fiyatlarının 11 bin TL ila 11 bin 500 TL seviyelerine kadar gerileyebileceği tahmin ediliyor. Bu durum, üretici için çok ciddi bir gelir kaybı anlamına geliyor.\n\nBuğday Direndi, Arpa Çakıldı: İşte Borsalardaki Son Durum\n\nTMO'nun kararı serbest piyasadaki buğday fiyatlarını ise radikal bir şekilde etkilemedi. Ekmeklik ve makarnalık buğday, fiyat açıklanmadan önceki seviyelerini korumayı başardı.\n\nİşte 15 Ticaret Borsası ortalamasına göre fiyatların 2 Haziran ve 3 Haziran kıyaslaması:\n\nTMO İthalat Maliyetine Yakın Fiyat Açıkladı\n\nHububat alım fiyatlarında dikkat çeken en önemli detaylardan biri de TMO'nun belirlediği arpa fiyat stratejisi oldu. Şu anda yurt dışı piyasalarında arpa fiyatları 260 dolar seviyesinde seyrediyor. Bu rakam, sıfır gümrük ile hesaplandığında Türk Lirası bazında yaklaşık 12 bin TL ithal maliyetine denk geliyor. TMO'nun arpa alım fiyatını yurt dışı maliyet sınırına hemen yakın bir noktada, yani 12.750 TL olarak açıklaması piyasa yapıcılar tarafından dikkat çekici bir fiyat baskısı olarak yorumlandı.\n\nŞimdi Ne Olacak? Gözler Yem Fiyatlarında!\n\nArpa fiyatları cephesinde yaşanan bu sert düşüş, tarlasından binbir emekle mahsul kaldıran üreticiyi kara kara düşündürürken, hayvancılık sektöründe ise farklı bir merak konusunu tetikledi. Maliyetlerinin büyük kısmını yem girdisi oluşturan besici ve süt üreticileri, hammaddedeki bu düşüşün yem fiyatlarına indirim olarak yansıyıp yansımayacağını yakından takip etmeye başladı."
-    },
-    {
-      "title": "TMO Genel Müdürü Ahmet Güldal'dan flaş hububat uyarısı: \"TMO fiyatının 1,5 lira altına almak isteyecekler\"",
-      "url": "https://www.tarimdanhaber.com/tmo-genel-muduru-ahmet-guldaldan-flas-hububat-uyarisi-tmo-fiyatinin-15-lira-altina-almak-isteyecekler",
-      "source": "Tarımdan Haber",
-      "date": "2026-06-03",
-      "summary": "TMO Genel Müdürü Ahmet Güldal, hububat üreticilerini serbest piyasadaki büyük tehlikeye karşı uyardı! Açıkladığımız fiyatların 1 ila 1.5 TL altında alım yapmak isteyen fırsatçılar olacağını belirten Güldal, çiftçiye \"Oyuna gelmeyin, o fiyatı koruyun\" çağrısında bulundu.",
-      "content": "Haber Merkezi - Açıklanan hububat alım fiyatlarına tepkiler devam ederken, TMO Genel Müdürü Ahmet Güldal, Bloomberg HT'de katıldığı Tarım Analizi programında gelen tepkilere açıklık getirdi. TMO'nun bir regülasyon kurumu olduğunu belirterek, açıklanan alım fiyatını savunan Güldal, yeni dönem alım politikaları, maliyet kriterleri ve ödeme takvimine dair detayları paylaştı. Güldal, açıklamalarının son kısmında üreticilere uyarıda bulunarak: \"TMO’nun açıkladığı fiyatın 1 - 1,5 lira altında ticaret döndürmek isteyenler olacak, lütfen açıklamış olduğumuz fiyatın altında piyasaya ürün arz etmeyelim\"\n\n[youtube-video]https://www.youtube.com/watch?v=criZok1-rUk[/youtube-video]\n\nİşte TMO Genel Müdürü Ahmet Güldal’ın açıklamalarından öne çıkanlar başlıklar...\n\n\"Açıkladığımız Fiyatlar Üst Sınır Değil, Referans Fiyatlardır\"\n\nGenel Müdür Ahmet Güldal, TMO tarafından ilan edilen hububat alım fiyatlarının piyasa için bir taban ve yön gösterici yasal referans olduğunu vurguladı. Güldal, \"Açıkladığımız fiyatlar hiçbir zaman tavan ya da üst rakamlar değildir. Bu fiyatlar üreticimizin emeğini koruyan referans fiyatlardır. Üreticilerimizin bu fiyatların altında piyasaya ürün vermesini kesinlikle istemiyor ve tavsiye etmiyoruz\" diyerek piyasa spekülasyonlarına karşı uyardı.\n\n\"1 - 1,5 Lira Altına Ticaret Yapmak İsteyenler Olacak\"\n\nAçıklamasının en dikkat çekici ve üreticinin menfaatini doğrudan etkileyen son kısmında Güldal, serbest piyasadaki aktörlere ve fırsatçılara karşı şu uyarıyı yaptı:\n\n\"Bizim açıkladığımız fiyatların 1 lira, 1,5 lira altında ticaretin dönebileceğini, üreticilerimizden bu şekilde ucuza ürün almak isteyecek ticaret erbabının olacağını değerlendiriyoruz. Üreticilerimizden ricamız ve tavsiyemiz şudur: Lütfen bu açıklamış olduğumuz fiyatı koruyalım. Bu fiyatların altında piyasaya kesinlikle ürün arz etmeyelim.\"\n\nÖdemeler Ne Zaman Yapılacak?\n\nÜreticilerin en çok merak ettiği konulardan biri olan ödeme takvimine de açıklık getiren Ahmet Güldal, geçmiş yıllardaki 30 veya 45 günlük süreçlerin aksine daha esnek ve hızlı bir planlama içinde olduklarını belirtti. Çiftçilerin endişe etmemesi gerektiğini söyleyen Güldal, ödemelerin ürün teslimatından sonraki 3 hafta ile 6 hafta arasındaki bir takvimde tamamlanacağını ve ilk ödemelerin yavaş yavaş başlayacağını kaydetti.\n\n20 Milyon Tonun Üzerinde Depolama Kapasitesi Hazır\n\nBu yıl hububat üretiminde yüksek bir verimlilik beklediklerini ve rekoltenin yüz güldüreceğini belirten TMO Genel Müdürü, lojistik ve depolama açısından tüm tedbirlerin alındığını ifade etti. Güldal, piyasaya arz edilecek tahmini ürünün neredeyse iki katı kadar, yani 20 milyon ton ve üzerinde bir depolama kapasitesinin hazırlandığını ve son ürün gelene kadar alımların kesintisiz devam edeceğini söyledi.\n\nÇKS Üyesi Çiftçilere Dekar Başına Destek\n\nÜretim maliyetleri hesaplanırken bu yıl sulama masraflarının azalmasının maliyetlere olumlu yansıdığını ifade eden Güldal, destek konusunda da şunları kaydetti: \"Artık temel destek, planlı destek ve sertifikalı tohum desteği var. Eski prim sistemi planlı üretimden sonra kaldırıldı. Yeni sistemde, ÇKS'ye kayıtlı üreticilerimiz ürettikleri her dekar başına 980 liralık bir destek alıyor. Türkiye ortalaması 325 kilogram verim üzerinden hesaplandığında, bu destek ton başına 3.014 TL'ye tekabül ediyor. Yani 16.500 TL olan fiyat, bu destekle birlikte 19.514 TL'ye ulaşıyor. Bu desteklerin bir sonraki yıl ödenmesi uygulaması devam ediyor ancak çiftçinin sadece 16.500 TL ile baş başa kaldığını söylemek doğru olmaz. Verim yükseldiğinde destek miktarı oransal olarak düşse de verimden gelen katkı bunu fazlasıyla telafi etmektedir\" dedi."
     }
   ],
   "commoditiesByBorsa": {
@@ -328,5 +328,18 @@
   "defaultBorsa": "5ED10",
   "defaultCity": "CANAKKALE",
   "note": "Fiyatlar TOBB ticaret borsasından (borsa seçilebilir). Kanola manuel (Trakya 2025).",
-  "inputsNote": "Mazot: akaryakıt bayi fiyatı, günlük (şehir seçilebilir). Gübre: manuel (yaklaşık)."
+  "inputsNote": "Mazot: akaryakıt bayi fiyatı, günlük (şehir seçilebilir). Gübre: manuel (yaklaşık).",
+  "errors": [
+    "borsa 5ES10: fetch failed",
+    "mazot ANKARA: fetch failed",
+    "mazot ISTANBUL: fetch failed",
+    "mazot IZMIR: fetch failed",
+    "mazot KONYA: fetch failed",
+    "mazot ADANA: fetch failed",
+    "mazot BURSA: fetch failed",
+    "mazot ANTALYA: fetch failed",
+    "mazot SAMSUN: fetch failed",
+    "mazot TEKIRDAG: fetch failed",
+    "mazot CANAKKALE: fetch failed"
+  ]
 }
