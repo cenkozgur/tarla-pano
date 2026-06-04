@@ -1,43 +1,59 @@
 {
-  "updatedAt": "2026-06-04T13:49:21.428Z",
+  "updatedAt": "2026-06-04T16:39:06.699Z",
   "fx": [
     {
       "code": "USD",
       "name": "Dolar",
-      "buy": 459646,
-      "sell": 459852,
-      "change": 2
+      "buy": 459641,
+      "sell": 459786,
+      "change": 1
     },
     {
       "code": "EUR",
       "name": "Euro",
-      "buy": 534728,
-      "sell": 535383,
-      "change": 29
+      "buy": 535607,
+      "sell": 536117,
+      "change": 44
     },
     {
       "code": "GRA",
       "name": "Gram Altın",
-      "buy": 65901,
-      "sell": 659104,
-      "change": 56
+      "buy": 662391,
+      "sell": 662481,
+      "change": 108
     },
     {
       "code": "CEYREKALTIN",
       "name": "Çeyrek Altın",
-      "buy": 1056849,
-      "sell": 1080958,
-      "change": 0
+      "buy": 1064515,
+      "sell": 108903,
+      "change": 75
     },
     {
       "code": "CUMHURIYETALTINI",
       "name": "Cumhuriyet Altını",
-      "buy": 43808,
-      "sell": 44471,
-      "change": -81
+      "buy": 44131,
+      "sell": 44798,
+      "change": 74
     }
   ],
   "news": [
+    {
+      "title": "İran'daki Gerilim Küresel Gübre Üretimini Tehdit Ediyor",
+      "url": "https://www.tarimpusulasi.com/haber/irandaki-gerilim-kuresel-gubre-uretimini-tehdit-ediyor-46729",
+      "source": "Tarım Pusulası",
+      "date": "2026-06-04",
+      "summary": "İran’daki savaş ve Hürmüz Boğazı’ndaki lojistik sorunlar, küresel gübre tedarik zincirini bozarak fosfat üretimini düşürdü. Kükürt fiyatlarındaki sert artışın, dünya genelinde gıda üretimini olumsuz etkilemesi bekleniyor.",
+      "content": "Küresel gübre tedarik zincirinde yaşanan kesintiler, dünya genelinde gıda üretimine ilişkin endişeleri artırdı. Forbes’un Financial Times kaynaklı haberine göre, İran’daki savaş ve Hürmüz Boğazı çevresindeki lojistik sorunlar gübre üretiminde kritik rol oynayan kükürt tedarikini olumsuz etkiledi.\n\nKükürt arzındaki daralma, fosfat gübresi üretimini doğrudan düşürürken, bu durum mısır, soya, pirinç ve palm yağı gibi temel ürünlerin üretimini tehdit ediyor. Özellikle düşük gelirli ülkelerde verim kayıplarının artabileceği belirtiliyor.\n\nKüresel şirketlerde üretim düşüşü\n\nDünyanın önde gelen gübre üreticilerinden Mosaic, Brezilya ve ABD’de fosfat üretimini azaltmak zorunda kaldı. Şirket, kükürt fiyatlarındaki hızlı artışın kârlılığı olumsuz etkilediğini açıkladı.\n\nOCP Nutricrops ise bazı tesislerde bakım süreçlerini öne çekerek üretim kapasitesini düşürdü. Şirket, mevcut stratejik kükürt stoklarının üretimi yalnızca belirli bir süre daha sürdürebileceğini bildirdi.\n\nÇin ihracatı durdurdu\n\nKüresel tedarik zincirindeki daralma nedeniyle Çin, fosfat gübresi ihracatını ağustos ayına kadar durdurdu. Suudi Arabistan merkezli Ma’aden ve Sabic firmaları ihracata devam etse de Hürmüz Boğazı’ndaki aksaklıklar nedeniyle sevkiyat hacmi önemli ölçüde azaldı.\n\nFiyatlar tarihi seviyelerde\n\nSektör temsilcileri, kükürt fiyatlarının son bir yılda ton başına 150–180 dolardan 850–900 dolara yükseldiğini, bazı sevkiyatlarda ise 1000 dolara yaklaştığını belirtiyor.\n\nUzmanlara göre bu artış, gübre maliyetlerini yükselterek tarımsal üretimi baskılıyor ve bazı bölgelerde gıda arz güvenliği riskini artırıyor.\n\nGıda krizine dair uyarı\n\nSektör uzmanları, mevcut eğilimin devam etmesi halinde bazı bölgelerde verim kayıplarının artabileceğini ve bunun küresel ölçekte gıda arzında daralmaya yol açabileceğini ifade ediyor."
+    },
+    {
+      "title": "Domateslerde \"Sarı Yaprak Kıvırcıklığı\" Virüsüne Karşı Genetik Çözüm",
+      "url": "https://www.tarimpusulasi.com/haber/domateslerde-sari-yaprak-kivircikligi-virusune-karsi-genetik-cozum-46728",
+      "source": "Tarım Pusulası",
+      "date": "2026-06-04",
+      "summary": "Japonya’daki Kindai Üniversitesi araştırmacıları, domateslerde görülen TYLCD hastalığına karşı Ty gen kombinasyonlarının daha güçlü direnç sağladığını ortaya koydu. Araştırma, belirli gen kombinasyonlarının ticari üretimde hastalığa karşı daha etkili olabileceğini gösterdi.",
+      "content": "Japonya’daki Kindai Üniversitesi araştırmacıları, domates üretimini tehdit eden domates yaprak kıvırcıklığı sarı hastalığına (TYLCD) karşı yürütülen çalışmalarda önemli bulgulara ulaştı.\n\nBegomovirüs türü virüslerin neden olduğu hastalık, dünya genelinde domates veriminde ciddi kayıplara yol açıyor. Bu nedenle hastalığa karşı genetik direnç geliştirme çalışmaları uzun süredir tarımsal araştırmaların odağında bulunuyor.\n\nAraştırmada Ty gen kombinasyonları incelendi\n\nBilim insanları, TYLCD’ye karşı direnç sağlayan Ty genlerinin farklı kombinasyonlarını analiz etti. Çalışmada, AVTO serisi domates hatları ile birlikte hem dirençli hem de duyarlı ticari çeşitler test edildi.\n\nSonuçlara göre AVTO1919 ve AVTO1920 gibi bazı hatlar yüksek virüslere karşı güçlü direnç gösterirken, bazı ticari çeşitlerin hastalığa karşı daha savunmasız olduğu belirlendi.\n\nGen kombinasyonları direnç seviyesini belirliyor\n\nAraştırma, Ty-1, Ty-3 ve Ty-6 genlerinin belirli kombinasyonlarının, özellikle homozigot yapıda olduğunda daha güçlü bir bağışıklık sağladığını ortaya koydu.\n\nBuna karşın bazı gen kombinasyonlarının tek başına yeterli koruma sağlamadığı, hatta yüksek virülanslı virüs türlerine karşı sınırlı etki gösterdiği tespit edildi.\n\nTarımsal üretime katkı potansiyeli\n\nUzmanlara göre elde edilen bulgular, domates ve diğer sebze türlerinde hastalıklara dayanıklı yeni çeşitlerin geliştirilmesinde önemli bir rol oynayabilir. Çalışmanın, uzun vadede gıda güvenliği ve sürdürülebilir tarım açısından katkı sağlaması bekleniyor."
+    },
     {
       "title": "Hong Konglu araştırmacılar kar eksikliğinin buğdaya etkisini açıkladı",
       "url": "https://www.tarimpusulasi.com/haber/hong-konglu-arastirmacilar-kar-eksikliginin-bugdaya-etkisini-acikladi-46727",
@@ -101,22 +117,6 @@
       "date": "2026-06-04",
       "summary": "Türkiye Ziraat Odaları Birliği (TZOB) Genel Başkanı Şemsi Bayraktar, Mayıs ayı üretici-market fiyat değişimlerini açıkladı. Elmadaki fiyat farkı 4,9 katı bulurken, üretici ve marketteki fiyat dalgalanmalarının nedenleri belli oldu.",
       "content": "ANKARA – Türkiye Ziraat Odaları Birliği (TZOB) Genel Başkanı Şemsi Bayraktar, Mayıs ayına ilişkin üretici ve market fiyatlarındaki değişimleri değerlendirdi. Bayraktar’ın açıkladığı verilere göre, üretici ile market arasındaki makas açılmaya devam ediyor.\n\nElma 4,9 Kat Farkla Zirvede\n\nBayraktar, Mayıs ayında üretici ile market arasındaki fiyat farkının en fazla yüzde 388,5 ile elmada yaşandığını belirtti. Elmayı; yüzde 278,6 ile havuç, yüzde 215,3 ile kabak, yüzde 206,5 ile fındık ve yüzde 195,7 ile marul takip etti.\n\nÜreticide 18,75 TL olan elmanın markette 91,59 TL'ye satıldığını ifade eden Bayraktar, “Elma 4,9 kat, havuç 3,8 kat, kabak 3,2 kat, fındık 3,1 kat ve marul 3 kat fazlaya tüketiciye ulaştı” dedi.\n\nFiyat Hareketliliğinde Kuru Soğan ve Sivri Biber Etkisi\n\nMayıs ayında hem üreticide hem de markette fiyatı en fazla artan ürün kuru soğan olurken, markette fiyatı en fazla düşen ürün sivri biber, üreticide ise domates oldu.\n\nBayraktar, fiyat değişimlerinin nedenlerini şu şekilde sıraladı:\n\nArz Düşüklüğü: İç Anadolu'da stokların tükenmesi ve yeni hasadın sınırlı olması, kuru soğan ve patates fiyatlarını yukarı çekti.\n\nDepo Maliyetleri: Limon fiyatlarındaki artışın ana sebebi depo maliyetleri oldu.\n\nMevsimsel Verim: Havaların elverişli seyretmesi, domates, kabak, sivri biber ve salatalık gibi ürünlerde arzı artırarak üretici fiyatlarında düşüş sağladı."
-    },
-    {
-      "title": "MHP'li Musa Küçük'ten TBMM'de çiftçiye 3 TL ek prim çağrısı",
-      "url": "https://www.tarimpusulasi.com/haber/mhpli-musa-kucukten-tbmmde-ciftciye-3-tl-ek-prim-cagrisi-46721",
-      "source": "Tarım Pusulası",
-      "date": "2026-06-03",
-      "summary": "MHP Gümüşhane Milletvekili Musa Küçük, TMO’nun açıkladığı 2026 yılı hububat alım fiyatlarının çiftçilerin maliyetleri doğrultusunda yeniden değerlendirilmesini isteyerek, üreticiye kilogram başına 3 TL ilave prim desteği verilmesini ve ödemelerin öne çekilmesini talep etti.",
-      "content": "ANKARA — Milliyetçi Hareket Partisi (MHP) Gümüşhane Milletvekili ve TBMM İnsan Hakları İnceleme Komisyonu Üyesi Musa Küçük, Türkiye Büyük Millet Meclisi (TBMM) Genel Kurulu'nda söz alarak tarımsal üretimin geleceğine ilişkin önemli açıklamalarda bulundu. Toprak Mahsulleri Ofisi (TMO) tarafından ilan edilen 2026 yılı hububat müdahale alım fiyatlarını değerlendiren Küçük, üreticilerin artan girdi maliyetlerine dikkat çekti.\n\n\"Fiyatlar Yeniden Değerlendirilmeli\"\n\nMilletvekili Musa Küçük, açıklanan hububat fiyatlarının tarımsal üretimin sürdürülebilirliği açısından kritik bir eşikte olduğunu belirtti. Ülke genelindeki üreticilerin yanı sıra Gümüşhaneli çiftçilerin de beklentilerinin göz önünde bulundurulması gerektiğini ifade eden Küçük, Tarım ve Orman Bakanlığına çağrıda bulunarak fiyatların artan üretim maliyetleri dikkate alınarak yeniden gözden geçirilmesini talep etti.\n\nKilogram Başına 3 TL İlave Prim Talebi\n\nÇiftçinin ekonomik olarak rahatlaması ve üretim motivasyonunun korunması adına somut bir çözüm önerisi sunan Küçük, şu ifadeleri kullandı:\n\n\"Açıklanan fiyatlara ek olarak kilogram başına 3 TL ilave prim desteği sağlanması, üreticilerimizin gelirini destekleyecek ve üretim motivasyonuna önemli katkı sunacaktır.\"\n\n\"45 Günlük Ödeme Süresi Çiftçiyi Zorlayabilir\"\n\nKonuşmasında ürün bedellerinin geri ödeme takvimine de değinen MHP'li Küçük, 45 günlük ödeme süresinin üretici üzerinde baskı oluşturabileceğini vurguladı. Çiftçilerin; mazot, gübre, ilaç, tohum ve işçilik gibi peşin ödenmesi gereken yoğun girdi maliyetleriyle karşı karşıya olduğunu hatırlatan Küçük, nakit akışının rahatlatılması için ödeme planında esneklik talep etti. Ürün bedelinin bir kısmının teslimat anında peşin olarak, kalan kısmının ise en kısa sürede çiftçilerin hesaplarına aktarılmasının ekonomik yükü hafifleteceğini belirtti."
-    },
-    {
-      "title": "Şanlıurfa Ziraat Odaları TMO Fiyatlarının Revizesini İstedi",
-      "url": "https://www.tarimpusulasi.com/haber/sanliurfa-ziraat-odalari-tmo-fiyatlarinin-revizesini-istedi-46720",
-      "source": "Tarım Pusulası",
-      "date": "2026-06-03",
-      "summary": "TZOB Yönetim Kurulu Üyesi ve Şanlıurfa Ziraat Odası Başkanı Ahmet Eyyüpoğlu ile Şanlıurfa Ziraat Odaları İl Koordinasyon Kurulu Başkanı ve Hilvan Ziraat Odası Başkanı Hikmet İpar, Toprak Mahsulleri Ofisi tarafından açıklanan 2026 yılı hububat alım fiyatlarının üreticilerin beklentilerini karşılamadı",
-      "content": "Toprak Mahsulleri Ofisi'nin 2026 yılı hububat alım fiyatlarını açıklamasının ardından Şanlıurfa Ziraat Odaları adına açıklamalarda bulunan TZOB Yönetim Kurulu Üyesi ve Şanlıurfa Ziraat Odası Başkanı Ahmet Eyyüpoğlu ile Şanlıurfa Ziraat Odaları İl Koordinasyon Kurulu Başkanı ve Hilvan Ziraat Odası Başkanı Hikmet İpar, belirlenen fiyatların yeniden değerlendirilmesini talep etti.\n\nAhmet Eyyüpoğlu yaptığı açıklamada, son dönemde mazot, gübre ve ilaç gibi temel tarımsal girdilerde önemli artışlar yaşandığını belirterek, açıklanan buğday ve arpa alım fiyatlarının üreticilerin beklentilerinin altında kaldığını ifade etti.\n\nÜreticilerden yoğun geri dönüş aldıklarını söyleyen Eyyüpoğlu, mevcut fiyatlarla çiftçilerin gelecek yıl üretim yapma konusunda endişe taşıdığını dile getirdi. Tarım ve Orman Bakanlığı ile TMO'nun fiyatları yeniden değerlendirmesi gerektiğini belirten Eyyüpoğlu, üreticilerin ekonomik açıdan zor bir dönemden geçtiğini kaydetti.\n\nAçıklamanın devamında konuşan Şanlıurfa Ziraat Odaları İl Koordinasyon Kurulu Başkanı ve Hilvan Ziraat Odası Başkanı Hikmet İpar da açıklanan fiyatların çiftçiler ve ziraat odaları tarafından yeterli bulunmadığını ifade etti.\n\nİpar, üretim maliyetleri ve enflasyon dikkate alındığında açıklanan fiyatların maliyetlerin sınırlı düzeyde üzerinde kaldığını savunarak, bu durumun üreticilerin gelecek dönem üretim kararlarını etkileyebileceğini söyledi.\n\nTMO tarafından yapılacak ödemelerin 45 güne çıkarılmasına da değinen İpar, daha önce 15 ila 30 gün arasında yapılan ödemelerin uzatılmasının üreticiler açısından ilave bir yük oluşturacağını ifade etti.\n\nŞanlıurfa ekonomisinin büyük ölçüde tarıma dayandığını belirten İpar, hububat fiyatlarının yalnızca çiftçileri değil, tarıma bağlı faaliyet gösteren esnaf, tüccar ve sanayicileri de etkileyebileceğini dile getirdi.\n\nŞanlıurfa Ziraat Odaları temsilcileri, açıklamalarının sonunda hububat alım fiyatları ile ödeme vadelerinin yeniden gözden geçirilmesi yönündeki beklentilerini yineledi."
     },
     {
       "title": "TMO kararı sonrası piyasa çalkalandı: Arpa fiyatları bir günde çakıldı! Bin liralık şok düşüş",
@@ -328,21 +328,5 @@
   "defaultBorsa": "5ED10",
   "defaultCity": "CANAKKALE",
   "note": "Fiyatlar TOBB ticaret borsasından (borsa seçilebilir). Kanola manuel (Trakya 2025).",
-  "inputsNote": "Mazot: akaryakıt bayi fiyatı, günlük (şehir seçilebilir). Gübre: manuel (yaklaşık).",
-  "errors": [
-    "fx: fetch failed",
-    "borsa 5ED10: fetch failed",
-    "borsa 5KO10: fetch failed",
-    "borsa 5ES10: fetch failed",
-    "mazot ANKARA: fetch failed",
-    "mazot ISTANBUL: fetch failed",
-    "mazot IZMIR: fetch failed",
-    "mazot KONYA: fetch failed",
-    "mazot ADANA: fetch failed",
-    "mazot BURSA: fetch failed",
-    "mazot ANTALYA: fetch failed",
-    "mazot SAMSUN: fetch failed",
-    "mazot TEKIRDAG: fetch failed",
-    "mazot CANAKKALE: fetch failed"
-  ]
+  "inputsNote": "Mazot: akaryakıt bayi fiyatı, günlük (şehir seçilebilir). Gübre: manuel (yaklaşık)."
 }
