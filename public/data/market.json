@@ -1,26 +1,26 @@
 {
-  "updatedAt": "2026-06-05T16:42:41.480Z",
+  "updatedAt": "2026-06-05T18:29:37.678Z",
   "fx": [
     {
       "code": "USD",
       "name": "Dolar",
-      "buy": 46.08,
-      "sell": 46.09,
-      "change": 0.12
+      "buy": 46.07,
+      "sell": 46.08,
+      "change": 0.1
     },
     {
       "code": "EUR",
       "name": "Euro",
-      "buy": 53.15,
-      "sell": 53.17,
-      "change": -0.8
+      "buy": 53.13,
+      "sell": 53.16,
+      "change": -0.82
     },
     {
       "code": "GRA",
       "name": "Gram Altın",
-      "buy": 6414.26,
-      "sell": 6415.21,
-      "change": -3.14
+      "buy": 6407.06,
+      "sell": 6407.8,
+      "change": -3.25
     },
     {
       "code": "CEYREKALTIN",
@@ -38,6 +38,14 @@
     }
   ],
   "news": [
+    {
+      "title": "Bakan Yumaklı: Gelir garantili besicilik projesi başladı",
+      "url": "https://www.tarimpusulasi.com/haber/bakan-yumakli-gelir-garantili-besicilik-projesi-basladi-46745",
+      "source": "Tarım Pusulası",
+      "date": "2026-06-05",
+      "summary": "Tarım ve Orman Bakanı İbrahim Yumaklı, kırmızı et arz güvenliğini güçlendirmek ve küçük ölçekli üreticiyi desteklemek amacıyla \"Gelir Garantili Besicilik Projesi\"nin hayata geçirildiğini açıkladı. Proje kapsamında Et ve Süt Kurumu (ESK) tarafından temin edilen 108 bin baş besilik sığır, besi kapasit",
+      "content": "Tarım ve Orman Bakanı İbrahim Yumaklı, ülkede kırmızı et arz güvenliğini güçlendirmek, canlı hayvan varlığını artırmak, üretimi tabana yaymak amacıyla küçük ölçekli besicileri merkeze alan yeni bir projeyi hayata geçirdiklerini belirtti. Yumaklı “Gelir Garantili Besicilik Projesi ile Et ve Süt Kurumumuz (ESK) tarafından temin edilen 108 bin baş besilik sığırı uygun fiyatla küçük ölçekli besicilerimize dağıtıyoruz. Böylece hem küçük üreticinin gelecek kaygısı taşımadan üretime devam etmesi hem de tüketicilerimizin daha uygun şekilde kırmızı ete ulaşması sağlanacak\" ifadelerini kullandı.\n\nBakan Yumaklı, yaptığı açıklamada, ESK ile Türkiye Kırmızı Et Üreticileri Merkez Birliği (TÜKETBİR) arasında imzalanan protokol ile küçük ölçekli besicileri merkeze alan yeni bir projeyi hayata geçirdiklerini duyurdu.\n\nBESİCİNİN GELİRİ GARANTİ ALTINDA\n\nSöz konusu proje ile besicinin gelirinin, dolayısıyla emeğinin karşılığının güvence altına alındığına işaret eden Yumaklı, projenin detaylarıyla ilgili şu bilgileri paylaştı:\n\n“Sayın Cumhurbaşkanımız tarafından yayımlanan karar ile Et ve Süt Kurumumuza tahsis edilen tarife kontenjanı kapsamında, bu yıl 108 bin baş besilik hayvanı, besi ahırı kapasitesi 200 başın altında olan küçük ölçekli üreticilerimize dağıtmak üzere ayırdık. Bu kapsamda, küçük aile işletmelerimizi doğrudan desteklemek üzere pozitif ayrımcılık uyguluyoruz. Program ile belli bir puanlama sistemi üzerinden belirlenen üreticilerimize 30 baş besilik hayvan teslim ediyoruz. Projeden faydalanan üreticilerimiz, hayvanlarını, 200 baş ve üzeri kapasiteye sahip büyük işletmelere uygulanan fiyata kıyasla kilogram başına 110 TL, yani yüzde 26 daha uygun koşullarda alacak. Başvuruları il ve ilçe tarım ve orman müdürlüklerimiz üzerinden elektronik olarak aldık. Hak sahibi besicilerimiz, önceden ilan edilen objektif kurallara göre işleyen bir puanlama usulü ile belirlendi. Böylece dağıtımda şeffaflık, izlenebilirlik ve fırsat eşitliği sağlandı. Hak kazanan 3.600 besicimizin yer aldığı liste hazırlandı. Teslimat süreci de bu liste esas alınarak yürütülüyor.\"\n\nSÜRDÜRÜLEBİLİR BİR SİSTEM İÇİNDE BESİCİLİK İMKANI\n\nModel sayesinde, küçük ölçekli üreticilerin makul bir kâr güvencesiyle ve sürdürülebilir bir sistem içinde besicilik yapma imkânına kavuşacağının altını çizen Yumaklı, besicilerin, teslim aldıkları hayvanları en az 4 ay, en fazla 9 ay besledikten sonra ESK'ye tekrar satacağını aktardı.\n\nBakan Yumaklı, projeye ilişkin şunları kaydetti:\n\n“Söz konusu hayvanlar, besicinin sözleşmesinde belirlenen ve kârını güvence altına alan geri alım fiyatı üzerinden ESK tarafından satın alınacak. Geri alım fiyatının her ay enflasyona endeksli olarak güncellenmesi sayesinde besici, besi süresi boyunca oluşabilecek fiyat dalgalanmalarına karşı korunacak ve besi süresinin sonunda geliri büyük ölçüde garanti altına alınmış olacak. Bu sayede üretici; makul bir kâr güvencesiyle ve sürdürülebilir bir sistem içinde besicilik yapma imkânına kavuşacak. Model, küçük üreticinin gelecek kaygısı taşımadan üretime devam etmesinin önünü açıyor. Bu yapı, üreticiye kazancını önceden öngörebilme imkânı sunarken, küçük işletmelerin mevcut ahır kapasitelerini tam olarak değerlendirerek üretime kazandırmasına olanak sağlıyor. Model ayrıca sürdürülebilir bir ortaklık ilişkisi de kuruyor. Hayvanlarını süresinde ESK'ye teslim eden besicilerimiz, bir sonraki yılın besilik dağıtımında da önceliklendirilecek. Programla küçük üretici, uygun maliyetli hayvan ve gelir garantisiyle üretime kazandırılırken, diğer yandan ESK, besi sonunda elde edeceği et ile piyasayı regüle ederek vatandaşlarımızın daha uygun şekilde ete ulaşmasını sağlayacak. Projemiz besicilerimiz için hayırlı uğurlu olsun.\"\n\nTÜKETBİR'in koordinasyonunda yürüyecek süreçle ilgili tüm duyurular ESK'nin resmî internet sitesinden (https://www.esk.gov.tr) takip edilebilecek."
+    },
     {
       "title": "Barut: Buğday Fiyatları Çiftçinin Beklentisini Karşılamadı",
       "url": "https://www.tarimpusulasi.com/haber/barut-bugday-fiyatlari-ciftcinin-beklentisini-karsilamadi-46744",
@@ -117,14 +125,6 @@
       "date": "2026-06-05",
       "summary": "Etki Çemberleri Vakfı bünyesinde başlatılan Harman Projesi kapsamında, onarıcı tarım ve besicilik yapan üreticileri desteklemek amacıyla toplam 1 milyon lira ödül havuzlu \"Harman Onaran Çiftçi Kapasite Programı\" başvuruları başladı.",
       "content": "TÜRKİYE — Sürdürülebilirlik çalışmaları ile tanınan Etki Çemberleri Vakfı tarafından hayata geçirilen Harman Projesi; onarıcı tarım ve besicilik alanında üreticileri, uzmanları, gıda profesyonellerini, kurumları ve destekçileri bir araya getiriyor. Bir hareket, öğrenme ağı ve uygulama programı olarak öne çıkan Harman, toprağı iyileştiren, suyu koruyan, üreticiyi güçlendiren ve iyi, temiz, adil gıdayı çoğaltan uygulamaları görünür kılmayı amaçlıyor. Bu kapsamda projenin en önemli ayaklarından biri olan “Harman Onaran Çiftçi Kapasite Programı” için başvuru süreci resmen başladı. Programın ana çağrısı ise \"Toprağı onaranları arıyoruz\" şeklinde net bir mesajla duyuruldu.\n\n6 Aylık Ücretsiz Eğitim ve 1 Milyon TL Ödül Havuzu\n\nHarman Onaran Çiftçi Kapasite Programı, onarıcı üretim yapan ya da bu yöne geçmek isteyen çiftçilere 6 aylık ücretsiz eğitim, dijital izleme, mentorluk, gastronomi bağlantısı ve ödül desteği sunuyor. Yalnızca ödül vermeye odaklanmayan bu yapı; çiftçiyi eğitim, veri, pazar bağlantısı ve iletişim desteğiyle güçlendirmeyi hedefliyor. Programa kadın çiftçiler, 35 yaş altı genç çiftçiler, kooperatifler ve aile çiftlikleri başvurabiliyor. Bitkisel üretim, hayvancılık, arıcılık veya karma üretim yapan tüm üreticiler değerlendirme sürecine dahil edilecek.\n\nBaşvuru sürecinin ardından seçilen çiftçiler, 6 aylık eğitim ve dijital izleme havuzuna alınacak. Bu süreçte üreticilere toprak ve su yönetimi, atalık tohum ve biyoçeşitlilik, dijital izleme, veri, pazarlama ve değer zinciri gibi stratejik başlıklarda eğitimler verilecek. Kazananlar, program sonunda toplanan performans verileri ve saha değerlendirmeleriyle belirlenecek.\n\nProgramın sonunda toplam 1 milyon liralık ödül havuzu dağıtılacak. Yarışmada \"Yılın Onaranı\" seçilen çiftçi 350 bin liralık ödülün yanı sıra, bir yıllık mentorluk ve restoran menülerinde görünürlük hakkı elde edecek. Dört kategori birincisine 150’şer bin liralık ödül, teknoloji desteği ve pazarlama atölyesi sunulurken; üç bölgesel öncü çiftçiye ise 75’er bin lira ödül ve saha ziyaret programı desteği sağlanacak. Eğitim havuzuna dahil edilen çiftçiler, ödül kazanamasalar dahi 6 aylık eğitim, dijital izleme erişimi, sertifika ve Harman Ağı’na katılım imkanına sahip olacak.\n\n\"Onarıcı Tarım Gıdanın Geleceği İçin Kritik\"\n\nEtki Çemberleri Vakfı Kurucusu Aylin Gezgüç, toprağı onarmanın yalnızca tarımsal üretimle sınırlı olmadığını, gıda güvenliği, ekonomik dayanıklılık ve toplumsal gelecek açısından kritik bir başlık olduğunu vurguladı. Gezgüç, yaptığı değerlendirmede şu ifadeleri kullandı:\n\n“Onarıcı tarım, yalnızca toprağı nasıl işlediğimizle ilgili değil; neyi nasıl ürettiğimiz, gıdaya nasıl ulaştığımız ve üreticiyi nasıl desteklediğimizle de ilgili. Harman Onaran Çiftçi Kapasite Programı ile sahada üretimi dönüştüren çiftçileri görünür kılmayı, onları eğitim, veri ve pazar bağlantısıyla güçlendirmeyi hedefliyoruz. Türkiye’nin toprağını onaran çiftçilerini arıyoruz.”\n\nPrograma dair tüm başvuru süreçlerine ve detaylı bilgilere <www.harmandestek.com adresinden ulaşılabileceği, sürecin güncel olarak @harmandestek Instagram hesabı üzerinden takip edilebileceği bildirildi.\n\nTARIM PUSULASI HABER MERKEZİ"
-    },
-    {
-      "title": "Gıda örgütlerinden Türkiye için gıda okuryazarlığı çağrısı",
-      "url": "https://www.tarimpusulasi.com/haber/gida-orgutlerinden-turkiye-icin-gida-okuryazarligi-cagrisi-46737",
-      "source": "Tarım Pusulası",
-      "date": "2026-06-05",
-      "summary": "Türkiye'de faaliyet gösteren 11 büyük gıda, perakende, sürdürülebilirlik ve tüketici örgütü ortak bir bildiri yayımlayarak her yıl çöpe giden 14 milyon ton gıdanın önüne geçmek amacıyla \"Gıda Okuryazarlığı Seferberliği\" başlattı.",
-      "content": "İSTANBUL — Türkiye’de ev, perakende ve hizmet sektörünü kapsayan doğrudan tüketim aşamasında her yıl yaklaşık 14 milyon ton gıda çöpe gidiyor. Sektör temsilcileri gıdayla birlikte su, enerji, emek ve geleceğin de israf edildiğini vurguluyor. Evlerde yaşanan bu devasa israfın en büyük gerekçelerinden biri ise gıda etiketlerinin doğru yorumlanamaması olarak öne çıkıyor. Yapılan araştırmalara göre, Türkiye nüfusunun yüzde 72'si Son Tüketim Tarihi (STT) ile Tavsiye Edilen Tüketim Tarihi (TETT) arasındaki hayati farkı bilmiyor.\n\nBu bilgisizliğin henüz tüketilebilir durumda olan milyonlarca ton güvenilir gıdanın gereksiz yere çöpe gitmesine neden olduğunu belirten gıda sektörü, bilim dünyası, tüketici hakları ve sürdürülebilirlik hareketinin önde gelen 11 temsilcisi, ortak bir deklarasyonla \"Gıda Okuryazarlığı Seferberliği\" başlattıklarını duyurdu.\n\n\"TETT Kalite Göstergesidir, STT Güvenlik Sınırıdır\"\n\nYayımlanan ortak bildiride kamuoyunun gıda etiketleri konusunda bilinçlenmesi için şu kritik maddelere dikkat çekildi:\n\nTETT İsrafı Önler: Tavsiye Edilen Tüketim Tarihi (TETT); makarna, bakliyat, konserve ve bisküvi gibi dayanıklı gıdaların kalite ve lezzet göstergesidir. Uygun koşullarda saklanan, ambalajı sağlam olan ve görüntü, koku, tat gibi duyusal özelliklerinde sorun bulunmayan ürünler, TETT’si geçse dahi güvenle tüketilebilir. TETT'si geçen gıdayı kontrol etmeden çöpe atmak milli serveti kaybetmektir.\n\nSTT Hayat Kurtarır: Son Tüketim Tarihi (STT); et, süt, balık ve yumurta gibi çabuk bozulabilen yüksek riskli gıdaların güvenlik sınırıdır. STT’si geçmiş bir ürünün tadı veya kokusu değişmemiş olsa bile içinde görünmez patojenler üreyebileceğinden asla tüketilmemelidir. Sağlığı korumak israf değildir.\n\nGıda israfının küresel iklim krizini de doğrudan tetiklediği ifade edilen açıklamada, gıda israfı bir ülke olsaydı ABD ve Çin’den sonra dünyanın en büyük üçüncü sera gazı emisyon kaynağı olacağı aktarıldı. Bu hareketin sadece bir tasarruf meselesi değil, bilinçli ve sorumlu bir tüketim kültürü inşa etme adımı olduğu belirtildi.\n\nTüm Paydaşlara Açık Çağrı\n\nBildiride; sürdürülebilirlik dernekleri evlerdeki gizli israfla savaşmaya, tüketici dernekleri doğru etiket okuma eğitimleri vermeye, üreticiler ve perakendeciler ise TETT’si yaklaşan ürünler için indirim rafları ve gıda bankacılığı altyapıları kurmaya davet edildi. \"Kokusunda, tadında, dokusunda bozulma yoksa; TETT’si geçmiş gıdanı çöpe atma, geleceğini koru!\" denilerek imzacılar tarafından kitlesel bir farkındalık hareketi başlatıldı.\n\nKampanyanın Altındaki İmzacı Kuruluşlar: Gıda Güvenliği Derneği, Gıda Perakendecileri Derneği, Güvenilir Ürün Platformu, Sürdürülebilirlik Akademisi, Sürdürülebilir Gıda Platformu, Temel İhtiyaç Derneği, Tüketici Başvuru Merkezi, Tüketiciyi Koruma Derneği, Tüketici Şikayetleri Federasyonu, Türkiye Gıda Sanayii İşverenleri Sendikası, Türkiye Gıda ve İçecek Sanayii Dernekleri Federasyonu.\n\nTARIM PUSULASI HABER MERKEZİ"
     },
     {
       "title": "Et piyasasında kurban sonrası ithalat baskısı! UKON açıkladı, sahada kesimler hızlandı",
@@ -330,15 +330,6 @@
   "note": "Fiyatlar TOBB ticaret borsasından (borsa seçilebilir). Kanola manuel (Trakya 2025).",
   "inputsNote": "Mazot: akaryakıt bayi fiyatı, günlük (şehir seçilebilir). Gübre: manuel (yaklaşık).",
   "errors": [
-    "borsa 5ES10: fetch failed",
-    "mazot ISTANBUL: fetch failed",
-    "mazot IZMIR: fetch failed",
-    "mazot KONYA: fetch failed",
-    "mazot ADANA: fetch failed",
-    "mazot BURSA: fetch failed",
-    "mazot ANTALYA: fetch failed",
-    "mazot SAMSUN: fetch failed",
-    "mazot TEKIRDAG: fetch failed",
-    "mazot CANAKKALE: fetch failed"
+    "borsa 5ES10: fetch failed"
   ]
 }
