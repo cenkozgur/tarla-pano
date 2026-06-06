@@ -23,6 +23,38 @@ const NEWS_SOURCES = [
 ]
 const UA = 'Mozilla/5.0 TarlaPano'
 
+const sleep = (ms) => new Promise((res) => setTimeout(res, ms))
+
+// timeout + retry'li fetch. GH runner'larında geçici ağ/5xx/429 hatası sık görülüyor
+// (cron'da fx/borsa/mazot fetch'leri aralıklı patlıyordu). 12sn timeout + 2 retry
+// (artan bekleme) ile bu flaky hataları büyük ölçüde kurtarır. 4xx kalıcı -> hemen döner.
+async function fetchRetry(url, { headers = {}, timeoutMs = 12000, retries = 2, retryDelayMs = 800 } = {}) {
+  let lastErr
+  for (let attempt = 0; attempt <= retries; attempt++) {
+    const ctrl = new AbortController()
+    const timer = setTimeout(() => ctrl.abort(), timeoutMs)
+    try {
+      const r = await fetch(url, { headers: { 'User-Agent': UA, ...headers }, signal: ctrl.signal })
+      clearTimeout(timer)
+      if (!r.ok && (r.status >= 500 || r.status === 429) && attempt < retries) {
+        lastErr = new Error(`${r.status}`)
+        await sleep(retryDelayMs * (attempt + 1))
+        continue
+      }
+      return r
+    } catch (e) {
+      clearTimeout(timer)
+      lastErr = ctrl.signal.aborted ? new Error(`timeout ${timeoutMs}ms`) : e
+      if (attempt < retries) {
+        await sleep(retryDelayMs * (attempt + 1))
+        continue
+      }
+      throw lastErr
+    }
+  }
+  throw lastErr
+}
+
 const FX_MAP = [
   ['USD', 'Dolar'],
   ['EUR', 'Euro'],
@@ -81,7 +113,7 @@ function extractFxKey(text, key) {
 }
 
 async function getFx() {
-  const r = await fetch(TRUNCGIL, { headers: { 'User-Agent': UA } })
+  const r = await fetchRetry(TRUNCGIL)
   if (!r.ok) throw new Error(`truncgil ${r.status}`)
   const text = await r.text()
   let d
@@ -99,7 +131,7 @@ async function getFx() {
 }
 
 async function getNewsFrom(src, limit) {
-  const r = await fetch(src.url, { headers: { 'User-Agent': UA } })
+  const r = await fetchRetry(src.url)
   if (!r.ok) throw new Error(`${src.name} ${r.status}`)
   const xml = await r.text()
   return [...xml.matchAll(/<item>([\s\S]*?)<\/item>/g)].slice(0, limit).map((m) => {
@@ -161,9 +193,7 @@ function extractGubreFromNews(news) {
 
 // TOBB borsa portalından ürün fiyatları (Ortalama sütunu + son işlem tarihi)
 async function getBorsa(borsaKod, borsaAdi) {
-  const r = await fetch(`https://borsa.tobb.org.tr/fiyat_borsa.php?borsakod=${borsaKod}`, {
-    headers: { 'User-Agent': UA },
-  })
+  const r = await fetchRetry(`https://borsa.tobb.org.tr/fiyat_borsa.php?borsakod=${borsaKod}`)
   if (!r.ok) throw new Error(`tobb ${r.status}`)
   const html = await r.text()
   // başlık kolonlarını bul -> kolon sırası borsadan borsaya değişebilir
@@ -196,9 +226,7 @@ async function getBorsa(borsaKod, borsaAdi) {
 
 // hasanadiguzel akaryakıt -> motorin (eurodiesel) ortalaması
 async function getDiesel(city) {
-  const r = await fetch(`https://hasanadiguzel.com.tr/api/akaryakit/sehir=${city}`, {
-    headers: { 'User-Agent': UA },
-  })
+  const r = await fetchRetry(`https://hasanadiguzel.com.tr/api/akaryakit/sehir=${city}`)
   if (!r.ok) throw new Error(`akaryakit ${r.status}`)
   const d = await r.json()
   const rows = Object.values(d.data || {})
