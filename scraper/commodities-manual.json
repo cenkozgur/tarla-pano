@@ -1,6 +1,6 @@
 {
   "_comment": "config + fallback. Borsa (TOBB) ve mazot (hasanadiguzel) otomatik çekilir; çekilemezse buradaki değer kullanılır. Kanola ve gübreler tamamen manuel.",
-  "updatedAt": "2026-05-29",
+  "updatedAt": "2026-06-06",
   "config": {
     "borsalar": [
       { "kod": "5ED10", "ad": "Edirne TB" },
@@ -19,8 +19,8 @@
   ],
   "inputs": [
     { "key": "motorin", "name": "Motorin (mazot)", "unit": "₺/lt", "price": 68.14, "change": 0, "source": "Ankara ort." },
-    { "key": "ure", "name": "Üre Gübre", "unit": "₺/kg", "price": 33.9, "change": 0, "source": "Manuel", "date": "2026-04" },
-    { "key": "dap", "name": "DAP Gübre", "unit": "₺/kg", "price": 41.9, "change": 0, "source": "Manuel", "date": "2026-04" },
-    { "key": "as", "name": "Amonyum Sülfat", "unit": "₺/kg", "price": 20.3, "change": 0, "source": "Manuel", "date": "2026-04" }
+    { "key": "ure", "name": "Üre Gübre", "unit": "₺/kg", "price": 27.19, "change": 0, "source": "TZOB", "date": "2026-06" },
+    { "key": "dap", "name": "DAP Gübre", "unit": "₺/kg", "price": 30.52, "change": 0, "source": "TZOB", "date": "2026-06" },
+    { "key": "as", "name": "Amonyum Sülfat", "unit": "₺/kg", "price": 11.77, "change": 0, "source": "TZOB", "date": "2026-06" }
   ]
 }
