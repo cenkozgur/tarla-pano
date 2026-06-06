@@ -1,5 +1,34 @@
 import Card from './Card'
-import { tl, pct } from '../lib/fmt'
+import { tl, pct, oncesi } from '../lib/fmt'
+
+// errors dizisini ("fx: ...", "borsa 5ED10: ...", "mazot ANKARA: ...") kaynak
+// gruplarına indirger -> kullanıcıya hangi verinin "son bilinen değer" olduğunu söyler.
+function etkilenenKaynaklar(errors) {
+  const ad = { fx: 'Döviz/altın', borsa: 'Borsa', mazot: 'Mazot', news: 'Haber' }
+  const set = new Set()
+  for (const e of errors || []) {
+    const k = String(e).split(/[ :]/)[0]
+    if (ad[k]) set.add(ad[k])
+  }
+  return [...set]
+}
+
+// Piyasa verisinin gerçek tazeliği (market.updatedAt) + çekilemeyen kaynak uyarısı.
+// Header'daki "Güncellendi" client'ın yükleme anıdır; bu ise verinin kendi yaşıdır.
+export function DataStatus({ updatedAt, errors }) {
+  if (!updatedAt) return null
+  const stale = etkilenenKaynaklar(errors)
+  return (
+    <div className="-mt-1 flex flex-wrap items-center gap-x-2 gap-y-1 text-[11px]">
+      <span className="text-stone-400">Piyasa verisi {oncesi(updatedAt)}</span>
+      {stale.length > 0 && (
+        <span className="rounded-full bg-amber-50 px-2 py-0.5 font-medium text-amber-700 ring-1 ring-amber-200">
+          ⚠️ {stale.join(', ')}: son bilinen değer
+        </span>
+      )}
+    </div>
+  )
+}
 
 function ChangeBadge({ change }) {
   const up = change >= 0

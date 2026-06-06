@@ -8,7 +8,7 @@ import WeatherCard from './components/WeatherCard'
 import AlertsCard from './components/AlertsCard'
 import NotifyCard from './components/NotifyCard'
 import RemindersCard from './components/RemindersCard'
-import { FxCard, PricesCard, InputsCard, NewsCard } from './components/MarketCard'
+import { FxCard, PricesCard, InputsCard, NewsCard, DataStatus } from './components/MarketCard'
 import Defter from './components/Defter'
 
 export default function App() {
@@ -150,6 +150,7 @@ function Pano() {
 
         {market ? (
           <>
+            <DataStatus updatedAt={market.updatedAt} errors={market.errors} />
             {market.fx?.length > 0 && <FxCard fx={market.fx} />}
             <PricesCard
               byBorsa={market.commoditiesByBorsa}
