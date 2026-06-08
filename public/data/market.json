@@ -1,33 +1,33 @@
 {
-  "updatedAt": "2026-06-08T21:08:14.791Z",
+  "updatedAt": "2026-06-08T22:51:04.467Z",
   "fx": [
     {
       "code": "USD",
       "name": "Dolar",
-      "buy": 460919,
-      "sell": 461059,
-      "change": 13
+      "buy": 460973,
+      "sell": 461235,
+      "change": 1
     },
     {
       "code": "EUR",
       "name": "Euro",
-      "buy": 532384,
-      "sell": 532574,
-      "change": 32
+      "buy": 532015,
+      "sell": 532479,
+      "change": 2
     },
     {
       "code": "GRA",
       "name": "Gram Altın",
-      "buy": 643691,
-      "sell": 643779,
-      "change": 45
+      "buy": 641459,
+      "sell": 641552,
+      "change": -6
     },
     {
       "code": "CEYREKALTIN",
       "name": "Çeyrek Altın",
       "buy": 1033605,
       "sell": 1057202,
-      "change": -34
+      "change": 0
     },
     {
       "code": "CUMHURIYETALTINI",
@@ -330,7 +330,9 @@
   "note": "Fiyatlar TOBB ticaret borsasından (borsa seçilebilir). Kanola manuel (Trakya 2025).",
   "inputsNote": "Mazot: akaryakıt bayi fiyatı, günlük (şehir seçilebilir). Gübre: manuel (yaklaşık).",
   "errors": [
-    "fx: fetch failed",
+    "borsa 5ED10: fetch failed",
+    "borsa 5KO10: fetch failed",
+    "borsa 5ES10: fetch failed",
     "mazot ANKARA: fetch failed",
     "mazot ISTANBUL: fetch failed",
     "mazot IZMIR: fetch failed",
