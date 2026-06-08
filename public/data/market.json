@@ -1,43 +1,51 @@
 {
-  "updatedAt": "2026-06-08T02:03:49.568Z",
+  "updatedAt": "2026-06-08T06:56:42.068Z",
   "fx": [
     {
       "code": "USD",
       "name": "Dolar",
-      "buy": 45.97,
+      "buy": 46.1,
       "sell": 46.11,
-      "change": 0.02
+      "change": 0.13
     },
     {
       "code": "EUR",
       "name": "Euro",
-      "buy": 53.01,
-      "sell": 53.15,
-      "change": -0.94
+      "buy": 53.15,
+      "sell": 53.16,
+      "change": 0.14
     },
     {
       "code": "GRA",
       "name": "Gram Altın",
-      "buy": 6408.3,
-      "sell": 6409.16,
-      "change": -3.23
+      "buy": 6370.85,
+      "sell": 6371.8,
+      "change": -0.58
     },
     {
       "code": "CEYREKALTIN",
       "name": "Çeyrek Altın",
-      "buy": 10403.63,
-      "sell": 10650.95,
-      "change": -2.2
+      "buy": 10368.63,
+      "sell": 10607.62,
+      "change": 0
     },
     {
       "code": "CUMHURIYETALTINI",
       "name": "Cumhuriyet Altını",
-      "buy": 43081,
-      "sell": 43748,
-      "change": -2.34
+      "buy": 42971,
+      "sell": 43638,
+      "change": -0.25
     }
   ],
   "news": [
+    {
+      "title": "Şeker sektöründe tatlandırıcı alarmı: 850 bin tonluk haksız rekabet!",
+      "url": "https://www.tarimdanhaber.com/seker-sektorunde-tatlandirici-alarmi-850-bin-tonluk-haksiz-rekabet",
+      "source": "Tarımdan Haber",
+      "date": "2026-06-08",
+      "summary": "Şeker sektöründe kriz çanları çalıyor! Kayseri Pancar Ekicileri Kooperatifi Yönetim Kurulu Başkanı Hüseyin Akay, yüksek yoğunluklu kimyasal tatlandırıcı ithalatının yerli pancar şekeri üreticisini bitirme noktasına getirdiğini açıkladı. Akay, \"Pancar şekeri maliyetinin çok altında satılan ürünler, y",
+      "content": "Haber Merkezi - Bloomberg HT’de sektörün içler acısı durumunu rakamlarla ortaya koyan Hüseyin Akay, yerli pancar şekeri üretiminin stratejik önemine vurgu yaparak, ithal tatlandırıcıların neden olduğu tahribata dikkat çekti.\n\n850 Bin Ton Pancar Şekeri \"İthal Tatlandırıcı\" İle İkame Edildi\n\nAkay’ın paylaştığı verilere göre, 2024 yılında Türkiye’ye ithal edilen kimyasal tatlandırıcılar, tam 850 bin ton pancar şekeri karşılığına ulaştı. Bu devasa rakam, Türkiye’nin toplam şeker kotasının yaklaşık üçte birine denk geliyor. Yerli pancar şekerinin piyasada kendine yer bulmasını engelleyen bu durum, arz fazlasına neden olan sektörü darboğaza sokuyor.\n\n\"Maliyet 47,60 TL, Satış 30 TL: Bu Sürdürülemez!\"\n\nPancar Şekeri Üreticileri Derneği’nin güncel maliyet raporuna göre şekerin kilogram üretim maliyeti 47,60 TL olarak hesaplanıyor. Ancak piyasada şeker fiyatlarının 37 TL, hatta bazı dönemlerde 30 TL seviyelerine kadar çekildiğine dikkat çeken Akay, şunları söyledi:\n\n\"Çiftçi ortaklı kooperatif fabrikalarımız bu fiyatlarla üretim yapamaz hale getiriliyor. Maliyetin çok altında yapılan satışlar, tüm şeker sektörünü çöküşe sürüklüyor. Çiftçinin alın teri, kontrolsüz tatlandırıcı ithalatıyla değersizleştiriliyor.\"\n\nDenetimler Yetmiyor: İlaç Değil, Gıda Sanayisi Kullanıyor!\n\nİthal edilen kimyasal tatlandırıcıların büyük bir kısmının \"ilaç sanayisinde kullanılacağı\" gerekçesiyle ülkeye girdiğini belirten Akay, acı gerçeği şu sözlerle ifade etti: \"İlaç için ithal ediyoruz. Ama gıda sanayisinde, doğal pancar şekeri yerine ucuza kullanılıyor.\"\n\nDenetimlerin yetersizliğine vurgu yapan Akay, doğal pancar şekerinin gıda sanayisinden dışlanmasının, hem tarımsal üretimi hem de halk sağlığını tehdit ettiğini belirtti."
+    },
     {
       "title": "Tarım Bakanlığı'ndan Cumhurbaşkanlığı'na dijital rakip: Kamu bütçesiyle \"sanal başarı\" operasyonu!",
       "url": "https://www.tarimdanhaber.com/tarim-bakanligindan-cumhurbaskanligina-dijital-rakip-kamu-butcesiyle-sanal-basari-operasyonu",
@@ -125,14 +133,6 @@
       "date": "2026-06-06",
       "summary": "Tarım Kredi Kooperatifleri’nde görevden alınması beklenen Genel Müdür Hüseyin Aydın, bayramlaşma töreninde yaptığı çıkışla tüm dikkatleri üzerine çekti. Kulislerde \"lobi çalışmaları sonuç verdi\" şeklinde yorumlanan bu hamleyle Aydın, personeline \"6 yıl daha buradayım\" taahhüdünde bulundu.",
       "content": "Kulis Haber - Kurum içinde düzenlenen bayramlaşma töreninde, Aydın’ın kendi görev süresine ilişkin yaptığı açıklamalar, \"görevden alınma\" iddialarının yoğunlaştığı bir dönemde dikkat çekici bir \"güç gösterisi\" olarak nitelendirildi.\n\nBayramlaşmada \"Rekor\" İddiası\n\nTören sırasında personelle bir araya gelen Aydın, görevde 4’üncü yılını doldurduğunu hatırlatarak, \"Burada en uzun süre görev yapan genel müdür kim?\" diye sordu. Personelden gelen \"7 yıl ile Bedrettin Yıldırım\" cevabı üzerine, Aydın’ın takındığı tavır kulislerde çok konuşuldu. Aydın, bu cevabı \"Ben de Bedrettin Yıldırım’ın rekorunu egale edip, en az 7 ile 10 yıl buradayım\" sözleriyle karşıladı.\n\n\"Lobi mi, Taahhüt mü?\"\n\nSon dönemde özellikle aylık 1,5 milyon liralık geliri ve kurum içindeki yönetimsel tartışmalarla gündeme gelen Hüseyin Aydın için, Ankara bürokrasisinde \"yolun sonuna gelindi\" beklentisi hakimdi. Ancak Aydın'ın bu \"6 yıl daha buradayım\" taahhüdü, görevden alınma beklentilerini boşa çıkaran güçlü bir lobi desteğine sahip olduğu şeklinde yorumlanıyor.\n\nGörevden Alınma İhtimali Rafta mı?\n\nKulislerde, Aydın’ın bu çıkışının, görevden alınma beklentilerine karşı bir \"tavır koyma\" ve \"güvence\" mesajı olduğu konuşuluyor."
-    },
-    {
-      "title": "Gübretaş'ta şok ayrılık: Genel Müdür görevi bıraktı!",
-      "url": "https://www.tarimdanhaber.com/gubretasta-sok-ayrilik-genel-mudur-gorevi-birakti",
-      "source": "Tarımdan Haber",
-      "date": "2026-06-06",
-      "summary": "Tarım Kredi Kooperatiflerinin iştiraki Gübretaş'ta flaş bir gelişme yaşandı. Şirketin Yönetim Kurulu Üyesi ve Genel Müdürü Aytaç Onkun, görevlerinden ayrıldığını duyurdu.",
-      "content": "Haber Merkezi - Gübre sektörünün en önemli aktörlerinden biri olan Gübretaş'tan Kamuyu Aydınlatma Platformu'na (KAP) yapılan resmi açıklamaya göre, üst düzey bir değişim gerçekleşti. Şirket bünyesinde Yönetim Kurulu Üyesi ve Genel Müdür olarak görev yapan Aytaç Onkun, 5 Haziran 2026 tarihi itibarıyla tüm görevlerinden ayrıldı.\n\nYönetimde Değişim: Yeni İsim Belli Oldu\n\nAytaç Onkun'un görevinden ayrılmasının ardından şirket yönetimi hızlı bir karar alarak boşalan koltuğa vekaleten atama yaptı. Şirket Yönetim Kurulu'nun aynı gün (5 Haziran 2026) gerçekleştirdiği toplantı neticesinde; halihazırda şirketin Tedarik Zinciri Direktörü olarak görev yapan Musa Goral'ın, Genel Müdürlük görevine vekalet etmesine karar verildi.\n\nİlgili Haber→ Görevden ayrılan GÜBRETAŞ Genel Müdürü Aytaç Onkun kim, kaç yaşında, hangi görevlerde bulundu?"
     }
   ],
   "commoditiesByBorsa": {
@@ -328,18 +328,5 @@
   "defaultBorsa": "5ED10",
   "defaultCity": "CANAKKALE",
   "note": "Fiyatlar TOBB ticaret borsasından (borsa seçilebilir). Kanola manuel (Trakya 2025).",
-  "inputsNote": "Mazot: akaryakıt bayi fiyatı, günlük (şehir seçilebilir). Gübre: manuel (yaklaşık).",
-  "errors": [
-    "fx: fetch failed",
-    "mazot ANKARA: fetch failed",
-    "mazot ISTANBUL: fetch failed",
-    "mazot IZMIR: fetch failed",
-    "mazot KONYA: fetch failed",
-    "mazot ADANA: fetch failed",
-    "mazot BURSA: fetch failed",
-    "mazot ANTALYA: fetch failed",
-    "mazot SAMSUN: fetch failed",
-    "mazot TEKIRDAG: fetch failed",
-    "mazot CANAKKALE: fetch failed"
-  ]
+  "inputsNote": "Mazot: akaryakıt bayi fiyatı, günlük (şehir seçilebilir). Gübre: manuel (yaklaşık)."
 }
