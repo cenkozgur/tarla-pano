@@ -1,43 +1,75 @@
 {
-  "updatedAt": "2026-06-09T16:49:13.281Z",
+  "updatedAt": "2026-06-09T19:02:59.732Z",
   "fx": [
     {
       "code": "USD",
       "name": "Dolar",
-      "buy": 461157,
-      "sell": 461234,
-      "change": 3
+      "buy": 46.11,
+      "sell": 46.12,
+      "change": 0.02
     },
     {
       "code": "EUR",
       "name": "Euro",
-      "buy": 532467,
-      "sell": 532581,
-      "change": 7
+      "buy": 53.3,
+      "sell": 53.32,
+      "change": 0.18
     },
     {
       "code": "GRA",
       "name": "Gram Altın",
-      "buy": 630483,
-      "sell": 630577,
-      "change": -177
+      "buy": 6327.46,
+      "sell": 6328.41,
+      "change": -1.42
     },
     {
       "code": "CEYREKALTIN",
       "name": "Çeyrek Altın",
-      "buy": 103376,
-      "sell": 1057361,
-      "change": 2
+      "buy": 10337.6,
+      "sell": 10573.61,
+      "change": 0.02
     },
     {
       "code": "CUMHURIYETALTINI",
       "name": "Cumhuriyet Altını",
       "buy": 42780,
       "sell": 43427,
-      "change": -16
+      "change": -0.16
     }
   ],
   "news": [
+    {
+      "title": "Bakan Yumaklı: Suyu Kaybeden Geleceğini de Kaybeder",
+      "url": "https://www.tarimpusulasi.com/haber/bakan-yumakli-suyu-kaybeden-gelecegini-de-kaybeder-46793",
+      "source": "Tarım Pusulası",
+      "date": "2026-06-09",
+      "summary": "Tarım ve Orman Bakanı İbrahim Yumaklı, Ankara Beştepe’de düzenlenen programda Türkiye Su Atlası’nı tanıtırken kurakçıl peyzaj uygulamalarının su verimliliği ve iklim uyumu açısından stratejik önem taşıdığını vurguladı.",
+      "content": "ANKARA — Tarım ve Orman Bakanı İbrahim Yumaklı, Ankara Beştepe’de düzenlenen “Kentler Susamadan: Suyun Geleceği İçin Kurakçıl Peyzaj ve Türkiye Su Atlası Programı”nda yaptığı konuşmada Türkiye Su Atlası’nı tanıttı ve kurakçıl peyzaj uygulamalarına ilişkin yeni yaklaşımı değerlendirdi.\n\n“Su medeniyetin merkezinde yer alıyor”\n\nBakan Yumaklı, konuşmasında suyun tarihsel ve kültürel önemine dikkat çekerek, Anadolu’da suyun yalnızca bir ihtiyaç değil, medeniyetin ve yaşamın merkezinde yer alan bir unsur olduğunu ifade etti. İklim değişikliğinin etkileriyle birlikte su kaynaklarının korunmasının daha kritik hale geldiğini vurguladı.\n\nİklim değişikliği ve risk yönetimi vurgusu\n\nArtan sıcaklıklar, değişen yağış rejimleri ve kuraklık riskine işaret eden Yumaklı, su yönetiminde kriz yerine risk temelli ve bilimsel yaklaşımın benimsendiğini belirtti. Cumhurbaşkanı Recep Tayyip Erdoğan’ın “temiz suya erişimin beka meselesi” vurgusuna atıfta bulundu.\n\nRecep Tayyip Erdoğan\n\nSu Verimliliği ve Ulusal Su Planı\n\nYumaklı, Emine Erdoğan’ın himayelerinde yürütülen Su Verimliliği Seferberliği kapsamında strateji belgesi ve eylem planlarının uygulandığını ifade etti. Ayrıca 10 yıllık perspektif sunan Ulusal Su Planı ile su kaynaklarının korunması, sektörler arası uyum ve dijital dönüşümün hedeflendiğini söyledi.\n\nEmine Erdoğan\n\nTürkiye Su Atlası tanıtıldı\n\nBakan Yumaklı, Türkiye Su Atlası’nın yalnızca teknik bir çalışma değil, ülkenin su hafızasını kayıt altına alan stratejik bir eser olduğunu belirtti. Atlasın 25 havzada yer alan yerüstü su kaynaklarını görsel, teknik ve kültürel boyutlarıyla ele aldığını ve karar vericiler için önemli bir referans olacağını ifade etti.\n\nKurakçıl peyzaj uygulamaları\n\nKonuşmada kurakçıl peyzaj uygulamalarına da geniş yer verildi. Yumaklı, su tüketimi yüksek geleneksel peyzaj yerine kuraklığa dayanıklı türlere dayalı yeni yaklaşımın yüzde 80’e varan su tasarrufu sağlayabileceğini söyledi. Bu modelin aynı zamanda bakım ve enerji maliyetlerini de düşürdüğünü belirtti.\n\nKurakçıl peyzajın bitkisiz alanlar anlamına gelmediğini vurgulayan Yumaklı, yerel türlerin ön planda olduğu, ekosistemle uyumlu ve sürdürülebilir şehir planlamasının hedeflendiğini ifade etti.\n\n“Gelecek nesiller için suyu koruyoruz”\n\nBakan Yumaklı, suyun korunmasının yalnızca bugünün değil gelecek nesillerin yaşam hakkı için kritik olduğunu belirterek, tüm kurumlara ve paydaşlara teşekkür etti.\n\nHaber, Türkiye Su Atlası’nın tanıtımı ve kurakçıl peyzaj uygulamalarının yaygınlaştırılmasına yönelik mesajlarla tamamlandı.\n\nTARIM PUSULASI HABER MERKEZİ"
+    },
+    {
+      "title": "Faik Toy’un 'Arpa Fıkrası': 6 ayda çiftçinin 3 bin TL'si nasıl buhar oldu?",
+      "url": "https://www.tarimdanhaber.com/faik-toyun-arpa-fikrasi-6-ayda-ciftcinin-3-bin-tlsi-nasil-buhar-oldu",
+      "source": "Tarımdan Haber",
+      "date": "2026-06-09",
+      "summary": "Hasat sezonunun açılmasıyla birlikte hububat piyasalarında \"TMO fiyatı ile serbest piyasa\" arasındaki makas açılıyor. Çiftçi Faik Toy, 6 ay önce 14 bin TL'ye sattığı arpanın bugün serbest piyasada 11 bin TL'ye kadar düştüğünü belirterek, hububattaki acı tabloyu gözler önüne serdi.",
+      "content": "Haber Merkezi - Türkiye genelinde hububat hasadı başlarken, üreticinin gözü kulağı Toprak Mahsulleri Ofisi'nin (TMO) açıkladığı alım fiyatlarına çevrilmişti. Ancak piyasada oluşan manzara, üreticinin beklentisini karşılamaktan çok uzak. TMO, 2026 yılı arpa alım fiyatını 12.750 TL olarak açıklamasına rağmen, serbest piyasadaki fiyatların bunun bile altına gerilemesi üreticiyi \"matematiksel bir fıkra\" ile karşı karşıya bıraktı.\n\n\"14 Bin TL’den 11 Bin TL’ye: İşte Hububatın Fıkra Gibi Gerçeği\"\n\nÇiftçi Faik Toy, sosyal medya paylaşımıyla piyasadaki durumu bir örnekle özetledi. 6 ay önce elindeki arpanın tonunu serbest piyasada 14.000 TL'ye satan Toy, bugün TMO fiyatı 12.750 TL olarak netleşmişken, serbest piyasada fiyatların 11.000 TL'ye kadar düştüğünü vurguladı.\n\nBu durum, tarımda sadece maliyetlerin artmadığını, TMO'nun açıkladığı hububat alım fiyatının piyasadaki dengeleri çiftçi aleyhine nasıl bozduğunu gözler önüne seriyor.\n\nTMO Alım Fiyatı ile Piyasa Arasındaki \"Zarar\" Makası\n\nTMO'nun açıkladığı 12.750 TL'lik arpa alım fiyatı, piyasa için bir referans olsa da serbest piyasada oluşan 11.000 TL'lik seviyeler çiftçi için şu soru işaretlerini doğuruyor:\n\nNeden TMO'nun Altında? TMO'nun arpa alım fiyatını beklentilerin altında açıklanması, hasat döneminde fiyatları açıklanan rakamların da altına düşmesine neden oldu.\n\nHasat Baskısı mı, Politika mı? Hasat döneminde arzın artmasıyla tüccarın fiyat kırma eğilimi, çiftçiyi TMO'ya yönlendirirken, ürün paralarının geç ödenecek olması, kota ve randevu süreçlerindeki muhtemel bazı sıkıntılar üreticiyi tekrar serbest piyasanın insafına bırakıyor.\n\nÇiftçi \"Fıkra Gibi\" Ama Zararda\n\nFaik Toy’un paylaştığı bu durum, Türkiye tarımının kanayan yarası olan \"üretici odaklı fiyat istikrarı\" sorununu bir kez daha tescillemiş oldu. 6 ay önce 14 bin TL'ye alıcı bulan ürünün, bugün TMO fiyatının dahi altına inmesi, üreticinin üretim motivasyonunu ciddi oranda zedeliyor.\n\nFaik Toy’un \"fıkra\" olarak adlandırdığı bu tablo, aslında hububat piyasasında açıklanan düşük fiyatlar ile çiftçinin cebine giren rakamlar arasındaki kopukluğun bir özeti. Hasat devam ederken, serbest piyasa ile TMO fiyatları arasındaki bu uçurum, üreticinin \"kime güveneceğiz?\" sorusunu her geçen gün daha yüksek sesle sormasına neden oluyor."
+    },
+    {
+      "title": "Konya Ticaret Borsası’nda hububat fiyatları: 8-9 Haziran karşılaştırmalı analiz",
+      "url": "https://www.tarimdanhaber.com/konya-ticaret-borsasinda-hububat-fiyatlari-8-9-haziran-karsilastirmali-analiz",
+      "source": "Tarımdan Haber",
+      "date": "2026-06-09",
+      "summary": "Konya Ticaret Borsası’nda hububat piyasası hareketli. 8-9 Haziran verileri, buğdaydan arpaya kadar birçok üründe fiyatların dengelenme sürecine girdiğini gösteriyor. İşte çiftçinin yakından takip ettiği hububat fiyatlarındaki son değişimler.",
+      "content": "Haber Merkezi - Konya Ticaret Borsası (KTB) Elektronik Satış Salonu'nda hububat piyasasındaki hareketlilik devam ediyor. 8 Haziran ve 9 Haziran 2026 tarihlerine ait işlem verileri, piyasadaki fiyat dengeleri ve ürün bazlı değişimleri net bir şekilde ortaya koyuyor. Çiftçiler ve sektör temsilcileri tarafından yakından takip edilen hububat fiyatlarındaki son durumu, iki günlük veriler üzerinden sizin için analiz ettik.\n\n8 ve 9 Haziran 2026 Fiyat Karşılaştırması\n\nİşlem piyasasındaki ortalama fiyatlar baz alındığında, bazı ürünlerde fiyatlar değişmezken bazı ürünlerde hafif dalgalanmalar gözlemleniyor. İşte öne çıkan ürünlerin ortalama fiyat karşılaştırması:\n\nBuğday arpa fiyatı kaç TL'den işlem gördü?\n\nBuğday Fiyatlarında Denge Arayışı: 8 Haziran’da 15,80 TL seviyelerinde seyreden Kırmızı Sert Ekmeklik Buğday, 9 Haziran itibarıyla 15,66 TL seviyesine hafif bir gerileme gösterdi. Beyaz Sert Ekmeklik Buğday'da ise 9 Haziran'da 13,53 TL ortalamasıyla daha belirgin bir fiyat hareketi gözlemlendi.\n\nArpa ve Mısırda Hafif Geri Çekilme: Arpa fiyatları 13,71 TL’den 13,43 TL seviyesine inerken, Mısır (18 ve altı) fiyatlarında ise 14,51 TL'den 14,48 TL'ye çok sınırlı bir değişim yaşandı.\n\nİşlem Hacmi Hareketliliği: Mısır (18 ve altı) ürünü, hem 8 Haziran'da 779 ton hem de 9 Haziran'da 686 ton işlem miktarıyla piyasanın en aktif ürünleri arasında yer almayı sürdürüyor.\n\nKonya Ticaret Borsası’ndaki bu veriler, bölgesel arz-talep dengesine göre günlük olarak şekillenmektedir. Özellikle hasat döneminin devam ettiği bu günlerde, açıklanan \"en düşük\" ve \"en yüksek\" fiyatlar arasındaki makas, ürünün kalitesine ve nem oranına göre değişebilmektedir."
+    },
+    {
+      "title": "Türkiye Dünyanın En Büyük Arı Oteli ile Guinness Rekoru Kırdı",
+      "url": "https://www.tarimpusulasi.com/haber/turkiye-dunyanin-en-buyuk-ari-oteli-ile-guinness-rekoru-kirdi-46792",
+      "source": "Tarım Pusulası",
+      "date": "2026-06-09",
+      "summary": "Adana’nın Kozan ilçesinde Anavarza Bal tarafından kurulan \"Dünyanın En Büyük Arı Oteli\", Guinness Dünya Rekorları tarafından resmi olarak tescil edildi. Habitat kaybı ve arı ölümlerine karşı kurulan devasa yapı, ekosistem ve tarımsal üretim için kritik öneme sahip yalnız arı türlerine koruma sağlaya",
+      "content": "ADANA — Türkiye’nin köklü ve yenilikçi bal markalarından Anavarza Bal, arıların ve polinatörlerin korunmasına yönelik örnek projeyi hayata geçirerek küresel çapta ses getiren bir başarıya imza attı. Marka bünyesinde kurulan “Yaşasın Arılar” departmanının öncülüğünde Adana’nın Kozan ilçesindeki çevreci üretim tesisinde kurulan Dünyanın En Büyük Arı Oteli, Guinness Dünya Rekorları tarafından resmi olarak tescil edilerek dünya rekoru ünvanını kazandı.\n\nGuinness Dünya Rekorları Hakemi ve Türkiye Temsilcisi Şeyda Subaşı Gemici tarafından gerçekleştirilen ölçüm ve incelemelerin ardından rekor sertifikası, düzenlenen törenle Anavarza Bal Genel Müdürü Can Sezen’e teslim edildi. 15 metreyi aşan uzunluğu ve 3 metreye ulaşan yüksekliğiyle (15,11 x 3,2 x 0,50 m) dikkat çeken yapı, dünya genelinde giderek artan arı ölümlerine ve habitat kaybına karşı oluşturulmuş kalıcı bir ekolojik farkındalık anıtı olarak konumlanıyor.\n\nYapının inşasında sedir, meşe, ceviz, dut ve kızılçam gibi doğal ve dayanıklı ağaçlar kullanılırken, kamış ve doğal odunsu materyallerle de farklı arı türlerine hitap eden çok katmanlı yaşam alanları oluşturuldu.\n\nCan Sezen: “Bu Rekorun Gerçek Sahipleri Arılar”\n\nGuinness Dünya Rekoru sertifikasını teslim alan Anavarza Bal Genel Müdürü Can Sezen, konuyla ilgili olarak şu ifadeleri kullandı:\n\n“Guinness Dünya Rekoru’nu almamız için bize ilham veren, doğanın en çalışkan canlılarından biri olan arıların yaşam hakkına dikkat çekiyoruz. Çeşitli ülkelerde arı hakları için oluşturulan protokollerin bir adımı olarak, Türkiye için uyguladığımız bu projeyle, ‘arılar varsa yaşam var, tarım var, gıda var’ mottosunu hayata geçirmiş olduk. Bu nedenle dünyanın en büyük arı otelini kurarken amacımız bir rekor kırmaktan çok daha fazlasıydı. Guinness Dünya Rekoru bize uluslararası görünürlük kazandırdı, ancak bu rekorun gerçek sahipleri burada yaşam alanı bulacak binlerce arı olacak.”\n\nGuinness Dünya Rekorları Hakemi ve Türkiye Temsilcisi Şeyda Subaşı Gemici de yaptığı açıklamada rekorun el değiştirdiğini vurgulayarak, \"2011 yılında rekorun sahibi İngiltere idi, Adana Kozan’da yapılan Anavarza Bal’ın arı oteli 2026 yılında Türkiye’ye bu rekoru getirmiş oldu\" şeklinde konuştu.\n\nTarımsal Üretim ve Gıda Güvenliği İçin Kritik Rol\n\nSon yıllarda kentleşme, yoğun tarım uygulamaları, pestisit kullanımı ve doğal yaşam alanlarının azalması nedeniyle birçok yalnız arı türü uygun yuvalama alanı bulmakta zorlanıyor. Koloni oluşturmayan, bal depolamayan ve her dişisi kendi yuvasını kuran yabani arılar için bu oteller gece sığınağı ve kış koruması sağlıyor.\n\nBilim insanlarına göre dünya üzerindeki çiçekli bitkilerin yaklaşık %75’i ve tarımsal ürünlerin önemli bir bölümü polinatörlere ihtiyaç duyuyor. Bu nedenle yabani arıların korunması yalnızca doğa için değil, gıda güvenliği ve tarımsal verimlilik açısından da büyük önem taşıyor. Adana Kozan'da hayata geçirilen bu devasa yapının, bölgedeki doğal tozlaşmayı destekleyerek tarımsal üretime somut katkı sunması bekleniyor.\n\nTARIM PUSULASI HABER MERKEZİ"
+    },
     {
       "title": "Malatya’da Tarım İşçileri İçin Geçici Barınma Alanı Açıldı",
       "url": "https://www.tarimpusulasi.com/haber/malatyada-tarim-iscileri-icin-gecici-barinma-alani-acildi-46791",
@@ -101,38 +133,6 @@
       "date": "2026-06-09",
       "summary": "Adana Büyükşehir Belediyesi, sosyal belediyecilik projeleri kapsamında tarımsal üretimi desteklemeye devam ediyor. Geçtiğimiz hafta Aladağ'da yapılan dağıtımın ardından, Tufanbeyli ve Feke ilçelerindeki üreticilere de toplam 200 bin adet domates fidesi teslim edildi.",
       "content": "ADANA — Adana Büyükşehir Belediyesi, rutin belediyecilik faaliyetlerinin yanı sıra hayata geçirdiği sosyal belediyecilik projeleriyle yerel üreticiye katkı sunmayı sürdürüyor. Kent genelinde tarımsal üretimi canlandırmak amacıyla üretici ve çiftçilere milyonlarca fide ile tohum desteği sağlayan belediye ekipleri, dağıtım ağını genişletiyor.\n\nGeçtiğimiz hafta içerisinde Aladağ ilçesinde üreticilerle buluşturulan 400 bin domates fidesinin ardından yeni bir çalışma daha gerçekleştirildi. Tarımsal Hizmetler Daire Başkanlığı koordinesinde yürütülen projeyle, Tufanbeyli ve Feke ilçelerinde üretim yapan çiftçilere toplam 200 bin adet domates fidesi dağıtımı yapıldı.\n\nAdana Büyükşehir Belediye Başkan Vekili Güngör Geçer, her iki ilçede düzenlenen fide dağıtım törenlerine bizzat katılarak üreticiler ve bölge halkıyla bir araya geldi. Tufanbeyli ve Feke'de vatandaşlar tarafından ilgiyle karşılanan Geçer, belediyenin tüm imkanlarıyla çiftçinin yanında olduğunu vurguladı.\n\nBelediye Başkan Vekili Güngör Geçer, törende yaptığı konuşmada şu ifadelere yer verdi:\n\n\"Adana Büyükşehir Belediyesi olarak, tüm imkanlarımızla çiftçimizin ve üreticimizin yanındayız. Adana’mızın bereketli topraklarını emekle işliyor; Feke ve Tufanbeyli'de hemşehrilerimizle buluşturduğumuz toplam 200 bin domates fidesiyle üreticimize güç katıyoruz. Bugün özellikle kadınlarımızın öncülüğünde ektiğimiz her fide, yarın sofralarımıza bereket, geleceğimize umut olacak. Daha çok çalışacak, birlikte üreteceğiz.\"\n\nTARIM PUSULASI HABER MERKEZİ"
-    },
-    {
-      "title": "Tarım Kredi’den üre gübresinde şok kampanya: Ton fiyatı 31.200 TL'ye düştü!",
-      "url": "https://www.tarimdanhaber.com/tarim-krediden-ure-gubresinde-sok-kampanya-ton-fiyati-31200-tlye-dustu",
-      "source": "Tarımdan Haber",
-      "date": "2026-06-09",
-      "summary": "Gübre fiyatları piyasasında hareketli günler! Tarım Kredi Kooperatifleri, üre gübresinde başlattığı \"Şimdi Al, Hasatta Öde\" kampanyası ile çiftçilere finansman desteği sunuyor. İşte Tarım Kredi 2026 gübre fiyatları ve piyasadaki güncel durum.",
-      "content": "Haber Merkezi - Tarımsal üretimde en büyük girdi kalemlerinden biri olan üre gübresinde, kullanım döneminin dışında olunmasından dolayı firmalar rekabetçi kampanyalarla dikkat çekiyor. Üre gübresinin kullanım döneminde farklı tartışmalarla gündeme gelen Tarım Kredi Kooperatifleri, üre gübresi fiyatlarında indirime giderken, vade avantajlı ödeme seçeneklerini de devreye aldı.\n\nTarım Kredi Gübre Fiyatları 2026: 1.500 TL İndirim!\n\nTarım Kredi Kooperatifleri, yaptığı son düzenleme ile üre gübresinin ton fiyatında 1.500 TL'lik bir indirime gitti. Yapılan indirimle birlikte üre gübresinin tonu 31.200 TL seviyesine çekildi.\n\n\"Şimdi Al, Hasatta Öde\" Kampanyası Başladı\n\nÇiftçilerin hasat dönemine kadar nakit akışını korumayı amaçlayan Tarım Kredi, üre gübresi alımlarında büyük bir kolaylık sağladı:\n\nVade Farksız Ödeme: 30 Haziran 2026 tarihine kadar yapılacak üre gübresi alımlarında, 30 Eylül 2026’ya kadar vade farksız ödeme imkanı sunuluyor.\n\nStok Uyarısı: Kampanyanın stoklarla sınırlı olduğu belirtilirken, üreticilerin kooperatiflerle iletişime geçmeleri tavsiye ediliyor.\n\nGemlik Gübre Fiyatlarında Güncelleme\n\nÜre gübresi piyasasındaki diğer önemli oyuncu olan Gemlik Gübre'de ise hareketlilik devam ediyor. Finansman ihtiyacı nedeniyle geçtiğimiz gün nakliye hariç 23.000 TL (peşin) seviyesine kadar düşen fiyatlar, bugün yapılan güncellemeyle 27.500 TL seviyesine çekildi.\n\nGübre Fiyatları Neden Düşüyor?\n\nUzmanlar, üre gübresi kullanım döneminin geçmesi nedeniyle firmaların stok yönetimi ve finansman ihtiyacı çerçevesinde bu tür \"kampanyalı satışlara\" ağırlık verdiğini belirtiyor. Çiftçiler için şu dönem, uygun fiyatlı gübre temini açısından stratejik bir fırsat olarak görülüyor.\n\nÖzetle; Tarım Kredi gübre fiyatları 2026 düzenlemesi ve kampanya detayları, gübre maliyetlerini düşürmek isteyen üreticiler için önemli bir fırsat sunuyor. Çiftçiler, bölgesel kooperatif şubeleri üzerinden güncel stok durumunu ve kampanya şartlarını sorgulayabilirler."
-    },
-    {
-      "title": "Traktör satışlarında yüzde 54 erime: Çiftçinin yatırım iştahı kapandı",
-      "url": "https://www.tarimdanhaber.com/traktor-satislarinda-yuzde-54-erime-ciftcinin-yatirim-istahi-kapandi",
-      "source": "Tarımdan Haber",
-      "date": "2026-06-09",
-      "summary": "Tarım sektörünün en önemli yatırım göstergelerinden biri olan traktör satışlarında yaşanan daralma, 2026 yılının ilk aylarında da hız kesmeden devam ediyor.",
-      "content": "Haber Merkezi - Ziraat Mühendisi Bahar Çınar’ın paylaştığı TARMAKBİR verileri, sektördeki yatırım iştahının ciddi oranda azaldığını gözler önüne seriyor. Traktör satışlarındaki bu gerileme, tarımsal üretimde geleceğe yönelik bir karamsarlığın sinyali olarak yorumlanıyor.\n\n2025’te Yüzde 36,3’lük Büyük Kayıp\n\n2024 yılında 63.546 adet olan toplam traktör satışı, 2025 yılında %36,3’lük bir düşüşle 40.501 adede geriledi. Bu tablo, sektörün bir yıl içerisinde 23.045 adetlik kayıp yaşadığını gösteriyor. 2024 ve 2025 yıllarını kapsayan iki yıllık genel toplam ise 104.047 adet seviyesinde gerçekleşti.\n\n2026’da Düşüş Hızlandı: İlk Dört Ayda Yüzde 54 Gerileme\n\nDüşüş eğilimi 2026 yılında çok daha keskin bir hale geldi. Verilere göre, yılın ilk dört ayında trafiğe kaydı yapılan traktör sayısı, geçtiğimiz yılın aynı dönemine göre %54 oranında büyük bir daralma gösterdi.\n\n\"Yatırım İştahı ve Finansman Maliyetleri Baskılıyor\"\n\nTraktör satışlarındaki bu dramatik düşüşün arkasında üç temel neden öne çıkıyor:\n\nYüksek Finansman Maliyetleri: Kredi faizlerinin yüksekliği, çiftçinin yeni makine alımı için finansmana erişimini zorlaştırıyor.\n\nTarımsal Gelirlerdeki Baskı: Üreticinin eline geçen gelirin artan girdi maliyetlerini karşılamakta zorlanması, yatırım kapasitesini doğrudan etkiliyor.\n\nYatırım İştahında Zayıflama: Ekonomik belirsizlikler ve maliyet baskısı, çiftçiyi yeni makine yatırımlarını ertelemeye veya tamamen durdurmaya itiyor.\n\nSektör paydaşları, bu düşüşün devam etmesinin mekanizasyon seviyesinin yenilenmesini engelleyebileceği ve uzun vadede tarımsal verimlilik üzerinde risk oluşturabileceği konusunda uyarıyor."
-    },
-    {
-      "title": "Edirne Ticaret Borsası'nda Sezonun İlk Arpası 12,50 TL'ye Satıldı",
-      "url": "https://www.tarimpusulasi.com/haber/edirne-ticaret-borsasinda-sezonun-ilk-arpasi-1250-tlye-satildi-46786",
-      "source": "Tarım Pusulası",
-      "date": "2026-06-09",
-      "summary": "Edirne Ticaret Borsası’nda (ETB) 2026 hasat sezonunun ilk yeni mahsul arpası, düzenlenen elektronik salon satışı ile kilogramı 12,50 TL’den alıcı buldu.",
-      "content": "EDİRNE — 2026 hasat sezonunun ilk ürünü olan yeni mahsul arpa, satışa sunulmak üzere Edirne Ticaret Borsası’na (ETB) getirildi. Bölge üreticileri ve borsa üyelerinin yoğun katılımıyla gerçekleştirilen elektronik salon satışı, hareketli anlara sahne oldu.\n\nYapılan açık artırma neticesinde, üretici Adem Atabay’a ait 7,5 ton ağırlığındaki yeni mahsul arpa, Kurbanlar Tarım Ürünleri Ltd. Şti. tarafından kilogramı 12,50 TL fiyat üzerinden satın alındı. Sezonun ilk satış işlemi borsa kayıtlara başarıyla geçti.\n\nSatış işleminin ardından ETB Yönetim Kurulu Üyesi Oğuz Kurban, yeni sezonun ilk mahsulünü borsaya getiren üretici Adem Atabay’ı tebrik etti. Günün anısına üreticiye plaket takdim eden Kurban, ayrıca teşvik amacıyla 100 litre mazot hediye etti. ETB yetkilileri, yeni hasat sezonunun tüm borsa üyelerine ve üreticilere hayırlı, bereketli ve kazançlı olmasını diledi.\n\nTARIM PUSULASI HABER MERKEZİ"
-    },
-    {
-      "title": "TUSAF Başkanı Çakmak: TMO alım fiyatı dengeli, hasat yüksek olacak",
-      "url": "https://www.tarimpusulasi.com/haber/tusaf-baskani-cakmak-tmo-alim-fiyati-dengeli-hasat-yuksek-olacak-46785",
-      "source": "Tarım Pusulası",
-      "date": "2026-06-08",
-      "summary": "Türkiye Un Sanayicileri Federasyonu Yönetim Kurulu Başkanı Mehmet Mesut Çakmak, Toprak Mahsulleri Ofisi'nin açıkladığı 2026 yılı hububat alım fiyatlarını \"dengeli\" olarak değerlendirdi. Çakmak, yağışların etkisiyle son 40-50 yılın en yüksek buğday hasadının gerçekleşebileceğini ancak kalite konusund",
-      "content": "ANKARA — Toprak Mahsulleri Ofisi'nin açıkladığı 2026 yılı hububat alım fiyatlarının ardından Türkiye Un Sanayicileri Federasyonu Yönetim Kurulu Başkanı Mehmet Mesut Çakmak, NTV'ye yaptığı değerlendirmede hem açıklanan fiyatları hem de yeni sezon üretim beklentilerini değerlendirdi.\n\nÇakmak, bu yıl yağış koşullarının önceki yıllara göre oldukça olumlu geçtiğini belirterek bunun özellikle kıraç arazilerde verimi önemli ölçüde artırdığını ifade etti. Geçen yıl dekar başına yaklaşık 150-200 kilogram seviyelerinde kalan bazı alanlarda bu yıl 400-500 kilogram seviyelerine ulaşıldığını söyledi.\n\nBu üretim koşulları dikkate alındığında açıklanan alım fiyatını \"dengeli bir fiyat\" olarak değerlendiren Çakmak, devletin planlamasını bu çerçevede yaptığını dile getirdi.\n\nSon yılların en yüksek hasadı beklentisi\n\nBuğday hasadının başladığını belirten Çakmak, federasyona bağlı sekiz dernek başkanıyla yapılan istişareler sonucunda Türkiye'nin yaklaşık 23,5 ila 24 milyon tonluk bir üretimle karşılaşabileceğini öngördüklerini söyledi.\n\nDekar başına bazı bölgelerde 400, 600 hatta 700 kilogram seviyelerinde verim alındığını ifade eden Çakmak, gerçekleşmesi halinde bu üretim miktarının Türkiye'nin son 40-50 yılındaki en yüksek buğday hasatlarından biri olacağını belirtti.\n\n\"Kalite konusunda bazı riskler oluşabilir\"\n\nVerim artışına rağmen kalite açısından bazı sorunların yaşanabileceğini dile getiren Çakmak, fazla yağışların ürün kalitesini olumsuz etkileyebileceği değerlendirmesinde bulundu. Bu nedenle yüksek üretim beklentisinin yanında kalite unsurunun da yakından takip edilmesi gerektiğini ifade etti.\n\nBayram tatilinin ihracata etkisi\n\nÇakmak, 9 günlük bayram tatilinin lojistik süreçleri de etkilediğini söyledi. Tatil öncesinde araç temininde sıkıntılar yaşandığını belirten Çakmak, bunun ihracatta geçici bir yavaşlamaya neden olduğunu ifade etti.\n\nİhracattaki bu düşüşün geçici olduğunu değerlendiren Çakmak, önümüzdeki aylarda ticaretin yeniden toparlanmasını beklediklerini söyledi.\n\nTARIM PUSULASI HABER MERKEZİ"
     }
   ],
   "commoditiesByBorsa": {
