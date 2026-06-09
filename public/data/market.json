@@ -1,43 +1,59 @@
 {
-  "updatedAt": "2026-06-09T19:02:59.732Z",
+  "updatedAt": "2026-06-09T21:03:55.514Z",
   "fx": [
     {
       "code": "USD",
       "name": "Dolar",
-      "buy": 46.11,
-      "sell": 46.12,
-      "change": 0.02
+      "buy": 461127,
+      "sell": 461351,
+      "change": 4
     },
     {
       "code": "EUR",
       "name": "Euro",
-      "buy": 53.3,
-      "sell": 53.32,
-      "change": 0.18
+      "buy": 532449,
+      "sell": 533243,
+      "change": 13
     },
     {
       "code": "GRA",
       "name": "Gram Altın",
-      "buy": 6327.46,
-      "sell": 6328.41,
-      "change": -1.42
+      "buy": 631752,
+      "sell": 631838,
+      "change": -1
     },
     {
       "code": "CEYREKALTIN",
       "name": "Çeyrek Altın",
-      "buy": 10337.6,
-      "sell": 10573.61,
-      "change": 0.02
+      "buy": 103376,
+      "sell": 1057361,
+      "change": 0
     },
     {
       "code": "CUMHURIYETALTINI",
       "name": "Cumhuriyet Altını",
       "buy": 42780,
       "sell": 43427,
-      "change": -0.16
+      "change": -16
     }
   ],
   "news": [
+    {
+      "title": "Türkşeker’den fiyat düzenlemesi: Toptan şeker satış fiyatı 40 TL oldu",
+      "url": "https://www.tarimdanhaber.com/turksekerden-fiyat-duzenlemesi-toptan-seker-satis-fiyati-40-tl-oldu",
+      "source": "Tarımdan Haber",
+      "date": "2026-06-09",
+      "summary": "Türkşeker, toptan şeker satış fiyatlarında 1,5 TL’lik bir fiyat düzenlemesine gitti. 15 Haziran’dan itibaren geçerli olacak yeni fiyatla birlikte toptan şeker satış kilogram fiyatı 40 lira olarak belirlendi.",
+      "content": "Haber Merkezi - Şubat ayından itibaren fiyatlarda herhangi bir değişikliğe gitmeyen Türkşeker, Mayıs ayı başında 34,70 TL olan toptan şeker satış fiyatını 38,50 TL’ye çıkarmıştı. Kurum, bugün yaptığı yeni duyuru ile bu fiyat üzerinde 1,5 TL’lik bir artış daha yaparak satış fiyatını 40,00 TL seviyesine güncelledi.\n\n\"Kıyak Satış\" İddiaları ve Sessizlik Korunuyor\n\nKüçük çaplı bu fiyat düzenlemesi piyasada takip edilirken, kurumun geçtiğimiz ay gündeme gelen \"özel satış\" iddiaları ise tazeliğini koruyor.\n\nBilindiği üzere Türkşeker’in, daha önce piyasa fiyatı 34,70 TL iken, herhangi bir duyuru yapmadan iki firmaya 31,76 TL’den şeker satışı yapmış ve bir gün sonra da şeker fiyatlarına yüzde 11 zam yaparak, şeker satış fiyatını 38,50 TL/kg'a çıkarmıştı. Söz konusu bu satış, kurumun 600 milyon lira zarara uğramasına yol açarken, ilgili firmaların da ciddi bir kazanç elde etmesine neden olmuştu.\n\nKıyak satışın üstü örtüldü!\n\nKamuoyunun dikkatini çeken bu satış süreciyle ilgili Türkşeker'den kamuoyuna hiç bir açıklama yapılmazken, bu kıyak satışa imza atan yönetim kurulu üyeleri hakkında da Bakanlık bünyesindeki bağlantıları nedeniyle bir soruşturma ve inceleme başlatılmaması dikkat çekti."
+    },
+    {
+      "title": "CHP'li İlhami Özcan Aygun TBMM'de Çiftçi İçin Ek Prim İstedi",
+      "url": "https://www.tarimpusulasi.com/haber/chpli-ilhami-ozcan-aygun-tbmmde-ciftci-icin-ek-prim-istedi-46794",
+      "source": "Tarım Pusulası",
+      "date": "2026-06-09",
+      "summary": "CHP Tekirdağ Milletvekili İlhami Özcan Aygun, TBMM Genel Kurulunda yaptığı konuşmada Toprak Mahsulleri Ofisi (TMO) tarafından açıklanan yeni hububat alım fiyatlarını sert bir dille eleştirdi. Coğrafi işaretli Tekirdağ köftesi üzerinden çiftçinin alım gücünü hesaplayan Aygun, Hazine ve Maliye Bakanlı",
+      "content": "ANKARA — Cumhuriyet Halk Partisi (CHP) Tekirdağ Milletvekili İlhami Özcan Aygun, Türkiye Büyük Millet Meclisi (TBMM) Genel Kurulunda yaptığı konuşmada tarım sektörünün ve üreticilerin yaşadığı ekonomik sorunları gündeme taşıdı. Toprak Mahsulleri Ofisi (TMO) tarafından geçtiğimiz hafta açıklanan hububat alım fiyatlarına tepki gösteren Aygun, çiftçinin girdi maliyetleri karşısında ezildiğini savunarak hükümete acil destek çağrısında bulundu.\n\nKonuşmasında seçim bölgesi Tekirdağ’ın coğrafi işaretli köftesi üzerinden dikkat çekici bir piyasa kıyaslaması yapan Aygun, bir porsiyon köfte fiyatı ile çiftçinin ürettiği ürünün değerini karşılaştırdı. Aygun, meclis kürsüsünden şu ifadeleri kullandı:\n\n“Seçim bölgem Tekirdağ'ımızın köftesi meşhurdur. Coğrafi işaretli Tekirdağ köftemizin porsiyonu 460 lira civarındadır. Bir porsiyonda 10 adet köfte vardır. Geçtiğimiz hafta TMO, 1 kilogram buğday alım fiyatını 16,5 lira, arpayı da 12 lira 75 kuruş olarak belirledi. Kısacası çiftçimizin bir tane Tekirdağ köftesini yemesi için tam bu buğdaydan 3 kiloya yakın satması gerekiyor, arpadan da 4 kilo satması gerekiyor.”\n\nBakanlıklara Çağrı: \"Müstahsil Makbuzu Üzerinden 2,5 Lira Prim Verin\"\n\nÜreticilerin enflasyonu artıran bir unsur olmadığını, aksine desteklenmeleri gerektiğini vurgulayan CHP Milletvekili İlhami Özcan Aygun, Hazine ve Maliye Bakanı ile Tarım ve Orman Bakanı’na yönelik taleplerini sıraladı.\n\nEkonomi ve tarım yönetiminin uykusundan uyanması gerektiğini belirten Aygun, üreticinin sürdürülebilirliği için şu çözüm önerisini sundu:\n\n“Buradan sesleniyorum: Yetkililer gözünüzü açın! Çiftçimizi destekleyin. Üreticiler enflasyonu arttırmaz. Hazine Maliye Bakanı'na sesleniyorum, Tarım Bakanı'na sesleniyorum: Çiftçilerimize geçmişte olduğu gibi müstahsil makbuzu üzerinden prim desteği sağlayın. Yaklaşık olarak buğdayda, arpada çiftçimize 2,5 lira prim desteği verin diyorum. Uykunuzdan uyanın, üretimde var olan çiftçilerimize sahip çıkın!”\n\nTBMM Genel Kurulunda yoğun yankı bulan bu açıklamaların ardından gözler, üretici birliklerinin ve ilgili bakanlıkların açıklanan hububat fiyatlarına dair atacağı yeni adımlara çevrildi.\n\nTARIM PUSULASI HABER MERKEZİ"
+    },
     {
       "title": "Bakan Yumaklı: Suyu Kaybeden Geleceğini de Kaybeder",
       "url": "https://www.tarimpusulasi.com/haber/bakan-yumakli-suyu-kaybeden-gelecegini-de-kaybeder-46793",
@@ -117,22 +133,6 @@
       "date": "2026-06-09",
       "summary": "Balıkesir Büyükşehir Belediyesi bünyesindeki BASKİ Genel Müdürlüğü, Manyas Ovası’nda 2026 yılı tarımsal sulama sezonu öncesinde yürüttüğü kapsamlı temizlik, bakım ve onarım çalışmalarını tamamlayarak hatları hazır hale getirdi.",
       "content": "BALIKESİR — Balıkesir Büyükşehir Belediye Başkanı Ahmet Akın’ın üretimi ve üreticiyi merkeze alan tarım vizyonu doğrultusunda hareket eden Balıkesir Su ve Kanalizasyon İdaresi Genel Müdürlüğü (BASKİ), Manyas Ovası’nda 2026 yılı sulama sezonu öncesinde kapsamlı hazırlık çalışmalarını tamamladı. Kentin verimli topraklarında tarımsal üretimini sürdüren yaklaşık 2 bin çiftçinin suya zamanında, kesintisiz ve düzenli şekilde erişebilmesi amacıyla yürütülen altyapı operasyonları kapsamında sulama kanalları ile iletim hatları tamamen hazır hale getirildi.\n\nManyas Barajı Regülatörü’nde gerçekleştirilen sezon açılış programına Manyas Kaymakamı Mustafa Salih Bayram, Manyas Belediye Başkanı Ahmet Duru, Balıkesir Büyükşehir Belediyesi Güney Marmara Bölge Koordinatörü Murat Karakoyun, ilgili daire başkanları, yöneticiler ve çiftçi temsilcileri katılım sağladı.\n\nBASKİ Genel Müdürlüğü’nün Manyas Ovası Sulama Tesisi’nde yürüttüğü teknik çalışmalar kapsamında, açık sulama kanallarında makinalı temizlik işlemleri yapılarak biriken tortular arındırıldı. Temizliğin ardından yürütülen yabancı ot mücadelesiyle ana iletim hatlarının sağlıklı su akışı desteklendi. Kapalı sulama hatlarında ise sızıntı kontrolü, genel bakım ve teknik inceleme çalışmaları titizlikle tamamlanarak sezon içi aksaklık riskleri minimuma indirildi.\n\nAçılış programında konuşan Manyas Kaymakamı Mustafa Salih Bayram, baraj kapasitesinin şu an yüzde yüz doluluk oranına ulaştığını belirterek, \"Buradan salınan su ile 150 bin dönüm arazi sulanıyor. Yaklaşık 2 bin çiftçimize hizmet vermekteyiz. Bölge olarak güzel bir kış geçirdik. İnşallah çiftçimiz için bol bereketli bir hasat zamanı olur. Büyükşehir belediyemiz ekipleriyle güzel bir açılış gerçekleştirdik, Manyas’ımıza hayırlı olsun.\" dedi.\n\nBalıkesir Büyükşehir Belediyesi Güney Marmara Bölge Koordinatörü Murat Karakoyun ise üreticilere sadece altyapı değil, lojistik destek de sağladıklarını ifade ederek, \"Ahmet Akın Başkan’ımıza tüm çiftçilerimiz adına teşekkür ediyoruz. Sadece su vermekle iş bitmiyor; bölgedeki bütün tarla yollarını da yapıyoruz. En kısa sürede çiftçilerimizle buluşturacağız.\" şeklinde konuştu. Manyas Belediye Başkanı Ahmet Duru da yürütülen tüm bu koordineli çalışmalar ve tarımsal destekler vesilesiyle Büyükşehir Belediye Başkanı Ahmet Akın’a teşekkür ederek üreticilere bereketli bir harman sezonu diledi.\n\nTARIM PUSULASI HABER MERKEZİ"
-    },
-    {
-      "title": "Çiğ sütte yeni dönem: Maliyet 22,18 TL oldu! İşte detaylar",
-      "url": "https://www.tarimdanhaber.com/cig-sutte-yeni-donem-maliyet-2218-tl-oldu-iste-detaylar",
-      "source": "Tarımdan Haber",
-      "date": "2026-06-09",
-      "summary": "Ulusal Süt Konseyi (USK), Mayıs 2026 dönemine ait 1 litre çiğ süt üretim maliyetini açıkladı. 1 Mayıs itibarıyla geçerli olan yeni satış fiyatı 24,30 TL olarak revize edilirken, güncel maliyet verileri sektördeki son durumu gözler önüne seriyor.",
-      "content": "Haber Merkezi - Süt üretiminde maliyet baskısı sürerken, üreticilerin merakla beklediği veriler belli oldu. Ulusal Süt Konseyi'nin (USK) yayımladığı rapora göre, 1 litre çiğ süt üretim maliyeti 22,18 TL olarak hesaplandı.\n\nÇiğ Süt Satış Fiyatı ve Maliyet: Makas Daralıyor\n\nBilindiği üzere, 1 Mayıs 2026 tarihinden itibaren geçerli olmak üzere çiğ süt satış fiyatı, 22,22 TL seviyesinden 24,30 TL'ye çıkarılmıştı. Açıklanan 22,18 TL'lik maliyet verisi ile yeni satış fiyatı arasındaki fark, üreticinin birim bazlı kar marjını da yeniden gündeme getirdi.\n\nMaliyetler Nelerden Oluşuyor?\n\nUSK tarafından hazırlanan Mayıs 2026 raporuna göre, işletmelerin günlük gider kalemleri ve maliyet yapısı şu detaylarla öne çıkıyor:\n\nYem Gideri: Sağılan bir inek için günlük yem gideri 322,62 TL olarak hesaplandı. Bu rakam, toplam giderlerin %62,1'ini oluşturuyor.\n\nDiğer Giderler: İşçilik, yakıt, elektrik, sağlık, tohum, sigorta ve amortisman gibi diğer kalemler ise günlük 196,89 TL ile toplam giderlerin %37,9'unu kaplıyor.\n\nGünlük Toplam Gider: Sağılan bir inek için günlük toplam işletme gideri 519,51 TL olarak kaydedildi.\n\nRaporun Dikkat Çeken Detayları\n\nTemel Kabuller: Hesaplamalar, Holstein ırkı, 600 kg canlı ağırlığa sahip ve günlük 20 litre süt veren inekler baz alınarak yapılmıştır.\n\nYem Rasyonu: Günlük rasyonda 8 kg karma yem, 20 kg mısır silajı, 4 kg yonca ve 2 kg saman kullanıldığı belirtiliyor.\n\nKapsam: Maliyetler 10 baş ve üzeri işletmelerin giderleri baz alınarak hesaplanmış olup, devlet destekleri (süt veya buzağı desteği) bu rakamlara dahil edilmemiştir.\n\nÜretici İçin Ne Anlama Geliyor?\n\nSektör temsilcileri, maliyetlerin 22,18 TL olarak açıklanmasının ardından, üreticinin sürdürülebilir bir üretim yapabilmesi için satış fiyatı ile maliyet arasındaki dengenin korunmasının hayati öneme sahip olduğunu vurguluyor. Girdi fiyatlarının 22 Mayıs 2026 verilerine dayandığı raporda, üreticilerin vadeli satın alma esasına göre hareket ettiği de belirtiliyor."
-    },
-    {
-      "title": "Adana Büyükşehir Belediyesi İlçelerde 200 Bin Fide Dağıttı",
-      "url": "https://www.tarimpusulasi.com/haber/adana-buyuksehir-belediyesi-ilcelerde-200-bin-fide-dagitti-46787",
-      "source": "Tarım Pusulası",
-      "date": "2026-06-09",
-      "summary": "Adana Büyükşehir Belediyesi, sosyal belediyecilik projeleri kapsamında tarımsal üretimi desteklemeye devam ediyor. Geçtiğimiz hafta Aladağ'da yapılan dağıtımın ardından, Tufanbeyli ve Feke ilçelerindeki üreticilere de toplam 200 bin adet domates fidesi teslim edildi.",
-      "content": "ADANA — Adana Büyükşehir Belediyesi, rutin belediyecilik faaliyetlerinin yanı sıra hayata geçirdiği sosyal belediyecilik projeleriyle yerel üreticiye katkı sunmayı sürdürüyor. Kent genelinde tarımsal üretimi canlandırmak amacıyla üretici ve çiftçilere milyonlarca fide ile tohum desteği sağlayan belediye ekipleri, dağıtım ağını genişletiyor.\n\nGeçtiğimiz hafta içerisinde Aladağ ilçesinde üreticilerle buluşturulan 400 bin domates fidesinin ardından yeni bir çalışma daha gerçekleştirildi. Tarımsal Hizmetler Daire Başkanlığı koordinesinde yürütülen projeyle, Tufanbeyli ve Feke ilçelerinde üretim yapan çiftçilere toplam 200 bin adet domates fidesi dağıtımı yapıldı.\n\nAdana Büyükşehir Belediye Başkan Vekili Güngör Geçer, her iki ilçede düzenlenen fide dağıtım törenlerine bizzat katılarak üreticiler ve bölge halkıyla bir araya geldi. Tufanbeyli ve Feke'de vatandaşlar tarafından ilgiyle karşılanan Geçer, belediyenin tüm imkanlarıyla çiftçinin yanında olduğunu vurguladı.\n\nBelediye Başkan Vekili Güngör Geçer, törende yaptığı konuşmada şu ifadelere yer verdi:\n\n\"Adana Büyükşehir Belediyesi olarak, tüm imkanlarımızla çiftçimizin ve üreticimizin yanındayız. Adana’mızın bereketli topraklarını emekle işliyor; Feke ve Tufanbeyli'de hemşehrilerimizle buluşturduğumuz toplam 200 bin domates fidesiyle üreticimize güç katıyoruz. Bugün özellikle kadınlarımızın öncülüğünde ektiğimiz her fide, yarın sofralarımıza bereket, geleceğimize umut olacak. Daha çok çalışacak, birlikte üreteceğiz.\"\n\nTARIM PUSULASI HABER MERKEZİ"
     }
   ],
   "commoditiesByBorsa": {
@@ -277,24 +277,24 @@
     }
   ],
   "dieselByCity": {
-    "ANKARA": 67.43,
-    "ISTANBUL": 66.26,
-    "IZMIR": 67.7,
-    "KONYA": 68.59,
-    "ADANA": 68.26,
-    "BURSA": 67.31,
-    "ANTALYA": 68.75,
-    "SAMSUN": 68,
-    "TEKIRDAG": 67.16,
-    "CANAKKALE": 68.06
+    "ANKARA": 67.49,
+    "ISTANBUL": 66.32,
+    "IZMIR": 67.76,
+    "KONYA": 68.65,
+    "ADANA": 68.32,
+    "BURSA": 67.37,
+    "ANTALYA": 68.81,
+    "SAMSUN": 68.06,
+    "TEKIRDAG": 67.22,
+    "CANAKKALE": 68.12
   },
   "inputs": [
     {
       "key": "motorin",
       "name": "Motorin (mazot)",
       "unit": "₺/lt",
-      "price": 68.06,
-      "change": 0,
+      "price": 68.12,
+      "change": 0.09,
       "source": "CANAKKALE ort."
     },
     {
