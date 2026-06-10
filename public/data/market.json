@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-06-10T11:48:51.877Z",
+  "updatedAt": "2026-06-10T14:41:43.587Z",
   "fx": [
     {
       "code": "USD",
@@ -11,33 +11,57 @@
     {
       "code": "EUR",
       "name": "Euro",
-      "buy": 53.26,
-      "sell": 53.28,
-      "change": -0.02
+      "buy": 53.36,
+      "sell": 53.37,
+      "change": 0.15
     },
     {
       "code": "GRA",
       "name": "Gram Altın",
-      "buy": 6160.77,
-      "sell": 6161.68,
-      "change": -2.49
+      "buy": 6166.96,
+      "sell": 6167.69,
+      "change": -2.39
     },
     {
       "code": "CEYREKALTIN",
       "name": "Çeyrek Altın",
-      "buy": 9972.42,
-      "sell": 10202.57,
-      "change": -3.51
+      "buy": 10013.24,
+      "sell": 10242.08,
+      "change": -3.14
     },
     {
       "code": "CUMHURIYETALTINI",
       "name": "Cumhuriyet Altını",
-      "buy": 41439,
-      "sell": 42064,
-      "change": -3.14
+      "buy": 41479,
+      "sell": 42104,
+      "change": -3.05
     }
   ],
   "news": [
+    {
+      "title": "Erdoğan TBMM'de Açıkladı: Çiftçi Destekleri Artırılıyor",
+      "url": "https://www.tarimpusulasi.com/haber/erdogan-tbmmde-acikladi-ciftci-destekleri-artiriliyor-46796",
+      "source": "Tarım Pusulası",
+      "date": "2026-06-10",
+      "summary": "Cumhurbaşkanı Erdoğan, TBMM AK Parti Grup Toplantısı'nda tarımsal üretime yönelik önemli müjdeler verdi. Son 66 yılın en yüksek yağış seviyesine ulaştıklarını belirten Erdoğan, artan girdi maliyetlerine karşı temel destek ve planlama desteği tutarlarının artırıldığını, TMO'nun üreticinin tüm ürününü",
+      "content": "ANKARA — Cumhurbaşkanı ve AK Parti Genel Başkanı Recep Tayyip Erdoğan, Türkiye Büyük Millet Meclisinde (TBMM) partisinin Grup Toplantısı'nda önemli açıklamalarda bulundu. Tarım sektörüne ve üreticilere yönelik müjdeler veren Erdoğan, bu yıl yağışlar açısından son 66 yılın en yüksek seviyesine ulaşıldığını ve barajlardaki doluluk oranının geçen yıla göre %26 artarak %81 seviyesine çıktığını belirtti.\n\n\"Tarihi Bir Üretim Rekoru Kırabiliriz\"\n\nHem bereketli yağışlar hem de uygulanan tarımsal planlama ve destekler sayesinde birçok üründe yüksek rekolte beklediklerini ifade eden Erdoğan, \"Tarihi bir üretim rekoru da inşallah bu sene kırabiliriz. Hububat hasat dönemi ülkemizin birçok yerinde başlamıştır. Mevcut tahminlerimize göre buğday üretimimiz geçen yıla göre %27, arpa üretimimiz %50 artacaktır\" dedi. Geçen yıl dekar başına 276 kiloya kadar düşen buğday veriminin bu yıl ortalama 400 kiloya çıkacağını, Trakya ve Çukurova gibi bölgelerde ise 700 kiloya varan verimler beklendiğini müjdeledi.\n\n\"Üreticimizin 1 Gram Ürünü Dahi Ziyan Olmayacak\"\n\nToprak Mahsulleri Ofisi'nin (TMO) alım fiyatlarını geçtiğimiz hafta açıkladığını hatırlatan Cumhurbaşkanı Erdoğan, kurumun 20 milyon ton depo kapasitesi ve 600'ün üzerindeki alım merkeziyle hazırlıklarını tamamladığını söyledi. Erdoğan, çiftçilere şu güvenceyi verdi:\n\n\"Üreticimizin 1 gram dahi ürünü ziyan olmayacak. Ofis kendisine getirilen bütün ürünleri alacaktır. Ayrıca ofis ürün teslimine müteakip 21. günden itibaren ürün bedeli ödemelerine de başlayacaktır.\"\n\nGirdi Maliyetlerine Karşı Destek Tutarları Artırıldı\n\nBölgesel savaşlar, çatışmalar ve İran krizi sebebiyle üretim girdilerinde yaşanan aşırı artışların çiftçilerin maliyetlerine olumsuz yansıdığına dikkat çeken Erdoğan, üreticinin yükünü hafifletecek stratejik bir kararı paylaştı. Erdoğan, \"Bu yıl için açıkladığımız temel destek ve planlama desteği tutarımızı, İran krizi ile birlikte girdi maliyetlerinde oluşan aşırı artışları göz önüne alarak güncelliyoruz. Destek tutarlarımızı buna göre artırıyoruz. Şimdiden hayırlı bereketli olsun\" diyerek sözlerini tamamladı.\n\nTARIM PUSULASI HABER MERKEZİ"
+    },
+    {
+      "title": "Mahmut Arıkan: Çiftçi buğdayda kilo başına 7 lira zarar ediyor",
+      "url": "https://www.tarimdanhaber.com/mahmut-arikan-ciftci-bugdayda-kilo-basina-7-lira-zarar-ediyor",
+      "source": "Tarımdan Haber",
+      "date": "2026-06-10",
+      "summary": "Saadet Partisi Genel Başkanı Mahmut Arıkan, TBMM Grup Toplantısı'nda hububat alım fiyatlarını eleştirerek, çiftçinin açıklanan fiyatlarla üretime devam etmesinin zorlaştığını söyledi. Tarımın bir milli güvenlik meselesi olduğunu vurgulayan Arıkan, buğdayın maliyetinin yaklaşık 24 liraya ulaştığını b",
+      "content": "Haber Merkezi - Saadet Partisi Genel Başkanı Mahmut Arıkan, TBMM Grup Toplantısı'nda yaptığı konuşmada hükümetin tarım politikalarını ve açıklanan hububat alım fiyatlarını sert sözlerle eleştirdi.\n\nBir yanda toplumun üretim gücünü temsil eden çiftçilerin, diğer yanda ise kumar ekonomisinin bulunduğunu belirten Arıkan, iktidarın çiftçinin maliyetlerini dikkate almadığını öne sürdü.\n\nGeçtiğimiz hafta açıklanan buğday ve arpa alım fiyatlarının üreticiyi memnun etmediğini dile getiren Arıkan, Tarım Politikaları Kurulu ile yaptıkları çalışmalarda buğday üretim maliyetlerini detaylı şekilde hesapladıklarını söyledi.\n\n\"Buğdayın maliyeti 24 liraya ulaşıyor\"\n\nArıkan'ın verdiği bilgilere göre dekarda 300 kilogram verim alınan bir buğday üretiminde kira, tarla hazırlığı, bakım, amortisman, hasat, işçilik ve finansman giderleri dikkate alındığında toplam maliyet 7 bin 830 liraya ulaşıyor.\n\nTemel destek ve sertifikalı tohum kullanım desteği düşüldüğünde dahi bir kilogram buğdayın maliyetinin yaklaşık 24 lira olduğunu ifade eden Arıkan, şunları söyledi:\n\n\"Tarım ÜFE yüzde 42 seviyesinde açıklandı. Hükümetin fiyat artışı ise yüzde 21'de kaldı. Çiftçi bu fiyatla kilo başına yaklaşık 7 lira zarar ediyor. Devlet buğday alım fiyatını 24 lira açıklarsa ancak maliyet karşılanabilir.\"\n\n\"Tarım da savunma sanayii kadar önemlidir\"\n\nTarımın yalnızca ekonomik bir faaliyet olarak değerlendirilmemesi gerektiğini vurgulayan Arıkan, tarımın ülke açısından stratejik önem taşıdığını belirterek şu ifadeleri kullandı:\n\n\"Nasıl savunma sanayii milli güvenlik meselesiyse, tarım da ülkemiz için bir milli güvenlik meselesidir.\"\n\n\"Çiftçiyi masa başında değil, tarlanın başında dinleyeceksiniz\"\n\nÇiftçilerin son dönemde yaşadığı ekonomik sıkıntılara dikkat çeken Arıkan, hak arama amacıyla traktörleriyle eylem yapan üreticilere ceza kesilmesini de eleştirdi.\n\nÇiftçinin sorunlarının cezalarla değil, üreticiyi dinleyerek çözülebileceğini savunan Arıkan, hükümete şu çağrılarda bulundu:\n\nÇiftçi masa başında değil, tarlada dinlenmeli.\n\nBuğday alım fiyatı hasat döneminde değil, ekim öncesinde açıklanmalı.\n\nÜreticiye maliyetinin üzerinde makul bir kar bırakılmalı.\n\nToprak Mahsulleri Ofisi ürün bedellerini teslim sırasında ödemeli.\n\nMeclis araştırması talebi\n\nToprak Mahsulleri Ofisi, Et ve Süt Kurumu ile ÇAYKUR'un yalnızca alım yapan kurumlar değil, piyasayı düzenleyen kuruluşlar olduğunu ifade eden Arıkan, bu kurumların asli görevlerinden uzaklaşmasının tarım piyasalarında daha büyük sorunlara yol açacağını söyledi.\n\nArıkan, Saadet Partisi olarak buğday ve arpa üreticilerinin yaşadığı sorunların araştırılması amacıyla TBMM'ye araştırma önergesi vereceklerini de açıkladı."
+    },
+    {
+      "title": "Erdoğan'dan çiftçiye yeni destek açıklaması: Buğday fiyatı değişmedi",
+      "url": "https://www.tarimdanhaber.com/erdogandan-ciftciye-yeni-destek-aciklamasi-bugday-fiyati-degismedi",
+      "source": "Tarımdan Haber",
+      "date": "2026-06-10",
+      "summary": "Hububat alım fiyatlarının düşük bulunması nedeniyle üreticilerden yükselen tepkiler Cumhurbaşkanı Erdoğan'a kadar ulaştı. Çiftçi, Toprak Mahsulleri Ofisi'nin açıkladığı buğday ve arpa alım fiyatlarında artış beklerken, Erdoğan TBMM Grup Toplantısı'nda ürün fiyatlarına ilişkin yeni bir düzenleme açık",
+      "content": "Haber Merkezi - Cumhurbaşkanı Recep Tayyip Erdoğan, AK Parti TBMM Grup Toplantısı'nda yaptığı konuşmada tarımsal üretime ilişkin önemli açıklamalarda bulundu. Yağışların son 66 yılın en yüksek seviyesine ulaştığını belirten Erdoğan, bu yıl birçok üründe yüksek rekolte beklediklerini söyledi.\n\nBarajlardaki doluluk oranının geçen yıla göre yüzde 26 artarak yüzde 81 seviyesine çıktığını kaydeden Erdoğan, buğday üretiminde yüzde 27, arpa üretiminde ise yüzde 50 artış beklediklerini ifade etti.\n\nErdoğan, geçen yıl kuraklık nedeniyle dekar başına 276 kilograma kadar düşen buğday veriminin bu yıl ortalama 400 kilogram seviyesine çıkacağını, bazı bölgelerde ise 700 kilograma ulaşabileceğini dile getirdi.\n\nTMO'nun açıkladığı fiyatlar tepki çekmişti\n\nCumhurbaşkanı Erdoğan'ın açıklamaları, hububat alım fiyatlarının üreticiler tarafından yoğun şekilde tartışıldığı bir dönemde geldi.\n\nBilindiği üzere Toprak Mahsulleri Ofisi, 2025 ürünü için ekmeklik ve makarnalık buğday alım fiyatını ton başına 16 bin 500 lira, arpa alım fiyatını ise ton başına 12 bin 750 lira olarak açıklamıştı.\n\nÖzellikle girdi maliyetlerindeki artış nedeniyle birçok üretici açıklanan fiyatların yetersiz kaldığını savunurken, alım fiyatlarının yeniden değerlendirilmesi yönünde talepler dile getirilmişti.\n\nÇiftçi fiyat artışı bekliyordu\n\nSektörde, çiftçilerin tepkilerinin Cumhurbaşkanı Erdoğan'a da iletildiği konuşulurken, üreticilerin temel beklentisi TMO'nun açıkladığı hububat alım fiyatlarında artış yapılması yönündeydi.\n\nAncak Erdoğan'ın konuşmasında buğday ve arpa alım fiyatlarına ilişkin yeni bir düzenleme açıklanmadı.\n\nBunun yerine üreticilerin artan maliyetlerinin destekleme ödemeleriyle telafi edilmesi yönünde bir adım atıldı.\n\n\"Destek tutarlarımızı artırıyoruz\"\n\nSon dönemde bölgede yaşanan savaşlar ve çatışmalar nedeniyle tarımsal üretim girdilerinde önemli artışlar yaşandığını belirten Erdoğan, çiftçilerin yükünü hafifletmek amacıyla yeni bir karar aldıklarını açıkladı.\n\nErdoğan şunları söyledi:\n\n\"Bu yıl için açıkladığımız temel destek ve planlama desteği tutarımızı, İran kriziyle birlikte girdi maliyetlerinde oluşan aşırı artışları göz önüne alarak güncelliyor, destek tutarlarımızı buna göre artırıyoruz.\"\n\nCumhurbaşkanı Erdoğan destek miktarlarının ne kadar artırılacağına ilişkin ise herhangi bir rakam paylaşmadı.\n\nGözler destek artışının detaylarında\n\nHububat üreticileri açısından şimdi gözler Tarım ve Orman Bakanlığı tarafından açıklanacak yeni destekleme rakamlarına çevrildi.\n\nAncak sektör temsilcileri, üreticinin temel beklentisinin ürün fiyatlarında güncelleme olduğunu belirterek, açıklanacak destek artışının bu beklentiyi karşılayıp karşılamayacağının önümüzdeki günlerde netleşeceğini ifade ediyor."
+    },
     {
       "title": "Yumaklı: IPARD III kapsamında 375,6 milyon lira hibe ödendi",
       "url": "https://www.tarimpusulasi.com/haber/yumakli-ipard-iii-kapsaminda-3756-milyon-lira-hibe-odendi-46795",
@@ -109,30 +133,6 @@
       "date": "2026-06-09",
       "summary": "Adana’nın Kozan ilçesinde Anavarza Bal tarafından kurulan \"Dünyanın En Büyük Arı Oteli\", Guinness Dünya Rekorları tarafından resmi olarak tescil edildi. Habitat kaybı ve arı ölümlerine karşı kurulan devasa yapı, ekosistem ve tarımsal üretim için kritik öneme sahip yalnız arı türlerine koruma sağlaya",
       "content": "ADANA — Türkiye’nin köklü ve yenilikçi bal markalarından Anavarza Bal, arıların ve polinatörlerin korunmasına yönelik örnek projeyi hayata geçirerek küresel çapta ses getiren bir başarıya imza attı. Marka bünyesinde kurulan “Yaşasın Arılar” departmanının öncülüğünde Adana’nın Kozan ilçesindeki çevreci üretim tesisinde kurulan Dünyanın En Büyük Arı Oteli, Guinness Dünya Rekorları tarafından resmi olarak tescil edilerek dünya rekoru ünvanını kazandı.\n\nGuinness Dünya Rekorları Hakemi ve Türkiye Temsilcisi Şeyda Subaşı Gemici tarafından gerçekleştirilen ölçüm ve incelemelerin ardından rekor sertifikası, düzenlenen törenle Anavarza Bal Genel Müdürü Can Sezen’e teslim edildi. 15 metreyi aşan uzunluğu ve 3 metreye ulaşan yüksekliğiyle (15,11 x 3,2 x 0,50 m) dikkat çeken yapı, dünya genelinde giderek artan arı ölümlerine ve habitat kaybına karşı oluşturulmuş kalıcı bir ekolojik farkındalık anıtı olarak konumlanıyor.\n\nYapının inşasında sedir, meşe, ceviz, dut ve kızılçam gibi doğal ve dayanıklı ağaçlar kullanılırken, kamış ve doğal odunsu materyallerle de farklı arı türlerine hitap eden çok katmanlı yaşam alanları oluşturuldu.\n\nCan Sezen: “Bu Rekorun Gerçek Sahipleri Arılar”\n\nGuinness Dünya Rekoru sertifikasını teslim alan Anavarza Bal Genel Müdürü Can Sezen, konuyla ilgili olarak şu ifadeleri kullandı:\n\n“Guinness Dünya Rekoru’nu almamız için bize ilham veren, doğanın en çalışkan canlılarından biri olan arıların yaşam hakkına dikkat çekiyoruz. Çeşitli ülkelerde arı hakları için oluşturulan protokollerin bir adımı olarak, Türkiye için uyguladığımız bu projeyle, ‘arılar varsa yaşam var, tarım var, gıda var’ mottosunu hayata geçirmiş olduk. Bu nedenle dünyanın en büyük arı otelini kurarken amacımız bir rekor kırmaktan çok daha fazlasıydı. Guinness Dünya Rekoru bize uluslararası görünürlük kazandırdı, ancak bu rekorun gerçek sahipleri burada yaşam alanı bulacak binlerce arı olacak.”\n\nGuinness Dünya Rekorları Hakemi ve Türkiye Temsilcisi Şeyda Subaşı Gemici de yaptığı açıklamada rekorun el değiştirdiğini vurgulayarak, \"2011 yılında rekorun sahibi İngiltere idi, Adana Kozan’da yapılan Anavarza Bal’ın arı oteli 2026 yılında Türkiye’ye bu rekoru getirmiş oldu\" şeklinde konuştu.\n\nTarımsal Üretim ve Gıda Güvenliği İçin Kritik Rol\n\nSon yıllarda kentleşme, yoğun tarım uygulamaları, pestisit kullanımı ve doğal yaşam alanlarının azalması nedeniyle birçok yalnız arı türü uygun yuvalama alanı bulmakta zorlanıyor. Koloni oluşturmayan, bal depolamayan ve her dişisi kendi yuvasını kuran yabani arılar için bu oteller gece sığınağı ve kış koruması sağlıyor.\n\nBilim insanlarına göre dünya üzerindeki çiçekli bitkilerin yaklaşık %75’i ve tarımsal ürünlerin önemli bir bölümü polinatörlere ihtiyaç duyuyor. Bu nedenle yabani arıların korunması yalnızca doğa için değil, gıda güvenliği ve tarımsal verimlilik açısından da büyük önem taşıyor. Adana Kozan'da hayata geçirilen bu devasa yapının, bölgedeki doğal tozlaşmayı destekleyerek tarımsal üretime somut katkı sunması bekleniyor.\n\nTARIM PUSULASI HABER MERKEZİ"
-    },
-    {
-      "title": "Malatya’da Tarım İşçileri İçin Geçici Barınma Alanı Açıldı",
-      "url": "https://www.tarimpusulasi.com/haber/malatyada-tarim-iscileri-icin-gecici-barinma-alani-acildi-46791",
-      "source": "Tarım Pusulası",
-      "date": "2026-06-09",
-      "summary": "Malatya’nın Akçadağ ilçesinde, mevsimlik tarım işçilerinin ve ailelerinin yaşam koşullarını iyileştirmek amacıyla kurulan METİP Geçici Barınma Alanı, Malatya Büyükşehir Belediye Başkanı Sami Er ve uluslararası protokolün katılımıyla açıldı.",
-      "content": "MALATYA — 6 Şubat depremlerinin ardından yeniden yapılanma ve ihya sürecinin yoğun şekilde sürdüğü Malatya'da, kırsal ekonominin can damarı olan tarım sektörüne yönelik stratejik bir altyapı projesi daha hayata geçirildi. Akçadağ ilçesinde kurulan Mevsimlik Tarım İşçilerinin Yaşam Koşullarının İyileştirilmesi Projesi (METİP) Geçici Barınma Alanı, düzenlenen resmi devir teslim ve açılış töreniyle hizmete girdi.\n\nAçılış programına Malatya Büyükşehir Belediye Başkanı Sami Er, Malatya Vali Vekili Sedat Özdemir, Tarım ve Orman Bakanlığı Hayvancılık Genel Müdürü Salih Çelik, Çalışma ve Sosyal Güvenlik Bakanlığı Çalışma Genel Müdür Yardımcısı Ziya Kürşat Babayiğit, Avrupa Birliği Türkiye Delegasyonu İş Birliği Daire Başkanı Maria Luisa Wyganowski ve UNDP Türkiye Mukim Temsilcisi Monica Merino ile çok sayıda yerel yetkili katıldı.\n\nTörende konuşan Malatya Büyükşehir Belediye Başkanı Sami Er, şehrin deprem sonrasında merkezi hükümet ve yerel yönetimlerin tam koordinasyonuyla ayağa kalktığını ifade etti. Mevsimlik işçilerin barınma şartlarına değinen Başkan Er, şu ifadeleri kullandı:\n\n\"6 Şubat depremleriyle büyük bir yıkım yaşayan Malatya’mız bu felaketten en fazla etkilenen illerimizden biri oldu. Ancak Cumhurbaşkanımız Sayın Recep Tayyip Erdoğan’ın liderliğinde, Çevre, Şehircilik ve İklim Değişikliği Bakanımız Sayın Murat Kurum’un destekleri ve tüm kurumlarımızın katkılarıyla bu zorlu süreci başarıyla yönettik. Bugün şehrimiz yeniden ayağa kalkmıştır. Tarımsal üretimin sürekliliği için mevsimlik tarım işçilerimizin yaşam şartlarının iyileştirilmesi çok önemli bir sosyal sorumluluk konusudur. Bakanlıklarımızın ve uluslararası kuruluşların bu konuya sahip çıkarak böylesine anlamlı bir projeyi Akçadağ'da hayata geçirmeleri bizleri ziyadesiyle memnun etmiştir. Bu model projenin ülkemizin farklı bölgelerinde de yaygınlaştırılması gerektiğine inanıyorum.\"\n\nTesisin teknik altyapısı hakkında bilgi veren Malatya Vali Vekili Sedat Özdemir, geçici barınma merkezinin işçilere ve ailelerine modern, güvenli ve sağlıklı bir konaklama ortamı sunacağını belirtti. Özdemir; tesiste 100 çadır kapasiteli konaklama alanının yanı sıra yönetim binası, sağlık tarama alanı, kayıt birimi, eğitim salonları, çok amaçlı salon, mescit ve çocuk oyun alanları gibi çeşitli sosyal donatıların yer aldığını aktardı.\n\nTarım ve Orman Bakanlığı Hayvancılık Genel Müdürü Salih Çelik projenin kayıtlı istihdamı artırma, işçi haklarını koruma ve kırsal kalkınmayı destekleme amacı taşıdığını belirtirken; Çalışma Genel Müdür Yardımcısı Ziya Kürşat Babayiğit ise çalışmalarda aile odaklı ve sürdürülebilir bir yaklaşım benimsediklerini kaydetti. Avrupa Birliği ve UNDP temsilcileri de tesisin Türkiye'deki diğer tarım kentleri için örnek bir model teşkil edeceğini vurguladı. Protokol konuşmalarının ardından sembolik imza töreniyle tesisin devri yapıldı ve heyet alanı gezerek teknik incelemelerde bulundu.\n\nTARIM PUSULASI HABER MERKEZİ"
-    },
-    {
-      "title": "Hayvansal gübre fiyatları arttı mı? Kimyasal gübredeki zamlar sonrası gözler doğal alternatife çevrildi",
-      "url": "https://www.tarimdanhaber.com/hayvansal-gubre-fiyatlari-artti-mi-kimyasal-gubredeki-zamlar-sonrasi-gozler-dogal-alternatife-cevrildi",
-      "source": "Tarımdan Haber",
-      "date": "2026-06-09",
-      "summary": "Küresel piyasalarda yaşanan dalgalanmalar nedeniyle kimyasal gübre ve akaryakıt fiyatlarında yaşanan artışlar, çiftçilerin üretim maliyetlerini yükseltirken hayvansal organik gübre fiyatlarının aynı ölçüde artmaması dikkat çekiyor. Özellikle kimyasal gübrede son dönemde görülen yüksek fiyat artışlar",
-      "content": "Haber Merkezi - İHA'nın haberine göre, Bursa'da hayvancılık yapan İsmail Oktay, kimyasal gübre fiyatlarındaki yükselişe rağmen hayvansal gübrede benzer bir artış yaşanmadığını belirterek, fiyatların büyük ölçüde istikrarını koruduğunu söyledi.\n\nOktay, geçen yıl 6 tonluk hayvansal gübreyi yaklaşık 2 bin 500 liraya sattıklarını, bu yıl ise aynı miktarın yaklaşık 3 bin liradan alıcı bulduğunu ifade ederek, \"Kimyasal gübre fiyatları yüzde 100'e varan oranlarda artarken, hayvansal organik gübrede çok sınırlı bir fiyat artışı oldu. Çiftçiler araçlarıyla geldiklerinde yükleme işlemlerini de biz yapıyoruz\" dedi.\n\n\"Asıl sorun fiyat değil işçilik\"\n\nHayvansal gübre sektöründe en büyük problemin iş gücü olduğunu dile getiren Oktay, gübrenin bulunduğu bölgelerde bol olmasına rağmen nakliye ve işçilik maliyetleri nedeniyle farklı bölgelerde fiyatların yükseldiğini kaydetti.\n\nBir römork gübrenin yüklenmesi için işçi bulmanın giderek zorlaştığını vurgulayan Oktay, \"Bugün bir işçiye bir römork gübre yüklemesi için yüksek ücret teklif edilse bile çalışmak istemiyor. Bu nedenle asıl maliyet baskısı ürünün kendisinden çok işçilik ve lojistik tarafında yaşanıyor\" diye konuştu.\n\nKimyasal gübreye alternatif olarak öne çıkıyor\n\nKimyasal gübre fiyatlarının yükselmesiyle birlikte hayvansal organik gübre yeniden gündeme gelirken, uzmanlar da organik gübrelerin yalnızca maliyet açısından değil, toprak sağlığı bakımından da önemli avantajlar sunduğunu belirtiyor.\n\nUzmanlara göre hayvansal gübre, toprağın organik madde miktarını artırarak su tutma kapasitesini yükseltiyor, havalanmayı iyileştiriyor ve yararlı mikroorganizmaların faaliyetlerini destekliyor. Ayrıca besin maddelerini toprağa yavaş salması nedeniyle bitkilerin daha dengeli beslenmesine katkı sağlıyor.\n\nÇiftçi için ekonomik seçenek olabilir\n\nKimyasal gübre fiyatlarındaki hızlı yükseliş karşısında hayvansal gübre fiyatlarının daha sınırlı artış göstermesi, özellikle hayvancılığın yoğun olduğu bölgelerde çiftçiler için ekonomik bir alternatif oluşturuyor.\n\nSektör temsilcileri, hayvansal gübrenin yaygınlaştırılması için nakliye ve lojistik desteklerinin artırılması gerektiğini belirtirken, aksi halde üretim bölgelerinde bol bulunan bu doğal kaynağın diğer bölgelerde yüksek maliyetle çiftçiye ulaşmaya devam edeceğine dikkat çekiyor.\n\nSonuç olarak, \"Hayvansal gübre fiyatları arttı mı?\" sorusuna sektör temsilcilerinin verdiği yanıt, kimyasal gübreye kıyasla oldukça sınırlı bir artış yaşandığı yönünde. Bu durum, artan girdi maliyetleri karşısında üreticilerin doğal gübreye olan ilgisini yeniden artırıyor."
-    },
-    {
-      "title": "Denizli Büyükşehir Belediyesi 5’li Karışım Yem Tohumu Dağıtacak",
-      "url": "https://www.tarimpusulasi.com/haber/denizli-buyuksehir-belediyesi-5li-karisim-yem-tohumu-dagitacak-46790",
-      "source": "Tarım Pusulası",
-      "date": "2026-06-09",
-      "summary": "Denizli Büyükşehir Belediyesi, hayvancılık sektörünün en büyük gider kalemi olan yem maliyetlerini düşürmek amacıyla üreticilere yüksek besin değerine sahip 5’li karışım yem bitkisi tohumu desteği sağlıyor. 8-30 Haziran 2026 tarihleri arasında kabul edilecek başvurular için ÇKS şartları ve katılım d",
-      "content": "DENİZLİ — Denizli Büyükşehir Belediyesi, “Üretime Destek, Çiftçimize Güç” ilkesi doğrultusunda yerel kalkınmayı artırmak ve üreticilerin girdi maliyetlerini azaltmak amacıyla yeni bir tarımsal destek projesini hayata geçiriyor. Proje kapsamında; macar fiğ, yem bezelyesi, tritikale, kılçıksız buğday ve kışlık yulaftan oluşan yüksek besin değerine sahip 5’li karışım yem bitkisi tohumu ile kentteki yüzlerce üreticiye önemli bir can suyu desteği sağlanması hedefleniyor.\n\nSöz konusu destekleme programından yararlanmak isteyen üreticiler için başvuru şartları belirlendi. Buna göre, 1 Eylül 2026 tarihi itibarıyla başlayacak olan 2027 yılı Çiftçi Kayıt Sistemi (ÇKS) beyanlarında; fiğ, macar fiğ, adi fiğ, yem bezelyesi, tritikale, yulaf veya çavdar ürünlerinden herhangi birini ana ürün olarak bildiren çiftçilerin müracaatları geçerli sayılacak. Ayrıca, başvuru sahibinin Denizli il sınırları içerisinde ikamet etmesi ve ekim yapılacak arazinin de Denizli’de bulunması zorunluluğu bulunuyor. Sosyal adalet ve geniş kitleye ulaşım ilkesi gereği, desteklemeden aynı hanede yaşayan vatandaşlardan yalnızca bir kişi faydalanabilecek.\n\nÜreticilerin müracaatlarını kolaylaştırmak adına işlemler hem dijital kanallar hem de yüz yüze başvuru noktaları üzerinden yürütülecek. Çiftçiler başvurularını, 08-30 Haziran 2026 tarihleri arasında Denizli Büyükşehir Belediyesi’nin resmi internet sitesi üzerinden online olarak veya tahsis edilen başvuru ekranı aracılığıyla gerçekleştirebilecek. İnternet erişimi olmayan veya yüz yüze işlem yapmak isteyen üreticiler ise ilçe merkezlerinde yer alan DESKİ İlçe Hizmet Birimlerine giderek müracaat formlarını doldurabilecek.\n\nDenizli Büyükşehir Belediye Başkanı Bülent Nuri Çavuşoğlu, tarım ve hayvancılık sektörünün omurgasını oluşturan küçük ve orta ölçekli üreticileri her koşulda korumaya kararlı olduklarını belirterek şu ifadeleri kullandı:\n\n“Denizli’mizin bereketli topraklarında alın teri döken, gecesini gündüzüne katarak üretime katkı sunan çiftçilerimizin yükünü hafifletmek bizim en önemli görevlerimizden biridir. Ekonomik şartların üreticimizi zorladığı bu dönemde, hayvancılığımızın en büyük gider kalemi olan yem maliyetlerini düşürmek amacıyla 5’li karışım yem bitkisi tohumu desteğimizi başlatıyoruz. Amacımız, topraklarımızın verimini artırırken, hayvancılıkla uğraşan hemşehrilerimizin de bütçesine doğrudan katkı sağlamaktır. Toprağına sahip çıkan, emeğini esirgemeyen tüm çiftçilerimizin her adımda yanındayız. Yeni üretim sezonunun tüm üreticilerimize hayırlı ve bereketli olmasını diliyorum; üreticimiz kazanacak, Denizli'miz büyüyecek.”\n\nBaşvuruların tamamlanıp onaylanmasının ardından hak sahibi olan tüm üreticilere, tohum dağıtım günleri ve saatleri SMS ile resmi iletişim kanalları aracılığıyla bildirilecek.\n\nTARIM PUSULASI HABER MERKEZİ"
     }
   ],
   "commoditiesByBorsa": {
@@ -153,7 +153,7 @@
           "name": "Arpa",
           "unit": "₺/kg",
           "price": 11.51,
-          "change": -7.92,
+          "change": 0,
           "source": "Edirne TB",
           "date": "2026-06-10"
         },
@@ -254,7 +254,7 @@
       "name": "Arpa",
       "unit": "₺/kg",
       "price": 11.51,
-      "change": -7.92,
+      "change": 0,
       "source": "Edirne TB",
       "date": "2026-06-10"
     },
@@ -328,10 +328,5 @@
   "defaultBorsa": "5ED10",
   "defaultCity": "CANAKKALE",
   "note": "Fiyatlar TOBB ticaret borsasından (borsa seçilebilir). Kanola manuel (Trakya 2025).",
-  "inputsNote": "Mazot: akaryakıt bayi fiyatı, günlük (şehir seçilebilir). Gübre: manuel (yaklaşık).",
-  "errors": [
-    "borsa 5ED10: fetch failed",
-    "borsa 5KO10: fetch failed",
-    "borsa 5ES10: fetch failed"
-  ]
+  "inputsNote": "Mazot: akaryakıt bayi fiyatı, günlük (şehir seçilebilir). Gübre: manuel (yaklaşık)."
 }
