@@ -1,43 +1,59 @@
 {
-  "updatedAt": "2026-06-10T08:18:09.769Z",
+  "updatedAt": "2026-06-10T11:48:51.877Z",
   "fx": [
     {
       "code": "USD",
       "name": "Dolar",
-      "buy": 461361,
-      "sell": 461397,
-      "change": 3
+      "buy": 46.13,
+      "sell": 46.14,
+      "change": 0.03
     },
     {
       "code": "EUR",
       "name": "Euro",
-      "buy": 533316,
-      "sell": 533421,
-      "change": 1
+      "buy": 53.26,
+      "sell": 53.28,
+      "change": -0.02
     },
     {
       "code": "GRA",
       "name": "Gram Altın",
-      "buy": 619394,
-      "sell": 619477,
-      "change": -197
+      "buy": 6160.77,
+      "sell": 6161.68,
+      "change": -2.49
     },
     {
       "code": "CEYREKALTIN",
       "name": "Çeyrek Altın",
-      "buy": 103376,
-      "sell": 1057361,
-      "change": 0
+      "buy": 9972.42,
+      "sell": 10202.57,
+      "change": -3.51
     },
     {
       "code": "CUMHURIYETALTINI",
       "name": "Cumhuriyet Altını",
-      "buy": 42780,
-      "sell": 43427,
-      "change": -16
+      "buy": 41439,
+      "sell": 42064,
+      "change": -3.14
     }
   ],
   "news": [
+    {
+      "title": "Yumaklı: IPARD III kapsamında 375,6 milyon lira hibe ödendi",
+      "url": "https://www.tarimpusulasi.com/haber/yumakli-ipard-iii-kapsaminda-3756-milyon-lira-hibe-odendi-46795",
+      "source": "Tarım Pusulası",
+      "date": "2026-06-10",
+      "summary": "Tarım ve Orman Bakanı İbrahim Yumaklı, IPARD III Programı kapsamında kırsaldaki girişimcilere mayıs ayında toplam 375,6 milyon lira hibe ödemesi yapıldığını açıkladı.",
+      "content": "ANKARA — Tarım ve Orman Bakanı İbrahim Yumaklı, IPARD III Programı kapsamında kırsal alanda üretim gerçekleştiren girişimcilere yönelik önemli bir finansal destek sağlandığını duyurdu. Bakan Yumaklı, mayıs ayı içerisinde üreticilere toplamda 375,6 milyon lira hibe ödemesi yapıldığını bildirdi.\n\nKırsal bölgelerdeki yatırımların kesintisiz devam ettiğini ve üretime tam destek verdiklerini vurgulayan Bakan Yumaklı, konuya ilişkin değerlendirmesinde şu ifadeleri kullandı:\n\n\"IPARD III Programı kapsamında kırsalda üretim yapan girişimcilerimize mayısta 375,6 milyon lira hibe ödemesi gerçekleştirdik. Kırsalı yerinde kalkındırıyor, Türkiye Yüzyılı'nı bereketle inşa ediyoruz.\"\n\nHibe Desteklerinin Sektörel Dağılımı\n\nBakan Yumaklı’nın paylaştığı verilere göre, mayıs ayında yapılan 375,6 milyon liralık hibe ödemesinin alt sektörlere göre dağılımı şu şekilde gerçekleşti:\n\nÇiftlik Faaliyetlerinin Çeşitlendirilmesi ve İş Geliştirme: 244 milyon 257 bin lira\n\nTarımsal İşletmelerin Fiziki Varlıklarına Yönelik Yatırımlar: 89 milyon 128 bin lira\n\nTarım ve Balıkçılık Ürünlerinin İşlenmesi/Pazarlanması: 24 milyon 815 bin lira\n\nLEADER Yaklaşımı ve Yerel Kalkınma Stratejileri: 17 milyon 449 bin lira\n\nYapılan bu ödemelerle birlikte kırsaldaki üretim altyapısının güçlendirilmesi ve istihdamın artırılması hedefleniyor.\n\nTARIM PUSULASI HABER MERHEZİ"
+    },
+    {
+      "title": "Şeker Kanunu'nda büyük çelişki! Kaçak pancar cezaları hafifletiliyor, 2026 sezonuna göz yumuluyor",
+      "url": "https://www.tarimdanhaber.com/seker-kanununda-buyuk-celiski-kacak-pancar-cezalari-hafifletiliyor-2026-sezonuna-goz-yumuluyor",
+      "source": "Tarımdan Haber",
+      "date": "2026-06-10",
+      "summary": "TBMM Genel Kurulu'nda bugün görüşülecek Şeker Kanunu değişikliği, kaçak pancar üretimi ve teminine yönelik mevcut ağır yaptırımları önemli ölçüde hafifletiyor. Üstelik yeni ceza hükümlerinin 1 Ocak 2027'de yürürlüğe girecek olması nedeniyle 2026 üretim sezonunda özel şeker fabrikalarının kendi ekim ",
+      "content": "Sadettin İnan / TBMM Genel Kurulu'nda bugün görüşülecek olan Şeker Kanunu değişikliği, şeker sektöründe yeni bir tartışmayı beraberinde getirdi. Kanun teklifinin komisyondan geçtiği şekliyle yasalaşması halinde, kaçak pancar üretimi ve teminine yönelik mevcut yaptırımlar önemli ölçüde hafifletilerek, 2026 üretim sezonunda fiilen cezasızlık ortam oluşturulacak.\n\nDüzenleme, görünürde sözleşmesiz ve izinsiz şeker pancarı ekimini engellemeyi amaçlarken, mevcut yönetmelikte bulunan ağır yaptırımların kanunla yumuşatılması dikkat çekiyor.\n\nKaçak pancara yeni ceza geliyor ama mevcut yaptırım kaldırılıyor\n\nKanun teklifine göre Şeker Kanunu'nun 5'inci ve 11'inci maddelerinde yapılacak değişikliklerle sözleşmesiz pancar ekimi ve belirlenen ekim alanları dışından pancar temini yasaklanıyor.\n\nBuna göre;\n\nKaçak pancar eken üreticilere, ürettikleri pancar miktarı kadar ceza uygulanacak.\n\nFabrikaların izinsiz pancar temin etmesi halinde ise toplam şeker kotasının yüzde 2'si üzerinden idari para cezası kesilecek.\n\nAncak dikkat çeken nokta, mevcut uygulamada yer alan daha ağır yaptırımların devreden çıkarılması.\n\nMevcut yönetmelikte ceza çok daha ağır\n\n5 Haziran 2021 tarihinde yayımlanan Şeker ve Hammaddeleri Yönetmeliği'nin 9'uncu maddesine göre, kaçak pancardan üretilen şeker doğrudan C şekeri sayılıyor.\n\nBu durumda:\n\nKaçak üretimden elde edilen şeker A kotasından düşülüyor.\n\nFabrika kota kaybına uğruyor.\n\nÜretilen şeker daha düşük fiyatla satılmak zorunda kalıyor.\n\nDolayısıyla mevcut sistemde hem gelir kaybı hem de kota kaybı nedeniyle kaçak pancar temin eden fabrikalara ciddi bir ekonomik yaptırım uygulanıyor.\n\nÇorum Şeker örneği tartışmayı büyüttü\n\nDüzenlemeye yönelik eleştirilerin merkezinde ise geçen yıl Konya'nın Karapınar ilçesinde ortaya çıkan ve Tarımdan Haber'in belgeleriyle gündeme taşıdığı \"organize pancar kaçakçılığı\" iddiaları bulunuyor.\n\nOrtaya çıkan belgelere göre, Türkşeker'in ekim sahasında bulunan Karapınar'dan temin edilen yaklaşık 200 bin ton pancar, UHM Tarım aracılığıyla Yerköy'de üretilmiş gibi gösterilerek Çorum Şeker Fabrikası'na teslim edildi.\n\nTarımdan Haber tarafından yayımlanan kantar fişleri ve nakliye faturaları kamuoyuyla paylaşılırken, söz konusu belgeler Çorum Şeker Fabrikası, UHM Tarım veya Türkşeker tarafından yalanlanmadı.\n\nKonuya ilişkin CİMER üzerinden Tarım ve Orman Bakanlığı'ndan talep edilen bilgiler ise paylaşılmadı.\n\nMevcut sistemde 336 milyon liralık kayıp oluşacaktı\n\n-Yapılan hesaplamaya göre Çorum Şeker Fabrikası'nın mevcut şeker kotası 105 bin 670 ton seviyesinde bulunuyor.\n\n-Yaklaşık 200 bin ton kaçak pancarın yüzde 14 randımanla işlenmesi halinde 28 bin ton şeker elde ediliyor.\n\nMevcut yönetmelik uygulanacak olursa:\n\n28 bin ton şeker A kotasından düşülecek,\n\nŞeker A şekeri yerine C şekeri olarak satılacak,\n\nFabrika yaklaşık 336 milyon liralık gelir kaybına uğrayacak,\n\nAyrıca kota kaybı yaşayacak.\n\nYeni düzenleme fabrikaya avantaj mı sağlıyor?\n\nKanun teklifindeki yeni sisteme göre ise aynı örnekte fabrikanın ödeyeceği ceza yaklaşık 63,4 milyon lira seviyesinde kalacak.\n\nBuna karşılık:\n\nKota kaybı yaşanmayacak,\n\nKaçak pancardan elde edilen şeker A kotasında değerlendirilebilecek,\n\nFabrika mevcut yönetmeliğe göre çok daha düşük maliyetle karşılaşacak.\n\nBu nedenle sektör çevreleri, yeni düzenlemenin kaçak pancar temin eden fabrikalar açısından önemli bir mali avantaj oluşturduğunu savunuyor.\n\nAsıl tartışma yürürlük tarihinde\n\nKanun teklifindeki en dikkat çekici ayrıntılardan biri de yürürlük tarihi. Şeker Kanunu'nda kaçak pancara ilişkin yeni ceza hükümlerinin 1 Ocak 2027 tarihinde yürürlüğe girmesi öngörülüyor.\n\nBu durum, 2026 üretim sezonunda izinsiz pancar temini ve kaçak pancar uygulamalarına karşı büyük bir hukuki boşluk oluşturacak. Bir anlamda kaçak pancar ekimine göz yumulacak.\n\nEleştiriler, bir taraftan münavebe kurallarına uyulması ve tarım arazilerinin korunması gerekçesiyle yeni düzenlemeler getirilirken, diğer taraftan fabrikaların kendi ekim alanları dışından pancar teminine bir yıl daha fiilen göz yumulmasının ciddi bir çelişki oluşturduğu yönünde yoğunlaşıyor.\n\n\"Kaçak pancarı önlemek yerine teşvik edebilir\"\n\nSektörde yapılan değerlendirmelerde, mevcut yönetmelikteki ağır yaptırımların kanunla hafifletilmesinin caydırıcılığı azaltabileceği ifade ediliyor.\n\nBu nedenle;\n\nKaçak pancar teminine yönelik yaptırımların mevcut yönetmelik seviyesinde korunması,\n\nPara cezasının yanında kota kaybının da devam etmesi,\n\nYeni hükümlerin 2027 yerine daha erken yürürlüğe girmesi\n\ngerektiği belirtiliyor."
+    },
     {
       "title": "Gökçeada’ya uluslararası tescil! Şap hastalığından aşılı ari bölge ilan edildi",
       "url": "https://www.tarimdanhaber.com/gokceadaya-uluslararasi-tescil-sap-hastaligindan-asili-ari-bolge-ilan-edildi",
@@ -52,7 +68,7 @@
       "source": "Tarımdan Haber",
       "date": "2026-06-09",
       "summary": "Türkşeker, toptan şeker satış fiyatlarında 1,5 TL’lik bir fiyat düzenlemesine gitti. 15 Haziran’dan itibaren geçerli olacak yeni fiyatla birlikte toptan şeker satış kilogram fiyatı 40 lira olarak belirlendi.",
-      "content": "Haber Merkezi - Şubat ayından itibaren fiyatlarda herhangi bir değişikliğe gitmeyen Türkşeker, Mayıs ayı başında 34,70 TL olan toptan şeker satış fiyatını 38,50 TL’ye çıkarmıştı. Kurum, bugün yaptığı yeni duyuru ile bu fiyat üzerinde 1,5 TL’lik bir artış daha yaparak satış fiyatını 40,00 TL seviyesine güncelledi.\n\n\"Kıyak Satış\" İddiaları ve Sessizlik Korunuyor\n\nKüçük çaplı bu fiyat düzenlemesi piyasada takip edilirken, kurumun geçtiğimiz ay gündeme gelen \"özel satış\" iddiaları ise tazeliğini koruyor.\n\nBilindiği üzere Türkşeker’in, daha önce piyasa fiyatı 34,70 TL iken, herhangi bir duyuru yapmadan iki firmaya 31,76 TL’den şeker satışı yapmış ve bir gün sonra da şeker fiyatlarına yüzde 11 zam yaparak, şeker satış fiyatını 38,50 TL/kg'a çıkarmıştı. Söz konusu bu satış, kurumun 600 milyon lira zarara uğramasına yol açarken, ilgili firmaların da ciddi bir kazanç elde etmesine neden olmuştu.\n\nKıyak satışın üstü örtüldü!\n\nKamuoyunun dikkatini çeken bu satış süreciyle ilgili Türkşeker'den kamuoyuna hiç bir açıklama yapılmazken, bu kıyak satışa imza atan yönetim kurulu üyeleri hakkında da Bakanlık bünyesindeki bağlantıları nedeniyle bir soruşturma ve inceleme başlatılmaması dikkat çekti."
+      "content": "Haber Merkezi - Şubat ayından itibaren fiyatlarda herhangi bir değişikliğe gitmeyen Türkşeker, Mayıs ayı başında 34,70 TL olan toptan şeker satış fiyatını 38,50 TL’ye çıkarmıştı. Kurum, bugün yaptığı yeni duyuru ile bu fiyat üzerinde 1,5 TL’lik bir artış daha yaparak satış fiyatını 40,00 TL seviyesine güncelledi.\n\nİlgili Haber→Şeker Kanunu'nda büyük çelişki! Kaçak pancar cezaları hafifletiliyor, 2026 sezonuna göz yumuluyor\n\n\"Kıyak Satış\" İddiaları ve Sessizlik Korunuyor\n\nKüçük çaplı bu fiyat düzenlemesi piyasada takip edilirken, kurumun geçtiğimiz ay gündeme gelen \"özel satış\" iddiaları ise tazeliğini koruyor.\n\nBilindiği üzere Türkşeker’in, daha önce piyasa fiyatı 34,70 TL iken, herhangi bir duyuru yapmadan iki firmaya 31,76 TL’den şeker satışı yapmış ve bir gün sonra da şeker fiyatlarına yüzde 11 zam yaparak, şeker satış fiyatını 38,50 TL/kg'a çıkarmıştı. Söz konusu bu satış, kurumun 600 milyon lira zarara uğramasına yol açarken, ilgili firmaların da ciddi bir kazanç elde etmesine neden olmuştu.\n\nKıyak satışın üstü örtüldü!\n\nKamuoyunun dikkatini çeken bu satış süreciyle ilgili Türkşeker'den kamuoyuna hiç bir açıklama yapılmazken, bu kıyak satışa imza atan yönetim kurulu üyeleri hakkında da Bakanlık bünyesindeki bağlantıları nedeniyle bir soruşturma ve inceleme başlatılmaması dikkat çekti."
     },
     {
       "title": "CHP'li İlhami Özcan Aygun TBMM'de Çiftçi İçin Ek Prim İstedi",
@@ -117,22 +133,6 @@
       "date": "2026-06-09",
       "summary": "Denizli Büyükşehir Belediyesi, hayvancılık sektörünün en büyük gider kalemi olan yem maliyetlerini düşürmek amacıyla üreticilere yüksek besin değerine sahip 5’li karışım yem bitkisi tohumu desteği sağlıyor. 8-30 Haziran 2026 tarihleri arasında kabul edilecek başvurular için ÇKS şartları ve katılım d",
       "content": "DENİZLİ — Denizli Büyükşehir Belediyesi, “Üretime Destek, Çiftçimize Güç” ilkesi doğrultusunda yerel kalkınmayı artırmak ve üreticilerin girdi maliyetlerini azaltmak amacıyla yeni bir tarımsal destek projesini hayata geçiriyor. Proje kapsamında; macar fiğ, yem bezelyesi, tritikale, kılçıksız buğday ve kışlık yulaftan oluşan yüksek besin değerine sahip 5’li karışım yem bitkisi tohumu ile kentteki yüzlerce üreticiye önemli bir can suyu desteği sağlanması hedefleniyor.\n\nSöz konusu destekleme programından yararlanmak isteyen üreticiler için başvuru şartları belirlendi. Buna göre, 1 Eylül 2026 tarihi itibarıyla başlayacak olan 2027 yılı Çiftçi Kayıt Sistemi (ÇKS) beyanlarında; fiğ, macar fiğ, adi fiğ, yem bezelyesi, tritikale, yulaf veya çavdar ürünlerinden herhangi birini ana ürün olarak bildiren çiftçilerin müracaatları geçerli sayılacak. Ayrıca, başvuru sahibinin Denizli il sınırları içerisinde ikamet etmesi ve ekim yapılacak arazinin de Denizli’de bulunması zorunluluğu bulunuyor. Sosyal adalet ve geniş kitleye ulaşım ilkesi gereği, desteklemeden aynı hanede yaşayan vatandaşlardan yalnızca bir kişi faydalanabilecek.\n\nÜreticilerin müracaatlarını kolaylaştırmak adına işlemler hem dijital kanallar hem de yüz yüze başvuru noktaları üzerinden yürütülecek. Çiftçiler başvurularını, 08-30 Haziran 2026 tarihleri arasında Denizli Büyükşehir Belediyesi’nin resmi internet sitesi üzerinden online olarak veya tahsis edilen başvuru ekranı aracılığıyla gerçekleştirebilecek. İnternet erişimi olmayan veya yüz yüze işlem yapmak isteyen üreticiler ise ilçe merkezlerinde yer alan DESKİ İlçe Hizmet Birimlerine giderek müracaat formlarını doldurabilecek.\n\nDenizli Büyükşehir Belediye Başkanı Bülent Nuri Çavuşoğlu, tarım ve hayvancılık sektörünün omurgasını oluşturan küçük ve orta ölçekli üreticileri her koşulda korumaya kararlı olduklarını belirterek şu ifadeleri kullandı:\n\n“Denizli’mizin bereketli topraklarında alın teri döken, gecesini gündüzüne katarak üretime katkı sunan çiftçilerimizin yükünü hafifletmek bizim en önemli görevlerimizden biridir. Ekonomik şartların üreticimizi zorladığı bu dönemde, hayvancılığımızın en büyük gider kalemi olan yem maliyetlerini düşürmek amacıyla 5’li karışım yem bitkisi tohumu desteğimizi başlatıyoruz. Amacımız, topraklarımızın verimini artırırken, hayvancılıkla uğraşan hemşehrilerimizin de bütçesine doğrudan katkı sağlamaktır. Toprağına sahip çıkan, emeğini esirgemeyen tüm çiftçilerimizin her adımda yanındayız. Yeni üretim sezonunun tüm üreticilerimize hayırlı ve bereketli olmasını diliyorum; üreticimiz kazanacak, Denizli'miz büyüyecek.”\n\nBaşvuruların tamamlanıp onaylanmasının ardından hak sahibi olan tüm üreticilere, tohum dağıtım günleri ve saatleri SMS ile resmi iletişim kanalları aracılığıyla bildirilecek.\n\nTARIM PUSULASI HABER MERKEZİ"
-    },
-    {
-      "title": "Avrupa süt piyasasında fiyat şoku: Üretici zararda!",
-      "url": "https://www.tarimdanhaber.com/avrupa-sut-piyasasinda-fiyat-soku-uretici-zararda",
-      "source": "Tarımdan Haber",
-      "date": "2026-06-09",
-      "summary": "Avrupa Birliği (AB) genelinde çiğ süt fiyatları, son yılların en sert düşüşlerinden birini yaşıyor. Yüksek arz ve küresel talep zayıflığı nedeniyle üreticinin eline geçen süt fiyatı, üretim maliyetlerinin altına geriledi.",
-      "content": "Haber Merkezi - Avrupa Komisyonu Süt Pazarı Gözlemevi (Milk Market Observatory) verilerine göre, AB'de süt üreticileri zor bir sınavdan geçiyor. Yılın başında 53 Euro/100 kg seviyelerinde seyreden çiğ inek sütü fiyatları, hızlı bir erimeyle Mayıs 2026'da 42,5 Euro/100 kg seviyesine kadar indi.\n\n2025'e Göre %20'lik Kayıp\n\nPiyasa verileri, Avrupa'daki süt krizinin boyutlarını net bir şekilde ortaya koyuyor:\n\nYıllık Bazda Sert Düşüş: 2025 yılının Mayıs ayına göre fiyatlar yaklaşık %20 oranında geriledi.\n\nKademeli Eriyiş: 2026 yılına 45,2 Euro seviyesiyle başlayan fiyatlar, Ocak'tan Mayıs ayına kadar geçen sürede aralıksız düşerek %6'ya yakın değer kaybetti.\n\nUzun Vadeli Yıkım: 2022 yılındaki zirve döneminden bu yana AB'de çiğ süt fiyatları toplamda yaklaşık %30 oranında eridi.\n\n\"Maliyetler Karşılanmıyor, Üretici Kıskaçta\"\n\nUzmanlar, AB'deki bu fiyat çöküşünün arkasında üç temel neden olduğunu belirtiyor: Yüksek süt üretimi (arz fazlası), emtia fiyatlarındaki (tereyağı ve süt tozu) düşüş ve küresel çapta azalan süt ürünleri talebi.\n\nÖzellikle yem, enerji ve işgücü maliyetlerinin yüksek seyretmesine rağmen çiğ süt satış fiyatlarının bu maliyetlerin altında kalması, Avrupalı süt üreticisini iflas riskiyle karşı karşıya bırakıyor. Başta küçük ve orta ölçekli süt işletmeleri olmak üzere, birçok üreticinin zararına üretim yaptığı ifade ediliyor.\n\nTürk Süt Üreticisi İçin Ne Anlama Geliyor?\n\nAvrupa’daki bu sert düşüş ve maliyet baskısı, süt piyasasının küresel bir \"maliyet krizi\" ile karşı karşıya olduğunu gösteriyor. Türkiye'deki üreticiler ise Avrupa'daki bu gelişmeleri, yem ve enerji gibi küresel emtia fiyatlarına olan yansımaları üzerinden yakından takip ediyor.\n\nKaynak: European Commission - Milk Market Observatory"
-    },
-    {
-      "title": "Bursa’da Coğrafi İşaretli Hasanağa Enginarı Hasadı Başladı",
-      "url": "https://www.tarimpusulasi.com/haber/bursada-cografi-isaretli-hasanaga-enginari-hasadi-basladi-46789",
-      "source": "Tarım Pusulası",
-      "date": "2026-06-09",
-      "summary": "Bursa Büyükşehir Belediyesi ve Bursa Tarım ve Orman İl Müdürlüğü iş birliğiyle, coğrafi işaret tescilli Hasanağa Enginarı’nın üretimine dikkat çekmek ve yerel üreticiyi desteklemek amacıyla Mustafakemalpaşa’da hasat programı düzenlendi.",
-      "content": "BURSA — Bursa Büyükşehir Belediyesi, kentin gastronomi kültürünü korumaya ve tarımsal üretim değerlerini küresel ölçekte desteklemeye yönelik projelerini hız kesmeden sürdürüyor. Bu doğrultuda Bursa Büyükşehir Belediyesi Kent Tarihi ve Tanıtımı Dairesi Başkanlığı Turizm ve Tanıtma Şube Müdürlüğü ile Bursa Tarım ve Orman İl Müdürlüğü iş birliğinde organize edilen ‘Coğrafi İşaret Tescilli Hasanağa Enginarı Hasat Programı’, Mustafakemalpaşa ilçesinin Karaoğlan Mahallesi’nde gerçekleştirildi.\n\nŞehrin en önemli tarımsal simgelerinden biri olan tescilli Hasanağa Enginarı’nın üretim hacmine dikkat çekmek, yerel üreticilerin emeğine destek sunmak ve kent gastronomi vizyonunu güçlendirmek amacıyla düzenlenen programa; Büyükşehir Belediyesi yöneticileri, Bursa Tarım ve Orman İl Müdür Yardımcısı Erdoğan Ceylan, AK Parti İlçe Başkanı Mutlu Turgut, Karaoğlan Mahallesi Muhtarı Ergün Kısa ve çok sayıda bölge üreticisi katılım sağladı.\n\nProgram kapsamında kürsüye çıkan Tarım ve Orman İl Müdür Yardımcısı Erdoğan Ceylan, Hasanağa Enginarı’nın kentin en önemli marka değerlerinden biri olduğunun altını çizdi. Türkiye genelindeki üretim hedeflerine değinen Ceylan, şu açıklamalarda bulundu:\n\n“Bursa’da şu an 8 bin dekarlık geniş bir alanda enginar üretimi gerçekleştiriyoruz. Temel hedefimiz, bu üretim hacmini daha da artırarak İzmir’i geride bırakmak ve enginar üretiminde Türkiye’nin ilk sırasına yerleşmektir. Gece gündüz demeden üretime katkı sunan cefakâr ve fedakar çiftçilerimize teşekkür ediyorum. Sağlık kaynağı olan enginarın, mutfağımızda pek çok çeşidiyle lezzet kattığını görüyoruz. Bu anlamlı hasat etkinliğinde bizleri bir araya getiren tüm kurumlara şükranlarımı sunuyor, üreticilerimize bereketli bir sezon diliyorum.”\n\nKaraoğlan Mahallesi Muhtarı Ergün Kısa da konuşmasında enginarın sofralara şifa taşıyan stratejik bir ürün olduğunu belirterek, bölge üreticisine ses getiren bu organizasyonun hazırlanmasında emeği geçen tüm kurumlara teşekkür etti.\n\nProtokol konuşmalarının tamamlanmasının ardından etkinlik alanında katılımcılara; Hasanağa Enginarı kullanılarak hazırlanan enginarlı pilav, enginar dolması, enginar köftesi, kuzu etli enginar ve enginar tatlısı ikram edildi. Programın son bölümünde ise Karaoğlan ve Doğancı mahallelerinde yer alan enginar tarlaları ziyaret edilerek ilk hasat işlemi katılımcılarla birlikte coşkuyla gerçekleştirildi.\n\nTARIM PUSULASI HABER MERKEZİ"
     }
   ],
   "commoditiesByBorsa": {
@@ -328,5 +328,10 @@
   "defaultBorsa": "5ED10",
   "defaultCity": "CANAKKALE",
   "note": "Fiyatlar TOBB ticaret borsasından (borsa seçilebilir). Kanola manuel (Trakya 2025).",
-  "inputsNote": "Mazot: akaryakıt bayi fiyatı, günlük (şehir seçilebilir). Gübre: manuel (yaklaşık)."
+  "inputsNote": "Mazot: akaryakıt bayi fiyatı, günlük (şehir seçilebilir). Gübre: manuel (yaklaşık).",
+  "errors": [
+    "borsa 5ED10: fetch failed",
+    "borsa 5KO10: fetch failed",
+    "borsa 5ES10: fetch failed"
+  ]
 }
