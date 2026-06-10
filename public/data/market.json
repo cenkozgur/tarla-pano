@@ -1,26 +1,26 @@
 {
-  "updatedAt": "2026-06-10T04:05:17.247Z",
+  "updatedAt": "2026-06-10T08:18:09.769Z",
   "fx": [
     {
       "code": "USD",
       "name": "Dolar",
-      "buy": 461218,
-      "sell": 461293,
-      "change": 0
+      "buy": 461361,
+      "sell": 461397,
+      "change": 3
     },
     {
       "code": "EUR",
       "name": "Euro",
-      "buy": 532896,
-      "sell": 533366,
-      "change": 5
+      "buy": 533316,
+      "sell": 533421,
+      "change": 1
     },
     {
       "code": "GRA",
       "name": "Gram Altın",
-      "buy": 620698,
-      "sell": 620795,
-      "change": -176
+      "buy": 619394,
+      "sell": 619477,
+      "change": -197
     },
     {
       "code": "CEYREKALTIN",
@@ -38,6 +38,14 @@
     }
   ],
   "news": [
+    {
+      "title": "Gökçeada’ya uluslararası tescil! Şap hastalığından aşılı ari bölge ilan edildi",
+      "url": "https://www.tarimdanhaber.com/gokceadaya-uluslararasi-tescil-sap-hastaligindan-asili-ari-bolge-ilan-edildi",
+      "source": "Tarımdan Haber",
+      "date": "2026-06-10",
+      "summary": "Tarım ve Orman Bakanlığının çalışmaları sonucunda Gökçeada, Dünya Hayvan Sağlığı Teşkilatı tarafından “şap hastalığından aşılı ari bölge” olarak tanındı. Kararla birlikte Türkiye’nin uluslararası düzeyde tanınan koruma altındaki bölge alanı genişlerken, hayvan sağlığı alanındaki başarısı da uluslara",
+      "content": "Haber Merkezi - Türkiye, hayvan sağlığı alanında önemli bir başarıya daha imza attı. Tarım ve Orman Bakanlığının yürüttüğü çalışmalar sonucunda Gökçeada, Dünya Hayvan Sağlığı Teşkilatı tarafından (World Organisation for Animal Health (WOAH)) “şap hastalığından aşılı ari bölge” olarak tanındı.\n\nBu kararla birlikte Türkiye'nin uluslararası düzeyde tanınan koruma altındaki bölge alanı genişlerken, Bakanlığın şap hastalığıyla mücadelede yürüttüğü çalışmalar da uluslararası düzeyde tescillenmiş oldu.\n\nGökçeada’da bugüne kadar şap vakası görülmedi\n\nTarım ve Orman Bakanlığından yapılan açıklamaya göre, Gökçeada'da bugüne kadar herhangi bir şap hastalığı vakası tespit edilmedi. Adanın Anadolu’dan Ege Denizi ile ayrılmış olması, hastalıklara karşı doğal bir biyogüvenlik avantajı sağlıyor.\n\n2010 yılından bu yana “şap hastalığından aşılı ari bölge” statüsünü koruyan Trakya Bölgesi de Gökçeada için önemli bir model oluşturdu. Bakanlık, adanın ari hayvancılık yapısını koruyarak sağlıklı, güvenilir ve sürdürülebilir hayvansal üretimi geliştirmeyi hedefliyor.\n\nTeknik dosya WOAH’a sunuldu\n\nGökçeada’nın şap hastalığı yönünden “aşılı ari bölge” olarak tanınmasına yönelik hazırlanan teknik dosya, Tarım ve Orman Bakanlığı tarafından 2025 yılında WOAH Arilik Departmanına sunuldu.\n\nWOAH Bilimsel Komitesi tarafından yapılan değerlendirmeler sonucunda Gökçeada’nın, Dünya Hayvan Sağlığı Teşkilatının Kara Hayvanları Sağlık Kodu kapsamında belirlenen şartları karşıladığı tespit edildi.\n\nKarar, WOAH’ın Mayıs 2026’da gerçekleştirilen 93’üncü Genel Oturumunda resmen kabul edildi. Paris’te düzenlenen toplantıda Gökçeada’ya verilen “şap hastalığından aşılı ari bölge” sertifikası, Tarım ve Orman Bakan Yardımcısı Ahmet Gümen’e takdim edildi.\n\nHayvancılık ekonomisine önemli katkı sağlayacak\n\nUzmanlara göre şap hastalığından aşılı arilik statüsü yalnızca hayvan sağlığı açısından değil, hayvancılık ekonomisi ve uluslararası ticaret açısından da büyük önem taşıyor.\n\nBu statü sayesinde:\n\nHastalık kaynaklı üretim kayıplarının azalması ve işletme verimliliğinin artması bekleniyor.\n\nGökçeada ile Trakya arasındaki hayvan hareketlerinde yeni imkanlar oluşacak.\n\nAri olmayan bölgelerden yapılacak hayvan girişleri sıkı kontrol ve analiz şartlarına bağlanacak.\n\nHastalığın bölgeye taşınma riski azaltılacak.\n\nVeteriner hizmetleri, sürveyans sistemleri ve laboratuvar altyapısı daha da güçlenecek.\n\nTürkiye'nin hayvan hastalıklarıyla mücadele kapasitesi uluslararası düzeyde daha görünür hale gelecek.\n\nUluslararası yatırımcılar ve ticaret ortakları açısından güven ortamı güçlenecek.\n\nTürkiye yeni ari bölgeler hedefliyor\n\nTarım ve Orman Bakanlığı, Trakya Bölgesi’nde yıllardır başarıyla uygulanan kontrollü hayvan hareketleri, yoğun sürveyans ve aşılama programlarının ardından Gökçeada’da da aynı başarıyı elde etmiş oldu.\n\nBakanlığın yürüttüğü zonlama çalışmalarıyla önümüzdeki dönemde yeni bölgelerin de benzer statüler kazanmasının hedeflendiği belirtilirken, Gökçeada’nın aldığı bu unvan Türkiye’nin tam arilik hedefine giden yolda önemli bir kilometre taşı olarak değerlendiriliyor."
+    },
     {
       "title": "Türkşeker’den fiyat düzenlemesi: Toptan şeker satış fiyatı 40 TL oldu",
       "url": "https://www.tarimdanhaber.com/turksekerden-fiyat-duzenlemesi-toptan-seker-satis-fiyati-40-tl-oldu",
@@ -125,14 +133,6 @@
       "date": "2026-06-09",
       "summary": "Bursa Büyükşehir Belediyesi ve Bursa Tarım ve Orman İl Müdürlüğü iş birliğiyle, coğrafi işaret tescilli Hasanağa Enginarı’nın üretimine dikkat çekmek ve yerel üreticiyi desteklemek amacıyla Mustafakemalpaşa’da hasat programı düzenlendi.",
       "content": "BURSA — Bursa Büyükşehir Belediyesi, kentin gastronomi kültürünü korumaya ve tarımsal üretim değerlerini küresel ölçekte desteklemeye yönelik projelerini hız kesmeden sürdürüyor. Bu doğrultuda Bursa Büyükşehir Belediyesi Kent Tarihi ve Tanıtımı Dairesi Başkanlığı Turizm ve Tanıtma Şube Müdürlüğü ile Bursa Tarım ve Orman İl Müdürlüğü iş birliğinde organize edilen ‘Coğrafi İşaret Tescilli Hasanağa Enginarı Hasat Programı’, Mustafakemalpaşa ilçesinin Karaoğlan Mahallesi’nde gerçekleştirildi.\n\nŞehrin en önemli tarımsal simgelerinden biri olan tescilli Hasanağa Enginarı’nın üretim hacmine dikkat çekmek, yerel üreticilerin emeğine destek sunmak ve kent gastronomi vizyonunu güçlendirmek amacıyla düzenlenen programa; Büyükşehir Belediyesi yöneticileri, Bursa Tarım ve Orman İl Müdür Yardımcısı Erdoğan Ceylan, AK Parti İlçe Başkanı Mutlu Turgut, Karaoğlan Mahallesi Muhtarı Ergün Kısa ve çok sayıda bölge üreticisi katılım sağladı.\n\nProgram kapsamında kürsüye çıkan Tarım ve Orman İl Müdür Yardımcısı Erdoğan Ceylan, Hasanağa Enginarı’nın kentin en önemli marka değerlerinden biri olduğunun altını çizdi. Türkiye genelindeki üretim hedeflerine değinen Ceylan, şu açıklamalarda bulundu:\n\n“Bursa’da şu an 8 bin dekarlık geniş bir alanda enginar üretimi gerçekleştiriyoruz. Temel hedefimiz, bu üretim hacmini daha da artırarak İzmir’i geride bırakmak ve enginar üretiminde Türkiye’nin ilk sırasına yerleşmektir. Gece gündüz demeden üretime katkı sunan cefakâr ve fedakar çiftçilerimize teşekkür ediyorum. Sağlık kaynağı olan enginarın, mutfağımızda pek çok çeşidiyle lezzet kattığını görüyoruz. Bu anlamlı hasat etkinliğinde bizleri bir araya getiren tüm kurumlara şükranlarımı sunuyor, üreticilerimize bereketli bir sezon diliyorum.”\n\nKaraoğlan Mahallesi Muhtarı Ergün Kısa da konuşmasında enginarın sofralara şifa taşıyan stratejik bir ürün olduğunu belirterek, bölge üreticisine ses getiren bu organizasyonun hazırlanmasında emeği geçen tüm kurumlara teşekkür etti.\n\nProtokol konuşmalarının tamamlanmasının ardından etkinlik alanında katılımcılara; Hasanağa Enginarı kullanılarak hazırlanan enginarlı pilav, enginar dolması, enginar köftesi, kuzu etli enginar ve enginar tatlısı ikram edildi. Programın son bölümünde ise Karaoğlan ve Doğancı mahallelerinde yer alan enginar tarlaları ziyaret edilerek ilk hasat işlemi katılımcılarla birlikte coşkuyla gerçekleştirildi.\n\nTARIM PUSULASI HABER MERKEZİ"
-    },
-    {
-      "title": "Balıkesir’de BASKİ Manyas Ovası’nı Sulama Sezonuna Hazırladı",
-      "url": "https://www.tarimpusulasi.com/haber/balikesirde-baski-manyas-ovasini-sulama-sezonuna-hazirladi-46788",
-      "source": "Tarım Pusulası",
-      "date": "2026-06-09",
-      "summary": "Balıkesir Büyükşehir Belediyesi bünyesindeki BASKİ Genel Müdürlüğü, Manyas Ovası’nda 2026 yılı tarımsal sulama sezonu öncesinde yürüttüğü kapsamlı temizlik, bakım ve onarım çalışmalarını tamamlayarak hatları hazır hale getirdi.",
-      "content": "BALIKESİR — Balıkesir Büyükşehir Belediye Başkanı Ahmet Akın’ın üretimi ve üreticiyi merkeze alan tarım vizyonu doğrultusunda hareket eden Balıkesir Su ve Kanalizasyon İdaresi Genel Müdürlüğü (BASKİ), Manyas Ovası’nda 2026 yılı sulama sezonu öncesinde kapsamlı hazırlık çalışmalarını tamamladı. Kentin verimli topraklarında tarımsal üretimini sürdüren yaklaşık 2 bin çiftçinin suya zamanında, kesintisiz ve düzenli şekilde erişebilmesi amacıyla yürütülen altyapı operasyonları kapsamında sulama kanalları ile iletim hatları tamamen hazır hale getirildi.\n\nManyas Barajı Regülatörü’nde gerçekleştirilen sezon açılış programına Manyas Kaymakamı Mustafa Salih Bayram, Manyas Belediye Başkanı Ahmet Duru, Balıkesir Büyükşehir Belediyesi Güney Marmara Bölge Koordinatörü Murat Karakoyun, ilgili daire başkanları, yöneticiler ve çiftçi temsilcileri katılım sağladı.\n\nBASKİ Genel Müdürlüğü’nün Manyas Ovası Sulama Tesisi’nde yürüttüğü teknik çalışmalar kapsamında, açık sulama kanallarında makinalı temizlik işlemleri yapılarak biriken tortular arındırıldı. Temizliğin ardından yürütülen yabancı ot mücadelesiyle ana iletim hatlarının sağlıklı su akışı desteklendi. Kapalı sulama hatlarında ise sızıntı kontrolü, genel bakım ve teknik inceleme çalışmaları titizlikle tamamlanarak sezon içi aksaklık riskleri minimuma indirildi.\n\nAçılış programında konuşan Manyas Kaymakamı Mustafa Salih Bayram, baraj kapasitesinin şu an yüzde yüz doluluk oranına ulaştığını belirterek, \"Buradan salınan su ile 150 bin dönüm arazi sulanıyor. Yaklaşık 2 bin çiftçimize hizmet vermekteyiz. Bölge olarak güzel bir kış geçirdik. İnşallah çiftçimiz için bol bereketli bir hasat zamanı olur. Büyükşehir belediyemiz ekipleriyle güzel bir açılış gerçekleştirdik, Manyas’ımıza hayırlı olsun.\" dedi.\n\nBalıkesir Büyükşehir Belediyesi Güney Marmara Bölge Koordinatörü Murat Karakoyun ise üreticilere sadece altyapı değil, lojistik destek de sağladıklarını ifade ederek, \"Ahmet Akın Başkan’ımıza tüm çiftçilerimiz adına teşekkür ediyoruz. Sadece su vermekle iş bitmiyor; bölgedeki bütün tarla yollarını da yapıyoruz. En kısa sürede çiftçilerimizle buluşturacağız.\" şeklinde konuştu. Manyas Belediye Başkanı Ahmet Duru da yürütülen tüm bu koordineli çalışmalar ve tarımsal destekler vesilesiyle Büyükşehir Belediye Başkanı Ahmet Akın’a teşekkür ederek üreticilere bereketli bir harman sezonu diledi.\n\nTARIM PUSULASI HABER MERKEZİ"
     }
   ],
   "commoditiesByBorsa": {
@@ -152,10 +152,10 @@
           "key": "arpa",
           "name": "Arpa",
           "unit": "₺/kg",
-          "price": 12.5,
-          "change": 0,
+          "price": 11.51,
+          "change": -7.92,
           "source": "Edirne TB",
-          "date": "2026-06-08"
+          "date": "2026-06-10"
         },
         {
           "key": "aycicegi",
@@ -253,10 +253,10 @@
       "key": "arpa",
       "name": "Arpa",
       "unit": "₺/kg",
-      "price": 12.5,
-      "change": 0,
+      "price": 11.51,
+      "change": -7.92,
       "source": "Edirne TB",
-      "date": "2026-06-08"
+      "date": "2026-06-10"
     },
     {
       "key": "aycicegi",
