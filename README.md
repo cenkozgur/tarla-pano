@@ -1,16 +1,35 @@
-# React + Vite
+# Tarla Panosu
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Çiftçi için günlük fiyat ve haber panosu. Emtia, gübre, mazot ve döviz fiyatlarını tek ekranda toplar; tarım haberlerini de yanına getirir. React + Vite PWA olarak GitHub Pages'te yayınlanır.
 
-Currently, two official plugins are available:
+## Veri kaynakları
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Oxc](https://oxc.rs)
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/)
+Fiyatlar `scraper/scrape.mjs` ile çekilir ve statik JSON olarak yayınlanır.
 
-## React Compiler
+| Kaynak | Veri |
+| --- | --- |
+| `borsa.tobb.org.tr` | Borsa emtia fiyatları |
+| `finans.truncgil.com` | Döviz / kur |
+| `hasanadiguzel.com.tr` (akaryakıt) | Mazot / akaryakıt |
+| `tarimdanhaber.com`, `tarimpusulasi.com` (RSS) | Tarım haberleri |
+| `scraper/commodities-manual.json` | Gübre fiyatları (TZOB, **manuel** güncellenir) |
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+Gübre fiyatları otomatik çekilmez; `commodities-manual.json` içindeki değerleri (`source`, `date` alanlarıyla birlikte) elle güncelle.
 
-## Expanding the ESLint configuration
+> Not: `borsa.tobb.org.tr` GitHub Actions runner'larını WAF/IP seviyesinde blokluyor, bu yüzden CI'da borsa fetch'i patlayabilir. Bu durumda son bilinen değer kullanılır ve panoda amber bir tazelik rozetiyle gösterilir. Retry bu bloğu çözmez.
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+## Geliştirme
+
+```bash
+npm install
+npm run dev       # yerel geliştirme sunucusu
+npm run scrape    # veri kaynaklarını yerelde çek
+npm run build     # production build
+npm run preview   # build'i yerelde önizle
+npm run lint
+```
+
+## Yayın ve veri güncelleme
+
+- **Deploy:** `.github/workflows/deploy.yml` — PWA'yı build edip GitHub Pages'e yayınlar.
+- **Scrape cron:** `.github/workflows/scrape.yml` — `5,20,35,50 * * * *` (15 dakikada bir, best-effort) kaynakları çeker. Bazı kaynaklar patlasa bile diğerleri güncellenir; veri yaşı panodaki tazelik rozetiyle dürüstçe gösterilir.
