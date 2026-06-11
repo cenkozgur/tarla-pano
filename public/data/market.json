@@ -1,26 +1,26 @@
 {
-  "updatedAt": "2026-06-11T16:41:36.464Z",
+  "updatedAt": "2026-06-11T19:25:16.235Z",
   "fx": [
     {
       "code": "USD",
       "name": "Dolar",
       "buy": 46.15,
-      "sell": 46.16,
-      "change": 0.06
+      "sell": 46.15,
+      "change": 0.05
     },
     {
       "code": "EUR",
       "name": "Euro",
-      "buy": 53.25,
-      "sell": 53.27,
-      "change": -0.03
+      "buy": 53.55,
+      "sell": 53.56,
+      "change": 0.53
     },
     {
       "code": "GRA",
       "name": "Gram Altın",
-      "buy": 6056.91,
-      "sell": 6057.83,
-      "change": 0.31
+      "buy": 6215.62,
+      "sell": 6216.53,
+      "change": 2.94
     },
     {
       "code": "CEYREKALTIN",
@@ -38,6 +38,14 @@
     }
   ],
   "news": [
+    {
+      "title": "Suudi Arabistan'da buğday üretimi 1,3 milyon ton oldu",
+      "url": "https://www.tarimpusulasi.com/haber/suudi-arabistanda-bugday-uretimi-13-milyon-ton-oldu-46807",
+      "source": "Tarım Pusulası",
+      "date": "2026-06-11",
+      "summary": "Suudi Arabistan Genel İstatistik Kurumu verilerine göre ülkede toplam tahıl üretimi 1,75 milyon tona ulaştı. Buğday, ekim alanlarının yüzde 63,4'ünü oluşturarak en önemli tahıl ürünü olmayı sürdürürken, Al-Jawf bölgesi tahıl ekim alanında ilk sırada yer aldı.",
+      "content": "RİYAD — Suudi Arabistan Genel İstatistik Kurumu tarafından açıklanan verilere göre ülkede toplam tahıl ekim alanı 331 bin hektara ulaştı. Bunun 323 bin hektarlık bölümü hasat edilirken, toplam tahıl üretimi 1,75 milyon ton olarak kaydedildi.\n\nVerilere göre, ülkenin idari bölgeleri arasında Al-Jawf, 62 bin hektarlık tahıl ekim alanıyla ilk sırada yer aldı ve tahıl üretiminde önemli bir merkez konumunu korudu.\n\nRaporda, buğdayın Suudi Arabistan'ın en önemli tahıl ürünü olmayı sürdürdüğü belirtildi. Buğday, toplam tahıl ekim alanının yüzde 63,4'ünü oluştururken, üretim miktarı 1 milyon 314 bin tona ulaştı. Böylece buğday, ülkenin tahıl sektörü ve iç gıda arzındaki stratejik rolünü güçlendirdi.\n\nAçıklanan istatistiklere göre açık alanda sebze yetiştiriciliği yapılan alan 88 bin 700 hektar olurken, toplam üretim 2 milyon 531 bin ton olarak gerçekleşti.\n\nSebze üretiminde Riyad Bölgesi ülke genelinde ilk sırada yer aldı. Açık alanda yetiştirilen sebzeler arasında ise karpuz en geniş üretim alanına sahip ürün oldu. Karpuz, toplam açık alan sebze ekim alanının yüzde 26,7'sini oluştururken, üretim miktarı 614 bin ton olarak kaydedildi.\n\nTARIM PUSULASI HABER MERKEZİ"
+    },
     {
       "title": "CHP Milletvekili Meriç TBMM’de TMO buğday fiyatını eleştirdi",
       "url": "https://www.tarimpusulasi.com/haber/chp-milletvekili-meric-tbmmde-tmo-bugday-fiyatini-elestirdi-46806",
@@ -101,14 +109,6 @@
       "date": "2026-06-11",
       "summary": "Meyve Sebze Mamulleri İhracatçı Birlikleri Başkanı Hayrettin Uçak, kotaların ve gümrük vergilerinin kaldırılmasını içeren raporu Ticaret Bakanı Ömer Bolat’a iletti.",
       "content": "ANKARA — Türkiye Meyve Sebze Mamulleri İhracatçı Birlikleri Sektör Kurulu Başkanı Hayrettin Uçak, yaş meyve sebze ve mamulleri sektörünün ihracat potansiyelini tam anlamıyla hayata geçirebilmesi için kritik bir adım attı. Sektörün önündeki kota, gümrük vergisi ve destek taleplerini içeren kapsamlı rapor, Ticaret Bakanı Prof. Dr. Ömer Bolat’a sunuldu. Başkan Uçak, ikili görüşmelerle engellerin kaldırılması halinde kısa sürede 10 milyar dolarlık ihracat seviyesine ulaşılabileceğini vurguladı.\n\n\"DFİF Destekleri Yeniden Devreye Alınmalı\"\n\nKatma değerli ambalajlı ürün ihracatının küresel pazardaki rekabet gücü açısından stratejik önemine değinen Uçak, geçmiş dönemlerde uygulanan Destekleme ve Fiyat İstikrar Fonu (DFİF) desteklerinin ambalajlı ürün bazında yeniden hayata geçirilmesini talep ettiklerini belirtti.\n\nKuru Domates ve Salçada AB Kotası Engeli\n\nTürkiye'nin dünya kuru domates ticaretinde İtalya'nın ardından ikinci sırada yer aldığını ve 2025 yılında 189 milyon dolarlık ihracat gerçekleştirdiğini hatırlatan Uçak, Avrupa Birliği'nin uyguladığı 8 bin 900 tonluk kotanın yetersiz kaldığını söyledi. Uçak, \"Geçmişte 5-6 ayda dolan bu kotaya artık ocak ayı içinde ulaşıyoruz. AB kotasının kaldırılması ya da en az 40 bin tona çıkarılması için Sayın Bakanımızdan destek istedik\" dedi. Raporda ayrıca AB’nin salça kotalarının da artırılması gerektiği iletildi.\n\nMısır ve Ukrayna Pazarlarında Vergi Sorunu\n\nTürkiye'nin elma ihracat kapasitesinin yıllık 300 bin tona ulaştığını belirten Uçak, Mısır'ın Türk elmasına uyguladığı yüzde 40 gümrük vergisinin rekabeti zorlaştırdığını, bu verginin düşürülmesi için müzakere talep ettiklerini aktardı. Öte yandan, Ukrayna'nın domates ihracatına uyguladığı yüzde 10 gümrük vergisine ek olarak 22 Temmuz 2025 tarihinde yürürlüğe koyduğu yüzde 25'ten başlayan anti-damping vergilerinin haksız olduğunu belirten Uçak, kararın gözden geçirilmesi için iki ülke arasında diplomatik temas kurulmasını istediklerini söyledi.\n\n2026 Yılı İhracat Hedefi 7,5 Milyar Dolar\n\nBakan Bolat’ın taleplere çok olumlu ve yapıcı yaklaştığını ifade eden Hayrettin Uçak, sektörün büyüme rakamlarını paylaştı. 2025 yılını 6,3 milyar dolarla kapatan sektör, 2026’nın ilk 5 ayında (Ocak-Mayıs) ihracatını yüzde 18 artırarak 2 milyar 384 milyon dolardan 2 milyar 815 milyon dolara yükseltti. Uçak, hava koşullarının da üretime olumlu yansımasıyla 2026 yıl sonu hedeflerinin 7,5 milyar dolar olduğunu açıkladı.\n\nTARIM PUSULASI HABER MERKEZİ"
-    },
-    {
-      "title": "Nilüfer Belediyesi Bursa’da esnafa gıda güvenliği eğitimi verdi",
-      "url": "https://www.tarimpusulasi.com/haber/nilufer-belediyesi-bursada-esnafa-gida-guvenligi-egitimi-verdi-46799",
-      "source": "Tarım Pusulası",
-      "date": "2026-06-11",
-      "summary": "Nilüfer Belediyesi, BESOB ve Gıda Mühendisleri Odası iş birliğiyle esnafa yönelik halk sağlığını koruma amaçlı gıda güvenliği semineri düzenledi.",
-      "content": "BURSA — Toplum sağlığının korunması ve gıda işletmecilerinin bilinçlendirilmesi amacıyla Bursa’da önemli bir eğitim faaliyeti hayata geçirildi. Nilüfer Belediyesi, Bursa Esnaf ve Sanatkar Odaları Birliği (BESOB) ve TMMOB Gıda Mühendisleri Odası Bursa Şubesi iş birliğiyle \"Gıda Güvenliği Eğitimi\" semineri gerçekleştirildi. Karaman Dernekler Yerleşkesi’nde düzenlenen programda, tarladan sofraya güvenilir gıdaya ulaşmanın yöntemleri ile gıda kaynaklı riskler masaya yatırıldı.\n\n\"Esnafımız En Önemli Paydaşımız\"\n\nProgramın açılış konuşmasını yapan Nilüfer Belediye Başkan Yardımcısı Okan Şahin, vatandaşlara güvenilir gıda ulaştırmanın öncelikli hedefleri olduğunu vurguladı. Şahin, \"Vatandaşımıza güvenilir gıdayı ulaştırmak için denetim ve desteklerimizi sürdürürken, gıda mühendislerimiz ve esnafımızla birlikte yol almak bizim için çok kıymetli\" ifadelerini kullandı.\n\nBESOB Başkan Vekili Fahrettin Tüccaroğlu da esnafın bu eğitimlere katılımını artırmayı görev edindiklerini belirterek, gelecek dönemlerde daha büyük salonlarda bu bilinci yaygınlaştırmayı hedeflediklerini dile getirdi.\n\n\"Gıda Güvencesi Bir Milli Güvenlik Sorunudur\"\n\nGıda Mühendisleri Odası Bursa Şubesi Başkanı Serkan Durmuş ise dünya genelinde milyonlarca insanın gıda kaynaklı hastalıklarla mücadele ettiğini hatırlatarak, Nilüfer Belediyesi ile yapılan protokol kapsamında işletmelerde saha analizleri ve teknik değerlendirmeler yaptıklarını aktardı.\n\nSeminerde sunum yapan Gıda Mühendisi Didem Salman da çarpıcı veriler paylaştı. Dünya Sağlık Örgütü verilerine göre her yıl yaklaşık 1,5 milyon insanın güvenli olmayan gıdalar sebebiyle yaşamını yitirdiğini belirten Salman, \"Gıda güvencesi dünya için bir tehlike ve milli güvenlik sorunudur\" dedi.\n\nEtkinliğin sonunda Nilüfer Belediyesi Ruhsat ve Denetim Müdürü Emine Aksoy, sunumuyla katkı sağlayan Gıda Mühendisi Didem Salman’a teşekkür etti.\n\nTARIM PUSULASI HABER MERKEZİ"
     },
     {
       "title": "Çaykur’da sular durulmuyor: Skandal paylaşım sonrası \"Eldiven\" soruşturması",
