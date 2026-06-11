@@ -1,43 +1,83 @@
 {
-  "updatedAt": "2026-06-11T12:50:04.914Z",
+  "updatedAt": "2026-06-11T16:41:36.464Z",
   "fx": [
     {
       "code": "USD",
       "name": "Dolar",
-      "buy": 46.14,
+      "buy": 46.15,
       "sell": 46.16,
-      "change": 0.05
+      "change": 0.06
     },
     {
       "code": "EUR",
       "name": "Euro",
-      "buy": 53.32,
-      "sell": 53.38,
-      "change": 0.14
+      "buy": 53.25,
+      "sell": 53.27,
+      "change": -0.03
     },
     {
       "code": "GRA",
       "name": "Gram Altın",
-      "buy": 6037.14,
-      "sell": 6038.11,
-      "change": -0.01
+      "buy": 6056.91,
+      "sell": 6057.83,
+      "change": 0.31
     },
     {
       "code": "CEYREKALTIN",
       "name": "Çeyrek Altın",
-      "buy": 10013.24,
-      "sell": 10242.08,
-      "change": 0
+      "buy": 9801.16,
+      "sell": 10027.48,
+      "change": -2.1
     },
     {
       "code": "CUMHURIYETALTINI",
       "name": "Cumhuriyet Altını",
-      "buy": 41479,
-      "sell": 42104,
-      "change": -3.05
+      "buy": 40663,
+      "sell": 41278,
+      "change": -1.96
     }
   ],
   "news": [
+    {
+      "title": "CHP Milletvekili Meriç TBMM’de TMO buğday fiyatını eleştirdi",
+      "url": "https://www.tarimpusulasi.com/haber/chp-milletvekili-meric-tbmmde-tmo-bugday-fiyatini-elestirdi-46806",
+      "source": "Tarım Pusulası",
+      "date": "2026-06-11",
+      "summary": "CHP Gaziantep Milletvekili Melih Meriç, TMO’nun açıkladığı 16 bin 500 liralık buğday alım fiyatını ve 45 günlük vade süresini meclis kürsüsünden eleştirerek revizyon çağrısı yaptı.",
+      "content": "ANKARA — Cumhuriyet Halk Partisi (CHP) Gaziantep Milletvekili ve İçişleri Komisyonu Üyesi Melih Meriç, Toprak Mahsulleri Ofisi (TMO) tarafından açıklanan hububat taban fiyatlarına ilişkin TBMM Genel Kurulunda sert eleştirilerde bulundu. Gaziantep’in bir dönem üretim merkezi olduğunu hatırlatan Meriç, açıklanan 16 bin 500 liralık buğday alım fiyatının üreticiyi desteklemekten uzak olduğunu savundu.\n\n\"Yüzde 22'lik Artış Çiftçiyi Borç Batağına Düşürdü\"\n\nYıllık enflasyon oranları karşısında tarımsal girdi maliyetlerinin katlandığını belirten Meriç; mazot, gübre ve tohum fiyatlarındaki artışlara dikkat çekti. Buğday alım fiyatında yapılan yüzde 22'lik artışın yetersiz kaldığını vurgulayan Meriç, \"Bu fiyat artışı çiftçiyi borç batağına düşürmüştür. Üstelik verilen düşük fiyatın ödemesi de 45 gün sonra yapılacaktır. Gaziantepli üretici bu vade ve bu parayla ne borcunu ödeyebilir ne de önümüzdeki yıl toprağına yeniden ekin yapabilir\" ifadelerini kullandı.\n\n\"Coğrafi İşaretlerle Övünürken Üreticiyi Unutuyorsunuz\"\n\nGaziantep'in tarımsal ve gastronomik değerlerine atıfta bulunan Meriç, iktidarın coğrafi işaretli ürünlerle övünmesine rağmen bu ürünleri var eden çiftçileri zor durumda bıraktığını dile getirdi. Meclis kürsüsünden ekonomi yönetimine ve hükümete seslenen CHP'li Melih Meriç, \"Çiftçimizi açlığa, sefalete mahkum etmeyin. Bu kabul edilemez fiyatları derhal düzeltin\" diyerek taban fiyatların üretici lehine yeniden revize edilmesi gerektiğini sözlerine ekledi.\n\nTARIM PUSULASI HABER MERKEZİ"
+    },
+    {
+      "title": "Kırsalda Bereket Küçükbaşa Destek Projesi'nin ilk etap sonuçları açıklandı",
+      "url": "https://www.tarimdanhaber.com/kirsalda-bereket-kucukbasa-destek-projesinin-ilk-etap-sonuclari-aciklandi",
+      "source": "Tarımdan Haber",
+      "date": "2026-06-11",
+      "summary": "Kırsalda Bereket Küçükbaşa Destek Projesi'nin ilk etap sonuçları açıklandı. Hak sahipleri SMS ile bilgilendirilirken, projeden yararlanacak yetiştiriciler sonuçlarını internet üzerinden sorgulayabilecek. Hayvan teslimatları ise TİGEM tarafından gerçekleştirilecek.",
+      "content": "Haber Merkezi - Tarım ve Orman Bakanlığı tarafından yürütülen Kırsalda Bereket Küçükbaşa Destek Projesi kapsamında ilk etap hak sahipleri belirlendi. Başvuruların alınmasının ardından yapılan değerlendirmeler, itiraz süreçleri ve kontroller tamamlanırken, il bazında asil ve yedek hak sahipleri listeleri oluşturuldu.\n\nBakanlık tarafından yapılan açıklamada, projeden yararlanacak yetiştirici sayıları ile illere dağıtılacak hayvan sayılarının objektif ve ölçülebilir kriterlere göre belirlendiği bildirildi.\n\nİller puanlama sistemine göre sıralandı\n\nProjede illere verilecek kontenjanların belirlenmesinde sosyoekonomik gelişmişlik endeksi (SEGE), kaba yem karşılama oranı, mera ot karşılama oranı, mera varlığı, yem bitkisi ekim alanı, küçükbaş hayvan varlığı ve hububat ekim alanı gibi kriterler dikkate alındı.\n\nBu kriterler üzerinden yapılan puanlama sonucunda her il için hak sahibi sayıları ve dağıtılacak küçükbaş hayvan miktarları belirlendi.\n\nKadınlar ve genç yetiştiricilere öncelik verildi\n\nHak sahiplerinin belirlenmesinde ise kadın yetiştiriciler, 41 yaşından gün almamış genç üreticiler, engelli, gazi veya birinci derece şehit yakını olanlar öncelikli gruplar arasında yer aldı.\n\nAyrıca aile işletmesi niteliğine sahip yetiştiriciler, küçükbaş hayvancılık konusunda eğitim veya sertifika sahibi olanlar, ziraat mühendisi, veteriner hekim ve gıda mühendisi meslek mensupları da değerlendirmede avantajlı konumda bulundu.\n\nİşletmenin TÜRKVET sistemindeki kayıt süresi, sürü hareketleri, tarımsal örgüt üyeliği, sahip olunan anaç koyun ve keçi sayısı ile ÇKS kayıtlı tarım arazisi varlığı da puanlamada dikkate alınan kriterler arasında yer aldı.\n\nEşit puan alanlarda kadın ve genç üretici avantajı\n\nPuan eşitliği oluşması halinde ise öncelik sırasıyla kadın yetiştiricilere, daha genç yaşta olanlara, işletme kayıt tarihi daha eski olanlara ve başvurusunu daha erken yapan üreticilere verildi.\n\nSonuçlar internet üzerinden sorgulanabilecek\n\nBaşvurusu geçerli kabul edilen yetiştiricilere SMS yoluyla bilgilendirme yapılırken, adayların proje kapsamındaki durumlarını sorgulayabilmeleri için sonuçlar internet ortamında erişime açıldı.\n\nÜreticiler, başvuru sonuçlarını basvurusonuc.tarimorman.gov.tr adresinden öğrenebilecek. Sorgulama ekranında yer alan açıklamalara göre gerekli işlemler hakkında da bilgilendirme yapılıyor.\n\nHayvan teslimatını TİGEM gerçekleştirecek\n\nProjede hak sahibi olan yetiştiricilere teslim edilecek küçükbaş hayvanlar, Tarım İşletmeleri Genel Müdürlüğü (TİGEM) tarafından temin edilecek.\n\nTİGEM, kendi internet sitesinden yapacağı duyurularla hak sahipleriyle gruplar halinde iletişime geçecek ve hayvan teslim tarihleri ile teslim noktalarını açıklayacak.\n\nKredi kullanacaklar için süre sınırlaması\n\nHak sahipleri hayvan bedellerini peşin olarak ödeyebilecekleri gibi banka kredisi kullanarak da projeden yararlanabilecek.\n\nKredi kullanacak yetiştiricilerin, TİGEM tarafından yapılan duyurudan itibaren 5 iş günü içinde Ziraat Bankası şubelerine başvurmaları gerekiyor.\n\nBunun yanında üreticilerin, kapasite raporu dahil tüm işlemlerini duyurunun yayımlanmasından itibaren en geç 20 gün içerisinde tamamlamaları şart koşuldu.\n\nBelirlenen sürelerde işlemlerini tamamlamayan yetiştiricilerin proje başvuruları ve hak sahiplikleri iptal edilmiş sayılacak."
+    },
+    {
+      "title": "UKON et kesim fiyatları: Dana karkas 593 TL, kuzu 610 TL oldu",
+      "url": "https://www.tarimpusulasi.com/haber/ukon-et-kesim-fiyatlari-dana-karkas-593-tl-kuzu-610-tl-oldu-46805",
+      "source": "Tarım Pusulası",
+      "date": "2026-06-11",
+      "summary": "Ulusal Kırmızı Et Konseyi (UKON), kombineler ve kesimhanelerden alınan 11 Haziran 2026 tarihli haftalık yağsız dana ve yağsız kuzu karkas kesim fiyatlarını yayınladı.",
+      "content": "ANKARA — Ulusal Kırmızı Et Konseyi (UKON), 11 Haziran 2026 tarihi itibarıyla kombineler ve kesimhanelerden alınan haftalık yağsız dana bıçak ve yağsız kuzu bıçak karkas kesim fiyatlarını kamuoyuyla paylaştı. Açıklanan verilere göre, Türkiye genelinde dana bıçak yağsız etin kilogram ortalaması 593,21 TL olurken, kuzu bıçak yağsız etin kilogram ortalama fiyatı ise 610,71 TL olarak kayıtlara geçti. Fiyatların peşin ödemeler üzerinden hesaplandığı ve yüzde 2 fire hariç tutularak bölge ortalamalarının yansıtıldığı bildirildi.\n\nBölgelere Göre Dana Kesim Fiyatlarında Marmara ve Karadeniz Önde\n\nUKON bültenine göre, bölgeler arasındaki fiyat farklılıklarında Dana Bıçak Yağsız TL/KG bazında en yüksek rakam 607,50 TL ile Karadeniz Bölgesi’nde görüldü. Karadeniz'i 604,20 TL ile Marmara Bölgesi takip etti. Diğer bölgelerdeki dana kesim fiyatları ise Ege Bölgesi'nde 590,00 TL, Doğu Anadolu Bölgesi'nde 594,00 TL, Akdeniz ve İç Anadolu bölgelerinde ise eşitlenerek 589,20 TL olarak belirlendi. Haftanın en düşük dana kesim fiyatı 578,40 TL ile Güneydoğu Anadolu Bölgesi’nde gerçekleşti.\n\nKuzu Karkas Kesiminde Zirve 670 TL ile Marmara’da\n\nKuzu Bıçak Yağsız TL/KG fiyatlarında bölgeler arasındaki makasın daha açık olduğu görüldü. Marmara Bölgesi 670,00 TL ile kuzu kesiminde en yüksek fiyat oranına ulaşırken, Ege Bölgesi 655,00 TL ile ikinci sırada yer aldı. Karadeniz Bölgesi'nde kuzu kesim fiyatı 635,00 TL, Akdeniz Bölgesi'nde 605,00 TL ve İç Anadolu Bölgesi'nde 600,00 TL olarak kaydedildi. Kuzu kesiminde en düşük fiyatlar ise 565,00 TL ile Doğu Anadolu ve 545,00 TL ile Güneydoğu Anadolu bölgelerinde listelendi.\n\nYıllık Artış Oranı Yüzde 30 Seviyelerinde İstikrara Kavuştu\n\nAçıklanan haftalık bültende fiyatların geçmiş dönemlere göre değişim oranları da paylaşıldı. Dana bıçak fiyatlarında geçen aya göre yüzde 0,2’lik sınırlı bir artış gözlenirken, geçen yılın aynı dönemine göre yaşanan artış oranı yüzde 31,6 oldu. Kuzu bıçak fiyatlarında ise geçen aya göre yüzde 0,1'lik çok küçük bir gerileme yaşanmasına rağmen, geçen yılın aynı dönemine kıyasla yüzde 28,6 oranında bir artış gerçekleştiği hesaplandı.\n\nTARIM PUSULASI HABER MERKEZİ"
+    },
+    {
+      "title": "Tarım ve Orman Bakanlığı: Küçükbaş Destek sonuçları açıklandı",
+      "url": "https://www.tarimpusulasi.com/haber/tarim-ve-orman-bakanligi-kucukbas-destek-sonuclari-aciklandi-46804",
+      "source": "Tarım Pusulası",
+      "date": "2026-06-11",
+      "summary": "Tarım ve Orman Bakanlığı, Kırsalda Bereket Küçükbaşa Destek Projesi kapsamında asil ve yedek hak sahiplerinin belirlendiğini duyurdu. Başvuruları geçerli kabul edilen yetiştiriciler, sonuçlarını sistem üzerinden sorgulayabilecek ve süreç TİGEM koordinasyonunda yürütülecek.",
+      "content": "ANKARA — Tarım ve Orman Bakanlığı tarafından kırsal kalkınmayı desteklemek amacıyla yürütülen \"Kırsalda Bereket Küçükbaşa Destek Projesi\" başvuru değerlendirme süreci tamamlandı. Küçükbaş Destek Başvuru sistemine girilen talepler, yapılan itirazlar ve resmi kontrollerin ardından il bazlı asil ve yedek hak sahibi listeleri kesinleşti. Proje kapsamında hangi ilde kaç üreticiye, kaç adet küçükbaş hayvan dağıtılacağı ise nesnel ve ölçülebilir kriterler üzerinden puanlanarak netleştirildi.\n\nİller ve Hak Sahipleri Özel Kriterlerle Belirlendi\n\nBakanlıktan yapılan açıklamaya göre, illerin hayvan dağıtım kontenjanları; Sosyo-Ekonomik Gelişmişlik Endeksi (SEGE), kaba yem ve mera ot karşılama oranları, mera varlığı, yem bitkisi ile hububat ekim alanları ve mevcut küçükbaş hayvan sayısı oranına göre puanlandı. Üreticilerin kendi aralarındaki sıralamasında ise kadın yetiştiricilere, 31 Aralık 2025 itibarıyla 41 yaşından gün almamış gençlere, engelli, gazi veya birinci derece şehit yakınlarına öncelik verildi. Ayrıca aile işletmeleri, hayvancılık eğitim belgesi olanlar, tarımsal amaçlı örgüt üyeleri ile Ziraat, Veteriner ve Gıda mühendisleri puanlamada avantaj sağladı. Puan eşitliği halinde sırasıyla kadın başvuru sahiplerine, yaşı daha genç olanlara ve TÜRKVET işletme kaydı daha eski olanlara öncelik tanındı.\n\nTİGEM Teslimat Sürecini Başlatıyor\n\nBaşvurusu kabul edilen üreticilere SMS ile bilgilendirme yapıldığını açıklayan Bakanlık, hak sahiplerinin sorgulama ekranı üzerinden işlemlerini takip etmesi gerektiğini bildirdi. Dağıtılacak hayvanlar Tarım İşletmeleri Genel Müdürlüğü (TİGEM) tarafından temin edilecek. TİGEM, resmi internet sitesi üzerinden gruplar halinde duyurular yayınlayarak üreticilerle iletişime geçecek ve teslimat yerlerini ilan edecek.\n\nKredi ve Alım İşlemleri İçin Kritik Süreler\n\nHak sahipleri, hayvan bedellerini TİGEM’in resmi internet sayfasında ilan edeceği güncel satış fiyatları üzerinden peşin ya da Ziraat Bankası kredisi ile ödeyebilecek. Sürecin aksamaması adına üreticilerin uyması gereken kritik yasal süreler bulunuyor. TİGEM duyurusunun ardından üreticilerin 5 iş günü içerisinde kredi işlemleri için Ziraat Bankası’na başvurması gerekiyor. Kapasite raporu dahil tüm kredili veya kredisiz satın alma işlemlerinin ise en geç 20 gün içinde tamamlanması zorunlu tutuldu. Süresi içinde TİGEM ile irtibata geçmeyen ve işlemlerini bitirmeyen yetiştiricilerin hak sahipliği iptal edilecek.\n\nTARIM PUSULASI HABER MERKEZİ"
+    },
+    {
+      "title": "Atlas Üniversitesi Öğretim Üyesi Ateş iklim krizini uyardı",
+      "url": "https://www.tarimpusulasi.com/haber/atlas-universitesi-ogretim-uyesi-ates-iklim-krizini-uyardi-46803",
+      "source": "Tarım Pusulası",
+      "date": "2026-06-11",
+      "summary": "İstanbul Atlas Üniversitesi Öğretim Üyesi Dr. H. İnci Ateş, 2026 Dünya Çevre Günü'nün \"İklim Eylemi\" teması altında küresel ısınmanın tarım, su ve ekosistem üzerindeki risklerini açıkladı.",
+      "content": "İSTANBUL — İstanbul Atlas Üniversitesi Meslek Yüksekokulu Çevre Sağlığı ve Çevresel Risk Yönetimi Teknikerliği Program Başkanı Dr. Öğr. Üyesi H. İnci Ateş, 2026 Dünya Çevre Günü'nün ana teması olan “İklim Eylemi” çerçevesinde önemli açıklamalarda bulundu. Küresel ısınmanın nedenleri, yol açtığı çevresel tehditler ve çözüm yollarına değinen Ateş; tarımsal üretimden halk sağlığına kadar pek çok alanın risk altında olduğunu vurguladı.\n\n\"Sera Gazları ve Tarımsal Emisyonlar Süreci Hızlandırıyor\"\n\nİklim değişikliğinin birincil sebebinin atmosfere salınan sera gazlarındaki artış olduğunu belirten Dr. H. İnci Ateş; fosil yakıt tüketimi, sanayileşme, ulaşım ağları, ormansızlaşma ve plansız kentleşmenin bu süreci doğrudan tetiklediğini ifade etti. Ateş, bu küresel etkenlerin yanı sıra tarımsal faaliyetlerden kaynaklanan emisyonların da atmosferdeki dengenin bozulmasında kritik bir rol oynadığının altını çizdi.\n\nTarımsal Üretim ve Su Kaynakları Tehlikede\n\nKüresel sıcaklık artışlarının yol açtığı kuraklık, sel, fırtına ve orman yangınları gibi aşırı hava olaylarının ekosisteme zarar verdiğini kaydeden Ateş, buzulların erimesiyle deniz seviyelerinin yükseldiğini ve doğal yaşam alanlarının daraldığını söyledi. Bu durumun tarımsal üretim, su kaynaklarının geleceği, halk sağlığı ve ekonomik sürdürülebilirlik üzerinde çok ciddi riskler oluşturduğuna dikkat çekti.\n\nÇözüm: Sürdürülebilir Tarım ve Bütüncül Politikalar\n\nKrizin etkilerini en aza indirmek için yenilenebilir enerji kaynaklarının yaygınlaştırılması ve karbon salımının azaltılması gerektiğini ifade eden Dr. H. İnci Ateş, ormanlar ile sulak alanların korunmasının ekosisteme direnç kazandıracağını belirtti. İklim eyleminin bütüncül politikalarla yürütülmesi gerektiğini savunan Ateş; sürdürülebilir tarım uygulamalarının desteklenmesi, atık yönetiminin güçlendirilmesi ve çevre dostu şehir planlamalarının hayata geçirilmesi çağrısında bulundu. Bireysel olarak da su tasarrufu, gıda israfının önlenmesi ve toplu taşıma kullanımının karbon ayak izini düşürmede büyük fark yaratacağını sözlerine ekledi.\n\nTARIM PUSULASI HABER MERKEZİ"
+    },
     {
       "title": "Milletvekili Aygun’dan Bakanlığa 2,5 liralık prim çağrısı",
       "url": "https://www.tarimpusulasi.com/haber/milletvekili-aygundan-bakanliga-25-liralik-prim-cagrisi-46802",
@@ -71,14 +111,6 @@
       "content": "BURSA — Toplum sağlığının korunması ve gıda işletmecilerinin bilinçlendirilmesi amacıyla Bursa’da önemli bir eğitim faaliyeti hayata geçirildi. Nilüfer Belediyesi, Bursa Esnaf ve Sanatkar Odaları Birliği (BESOB) ve TMMOB Gıda Mühendisleri Odası Bursa Şubesi iş birliğiyle \"Gıda Güvenliği Eğitimi\" semineri gerçekleştirildi. Karaman Dernekler Yerleşkesi’nde düzenlenen programda, tarladan sofraya güvenilir gıdaya ulaşmanın yöntemleri ile gıda kaynaklı riskler masaya yatırıldı.\n\n\"Esnafımız En Önemli Paydaşımız\"\n\nProgramın açılış konuşmasını yapan Nilüfer Belediye Başkan Yardımcısı Okan Şahin, vatandaşlara güvenilir gıda ulaştırmanın öncelikli hedefleri olduğunu vurguladı. Şahin, \"Vatandaşımıza güvenilir gıdayı ulaştırmak için denetim ve desteklerimizi sürdürürken, gıda mühendislerimiz ve esnafımızla birlikte yol almak bizim için çok kıymetli\" ifadelerini kullandı.\n\nBESOB Başkan Vekili Fahrettin Tüccaroğlu da esnafın bu eğitimlere katılımını artırmayı görev edindiklerini belirterek, gelecek dönemlerde daha büyük salonlarda bu bilinci yaygınlaştırmayı hedeflediklerini dile getirdi.\n\n\"Gıda Güvencesi Bir Milli Güvenlik Sorunudur\"\n\nGıda Mühendisleri Odası Bursa Şubesi Başkanı Serkan Durmuş ise dünya genelinde milyonlarca insanın gıda kaynaklı hastalıklarla mücadele ettiğini hatırlatarak, Nilüfer Belediyesi ile yapılan protokol kapsamında işletmelerde saha analizleri ve teknik değerlendirmeler yaptıklarını aktardı.\n\nSeminerde sunum yapan Gıda Mühendisi Didem Salman da çarpıcı veriler paylaştı. Dünya Sağlık Örgütü verilerine göre her yıl yaklaşık 1,5 milyon insanın güvenli olmayan gıdalar sebebiyle yaşamını yitirdiğini belirten Salman, \"Gıda güvencesi dünya için bir tehlike ve milli güvenlik sorunudur\" dedi.\n\nEtkinliğin sonunda Nilüfer Belediyesi Ruhsat ve Denetim Müdürü Emine Aksoy, sunumuyla katkı sağlayan Gıda Mühendisi Didem Salman’a teşekkür etti.\n\nTARIM PUSULASI HABER MERKEZİ"
     },
     {
-      "title": "Giresun Tarım Müdürlüğü Dereli’de mera gübrelemesi yaptı",
-      "url": "https://www.tarimpusulasi.com/haber/giresun-tarim-mudurlugu-derelide-mera-gubrelemesi-yapti-46798",
-      "source": "Tarım Pusulası",
-      "date": "2026-06-11",
-      "summary": "Giresun’un Dereli ilçesi Sarıyakup köyündeki 758 bin metrekarelik yaylak alanında, Mera Islah ve Amenajmanı Projesi kapsamında 8 ton kompoze gübre toprakla buluşturuldu.",
-      "content": "GİRESUN — Giresun İl Tarım ve Orman Müdürlüğü, hayvancılığın ve yerel üretimin desteklenmesi amacıyla yürütülen mera geliştirme çalışmalarına hız kesmeden devam ediyor. Bu kapsamda, Giresun’un Dereli ilçesine bağlı Sarıyakup köyü sınırları içerisinde yer alan 758 bin metrekarelik dev yaylak alanında önemli bir tarımsal faaliyet gerçekleştirildi.\n\n3 Yıllık Projenin İlk Adımı Atıldı\n\nSarıyakup köyü yaylaklarında 2026–2028 yılları arasını kapsayacak şekilde planlanan \"Mera Islah ve Amenajmanı Projesi\" resmen uygulamaya konuldu. Projenin ilk aşaması olarak, mera verimliliğini ve ot kalitesini artırmak amacıyla toplam 8.000 kilogram 20-20-0 Kompoze gübre uygulaması yapıldı.\n\nÜreticilerle Omuz Omuza Çalışma\n\nGübre atma faaliyeti; Giresun İl Tarım ve Orman Müdürü Mustafa Ensar Yılmaz, İl Müdür Yardımcısı Mustafa Demirbaş, Çayır, Mera ve Yem Bitkileri Şube Müdür Vekili İlker Bankaoğlu ve kurumun teknik personelinin katılımıyla gerçekleştirildi. Sarıyakup köyü çiftçilerinin de yoğun destek verdiği etkinlikte, sadece gübreleme yapılmakla kalınmadı; proje süresince 3 yıl boyunca bölgede hayata geçirilecek diğer ıslah çalışmaları ve teknik detaylar hakkında üreticilere yerinde bilgilendirme yapıldı.\n\nTARIM PUSULASI HABER MERKEZİ"
-    },
-    {
       "title": "Çaykur’da sular durulmuyor: Skandal paylaşım sonrası \"Eldiven\" soruşturması",
       "url": "https://www.tarimdanhaber.com/caykurda-sular-durulmuyor-skandal-paylasim-sonrasi-eldiven-sorusturmasi",
       "source": "Tarımdan Haber",
@@ -95,44 +127,12 @@
       "content": "Haber Merkezi - Damlama sulama sistemleri, suyun doğrudan bitki köküne ulaşmasını sağlayarak büyük tasarruf sağlıyor. Ancak su kaynağındaki yosunlar, kum taneleri ve organik tortular; filtre sistemlerini aşıp boru deliklerini tıkayabiliyor. Bu durum hem sulama randımanını düşürüyor hem de tesisatı kurtarmak için ekstra iş gücü ve maliyet çıkarıyor.\n\nMobil Gravel Filtre Sistemi ile Kesintisiz Sulama\n\nSon dönemde çiftçilerin teknik ekipman tercihleri \"hız ve mobilite\" üzerine yoğunlaşıyor. Su-Tar 4x2 Gravel (Çakıl) Filtre Sistemi, özellikle tarladaki su kaynağı ile sulama hattı arasındaki \"koruma kalkanı\" görevi görüyor.\n\nBu sistem çiftçiye ne kazandırıyor?\n\nYosun ve Tortu Tutucu: İçerisindeki özel gravel (çakıl) katmanları, suyun içindeki en küçük partikülleri bile hapsederek temiz suyun hatlara gitmesini sağlıyor.\n\nMobil Kolaylık: Tekerlekli şasi yapısı sayesinde farklı parsel ve su kaynakları arasında kolayca taşınabiliyor.\n\nTıkanıklık Önleyici: Damlama borularının tıkanmasını engelleyerek, sistemin ömrünü uzatıyor ve damla noktalarındaki verim düşüşünü ortadan kaldırıyor."
     },
     {
-      "title": "Mahmut Arıkan TBMM'de Konuştu: Çiftçi Kilo Başına 7 TL Zarar Ediyor",
-      "url": "https://www.tarimpusulasi.com/haber/mahmut-arikan-tbmmde-konustu-ciftci-kilo-basina-7-tl-zarar-ediyor-46797",
-      "source": "Tarım Pusulası",
-      "date": "2026-06-10",
-      "summary": "Saadet Partisi Genel Başkanı Mahmut Arıkan, TBMM Yeni Yol Grup Toplantısı'nda buğday ve arpa alım fiyatlarını sert bir dille eleştirdi. 1 kilo buğdayın maliyetinin 24 Lira 50 kuruş olduğunu hesapladıklarını belirten Arıkan, \"Çiftçimiz bu açıklanan rakamla kilo başına yaklaşık 7 lira zarar ediyor. Ta",
-      "content": "ANKARA — Saadet Partisi Genel Başkanı Mahmut Arıkan, Türkiye Büyük Millet Meclisi (TBMM) Yeni Yol Grup Toplantısı'nda yaptığı konuşmada tarım sektörünün ve çiftçilerin yaşadığı sorunları gündeme taşıdı. Geçtiğimiz günlerde Toprak Mahsulleri Ofisi (TMO) tarafından açıklanan hububat alım fiyatlarını sert sözlerle eleştiren Arıkan, hükümetin tarım politikalarını ve maliyet hesaplamalarını kalem kalem paylaştı.\n\n\"1 Kilo Buğdayın Maliyeti 24 Lira 50 Kuruş\"\n\nMilletin ve çiftçinin alın terinin görmezden gelindiğini savunan Mahmut Arıkan, tarım politikaları ekipleriyle birlikte yaptıkları detaylı maliyet analizini açırdı. Dekar başına verimin 300 kilogram olması durumunda; kira, tarla hazırlığı, ekiliş, bakım, amortisman, hasat, işçilik ve faiz giderlerinin toplamda 7 bin 830 Lira tuttuğunu belirten Arıkan, temel destekler ve tohum desteği düşüldüğünde 1 kilo buğdayın net maliyetinin 24 Lira 50 kuruşa tekabül ettiğini vurguladı.\n\nArıkan, Tarım ÜFE’nin yüzde 42 olarak açıklandığı bir ortamda hükümetin hububata sadece yüzde 21 artış yaptığını hatırlatarak, \"Çiftçimiz açıklanan rakamla kilo başına yaklaşık 7 lira zarar ediyor. Devlet eğer 24 lirayı verirse çiftçimiz ancak maliyetini karşılayabiliyor\" şeklinde konuştu.\n\n\"Tarım Bir Milli Güvenlik Meselesidir\"\n\nTarımın Türkiye için savunma sanayisi gibi bir milli güvenlik meselesi olduğunu ifade eden Saadet Partisi Genel Başkanı, Konya'da traktörleriyle eylem yapan çiftçilere ceza kesilerek susturulmaya çalışılmasına da tepki gösterdi. Sorunların cezalarla çözülemeyeceğini söyleyen Arıkan, çiftçilerin mağduriyetini gidermek adına şu 4 maddelik çözüm önerisini sundu:\n\nÇiftçi masa başında değil, tarla başında dinlenmeli.\n\nBuğday alım fiyatı hasat zamanı değil, ekimden önce açıklanmalı ve maliyetler aşağı çekilmeli.\n\nÇiftçiye topraktan vazgeçmeyeceği makul bir kâr payı bırakılmalı.\n\nTMO ürün bedelini 45 gün sonra değil, teslimat anında peşin ödemeli.\n\nMeclis Araştırma Önergesi Verilecek\n\nTMO, Et ve Süt Kurumu ile ÇAYKUR gibi yapıların sadece birer \"satın alma kurumu\" olmadığını, piyasayı düzenlemek ve arz güvenliğini sağlamakla yükümlü olduklarını hatırlatan Arıkan, Sivas'tan gelen ziraat odası başkanları ile bir araya gelerek bir rapor hazırladıklarını duyurdu. Saadet Partisi milletvekillerinin konuyla ilgili TBMM'ye araştırma önergesi vereceğini belirten Arıkan, iktidar kulislerine seslenerek, \"Gelin bugün mecliste vereceğimiz öneriye 'yok' demeyin. Çiftçimizin derdini hep beraber konuşalım\" çağrısında bulundu.\n\nTARIM PUSULASI HABER MERKEZİ"
-    },
-    {
-      "title": "Erdoğan TBMM'de Açıkladı: Çiftçi Destekleri Artırılıyor",
-      "url": "https://www.tarimpusulasi.com/haber/erdogan-tbmmde-acikladi-ciftci-destekleri-artiriliyor-46796",
-      "source": "Tarım Pusulası",
-      "date": "2026-06-10",
-      "summary": "Cumhurbaşkanı Erdoğan, TBMM AK Parti Grup Toplantısı'nda tarımsal üretime yönelik önemli müjdeler verdi. Son 66 yılın en yüksek yağış seviyesine ulaştıklarını belirten Erdoğan, artan girdi maliyetlerine karşı temel destek ve planlama desteği tutarlarının artırıldığını, TMO'nun üreticinin tüm ürününü",
-      "content": "ANKARA — Cumhurbaşkanı ve AK Parti Genel Başkanı Recep Tayyip Erdoğan, Türkiye Büyük Millet Meclisinde (TBMM) partisinin Grup Toplantısı'nda önemli açıklamalarda bulundu. Tarım sektörüne ve üreticilere yönelik müjdeler veren Erdoğan, bu yıl yağışlar açısından son 66 yılın en yüksek seviyesine ulaşıldığını ve barajlardaki doluluk oranının geçen yıla göre %26 artarak %81 seviyesine çıktığını belirtti.\n\n\"Tarihi Bir Üretim Rekoru Kırabiliriz\"\n\nHem bereketli yağışlar hem de uygulanan tarımsal planlama ve destekler sayesinde birçok üründe yüksek rekolte beklediklerini ifade eden Erdoğan, \"Tarihi bir üretim rekoru da inşallah bu sene kırabiliriz. Hububat hasat dönemi ülkemizin birçok yerinde başlamıştır. Mevcut tahminlerimize göre buğday üretimimiz geçen yıla göre %27, arpa üretimimiz %50 artacaktır\" dedi. Geçen yıl dekar başına 276 kiloya kadar düşen buğday veriminin bu yıl ortalama 400 kiloya çıkacağını, Trakya ve Çukurova gibi bölgelerde ise 700 kiloya varan verimler beklendiğini müjdeledi.\n\n\"Üreticimizin 1 Gram Ürünü Dahi Ziyan Olmayacak\"\n\nToprak Mahsulleri Ofisi'nin (TMO) alım fiyatlarını geçtiğimiz hafta açıkladığını hatırlatan Cumhurbaşkanı Erdoğan, kurumun 20 milyon ton depo kapasitesi ve 600'ün üzerindeki alım merkeziyle hazırlıklarını tamamladığını söyledi. Erdoğan, çiftçilere şu güvenceyi verdi:\n\n\"Üreticimizin 1 gram dahi ürünü ziyan olmayacak. Ofis kendisine getirilen bütün ürünleri alacaktır. Ayrıca ofis ürün teslimine müteakip 21. günden itibaren ürün bedeli ödemelerine de başlayacaktır.\"\n\nGirdi Maliyetlerine Karşı Destek Tutarları Artırıldı\n\nBölgesel savaşlar, çatışmalar ve İran krizi sebebiyle üretim girdilerinde yaşanan aşırı artışların çiftçilerin maliyetlerine olumsuz yansıdığına dikkat çeken Erdoğan, üreticinin yükünü hafifletecek stratejik bir kararı paylaştı. Erdoğan, \"Bu yıl için açıkladığımız temel destek ve planlama desteği tutarımızı, İran krizi ile birlikte girdi maliyetlerinde oluşan aşırı artışları göz önüne alarak güncelliyoruz. Destek tutarlarımızı buna göre artırıyoruz. Şimdiden hayırlı bereketli olsun\" diyerek sözlerini tamamladı.\n\nTARIM PUSULASI HABER MERKEZİ"
-    },
-    {
       "title": "Mahmut Arıkan: Çiftçi buğdayda kilo başına 7 lira zarar ediyor",
       "url": "https://www.tarimdanhaber.com/mahmut-arikan-ciftci-bugdayda-kilo-basina-7-lira-zarar-ediyor",
       "source": "Tarımdan Haber",
       "date": "2026-06-10",
       "summary": "Saadet Partisi Genel Başkanı Mahmut Arıkan, TBMM Grup Toplantısı'nda hububat alım fiyatlarını eleştirerek, çiftçinin açıklanan fiyatlarla üretime devam etmesinin zorlaştığını söyledi. Tarımın bir milli güvenlik meselesi olduğunu vurgulayan Arıkan, buğdayın maliyetinin yaklaşık 24 liraya ulaştığını b",
       "content": "Haber Merkezi - Saadet Partisi Genel Başkanı Mahmut Arıkan, TBMM Grup Toplantısı'nda yaptığı konuşmada hükümetin tarım politikalarını ve açıklanan hububat alım fiyatlarını sert sözlerle eleştirdi.\n\nBir yanda toplumun üretim gücünü temsil eden çiftçilerin, diğer yanda ise kumar ekonomisinin bulunduğunu belirten Arıkan, iktidarın çiftçinin maliyetlerini dikkate almadığını öne sürdü.\n\nGeçtiğimiz hafta açıklanan buğday ve arpa alım fiyatlarının üreticiyi memnun etmediğini dile getiren Arıkan, Tarım Politikaları Kurulu ile yaptıkları çalışmalarda buğday üretim maliyetlerini detaylı şekilde hesapladıklarını söyledi.\n\n\"Buğdayın maliyeti 24 liraya ulaşıyor\"\n\nArıkan'ın verdiği bilgilere göre dekarda 300 kilogram verim alınan bir buğday üretiminde kira, tarla hazırlığı, bakım, amortisman, hasat, işçilik ve finansman giderleri dikkate alındığında toplam maliyet 7 bin 830 liraya ulaşıyor.\n\nTemel destek ve sertifikalı tohum kullanım desteği düşüldüğünde dahi bir kilogram buğdayın maliyetinin yaklaşık 24 lira olduğunu ifade eden Arıkan, şunları söyledi:\n\n\"Tarım ÜFE yüzde 42 seviyesinde açıklandı. Hükümetin fiyat artışı ise yüzde 21'de kaldı. Çiftçi bu fiyatla kilo başına yaklaşık 7 lira zarar ediyor. Devlet buğday alım fiyatını 24 lira açıklarsa ancak maliyet karşılanabilir.\"\n\n\"Tarım da savunma sanayii kadar önemlidir\"\n\nTarımın yalnızca ekonomik bir faaliyet olarak değerlendirilmemesi gerektiğini vurgulayan Arıkan, tarımın ülke açısından stratejik önem taşıdığını belirterek şu ifadeleri kullandı:\n\n\"Nasıl savunma sanayii milli güvenlik meselesiyse, tarım da ülkemiz için bir milli güvenlik meselesidir.\"\n\n\"Çiftçiyi masa başında değil, tarlanın başında dinleyeceksiniz\"\n\nÇiftçilerin son dönemde yaşadığı ekonomik sıkıntılara dikkat çeken Arıkan, hak arama amacıyla traktörleriyle eylem yapan üreticilere ceza kesilmesini de eleştirdi.\n\nÇiftçinin sorunlarının cezalarla değil, üreticiyi dinleyerek çözülebileceğini savunan Arıkan, hükümete şu çağrılarda bulundu:\n\nÇiftçi masa başında değil, tarlada dinlenmeli.\n\nBuğday alım fiyatı hasat döneminde değil, ekim öncesinde açıklanmalı.\n\nÜreticiye maliyetinin üzerinde makul bir kar bırakılmalı.\n\nToprak Mahsulleri Ofisi ürün bedellerini teslim sırasında ödemeli.\n\nMeclis araştırması talebi\n\nToprak Mahsulleri Ofisi, Et ve Süt Kurumu ile ÇAYKUR'un yalnızca alım yapan kurumlar değil, piyasayı düzenleyen kuruluşlar olduğunu ifade eden Arıkan, bu kurumların asli görevlerinden uzaklaşmasının tarım piyasalarında daha büyük sorunlara yol açacağını söyledi.\n\nArıkan, Saadet Partisi olarak buğday ve arpa üreticilerinin yaşadığı sorunların araştırılması amacıyla TBMM'ye araştırma önergesi vereceklerini de açıkladı."
-    },
-    {
-      "title": "Erdoğan'dan çiftçiye yeni destek açıklaması: Buğday fiyatı değişmedi",
-      "url": "https://www.tarimdanhaber.com/erdogandan-ciftciye-yeni-destek-aciklamasi-bugday-fiyati-degismedi",
-      "source": "Tarımdan Haber",
-      "date": "2026-06-10",
-      "summary": "Hububat alım fiyatlarının düşük bulunması nedeniyle üreticilerden yükselen tepkiler Cumhurbaşkanı Erdoğan'a kadar ulaştı. Çiftçi, Toprak Mahsulleri Ofisi'nin açıkladığı buğday ve arpa alım fiyatlarında artış beklerken, Erdoğan TBMM Grup Toplantısı'nda ürün fiyatlarına ilişkin yeni bir düzenleme açık",
-      "content": "Haber Merkezi - Cumhurbaşkanı Recep Tayyip Erdoğan, AK Parti TBMM Grup Toplantısı'nda yaptığı konuşmada tarımsal üretime ilişkin önemli açıklamalarda bulundu. Yağışların son 66 yılın en yüksek seviyesine ulaştığını belirten Erdoğan, bu yıl birçok üründe yüksek rekolte beklediklerini söyledi.\n\nBarajlardaki doluluk oranının geçen yıla göre yüzde 26 artarak yüzde 81 seviyesine çıktığını kaydeden Erdoğan, buğday üretiminde yüzde 27, arpa üretiminde ise yüzde 50 artış beklediklerini ifade etti.\n\nErdoğan, geçen yıl kuraklık nedeniyle dekar başına 276 kilograma kadar düşen buğday veriminin bu yıl ortalama 400 kilogram seviyesine çıkacağını, bazı bölgelerde ise 700 kilograma ulaşabileceğini dile getirdi.\n\nTMO'nun açıkladığı fiyatlar tepki çekmişti\n\nCumhurbaşkanı Erdoğan'ın açıklamaları, hububat alım fiyatlarının üreticiler tarafından yoğun şekilde tartışıldığı bir dönemde geldi.\n\nBilindiği üzere Toprak Mahsulleri Ofisi, 2025 ürünü için ekmeklik ve makarnalık buğday alım fiyatını ton başına 16 bin 500 lira, arpa alım fiyatını ise ton başına 12 bin 750 lira olarak açıklamıştı.\n\nÖzellikle girdi maliyetlerindeki artış nedeniyle birçok üretici açıklanan fiyatların yetersiz kaldığını savunurken, alım fiyatlarının yeniden değerlendirilmesi yönünde talepler dile getirilmişti.\n\nÇiftçi fiyat artışı bekliyordu\n\nSektörde, çiftçilerin tepkilerinin Cumhurbaşkanı Erdoğan'a da iletildiği konuşulurken, üreticilerin temel beklentisi TMO'nun açıkladığı hububat alım fiyatlarında artış yapılması yönündeydi.\n\nAncak Erdoğan'ın konuşmasında buğday ve arpa alım fiyatlarına ilişkin yeni bir düzenleme açıklanmadı.\n\nBunun yerine üreticilerin artan maliyetlerinin destekleme ödemeleriyle telafi edilmesi yönünde bir adım atıldı.\n\n\"Destek tutarlarımızı artırıyoruz\"\n\nSon dönemde bölgede yaşanan savaşlar ve çatışmalar nedeniyle tarımsal üretim girdilerinde önemli artışlar yaşandığını belirten Erdoğan, çiftçilerin yükünü hafifletmek amacıyla yeni bir karar aldıklarını açıkladı.\n\nErdoğan şunları söyledi:\n\n\"Bu yıl için açıkladığımız temel destek ve planlama desteği tutarımızı, İran kriziyle birlikte girdi maliyetlerinde oluşan aşırı artışları göz önüne alarak güncelliyor, destek tutarlarımızı buna göre artırıyoruz.\"\n\nCumhurbaşkanı Erdoğan destek miktarlarının ne kadar artırılacağına ilişkin ise herhangi bir rakam paylaşmadı.\n\nGözler destek artışının detaylarında\n\nHububat üreticileri açısından şimdi gözler Tarım ve Orman Bakanlığı tarafından açıklanacak yeni destekleme rakamlarına çevrildi.\n\nAncak sektör temsilcileri, üreticinin temel beklentisinin ürün fiyatlarında güncelleme olduğunu belirterek, açıklanacak destek artışının bu beklentiyi karşılayıp karşılamayacağının önümüzdeki günlerde netleşeceğini ifade ediyor."
-    },
-    {
-      "title": "Yumaklı: IPARD III kapsamında 375,6 milyon lira hibe ödendi",
-      "url": "https://www.tarimpusulasi.com/haber/yumakli-ipard-iii-kapsaminda-3756-milyon-lira-hibe-odendi-46795",
-      "source": "Tarım Pusulası",
-      "date": "2026-06-10",
-      "summary": "Tarım ve Orman Bakanı İbrahim Yumaklı, IPARD III Programı kapsamında kırsaldaki girişimcilere mayıs ayında toplam 375,6 milyon lira hibe ödemesi yapıldığını açıkladı.",
-      "content": "ANKARA — Tarım ve Orman Bakanı İbrahim Yumaklı, IPARD III Programı kapsamında kırsal alanda üretim gerçekleştiren girişimcilere yönelik önemli bir finansal destek sağlandığını duyurdu. Bakan Yumaklı, mayıs ayı içerisinde üreticilere toplamda 375,6 milyon lira hibe ödemesi yapıldığını bildirdi.\n\nKırsal bölgelerdeki yatırımların kesintisiz devam ettiğini ve üretime tam destek verdiklerini vurgulayan Bakan Yumaklı, konuya ilişkin değerlendirmesinde şu ifadeleri kullandı:\n\n\"IPARD III Programı kapsamında kırsalda üretim yapan girişimcilerimize mayısta 375,6 milyon lira hibe ödemesi gerçekleştirdik. Kırsalı yerinde kalkındırıyor, Türkiye Yüzyılı'nı bereketle inşa ediyoruz.\"\n\nHibe Desteklerinin Sektörel Dağılımı\n\nBakan Yumaklı’nın paylaştığı verilere göre, mayıs ayında yapılan 375,6 milyon liralık hibe ödemesinin alt sektörlere göre dağılımı şu şekilde gerçekleşti:\n\nÇiftlik Faaliyetlerinin Çeşitlendirilmesi ve İş Geliştirme: 244 milyon 257 bin lira\n\nTarımsal İşletmelerin Fiziki Varlıklarına Yönelik Yatırımlar: 89 milyon 128 bin lira\n\nTarım ve Balıkçılık Ürünlerinin İşlenmesi/Pazarlanması: 24 milyon 815 bin lira\n\nLEADER Yaklaşımı ve Yerel Kalkınma Stratejileri: 17 milyon 449 bin lira\n\nYapılan bu ödemelerle birlikte kırsaldaki üretim altyapısının güçlendirilmesi ve istihdamın artırılması hedefleniyor.\n\nTARIM PUSULASI HABER MERHEZİ"
     }
   ],
   "commoditiesByBorsa": {
@@ -153,7 +153,7 @@
           "name": "Arpa",
           "unit": "₺/kg",
           "price": 11.34,
-          "change": -1.48,
+          "change": 0,
           "source": "Edirne TB",
           "date": "2026-06-11"
         },
@@ -254,7 +254,7 @@
       "name": "Arpa",
       "unit": "₺/kg",
       "price": 11.34,
-      "change": -1.48,
+      "change": 0,
       "source": "Edirne TB",
       "date": "2026-06-11"
     },
@@ -328,18 +328,5 @@
   "defaultBorsa": "5ED10",
   "defaultCity": "CANAKKALE",
   "note": "Fiyatlar TOBB ticaret borsasından (borsa seçilebilir). Kanola manuel (Trakya 2025).",
-  "inputsNote": "Mazot: akaryakıt bayi fiyatı, günlük (şehir seçilebilir). Gübre: manuel (yaklaşık).",
-  "errors": [
-    "fx: fetch failed",
-    "mazot ANKARA: fetch failed",
-    "mazot ISTANBUL: fetch failed",
-    "mazot IZMIR: fetch failed",
-    "mazot KONYA: fetch failed",
-    "mazot ADANA: fetch failed",
-    "mazot BURSA: fetch failed",
-    "mazot ANTALYA: fetch failed",
-    "mazot SAMSUN: fetch failed",
-    "mazot TEKIRDAG: fetch failed",
-    "mazot CANAKKALE: fetch failed"
-  ]
+  "inputsNote": "Mazot: akaryakıt bayi fiyatı, günlük (şehir seçilebilir). Gübre: manuel (yaklaşık)."
 }
