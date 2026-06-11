@@ -1,33 +1,33 @@
 {
-  "updatedAt": "2026-06-11T19:25:16.235Z",
+  "updatedAt": "2026-06-11T21:35:39.884Z",
   "fx": [
     {
       "code": "USD",
       "name": "Dolar",
-      "buy": 46.15,
-      "sell": 46.15,
-      "change": 0.05
+      "buy": 46.14,
+      "sell": 46.26,
+      "change": 0.01
     },
     {
       "code": "EUR",
       "name": "Euro",
-      "buy": 53.55,
-      "sell": 53.56,
-      "change": 0.53
+      "buy": 53.42,
+      "sell": 53.74,
+      "change": -0.13
     },
     {
       "code": "GRA",
       "name": "Gram Altın",
-      "buy": 6215.62,
-      "sell": 6216.53,
-      "change": 2.94
+      "buy": 6257,
+      "sell": 6257.85,
+      "change": 0.01
     },
     {
       "code": "CEYREKALTIN",
       "name": "Çeyrek Altın",
       "buy": 9801.16,
       "sell": 10027.48,
-      "change": -2.1
+      "change": 0
     },
     {
       "code": "CUMHURIYETALTINI",
@@ -38,6 +38,14 @@
     }
   ],
   "news": [
+    {
+      "title": "Mustafa Kaya: Kaçak pancarda büyük vurgunculara 2027'ye kadar koruma, dürüst çiftçiye jandarma denetimi",
+      "url": "https://www.tarimdanhaber.com/mustafa-kaya-kacak-pancarda-buyuk-vurgunculara-2027ye-kadar-koruma-durust-ciftciye-jandarma-denetimi",
+      "source": "Tarımdan Haber",
+      "date": "2026-06-11",
+      "summary": "Saadet Partisi İstanbul Milletvekili Mustafa Kaya, TBMM Genel Kurulu'nda görüşülen Şeker Kanunu'ndaki değişikliğe sert tepki gösterdi. Düzenlemenin yürürlük tarihinin 1 Ocak 2027 olarak belirlenmesini eleştiren Kaya, \"Bir anlamda yolsuzluğa takvim belirliyorsunuz\" dedi.",
+      "content": "Haber Merkezi - TBMM Genel Kurulu’nda Şeker Kanunu üzerine yapılan görüşmelerde Saadet Partisi İstanbul Milletvekili Mustafa Kaya, kanun teklifine eklenen bir madde ile \"yolsuzluğa resmi takvim\" oluşturulduğunu belirtti.\n\nŞeker pancarı ekim alanları dışından gelen pancarların cezalandırılmasını öngören ancak yürürlük tarihini 1 Ocak 2027 olarak belirleyen maddeyi hedef alan Kaya, bu durumun bir \"yağmaya teşvik\" olduğunu savundu.\n\n\"Kaçak Pancara 2027'ye Kadar Vize\"\n\nMustafa Kaya, kürsüden yaptığı konuşmada şunları söyledi:\n\n\"Bir taraftan 'ağır ceza getireceğiz' diyorsunuz, diğer taraftan yürürlük tarihini 1 Ocak 2027’ye erteliyorsunuz. Bu şu demek: 2027'ye kadar istediğiniz kadar kaçak pancar alın, kamu malını yağmalayın, size dokunmayacağız! Bu tarih asla tesadüf değil, bu bir yolsuzluk takvimidir.\"\n\n\"Dürüst Çiftçiye Jandarma, Vurguncuya İmtiyaz\"\n\nDürüst çiftçinin tarlasında jandarma ile denetleneceğini hatırlatan Kaya, \"Şimdilik kasanızı doldurabilirsiniz\" mantığıyla yasa yapılamayacağını belirterek yapılmak istenen değişikliğe tepki gösterdi. Kaya, \"Devlet ciddiyeti ile bağdaşmayan bu düzenleme ile kimleri kurtarmaya çalışıyorsunuz?\" sorusunu yöneltti.\n\n[youtube-video]https://www.youtube.com/shorts/onNdL-jz7Pw[/youtube-video]"
+    },
     {
       "title": "Suudi Arabistan'da buğday üretimi 1,3 milyon ton oldu",
       "url": "https://www.tarimpusulasi.com/haber/suudi-arabistanda-bugday-uretimi-13-milyon-ton-oldu-46807",
@@ -125,14 +133,6 @@
       "date": "2026-06-10",
       "summary": "Tarımsal sulamada sezonun en büyük korkusu; tıkanan damlama hatları ve bozulan sulama sistemleridir. Özellikle gölet, nehir veya kanal suyu kullanan çiftçiler için yosun ve kum, verimi düşüren gizli bir düşman. Peki, bu sorunu hasat sezonu ortasında yaşamamak için neler yapılabilir?",
       "content": "Haber Merkezi - Damlama sulama sistemleri, suyun doğrudan bitki köküne ulaşmasını sağlayarak büyük tasarruf sağlıyor. Ancak su kaynağındaki yosunlar, kum taneleri ve organik tortular; filtre sistemlerini aşıp boru deliklerini tıkayabiliyor. Bu durum hem sulama randımanını düşürüyor hem de tesisatı kurtarmak için ekstra iş gücü ve maliyet çıkarıyor.\n\nMobil Gravel Filtre Sistemi ile Kesintisiz Sulama\n\nSon dönemde çiftçilerin teknik ekipman tercihleri \"hız ve mobilite\" üzerine yoğunlaşıyor. Su-Tar 4x2 Gravel (Çakıl) Filtre Sistemi, özellikle tarladaki su kaynağı ile sulama hattı arasındaki \"koruma kalkanı\" görevi görüyor.\n\nBu sistem çiftçiye ne kazandırıyor?\n\nYosun ve Tortu Tutucu: İçerisindeki özel gravel (çakıl) katmanları, suyun içindeki en küçük partikülleri bile hapsederek temiz suyun hatlara gitmesini sağlıyor.\n\nMobil Kolaylık: Tekerlekli şasi yapısı sayesinde farklı parsel ve su kaynakları arasında kolayca taşınabiliyor.\n\nTıkanıklık Önleyici: Damlama borularının tıkanmasını engelleyerek, sistemin ömrünü uzatıyor ve damla noktalarındaki verim düşüşünü ortadan kaldırıyor."
-    },
-    {
-      "title": "Mahmut Arıkan: Çiftçi buğdayda kilo başına 7 lira zarar ediyor",
-      "url": "https://www.tarimdanhaber.com/mahmut-arikan-ciftci-bugdayda-kilo-basina-7-lira-zarar-ediyor",
-      "source": "Tarımdan Haber",
-      "date": "2026-06-10",
-      "summary": "Saadet Partisi Genel Başkanı Mahmut Arıkan, TBMM Grup Toplantısı'nda hububat alım fiyatlarını eleştirerek, çiftçinin açıklanan fiyatlarla üretime devam etmesinin zorlaştığını söyledi. Tarımın bir milli güvenlik meselesi olduğunu vurgulayan Arıkan, buğdayın maliyetinin yaklaşık 24 liraya ulaştığını b",
-      "content": "Haber Merkezi - Saadet Partisi Genel Başkanı Mahmut Arıkan, TBMM Grup Toplantısı'nda yaptığı konuşmada hükümetin tarım politikalarını ve açıklanan hububat alım fiyatlarını sert sözlerle eleştirdi.\n\nBir yanda toplumun üretim gücünü temsil eden çiftçilerin, diğer yanda ise kumar ekonomisinin bulunduğunu belirten Arıkan, iktidarın çiftçinin maliyetlerini dikkate almadığını öne sürdü.\n\nGeçtiğimiz hafta açıklanan buğday ve arpa alım fiyatlarının üreticiyi memnun etmediğini dile getiren Arıkan, Tarım Politikaları Kurulu ile yaptıkları çalışmalarda buğday üretim maliyetlerini detaylı şekilde hesapladıklarını söyledi.\n\n\"Buğdayın maliyeti 24 liraya ulaşıyor\"\n\nArıkan'ın verdiği bilgilere göre dekarda 300 kilogram verim alınan bir buğday üretiminde kira, tarla hazırlığı, bakım, amortisman, hasat, işçilik ve finansman giderleri dikkate alındığında toplam maliyet 7 bin 830 liraya ulaşıyor.\n\nTemel destek ve sertifikalı tohum kullanım desteği düşüldüğünde dahi bir kilogram buğdayın maliyetinin yaklaşık 24 lira olduğunu ifade eden Arıkan, şunları söyledi:\n\n\"Tarım ÜFE yüzde 42 seviyesinde açıklandı. Hükümetin fiyat artışı ise yüzde 21'de kaldı. Çiftçi bu fiyatla kilo başına yaklaşık 7 lira zarar ediyor. Devlet buğday alım fiyatını 24 lira açıklarsa ancak maliyet karşılanabilir.\"\n\n\"Tarım da savunma sanayii kadar önemlidir\"\n\nTarımın yalnızca ekonomik bir faaliyet olarak değerlendirilmemesi gerektiğini vurgulayan Arıkan, tarımın ülke açısından stratejik önem taşıdığını belirterek şu ifadeleri kullandı:\n\n\"Nasıl savunma sanayii milli güvenlik meselesiyse, tarım da ülkemiz için bir milli güvenlik meselesidir.\"\n\n\"Çiftçiyi masa başında değil, tarlanın başında dinleyeceksiniz\"\n\nÇiftçilerin son dönemde yaşadığı ekonomik sıkıntılara dikkat çeken Arıkan, hak arama amacıyla traktörleriyle eylem yapan üreticilere ceza kesilmesini de eleştirdi.\n\nÇiftçinin sorunlarının cezalarla değil, üreticiyi dinleyerek çözülebileceğini savunan Arıkan, hükümete şu çağrılarda bulundu:\n\nÇiftçi masa başında değil, tarlada dinlenmeli.\n\nBuğday alım fiyatı hasat döneminde değil, ekim öncesinde açıklanmalı.\n\nÜreticiye maliyetinin üzerinde makul bir kar bırakılmalı.\n\nToprak Mahsulleri Ofisi ürün bedellerini teslim sırasında ödemeli.\n\nMeclis araştırması talebi\n\nToprak Mahsulleri Ofisi, Et ve Süt Kurumu ile ÇAYKUR'un yalnızca alım yapan kurumlar değil, piyasayı düzenleyen kuruluşlar olduğunu ifade eden Arıkan, bu kurumların asli görevlerinden uzaklaşmasının tarım piyasalarında daha büyük sorunlara yol açacağını söyledi.\n\nArıkan, Saadet Partisi olarak buğday ve arpa üreticilerinin yaşadığı sorunların araştırılması amacıyla TBMM'ye araştırma önergesi vereceklerini de açıkladı."
     }
   ],
   "commoditiesByBorsa": {
