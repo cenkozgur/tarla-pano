@@ -1,43 +1,91 @@
 {
-  "updatedAt": "2026-06-12T06:20:39.977Z",
+  "updatedAt": "2026-06-12T10:49:55.004Z",
   "fx": [
     {
       "code": "USD",
       "name": "Dolar",
-      "buy": 46.26,
-      "sell": 46.26,
-      "change": 0.14
+      "buy": 462534,
+      "sell": 462709,
+      "change": 14
     },
     {
       "code": "EUR",
       "name": "Euro",
-      "buy": 53.55,
-      "sell": 53.56,
-      "change": -0.18
+      "buy": 535918,
+      "sell": 536081,
+      "change": -9
     },
     {
       "code": "GRA",
       "name": "Gram Altın",
-      "buy": 6218.87,
-      "sell": 6219.73,
-      "change": -0.6
+      "buy": 627236,
+      "sell": 627331,
+      "change": 25
     },
     {
       "code": "CEYREKALTIN",
       "name": "Çeyrek Altın",
-      "buy": 9801.16,
-      "sell": 10027.48,
-      "change": 0
+      "buy": 1010755,
+      "sell": 1033847,
+      "change": 31
     },
     {
       "code": "CUMHURIYETALTINI",
       "name": "Cumhuriyet Altını",
-      "buy": 40663,
-      "sell": 41278,
-      "change": -1.96
+      "buy": 41858,
+      "sell": 42491,
+      "change": 294
     }
   ],
   "news": [
+    {
+      "title": "Bakanlık duyurdu: Türkiye orman deklarasyonunu imzaladı",
+      "url": "https://www.tarimpusulasi.com/haber/bakanlik-duyurdu-turkiye-orman-deklarasyonunu-imzaladi-46810",
+      "source": "Tarım Pusulası",
+      "date": "2026-06-12",
+      "summary": "Tarım ve Orman Bakanlığı, İsveç'te gerçekleştirilen 10. Forest Europe Bakanlar Konferansı'nda Türkiye'nin \"Dirençli Toplumlar İçin Sürdürülebilir Ormanlar Deklarasyonu\"na imza attığını duyurdu. İklim değişikliği ve jeopolitik tehditlere karşı hazırlanan 27 maddelik deklarasyon, Pan-Avrupa bölgesinde",
+      "content": "ANKARA — Tarım ve Orman Bakanlığı, Pan-Avrupa bölgesindeki orman varlığının iklim değişikliği, radikal hava olayları, yangınlar ve çeşitli çevresel tehditlere karşı korunmasını amaçlayan uluslararası düzeyde kritik bir adım atıldığını açıkladı. Türkiye, küresel ekosistemin sürdürülebilirliği adına büyük önem taşıyan \"Dirençli Toplumlar İçin Sürdürülebilir Ormanlar Deklarasyonu\"nu imzalayarak taahhütlerini tescilledi.\n\nStokholm'de Kritik Zirve\n\nBakanlıktan yapılan açıklamaya göre, İsveç’in başkenti Stokholm’de düzenlenen 10. Forest Europe Bakanlar Konferansı’nda hükümetler arası iş birliği süreçleri masaya yatırıldı. Türkiye’yi Bakan Yardımcısı Abdülkadir Polat’ın temsil ettiği zirvede, kıta genelini kapsayan ve 27 maddeden oluşan geniş çaplı deklarasyon kabul edildi.\n\nGelecek Nesiller İçin Ortak Sorumluluk\n\nBakan Yardımcısı Polat’ın Türkiye adına imzaladığı belgede; hızla değişen çevresel, sosyal, ekonomik ve jeopolitik zorluklar karşısında dirençli ormanların korunmasının önemine dikkat çekildi. Sürdürülebilir orman yönetiminin, mevcut ve gelecek nesiller için hayati ekosistem hizmetleri sağlamaya devam etmesinin imzacı ülkelerin ortak sorumluluğunda olduğu aktarıldı. Sürdürülebilir ve döngüsel orman tabanlı biyoekonominin, fosil yakıt kaynaklarının yerini alması gerekliliği de mutabakat metninde yer buldu.\n\nOrmanlar \"Stratejik Varlık\" İlan Edildi\n\nAvrupa genelindeki ormanların zararlı böcek salgınları, hastalıklar, istilacı türler ve orman yangınlarından giderek daha fazla etkilendiğine işaret edilen deklarasyonda, kriz hazırlığı vurgulandı. Ormanların, ormancılık faaliyetlerinin ve lojistik altyapının, jeopolitik tehditler karşısında Pan-Avrupa bölgesinde toplumsal direnç oluşturabilecek \"stratejik varlıklar\" olduğu ilan edildi. Ayrıca, kırsal alanlarda genç nüfusu çekecek yeşil iş imkanlarının artırılması, uluslararası kabul görmüş eğitim sistemlerinin teşvik edilmesi ve BM Orman Forumu (UNFF), FAO gibi küresel aktörlerle sinerjinin güçlendirilmesi gerektiği kaydedildi.\n\nTARIM PUSULASI HABER MERKEZİ"
+    },
+    {
+      "title": "Bakanlık açıkladı: Nemrut'ta biyokaçakçılık yapanlara ceza",
+      "url": "https://www.tarimpusulasi.com/haber/bakanlik-acikladi-nemrutta-biyokacakcilik-yapanlara-ceza-46809",
+      "source": "Tarım Pusulası",
+      "date": "2026-06-12",
+      "summary": "Tarım ve Orman Bakanlığı, Adıyaman Nemrut Dağı bölgesinde yasa dışı yollarla 135 adet çekirge toplayarak biyokaçakçılık yapan yabancı uyruklu 3 şahsın yakalandığını ve şahıslara toplam 2 milyon 97 bin lira idari para cezası uygulandığını duyurdu.",
+      "content": "ADIYAMAN — Tarım ve Orman Bakanlığı, doğanın ve ekosistemin korunmasına yönelik yürütülen denetimler kapsamında Adıyaman'da büyük bir biyokaçakçılık faaliyetinin engellendiğini resmi sosyal medya hesabı üzerinden duyurdu. Nemrut Dağı bölgesi kırsalında gerçekleştirilen koruma ve kontrol faaliyetleri sırasında, bölgenin biyoçeşitliliğine zarar verecek şekilde hareket eden şahıslar suçüstü yakalandı.\n\n135 Çekirge ile Yakalandılar\n\nDoğa Koruma ve Milli Parklar Genel Müdürlüğü ekipleri tarafından gerçekleştirilen operasyonda, koruma altındaki doğal alanlardan yasa dışı yollarla toplandığı belirlenen 26 poşet içerisindeki toplam 135 adet çekirgeye el konuldu. Biyokaçakçılık faaliyeti yürüttüğü tespit edilen yabancı uyruklu 3 şahıs, ekipler tarafından kıskıvrak yakalanarak gözaltına alındı.\n\n2 Milyon Lirayı Aşan Dev Ceza\n\nDoğal mirasın korunması ve biyoçeşitliliğin sürdürülebilirliği çerçevesinde yakalanan 3 şüpheli hakkında Çevre Kanunu uyarınca toplam 2 milyon 97 bin liralık idari para cezası uygulandı. Yakalanan şahıslar hakkında ivedilikle adli ve idari yasal süreç başlatıldı.\n\nTarım ve Orman Bakanlığı tarafından yapılan açıklamada, ekosistemin dengesini bozacak ve doğal mirası tehlikeye atacak her türlü kanun dışı eylemin karşısında tavizsiz bir şekilde durulacağı, koruma ile kontrol faaliyetlerinin kararlılıkla sürdürüleceği vurgulandı.\n\nTARIM PUSULASI HABER MERKEZİ"
+    },
+    {
+      "title": "Adalet Bakanı Gürlek: 13 beyaz et firmasına kayyum atandı",
+      "url": "https://www.tarimpusulasi.com/haber/adalet-bakani-gurlek-13-beyaz-et-firmasina-kayyum-atandi-46808",
+      "source": "Tarım Pusulası",
+      "date": "2026-06-12",
+      "summary": "Adalet Bakanı Akın Gürlek, beyaz et sektöründe haksız fiyat artışı ve rekabet ihlali iddialarıyla 8 ilde eş zamanlı operasyon yapıldığını, aralarında Banvit, Erpiliç, Lezita ve Şenpiliç’in de bulunduğu 13 büyük şirkete denetim kayyımı atandığını açıkladı.",
+      "content": "ANKARA — Adalet Bakanı Akın Gürlek, vatandaşların temel gıda ürünlerine adil ve makul koşullarda ulaşabilmesini güvence altına almak amacıyla beyaz et sektörüne yönelik büyük bir adli operasyon başlatıldığını duyurdu. İstanbul Cumhuriyet Başsavcılığı koordinesinde ve İstanbul İl Emniyet Müdürlüğü tarafından 8 ilde eş zamanlı olarak gerçekleştirilen operasyon kapsamında, piyasa işleyişini bozarak haksız fiyat artışlarına yol açtığı değerlendirilen 13 dev beyaz et firmasına denetim kayyımı atandı.\n\nBakanlıklardan Ortak Koordinasyon Adalet, İçişleri, Ticaret ile Hazine ve Maliye Bakanlıklarının koordinasyon içinde hareket ettiğini belirten Bakan Gürlek, temel gıda tedarik zincirinin kesintiye uğramaması ve ticari faaliyetlerin hukuka uygun, şeffaf ve denetlenebilir şekilde sürdürülmesinin amaçlandığını vurguladı. Soruşturma sürecine Rekabet Kurumu, Piyasa Gözetimi ve Denetimi Genel Müdürlüğü ile Mali Suçları Araştırma Kurulu (MASAK) da kritik veri desteği sağladı.\n\n32 Üst Düzey Şüpheli Hakkında Gözaltı Kararı Yürütülen soruşturma kapsamında serbest rekabet ortamını ihlal ederek fiyatları tüketici aleyhine yönlendirmekle suçlanan, aralarında şirket CEO'ları, yönetim kurulu başkanları, finansman ve muhasebe müdürlerinin de bulunduğu 32 şüpheli hakkında gözaltı, arama ve el koyma işlemleri uygulandı.\n\nKayyum Atanan Sektör Temsilcileri ve Şüpheli Listesi Soruşturma dosyasında yer alan ve denetim kayyımı atanan 13 şirket şunlardır: Banvit, Akpiliç, Bakpiliç, Aspiliç, Bupiliç, Erpiliç, Gedik Pazarlama, Hastavuk, Keskinoğlu, Şenpiliç, Orvital, Aypi ve Lezita.\n\nOperasyona ilişkin şüpheli listesinde ise firmaların tepe yöneticileri yer alıyor:\n\nBanvit: Tolga Gündüz (CEO), Emre Karabatak (Muhasebe Müdürü), Levent Aytimur (Finans Yöneticisi)\n\nAkpiliç: Mustafa Fahrettin Aksoy (Yönetim Kurulu Başkanı)\n\nBakpiliç: Bahattin Bak (Şirket Ortağı), Seyfi Sedat Demirci (Muhasebe Müdürü)\n\nAspiliç: Galip Yeşilbaş (Yönetim Kurulu Başkanı), Arif Yakup Kaplan (Genel Müdür Yardımcısı)\n\nBupiliç: Onur Özkul (Yönetim Kurulu Üyesi), Mustafa Baramuk (Finansman Yöneticisi), Hüseyin Durmaz (Muhasebe Müdürü)\n\nErpiliç: Mehmet Aydın (Müdür Yardımcısı), Musa Erkal (Muhasebe Müdürü), Mustafa Ericek (Yönetim Kurulu Başkan Vekili)\n\nGedik Pazarlama: Nihat Özbey (Pazarlama Müdürü), Hüsniye Kara (Finansman Yöneticisi)\n\nHastavuk: Özer Usta (Genel Müdür), Özgür Yılmaz (Yönetim Kurulu Başkan Vekili)\n\nKeskinoğlu: Özer Matlı (Yönetim Kurulu Üyesi), Pınar Kap (Muhasebe Müdürü)\n\nŞenpiliç: Başak Kılıç (Muhasebe Müdürü), Zeynep Çiçek (Finansman Yöneticisi)\n\nOrvital: Batuhan Tiryakioğlu (Yönetim Kurulu Başkanı), Özkan Gültekin (Yönetici)\n\nAypi: İsmail Hakkı Aydın (Yönetim Kurulu Üyesi)\n\nLezita: Ergun Abalıoğlu (Yönetim Kurulu Üyesi), Muammer Harmancı (Genel Müdür Yardımcısı), Musa Örsan Dursun (Finansman Yöneticisi)\n\nBakan Gürlek açıklamasını, \"Hukuk devleti ilkeleri çerçevesinde; vatandaşlarımızın ekonomik haklarını zedeleyen, piyasa düzenini bozmaya teşebbüs eden ve haksız kazanç sağlamaya yönelik hiçbir usulsüzlüğe müsamaha gösterilmeyecektir\" sözleriyle tamamladı.\n\nTARIM PUSULASI HABER MERKEZİ"
+    },
+    {
+      "title": "Ziraat Odası Başkanı hesapladı: 1 Kg buğdayın maliyeti 19 TL'yi buldu",
+      "url": "https://www.tarimdanhaber.com/ziraat-odasi-baskani-hesapladi-1-kg-bugdayin-maliyeti-19-tlyi-buldu",
+      "source": "Tarımdan Haber",
+      "date": "2026-06-12",
+      "summary": "Eskil Ziraat Odası Başkanı Gazi Mutlu, buğday üretimindeki artan girdi maliyetlerini kalem kalem açıklayarak, üreticinin içine düştüğü zorlu ekonomik tabloyu gözler önüne serdi. \"Çalışarak batıyoruz\" diyen Mutlu, destekleme sistemindeki adaletsizliğe ve gecikmelere tepki gösterdi.",
+      "content": "Eskil Ziraat Odası Başkanı Gazi Mutlu, buğday üretimindeki girdi maliyetlerini kalem kalem çıkardı. 1 dekar buğdayın maliyeti 14 bin 100 TL’ye, 1 kilogram buğdayın maliyeti ise 19 TL’ye dayandı. \"Adaletsiz destek değil, emeğimizin karşılığını istiyoruz\" diyen Mutlu, tarımdaki \"çalışarak batma\" krizini gözler önüne serdi.\n\n\"Hesap Ortada: 1 Kg Buğday 19 TL'ye Mal Oluyor\"\n\nEskil Ziraat Odası Başkanı Gazi Mutlu, artan girdi maliyetlerinin üreticiyi sürdürülebilir bir üretim yapamaz hale getirdiğini ifade ederek hazırladığı maliyet cetvelini kamuoyuyla paylaştı. Taban ve üst gübrelerinden işçiliğe, tarla kirasından amortisman giderlerine kadar her kalemi tek tek hesaplayan Mutlu, bir dekar buğday üretmenin maliyetinin 14.100 TL’ye çıktığını kanıtladı.\n\n\"Mazot Fiyatı Yerinde Durmuyor, Destekleme Geç Geliyor\"\n\nDestekleme politikalarına da sert tepki gösteren Mutlu, tarımsal desteklerin açıklandığı dönem ile çiftçinin eline geçtiği dönem arasındaki zaman farkının üreticiyi nasıl zarara uğrattığını şu çarpıcı örnekle özetledi:\n\n\"6 Mart 2026 tarihinde desteklemesini alan çiftçimiz mazotun litresini 49 TL’den, sadece bir ay sonra 3 Nisan 2026 tarihinde alan çiftçimiz ise 78 TL’den mazot almak zorunda kaldı. Bu ekonomik koşullarda çiftçinin ayakta kalması mümkün değil.\"\n\n\"Üretmek İstiyoruz, Ama...\"\n\nGazi Mutlu, çiftçinin sadaka değil, emeğinin gerçek değerini istediğini vurgulayarak yetkililere şu mesajı verdi:\n\n\"Biz çiftçiler olarak üretmek, ülkemiz ve ailemiz için çalışmak istiyoruz. Ancak 'çalışarak batmak' istemiyoruz. Girdi maliyetlerinin düşürülmesi ve desteklemelerin adil, gerçekçi ve zamanında yapılması artık kaçınılmaz bir zorunluluktur.\""
+    },
+    {
+      "title": "Küçükbaş hayvancılıkta kritik görüşme: Bakan Yumaklı’dan \"Orman\" güvencesi",
+      "url": "https://www.tarimdanhaber.com/kucukbas-hayvancilikta-kritik-gorusme-bakan-yumaklidan-orman-guvencesi",
+      "source": "Tarımdan Haber",
+      "date": "2026-06-12",
+      "summary": "Tarım ve Orman Bakanı İbrahim Yumaklı, Tarımsal Üretim ve Küçükbaş Yetiştiricileri (TÜRKYED) Genel Başkanı Nihat Çelik’i makamında kabul etti. Yaklaşık bir saat süren görüşmede tarım ve hayvancılık sektörünün güncel sorunları, üreticilerin beklentileri ve çözüm önerileri ele alınırken, TÜRKYED taraf",
+      "content": "Haber Merkezi - TÜRKYED Genel Başkanı Nihat Çelik, görüşme sonrasında yaptığı açıklamada Bakan Yumaklı’nın yapıcı, samimi ve çözüm odaklı yaklaşımından duyduğu memnuniyeti dile getirerek, “Sayın Bakanımız ile sektörümüzün güncel sorunları ve çözüm önerileri üzerine son derece verimli bir görüşme gerçekleştirdik. Tarım ve hayvancılık sektörüne yaptığı hizmetler, samimi yaklaşımı ve çözüm odaklı bakış açısı nedeniyle Sayın Bakanımız İbrahim Yumaklı’ya şahsım ve sektörümüz adına teşekkür ediyorum.” dedi.\n\nÇelik, görüşmenin önemli başlıklarından birinin ormanlarda kontrollü otlatma uygulamaları olduğunu belirterek, Türkiye’nin en önemli doğal zenginliklerinden olan ormanların korunması, yangın risklerinin azaltılması, küçükbaş hayvancılığın desteklenmesi ve doğal yaşamın sürdürülebilirliğinin sağlanması amacıyla orman içi ve orman kenarı alanlarda kontrollü otlatmanın önemine dikkat çektiklerini ifade etti. Çelik, TÜRKYED’in bu konudaki görüş ve önerilerini Bakan Yumaklı'ya ilettiklerini, Yumaklı'nın da ormanların yetiştiricilerin kontrollü kullanımına açık olmaya devam edeceğini ve üreticilerin bu imkanlardan yararlanmayı sürdüreceğini ifade ederek sektör adına önemli bir güvence verdiğini söyledi.\n\nGörüşmede ayrıca küçükbaş hayvancılık desteklemelerinde aşı ve küpe kesintileri konusu da gündeme geldi. Çelik, “Sayın Bakanımızın yetiştiricilere yapılan destekleme ödemelerinde aşı ve küpe de dahil olmak üzere herhangi bir kesinti yapılmamasına yönelik yaklaşımı sektörümüz adına oldukça memnuniyet vericidir. Bu adımların üreticilerimizin maliyetlerini azaltacağına ve hayvancılığımızın gelişimine önemli katkılar sağlayacağına inanıyoruz.” ifadelerini kullandı.\n\nYem başta olmak üzere girdi maliyetlerinin düşürülmesi, mera sorunlarının giderilmesi, destekleme politikalarına ilişkin talepler ile aracılar ve fırsatçıların neden olduğu fahiş fiyat artışlarının önlenmesine yönelik çözüm önerilerinin de görüşmede ele alındığını belirten Çelik, uygulamasına yeni başlanan “Gelir Garantili Besicilik Projesi”’nin küçükbaş hayvancılığı da kapsayacak şekilde genişletilmesi yönündeki taleplerini Bakan Yumaklı’ya ilettiklerini ifade etti.\n\nGenel Başkan Çelik ayrıca, TÜRKYED tarafından yürütülen “Köydeki Değer” Projesi başta olmak üzere hayata geçirmeyi planladığı projeler hakkında da bilgi verdiklerini belirterek, Sayın Bakanın projelerin ortaya koyacağı katma değeri önemsediklerini ve memnuniyetle karşıladıklarını ifade ettiğini söyledi.\n\nBakan Yumaklı ile gerçekleştirilen verimli görüşmenin ardından, Tarımsal Üretim ve Küçükbaş Yetiştiricileri (TÜRKYED) Genel Merkez Yönetimi ile 9 il birlik başkanının da katılımıyla, Tarım ve Orman Bakan Yardımcısı Prof. Dr. Ahmet Gümen başkanlığında sektör açısından tarihi öneme sahip geniş kapsamlı bir zirve gerçekleştirildi.\n\nSaatler süren toplantıda küçükbaş hayvancılık sektörünün karşı karşıya bulunduğu sorunlar ve çözüm önerileri A’dan Z’ye ele alınırken; ilaç temini, küpe ve küpeleme ücretleri, üretim planlaması, destekleme politikaları, mera ve otlatma uygulamaları, yetiştiricilerin beklentileri ve sektörün geleceğine ilişkin konular ayrıntılı şekilde masaya yatırıldı. Karşılıklı istişare ortamında gerçekleşen zirve, çözüm odaklı yaklaşımı ve ortaya koyduğu ortak irade ile sektör adına önemli bir dönüm noktası olarak değerlendirildi.\n\nÖte yandan Genel Başkan Çelik, görüşme ve zirve sonunda Bakan Yumaklı’ya; tarımın sorunları ve çözüm önerileri, küçükbaş hayvancılıkta yaşanan sorunlar ve çözüm önerileri ile veteriner ilaçlarında fiyatlandırmaya ilişkin önerileri içeren raporlarla birlikte, TÜRKYED tarafından hazırlanan “Köydeki Değer” Projesi dosyasını da takdim etti."
+    },
+    {
+      "title": "Beyaz et sektöründe dev operasyon: 13 Şirkete kayyum, 32 gözaltı",
+      "url": "https://www.tarimdanhaber.com/beyaz-et-sektorunde-dev-operasyon-13-sirkete-kayyum-32-gozalti",
+      "source": "Tarımdan Haber",
+      "date": "2026-06-12",
+      "summary": "Adalet Bakanı Akın Gürlek, beyaz et sektöründe piyasa işleyişini bozarak haksız fiyat artışlarına yol açtıkları ve tüketiciyi mağdur ettikleri iddiasıyla yürütülen soruşturma kapsamında 8 ilde eş zamanlı operasyon düzenlendiğini duyurdu.",
+      "content": "Haber Merkezi - Türkiye'nin beyaz et üretiminde önde gelen dev markalarının da aralarında bulunduğu 13 şirkete \"denetim kayyumu\" atanırken, operasyonlarda 32 şüpheli gözaltına alındı.\n\nSektörün Dev İsimleri Gözaltında\n\nSoruşturma kapsamında gözaltına alınanlar arasında, şirketlerin üst düzey yöneticileri ve patronları da yer alıyor.\n\nGözaltına alınan önemli isimlerden bazıları şunlar:\n\nTolga Gündüz (Banvit CEO'su)\n\nNihat Özbey (Gedik Pazarlama Müdürü)\n\nÖzer Matlı (Keskinoğlu Yönetim Kurulu Üyesi)\n\nZeynep Çiçek (Şenpiliç Finansman Yöneticisi)\n\nBatuhan Tiryakioğlu (Orvital Yönetim Kurulu Başkanı)\n\nErgun Abalıoğlu (Lezita Yönetim Kurulu Üyesi)\n\nMuammer Harmancı (Lezita Genel Müdür Yardımcısı)\n\nDenetim Kayyumu Atanan 13 Şirket\n\nSoruşturma çerçevesinde piyasa dengelerini bozduğu iddia edilen ve yönetimine \"denetim kayyumu\" atanan şirketler ise şu şekilde sıralandı:\n\nBanvit, Akpiliç, Bakpiliç, Aspiliç, Bupiliç, Erpiliç, Gedik Pazarlama, Hastavuk, Keskinoğlu, Şenpiliç, Orvital, Aypi ve Lezita.\n\nBakan Gürlek: \"Tüketici Haklarını Korumakta Kararlıyız\"\n\nKonuya ilişkin sosyal medya hesabından bir açıklama yapan Adalet Bakanı Akın Gürlek, vatandaşların temel gıda ürünlerine adil ve makul koşullarda ulaşmasının en öncelikli konuları olduğunu vurguladı. Bakan Gürlek, \"Adalet, İçişleri, Ticaret ile Hazine ve Maliye Bakanlıklarımız, vatandaşımızın temel gıdaya erişimini korumak hedefi doğrultusunda koordinasyon ve eşgüdüm içinde hareket etmektedir\" ifadelerini kullandı."
+    },
     {
       "title": "Mustafa Kaya: Kaçak pancarda büyük vurgunculara 2027'ye kadar koruma, dürüst çiftçiye jandarma denetimi",
       "url": "https://www.tarimdanhaber.com/mustafa-kaya-kacak-pancarda-buyuk-vurgunculara-2027ye-kadar-koruma-durust-ciftciye-jandarma-denetimi",
@@ -85,54 +133,6 @@
       "date": "2026-06-11",
       "summary": "Tarım ve Orman Bakanlığı, Kırsalda Bereket Küçükbaşa Destek Projesi kapsamında asil ve yedek hak sahiplerinin belirlendiğini duyurdu. Başvuruları geçerli kabul edilen yetiştiriciler, sonuçlarını sistem üzerinden sorgulayabilecek ve süreç TİGEM koordinasyonunda yürütülecek.",
       "content": "ANKARA — Tarım ve Orman Bakanlığı tarafından kırsal kalkınmayı desteklemek amacıyla yürütülen \"Kırsalda Bereket Küçükbaşa Destek Projesi\" başvuru değerlendirme süreci tamamlandı. Küçükbaş Destek Başvuru sistemine girilen talepler, yapılan itirazlar ve resmi kontrollerin ardından il bazlı asil ve yedek hak sahibi listeleri kesinleşti. Proje kapsamında hangi ilde kaç üreticiye, kaç adet küçükbaş hayvan dağıtılacağı ise nesnel ve ölçülebilir kriterler üzerinden puanlanarak netleştirildi.\n\nİller ve Hak Sahipleri Özel Kriterlerle Belirlendi\n\nBakanlıktan yapılan açıklamaya göre, illerin hayvan dağıtım kontenjanları; Sosyo-Ekonomik Gelişmişlik Endeksi (SEGE), kaba yem ve mera ot karşılama oranları, mera varlığı, yem bitkisi ile hububat ekim alanları ve mevcut küçükbaş hayvan sayısı oranına göre puanlandı. Üreticilerin kendi aralarındaki sıralamasında ise kadın yetiştiricilere, 31 Aralık 2025 itibarıyla 41 yaşından gün almamış gençlere, engelli, gazi veya birinci derece şehit yakınlarına öncelik verildi. Ayrıca aile işletmeleri, hayvancılık eğitim belgesi olanlar, tarımsal amaçlı örgüt üyeleri ile Ziraat, Veteriner ve Gıda mühendisleri puanlamada avantaj sağladı. Puan eşitliği halinde sırasıyla kadın başvuru sahiplerine, yaşı daha genç olanlara ve TÜRKVET işletme kaydı daha eski olanlara öncelik tanındı.\n\nTİGEM Teslimat Sürecini Başlatıyor\n\nBaşvurusu kabul edilen üreticilere SMS ile bilgilendirme yapıldığını açıklayan Bakanlık, hak sahiplerinin sorgulama ekranı üzerinden işlemlerini takip etmesi gerektiğini bildirdi. Dağıtılacak hayvanlar Tarım İşletmeleri Genel Müdürlüğü (TİGEM) tarafından temin edilecek. TİGEM, resmi internet sitesi üzerinden gruplar halinde duyurular yayınlayarak üreticilerle iletişime geçecek ve teslimat yerlerini ilan edecek.\n\nKredi ve Alım İşlemleri İçin Kritik Süreler\n\nHak sahipleri, hayvan bedellerini TİGEM’in resmi internet sayfasında ilan edeceği güncel satış fiyatları üzerinden peşin ya da Ziraat Bankası kredisi ile ödeyebilecek. Sürecin aksamaması adına üreticilerin uyması gereken kritik yasal süreler bulunuyor. TİGEM duyurusunun ardından üreticilerin 5 iş günü içerisinde kredi işlemleri için Ziraat Bankası’na başvurması gerekiyor. Kapasite raporu dahil tüm kredili veya kredisiz satın alma işlemlerinin ise en geç 20 gün içinde tamamlanması zorunlu tutuldu. Süresi içinde TİGEM ile irtibata geçmeyen ve işlemlerini bitirmeyen yetiştiricilerin hak sahipliği iptal edilecek.\n\nTARIM PUSULASI HABER MERKEZİ"
-    },
-    {
-      "title": "Atlas Üniversitesi Öğretim Üyesi Ateş iklim krizini uyardı",
-      "url": "https://www.tarimpusulasi.com/haber/atlas-universitesi-ogretim-uyesi-ates-iklim-krizini-uyardi-46803",
-      "source": "Tarım Pusulası",
-      "date": "2026-06-11",
-      "summary": "İstanbul Atlas Üniversitesi Öğretim Üyesi Dr. H. İnci Ateş, 2026 Dünya Çevre Günü'nün \"İklim Eylemi\" teması altında küresel ısınmanın tarım, su ve ekosistem üzerindeki risklerini açıkladı.",
-      "content": "İSTANBUL — İstanbul Atlas Üniversitesi Meslek Yüksekokulu Çevre Sağlığı ve Çevresel Risk Yönetimi Teknikerliği Program Başkanı Dr. Öğr. Üyesi H. İnci Ateş, 2026 Dünya Çevre Günü'nün ana teması olan “İklim Eylemi” çerçevesinde önemli açıklamalarda bulundu. Küresel ısınmanın nedenleri, yol açtığı çevresel tehditler ve çözüm yollarına değinen Ateş; tarımsal üretimden halk sağlığına kadar pek çok alanın risk altında olduğunu vurguladı.\n\n\"Sera Gazları ve Tarımsal Emisyonlar Süreci Hızlandırıyor\"\n\nİklim değişikliğinin birincil sebebinin atmosfere salınan sera gazlarındaki artış olduğunu belirten Dr. H. İnci Ateş; fosil yakıt tüketimi, sanayileşme, ulaşım ağları, ormansızlaşma ve plansız kentleşmenin bu süreci doğrudan tetiklediğini ifade etti. Ateş, bu küresel etkenlerin yanı sıra tarımsal faaliyetlerden kaynaklanan emisyonların da atmosferdeki dengenin bozulmasında kritik bir rol oynadığının altını çizdi.\n\nTarımsal Üretim ve Su Kaynakları Tehlikede\n\nKüresel sıcaklık artışlarının yol açtığı kuraklık, sel, fırtına ve orman yangınları gibi aşırı hava olaylarının ekosisteme zarar verdiğini kaydeden Ateş, buzulların erimesiyle deniz seviyelerinin yükseldiğini ve doğal yaşam alanlarının daraldığını söyledi. Bu durumun tarımsal üretim, su kaynaklarının geleceği, halk sağlığı ve ekonomik sürdürülebilirlik üzerinde çok ciddi riskler oluşturduğuna dikkat çekti.\n\nÇözüm: Sürdürülebilir Tarım ve Bütüncül Politikalar\n\nKrizin etkilerini en aza indirmek için yenilenebilir enerji kaynaklarının yaygınlaştırılması ve karbon salımının azaltılması gerektiğini ifade eden Dr. H. İnci Ateş, ormanlar ile sulak alanların korunmasının ekosisteme direnç kazandıracağını belirtti. İklim eyleminin bütüncül politikalarla yürütülmesi gerektiğini savunan Ateş; sürdürülebilir tarım uygulamalarının desteklenmesi, atık yönetiminin güçlendirilmesi ve çevre dostu şehir planlamalarının hayata geçirilmesi çağrısında bulundu. Bireysel olarak da su tasarrufu, gıda israfının önlenmesi ve toplu taşıma kullanımının karbon ayak izini düşürmede büyük fark yaratacağını sözlerine ekledi.\n\nTARIM PUSULASI HABER MERKEZİ"
-    },
-    {
-      "title": "Milletvekili Aygun’dan Bakanlığa 2,5 liralık prim çağrısı",
-      "url": "https://www.tarimpusulasi.com/haber/milletvekili-aygundan-bakanliga-25-liralik-prim-cagrisi-46802",
-      "source": "Tarım Pusulası",
-      "date": "2026-06-11",
-      "summary": "CHP Tekirdağ Milletvekili Dr. İlhami Özcan Aygun, hububat piyasaları ve TMO'nun rolüne dair TBMM'de yaptığı konuşmada üreticinin alım gücündeki düşüşü verilerle ortaya koydu.",
-      "content": "ANKARA — Cumhuriyet Halk Partisi (CHP) Tekirdağ Milletvekili Dr. İlhami Özcan Aygun, Yeni Yol Grubu’nun “hububat piyasalarının düzenlenmesinde Toprak Mahsulleri Ofisi’nin (TMO) rolünün araştırılması” konulu meclis araştırma önergesi üzerine TBMM Genel Kurulunda söz aldı. Kürsüde çiftçinin ekonomik durumunu traktör, çeyrek altın ve Tekirdağ köftesi üzerinden kıyaslayarak anlatan Aygun, tarım sektöründeki borçlanma ve alım gücü kaybına dikkat çekti.\n\n\"Çiftçi Borcu 22 Yılda 258.5 Kat Arttı\"\n\nTMO’nun üreticinin kara gün dostu olmaktan çıktığını savunan Aygun, 2026 yılı için belirlenen ton başına 16 bin 500 TL’lik makarnalık ve ekmeklik buğday ile 12 bin 750 TL’lik arpa alım fiyatlarını eleştirdi. Mazot, gübre, tohum, ilaç, sulama ve işçilik gibi girdi maliyetlerinin çok yükseldiğini ifade eden Aygun, \"Çiftçinin Nisan 2026 itibarıyla bankalara olan toplam nakdi kredi borcu 1 trilyon 370 milyar TL’ye fırladı. 2004 yılında bu borç 5,3 milyar TL düzeyindeydi. Çiftçinin borcu 258,5 kat artmış durumda\" dedi.\n\n\"Altın ve Traktör Karşısında Erime Var\"\n\nÜreticinin alım gücündeki değişimi geçmiş yıllarla kıyaslayan Aygun, şu verileri paylaştı: \"2002 yılında buğdayın tonu 280 TL, çeyrek altın 20 TL idi. Çiftçi 71,5 kilo buğday satarak 1 çeyrek altın alabiliyordu. Bugün buğdayın kilosu 16,5 TL, çeyrek altın ise 10 bin 300 TL. Şimdi 1 çeyrek altın için 624 kilo buğday satmak zorunda. Traktörde de durum aynı; 2002'de 87.5 ton buğdayla alınan aynı marka traktör için bugün 212 ton buğday gerekiyor.\" Aygun, seçim bölgesi üzerinden de örnek vererek, çiftçinin 1 adet Tekirdağ köftesi yiyebilmek için 3 kilo buğday ya da 4 kilo arpa satması gerektiğini söyledi.\n\nBakanlıklara Prim Desteği Çağrısı\n\nHazine ve Maliye Bakanı Mehmet Şimşek ile Tarım ve Orman Bakanı İbrahim Yumaklı’ya seslenen CHP Tekirdağ Milletvekili Aygun, üretimde kalan üreticilere sahip çıkılması gerektiğini vurguladı. Aygun, müstahsil makbuzu üzerinden buğday ve arpa için kilogram başına yaklaşık 2,5 lira prim desteği verilmesini talep etti. Nüfus, sığınmacı ve turist sayısındaki artışa rağmen yıllık buğday üretiminin 24 yıldır 19-20 milyon ton bandında saydığını belirten Aygun, küresel gelişmeler nedeniyle artan gübre fiyatlarına karşı Romanya ve İspanya'dakine benzer acil mazot-gübre destek paketlerinin açıklanması çağrısında bulundu.\n\nTARIM PUSULASI HABER MERKEZİ"
-    },
-    {
-      "title": "TİM gıda sektörü yılın ilk beş ayında 4,8 milyar dolar ihraç etti",
-      "url": "https://www.tarimpusulasi.com/haber/tim-gida-sektoru-yilin-ilk-bes-ayinda-48-milyar-dolar-ihrac-etti-46801",
-      "source": "Tarım Pusulası",
-      "date": "2026-06-11",
-      "summary": "Türkiye'nin hububat ve bakliyat sektörü 2026'nın ilk beş ayında 4,8 milyar dolarlık ihracata imza atarken, TİM Sektör Kurulu Başkanı Nihat Uysallı rekor rekolte beklentilerini değerlendirdi.",
-      "content": "ANKARA — Türkiye İhracatçılar Meclisi (TİM) verilerine göre; ayçiçek yağı, çikolata, makarna, bisküvi, şekerleme ve un gibi temel gıda kalemlerini bünyesinde barındıran hububat, bakliyat, yağlı tohumlar ve mamulleri sektörü, 2026 yılının ilk beş ayında 4,8 milyar dolarlık ihracat gerçekleştirdi. Miktar bazındaki ihracat geçen yılın aynı dönemine göre yüzde 15,5 gerilese de dolar bazındaki birim fiyatlarında yaşanan yüzde 9,9’luk artış, değer bazındaki düşüşü yüzde 7,1 seviyesinde tuttu.\n\nAyçiçek Yağı Zirvede, İran Pazarında Büyük Sıçrama\n\nYılın ilk beş ayında ihracatını yüzde 16,8 artırarak 551,3 million dolara ulaştıran ayçiçek yağı sektörün lideri oldu. İkinci sırada ise yüzde 20,2 düşüşe rağmen 419,5 milyon dolarla çikolata ve kakaolu ürünler yer aldı. Makarna ile bisküvi-gofret grupları da 400 milyon dolar barajına ulaşan diğer ürünler oldu. En büyük pazarlardan Irak'ta yaşanan yüzde 28'lik daralma Orta Doğu pazarını yüzde 13,8 düşürürken, İran'a yapılan ihracat yüzde 34,6 artarak 147,1 milyon dolara yükseldi ve İran ilk 6 ülke arasına girdi.\n\n\"Maliyet Artışı Küresel Belirsizlikten Kaynaklı\"\n\nKüresel emtia piyasalarındaki zıt yönlü fiyat hareketlerine ve artan lojistik maliyetlerine dikkat çeken TİM Hububat, Bakliyat, Yağlı Tohumlar ve Mamulleri Sektör Kurulu Başkanı Nihat Uysallı, şu değerlendirmelerde bulundu: \"FAO verilerinin de gösterdiği gibi tahıl ve şeker fiyatları yukarı yönlü grafik çizerken, bitkisel yağlarda düşüş var. Jeopolitik risklerin enerji ve lojistikte yarattığı ek maliyetler ihracatçımızın rekabetçi fiyat tutturmasını zorlaştırıyor. Hacim bazındaki dönemsel gerileme pazar kaybından değil, küresel maliyet baskısındandır. Süreci dinamik lojistik altyapımızla soğukkanlı yönetiyoruz.\"\n\n\"TÜİK'in Rekor Rekolte Tahminleri Güven Veriyor\"\n\nKüresel baskılara karşı en büyük güvencenin tarımsal üretimdeki tarihi artışlar olduğunu vurgulayan Uysallı, TÜİK'in buğdayda yüzde 26,7, kırmızı mercimekte yüzde 54,1 ve ayçiçeğinde yüzde 16,2’lik yükselişe işaret eden rekor rekolte öngörülerinin sanayici için hayati bir hammadde arzı sağlayacağını belirtti. Uysallı, Toprak Mahsulleri Ofisinin (TMO) depo ve finansman imkanlarını organize ederek proaktif bir alım hazırlığı yürütmesinin iç piyasa istikrarı açısından büyük bir güven verdiğini ifade etti.\n\nTARIM PUSULASI HABER MERKEZİ"
-    },
-    {
-      "title": "Meyve sebze ihracatçılarından Bakan Bolat’a 10 milyar dolar sözü",
-      "url": "https://www.tarimpusulasi.com/haber/meyve-sebze-ihracatcilarindan-bakan-bolata-10-milyar-dolar-sozu-46800",
-      "source": "Tarım Pusulası",
-      "date": "2026-06-11",
-      "summary": "Meyve Sebze Mamulleri İhracatçı Birlikleri Başkanı Hayrettin Uçak, kotaların ve gümrük vergilerinin kaldırılmasını içeren raporu Ticaret Bakanı Ömer Bolat’a iletti.",
-      "content": "ANKARA — Türkiye Meyve Sebze Mamulleri İhracatçı Birlikleri Sektör Kurulu Başkanı Hayrettin Uçak, yaş meyve sebze ve mamulleri sektörünün ihracat potansiyelini tam anlamıyla hayata geçirebilmesi için kritik bir adım attı. Sektörün önündeki kota, gümrük vergisi ve destek taleplerini içeren kapsamlı rapor, Ticaret Bakanı Prof. Dr. Ömer Bolat’a sunuldu. Başkan Uçak, ikili görüşmelerle engellerin kaldırılması halinde kısa sürede 10 milyar dolarlık ihracat seviyesine ulaşılabileceğini vurguladı.\n\n\"DFİF Destekleri Yeniden Devreye Alınmalı\"\n\nKatma değerli ambalajlı ürün ihracatının küresel pazardaki rekabet gücü açısından stratejik önemine değinen Uçak, geçmiş dönemlerde uygulanan Destekleme ve Fiyat İstikrar Fonu (DFİF) desteklerinin ambalajlı ürün bazında yeniden hayata geçirilmesini talep ettiklerini belirtti.\n\nKuru Domates ve Salçada AB Kotası Engeli\n\nTürkiye'nin dünya kuru domates ticaretinde İtalya'nın ardından ikinci sırada yer aldığını ve 2025 yılında 189 milyon dolarlık ihracat gerçekleştirdiğini hatırlatan Uçak, Avrupa Birliği'nin uyguladığı 8 bin 900 tonluk kotanın yetersiz kaldığını söyledi. Uçak, \"Geçmişte 5-6 ayda dolan bu kotaya artık ocak ayı içinde ulaşıyoruz. AB kotasının kaldırılması ya da en az 40 bin tona çıkarılması için Sayın Bakanımızdan destek istedik\" dedi. Raporda ayrıca AB’nin salça kotalarının da artırılması gerektiği iletildi.\n\nMısır ve Ukrayna Pazarlarında Vergi Sorunu\n\nTürkiye'nin elma ihracat kapasitesinin yıllık 300 bin tona ulaştığını belirten Uçak, Mısır'ın Türk elmasına uyguladığı yüzde 40 gümrük vergisinin rekabeti zorlaştırdığını, bu verginin düşürülmesi için müzakere talep ettiklerini aktardı. Öte yandan, Ukrayna'nın domates ihracatına uyguladığı yüzde 10 gümrük vergisine ek olarak 22 Temmuz 2025 tarihinde yürürlüğe koyduğu yüzde 25'ten başlayan anti-damping vergilerinin haksız olduğunu belirten Uçak, kararın gözden geçirilmesi için iki ülke arasında diplomatik temas kurulmasını istediklerini söyledi.\n\n2026 Yılı İhracat Hedefi 7,5 Milyar Dolar\n\nBakan Bolat’ın taleplere çok olumlu ve yapıcı yaklaştığını ifade eden Hayrettin Uçak, sektörün büyüme rakamlarını paylaştı. 2025 yılını 6,3 milyar dolarla kapatan sektör, 2026’nın ilk 5 ayında (Ocak-Mayıs) ihracatını yüzde 18 artırarak 2 milyar 384 milyon dolardan 2 milyar 815 milyon dolara yükseltti. Uçak, hava koşullarının da üretime olumlu yansımasıyla 2026 yıl sonu hedeflerinin 7,5 milyar dolar olduğunu açıkladı.\n\nTARIM PUSULASI HABER MERKEZİ"
-    },
-    {
-      "title": "Çaykur’da sular durulmuyor: Skandal paylaşım sonrası \"Eldiven\" soruşturması",
-      "url": "https://www.tarimdanhaber.com/caykurda-sular-durulmuyor-skandal-paylasim-sonrasi-eldiven-sorusturmasi",
-      "source": "Tarımdan Haber",
-      "date": "2026-06-10",
-      "summary": "Rize’de Çaykur Genel Müdürü Yusuf Ziya Alim’in sosyal medya üzerinden eski Genel Müdür İmdat Sütlüoğlu’na yönelik hakaret içerikli bir paylaşımı retweetlemesiyle başlayan kriz, kurum içinde derinleşen bir yolsuzluk iddiası ve suç duyurusu sarmalına dönüştü.",
-      "content": "Haber Merkezi - Bölge kamuoyunda büyük infiale yol açan ve kurum içi ayrışmayı tetiklediği gerekçesiyle tepki toplayan söz konusu paylaşımın ardından, Genel Müdür Alim üzerindeki istifa baskıları artmıştı. Kamuoyu tepkisi sürerken, kurumun yönetim süreçlerine dair dikkat çekici bir iddia gündeme geldi.\n\n\"4 Bin Eldiven Alındı, 40 Bin Eldiven Ödemesi Yapıldı\" İddiası\n\nÇaykur'daki görevinden istifa etmesi çağrılarıyla karşı karşıya olan Genel Müdür Yusuf Ziya Alim'in, kurum bünyesindeki 17 memur hakkında savcılığa suç duyurusunda bulunduğu ortaya çıktı.\n\nİddiaların odağında ise kurumun gerçekleştirdiği bir eldiven alımı süreci yer alıyor. Söz konusu iddialara göre;\n\n-Kuruma sadece 4 bin adet eldiven girişi yapılmasına rağmen,\n\n-Ödemenin 40 bin adet eldiven üzerinden gerçekleştirildiği belirtiliyor.\n\n17 Memur Hedefte\n\nGenel Müdür Alim’in, söz konusu alım sürecinde görev alan komisyon üyeleri ve satın alma sürecinde imzası bulunan toplam 17 memuru \"yolsuzluk\" gerekçesiyle savcılığa şikayet ettiği kaydediliyor. Kurum içerisinde huzursuzluğu tırmandıran bu gelişme, \"yönetimsel zafiyet\" iddialarını gündeme getirdi.\n\nRize'de Tepkiler Çığ Gibi\n\nHem sosyal medya kriziyle kurumun itibarını zedelemekle suçlanan hem de yönettiği kurumda böylesi bir \"kayıp mal/fazla ödeme\" iddiasının ortaya çıkmasıyla eleştirilerin odağı haline gelen Yusuf Ziya Alim'in nasıl bir tutum sergileyeceği merak ediliyor. Eldiven alımı yolsuzluğunun Rize kamuoyundan saklanması da dikkat çekiyor."
-    },
-    {
-      "title": "Damlama sulama hattınız tıkanmasın: Yosun ve kum sorununa 'Mobil Filtre' çözümü",
-      "url": "https://www.tarimdanhaber.com/damlama-sulama-hattiniz-tikanmasin-yosun-ve-kum-sorununa-mobil-filtre-cozumu",
-      "source": "Tarımdan Haber",
-      "date": "2026-06-10",
-      "summary": "Tarımsal sulamada sezonun en büyük korkusu; tıkanan damlama hatları ve bozulan sulama sistemleridir. Özellikle gölet, nehir veya kanal suyu kullanan çiftçiler için yosun ve kum, verimi düşüren gizli bir düşman. Peki, bu sorunu hasat sezonu ortasında yaşamamak için neler yapılabilir?",
-      "content": "Haber Merkezi - Damlama sulama sistemleri, suyun doğrudan bitki köküne ulaşmasını sağlayarak büyük tasarruf sağlıyor. Ancak su kaynağındaki yosunlar, kum taneleri ve organik tortular; filtre sistemlerini aşıp boru deliklerini tıkayabiliyor. Bu durum hem sulama randımanını düşürüyor hem de tesisatı kurtarmak için ekstra iş gücü ve maliyet çıkarıyor.\n\nMobil Gravel Filtre Sistemi ile Kesintisiz Sulama\n\nSon dönemde çiftçilerin teknik ekipman tercihleri \"hız ve mobilite\" üzerine yoğunlaşıyor. Su-Tar 4x2 Gravel (Çakıl) Filtre Sistemi, özellikle tarladaki su kaynağı ile sulama hattı arasındaki \"koruma kalkanı\" görevi görüyor.\n\nBu sistem çiftçiye ne kazandırıyor?\n\nYosun ve Tortu Tutucu: İçerisindeki özel gravel (çakıl) katmanları, suyun içindeki en küçük partikülleri bile hapsederek temiz suyun hatlara gitmesini sağlıyor.\n\nMobil Kolaylık: Tekerlekli şasi yapısı sayesinde farklı parsel ve su kaynakları arasında kolayca taşınabiliyor.\n\nTıkanıklık Önleyici: Damlama borularının tıkanmasını engelleyerek, sistemin ömrünü uzatıyor ve damla noktalarındaki verim düşüşünü ortadan kaldırıyor."
     }
   ],
   "commoditiesByBorsa": {
@@ -152,10 +152,10 @@
           "key": "arpa",
           "name": "Arpa",
           "unit": "₺/kg",
-          "price": 11.34,
-          "change": 0,
+          "price": 11.33,
+          "change": -0.09,
           "source": "Edirne TB",
-          "date": "2026-06-11"
+          "date": "2026-06-12"
         },
         {
           "key": "aycicegi",
@@ -253,10 +253,10 @@
       "key": "arpa",
       "name": "Arpa",
       "unit": "₺/kg",
-      "price": 11.34,
-      "change": 0,
+      "price": 11.33,
+      "change": -0.09,
       "source": "Edirne TB",
-      "date": "2026-06-11"
+      "date": "2026-06-12"
     },
     {
       "key": "aycicegi",
