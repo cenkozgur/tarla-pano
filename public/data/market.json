@@ -1,43 +1,51 @@
 {
-  "updatedAt": "2026-06-12T16:46:22.860Z",
+  "updatedAt": "2026-06-12T18:31:37.302Z",
   "fx": [
     {
       "code": "USD",
       "name": "Dolar",
-      "buy": 462595,
-      "sell": 46268,
-      "change": 14
+      "buy": 46.26,
+      "sell": 46.27,
+      "change": 0.15
     },
     {
       "code": "EUR",
       "name": "Euro",
-      "buy": 535719,
-      "sell": 535933,
-      "change": -13
+      "buy": 53.59,
+      "sell": 53.61,
+      "change": -0.1
     },
     {
       "code": "GRA",
       "name": "Gram Altın",
-      "buy": 626634,
-      "sell": 626718,
-      "change": 16
+      "buy": 6288.29,
+      "sell": 6289.2,
+      "change": 0.51
     },
     {
       "code": "CEYREKALTIN",
       "name": "Çeyrek Altın",
-      "buy": 1009226,
-      "sell": 1032509,
-      "change": 297
+      "buy": 10092.26,
+      "sell": 10325.09,
+      "change": 2.97
     },
     {
       "code": "CUMHURIYETALTINI",
       "name": "Cumhuriyet Altını",
       "buy": 41798,
       "sell": 42431,
-      "change": 279
+      "change": 2.79
     }
   ],
   "news": [
+    {
+      "title": "Malatya Arguvan’da çiftçilerden TMO’nun hububat fiyatlarına protesto",
+      "url": "https://www.tarimpusulasi.com/haber/malatya-arguvanda-ciftcilerden-tmonun-hububat-fiyatlarina-protesto-46820",
+      "source": "Tarım Pusulası",
+      "date": "2026-06-12",
+      "summary": "Malatya’nın Arguvan ilçesinde bir araya gelen üreticiler, Toprak Mahsulleri Ofisi (TMO) tarafından açıklanan hububat alım fiyatlarını traktörleriyle konvoy oluşturarak protesto etti. Arguvan Ziraat Odası Başkanı Turan Aslantürk, maliyetlerin altında kalan fiyatların üreticiyi mağdur ettiğini belirte",
+      "content": "MALATYA — Malatya'nın Arguvan ilçesinde tarımsal üretim yapan çiftçiler, Toprak Mahsulleri Ofisi (TMO) tarafından 2026 yılı için açıklanan arpa ve buğday alım fiyatlarına tepki göstermek amacıyla traktörleriyle bir araya geldi. Yoğun katılımın gözlendiği eylemde üreticiler, artan girdi maliyetleri karşısında açıklanan fiyatların yetersiz olduğunu vurguladı.\n\nEylem alanında söz alan ilk üretici, üretim süreçlerinin sürdürülebilirliğine dikkat çekerek şu ifadeleri kullandı:\n\n\"Bu çiftçi bu üretimi nasıl yapacak, bu üretime nasıl devam edecek? Buğday için verilen fiyat 16,5 lira. Ve bizim yaptığımız ve uzmanların yaptığı hesaplara göre buğdayın birim fiyatı, bize maliyeti 18 lira ile 18,5 lira arasında değişiyor.\"\n\n\"Maliyetler Yükseldi, Fiyatlar Hayal Kırıklığı Yarattı\"\n\nProtesto kapsamında üreticiler adına kitlesel açıklamayı Arguvan Ziraat Odası Başkanı Turan Aslantürk yaptı. İlçe belediye başkanı, muhtarlar, sivil toplum örgütü temsilcileri ve üreticilerin katıldığı ortak basın açıklamasında konuşan Aslantürk, tarımsal girdilerdeki fahiş artışlara değindi.\n\nMazot, gübre, sertifikalı tohum, zirai ilaç, işçilik, elektrik ve su maliyetlerinin tavan yaptığı bir dönemden geçildiğini belirten Aslantürk, açıklanan hububat alım fiyatlarının üreticide büyük bir hayal kırıklığı yarattığını dile getirdi.\n\nEnflasyon ve Alım Fiyatı Dengesi Eleştirildi\n\nTürkiye İstatistik Kurumu (TÜİK) tarafından açıklanan resmi enflasyon verileri ile TMO’nun artış oranları arasındaki çelişkiye vurgu yapan Aslantürk, konuşmasını şöyle sürdürdü:\n\n\"Resmi enflasyon rakamları da dahil, TÜİK'in açıkladığı resmi enflasyon rakamları yüzde 30 olmasına rağmen, TMO'nun açıkladığı arpa fiyatı yüzde 15, buğday fiyatı yüzde 20 olarak belirlenmiştir. Bu durum hiçbir şekilde kabul edilemez. Biz, ürettiğimiz ürünle ettiğimiz masrafı karşılayamaz durumdayız.\"\n\n\"Tarlalar Boş Kalabilir\"\n\nÇiftçinin tüm sermayesini ve emeğini bir yıl boyunca toprağa yatırdığını ancak karşılığını alamadığını ifade eden Arguvan Ziraat Odası Başkanı, mevcut fiyat politikalarının üretimi durma noktasına getireceğini savundu. Düşük fiyatlar nedeniyle mağdur olan üreticilerin önümüzdeki ekim döneminde tarlalarını boş bırakmak zorunda kalabileceği uyarısında bulunan Aslantürk, \"Bizler devletimizin ve milletimizin her zaman yanında olan üreticileriz. Ancak çiftçinin sesinin duyulmasını, maliyetlerin dikkate alınmasını ve alım fiyatlarının yeniden gözden geçirilmesini talep ediyoruz\" diyerek yetkililere çağrıda bulundu.\n\nTARIM PUSULASI HABER MERKEZİ"
+    },
     {
       "title": "Konya Ticaret Borsası'nda arpa fiyatı geriledi! İşte 12 Haziran hububat piyasası",
       "url": "https://www.tarimdanhaber.com/konya-ticaret-borsasinda-arpa-fiyati-geriledi-iste-12-haziran-hububat-piyasasi",
@@ -117,14 +125,6 @@
       "date": "2026-06-12",
       "summary": "Nilüfer Belediye Başkanı Şadi Özdemir, düzenlenen \"Kent Buluşmaları\" toplantısında ilçenin geleceğine yön verecek tarım ve turizm vizyonunu açıkladı. Nilüfer'in verimli topraklarını koruma kararlılığını vurgulayan Özdemir; Fadıllı, Akçalar, Gölyazı ve Ayvaköy'ü kapsayan dev turizm destinasyonu proje",
       "content": "BURSA — Nilüfer Belediye Başkanı Şadi Özdemir, ilçenin geleceğini şekillendirecek vizyon projelerini ve kent gündemini değerlendirmek üzere basın mensuplarıyla bir araya geldi. Fadıllı Mahallesi’nde yeni açılan NİLBEL Leylek Kafe ve Restoran’da gerçekleştirilen geniş katılımlı toplantıya Nilüfer Belediye Başkan Yardımcıları, Nilüfer Organize Sanayi Bölgesi (NOSAB) Başkanı Erol Gülmez, Fadıllı Mahalle Muhtarı Nail Gülmez ve çok sayıda basın mensubu katıldı. Toplantının açılışında konuşan Başkan Şadi Özdemir, bu buluşmaları kentte ortak akıl üretmek ve şeffaf bir yönetim anlayışı sergilemek amacıyla düzenlediklerini ifade etti.\n\n“Her Yerde Sanayi Kurabiliriz Ama Tarım Yapamayız”\n\nNilüfer’in yüzölçümünün yüzde 74,5’inin tarım, orman ve mera alanlarından oluştuğunu hatırlatan Başkan Şadi Özdemir, sanayi odaklı nüfus baskısına karşı önemli uyarılarda bulundu. İlçede 6 organize sanayi bölgesi ve 5 binin üzerinde küçük işletme yer aldığını belirten Özdemir, \"Her yerde konut yapabiliriz, her yerde sanayi kurabiliriz ama her yerde tarım yapamayız. Gelecekte gıda ve su krizi dünyada savaşların sebebi olacak. Bu verimli toprakların elden gitmemesi gerekiyor\" dedi. Göreve gelirken gençler, kadınlar, dezavantajlı gruplar ve tarım alanları olmak üzere dört temel hassasiyet belirlediklerini söyleyen Başkan Özdemir, tarımda sürdürülebilirliğin ancak üreticinin kazanmasıyla mümkün olduğunu ve üretici yaş ortalamasının 60’ın üzerine çıktığını vurguladı.\n\nDört Mahalleye Dev Turizm ve Destinasyon Projesi\n\nFadıllı, Akçalar, Gölyazı ve Ayvaköy bölgelerini entegre bir turizm destinasyonuna dönüştürmek istediklerini açıklayan Başkan Şadi Özdemir, iki yıldır bu hat üzerinde titizlikle çalıştıklarını belirtti. Japon Seyahat Acenteleri Birliği’nin dünyada gezilmesi gereken 30 yer arasında Türkiye’den yalnızca Gölyazı’yı gösterdiğini hatırlatan Özdemir, stratejik projeleri şu şekilde sıraladı:\n\nGölyazı: Antik amfitiyatrodaki kazı çalışmalarının tamamlandığını belirten Özdemir, Anıtlar Kurulu onayının ardından burayı konser alanına dönüştüreceklerini ve Gölyazı ile Leylek Kafe arasında yolcu taşıyacak bir yüzer iskele inşa edeceklerini duyurdu.\n\nFadıllı: Bölgede bulunan Havacılık ve Doğa Sporları Merkezi daha kapsamlı hale getirilerek geliştirilecek.\n\nAyvaköy: Seyir tepesi oluşturulacak, uzaktan çalışan profesyoneller için bir \"dijital köy\" kurulacak ve 4,5 kilometresi botla gezilebilen dünyaca ünlü Ayvaini Mağarası turizme tam anlamıyla kazandırılacak.\n\nHollanda Modeli Kooperatifçilik Vurgusu\n\nTarımda planlı üretim ve örgütlenmenin kaçınılmaz olduğunu ifade eden Başkan Şadi Özdemir, Hollanda’nın kooperatifçilik yapısını örnek gösterdi. Hollanda'nın Konya'dan biraz büyük bir yüzölçümüne sahip olmasına rağmen yıllık 135 milyar dolarlık tarım ihracatı gerçekleştirdiğine dikkat çeken Özdemir, \"Çünkü her ürünün kooperatifi var ve üretim planlı yapılıyor. Biz de ürünlerimizi kendi kooperatiflerimizde toplarsak fiyatı belirleme şansı doğrudan üreticide olur\" diyerek konuşmasını tamamladı. Başkan Özdemir, açıklamalarının ardından basın mensuplarının kent gündemine dair sorularını yanıtladı.\n\nTARIM PUSULASI HABER MERKEZİ"
-    },
-    {
-      "title": "Bursa'da protokol imzalandı: Öğrenciler zeytin fidanı dikti",
-      "url": "https://www.tarimpusulasi.com/haber/bursada-protokol-imzalandi-ogrenciler-zeytin-fidani-dikti-46812",
-      "source": "Tarım Pusulası",
-      "date": "2026-06-12",
-      "summary": "Marmarabirlik ve Bursa İl Millî Eğitim Müdürlüğü arasında imzalanan mesleki eğitim iş birliği protokolü kapsamında, Hamidiye Mesleki ve Teknik Anadolu Lisesi’nde bin 160 adet alım garantili zeytin fidanı öğrenciler tarafından toprakla buluşturuldu.",
-      "content": "BURSA — Mesleki ve teknik eğitimin uygulamalı üretim olanaklarını güçlendirmek amacıyla Bursa İl Millî Eğitim Müdürlüğü ile Marmarabirlik arasında önemli bir iş birliği protokolü imzalandı. Anlaşma kapsamında, Hamidiye Mesleki ve Teknik Anadolu Lisesi’nin uygulama alanında geleceğe uzanacak zeytin ağaçları için fidan dikim töreni gerçekleştirildi. Etkinliğe Marmarabirlik Yönetim Kurulu Başkanı Ali Yıldız, Bursa İl Millî Eğitim Müdürü Gürhan Çokgezer, Bursa Ticaret Borsası Yönetim Kurulu Başkan Yardımcısı İbrahim Özhan, okul yöneticileri, öğretmenler ve öğrenciler katılım sağladı.\n\nBin 160 Alım Garantili Fidan Toprakla Buluştu\n\nProje kapsamında Marmarabirlik tarafından okulun uygulama arazisine yetiştirilmek üzere Gemlik, Edremit ve Domat tipi olmak üzere alım garantili toplam bin 160 zeytin fidanı kazandırıldı. Protokol sayesinde öğrencilerin zeytin yetiştiriciliğini teoriden pratiğe dökerek uygulamalı olarak öğrenmeleri, üretim süreçlerini sahada yerinde deneyimlemeleri ve tarımsal üretime yönelik mesleki becerilerini doğrudan geliştirmeleri hedefleniyor.\n\nTörende konuşan Bursa İl Millî Eğitim Müdürü Gürhan Çokgezer, mesleki eğitimin üretim faaliyetleriyle iç içe yürütülmesinin stratejik önemine dikkat çekti. Dikilen fidanların bakım ve gelişim süreçlerinin bizzat öğrenciler tarafından takip edileceğini belirten Çokgezer, gençlerin kendi emekleriyle büyütecekleri ağaçlar sayesinde hem tarımsal bilgi kazanacaklarını hem de üretim kültürünü yaşayarak öğreneceklerini ifade etti.\n\n\"Zeytin Yalnızca Ekonomik Değer Değil, Kültürel Mirastır\"\n\nMarmarabirlik Yönetim Kurulu Başkanı Ali Yıldız ise zeytinin sadece ekonomik bir meta değil, aynı zamanda kültürel bir miras olduğunu vurgulayarak gençlerin bu bilinçle yetişmesinin önemine değindi. Yıldız, eğitim kurumlarıyla yapılan ortak projeleri çok önemsediklerini belirterek, Marmarabirlik'in yalnızca üretici ortaklarının yanında yer alan bir tarım kuruluşu olmadığını, tarımsal eğitimin gelişmesi adına sosyal sorumluluk projelerini kararlılıkla sürdüreceğini kaydetti.\n\nKonuşmaların ardından protokol heyeti ve öğrenciler, zeytin fidanlarını hep birlikte toprakla buluşturarak ilk can suyunu verdi. Eğitim ile üretimi bir araya getiren bu örnek model, öğrencilerin mesleki gelişimlerine katkı sağlamanın yanı sıra sürdürülebilir tarım bilincinin yaygınlaşmasına da katkı sunacak.\n\nTARIM PUSULASI HABER MERKEZİ"
     },
     {
       "title": "Ziraat Odası Başkanı hesapladı: 1 Kg buğdayın maliyeti 19 TL'yi buldu",
