@@ -1,33 +1,33 @@
 {
-  "updatedAt": "2026-06-15T18:09:22.381Z",
+  "updatedAt": "2026-06-15T21:23:52.194Z",
   "fx": [
     {
       "code": "USD",
       "name": "Dolar",
-      "buy": 462737,
-      "sell": 462892,
-      "change": 3
+      "buy": 462876,
+      "sell": 462939,
+      "change": 0
     },
     {
       "code": "EUR",
       "name": "Euro",
-      "buy": 537295,
-      "sell": 537445,
-      "change": 32
+      "buy": 536237,
+      "sell": 537658,
+      "change": 1
     },
     {
       "code": "GRA",
       "name": "Gram Altın",
-      "buy": 642856,
-      "sell": 642952,
-      "change": 243
+      "buy": 641295,
+      "sell": 641381,
+      "change": 0
     },
     {
       "code": "CEYREKALTIN",
       "name": "Çeyrek Altın",
       "buy": 1053789,
       "sell": 1077834,
-      "change": 351
+      "change": 0
     },
     {
       "code": "CUMHURIYETALTINI",
@@ -39,12 +39,12 @@
   ],
   "news": [
     {
-      "title": "İthal ete gizli zam: ESK'dan PERDER üyesi marketlere yüzde 28 zam geldi!",
-      "url": "https://www.tarimdanhaber.com/ithal-ete-gizli-zam-eskdan-perder-uyesi-marketlere-yuzde-28-zam-geldi",
-      "source": "Tarımdan Haber",
+      "title": "Ankara Gölbaşı’nda alternatif tarım: Karabuğday toprakla buluştu",
+      "url": "https://www.tarimpusulasi.com/haber/ankara-golbasinda-alternatif-tarim-karabugday-toprakla-bulustu-46831",
+      "source": "Tarım Pusulası",
       "date": "2026-06-15",
-      "summary": "Beyaz ette 'fahiş fiyat' incelemesi devam ederken, kırmızı ette Bakanlık eliyle zam! İthalat maliyetlerinde artış yokken ESK, PERDER üyesi marketlerdeki kırmızı ete yüzde 24 ile 28 oranında zam yaptı. Tarım Bakanlığı eliyle gelen bu artış, zamanlama bakımından şaşkınlıkla karşılandı.",
-      "content": "Sadettin İnan / Et ve Süt Kurumu (ESK), vatandaşın uygun fiyattan kırmızı et tüketmesi için uyguladığı PERDER üyesi marketler üzerinden satışını yaptığı ithal ete yüzde 24 ile 28 oranında zam yaptı. Adalet Bakanlığı tarafından, beyaz et sektöründe fahiş fiyat uygulandığı gerekçesiyle inceleme başlatılırken, diğer taraftan döviz kurunda bir artış olmamasına rağmen Tarım Bakanlığının ithal et fiyatlarına yüksek oranda zam yapması, tarım ve gıda politikalarında yaşanan koordinasyonsuzluğu gözler önüne serdi.\n\nDAR GELİRLİ VATANDAŞLAR İÇİN PERDER ÜYESİ MARKETLERDE İNDİRİMLİ ET SATIŞI YAPILIYORDU!\n\nBilindiği üzere ESK, dar gelirli vatandaşın kırmızı ete ulaşımını kolaylaştırmak üzere PERDER üyesi marketlerle bir anlaşma yaparak ithal etin bu marketlerde daha düşük fiyattan satılmasını sağlıyordu. Mevcut piyasa 600 ile 1000 lira arasında satılan kıyma PERDER üyesi marketlerde 485 liraya, yine piyasada ortalama 800 ile 1200 lira arasında satılan kuşbaşı da 510 liradan satılıyordu.\n\nVATANDAŞIN ETİNE YÜZDE 28 KURUMSAL ZAM!\n\nESK, PERDER üyesi marketlerde satışını yaptığı kıyma ve kuşbaşı eti fiyatına yüzde 24 ile 28 oranında bir zam yaptı. Yapılan zamla birlikte kıyma satış fiyatı 600 liraya, kuşbaşı etin fiyatı da 650 liraya çıkarıldı. Döviz kurunda ve ithalat tarafında bir fiyat artışı söz konusu değilken ithal ete yapılan bu yüksek orandaki zam dikkat çekti.\n\nESK’nın piyasayı regüle etmek için satışını yaptığı ithal ete yüksek oranda zam yapması, piyasa fiyatlarını da doğrudan yukarı çeken bir etki oluşturacak.\n\nZAMANLAMASI DİKKAT ÇEKTİ!\n\nDiğer yandan ithal et fiyatlarına yapılan zammın zamanlaması da dikkat çekti. Ticaret Bakanlığı ve Adalet Bakanlığı beyaz et sektöründe fahiş fiyat artışları gerekçesiyle geniş kapsamlı bir inceleme başlatırken, diğer yandan Tarım Bakanlığının tam bu incelemenin devam ettiği bir süreçte ithal et fiyatlarına yüksek oranda zam yapması gıda fiyatlarında yaşanan çelişkiyi gözler önüne serdi."
+      "summary": "Ankara Gölbaşı Belediye Başkanı Yakup Odabaşı, ilçede kuraklığa dayanıklı, yüksek katma değerli ve 90 günde hasat edilebilen alternatif ürün karabuğday ekiminin başladığını açı投ladı. Ankara Büyükşehir Belediyesi iş birliğiyle yürütülen projeyle aynı zamanda \"Karabuğday Balı\" üretimi için de Ar-Ge ça",
+      "content": "ANKARA — Ankara’nın Gölbaşı ilçesinde alternatif tarım uygulamalarını yaygınlaştırmak ve üreticilere yüksek kazançlı model sunmak amacıyla stratejik bir adım atıldı. Gölbaşı Belediye Başkanı Yakup Odabaşı, ilçenin iklim yapısına tam uyum sağlayan karabuğday bitkisinin toprakla buluşturulduğunu duyurdu. Projenin yerel ekonomiye ve tarımsal çeşitliliğe yeni bir soluk getirmesi hedefleniyor.\n\n90 Günde Hasat ve İkinci Ürün Avantajı\n\nGölbaşı Belediye Başkanı Yakup Odabaşı, resmî sosyal medya hesabından yaptığı açıklamada, alternatif tarım uygulamalarıyla çiftçinin yüzünü güldürmeyi amaçladıklarını belirtti. Karabuğday tercihinin gerekçelerini sıralayan Odabaşı, şu bilgileri verdi:\n\n\"Çiftçimizin yüzünü güldürecek, iklimimize tam uyumlu karabuğdaylarımızı toprakla buluşturarak üretime değer katıyor, alternatif tarım uygulamalarını yaygınlaştırıyoruz. 90 günde hasat imkânıyla çiftçimize ikinci ürün ekme fırsatı sunuyoruz. Glütensiz ve besin değeri yüksek bir alternatifi ilçemize kazandırıyoruz. Kuraklığa dayanıklı yapısıyla bütçe dostu bir üretim sağlıyoruz. ABB iş birliğiyle kovanlarımızı yerleştirerek 'Karabuğday Balı' için Ar-Ge çalışmaları yürütüyoruz.\"\n\nÜç Mahallede Üretim Başladı, Gübre ve İlaç İhtiyacı Yok\n\nProjenin detaylarına ilişkin teknik bilgileri paylaşan Karabuğday Projesi Koordinatörü Bilgecan Cihangir ise Gölbaşı tarımında yeni bir sayfa açtıklarını vurguladı. Katma değeri yüksek olan bu bitkinin ilçedeki üç mahallede ekildiğini belirten Cihangir, karabuğdayın düşük maliyet yapısıyla tam bir \"çiftçi dostu\" olduğunu ifade etti.\n\nKarabuğdayın gelişiminin oldukça hızlı olduğunu ve gübre ile ilaçlama ihtiyacı duymadığı için üretim maliyetlerini minimuma indirdiğini kaydeden Cihangir, bitkinin kuraklığa karşı dirençli yapısıyla da öne çıktığını belirtti.\n\nAnkara Büyükşehir Belediyesi ile Ortak \"Ar-Ge\" Çalışması\n\nProjenin sadece bitkisel üretimle sınırlı kalmadığı, arıcılık faaliyetlerini de destekleyeceği açıklandı. Karabuğdayın arılar için zengin bir nektar kaynağı oluşturması avantajından yararlanmak adına Ankara Büyükşehir Belediyesi (ABB) Kırsal Hizmetler Dairesi Başkanlığı ile ortak bir çalışma başlatıldı. Ekili alanlara arı kovanları yerleştirilerek, bölgeye özgü \"Karabuğday Balı\" üretimi için Ar-Ge faaliyetlerine başlandı.\n\nGölbaşı Belediyesi, üreticilerin ihtiyaçlarını analiz ederek toprağa değer katacak alternatif ürün çalışmalarını sürdüreceğini bildirirken, koordinasyon ekibi \"Biliyoruz ki; çiftçimiz kazanırsa, Gölbaşı kazanır!\" mesajıyla yerel üretimin desteklenmeye devam edeceğini vurguladı.\n\nTARIM PUSULASI HABER MERKEZİ"
     },
     {
       "title": "TVHB Başkanı Eroğlu: Trakya ve Gökçeada şaptan ari bölge oldu",
@@ -53,14 +53,6 @@
       "date": "2026-06-15",
       "summary": "Türk Veteriner Hekimleri Birliği (TVHB) Merkez Konseyi Başkanı Ali Eroğlu, Trakya ve Gökçeada'nın şap hastalığından ari bölge ilan edilmesini değerlendirdi. Eroğlu, bu statünün kalıcı olması için veteriner hekim istihdamının ve biyogüvenlik önlemlerinin tavizsiz sürdürülmesi gerektiğini vurguladı.",
       "content": "ANKARA — Tarım ve Orman Bakanlığı tarafından, Dünya Hayvan Sağlığı Örgütü (WOAH) nezdinde yürütülen çalışmalar sonucunda Gökçeada ve Trakya’nın şap hastalığından ari bölge olarak ilan edilmesi sektörde büyük sevinç yarattı. Türk Veteriner Hekimleri Birliği (TVHB) Merkez Konseyi Başkanı Ali Eroğlu, gelişmenin Türkiye hayvancılığı, veteriner halk sağlığı ve uluslararası ticaret açısından stratejik bir öneme sahip olduğunu açıkladı.\n\n\"Ari Bölge Güçlü Bir Veteriner Altyapısının Tescilidir\"\n\nYazılı bir açıklama yapan TVHB Başkanı Ali Eroğlu, \"Hastalıktan ari bölge\" statüsünün tesadüfen elde edilmediğini belirtti. Eroğlu, bu başarının güçlü bir veteriner sağlık altyapısının, etkin sürveyans sistemlerinin, bilimsel temelli hastalık kontrol programlarının ve düzenli laboratuvar analizlerinin bir sonucu olduğunu vurguladı. Hayvan hareketlerinin etkin denetimi ile koruyucu veteriner hekimlik uygulamalarının önemine dikkat çeken Eroğlu, elde edilen statünün uluslararası düzeyde bir tescil niteliği taşıdığını ifade etti.\n\nTek Sağlık Yaklaşımı ve Ekonomik Katkı\n\nGünümüzde hayvan sağlığının insan sağlığı, gıda güvenliği ve çevre sağlığından ayrı düşünülemeyeceğini hatırlatan TVHB Başkanı, hastalıktan ari bölgelerin oluşturulmasının Tek Sağlık yaklaşımının sahadaki en başarılı örneklerinden biri olduğunu söyledi. Eroğlu, ari bölgelerin sektöre faydalarını şu maddelerle sıraladı:\n\nHayvan hastalıklarının yayılmasını önler,\n\nHayvansal üretimde verimliliği artırır ve üreticinin ekonomik kaybını azaltır,\n\nGüvenilir gıda üretimini destekleyerek ihracat olanaklarını geliştirir,\n\nKırsal kalkınmaya ve toplum sağlığının korunmasına doğrudan hizmet eder.\n\nBaşkan Eroğlu, bu başarının temelinde sahadaki veteriner hekimlerin karantina, aşılama, erken teşhis ve epidemiyolojik değerlendirme çalışmalarının yer aldığını aktardı.\n\n\"Kazanımların Kaybedilmemesi İçin Zafiyete Yer Yok\"\n\nElde edilen statünün kalıcı ve kendiliğinden sürdürülebilir bir kazanım olmadığı konusunda uyarılarda bulunan Ali Eroğlu, sürdürülebilirlik için kritik şartları açıkladı. Eroğlu, \"Bu statünün korunabilmesi için etkin sürveyans programlarının devam ettirilmesi, erken uyarı sistemlerinin güçlendirilmesi, laboratuvar altyapılarının geliştirilmesi, biyogüvenlik önlemlerinin tavizsiz uygulanması ve yeterli sayıda veteriner hekimin istihdam edilmesi büyük önem taşımaktadır. Hastalıklarla mücadelede ortaya çıkabilecek en küçük zafiyet, yılların emeğiyle elde edilen bu önemli kazanımların kaybedilmesine neden olabilmektedir\" dedi.\n\nTVHB olarak sürecin takipçisi ve destekçisi olacaklarını belirten Eroğlu, Tarım ve Orman Bakanlığı yetkililerine, taşra teşkilatlarına, laboratuvar personeline ve üreticilere teşekkür ederek yeni ari bölgelerin oluşmasını temenni etti.\n\nTARIM PUSULASI HABER MERKEZİ"
-    },
-    {
-      "title": "Tarım Kredi Marketlerinde şok karar: 200 mağaza haftada bir gün kapatılacak!",
-      "url": "https://www.tarimdanhaber.com/tarim-kredi-marketlerinde-sok-karar-200-magaza-haftada-bir-gun-kapatilacak",
-      "source": "Tarımdan Haber",
-      "date": "2026-06-15",
-      "summary": "Cumhurbaşkanı'nın fiyat dengeleme misyonuyla devasa bir ağ kuran Tarım Kredi Marketleri, 2026 yılı karlılık hedefleri doğrultusunda radikal bir tasarruf tedbirine gidiyor. Zarardan kara geçiş planı kapsamında, personel giderlerini minimize etmek isteyen yönetim; cirosu düşük yaklaşık 200 markette ha",
-      "content": "Sadettin İnan / 2025 yılını 4,7 milyar TL zararla kapatan ve teknik iflastan kurtulmak için 4 milyar TL’lik sermaye desteği alan Tarım Kredi Marketleri, 2026 yılı için radikal bir karar aldı. Şirketin zarardan kara geçmesi için 100 milyar TL ciro hedefine ulaşması planlanırken, yönetim tasarruf için \"mağaza kapatma\" yöntemini seçti.\n\nPersonel Gideri İçin Haftalık Tatil Modeli\n\n100 milyar liralık ciro hedefine ulaşmak için operasyonel maliyetleri aşağı çekmek isteyen Tarım Kredi Market yönetimi, personel giderlerini düşürmek adına ilginç bir strateji geliştirdi. Edinilen bilgilere göre, cirosu düşük olan ve dönüşümlü çalışacak yeterli personeli bulunmayan yaklaşık 200 markette, haftanın bir günü \"tatil\" uygulanacak.\n\nBu kısıtlamanın, marketlerin en hareketli olduğu Cumartesi, Pazar veya Pazartesi günlerini kapsayacak. Yönetimin hesaplamasına göre bu modelle hem personel gideri minimize edilecek hem de verimlilik artırılacak.\n\nZarardan Kara Geçiş: Mümkün mü?\n\nUzmanlar, perakende sektöründe \"erişilebilirlik\" ve \"sürekliliğin\" ciro üzerindeki etkisine dikkat çekiyor. Cirosu düşük marketleri bir gün kapatmanın, o mağazaların sadık müşteri kitlesini rakip zincir marketlere kaydırabileceği ve orta vadede hedeflenen ciro artışının aksine, pazar payı kaybına yol açabileceği belirtiliyor.\n\nHedef 100 Milyar TL Ciro\n\n2025 yılındaki mali tabloyu düzeltmek için merkez birlikten sermaye transferi alan Tarım Kredi Marketler, 2026 sonunda \"kârlı bir şirket\" olma vizyonunu taşıyor. Ancak bu hedefe giden yolda, 200 noktada uygulanacak bu \"kısıtlı çalışma\" modelinin, saha operasyonlarında nasıl bir karşılık bulacağı merak konusu."
     },
     {
       "title": "CHP'li Sezgin Tanrıkulu Diyarbakır'da TMO alım fiyatlarını eleştirdi",
@@ -95,22 +87,6 @@
       "content": "SAMSUN — Tarımsal üretimi artırmak ve kırsal nüfusun ekonomik refahını yükseltmek amacıyla projeler geliştiren Samsun Büyükşehir Belediyesi, yerel tarım ürünlerinin markalaşması için önemli bir adım daha attı. Belediye eliyle yürütülen “Sözleşmeli Tarım Modeli ve Ladik Fasulyesi Yetiştiriciliğinin Yaygınlaştırılması Projesi” çerçevesinde bölgedeki üreticiler, yeni sezon ekim çalışmalarına büyük bir güvenle başladı.\n\nProje kapsamında, coğrafi ve yöresel öneme sahip Ladik Fasulyesi'nin üretim aşamasından hasadına, pazarlanmasından ürün alımına kadar tüm süreç belediyenin güvencesi altına alındı. Büyükşehir Belediyesi ile üreticiler arasında imzalanan sözleşmeler doğrultusunda çiftçilere kesin satın alma garantisi sunuldu. Bu sayede üreticiler, hasat sonunda ürünlerini satma endişesi taşımadan, belirlenen sözleşme bedeli üzerinden kazanç elde etme güvencesiyle tarlalarına odaklanma imkânı buldu.\n\n39 Üreticiye Sulama ve Danışmanlık Desteği\n\nÜretimde kalite ve verimliliği en üst düzeye çıkarmayı hedefleyen proje doğrultusunda, bu yıl 3 farklı mahallede faaliyet gösteren 39 üreticiye sulama altyapısı desteği sağlandı. Tarımsal kalkınmada can suyu niteliği taşıyan bu desteğin yanı sıra, üretim sezonu boyunca Büyükşehir Belediyesi'ne bağlı uzman ekipler tarafından çiftçilere tarlada yerinde danışmanlık ve teknik takip hizmeti de sunulacağı bildirildi.\n\n“Üreten Her Çiftçimizin Yanındayız”\n\nKırsal kalkınma hamlesinin kararlılıkla devam edeceğine dikkat çeken Samsun Büyükşehir Belediye Başkanı Halit Doğan, projenin temel amacının üreticinin sırtındaki pazar yükünü hafifletmek olduğunu ifade etti. Başkan Doğan yaptığı açıklamada, şu ifadelere yer verdi:\n\n“Çiftçimizin yanında olarak onların omuzlarından ürünlerinin satılması endişesini ve yükünü almak istiyoruz. İşte sözleşmeli tarım modeli de bu anlayışın bir yansıması. Sadece destek veren değil, üretimin sorumluluğunu da paylaştığımız bir model. Ladik Fasulyesi, Samsun’umuzun önemli tarımsal değerlerinden biri. Çiftçimizin alın terini koruyan, üretimi teşvik eden ve yerel değerlerimizi markalaştıran projelerle kırsalda kalkınmayı desteklemeyi sürdüreceğiz.”\n\nTARIM PUSULASI HABER MERKEZİ"
     },
     {
-      "title": "Hububat üreticisinin gözü Bakanlıkta: 310 TL'lik dekar desteği ne zaman ve ne kadar artacak?",
-      "url": "https://www.tarimdanhaber.com/hububat-ureticisinin-gozu-bakanlikta-310-tllik-dekar-destegi-ne-zaman-ve-ne-kadar-artacak",
-      "source": "Tarımdan Haber",
-      "date": "2026-06-14",
-      "summary": "TMO hububat alım fiyatlarındaki beklentiyi karşılayamayan çiftçinin gözü, Cumhurbaşkanı Erdoğan'ın müjdesini verdiği 'destek güncellemesine' çevrildi. Tarım ve Orman Bakanı İbrahim Yumaklı, 2026 yılı için açıklanan 310 TL'lik dekar başına birim destek miktarının, hasat sonu girdi maliyetleri hesapla",
-      "content": "Haber Merkezi / Hububatta TMO tarafından açıklanan alım fiyatlarının düşük açıklanması çiftçide büyük bir hayal kırıklığına neden olurken, Cumhurbaşkanı Erdoğan, buğday ve arpada alım fiyatlarını artırmak yerine tarımsal destekler miktarlarının artırılacağını açıklamıştı. Ancak destek tutarlarının ne zaman ve ne kadar artırılacağı açıklanmamıştı. Tarım ve Orman Bakanı İbrahim Yumaklı, İran savaşından dolayı artan girdi maliyetlerinin nasıl hesaplanarak, destek tutarının ne zaman artırılacağına dair açıklamalarda bulundu.\n\nİlgili Haber→ Erdoğan'dan çiftçiye yeni destek açıklaması: Buğday fiyatı değişmedi\n\nTürkmedya tarafından düzenlenen tarım zirvesinde çiftçinin gündemindeki destek tutarlarına yönelik merak edilen soruları yanıtlayan Tarım Bakanı İbrahim Yumaklı, 2026 yılı için açıklanan 310 TL'lik birim destek tutarının hangi kriterlere göre artırılacağına açıklık getirdi.\n\n[youtube-video]https://www.youtube.com/watch?v=scy-k5rojx4[/youtube-video]\n\n\"Hasat Tamamlanmadan Hesap Yapamayız\"\n\nÇiftçinin en çok merak ettiği \"ne kadar artacak ve ne zaman ödenecek?\" sorusuna yanıt veren Bakan Yumaklı, hesaplama yöntemi için hasat döneminin tamamlanması gerektiğini vurguladı. Yumaklı, yaptığı açıklamada şu ifadelere yer verdi:\n\n\"Bütün bunları bizim hesaplayabilmemiz için üretim faaliyetlerinin sona ermesi gerekiyor. Yani hasat dönemlerinin tamamlanması lazım. Dolayısıyla biz üretim sezonunun sonunda, savaşın getirmiş olduğu girdi maliyetlerindeki artışı hesaplayarak, 2026 yılı için belirlenmiş olan 310 liralık dekar başına birim destek fiyatına eklemiş olacağız.\"\n\nÇiftçi Beklentisi: Alım Fiyatı mı, Destek mi?\n\nHububat alım fiyatlarının düşük açıklanmasıyla birlikte üreticiler, maliyetlerini karşılayacak bir fiyat iyileştirmesi bekliyordu. Ancak hükümetin stratejisi, alım fiyatını yükseltmek yerine \"destekleme ödemelerini artırmak\" üzerine kuruldu.\n\nŞimdi Ne Olacak?\n\nBakan Yumaklı'nın yaptığı açıklamaya göre çiftçi girdi maliyetlerindeki artışın desteklere yansıtılması için hasat sonu beklenecek. Hasat sonunda hesaplanan artışlar, desteklere ilave edilecek ancak çiftçi artılan bu destek miktaarını en erken 2027 yılı Mart-Nisan ayında alabilecek."
-    },
-    {
-      "title": "Geçmişin \"Kaçak Et\" şüphelisi artık resmi ortak: Türkiye'nin hayvancılıkta yeni ithalat rotası belli oldu!",
-      "url": "https://www.tarimdanhaber.com/gecmisin-kacak-et-suphelisi-artik-resmi-ortak-turkiyenin-hayvancilikta-yeni-ithalat-rotasi-belli-oldu",
-      "source": "Tarımdan Haber",
-      "date": "2026-06-14",
-      "summary": "Tarım Bakanlığı, geçmişte 'kaçak et' iddialarıyla hafızalara kazınan Paraguay’dan canlı hayvan ve sığır eti ithalatı yapabilmek için mevzuat değişikliğine gitti. Böylece Türkiye’nin hayvancılıkta kapılarını açtığı ithalatçı ülke portföyüne bir yenisi daha eklenmiş oldu. Türkiye’nin attığı bu adım Pa",
-      "content": "Sadettin İnan / Tarım ve hayvancılık stratejilerinde yerli üretimi güçlendirmek yerine, her geçen gün genişleyen bir \"ithalat ağı\" inşa ediliyor. Tarım politikaları uzmanı Ergin Kahveci’nin gündeme taşıdığı son gelişme, bu politikanın geldiği boyutu gözler önüne serdi. Türkiye, artık Latin Amerika’nın içlerine kadar uzanan, sınır tanımayan bir ithalat stratejisi izliyor.\n\nTarım Bakanlığından Değil, Paraguay Basınından Öğreniyoruz!\n\nEn dikkat çekici nokta ise bu stratejik kararın nasıl duyurulduğu. Türkiye'deki üreticinin, besicinin ve kamuoyunun birincil ağızdan bilgi alması gerekirken, süreç Paraguay basınının sevinç dolu manşetleriyle ortaya çıktı. Paraguaylı üreticiler için \"yeni bir pazar\" olarak pazarlanan bu anlaşma, Türkiye’nin kendi hayvancılık politikalarını şeffaflıktan uzak ve dışa bağımlılığı derinleştiren bir çizgide yürüttüğünü bir kez daha kanıtladı.\n\nParaguay Basını Türkiye'nin İthalat Kararını Sevinç Dolu Manşetlerle Duyurdu!\n\nErgin Kahveci, Paraguay basınının Türkiye'nin ithalat kararını şöyle duyurduğunu belirtti: \"Et ve canlı sığır için bir fırsat. Onay, hem canlı sığır hem de sığır eti ihracatını kapsayarak, 85 milyondan fazla nüfusa sahip ve hayvansal proteine ​​olan talebin giderek arttığı bir pazarda Paraguay için ticari fırsatları genişletiyor. Canlı sığır ithalatı söz konusu olduğunda, bu yetkilendirme, Türkiye'nin dünyanın en büyük canlı hayvan ithalatçılarından biri olması nedeniyle hayvancılık sektörü için yeni bir kapı açmaktadır. Bununla birlikte, rekabetçi iş anlaşmalarına olanak sağlayacak verimli bir lojistik sisteminin kurulmasıyla ilgili zorlukları da beraberinde getirmektedir. Protokollerin, altyapının ve nakliye sistemlerinin uyarlanması, bu yeni ticaret fırsatından yararlanmanın kilit unsurları olacaktır.\"\n\nRakamlar Acı Tabloyu Gözler Önüne Seriyor!\n\nTürkiye'nin Paraguay ile olan \"ticari ortaklığı\", iki ülkenin kapasitesi kıyaslandığında trajikomik bir tabloyu ortaya koyuyor. Ergin Kahveci’nin vurguladığı gibi, devasa bir coğrafyaya ve tarım potansiyeline sahip Türkiye'nin, ithalat kararlarını bu denli kolay alması düşündürücü.\n\nParaguay (2026) Konum: Güney ortasında, denize kıyısı olmayan (iç kara) ülke\n\nKomşuları: Brezilya (kuzey ve doğu), Arjantin (güney), Bolivya (kuzeybatı)\n\nYüzölçümü: 406.752 kilometre kare\n\nNüfus: Yaklaşık 7 milyon\n\nEkonomi: Tarıma dayalı gelişmekte olan ülke\n\nBaşlıca İhracat Ürünleri: Soya fasulyesi, sığır eti, mısır, hidroelektrik enerji\n\nGSYH (Nominal): 50-60 milyar USD\n\nKişi Başı Gelir: 8.000 - 9.000 USD\n\nHayvancılık Durumu Sığır sayısı: 12,7 - 14 milyon baş\n\nYıllık sığır eti üretimi: 590 bin ton\n\nDünya sıralaması: 8. büyük sığır eti ihracatçısı\n\nAna ihracat pazarları: Şili, Tayvan, Rusya, Hong Kong, İsrail, ABD Yeni açılan pazar: Türkiye (2026 onayı alındı)\n\nTürkiye Paraguay ile Karşılaştırma\n\nNüfus: Paraguay 7 milyon / Türkiye 85-86 milyon (Türkiye 12 kat fazla)\n\nYüzölçümü: Paraguay 406 bin km² / Türkiye 783 bin km² (Türkiye 2 kat büyük)\n\nGSYH: Paraguay 50-60 milyar USD / Türkiye 1,3-1,6 trilyon USD (Türkiye 25-30 kat büyük)\n\nKişi başı gelir: Paraguay 8-9 bin USD / Türkiye 15-19 bin USD (Türkiye 2 kat yüksek)\n\nSığır sayısı: Paraguay 12,7-14 milyon / Türkiye ~18 milyon (Türkiye önde)\n\nEt üretimi: Paraguay 590 bin ton / Türkiye 1,4-1,5 milyon ton (Türkiye 2,5 kat fazla)\n\nEt ticareti: Paraguay net ihracatçı / Türkiye büyük ölçüde ithalatçı\n\nEkonomi yapısı: Paraguay tarım ağırlıklı / Türkiye sanayi-hizmet-turizm ağırlıklı\n\n2026 büyüme tahmini: Paraguay %4,2 / Türkiye %3,3-3,4 (Paraguay biraz daha hızlı)\n\nTürkiye; Paraguay'ın neredeyse iki katı büyüklüğünde toprağa ve çok daha fazla sığır varlığına sahip olmasına rağmen, neden kendi üretimini Paraguay seviyesinde bir \"ihracat gücüne\" dönüştüremiyor?\n\n\"3 Yıl Sonra Bu da Yetmez\"\n\nErgin Kahveci’nin \"3 yıl sonra bu da yetmez diyen olursa kızmam, normal karşılarım\" şeklindeki öngörüsü, aslında mevcut gidişatın bir özeti. Üretim odaklı bir vizyon geliştirilmediği sürece, her yeni ithalat kapısı, yerli üretici için bir \"çıkış kapısı\" haline geliyor.\n\nParaguay'dan İthalat İçin 2025'de Mevzuat Değiştirildi!\n\nMevzuat değişiklikleri ile ithalata kapalı ülkelerin dahi birer birer portföye eklenmesi, \"gıda arz güvenliği\" kılıfı altında yerli besicinin küresel rekabetin altında ezilmesine neden oluyor. Paraguay ile yapılan bu anlaşma, sadece et ithalatı değil; Türkiye’nin tarımsal bağımsızlık politikasından ne kadar uzaklaştığının bir göstergesi olarak kayıtlara geçti.\n\nParaguay 2016'da Kaçak Etle Gündeme Gelmişti\n\nParaguay, aslında Türk hayvancılık gündemine yabancı bir ülke değil. 2016 yılında, Praguay'dan Türkiye'ye kaçak et getirildiğine dair güçlü iddialar gündeme gelmiş ve konu TBMM'de uzun süre tartışılmıştı. Kaçak etle gündeme gelen Paraguay'ın, gelinen noktada mevzuat değişikliği ile Türkiye'nin hayvan ithalatçı ülkeler arasında katılması, Bakanlığın hayvancılık politikalarını üretim odaklı değil, ithalat odaklı yönettiğini bir kez daha gözler önüne serdi."
-    },
-    {
       "title": "Aksaray'da Yılın İlk Arpası Tonu 12 Bin 500 TL'den Satıldı",
       "url": "https://www.tarimpusulasi.com/haber/aksarayda-yilin-ilk-arpasi-tonu-12-bin-500-tlden-satildi-46825",
       "source": "Tarım Pusulası",
@@ -125,14 +101,6 @@
       "date": "2026-06-14",
       "summary": "Antalya Büyükşehir Belediyesi zabıta ekiplerinin şehirlerarası otobüs terminalinde yaptığı denetimde, av yasağı döneminde kaçak avlanan ve uygunsuz şartlarda taşınan 260 kilogram balığa el konuldu; otobüs firmasına cezai işlem uygulandı.",
       "content": "ANTALYA — Antalya Şehirlerarası Otobüs Terminali’nde denetimlerini aralıksız sürdüren Antalya Büyükşehir Belediyesi zabıta ve güvenlik görevlileri, halk sağlığını korumaya yönelik önemli bir başarıya imza attı. Peronlarda gerçekleştirilen kontroller sırasında, bir otobüs firmasının yolcu indirme reyonuna 17 adet strafor koli indirildiği fark edildi.\n\nDurumdan şüphelenen ekiplerin koliler üzerinde yaptığı incelemede, gıda taşımacılığına tamamen aykırı ve uygunsuz koşullarda balık taşındığı tespit edildi. Olay yerine çağrılan Kepez İlçe Tarım ve Orman Müdürlüğü ekiplerinin yaptığı detaylı incelemeler neticesinde, kolilerin içerisinde iki farklı şahsa ait, av yasağı döneminde kaçak olarak avlanmış 11 çeşit balık olduğu belirlendi.\n\nOtobüs Firmasına Cezai İşlem Uygulandı\n\nHalk sağlığını doğrudan tehdit eden ve normal şartlarda soğuk zincir kurallarına uygun olarak nakledilmesi gereken balıkların, hiçbir taşıma kuralına uyulmadan sevk edildiği kayıtlara geçti. Ekiplerin hassas tartımları sonucunda kolilerden; barbun, zargana, grida, lahos, iskorpit ve dil balığı başta olmak üzere toplamda 260 kilogram çeşitli balık çıktı.\n\nAvlanma yasağı döneminde kaçak yollarla denizden çıkarılan ve sağlıksız şartlarda nakledilen tüm balıklara görevliler tarafından el konuldu. Taşıma şartlarını ihlal ederek bu sevkiyata aracılık eden otobüs firmasına da cezai işlem uygulandı. Antalya Büyükşehir Belediyesi zabıta ekipleri, vatandaşların güvenilir gıdaya ulaşması için denetimlerin kararlılıkla devam edeceğini ve halk sağlığını tehlikeye atacak hiçbir taşımacılık faaliyetine geçit verilmeyeceğini vurguladı.\n\nTARIM PUSULASI HABER MERKEZİ"
-    },
-    {
-      "title": "Şamil Tayyar: Üretici Maliyet Nedeniyle Bezelyeyi Tarlada Bıraktı",
-      "url": "https://www.tarimpusulasi.com/haber/samil-tayyar-uretici-maliyet-nedeniyle-bezelyeyi-tarlada-birakti-46823",
-      "source": "Tarım Pusulası",
-      "date": "2026-06-13",
-      "summary": "Gazeteci ve eski AK Parti Gaziantep Milletvekili Şamil Tayyar, Gaziantep'e yaptığı ziyaret sırasında görüştüğü bir üreticinin bezelye üretiminde artan maliyetler nedeniyle ürününü tarlada bıraktığını aktardı. Tayyar, tarımsal ürün fiyatlarının değerlendirilmesinde üretim maliyetlerinin detaylı anali",
-      "content": "GAZİANTEP — Gazeteci, yazar ve 24. ile 25. dönem AK Parti Gaziantep Milletvekili Şamil Tayyar, sosyal medya platformu X üzerinden yaptığı paylaşımda tarımsal üretimde maliyet baskısına dikkat çekti.\n\nGaziantep'e bir nikâh programı için geldiğini belirten Tayyar, yolculuk sırasında görüştüğü bir çiftçinin yaşadığı ekonomik sıkıntıyı kamuoyuyla paylaştı.\n\nTayyar'ın aktardığına göre bezelye üretimi yapan çiftçi, ürünün kilogram maliyetinin yaklaşık 5 lira olduğunu, hasat için kilogram başına 10 lira işçilik ücreti talep edildiğini söyledi. Nakliye, torba ve kasa gibi ek giderlerle birlikte toplam maliyetin kilogram başına yaklaşık 20 liraya ulaştığını belirten üretici, ürünün aynı seviyedeki fiyatlardan alıcı bulduğunu ve bu nedenle kâr elde edemediğini ifade etti.\n\nÜreticinin zarar etmemek adına ürününü tarlada bıraktığını ve sürmek zorunda kaldığını aktaran Tayyar, tarımsal ürün fiyatlarının değerlendirilmesinde yalnızca üretim maliyetine odaklanılmaması gerektiğini vurguladı.\n\nFiyat oluşum süreçlerinin ayrıntılı incelenmesi gerektiğini belirten Tayyar, tarla maliyetinin nihai ürün fiyatı içindeki payının çoğu zaman sınırlı kaldığını ifade ederek, fiyatları artıran diğer unsurların doğru analiz edilmesinin önem taşıdığını kaydetti.\n\nTayyar paylaşımında, tarım sektöründe yaşanan sorunlara çözüm üretilebilmesi için maliyet kalemlerinin bütüncül şekilde değerlendirilmesi gerektiğine işaret etti.\n\nTARIM PUSULASI HABER MERKEZİ"
     }
   ],
   "commoditiesByBorsa": {
@@ -277,24 +245,24 @@
     }
   ],
   "dieselByCity": {
-    "ANKARA": 67.49,
-    "ISTANBUL": 66.32,
-    "IZMIR": 67.76,
-    "KONYA": 68.65,
-    "ADANA": 68.32,
-    "BURSA": 67.37,
-    "ANTALYA": 68.81,
-    "SAMSUN": 68.06,
-    "TEKIRDAG": 67.22,
-    "CANAKKALE": 68.12
+    "ANKARA": 66.36,
+    "ISTANBUL": 65.19,
+    "IZMIR": 66.63,
+    "KONYA": 67.52,
+    "ADANA": 67.19,
+    "BURSA": 66.24,
+    "ANTALYA": 67.68,
+    "SAMSUN": 66.93,
+    "TEKIRDAG": 66.09,
+    "CANAKKALE": 66.99
   },
   "inputs": [
     {
       "key": "motorin",
       "name": "Motorin (mazot)",
       "unit": "₺/lt",
-      "price": 68.12,
-      "change": 0,
+      "price": 66.99,
+      "change": -1.66,
       "source": "CANAKKALE ort."
     },
     {
@@ -328,17 +296,5 @@
   "defaultBorsa": "5ED10",
   "defaultCity": "CANAKKALE",
   "note": "Fiyatlar TOBB ticaret borsasından (borsa seçilebilir). Kanola manuel (Trakya 2025).",
-  "inputsNote": "Mazot: akaryakıt bayi fiyatı, günlük (şehir seçilebilir). Gübre: manuel (yaklaşık).",
-  "errors": [
-    "mazot ANKARA: fetch failed",
-    "mazot ISTANBUL: fetch failed",
-    "mazot IZMIR: fetch failed",
-    "mazot KONYA: fetch failed",
-    "mazot ADANA: fetch failed",
-    "mazot BURSA: fetch failed",
-    "mazot ANTALYA: fetch failed",
-    "mazot SAMSUN: fetch failed",
-    "mazot TEKIRDAG: fetch failed",
-    "mazot CANAKKALE: fetch failed"
-  ]
+  "inputsNote": "Mazot: akaryakıt bayi fiyatı, günlük (şehir seçilebilir). Gübre: manuel (yaklaşık)."
 }
