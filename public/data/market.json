@@ -1,43 +1,59 @@
 {
-  "updatedAt": "2026-06-15T13:21:24.974Z",
+  "updatedAt": "2026-06-15T18:09:22.381Z",
   "fx": [
     {
       "code": "USD",
       "name": "Dolar",
-      "buy": 462696,
-      "sell": 462862,
-      "change": 2
+      "buy": 462737,
+      "sell": 462892,
+      "change": 3
     },
     {
       "code": "EUR",
       "name": "Euro",
-      "buy": 536922,
-      "sell": 537307,
-      "change": 27
+      "buy": 537295,
+      "sell": 537445,
+      "change": 32
     },
     {
       "code": "GRA",
       "name": "Gram Altın",
-      "buy": 642018,
-      "sell": 642114,
-      "change": 229
+      "buy": 642856,
+      "sell": 642952,
+      "change": 243
     },
     {
       "code": "CEYREKALTIN",
       "name": "Çeyrek Altın",
-      "buy": 1017762,
-      "sell": 1041236,
-      "change": 0
+      "buy": 1053789,
+      "sell": 1077834,
+      "change": 351
     },
     {
       "code": "CUMHURIYETALTINI",
       "name": "Cumhuriyet Altını",
-      "buy": 42147,
-      "sell": 42784,
-      "change": 83
+      "buy": 43666,
+      "sell": 44321,
+      "change": 359
     }
   ],
   "news": [
+    {
+      "title": "İthal ete gizli zam: ESK'dan PERDER üyesi marketlere yüzde 28 zam geldi!",
+      "url": "https://www.tarimdanhaber.com/ithal-ete-gizli-zam-eskdan-perder-uyesi-marketlere-yuzde-28-zam-geldi",
+      "source": "Tarımdan Haber",
+      "date": "2026-06-15",
+      "summary": "Beyaz ette 'fahiş fiyat' incelemesi devam ederken, kırmızı ette Bakanlık eliyle zam! İthalat maliyetlerinde artış yokken ESK, PERDER üyesi marketlerdeki kırmızı ete yüzde 24 ile 28 oranında zam yaptı. Tarım Bakanlığı eliyle gelen bu artış, zamanlama bakımından şaşkınlıkla karşılandı.",
+      "content": "Sadettin İnan / Et ve Süt Kurumu (ESK), vatandaşın uygun fiyattan kırmızı et tüketmesi için uyguladığı PERDER üyesi marketler üzerinden satışını yaptığı ithal ete yüzde 24 ile 28 oranında zam yaptı. Adalet Bakanlığı tarafından, beyaz et sektöründe fahiş fiyat uygulandığı gerekçesiyle inceleme başlatılırken, diğer taraftan döviz kurunda bir artış olmamasına rağmen Tarım Bakanlığının ithal et fiyatlarına yüksek oranda zam yapması, tarım ve gıda politikalarında yaşanan koordinasyonsuzluğu gözler önüne serdi.\n\nDAR GELİRLİ VATANDAŞLAR İÇİN PERDER ÜYESİ MARKETLERDE İNDİRİMLİ ET SATIŞI YAPILIYORDU!\n\nBilindiği üzere ESK, dar gelirli vatandaşın kırmızı ete ulaşımını kolaylaştırmak üzere PERDER üyesi marketlerle bir anlaşma yaparak ithal etin bu marketlerde daha düşük fiyattan satılmasını sağlıyordu. Mevcut piyasa 600 ile 1000 lira arasında satılan kıyma PERDER üyesi marketlerde 485 liraya, yine piyasada ortalama 800 ile 1200 lira arasında satılan kuşbaşı da 510 liradan satılıyordu.\n\nVATANDAŞIN ETİNE YÜZDE 28 KURUMSAL ZAM!\n\nESK, PERDER üyesi marketlerde satışını yaptığı kıyma ve kuşbaşı eti fiyatına yüzde 24 ile 28 oranında bir zam yaptı. Yapılan zamla birlikte kıyma satış fiyatı 600 liraya, kuşbaşı etin fiyatı da 650 liraya çıkarıldı. Döviz kurunda ve ithalat tarafında bir fiyat artışı söz konusu değilken ithal ete yapılan bu yüksek orandaki zam dikkat çekti.\n\nESK’nın piyasayı regüle etmek için satışını yaptığı ithal ete yüksek oranda zam yapması, piyasa fiyatlarını da doğrudan yukarı çeken bir etki oluşturacak.\n\nZAMANLAMASI DİKKAT ÇEKTİ!\n\nDiğer yandan ithal et fiyatlarına yapılan zammın zamanlaması da dikkat çekti. Ticaret Bakanlığı ve Adalet Bakanlığı beyaz et sektöründe fahiş fiyat artışları gerekçesiyle geniş kapsamlı bir inceleme başlatırken, diğer yandan Tarım Bakanlığının tam bu incelemenin devam ettiği bir süreçte ithal et fiyatlarına yüksek oranda zam yapması gıda fiyatlarında yaşanan çelişkiyi gözler önüne serdi."
+    },
+    {
+      "title": "TVHB Başkanı Eroğlu: Trakya ve Gökçeada şaptan ari bölge oldu",
+      "url": "https://www.tarimpusulasi.com/haber/tvhb-baskani-eroglu-trakya-ve-gokceada-saptan-ari-bolge-oldu-46830",
+      "source": "Tarım Pusulası",
+      "date": "2026-06-15",
+      "summary": "Türk Veteriner Hekimleri Birliği (TVHB) Merkez Konseyi Başkanı Ali Eroğlu, Trakya ve Gökçeada'nın şap hastalığından ari bölge ilan edilmesini değerlendirdi. Eroğlu, bu statünün kalıcı olması için veteriner hekim istihdamının ve biyogüvenlik önlemlerinin tavizsiz sürdürülmesi gerektiğini vurguladı.",
+      "content": "ANKARA — Tarım ve Orman Bakanlığı tarafından, Dünya Hayvan Sağlığı Örgütü (WOAH) nezdinde yürütülen çalışmalar sonucunda Gökçeada ve Trakya’nın şap hastalığından ari bölge olarak ilan edilmesi sektörde büyük sevinç yarattı. Türk Veteriner Hekimleri Birliği (TVHB) Merkez Konseyi Başkanı Ali Eroğlu, gelişmenin Türkiye hayvancılığı, veteriner halk sağlığı ve uluslararası ticaret açısından stratejik bir öneme sahip olduğunu açıkladı.\n\n\"Ari Bölge Güçlü Bir Veteriner Altyapısının Tescilidir\"\n\nYazılı bir açıklama yapan TVHB Başkanı Ali Eroğlu, \"Hastalıktan ari bölge\" statüsünün tesadüfen elde edilmediğini belirtti. Eroğlu, bu başarının güçlü bir veteriner sağlık altyapısının, etkin sürveyans sistemlerinin, bilimsel temelli hastalık kontrol programlarının ve düzenli laboratuvar analizlerinin bir sonucu olduğunu vurguladı. Hayvan hareketlerinin etkin denetimi ile koruyucu veteriner hekimlik uygulamalarının önemine dikkat çeken Eroğlu, elde edilen statünün uluslararası düzeyde bir tescil niteliği taşıdığını ifade etti.\n\nTek Sağlık Yaklaşımı ve Ekonomik Katkı\n\nGünümüzde hayvan sağlığının insan sağlığı, gıda güvenliği ve çevre sağlığından ayrı düşünülemeyeceğini hatırlatan TVHB Başkanı, hastalıktan ari bölgelerin oluşturulmasının Tek Sağlık yaklaşımının sahadaki en başarılı örneklerinden biri olduğunu söyledi. Eroğlu, ari bölgelerin sektöre faydalarını şu maddelerle sıraladı:\n\nHayvan hastalıklarının yayılmasını önler,\n\nHayvansal üretimde verimliliği artırır ve üreticinin ekonomik kaybını azaltır,\n\nGüvenilir gıda üretimini destekleyerek ihracat olanaklarını geliştirir,\n\nKırsal kalkınmaya ve toplum sağlığının korunmasına doğrudan hizmet eder.\n\nBaşkan Eroğlu, bu başarının temelinde sahadaki veteriner hekimlerin karantina, aşılama, erken teşhis ve epidemiyolojik değerlendirme çalışmalarının yer aldığını aktardı.\n\n\"Kazanımların Kaybedilmemesi İçin Zafiyete Yer Yok\"\n\nElde edilen statünün kalıcı ve kendiliğinden sürdürülebilir bir kazanım olmadığı konusunda uyarılarda bulunan Ali Eroğlu, sürdürülebilirlik için kritik şartları açıkladı. Eroğlu, \"Bu statünün korunabilmesi için etkin sürveyans programlarının devam ettirilmesi, erken uyarı sistemlerinin güçlendirilmesi, laboratuvar altyapılarının geliştirilmesi, biyogüvenlik önlemlerinin tavizsiz uygulanması ve yeterli sayıda veteriner hekimin istihdam edilmesi büyük önem taşımaktadır. Hastalıklarla mücadelede ortaya çıkabilecek en küçük zafiyet, yılların emeğiyle elde edilen bu önemli kazanımların kaybedilmesine neden olabilmektedir\" dedi.\n\nTVHB olarak sürecin takipçisi ve destekçisi olacaklarını belirten Eroğlu, Tarım ve Orman Bakanlığı yetkililerine, taşra teşkilatlarına, laboratuvar personeline ve üreticilere teşekkür ederek yeni ari bölgelerin oluşmasını temenni etti.\n\nTARIM PUSULASI HABER MERKEZİ"
+    },
     {
       "title": "Tarım Kredi Marketlerinde şok karar: 200 mağaza haftada bir gün kapatılacak!",
       "url": "https://www.tarimdanhaber.com/tarim-kredi-marketlerinde-sok-karar-200-magaza-haftada-bir-gun-kapatilacak",
@@ -117,22 +133,6 @@
       "date": "2026-06-13",
       "summary": "Gazeteci ve eski AK Parti Gaziantep Milletvekili Şamil Tayyar, Gaziantep'e yaptığı ziyaret sırasında görüştüğü bir üreticinin bezelye üretiminde artan maliyetler nedeniyle ürününü tarlada bıraktığını aktardı. Tayyar, tarımsal ürün fiyatlarının değerlendirilmesinde üretim maliyetlerinin detaylı anali",
       "content": "GAZİANTEP — Gazeteci, yazar ve 24. ile 25. dönem AK Parti Gaziantep Milletvekili Şamil Tayyar, sosyal medya platformu X üzerinden yaptığı paylaşımda tarımsal üretimde maliyet baskısına dikkat çekti.\n\nGaziantep'e bir nikâh programı için geldiğini belirten Tayyar, yolculuk sırasında görüştüğü bir çiftçinin yaşadığı ekonomik sıkıntıyı kamuoyuyla paylaştı.\n\nTayyar'ın aktardığına göre bezelye üretimi yapan çiftçi, ürünün kilogram maliyetinin yaklaşık 5 lira olduğunu, hasat için kilogram başına 10 lira işçilik ücreti talep edildiğini söyledi. Nakliye, torba ve kasa gibi ek giderlerle birlikte toplam maliyetin kilogram başına yaklaşık 20 liraya ulaştığını belirten üretici, ürünün aynı seviyedeki fiyatlardan alıcı bulduğunu ve bu nedenle kâr elde edemediğini ifade etti.\n\nÜreticinin zarar etmemek adına ürününü tarlada bıraktığını ve sürmek zorunda kaldığını aktaran Tayyar, tarımsal ürün fiyatlarının değerlendirilmesinde yalnızca üretim maliyetine odaklanılmaması gerektiğini vurguladı.\n\nFiyat oluşum süreçlerinin ayrıntılı incelenmesi gerektiğini belirten Tayyar, tarla maliyetinin nihai ürün fiyatı içindeki payının çoğu zaman sınırlı kaldığını ifade ederek, fiyatları artıran diğer unsurların doğru analiz edilmesinin önem taşıdığını kaydetti.\n\nTayyar paylaşımında, tarım sektöründe yaşanan sorunlara çözüm üretilebilmesi için maliyet kalemlerinin bütüncül şekilde değerlendirilmesi gerektiğine işaret etti.\n\nTARIM PUSULASI HABER MERKEZİ"
-    },
-    {
-      "title": "Uruguay canlı hayvan ithalatında \"İsrail\" alarmı: Fiyatlar yükselecek mi?",
-      "url": "https://www.tarimdanhaber.com/uruguay-canli-hayvan-ithalatinda-israil-alarmi-fiyatlar-yukselecek-mi",
-      "source": "Tarımdan Haber",
-      "date": "2026-06-13",
-      "summary": "Canlı hayvan ithalatında dengeler değişiyor. Uruguay'ın ihracatında pastanın yarısı Türkiye'nin olsa da, İsrail’in yüksek fiyatlı girişi maliyetleri yukarı çekiyor. Ergin Kahveci’nin çarpıcı verileriyle canlı hayvan ithalatındaki yeni dönemi analiz ettik.",
-      "content": "Haber Merkezi - Türkiye’nin canlı hayvan ithalatında en önemli tedarikçilerinden biri olan Uruguay pazarında dengeler değişiyor. Tarım sektörü uzmanı Ergin Kahveci, son dönem verilerini analiz ederek Türkiye’yi bekleyen \"fiyat yükselişi\" riskine karşı uyarılarda bulundu.\n\nRakamlar Ne Diyor? Pazarın Yarısı Türkiye'nin\n\n31 Mayıs 2026 itibarıyla Uruguay, toplam 87.607 baş canlı sığır ihracatı gerçekleştirdi. Bu miktarın 29.174 başı yani %51,73'ü Türkiye tarafından tedarik edildi.\n\nAncak pazardaki oyuncular hızla değişiyor. Geçtiğimiz yıllarda Türkiye ile birlikte pazarı domine eden Irak ve Fas’ın şu an pazarda kayda değer bir görünürlüğü kalmadı. Onların yerini ise agresif bir giriş yapan İsrail aldı.\n\nİsrail Etkisi: \"Pazarda Fiyatlar Yükselecek\"\n\nErgin Kahveci’nin verilerine göre İsrail, Uruguay pazarına hem hızlı hem de yüksek fiyatlı bir giriş yaptı. İki ülkenin alım fiyatları kıyaslandığında ortaya çıkan tablo şu şekilde:\n\nİsrail'in Ortalama Alım Fiyatı: 3,59 Dolar / kg\n\nTürkiye'nin Ortalama Alım Fiyatı: 3,48 Dolar / kg\n\nUruguay Genel İhracat Ortalaması: 3,58 Dolar / kg\n\nKahveci, \"İsrail’in bu yüksek alım fiyatları ile pazarda kalıcı olması halinde, Türkiye için de ithalat maliyetlerinin ciddi oranda yükseleceği\" değerlendirmesinde bulunuyor.\n\n2 Yıllık Artış: Maliyetler Yüzde 48,5 Arttı\n\nVeriler, sadece pazar dinamiklerini değil, maliyetlerdeki hızlı artışı da ortaya koyuyor. 2024-2026 döneminde ortalama canlı ağırlık etçi dana bedelindeki artış %48,5 seviyesine ulaşmış durumda.\n\nTürkiye şu an için Uruguay ortalamasından 10 cent, İsrail ortalamasından ise 10,5 cent daha uygun fiyatla alım yapabilse de, uzmanlar bu avantajın sürdürülebilirliği konusunda şüpheli.\n\n\"Paraguay Pazarı Çare Olur mu?\"\n\nGündemdeki yeni pazar arayışlarına da değinen Kahveci, açılması planlanan Paraguay pazarında, Uruguay’daki mevcut \"daha uygun fiyat\" avantajlarını bulmanın zor olabileceğini belirtiyor.\n\nÖzetle: Türkiye, canlı hayvan ithalatında stratejik bir virajda. Hem maliyetlerin %50'ye yakın artması hem de yeni rakip İsrail’in fiyatları yukarı çeken agresif tutumu, önümüzdeki dönemde kırmızı et maliyetleri üzerinde yeni baskılar oluşturabilir.\n\n[related-posts id=\"28307\" color=\"bg-primary\"][/related-posts]"
-    },
-    {
-      "title": "Kayalar: Açıklanan hububat alım fiyatları maliyetleri karşılamıyor",
-      "url": "https://www.tarimpusulasi.com/haber/kayalar-aciklanan-hububat-alim-fiyatlari-maliyetleri-karsilamiyor-46822",
-      "source": "Tarım Pusulası",
-      "date": "2026-06-13",
-      "summary": "Eski Tarım ve Orman Bakanı ve İYİ Parti Yozgat Milletvekili Lütfullah Kayalar, TBMM'de yaptığı açıklamada Toprak Mahsulleri Ofisi'nin 2026 yılı hububat alım fiyatlarının üretici maliyetlerini karşılamadığını savundu. Kayalar, mevcut fiyatların çiftçinin yeni üretim dönemini zorlaştırabileceğini iler",
-      "content": "ANKARA — Eski Tarım ve Orman Bakanı ve İYİ Parti Yozgat Milletvekili Lütfullah Kayalar, Türkiye Büyük Millet Meclisi'nde yaptığı basın açıklamasında Toprak Mahsulleri Ofisi (TMO) tarafından açıklanan 2026 yılı hububat alım fiyatlarını eleştirdi.\n\nKayalar, 2 Haziran'da açıklanan buğday ve arpa alım fiyatlarının üreticilerin artan girdi maliyetlerini karşılamaktan uzak olduğunu savundu. Açıklamasında, 2025-2026 döneminde çiftçi girdilerindeki artışın yaklaşık yüzde 35 seviyesine ulaştığını öne süren Kayalar, buna karşın açıklanan fiyat artışlarının yüzde 15 ila yüzde 21 arasında kaldığını ifade etti.\n\nKayalar, ekmeklik buğday için 16 bin 500 lira, arpa için ise 12 bin 750 lira olarak açıklanan alım fiyatlarının üretim maliyetlerinin altında olduğunu ileri sürdü. Kendi değerlendirmesine göre buğday üretim maliyetinin 19 bin ila 20 bin lira seviyesinde bulunduğunu belirten Kayalar, açıklanan fiyatların çiftçiler tarafından yeterli görülmediğini söyledi.\n\nÜreticilerin sonbahar dönemindeki yeni ekim sezonuna hazırlanırken ciddi finansman sorunları yaşayabileceğini dile getiren Kayalar, tarımsal üretimin yalnızca çiftçilerin değil ülkenin gıda güvenliği açısından da stratejik önem taşıdığını ifade etti.\n\nKayalar ayrıca, uzun yıllardır uygulanan tarım politikalarının üreticiyi yeterince desteklemediğini iddia ederek, bunun Türkiye'deki tarımsal üretim üzerinde olumsuz etkiler oluşturduğunu savundu.\n\nTARIM PUSULASI HABER MERKEZİ"
     }
   ],
   "commoditiesByBorsa": {
@@ -153,7 +153,7 @@
           "name": "Arpa",
           "unit": "₺/kg",
           "price": 11.28,
-          "change": -0.44,
+          "change": 0,
           "source": "Edirne TB",
           "date": "2026-06-15"
         },
@@ -162,7 +162,7 @@
           "name": "Ayçiçeği (yağlık)",
           "unit": "₺/kg",
           "price": 30.89,
-          "change": -3.68,
+          "change": 0,
           "source": "Edirne TB",
           "date": "2026-06-15"
         },
@@ -254,7 +254,7 @@
       "name": "Arpa",
       "unit": "₺/kg",
       "price": 11.28,
-      "change": -0.44,
+      "change": 0,
       "source": "Edirne TB",
       "date": "2026-06-15"
     },
@@ -263,7 +263,7 @@
       "name": "Ayçiçeği (yağlık)",
       "unit": "₺/kg",
       "price": 30.89,
-      "change": -3.68,
+      "change": 0,
       "source": "Edirne TB",
       "date": "2026-06-15"
     },
@@ -330,7 +330,6 @@
   "note": "Fiyatlar TOBB ticaret borsasından (borsa seçilebilir). Kanola manuel (Trakya 2025).",
   "inputsNote": "Mazot: akaryakıt bayi fiyatı, günlük (şehir seçilebilir). Gübre: manuel (yaklaşık).",
   "errors": [
-    "fx: fetch failed",
     "mazot ANKARA: fetch failed",
     "mazot ISTANBUL: fetch failed",
     "mazot IZMIR: fetch failed",
