@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-06-15T07:01:00.068Z",
+  "updatedAt": "2026-06-15T13:21:24.974Z",
   "fx": [
     {
       "code": "USD",
@@ -152,19 +152,19 @@
           "key": "arpa",
           "name": "Arpa",
           "unit": "₺/kg",
-          "price": 11.33,
-          "change": 0,
+          "price": 11.28,
+          "change": -0.44,
           "source": "Edirne TB",
-          "date": "2026-06-12"
+          "date": "2026-06-15"
         },
         {
           "key": "aycicegi",
           "name": "Ayçiçeği (yağlık)",
           "unit": "₺/kg",
-          "price": 32.07,
-          "change": 0,
+          "price": 30.89,
+          "change": -3.68,
           "source": "Edirne TB",
-          "date": "2026-06-08"
+          "date": "2026-06-15"
         },
         {
           "key": "kanola",
@@ -253,19 +253,19 @@
       "key": "arpa",
       "name": "Arpa",
       "unit": "₺/kg",
-      "price": 11.33,
-      "change": 0,
+      "price": 11.28,
+      "change": -0.44,
       "source": "Edirne TB",
-      "date": "2026-06-12"
+      "date": "2026-06-15"
     },
     {
       "key": "aycicegi",
       "name": "Ayçiçeği (yağlık)",
       "unit": "₺/kg",
-      "price": 32.07,
-      "change": 0,
+      "price": 30.89,
+      "change": -3.68,
       "source": "Edirne TB",
-      "date": "2026-06-08"
+      "date": "2026-06-15"
     },
     {
       "key": "kanola",
@@ -331,9 +331,6 @@
   "inputsNote": "Mazot: akaryakıt bayi fiyatı, günlük (şehir seçilebilir). Gübre: manuel (yaklaşık).",
   "errors": [
     "fx: fetch failed",
-    "borsa 5ED10: fetch failed",
-    "borsa 5KO10: fetch failed",
-    "borsa 5ES10: fetch failed",
     "mazot ANKARA: fetch failed",
     "mazot ISTANBUL: fetch failed",
     "mazot IZMIR: fetch failed",
