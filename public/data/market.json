@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-06-17T09:19:05.691Z",
+  "updatedAt": "2026-06-17T12:58:40.755Z",
   "fx": [
     {
       "code": "USD",
@@ -11,33 +11,57 @@
     {
       "code": "EUR",
       "name": "Euro",
-      "buy": 53.9,
+      "buy": 53.88,
       "sell": 53.91,
-      "change": 0.22
+      "change": 0.21
     },
     {
       "code": "GRA",
       "name": "Gram Altın",
-      "buy": 6442.45,
-      "sell": 6443.1,
-      "change": -0.06
+      "buy": 6453.33,
+      "sell": 6454.18,
+      "change": 0.11
     },
     {
       "code": "CEYREKALTIN",
       "name": "Çeyrek Altın",
-      "buy": 10437.52,
-      "sell": 10675.76,
-      "change": -0.62
+      "buy": 10464.39,
+      "sell": 10703.22,
+      "change": -0.37
     },
     {
       "code": "CUMHURIYETALTINI",
       "name": "Cumhuriyet Altını",
-      "buy": 43246,
-      "sell": 43901,
-      "change": -0.61
+      "buy": 43366,
+      "sell": 44021,
+      "change": -0.34
     }
   ],
   "news": [
+    {
+      "title": "CHP'li Ayhan Barut: Üreten de tüketen de mağdur oldu",
+      "url": "https://www.tarimpusulasi.com/haber/chpli-ayhan-barut-ureten-de-tuketen-de-magdur-oldu-46843",
+      "source": "Tarım Pusulası",
+      "date": "2026-06-17",
+      "summary": "CHP Adana Milletvekili Ayhan Barut, Türkiye'deki ekonomik tabloyu eleştirerek mazot, gübre ve enerji maliyetleri altında ezilen çiftçiler ile ucuz gıdaya ulaşamayan tüketicilerin aynı anda mağdur edildiğini söyledi.",
+      "content": "ADANA — Cumhuriyet Halk Partisi (CHP) Adana Milletvekili ve TBMM Tarım, Orman ve Köyişleri Komisyonu Üyesi Ayhan Barut, Türkiye’nin hem üretenin hem de tüketenin büyük zarar gördüğü derin bir ekonomik kriz sarmalına girdiğini belirtti. Ülkedeki tarımsal üretim süreçlerini ve vatandaşın alım gücünü değerlendiren Barut, mevcut ekonomik tablodan tamamen iktidarın ekonomi politikalarını sorumlu tuttu.\n\n\"Tablo Her Geçen Gün Ağırlaşıyor\"\n\nTürkiye’nin her geçen gün derinleşen ekonomik ve siyasi krizlerin ağır sonuçlarıyla karşı karşıya kaldığını ifade eden Ayhan Barut, toplumun tüm kesimlerinin geçim mücadelesi verdiğini vurguladı. Yüksek enflasyon, artan faiz oranları ve peş peşe gelen zamların halkın alım gücünü erittiğini belirten Barut, \"Bugün emekliden asgari ücretliye, kamu emekçisinden esnafa, çiftçiden sanayiciye kadar tüm kesimler geleceğe dair umutlarını korumakta zorlanıyor. Maaşlar daha vatandaşın cebine girmeden değer kaybediyor, temel ihtiyaçlara erişim her geçen gün daha da zorlaşıyor\" dedi.\n\n\"Çiftçi Maliyet Altında Eziliyor, Tüketici Ucuz Gıdaya Ulaşamıyor\"\n\nÜretimin bel kemiği olan çiftçilerin artan girdi maliyetleri nedeniyle üretim yapamaz hale geldiğine dikkat çeken Barut, tarım sektöründeki krizi şu sözlerle özetledi:\n\n\"Çiftçilerimiz artan mazot, gübre, yem ve enerji maliyetleri altında ezilirken, alın teriyle yetiştirdikleri ürünleri çoğu zaman maliyetinin altında satmak zorunda kalmaktadır. Esnafımız artan giderler karşısında ayakta kalmaya çalışırken, sanayicilerimiz üretim maliyetlerindeki yükseliş nedeniyle ciddi sıkıntılar yaşamaktadır. Öte yandan, üretici zarar ederken tüketici de ucuz gıdaya ulaşamamaktadır. Sebze ve meyve fiyatları vatandaşın bütçesini zorlamakta, et ve süt ürünleri geniş kesimler için giderek ulaşılması güç temel ihtiyaçlara dönüşmektedir.\"\n\n\"Rantı Değil Halkı Düşünen Düzen Şart\"\n\nMevcut kaynakların halkın yararına kullanılması durumunda refahın adil paylaşılabileceğini ifade eden CHP Adana Milletvekili Ayhan Barut, çözümün günü kurtaran politikalar değil, üretimi ve adaleti esas alan halkçı modeller olduğunu söyledi. Çiftçinin ürününün değer bulduğu, emeklinin ve çalışanların insanca yaşayabildiği bir ekonomik düzeni kurmak için mücadele etmeye devam edeceklerini belirterek sözlerini tamamladı.\n\nTARIM PUSULASI HABER MERKEZİ"
+    },
+    {
+      "title": "Şekerde gizli istila: Pancarın tahtı kimyasallara mı teslim ediliyor?",
+      "url": "https://www.tarimdanhaber.com/sekerde-gizli-istila-pancarin-tahti-kimyasallara-mi-teslim-ediliyor",
+      "source": "Tarımdan Haber",
+      "date": "2026-06-17",
+      "summary": "Çiftçimiz stratejik planlamaya uygun olarak üretimine devam ederken, gıda sanayisinin yönü dışa döndü. 2024-2026 ithalat verileri, pancar şekerinin yerine gümrükten kotasız ve denetimsiz geçen tonlarca kimyasal tatlandırıcının girdiğini kanıtlıyor. Peki, sofralarımızı saran bu \"tatlı\" tehdidin arkas",
+      "content": "Haber Merkezi / Türkiye tarımının en stratejik başarı öyküsü olan şeker pancarı, bugün sessiz bir tehditle karşı karşıya!\n\nYerli üreticimiz, pancar tarlasında milli bir görev bilinciyle üretimini sürdürüyor; fabrikalarımız ise yüksek katma değerli şekerimizi üretiyor. Ancak raflardaki ürünlerin içeriğine baktığınızda manzara değişiyor: Yerli şeker yerine, gümrükten kotasız ve denetimsiz geçen kimyasal tatlandırıcılar!\n\nNişasta bazlı şekerlerle başlayan süreç, bugün milyarlarca dolarlık kimyasal tatlandırıcı ithalatıyla bambaşka bir boyuta ulaştı. Kim bu ithalatı yapanlar? Yerli çiftçinin alın teri depolarda beklerken, neden ithal kimyasallara bu kadar bağımlı hale getirildik?\n\nPancar çiftçisinin ve şeker sanayimizin geleceğini tehdit eden bu 'denetimsiz rekabeti', 2024-2026 ithalat verileri ve pazarın dev isimleriyle dosya haberimizde mercek altına alacağız.\n\nŞekerin geleceği mi, kimyasal lobisinin kazancı mı?\n\nEzberleri bozacak veriler ve çarpıcı isimlerle, Türkiye'nin şeker gerçeği çok yakında Tarımdan Haber'de..."
+    },
+    {
+      "title": "Samsun Tarım İl Müdürlüğü: Kokarcaya karşı samuray arısı salındı",
+      "url": "https://www.tarimpusulasi.com/haber/samsun-tarim-il-mudurlugu-kokarcaya-karsi-samuray-arisi-salindi-46842",
+      "source": "Tarım Pusulası",
+      "date": "2026-06-17",
+      "summary": "Samsun İl Tarım ve Orman Müdürlüğü, kahverengi kokarca zararlısına karşı yürütülen biyolojik mücadele kapsamında Çarşamba ilçesinde samuray arısı salım etkinliği gerçekleştirdi. İl Müdürü Kemal Yılmaz, bu yıl doğaya 350 bin samuray arısı bırakılacağını belirterek, üreticileri grileşen kokarca yumurt",
+      "content": "SAMSUN — Tarımsal üretime büyük zarar veren kahverengi kokarca zararlısı ile entegre mücadele çalışmaları Karadeniz genelinde kararlılıkla sürdürülüyor. Samsun İl Tarım ve Orman Müdürlüğü organizasyonunda, Çarşamba ilçesine bağlı Şehgüven Mahallesi’nde düzenlenen programla samuray arıları doğaya bırakılmaya başlandı. Programa Çarşamba İlçe Kaymakamı Mehmet Kamil Sağlam, Samsun İl Tarım ve Orman Müdürü Kemal Yılmaz, Karadeniz Tarımsal Araştırma Enstitüsü Müdürü İlyas Deligöz, Çarşamba Ziraat Odası Başkanı Muammer Aydemir, kolluk kuvvetleri, muhtarlar ve üreticiler katıldı.\n\n\"Entegre Mücadeleyi Kararlılıkla Sürdürüyoruz\"\n\nProgramda konuşan Samsun İl Tarım ve Orman Müdürü Kemal Yılmaz, kahverengi kokarca ile mücadelede kimyasal, biyoteknik ve biyolojik yöntemlerin eş zamanlı yürütüldüğünü ifade etti. Dönemsel olarak tüm enstrümanların sahaya yansıtıldığını belirten Yılmaz, \"Samsun ilimizde 165 bin kışlakta biyosidal ilaçlar kullanmak suretiyle kışlak ilaçlaması yaptık. Feromon tuzaklarla biyoteknik mücadeleyi gerçekleştirirken, 'cezbet-öldür' ve 'cezbet-yok et' yöntemlerini uyguladık. Bugün ise doğaya samuray arılarını bırakarak biyolojik mücadele aşamasına geçiyoruz. Geçen yıl ilimizde 300 bin samuray arısı doğaya bırakılmıştı; bu sene ise bu sayıyı 350 bine çıkarıyoruz. 175 bin adedini bu hafta içerisinde, kalan 175 bin adedini ise 6 Temmuz'dan itibaren bir haftalık süreçte doğaya salmış olacağız\" dedi.\n\nİlaçlamadan Önce Grileşen Yumurtalara Dikkat!\n\nSamsun genelinde daha önceki yıllarda samuray arıcığı salımı yapılan alanlarda gerçekleştirilen incelemelerde, kahverengi kokarca yumurtalarının parazitlendiği ve arıcık çıkışlarının başarıyla sağlandığı tespit edildi. Bu doğrultuda üreticilere kritik bir uyarıda bulunan İl Müdürü Yılmaz, çiftçilerin bahçelerindeki kokarca yumurta paketlerini düzenli kontrol etmelerini istedi. Yumurtalarda grileşme veya renk değişimi fark edilmesi halinde bu alanlarda kesinlikle kimyasal ilaçlama yapılmaması gerektiğini vurgulayan Yılmaz, bu hassasiyetin samuray arıcığı popülasyonunun artmasına ve biyolojik mücadelenin etkinliğinin yükselmesine doğrudan katkı sağlayacağını bildirdi.\n\nTürkiye, Dünyada En Fazla Samuray Arıcığı Üreten Ülke Konumunda\n\nKaradeniz Tarımsal Araştırma Enstitüsü Müdürü İlyas Deligöz ise sahada yapılan incelemelerin, salınan samuray arıcıklarının kokarcaya karşı etkin bir biyolojik süreç yürüttüğünü gösterdiğini ve bunun memnuniyet verici olduğunu ifade etti. Bakanlık talimatları doğrultusunda yürütülen çalışmalarda Türkiye'nin dünya ölçeğinde bir başarıya imza attığını belirten Deligöz, \"2026 yılı için 1 milyon 650 bin samuray arıcığı üretimi hedeflemiştik, şu ana kadar yaklaşık 1 milyon 400 bin üretim seviyesine ulaştık. 2023 yılından bu yana gerçekleştirdiğimiz toplam salım sayısı 3 milyona ulaşacak. Bu, dünya genelinde dikkat çekici bir rekor\" açıklamasında bulundu.\n\nTürkiye genelinde en fazla salımın 350 bin adetle Samsun'da yapıldığını, komşu il Ordu’da da 300 bin arıcığın doğaya bırakılacağını kaydeden Deligöz; enstitü personelinin yanı sıra Samsun Büyükşehir Belediyesinin de çalışmalara büyük destek sağladığını belirterek tüm paydaşlara ve katkı sunan yerel muhtarlara teşekkürlerini iletti.\n\nTARIM PUSULASI HABER MERKEZİ"
+    },
     {
       "title": "EZZİB: Zeytinyağında tarihi rekolte fiyat krizine dönmesin",
       "url": "https://www.tarimpusulasi.com/haber/ezzib-zeytinyaginda-tarihi-rekolte-fiyat-krizine-donmesin-46841",
@@ -95,22 +119,6 @@
       "content": "KARAMAN — Tarım ve Orman Bakanlığına bağlı Bitkisel Üretim Genel Müdürlüğü (BÜGEM), iklim krizinin etkilerini azaltmak ve hayvancılığı desteklemek amacıyla \"İklim Dirençli Mera Islahı\" projesini hayata geçirdi. Karaman ili Burunoba köyünde kuraklığa ve tuzluluğa dayanıklı Tuz Çalısı plantasyonu oluşturularak tesisi tamamlanan mera ıslah projesi, düzenlenen resmi törenle açıldı.\n\nGeniş bir katılımla gerçekleştirilen açılış törenine Tarım ve Orman Bakan Yardımcısı Ahmet Gümen, BÜGEM Genel Müdürü Uğur Erdem, AK Parti Milletvekili Selman Oğuzhan Eser, Karaman Valisi Hayrettin Çiçek, il müdürleri, sivil toplum kuruluşlarının temsilcileri ve üreticiler katıldı. Ayrıca, Tarımsal Sürdürülebilirlik ve Dayanıklılık Projesi (TARDİP) kapsamında faaliyet gösteren 11 farklı ilden çiftçiler de saha ziyareti amacıyla törende yer aldı.\n\nKarapınar Havzası İçin AR-GE Odaklı Yeni Yaklaşım\n\nAçılışta konuşan BÜGEM Genel Müdürü Uğur Erdem, projenin iklim krizinin etkilerinin çok yoğun hissedildiği Karapınar Havzası’nda, oldukça zorlu bir sahada yürütüldüğünü belirtti. Erdem, değişen iklim koşulları nedeniyle mera ıslah çalışmalarına artık daha farklı bir yaklaşım getirmek zorunda kaldıklarını vurgulayarak AR-GE çalışmalarına ağırlık verdiklerini ifade etti.\n\nİklim dirençli mera alanları oluşturmayı hedeflediklerini belirten Erdem, yürütülen laboratuvar ve saha çalışmaları sonucunda çalı türünde 8, otsu türünde ise 13 bitkinin tespit edilerek üretim ve çoğaltma süreçlerinin başlatıldığı bilgisini paylaştı.\n\n1730 Dekarlık Alan Hayvan Otlatılmasına Açıldı\n\nYöresel kültürün sergilendiği ve halk oyunları gösterilerinin yapıldığı törenin ardından, 1730 dekarlık geniş bir alanda kurulan Tuz Çalısı dikili mera sahasına Burunoba Köyü çiftçilerinin hayvanları salınarak alan resmen otlatmaya açıldı. Tören sonrasında uzmanlar ve akademisyenler sahayı gezerek, iklim dirençli mera ıslahında kritik bir çözüm olan Tuz Çalısının hayvancılık sektöründeki avantajlarını ve besleyici değerini yerinde değerlendirdi.\n\nTARIM PUSULASI HABER MERKEZİ"
     },
     {
-      "title": "TÜİK açıkladı: Tarım-ÜFE mayısta yıllık %43,08 arttı",
-      "url": "https://www.tarimpusulasi.com/haber/tuik-acikladi-tarim-ufe-mayista-yillik-4308-artti-46835",
-      "source": "Tarım Pusulası",
-      "date": "2026-06-16",
-      "summary": "Türkiye İstatistik Kurumu verilerine göre, Tarım ürünleri üretici fiyat endeksi mayıs ayında bir önceki aya göre yüzde 0,61, bir önceki yılın aynı ayına göre ise yüzde 43,08 artış gösterdi.",
-      "content": "ANKARA — Türkiye İstatistik Kurumu (TÜİK), 2026 yılı Mayıs dönemine ait Tarım Ürünleri Üretici Fiyat Endeksi (Tarım-ÜFE) verilerini kamuoyuyla paylaştı. Açıklanan verilere göre Tarım-ÜFE'de (2020=100), 2026 yılı Mayıs ayında bir önceki aya göre %0,61 artış, bir önceki yılın Aralık ayına göre %18,41 artış, bir önceki yılın aynı ayına göre %43,08 artış ve on iki aylık ortalamalara göre %41,54 artış gerçekleşti.\n\nSektörlerde bir önceki aya göre, tarım ve avcılık ürünleri ve ilgili hizmetlerde %0,24 artış, ormancılık ürünleri ve ilgili hizmetlerde %5,16 artış ve balık ve diğer balıkçılık ürünleri; su ürünleri, balıkçılık için destekleyici hizmetlerde %7,43 artış gerçekleşti. Ana gruplarda bir önceki aya göre, tek yıllık (uzun ömürlü olmayan) bitkisel ürünlerde %2,73 azalış, çok yıllık (uzun ömürlü) bitkisel ürünlerde %2,32 artış ve canlı hayvanlar ve hayvansal ürünlerde %3,47 artış gerçekleşti.\n\nSektör ve ana gruplara göre Tarım-ÜFE ve değişim oranları (%), Mayıs 2026\n\nEndeks\n\nBir önceki aya göre değişim oranı (%)\n\nBir önceki yılın Aralık ayına göre değişim oranı (%)\n\nBir önceki yılın aynı ayına göre değişim oranı (%)\n\nOn iki aylık ortalamalara göre değişim oranı (%)\n\nTarım-ÜFE\n\n1 208,99\n\n0,61\n\n18,41\n\n43,08\n\n41,54\n\nTarım ve avcılık ürünleri ve ilgili hizmetler\n\n1 192,08\n\n0,24\n\n18,02\n\n43,39\n\n41,25\n\nTek yıllık (uzun ömürlü olmayan) bitkisel ürünler\n\n1 209,66\n\n-2,73\n\n40,82\n\n70,50\n\n30,80\n\nÇok yıllık (uzun ömürlü) bitkisel ürünler\n\n1 151,24\n\n2,32\n\n-9,80\n\n16,07\n\n71,67\n\nCanlı hayvanlar ve hayvansal ürünler\n\n1 195,05\n\n3,47\n\n18,40\n\n34,36\n\n28,21\n\nOrman ürünleri ve ilgili hizmetler\n\n1 560,59\n\n5,16\n\n32,26\n\n38,92\n\n41,68\n\nBalık ve diğer balıkçılık ürünleri; su ürünleri, balıkçılık için destekleyici hizmetler\n\n1 471,28\n\n7,43\n\n16,83\n\n38,58\n\n50,62\n\nTarım-ÜFE yıllık değişim oranı (%), Mayıs 2026\n\nYıllık değişimin en yüksek olduğu alt grup %113,35 artış ile sebze ve kavun-karpuz, kök ve yumrular, aylık değişimin en yüksek olduğu alt grup %10,48 artış ile canlı kümes hayvanları ve yumurtalar oldu.\n\nAlt gruplara göre Tarım-ÜFE yıllık değişim oranları (%), Mayıs 2026\n\nAlt gruplara göre Tarım-ÜFE aylık değişim oranları (%), Mayıs 2026"
-    },
-    {
-      "title": "TEMA Vakfı Başkanı Ataç: Türkiye'de meralar %54 azaldı",
-      "url": "https://www.tarimpusulasi.com/haber/tema-vakfi-baskani-atac-turkiyede-meralar-54-azaldi-46834",
-      "source": "Tarım Pusulası",
-      "date": "2026-06-16",
-      "summary": "17 Haziran Dünya Çölleşme ve Kuraklıkla Mücadele Günü kapsamında konuşan TEMA Vakfı Başkanı Deniz Ataç, Türkiye'deki mera varlığının son 65 yılda yüzde 54 azaldığını açıkladı.",
-      "content": "İSTANBUL — 17 Haziran Dünya Çölleşme ve Kuraklıkla Mücadele Günü, çölleşme, kuraklık ve arazi tahribatının hızla arttığı bir dönemde doğal varlıkların korunmasının kritik önemini yeniden gündeme taşıyor. Birleşmiş Milletler’in (BM) 2026 yılını \"Uluslararası Meralar ve Çobanlık Yılı\" ilan etmesiyle birlikte, bu yılın küresel odağı kurak ve yarı kurak ekosistemlerin korunmasında anahtar rol oynayan meralar oldu. TEMA Vakfı, \"Fark Et, Koru, İyileştir!\" çağrısıyla mera alanlarının ekolojik, ekonomik ve sosyal değerine dikkat çekti.\n\nTEMA Vakfı Yönetim Kurulu Başkanı Deniz Ataç, meraların yalnızca hayvancılık faaliyetleriyle sınırlı görülmemesi gerektiğini vurguladı. Ataç, \"Doğal meralar; toprağı koruyan, suyun toprağa süzülmesini sağlayan, karbon depolayan ve çok sayıda canlıya yaşam alanı sunan ekosistemlerdir. İklim krizinin etkilerinin arttığı günümüzde meralar, çölleşme ve kuraklığa karşı en güçlü doğal kalkanlarımızdan biridir\" dedi.\n\nKaybedilen Alan Marmara Bölgesi'nin İki Katı\n\nDoğal meraların erozyonla mücadeledeki kritik rolüne değinen Deniz Ataç, Türkiye’nin mera varlığının son 65 yılda yüzde 54 azaldığı uyarısında bulundu. 1960’ta yaklaşık 29 milyon hektar olan çayır ve mera alanlarının bugün 13 milyon hektar seviyesine gerilediğini belirten Ataç, kaybedilen alanın Marmara Bölgesi’nin iki katını aşan bir büyüklükte olduğunu hatırlattı. Kentleşme, madencilik faaliyetleri, tarım arazisine dönüştürme ve arazi kullanım değişikliklerinin bu kaybın temel nedenleri olduğunu ifade eden Ataç, mevcut alanlar üzerindeki baskının hem ekosistem bütünlüğü hem de gıda güvenliği açısından ciddi riskler doğurduğunu söyledi.\n\nHayvancılıkta Kaba Yem Açığı Büyüyor\n\nMeraların gıda üretimi ve kırsal yaşamın en büyük güvencesi olduğunu belirten Ataç, Türkiye'deki meraların yüzde 70’inin düşük verimli, yeterli bitki örtüsünden yoksun ve bozulmuş halde olduğunu ifade etti. Bu bozulmanın hayvancılıkta kaba yem açığını büyüterek üretim maliyetlerini artırdığına dikkat çeken Ataç, şu değerlendirmede bulundu:\n\n\"Meraların iyileştirilmesi, kaba yem açığının azaltılmasına katkı sağlayarak üreticileri doğrudan destekler. Ayrıca kırsal yaşamın sürdürülmesi ve dünya genelinde hayvancılıkla geçimini sağlayan 500 million insanın ekonomik olarak güçlenmesi açısından da önemli bir fırsat sunar. Biyolojik çeşitliliğin korunması için meraların da ormanlar gibi güçlü koruma politikalarıyla desteklenmesi gerekiyor.\"\n\nYasal Düzenlemeler ve \"Geleceği Korumak\" Çağrısı\n\nTürkiye’de 4342 Sayılı Mera Kanunu’nun önemli bir yasal çerçeve sunduğunu ancak enerji, madencilik, turizm ve arazi kullanım taleplerinin bu alanları tehdit ettiğini belirten Deniz Ataç, Temmuz 2025’te kabul edilen Torba Yasa gibi düzenlemelerin doğal alanlar üzerindeki baskıyı artırdığını söyledi.\n\nTEMA Vakfı'nın Kurucu Onursal Başkanları merhum Hayrettin Karaca ve merhum A. Nihat Gökyiğit’in Mera Kanunu için büyük emek verdiklerini hatırlatan Ataç, \"Çölleşme ve kuraklıkla mücadelede başarının yolu; mera alanlarının korunmasından ve sürdürülebilir mera yönetiminden geçiyor. Tüm karar vericileri, yerel yönetimleri ve toplumu doğal meraları iyileştirmek için birlikte hareket etmeye davet ediyoruz\" diyerek sözlerini tamamladı.\n\nTARIM PUSULASI HABER MERKEZİ"
-    },
-    {
       "title": "İthal ete gizli zam: ESK'dan PERDER üyesi marketlere yüzde 28 zam geldi!",
       "url": "https://www.tarimdanhaber.com/ithal-ete-gizli-zam-eskdan-perder-uyesi-marketlere-yuzde-28-zam-geldi",
       "source": "Tarımdan Haber",
@@ -125,14 +133,6 @@
       "date": "2026-06-15",
       "summary": "Cumhurbaşkanı'nın fiyat dengeleme misyonuyla devasa bir ağ kuran Tarım Kredi Marketleri, 2026 yılı karlılık hedefleri doğrultusunda radikal bir tasarruf tedbirine gidiyor. Zarardan kara geçiş planı kapsamında, personel giderlerini minimize etmek isteyen yönetim; cirosu düşük yaklaşık 200 markette ha",
       "content": "Sadettin İnan / 2025 yılını 4,7 milyar TL zararla kapatan ve teknik iflastan kurtulmak için 4 milyar TL’lik sermaye desteği alan Tarım Kredi Marketleri, 2026 yılı için radikal bir karar aldı. Şirketin zarardan kara geçmesi için 100 milyar TL ciro hedefine ulaşması planlanırken, yönetim tasarruf için \"mağaza kapatma\" yöntemini seçti.\n\nPersonel Gideri İçin Haftalık Tatil Modeli\n\n100 milyar liralık ciro hedefine ulaşmak için operasyonel maliyetleri aşağı çekmek isteyen Tarım Kredi Market yönetimi, personel giderlerini düşürmek adına ilginç bir strateji geliştirdi. Edinilen bilgilere göre, cirosu düşük olan ve dönüşümlü çalışacak yeterli personeli bulunmayan yaklaşık 200 markette, haftanın bir günü \"tatil\" uygulanacak.\n\nBu kısıtlamanın, marketlerin en hareketli olduğu Cumartesi, Pazar veya Pazartesi günlerini kapsayacak. Yönetimin hesaplamasına göre bu modelle hem personel gideri minimize edilecek hem de verimlilik artırılacak.\n\nZarardan Kara Geçiş: Mümkün mü?\n\nUzmanlar, perakende sektöründe \"erişilebilirlik\" ve \"sürekliliğin\" ciro üzerindeki etkisine dikkat çekiyor. Cirosu düşük marketleri bir gün kapatmanın, o mağazaların sadık müşteri kitlesini rakip zincir marketlere kaydırabileceği ve orta vadede hedeflenen ciro artışının aksine, pazar payı kaybına yol açabileceği belirtiliyor.\n\nHedef 100 Milyar TL Ciro\n\n2025 yılındaki mali tabloyu düzeltmek için merkez birlikten sermaye transferi alan Tarım Kredi Marketler, 2026 sonunda \"kârlı bir şirket\" olma vizyonunu taşıyor. Ancak bu hedefe giden yolda, 200 noktada uygulanacak bu \"kısıtlı çalışma\" modelinin, saha operasyonlarında nasıl bir karşılık bulacağı merak konusu."
-    },
-    {
-      "title": "Hububat üreticisinin gözü Bakanlıkta: 310 TL'lik dekar desteği ne zaman ve ne kadar artacak?",
-      "url": "https://www.tarimdanhaber.com/hububat-ureticisinin-gozu-bakanlikta-310-tllik-dekar-destegi-ne-zaman-ve-ne-kadar-artacak",
-      "source": "Tarımdan Haber",
-      "date": "2026-06-14",
-      "summary": "TMO hububat alım fiyatlarındaki beklentiyi karşılayamayan çiftçinin gözü, Cumhurbaşkanı Erdoğan'ın müjdesini verdiği 'destek güncellemesine' çevrildi. Tarım ve Orman Bakanı İbrahim Yumaklı, 2026 yılı için açıklanan 310 TL'lik dekar başına birim destek miktarının, hasat sonu girdi maliyetleri hesapla",
-      "content": "Haber Merkezi / Hububatta TMO tarafından açıklanan alım fiyatlarının düşük açıklanması çiftçide büyük bir hayal kırıklığına neden olurken, Cumhurbaşkanı Erdoğan, buğday ve arpada alım fiyatlarını artırmak yerine tarımsal destekler miktarlarının artırılacağını açıklamıştı. Ancak destek tutarlarının ne zaman ve ne kadar artırılacağı açıklanmamıştı. Tarım ve Orman Bakanı İbrahim Yumaklı, İran savaşından dolayı artan girdi maliyetlerinin nasıl hesaplanarak, destek tutarının ne zaman artırılacağına dair açıklamalarda bulundu.\n\nİlgili Haber→ Erdoğan'dan çiftçiye yeni destek açıklaması: Buğday fiyatı değişmedi\n\nTürkmedya tarafından düzenlenen tarım zirvesinde çiftçinin gündemindeki destek tutarlarına yönelik merak edilen soruları yanıtlayan Tarım Bakanı İbrahim Yumaklı, 2026 yılı için açıklanan 310 TL'lik birim destek tutarının hangi kriterlere göre artırılacağına açıklık getirdi.\n\n[youtube-video]https://www.youtube.com/watch?v=scy-k5rojx4[/youtube-video]\n\n\"Hasat Tamamlanmadan Hesap Yapamayız\"\n\nÇiftçinin en çok merak ettiği \"ne kadar artacak ve ne zaman ödenecek?\" sorusuna yanıt veren Bakan Yumaklı, hesaplama yöntemi için hasat döneminin tamamlanması gerektiğini vurguladı. Yumaklı, yaptığı açıklamada şu ifadelere yer verdi:\n\n\"Bütün bunları bizim hesaplayabilmemiz için üretim faaliyetlerinin sona ermesi gerekiyor. Yani hasat dönemlerinin tamamlanması lazım. Dolayısıyla biz üretim sezonunun sonunda, savaşın getirmiş olduğu girdi maliyetlerindeki artışı hesaplayarak, 2026 yılı için belirlenmiş olan 310 liralık dekar başına birim destek fiyatına eklemiş olacağız.\"\n\nÇiftçi Beklentisi: Alım Fiyatı mı, Destek mi?\n\nHububat alım fiyatlarının düşük açıklanmasıyla birlikte üreticiler, maliyetlerini karşılayacak bir fiyat iyileştirmesi bekliyordu. Ancak hükümetin stratejisi, alım fiyatını yükseltmek yerine \"destekleme ödemelerini artırmak\" üzerine kuruldu.\n\nŞimdi Ne Olacak?\n\nBakan Yumaklı'nın yaptığı açıklamaya göre çiftçi girdi maliyetlerindeki artışın desteklere yansıtılması için hasat sonu beklenecek. Hasat sonunda hesaplanan artışlar, desteklere ilave edilecek ancak çiftçi artılan bu destek miktaarını en erken 2027 yılı Mart-Nisan ayında alabilecek."
     }
   ],
   "commoditiesByBorsa": {
@@ -328,5 +328,17 @@
   "defaultBorsa": "5ED10",
   "defaultCity": "CANAKKALE",
   "note": "Fiyatlar TOBB ticaret borsasından (borsa seçilebilir). Kanola manuel (Trakya 2025).",
-  "inputsNote": "Mazot: akaryakıt bayi fiyatı, günlük (şehir seçilebilir). Gübre: manuel (yaklaşık)."
+  "inputsNote": "Mazot: akaryakıt bayi fiyatı, günlük (şehir seçilebilir). Gübre: manuel (yaklaşık).",
+  "errors": [
+    "mazot ANKARA: fetch failed",
+    "mazot ISTANBUL: fetch failed",
+    "mazot IZMIR: fetch failed",
+    "mazot KONYA: fetch failed",
+    "mazot ADANA: fetch failed",
+    "mazot BURSA: fetch failed",
+    "mazot ANTALYA: fetch failed",
+    "mazot SAMSUN: fetch failed",
+    "mazot TEKIRDAG: fetch failed",
+    "mazot CANAKKALE: fetch failed"
+  ]
 }
