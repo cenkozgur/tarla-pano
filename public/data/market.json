@@ -1,43 +1,67 @@
 {
-  "updatedAt": "2026-06-18T05:08:05.112Z",
+  "updatedAt": "2026-06-18T09:46:42.213Z",
   "fx": [
     {
       "code": "USD",
       "name": "Dolar",
-      "buy": 46.43,
+      "buy": 46.44,
       "sell": 46.45,
-      "change": 0.17
+      "change": 0.18
     },
     {
       "code": "EUR",
       "name": "Euro",
-      "buy": 53.51,
-      "sell": 53.52,
-      "change": 0.05
+      "buy": 53.32,
+      "sell": 53.33,
+      "change": -0.32
     },
     {
       "code": "GRA",
       "name": "Gram Altın",
-      "buy": 6444.02,
-      "sell": 6444.81,
-      "change": 1.58
+      "buy": 6373.63,
+      "sell": 6374.53,
+      "change": 0.47
     },
     {
       "code": "CEYREKALTIN",
       "name": "Çeyrek Altın",
-      "buy": 10477.03,
-      "sell": 10718.46,
-      "change": 0
+      "buy": 10269.97,
+      "sell": 10506.77,
+      "change": -1.98
     },
     {
       "code": "CUMHURIYETALTINI",
       "name": "Cumhuriyet Altını",
-      "buy": 43366,
-      "sell": 44021,
-      "change": -0.34
+      "buy": 42576,
+      "sell": 43219,
+      "change": -1.82
     }
   ],
   "news": [
+    {
+      "title": "Bangladeş Gıda Bakanlığı: Buğday İthalatı Yüzde 25 Arttı",
+      "url": "https://www.tarimpusulasi.com/haber/banglades-gida-bakanligi-bugday-ithalati-yuzde-25-artti-46846",
+      "source": "Tarım Pusulası",
+      "date": "2026-06-18",
+      "summary": "The Financial Express’in yayımladığı rapora göre Bangladeş, küresel fiyatlardaki istikrarı fırsata çevirerek buğday ithalatını %25 artırdı. Ülkenin toplam gıda tahılı ithalatının 9 milyon tona ulaşarak tarihi zirveye yaklaşması bekleniyor.",
+      "content": "DAKKA — Asya piyasalarında tahıl ticareti hareketlenirken, Bangladeş küresel pazardan yaptığı alımlarla dikkat çekiyor. The Financial Express gazetesinin Bangladeş Gıda Bakanlığı resmi verilerine dayandırdığı habere göre ülke, 2025-26 mali yılında tarihinin en yüksek ikinci gıda tahılı ithalat hacmine ulaşma yolunda ilerliyor. Küresel piyasalarda fiyatların istikrarlı seyretmesini fırsat bilen Bangladeş hükümeti ve özel sektörü, buğday tedarikine hız verdi.\n\nİthalat Giderleri 2,24 Milyar Dolara Ulaştı\n\nAçıklanan resmi verilere göre, özel tüccarlar ve devlet eliyle yapılan pirinç ile buğday ithalatı 31 Mayıs itibarıyla 8,4 milyon ton sınırını aştı. Mali yıl sonuna kadar toplam ithalatın 9 milyon tona ulaşacağı tahmin ediliyor. Bu dönemde pirinç alımları yatay bir seyir izlerken, buğday ithalatı hacimsel olarak yüzde 25'in üzerinde bir artış gösterdi. Bangladeş Merkez Bankası verileri gıda tahılı ithalat faturalarının yüzde 33 artarak 2,24 milyar dolara yükseldiğini, bu harcamanın 1,77 milyar dolarlık aslan payının sadece buğday alımına ayrıldığını ortaya koydu.\n\nFiyat İstikrarı Sağlandı Ama Tüketiciye Yansımadı\n\nBangladeş Gıda Genel Müdürlüğü (DGoF) Direktörü Md Moniruzzaman, hem güçlü yerel üretim hem de zamanında yapılan ithalat sayesinde devletin gıda stokunun 1,7 milyon tona yükseldiğini ve arz güvenliği sorunu bulunmadığını vurguladı. Sektör uzmanlarından Prof. Golam Hafeez Kennedy, uluslararası piyasada buğdayın tonunun 220-250 dolar, pirincin ise 380-450 dolar bandında kalmasının bu tedarik başarısını getirdiğini belirtti.\n\nMadalyonun diğer yüzünde ise tüketici hakları savunucuları yer alıyor. Bangladeş Tüketiciler Derneği (CAB) Başkan Yardımcısı SM Nazer Hossain, küresel buğday fiyatları yüzde 12 ila 15 arasında düşmesine rağmen iç pazardaki un ve pirinç fiyatlarının yüksek kalmaya devam ettiğini belirterek, artan ithalat hacminden yerel tüketicinin henüz faydalanamadığı eleştirisinde bulundu.\n\nTARIM PUSULASI HABER MERKEZİ"
+    },
+    {
+      "title": "Tahıl Konseyi Tahmini: Küresel Fasulye Üretimi %2 Azalacak",
+      "url": "https://www.tarimpusulasi.com/haber/tahil-konseyi-tahmini-kuresel-fasulye-uretimi-2-azalacak-46845",
+      "source": "Tarım Pusulası",
+      "date": "2026-06-18",
+      "summary": "Uluslararası Tahıl Konseyi (IGC), 2026/27 sezonunda dünya kuru fasulye üretiminin yüzde 2 düşerek 29,6 milyon tona gerileyeceğini duyurdu. Üretim kaybında ABD, Hindistan ve Brezilya başı çekiyor.",
+      "content": "LONDRA — Küresel gıda piyasaları ve bakliyat sektörü, üretim tahminlerindeki gerileme sinyalleriyle hareketleniyor. Uluslararası Tahıl Konseyi (IGC) tarafından yayımlanan son raporda, 2026/27 sezonuna ilişkin dünya genelindeki kuru fasulye üretimi masaya yatırıldı. Kurum analistlerinin öngörülerine göre, geçtiğimiz yıl yakalanan istikrarlı üretim seviyesinin ardından, küresel kuru fasulye üretimi yeni sezonda yıllık bazda yüzde 2 oranında bir daralma yaşayacak. Bu düşüşle birlikte dünya üretim hacminin 29,6 milyon tona gerilemesi bekleniyor.\n\nÜç Dev Ülkede Rekolte Kaybı Kapıda\n\nIGC analistleri, küresel ölçekteki bu azalışın arkasındaki temel nedenleri önemli üretici ülkelerdeki tarımsal daralmaya bağlıyor. Raporda; Hindistan, ABD ve Brezilya gibi dünya kuru fasulye arzını sırtlayan kritik ülkelerde bu yıl daha düşük rekolte elde edileceği vurgulanıyor.\n\nPiyasadaki arzın azalmasına paralel olarak, küresel tüketim hacminin 29,9 milyon tona, küresel stokların ise 4,1 milyon tona gerileyeceği tahmin ediliyor. Öte yandan ticari hareketlilik cephesinde istikrarlı bir seyir hakim. 2026 yılı genelinde kuru fasulye ticaret hacminin, 2025 verileriyle uyumlu şekilde 5,3 milyon ton seviyesinde kalacağı; 2027 yılında da Asya pazarındaki talep değişikliklerinin asgari düzeyde kalması sebebiyle bu seyrin değişmeyeceği öngörülüyor.\n\nTARIM PUSULASI HABER MERKEZİ"
+    },
+    {
+      "title": "Rusya Tarım Raporu: Türkiye'ye Yulaf Sevkiyatı Devam Ediyor",
+      "url": "https://www.tarimpusulasi.com/haber/rusya-tarim-raporu-turkiyeye-yulaf-sevkiyati-devam-ediyor-46844",
+      "source": "Tarım Pusulası",
+      "date": "2026-06-18",
+      "summary": "Rusya, 2026 yılının ilk 4 ayında yulaf ihracatını yüzde 23 artırarak 111 bin tona çıkardı. En büyük alıcı 76 bin tonla Çin olurken, Türkiye de ithalatçı ülkeler arasında yer aldı.",
+      "content": "MOSKOVA — Küresel tahıl pazarında hareketlilik sürerken, Rusya'nın yulaf ihracatında önemli bir ivme yakalandı. Sektör uzmanlarının paylaştığı verilere göre, 2026 yılının ilk 4 ayında Rusya, yurt dışına 23,5 milyon ABD dolarını aşan değerde yaklaşık 111 bin ton yulaf ihraç etti. Bu dönemde elde edilen ihracat hacmi, geçen yılın aynı dönemine kıyasla hem miktar hem de finansal değer bazında yüzde 23 oranında artış gösterdi.\n\nÇin Liderliğini Koruyor, Türkiye Alıcılar Arasında\n\nAçıklanan ihracat verilerine göre, Rus yulafını en çok tercih eden ülkelerin başında Çin Halk Cumhuriyeti geldi. Çin, Rusya'dan 76 bin tondan fazla yulaf ithal ederek lider konumda yer aldı. Çin'i 20 bin tonu aşan ithalatıyla Moğolistan ve 11 bin tonun üzerindeki alımıyla Kazakistan takip etti.\n\nUluslararası pazarda pazar payını genişleten Rusya, ilk üç sırada yer alan bu ülkelerin yanı sıra Türkiye, Ermenistan, Gürcistan ve Kırgızistan dahil olmak üzere dünyanın birçok farklı noktasına yulaf tedariki sağlamaya devam ediyor. Nisan ayına ait Avrasya Ekonomik Birliği (AEB) ülkelerinin verilerinin henüz tamamen netleşmediği, bu rakamların önümüzdeki süreçte daha da yukarı yönlü güncellenebileceği belirtiliyor.\n\nTARIM PUSULASI HABER MERKEZİ"
+    },
     {
       "title": "Tekirdağ’da 2026 biçim ücretleri belli oldu: Hububat ve ayçiçeğinde dekar başına 400 TL",
       "url": "https://www.tarimdanhaber.com/tekirdagda-2026-bicim-ucretleri-belli-oldu-hububat-ve-ayciceginde-dekar-basina-400-tl",
@@ -109,30 +133,6 @@
       "date": "2026-06-17",
       "summary": "Tarımdan Haber’in gündeme getirdiği, Tarım Kredi Kooperatifleri’ndeki \"koltuk ömrü\" tartışması bürokraside yankılanmaya devam ediyor. Genel Müdür Hüseyin Aydın’ın, \"Bedrettin Yıldırım’ın rekorunu egale edip 7-10 yıl buradayım\" şeklindeki tartışmalı sözlerini mercek altına alan Yazar Hasan Yakup Cang",
       "content": "Haber Merkezi / Tarımdan Haber'in; \"Hüseyin Aydın: \"Bedrettin Yıldırım’ın rekorunu egale edip, en az 7 ile 10 yıl buradayım!\" başlıklı haberi, Tarım Kredi Kooperatifleri’nde \"koltuk ömrü\" tartışmasını yeniden alevlendirdi. Genel Müdür Hüseyin Aydın’ın, kurum içi bayramlaşmada dile getirdiği \"Bedrettin Yıldırım’ın rekorunu egale edip en az 7-10 yıl buradayım\" sözleri, yazar Hasan Yakup Cangüven tarafından mercek altına alındı.\n\nTürkiye’nin en büyük çiftçi kuruluşu olan Tarım Kredi Kooperatifleri’nde, bayramlaşma programında günde gelen \"genel müdürlük süresi\" polemiği, bürokrasi kulislerinin en çok konuştuğu konu haline geldi. Yazar Hasan Yakup Cangüven, bu tartışmalı çıkışı \"sıradan bir bayram sohbetinden öte, derin anlamlar barındıran bir güç gösterisi\" olarak tanımladı.\n\nBurada en uzun süre görev yapan genel müdür kim?\n\nHüseyin Aydın, bayramlaşma programında personele dönerek, \"Burada en uzun süre görev yapan genel müdür kim?\" sorusunu yöneltip, \"Bedrettin Yıldırım\" cevabını almış ve devamında; \"Ben de Bedrettin Yıldırım’ın rekorunu egale edip, en az 7 ile 10 yıl buradayım\" sözleriyle cevap vermişti.\n\nAntalya Son Haber'de; 'Hüseyin Aydın mı Bedrettin Yıldırım mı?' başlıklı bir makale kaleme alan Hasan Yakup Cangüven, \"Bir kurumda esas alınması gereken ölçüt, bir yöneticinin o makamda kaç yıl kaldığı mıdır; yoksa görev süresi boyunca ortaya koyduğu liyakat, mali disiplin, yönetsel başarı ve üretici nezdinde inşa ettiği güven duygusu mudur?\"\n\n\"Nicelik mi, Nitelik mi?\"\n\nYönetimin \"niceliksel ego yarışı\" yerine \"niteliksel performans\" kriterlerine dönmesi gerektiğinin altını çizen Cangüven, bu durumu vizyon, iştirakler ve personel üzerindeki etkisi yönünden değerlendirdi.\n\nVizyon Sorgusu: \"Aydın’ın 7-10 yıl vurgusu, kurumu uzun vadeli bir iradeyle yönetme kararlılığı mı; yoksa değişen siyasi konjonktürde koltuğu sağlama alma çabası mı?\"\n\nİştirakler ve Kara Delikler: \"İştirakler kendi ayakları üzerinde duruyor mu, yoksa ana kurumun kaynaklarını yutan birer kara delik haline mi geldi? Başarı, koltukta oturanın süresiyle değil, çiftçiye sağlanan bu somut katkılarla ölçülür.\"\n\nPersonel Üzerindeki Etki: Cangüven, bu söylemin kurum içinde bir \"güç haritası\" olarak okunduğunu, özellikle değişim bekleyen personel üzerinde \"mevcut düzene itiraz etmeyin\" mesajı verilmeye çalışıldığını belirtti.\n\nCangüven'den \"Bedrettin Yıldırım\" Vurgusu\n\nBedrettin Yıldırım'ın yönetim anlayışını hatırlatarak, onun dönemindeki \"insan yönetme ahlakına\" dikkat çeken Cangüven, \"Bedrettin Yıldırım; çalışanını kalabalıklar önünde küçük düşürmeyen, kurumsal iradeyi şahsileştirmeyen ve yönetim kurulunu bir onay merciine indirgemeyen bir anlayışla hareket etti. Bugünün yöneticilerine düşen; makam sürelerini yarıştırmak değil, o makamı bıraktıktan sonra saygıyla yad edilmektir.\"\n\nKonuyla ilgili çok konuşulacak analizleri içeren Hasan Yakup Cangüven'in 'Hüseyin Aydın mı, Bedrettin Yıldırım mı?' başlıklı makalesinin tamamına buradan ulaşabilirsiniz.\""
-    },
-    {
-      "title": "CHP'li Öztürkmen: Gaziantep'te çiftçi TMO'dan randevu alamıyor",
-      "url": "https://www.tarimpusulasi.com/haber/chpli-ozturkmen-gaziantepte-ciftci-tmodan-randevu-alamiyor-46839",
-      "source": "Tarım Pusulası",
-      "date": "2026-06-16",
-      "summary": "CHP Gaziantep Milletvekili Hasan Öztürkmen, TMO'nun randevu sistemi nedeniyle hububatını satamayan çiftçilerin ürünü tüccara ucuza satmak zorunda kaldığını açıkladı.",
-      "content": "GAZİANTEP — Cumhuriyet Halk Partisi (CHP) Gaziantep Milletvekili Hasan Öztürkmen, girdi maliyetlerinin altında açıklanan mahsul alım fiyatlarının ardından üreticilerin şimdi de Toprak Mahsulleri Ofisi'nde (TMO) \"randevu\" kriziyle karşı karşıya kaldığını belirtti. Öztürkmen, ürününü kamu kurumuna satamayan çiftçilerin ciddi şekilde mağdur edildiğini ifade etti.\n\n\"16,5 Liralık Fiyat 'Çalışarak Bat' Demektir\"\n\nÜreticilerin zorunlu maliyetlerinin son bir yılda yüzde 100 zamlandığını ancak mahsul alım fiyatlarının yalnızca yüzde 15 artırıldığını dile getiren Öztürkmen, arpanın 12 bin 750 TL, buğdayın ise 16 bin 500 TL olarak belirlendiğini hatırlattı. Hububat fiyatlarının enflasyonun çok altında kaldığını savunan CHP'li vekil, \"Maliyeti 25 TL'ye yaklaşan buğdaya TMO tarafından 16,5 TL fiyat biçilmesi, adeta Türk çiftçisine 'çalışarak bat' demekten başka bir şey değildir\" dedi.\n\nRandevu Alamayan Çiftçi Tüccarın İnsafına Kaldı\n\nÇiftçilerin belirlenen bu düşük fiyattan dahi TMO'ya ürün teslim edemediğini aktaran Öztürkmen, randevu sistemindeki aksaklıkları şu sözlerle özetledi:\n\n\"Çiftçi ürününü satmak için ya randevu alamıyor ya da çok geç tarihlerde randevu bulabiliyor. Tonlarca hasadı depolama imkânı olmayan üretici, ürününü tüccara daha ucuz fiyatlardan satmak zorunda bırakılıyor. Bu yüzden piyasada buğday satış fiyatları 13-14 TL'ye kadar düşüyor. Diğer yandan TMO'ya ürün satmayı başaran az sayıda çiftçinin ise analiz değerleri gerekçe gösterilerek alım fiyatlarında kesintiler yapılıyor.\"\n\nGaziantep genelinde, özellikle İslahiye ve Nizip ilçelerindeki üreticilerden yoğun şikayetler aldıklarını belirten Öztürkmen, randevu çilesini fırsat bilen bazı grupların çiftçiden ucuza topladıkları mahsulü TMO'ya satarak haksız kazanç sağladığını iddia etti.\n\nTarım Bakanı Yumaklı'ya Çağrı: \"Sistemden Vazgeçin\"\n\nTarım ve Orman Bakanı İbrahim Yumaklı ve ekonomi yönetimine seslenen Hasan Öztürkmen, mevcut şartların sürmesi halinde üreticilerin gelecek yıllarda tarımdan çekileceğini vurguladı. Öztürkmen, \"TMO'daki bu randevu sisteminden derhal vazgeçin! Çiftçinin mahsulünü bekletmeden, sıraya koymadan satın alın. Bugünün şartlarında buğday fiyatının en az 25 TL olması gerekir\" ifadelerini kullanarak üreticilere yönelik girdi desteklerinin artırılması çağrısında bulundu.\n\nTARIM PUSULASI HABER MERKEZİ"
-    },
-    {
-      "title": "Dr. İnci Ateş uyardı: Çölleşme gıda krizini tetikliyor",
-      "url": "https://www.tarimpusulasi.com/haber/dr-inci-ates-uyardi-collesme-gida-krizini-tetikliyor-46838",
-      "source": "Tarım Pusulası",
-      "date": "2026-06-16",
-      "summary": "Atlas Üniversitesi Öğretim Üyesi Dr. H. İnci Ateş, 17 Haziran Dünya Çölleşme ve Kuraklıkla Mücadele Günü'nde çölleşmenin halk sağlığı ve gıda güvencesi üzerindeki ölümcül risklerine dikkat çekti.",
-      "content": "İSTANBUL — Atlas Üniversitesi Meslek Yüksekokulu Çevre Sağlığı ve Çevresel Risk Yönetimi Teknikerliği Program Başkanı Dr. Öğr. Üyesi H. İnci Ateş, Birleşmiş Milletler tarafından ilan edilen 17 Haziran Dünya Çölleşme ve Kuraklıkla Mücadele Günü kapsamında kritik uyarılarda bulundu. Toprak kaybı ve kuraklaşmanın yalnızca ekolojik bir ekosistem sorunu olmadığını vurgulayan Ateş, bu durumun insan sağlığını ve hayatta kalma dinamiklerini doğrudan tehdit eden küresel bir sağlık riski olduğunu ifade etti.\n\nTarımsal Çöküş ve Malnütrisyon Tehlikesi\n\nKüresel sıcaklık artışlarının tarımsal üretimi, su kaynaklarını ve gıda sürdürülebilirliğini geri dönülemez biçimde olumsuz etkilediğini belirten Dr. H. İnci Ateş, verimli toprakların çoraklaşmasının doğrudan gıda güvencesizliğine yol açtığını söyledi. Ateş, besleyici gıdaya erişimin engellenmesinin küresel ölçekte bir malnütrisyon (yetersiz beslenme) krizini tetikleyebileceği uyarısında bulundu.\n\nÇölleşmenin solunum yolları ve temiz su kaynakları üzerindeki diğer etkilerini ise şu şekilde sıraladı:\n\nHava Kalitesinin Bozulması: Kuraklaşan arazilerin rüzgarlarla toza dönüşmesi, havadaki partikül madde miktarını artırarak astım, KOAH ve solunum yolu enfeksiyonlarında ciddi artışlara neden oluyor.\n\nSuya Bağlı Epidemiler: Toprağın su tutma ve filtreleme kapasitesinin bozulması, temiz içme suyu kaynaklarını yok ediyor. Yaşanacak su kıtlığı, hijyen sorunlarını ve suyla bulaşan salgın hastalık risklerini doğrudan tırmandırıyor.\n\nGelecek Nesiller İçin 3 Acil Çözüm Önerisi\n\nİklim krizinin ve çölleşmenin etkilerini hafifletmek amacıyla acil bir eylem planı oluşturulması gerektiğini hatırlatan Ateş, bireylerden kurumlara kadar uzanan ortak sorumluluk adımlarını paylaştı:\n\nEkosistem Direncinin Artırılması: Yenilenebilir enerji kaynaklarının yaygınlaştırılması, enerji verimliliği ile ormanlar ve sulak alanların tavizsiz korunması.\n\nBireysel Sorumluluklar: Su tasarrufunun her evde zorunlu hale gelmesi, gıda israfının önlenmesi ve sürdürülebilir tüketim alışkanlıklarının geliştirilmesi.\n\nÇok Paydaşlı Sinerji: Kamu kurumları, üniversiteler, yerel yönetimler ve sivil toplum kuruluşlarının ortak eylem planları üretmesi.\n\nSaha Uzmanlarına Önemli Görevler Düşüyor\n\nAtlas Üniversitesi Meslek Yüksekokulu bünyesindeki Çevre Sağlığı ve Çevresel Risk Yönetimi Teknikerliği programının tam da bu krizlerle mücadele edecek saha uzmanları yetiştirdiğini aktaran Dr. Öğr. Üyesi H. İnci Ateş, \"Öğrencilerimizi su, hava ve toprak kirliliğini izleyebilen, ekolojik riskleri önceden saptayabilen ve halk sağlığını koruyacak acil durum eylem planlarını yürütecek profesyoneller olarak hazırlıyoruz. Çölleşme ve kuraklıkla mücadele, bu teknik uzmanlığın sahada doğru uygulanmasıyla başarıya ulaşacaktır\" diyerek sözlerini tamamladı.\n\nTARIM PUSULASI HABER MERKEZİ"
-    },
-    {
-      "title": "TÜSEDAD Başkanı Doğru: Çiftçiye vergi indirimi uygulanmalı",
-      "url": "https://www.tarimpusulasi.com/haber/tusedad-baskani-dogru-ciftciye-vergi-indirimi-uygulanmali-46837",
-      "source": "Tarım Pusulası",
-      "date": "2026-06-16",
-      "summary": "TÜSEDAD Başkanı Müslüm Doğru, şirketlere getirilen yüzde 12,5'lik zirai vergi indiriminin gerçek kişi üreticilere ve küçük çiftçilere de uygulanmasını istedi.",
-      "content": "ANKARA — Tüm Süt, Et ve Damızlık Sığır Yetiştiricileri Derneği (TÜSEDAD) Yönetim Kurulu adına açıklama yapan Başkan Müslüm Doğru, tarımsal faaliyetlerde uygulanan vergi politikalarına ilişkin kritik bir çağrıda bulundu. 7582 sayılı Bazı Kanunlarda Değişiklik Yapılmasına Dair Kanun ile Kurumlar Vergisi Kanunu’nda yapılan yeni düzenlemeyi değerlendiren Doğru, sağlanan mali avantajların kapsamının genişletilmesi gerektiğini vurguladı.\n\nYapılan yasal düzenlemeyle birlikte, 2027 yılından itibaren zirai üretim faaliyetiyle iştigal eden limited ve anonim şirketlerin bu faaliyetlerden elde ettikleri kazançlarına uygulanan kurumlar vergisi oranı %25’ten %12,5’e düşürüldü. TÜSEDAD Başkanı Doğru, bu indirimin şirketleşmiş üreticiler için önemli bir avantaj olduğunu belirtirken, Türkiye'deki tarımsal üretimin çok büyük bir kısmının gerçek kişiler ve adi ortaklıklar tarafından yürütüldüğünü hatırlattı.\n\n\"Gerçek Kişi Üreticiler Kademeli Vergi Altında Eziliyor\"\n\nMevcut sistemde limited ve anonim şirket dışındaki gerçek kişi mükelleflerin zirai kazançları için Gelir Vergisi Kanunu’na göre %15 ile %40 arasında kademeli vergi oranlarının uygulanmaya devam ettiğine dikkat çeken Müslüm Doğru, bu durumun sektör içinde bir adaletsizlik yarattığını ifade etti. TÜSEDAD olarak Gelir Vergisi Kanunu’nun 103. maddesine, \"Zirai faaliyetlerden elde edilen kazançlara tarifedeki oranların yarısı uygulanır\" hükmünün eklenmesini önerdiklerini dile getirdi.\n\nVergi İndiriminin Sektöre Sağlayacağı 4 Temel Avantaj\n\nTÜSEDAD Başkanı Müslüm Doğru, zirai vergi indiriminin gerçek kişilere de yansıtılması durumunda tarım sektöründe şu olumlu gelişmelerin yaşanacağını belirtti:\n\nVergi Yükü Dengelenecek: Şirketleşmiş büyük üreticiler ile aile işletmesi olan gerçek kişiler arasındaki vergi yükü eşitlenecek.\n\nKayıt Dışılık Azalacak: Çiftçilerin kayıt dışı üretim yapmaktan uzaklaşması ve sisteme dahil olması teşvik edilecek.\n\nKüçük İşletmeler Güçlenecek: Tarımın omurgasını oluşturan küçük ve orta ölçekli işletmelerin mali gücü artacak.\n\nVergi Tabanı Genişleyecek: Kayıtlı mükellef sayısının artmasıyla birlikte devletin vergi tabanı uzun vadede daha da genişleyecek.\n\nDoğru, bu yasal değişikliğin hayata geçirilmesinin tarım sektörünün topyekün güçlenmesi, üreticilerin sürdürülebilir üretime teşvik edilmesi ve Türkiye'nin gıda güvenliğinin garanti altına alınması açısından kritik bir eşik olduğunu vurguladı.\n\nTARIM PUSULASI HABER MERKEZİ"
     }
   ],
   "commoditiesByBorsa": {
@@ -152,10 +152,10 @@
           "key": "arpa",
           "name": "Arpa",
           "unit": "₺/kg",
-          "price": 11.51,
-          "change": 0,
+          "price": 11.29,
+          "change": -1.91,
           "source": "Edirne TB",
-          "date": "2026-06-16"
+          "date": "2026-06-18"
         },
         {
           "key": "aycicegi",
@@ -253,10 +253,10 @@
       "key": "arpa",
       "name": "Arpa",
       "unit": "₺/kg",
-      "price": 11.51,
-      "change": 0,
+      "price": 11.29,
+      "change": -1.91,
       "source": "Edirne TB",
-      "date": "2026-06-16"
+      "date": "2026-06-18"
     },
     {
       "key": "aycicegi",
