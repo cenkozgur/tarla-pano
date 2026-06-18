@@ -1,43 +1,59 @@
 {
-  "updatedAt": "2026-06-18T12:41:36.903Z",
+  "updatedAt": "2026-06-18T16:18:39.952Z",
   "fx": [
     {
       "code": "USD",
       "name": "Dolar",
-      "buy": 46.44,
-      "sell": 46.45,
-      "change": 0.18
+      "buy": 464391,
+      "sell": 464485,
+      "change": 18
     },
     {
       "code": "EUR",
       "name": "Euro",
-      "buy": 53.32,
-      "sell": 53.33,
-      "change": -0.32
+      "buy": 53244,
+      "sell": 532602,
+      "change": -45
     },
     {
       "code": "GRA",
       "name": "Gram Altın",
-      "buy": 6373.63,
-      "sell": 6374.53,
-      "change": 0.47
+      "buy": 630968,
+      "sell": 631059,
+      "change": -54
     },
     {
       "code": "CEYREKALTIN",
       "name": "Çeyrek Altın",
-      "buy": 10269.97,
-      "sell": 10506.77,
-      "change": -1.98
+      "buy": 1023719,
+      "sell": 1047099,
+      "change": -231
     },
     {
       "code": "CUMHURIYETALTINI",
       "name": "Cumhuriyet Altını",
-      "buy": 42576,
-      "sell": 43219,
-      "change": -1.82
+      "buy": 42486,
+      "sell": 43129,
+      "change": -203
     }
   ],
   "news": [
+    {
+      "title": "Kazakistan Tarım Bakanlığı Buğday İthalatını Yasaklayacak",
+      "url": "https://www.tarimpusulasi.com/haber/kazakistan-tarim-bakanligi-bugday-ithalatini-yasaklayacak-46850",
+      "source": "Tarım Pusulası",
+      "date": "2026-06-18",
+      "summary": "Kazakistan, yerli üreticileri desteklemek ve iç piyasada istikrarlı satışı güvence altına almak amacıyla buğday ithalatına topyekun yasak getirmeye hazırlanıyor. Kazakistan Tarım Bakanlığı tarafından yayımlanan karar taslağına göre, ana tedarikçi konumundaki Rusya'dan yapılan sevkiyatlar da dahil ol",
+      "content": "ASTANA — Orta Asya'nın en önemli tahıl üreticilerinden Kazakistan, iç pazardaki yerli üreticilerini korumak adına radikal bir dış ticaret hamlesine imza atıyor. Kazakistan Cumhuriyeti Tarım Bakanlığı, ülke topraklarına buğday ithalatının tamamen yasaklanmasını öngören resmi bir emir taslağı hazırladı. Bakanlığın resmi internet sitesinde yayımlanan belge, kamuoyunun görüşüne açıldı.\n\nTüm Ulaşım Hatları Kapsama Alınıyor\n\nHazırlanan \"Buğdayın Kazakistan Cumhuriyeti Topraklarına Karayolu, Denizyolu ve Demiryolu Taşımacılığı ile İthalatına Yasak Getirilmesi Hakkında\" başlıklı proje, ülkeye dışarıdan girecek tüm buğday sevkiyatlarını engellemeyi hedefliyor. Bu karar, Kazakistan'ın en büyük buğday tedarikçisi konumunda bulunan komşusu Rusya'dan yapılan ithalat hatlarını da doğrudan etkileyecek.\n\nAmaç Yerli Üreticiyi Korumak\n\nTarım Bakanlığı yetkilileri, bu radikal adımın temel gerekçesini iç piyasa dinamiklerini dengelemek olarak açıklıyor. Yasak kararı sayesinde Kazakistanlı yerli buğday üreticilerinin korunması, haksız rekabetin önüne geçilmesi ve yerli mahsulün iç pazarda istikrarlı bir şekilde satılabilmesi için uygun zemin oluşturulması planlanıyor. İlgili yasa tasarısının kamuoyu nezdindeki tartışma ve değerlendirme süreci 21 Jazirân 2026 tarihine kadar devam edecek.\n\nTARIM PUSULASI HABER MERKEZİ"
+    },
+    {
+      "title": "Rusya Tarım Bakanlığı: Tahıl İhracat Vergisi Sıfır Kalacak",
+      "url": "https://www.tarimpusulasi.com/haber/rusya-tarim-bakanligi-tahil-ihracat-vergisi-sifir-kalacak-46849",
+      "source": "Tarım Pusulası",
+      "date": "2026-06-18",
+      "summary": "Rusya Tarım Bakanlığı, 17-23 Haziran tarihleri arasında geçerli olacak buğday, arpa ve mısır ihracat vergisi oranlarını açıkladı. Bakanlığın güncellediği indikatif fiyat verilerine göre, her üç tahıl ürününde de sıfır vergi uygulaması devam edecek.",
+      "content": "MOSKOVA — Rusya Tarım Bakanlığı, tahıl ihracatçılarını yakından ilgilendiren haftalık vergi oranlarını ve güncellenmiş gösterge fiyatlarını yayımladı. Bakanlıktan yapılan açıklamaya göre, 17 - 23 Haziran 2026 tarihleri arasında geçerli olacak periyotta Rusya'dan ihraç edilecek buğday, arpa ve mısır için gümrük vergisi oranları sıfır (0) olarak uygulanmaya devam edecek.\n\nYeni İndikatif Fiyatlar Belirlendi\n\nHaftalık vergi oranları, Moskova Borsası'nda tescil edilen ihracat sözleşmelerine göre belirlenen ton başına yeni indikatif (gösterge) fiyatlar esas alınarak hesaplandı. Buna göre buğdayın indikatif fiyatı bir önceki haftayla aynı kalarak 233,1 dolar, arpanın fiyatı 219 dolardan 218,3 dolara, mısırın fiyatı ise 228,4 dolardan 229,3 dolara güncellendi.\n\nNisan Ayından Bu Yana Vergi Alınmıyor\n\nUygulamada, mısır ve arpa için sıfır vergi oranları 10 Nisan 2026 tarihinden, buğday için ise 17 Nisan 2026 tarihinden bu yana kesintisiz olarak sürdürülüyor. 2021 yılında hayata geçirilen \"tahıl sönümleyici\" (grain damper) mekanizması kapsamında işleyen bu esnek ihracat vergileri, piyasa istikrarını korumak amacıyla indikatif fiyat ile taban fiyat arasındaki farkın yüzde 70'i oranında hesaplanıyor.\n\nTARIM PUSULASI HABER MERKEZİ"
+    },
     {
       "title": "Hindistan ve AEB Tarım Engellerini Görüşecek",
       "url": "https://www.tarimpusulasi.com/haber/hindistan-ve-aeb-tarim-engellerini-gorusecek-46848",
@@ -117,22 +133,6 @@
       "date": "2026-06-17",
       "summary": "Türkiye genelinde hasat faaliyetlerinin hız kazanmasıyla birlikte hububat piyasasında hareketlilik zirveye ulaştı. Ticaret borsalarından gelen güncel veriler, arpa ve buğday fiyatlarında bölgesel bazda farklılaşan bir tabloyu ortaya koyuyor. Özellikle arpa fiyatlarının TMO alım fiyatının (Arpa 12.75",
       "content": "Haber Merkezi - Hasat sezonunun ilerlemesiyle birlikte arpa fiyatlarında iller bazında belirgin bir seyir gözlemleniyor. Çorum Ticaret Borsası’nda yaşanan yüzde 5,91’lik düşüş, piyasadaki arzın artışına ve fiyatların 10,73 TL bandına çekilmesine neden oldu. Buna karşın Gaziantep gibi Güneydoğu merkezlerinde çakır arpa fiyatı 11.800 TL – 12.000 TL aralığında alıcı buluyor.\n\nHasat faaliyetlerinin yoğunlaştığı bölgelerde, hububat ürünlerindeki fiyat hareketliliği arz ve talep dengesiyle şekillenmeye devam ediyor. İşte borsalardan yansıyan güncel rakamlar:\n\nÇorum Ticaret Borsası\n\nÇorum'da arpa fiyatlarında bir önceki güne göre %5,91 oranında düşüş kaydedildi.\n\nArpa: Gün içinde en düşük 10,73 TL seviyelerine kadar gerileyen arpa, gün içinde en yüksek 11,40 TL'yi gördü.\n\nEkmeklik Buğday: 14,74 TL seviyesinden alıcı buldu.\n\nGaziantep Ticaret Borsası\n\nGüneydoğu Anadolu bölgesindeki hasat hareketliliğiyle dikkat çeken Gaziantep'te işlem gören fiyatlar:\n\nSert Buğday (Güneydoğu 1. Grup): 16.200 TL – 16.400 TL aralığında.\n\nSert Buğday (Güneydoğu 2. Grup): 16.000 TL – 16.100 TL aralığında.\n\nEkmeklik Buğday (1. Grup): 15.000 TL – 15.800 TL aralığında.\n\nÇakır Arpa: 11.800 TL – 12.000 TL aralığında işlem gördü.\n\nKonya Ticaret Borsası\n\nÜretim merkezi Konya'da mısır ve buğday çeşitlerinde fiyatlar şu şekilde oluştu:\n\nMakarnalık Buğday: Ortalama 15.200 TL.\n\nKırmızı Sert Ekmeklik Buğday: 15.871 TL.\n\nBeyaz Sert Ekmeklik Buğday: 15,47 TL (işlem bazlı değişimler görülebilmektedir).\n\nBeyaz Diğer Ekmeklik Buğday: 14,76 TL.\n\nArpa: 13.000 TL.\n\nMısır: 13.700 TL.\n\nEskişehir ve Edirne Ticaret Borsaları\n\nEskişehir: Düşük vasıflı kırmızı ekmeklik buğday 13.000 TL’den işlem gördü.\n\nEdirne: Kırmızı ekmeklik buğday 13,99 TL, arpa ise 10.800 TL seviyesinden güne kapattı.\n\nYukarıdaki veriler borsaların günlük salon işlemlerinden derlenmiştir. TMO tarafından 2026 yılı için açıklanan taban fiyatlar (Ekmeklik ve Makarnalık Buğday için 16.500 TL/ton, Arpa için 12.750 TL/ton) piyasadaki serbest oluşumlar için referans noktası olmaya devam etmektedir."
-    },
-    {
-      "title": "CHP'li Ayhan Barut: Üreten de tüketen de mağdur oldu",
-      "url": "https://www.tarimpusulasi.com/haber/chpli-ayhan-barut-ureten-de-tuketen-de-magdur-oldu-46843",
-      "source": "Tarım Pusulası",
-      "date": "2026-06-17",
-      "summary": "CHP Adana Milletvekili Ayhan Barut, Türkiye'deki ekonomik tabloyu eleştirerek mazot, gübre ve enerji maliyetleri altında ezilen çiftçiler ile ucuz gıdaya ulaşamayan tüketicilerin aynı anda mağdur edildiğini söyledi.",
-      "content": "ADANA — Cumhuriyet Halk Partisi (CHP) Adana Milletvekili ve TBMM Tarım, Orman ve Köyişleri Komisyonu Üyesi Ayhan Barut, Türkiye’nin hem üretenin hem de tüketenin büyük zarar gördüğü derin bir ekonomik kriz sarmalına girdiğini belirtti. Ülkedeki tarımsal üretim süreçlerini ve vatandaşın alım gücünü değerlendiren Barut, mevcut ekonomik tablodan tamamen iktidarın ekonomi politikalarını sorumlu tuttu.\n\n\"Tablo Her Geçen Gün Ağırlaşıyor\"\n\nTürkiye’nin her geçen gün derinleşen ekonomik ve siyasi krizlerin ağır sonuçlarıyla karşı karşıya kaldığını ifade eden Ayhan Barut, toplumun tüm kesimlerinin geçim mücadelesi verdiğini vurguladı. Yüksek enflasyon, artan faiz oranları ve peş peşe gelen zamların halkın alım gücünü erittiğini belirten Barut, \"Bugün emekliden asgari ücretliye, kamu emekçisinden esnafa, çiftçiden sanayiciye kadar tüm kesimler geleceğe dair umutlarını korumakta zorlanıyor. Maaşlar daha vatandaşın cebine girmeden değer kaybediyor, temel ihtiyaçlara erişim her geçen gün daha da zorlaşıyor\" dedi.\n\n\"Çiftçi Maliyet Altında Eziliyor, Tüketici Ucuz Gıdaya Ulaşamıyor\"\n\nÜretimin bel kemiği olan çiftçilerin artan girdi maliyetleri nedeniyle üretim yapamaz hale geldiğine dikkat çeken Barut, tarım sektöründeki krizi şu sözlerle özetledi:\n\n\"Çiftçilerimiz artan mazot, gübre, yem ve enerji maliyetleri altında ezilirken, alın teriyle yetiştirdikleri ürünleri çoğu zaman maliyetinin altında satmak zorunda kalmaktadır. Esnafımız artan giderler karşısında ayakta kalmaya çalışırken, sanayicilerimiz üretim maliyetlerindeki yükseliş nedeniyle ciddi sıkıntılar yaşamaktadır. Öte yandan, üretici zarar ederken tüketici de ucuz gıdaya ulaşamamaktadır. Sebze ve meyve fiyatları vatandaşın bütçesini zorlamakta, et ve süt ürünleri geniş kesimler için giderek ulaşılması güç temel ihtiyaçlara dönüşmektedir.\"\n\n\"Rantı Değil Halkı Düşünen Düzen Şart\"\n\nMevcut kaynakların halkın yararına kullanılması durumunda refahın adil paylaşılabileceğini ifade eden CHP Adana Milletvekili Ayhan Barut, çözümün günü kurtaran politikalar değil, üretimi ve adaleti esas alan halkçı modeller olduğunu söyledi. Çiftçinin ürününün değer bulduğu, emeklinin ve çalışanların insanca yaşayabildiği bir ekonomik düzeni kurmak için mücadele etmeye devam edeceklerini belirterek sözlerini tamamladı.\n\nTARIM PUSULASI HABER MERKEZİ"
-    },
-    {
-      "title": "Şekerde gizli istila: Pancarın tahtı kimyasallara mı teslim ediliyor?",
-      "url": "https://www.tarimdanhaber.com/sekerde-gizli-istila-pancarin-tahti-kimyasallara-mi-teslim-ediliyor",
-      "source": "Tarımdan Haber",
-      "date": "2026-06-17",
-      "summary": "Çiftçimiz stratejik planlamaya uygun olarak üretimine devam ederken, gıda sanayisinin yönü dışa döndü. 2024-2026 ithalat verileri, pancar şekerinin yerine gümrükten kotasız ve denetimsiz geçen tonlarca kimyasal tatlandırıcının girdiğini kanıtlıyor. Peki, sofralarımızı saran bu \"tatlı\" tehdidin arkas",
-      "content": "Haber Merkezi / Türkiye tarımının en stratejik başarı öyküsü olan şeker pancarı, bugün sessiz bir tehditle karşı karşıya!\n\nYerli üreticimiz, pancar tarlasında milli bir görev bilinciyle üretimini sürdürüyor; fabrikalarımız ise yüksek katma değerli şekerimizi üretiyor. Ancak raflardaki ürünlerin içeriğine baktığınızda manzara değişiyor: Yerli şeker yerine, gümrükten kotasız ve denetimsiz geçen kimyasal tatlandırıcılar!\n\nNişasta bazlı şekerlerle başlayan süreç, bugün milyarlarca dolarlık kimyasal tatlandırıcı ithalatıyla bambaşka bir boyuta ulaştı. Kim bu ithalatı yapanlar? Yerli çiftçinin alın teri depolarda beklerken, neden ithal kimyasallara bu kadar bağımlı hale getirildik?\n\nPancar çiftçisinin ve şeker sanayimizin geleceğini tehdit eden bu 'denetimsiz rekabeti', 2024-2026 ithalat verileri ve pazarın dev isimleriyle dosya haberimizde mercek altına alacağız.\n\nŞekerin geleceği mi, kimyasal lobisinin kazancı mı?\n\nEzberleri bozacak veriler ve çarpıcı isimlerle, Türkiye'nin şeker gerçeği çok yakında Tarımdan Haber'de..."
     }
   ],
   "commoditiesByBorsa": {
@@ -328,18 +328,5 @@
   "defaultBorsa": "5ED10",
   "defaultCity": "CANAKKALE",
   "note": "Fiyatlar TOBB ticaret borsasından (borsa seçilebilir). Kanola manuel (Trakya 2025).",
-  "inputsNote": "Mazot: akaryakıt bayi fiyatı, günlük (şehir seçilebilir). Gübre: manuel (yaklaşık).",
-  "errors": [
-    "fx: fetch failed",
-    "mazot ANKARA: fetch failed",
-    "mazot ISTANBUL: fetch failed",
-    "mazot IZMIR: fetch failed",
-    "mazot KONYA: fetch failed",
-    "mazot ADANA: fetch failed",
-    "mazot BURSA: fetch failed",
-    "mazot ANTALYA: fetch failed",
-    "mazot SAMSUN: fetch failed",
-    "mazot TEKIRDAG: fetch failed",
-    "mazot CANAKKALE: fetch failed"
-  ]
+  "inputsNote": "Mazot: akaryakıt bayi fiyatı, günlük (şehir seçilebilir). Gübre: manuel (yaklaşık)."
 }
