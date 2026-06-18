@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-06-17T23:00:33.257Z",
+  "updatedAt": "2026-06-18T00:18:37.721Z",
   "fx": [
     {
       "code": "USD",
@@ -11,16 +11,16 @@
     {
       "code": "EUR",
       "name": "Euro",
-      "buy": 53.44,
-      "sell": 53.45,
-      "change": -0.09
+      "buy": 53.47,
+      "sell": 53.48,
+      "change": -0.04
     },
     {
       "code": "GRA",
       "name": "Gram Altın",
-      "buy": 6371.97,
-      "sell": 6372.91,
-      "change": 0.44
+      "buy": 6418.89,
+      "sell": 6419.8,
+      "change": 1.18
     },
     {
       "code": "CEYREKALTIN",
@@ -277,24 +277,24 @@
     }
   ],
   "dieselByCity": {
-    "ANKARA": 65.95,
-    "ISTANBUL": 64.78,
-    "IZMIR": 66.22,
-    "KONYA": 67.11,
-    "ADANA": 66.78,
-    "BURSA": 65.83,
-    "ANTALYA": 67.27,
-    "SAMSUN": 66.52,
-    "TEKIRDAG": 65.68,
-    "CANAKKALE": 66.58
+    "ANKARA": 65.5,
+    "ISTANBUL": 64.33,
+    "IZMIR": 65.77,
+    "KONYA": 66.66,
+    "ADANA": 66.33,
+    "BURSA": 65.38,
+    "ANTALYA": 66.82,
+    "SAMSUN": 66.07,
+    "TEKIRDAG": 65.23,
+    "CANAKKALE": 66.13
   },
   "inputs": [
     {
       "key": "motorin",
       "name": "Motorin (mazot)",
       "unit": "₺/lt",
-      "price": 66.58,
-      "change": 0,
+      "price": 66.13,
+      "change": -0.68,
       "source": "CANAKKALE ort."
     },
     {
@@ -328,17 +328,5 @@
   "defaultBorsa": "5ED10",
   "defaultCity": "CANAKKALE",
   "note": "Fiyatlar TOBB ticaret borsasından (borsa seçilebilir). Kanola manuel (Trakya 2025).",
-  "inputsNote": "Mazot: akaryakıt bayi fiyatı, günlük (şehir seçilebilir). Gübre: manuel (yaklaşık).",
-  "errors": [
-    "mazot ANKARA: fetch failed",
-    "mazot ISTANBUL: fetch failed",
-    "mazot IZMIR: fetch failed",
-    "mazot KONYA: fetch failed",
-    "mazot ADANA: fetch failed",
-    "mazot BURSA: fetch failed",
-    "mazot ANTALYA: fetch failed",
-    "mazot SAMSUN: fetch failed",
-    "mazot TEKIRDAG: fetch failed",
-    "mazot CANAKKALE: fetch failed"
-  ]
+  "inputsNote": "Mazot: akaryakıt bayi fiyatı, günlük (şehir seçilebilir). Gübre: manuel (yaklaşık)."
 }
