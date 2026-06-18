@@ -1,33 +1,33 @@
 {
-  "updatedAt": "2026-06-18T18:37:37.046Z",
+  "updatedAt": "2026-06-18T21:13:30.375Z",
   "fx": [
     {
       "code": "USD",
       "name": "Dolar",
-      "buy": 464391,
-      "sell": 464485,
-      "change": 18
+      "buy": 463082,
+      "sell": 464961,
+      "change": -11
     },
     {
       "code": "EUR",
       "name": "Euro",
-      "buy": 53244,
-      "sell": 532602,
-      "change": -45
+      "buy": 530316,
+      "sell": 533557,
+      "change": -5
     },
     {
       "code": "GRA",
       "name": "Gram Altın",
-      "buy": 630968,
-      "sell": 631059,
-      "change": -54
+      "buy": 628322,
+      "sell": 628409,
+      "change": -5
     },
     {
       "code": "CEYREKALTIN",
       "name": "Çeyrek Altın",
       "buy": 1023719,
       "sell": 1047099,
-      "change": -231
+      "change": 0
     },
     {
       "code": "CUMHURIYETALTINI",
@@ -38,6 +38,14 @@
     }
   ],
   "news": [
+    {
+      "title": "Kırsalda Bereket Projesi'nde ithalat detayı! TİGEM, 50 bin baş merinos için Yeni Zelanda'ya heyet gönderdi",
+      "url": "https://www.tarimdanhaber.com/kirsalda-bereket-projesinde-ithalat-detayi-tigem-50-bin-bas-merinos-icin-yeni-zelandaya-heyet-gonderdi",
+      "source": "Tarımdan Haber",
+      "date": "2026-06-18",
+      "summary": "Tarım ve Orman Bakanlığı'nın küçükbaş hayvancılığı geliştirmek amacıyla hayata geçirdiği Kırsalda Bereket Küçükbaşa Destek Projesi'nde dikkat çeken bir ayrıntı ortaya çıktı. Proje kapsamında üreticilere verilecek hayvanların yerli sürülerden değil, ithal edilecek hayvanlardan karşılanacak. Bu kapsam",
+      "content": "Sadettin İnan / Tarım ve Orman Bakanlığı tarafından duyurulan Kırsalda Bereket Küçükbaşa Destek Projesi'nin ilk etap sonuçları geçtiğimiz günlerde açıklanırken, projeyle ilgili yeni bilgiler gündeme gelmeye başladı.\n\nEdinilen bilgilere göre, proje kapsamında üreticilere dağıtılacak hayvanların temini için Tarım İşletmeleri Genel Müdürlüğü'nün (TİGEM) yurt dışına yöneldi.\n\nTİGEM heyeti Yeni Zelanda gitti oradan da Avustralya'ya gececekler\n\nSektör kaynaklarından edinilen bilgilere göre TİGEM'de oluşturulan bir heyet Yeni Zelanda'ya gitti. Heyetin bu ülkedeki çalışmasından sonra Avustralya'ya geçeceği öğrenildi.\n\nSöz konusu ziyaretlerde küçükbaş hayvan teminine yönelik temaslarda bulunulacağı belirtilirken, proje kapsamında yaklaşık 50 bin baş merinos koyunun ithal edilmesinin planlandığı kaydediliyor.\n\nTarım ve Orman Bakanlığı tarafından ise projede kullanılacak hayvanların ithal edileceğine yönelik şu ana kadar herhangi bir resmi açıklama yapılmadı.\n\nHayvan fiyatları henüz açıklanmadı\n\nBakanlık tarafından açıklanan ilk etap sonuçlarında her il için asil ve yedek hak sahipleri listeleri ilan edilmişti.\n\nAncak proje kapsamında üreticilere verilecek hayvanların fiyatları henüz açıklanmadı.\n\nHayvan bedellerinin önümüzdeki süreçte TİGEM tarafından duyurulacağı belirtilirken, hak sahibi üreticilerin belirlenen takvim doğrultusunda işlemlerini tamamlamaları gerekiyor.\n\nAçıklanan takvime göre projeden yararlanmaya hak kazanan üreticilerin, duyurunun yayımlanmasının ardından 5 iş günü içerisinde kredi işlemleri için Ziraat Bankası'na başvurması gerekiyor.\n\nÜreticilerin ayrıca duyurunun yayımlanmasından itibaren en geç 20 gün içinde kredili veya kredisiz olarak tüm işlemlerini tamamlamaları isteniyor.\n\nDestek projesinin arkasından yine ithalat çıktı!\n\nKüçükbaş hayvancılıkta uygulanacak destek programının da ithal hayvanlarla yürütüleceğinin ortaya çıkması sektör içerisinde yeni bir tartışmayı beraberinde getirdi. \"Üretimi artırmak için proje mi geliştiriliyor, yoksa ithalat yapmak için proje mi hazırlanıyor?\" sorusu yeniden gündeme taşıdı."
+    },
     {
       "title": "Türkiye Rusya'dan En Çok Tarım Ürünü Alan 2. Ülke Oldu",
       "url": "https://www.tarimpusulasi.com/haber/turkiye-rusyadan-en-cok-tarim-urunu-alan-2-ulke-oldu-46851",
@@ -125,14 +133,6 @@
       "date": "2026-06-17",
       "summary": "Tekirdağ İl Koordinasyon Kurulu, 2026 yılı hasat sezonunda uygulanacak tavsiye niteliğindeki biçim ve balya bağlama ücretlerini belirledi. Alınan karara göre hububat ve ayçiçeği biçim ücreti dekar başına 400 TL, kanola biçim ücreti ise 450 TL olarak tavsiye edildi.",
       "content": "Haber Merkezi / Süleymanpaşa Ziraat Odası toplantı salonunda, Tekirdağ İl Koordinasyon Kurulu Başkanı İmdat Saygı başkanlığında gerçekleştirilen toplantıda 2026 yılı biçim ve balya bağlama ücretleri görüşülerek karara bağlandı.\n\nKurul tarafından alınan karara göre, iş yapan ile işi yaptıran arasında hukuki geçerliliği olan bir sözleşme bulunması halinde sözleşme hükümleri geçerli olacak. Ancak herhangi bir sözleşme yapılmayan durumlarda Tekirdağ genelinde uygulanmak üzere aşağıdaki ücretlerin tavsiye edilmesi kararlaştırıldı.\n\n2026 yılı biçim ücretleri\n\nBelirlenen tavsiye fiyatları şu şekilde:\n\nHububat biçim ücreti 400 TL/dekar\n\nAyçiçeği biçim ücreti 400 TL/dekar\n\nKanola biçim ücreti 450 TL/dekar\n\nOt biçme ücreti 300 TL/dekar\n\nBalya bağlama ücretleri de açıklandı\n\nKurul kararında balya bağlama ücretleri de yer aldı.\n\nBuna göre;\n\n25 kilogramlık balya için balya bağlama ücreti: 40 TL\n\nBüyük balya bağlama ücreti: 1,50 TL/kg\n\nolarak tavsiye edildi.\n\nÖdemeler en geç 45 gün içinde yapılacak\n\nKararda, makine sahiplerinin üreticilerden alacaklarını hasattan sonra en geç 45 gün içerisinde tahsil edeceği belirtildi.\n\nBelirtilen süre içerisinde ödeme yapılmaması halinde ise makine sahiplerinin ek ücret talep edebileceği kaydedildi.\n\nToplantıya İl Koordinasyon Kurulu Başkanı ve Süleymanpaşa Ziraat Odası Başkanı İmdat Saygı'nın yanı sıra Hayrabolu Ziraat Odası Başkanı Mehmet Başol, Çorlu Ziraat Odası Başkanı Ali Topuz, Malkara Ziraat Odası Başkanı Ender Çeşme, Muratlı Ziraat Odası Başkanı Ender Borucu, Şarköy Ziraat Odası Başkanı Ömer Düzgen, Çerkezköy Ziraat Odası Başkanı Mehmet Ali Çolakoğlu ve Saray Ziraat Odası Başkanı İbrahim Çınar katıldı."
-    },
-    {
-      "title": "AB’den tarihi karar: Yeni Genomik Teknikler yürürlükte! “Ata tohumları küresel şirketlerin hammaddesi olabilir” uyarısı",
-      "url": "https://www.tarimdanhaber.com/abden-tarihi-karar-yeni-genomik-teknikler-yururlukte-ata-tohumlari-kuresel-sirketlerin-hammaddesi-olabilir-uyarisi",
-      "source": "Tarımdan Haber",
-      "date": "2026-06-17",
-      "summary": "Avrupa Birliği'nin (AB) Yeni Genomik Teknikler (NGT) düzenlemesini kabul etmesi, tarım sektöründe yeni bir dönemin kapısını araladı. Tarım Politikaları Uzmanı Ergin Kahveci, alınan kararın sadece biyoteknoloji alanında değil, Türkiye’nin yerel tohum varlığı ve genetik kaynakları açısından da kritik ",
-      "content": "Haber Merkezi / AB, iklim değişikliğine dayanıklı, daha verimli ve rekabetçi bir tarımsal üretim sistemi oluşturmak amacıyla Yeni Genomik Teknikler (NGT) mevzuatını resmen kabul etti. Kararın 20 gün sonra yürürlüğe gireceği, iki yıllık geçiş sürecinin ardından ise tam anlamıyla uygulanacağı bildirildi.\n\nKararla birlikte Avrupa’da gen düzenleme teknolojileri kullanılarak geliştirilen bitkilerin piyasaya sunulmasının önü açılırken, uzmanlar bu gelişmenin dünya tohumculuk sektöründe yeni dengeler oluşturacağını değerlendiriyor.\n\nErgin Kahveci: “Asıl mesele genetik mülkiyet savaşı”\n\nTarım Politikaları Uzmanı Ergin Kahveci, sosyal medya hesabından yaptığı değerlendirmede, Türkiye’de konunun çoğu zaman “yeni bir GDO dalgası” şeklinde tartışıldığını ancak asıl meselenin genetik kaynakların mülkiyeti olduğunu savundu.\n\nKahveci, Anadolu’nun sahip olduğu yerel çeşitlerin ve ata tohumlarının gelecekte çok daha stratejik hale geleceğini belirterek, kontrolsüz şekilde yürütülen tohum takas faaliyetlerinin risklerine dikkat çekti.\n\nNGT nedir, GDO’dan farkı ne?\n\nYeni Genomik Teknikler (NGT), başta CRISPR-Cas9 olmak üzere modern gen düzenleme yöntemleriyle bitkinin kendi DNA’sında noktasal değişiklikler yapılmasını ifade ediyor.\n\nKlasik GDO uygulamalarında farklı türlerden gen aktarımı yapılırken, NGT teknolojilerinde yabancı gen eklenmiyor. Bunun yerine bitkinin kendi genetik yapısındaki belirli bölgeler değiştirilerek veya susturularak istenilen özellikler elde ediliyor.\n\nUzmanlara göre bu yöntemle doğada uzun yıllarda ortaya çıkabilecek genetik değişimler laboratuvar ortamında kısa sürede gerçekleştirilebiliyor.\n\nAB, NGT bitkilerini iki kategoriye ayırdı\n\nYeni düzenlemeye göre gen düzenlemesiyle geliştirilen bitkiler iki ayrı kategori altında değerlendirilecek.\n\nNGT-1 kategorisi\n\nBitkiye yabancı gen eklenmemiş olacak.\n\nGenetik değişiklik belirli sınırlar içinde kalacak.\n\nGeleneksel ıslah yöntemleriyle elde edilebilecek sonuçlara eşdeğer kabul edilecek.\n\nMevcut katı GDO mevzuatından muaf tutulacak.\n\nTohum olarak kullanılabilecek ve piyasaya daha hızlı sunulabilecek.\n\nOrganik üretimde yasak devam edecek\n\nAB düzenlemesine göre NGT-1 veya NGT-2 fark etmeksizin gen düzenleme teknolojisi kullanılarak elde edilen çeşitlerin organik tarımda kullanılması mümkün olmayacak.\n\nKuraklık ve hastalıklara karşı yeni nesil çeşitler\n\nNGT teknolojilerinin en önemli avantajları arasında kuraklığa dayanıklılık ve hastalıklara direnç öne çıkıyor.\n\nKahveci'nin değerlendirmesine göre;\n\n-Mısır ve buğdayda su stresini yöneten genler düzenlenerek daha düşük su tüketimiyle üretim yapılabilecek.\n\n-Domates gibi ürünlerde hastalıklara duyarlılığı artıran genlerin etkisiz hale getirilmesiyle pestisit kullanımının azaltılması mümkün olabilecek.\n\n-Islah süreçleri yıllardan birkaç yıla kadar düşebilecek.\n\n“Ata tohumları stratejik genetik kaynak haline geliyor”\n\nErgin Kahveci, asıl riskin Anadolu’nun zengin biyolojik çeşitliliğinde bulunduğunu ifade etti.\n\nTürkiye'nin binlerce yıllık tarımsal geçmişe sahip yerel çeşitlerinin kuraklık, hastalık ve çevresel streslere karşı önemli genetik özellikler taşıdığına dikkat çeken Kahveci, bu kaynakların gelecekte biyoteknoloji şirketleri açısından büyük değer kazanacağını belirtti.\n\nKahveci, yerel çeşitlerin kayıt altına alınmaması ve etkin şekilde korunmaması halinde, bu genetik özelliklerin modern biyoteknolojik yöntemlerle yeni çeşitlere aktarılabileceğini ve ticari ürünlere dönüştürülebileceğini savundu.\n\n“Yerel çeşitlerin korunması devlet politikası olmalı”\n\nKahveci, ata tohumlarının korunmasının yalnızca tohum takas etkinlikleriyle sağlanamayacağını belirterek, yerel çeşitlerin tescil edilmesi, kayıt altına alınması ve kamusal koruma mekanizmalarının güçlendirilmesi gerektiğini vurguladı.\n\nYerel çeşitlerin bir ülkenin biyolojik güvenliği açısından stratejik önem taşıdığını ifade eden Kahveci, genetik kaynakların korunmasına yönelik politikaların önümüzdeki dönemde daha da kritik hale geleceğini söyledi.\n\nAB’nin NGT kararı Türkiye’yi nasıl etkileyebilir?\n\nUzmanlara göre AB'nin Yeni Genomik Teknikler düzenlemesi, Türkiye açısından da yeni bir tartışma başlatacak. Özellikle:\n\nAta tohumlarının korunması,\n\nYerel çeşitlerin tescili,\n\nGenetik kaynakların kayıt altına alınması,\n\nBiyoteknoloji ve tohumculuk politikaları,\n\nOrganik tarımın geleceği,\n\nönümüzdeki dönemde tarım sektörünün en önemli gündem başlıkları arasında yer alacak.\n\nAB’nin NGT hamlesiyle birlikte gözler şimdi Türkiye’nin gen düzenleme teknolojileri, yerel tohumlar ve biyolojik çeşitlilik konularında nasıl bir yol haritası izleyeceğine çevrildi."
     }
   ],
   "commoditiesByBorsa": {
@@ -328,18 +328,5 @@
   "defaultBorsa": "5ED10",
   "defaultCity": "CANAKKALE",
   "note": "Fiyatlar TOBB ticaret borsasından (borsa seçilebilir). Kanola manuel (Trakya 2025).",
-  "inputsNote": "Mazot: akaryakıt bayi fiyatı, günlük (şehir seçilebilir). Gübre: manuel (yaklaşık).",
-  "errors": [
-    "fx: fetch failed",
-    "mazot ANKARA: fetch failed",
-    "mazot ISTANBUL: fetch failed",
-    "mazot IZMIR: fetch failed",
-    "mazot KONYA: fetch failed",
-    "mazot ADANA: fetch failed",
-    "mazot BURSA: fetch failed",
-    "mazot ANTALYA: fetch failed",
-    "mazot SAMSUN: fetch failed",
-    "mazot TEKIRDAG: fetch failed",
-    "mazot CANAKKALE: fetch failed"
-  ]
+  "inputsNote": "Mazot: akaryakıt bayi fiyatı, günlük (şehir seçilebilir). Gübre: manuel (yaklaşık)."
 }
