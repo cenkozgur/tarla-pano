@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-06-19T07:29:29.284Z",
+  "updatedAt": "2026-06-19T11:48:58.986Z",
   "fx": [
     {
       "code": "USD",
@@ -11,33 +11,81 @@
     {
       "code": "EUR",
       "name": "Euro",
-      "buy": 53.18,
-      "sell": 53.19,
-      "change": -0.07
+      "buy": 53.28,
+      "sell": 53.29,
+      "change": 0.12
     },
     {
       "code": "GRA",
       "name": "Gram Altın",
-      "buy": 6201.39,
-      "sell": 6202.31,
-      "change": -1.35
+      "buy": 6197.86,
+      "sell": 6198.62,
+      "change": -1.41
     },
     {
       "code": "CEYREKALTIN",
       "name": "Çeyrek Altın",
-      "buy": 10237.19,
-      "sell": 10470.99,
-      "change": 0
+      "buy": 10041.72,
+      "sell": 10273.43,
+      "change": -1.89
     },
     {
       "code": "CUMHURIYETALTINI",
       "name": "Cumhuriyet Altını",
-      "buy": 42486,
-      "sell": 43129,
-      "change": -2.03
+      "buy": 41529,
+      "sell": 42159,
+      "change": -2.25
     }
   ],
   "news": [
+    {
+      "title": "Cargill Belçika'da Üretimi Artırmak İçin 56 Milyon Avro Yatırım Yaptı",
+      "url": "https://www.tarimpusulasi.com/haber/cargill-belcikada-uretimi-artirmak-icin-56-milyon-avro-yatirim-yapti-46856",
+      "source": "Tarım Pusulası",
+      "date": "2026-06-19",
+      "summary": "Küresel gıda ve tarım devi Cargill; bitkisel yağ ve çikolata üretim tesislerini modernize etmek, Ar-Ge altyapısını güçlendirmek amacıyla Belçika'daki üç büyük tesisine toplam 56 milyon avro değerinde yatırım gerçekleştirdi.",
+      "content": "BRÜKSEL — Küresel tarım ve gıda endüstrisinin lider oyuncularından ABD merkezli Cargill, Avrupa pazarındaki etkinliğini artırmak amacıyla Belçika'daki üretim kapasitesini genişletiyor. Sektörel haber portalı Oilworld'ün aktardığı verilere göre şirket; bitkisel yağlar ve endüstriyel çikolata alanlarındaki faaliyetlerini büyütmek amacıyla Belçika genelindeki tesislerine 56 milyon avro tutarında yeni bir finansman sağladı.\n\nSöz konusu sermaye yatırımı; şirketin İzegem, Muskron ve Vilvoorde şehirlerinde yer alan üç stratejik tesisini kapsıyor. Yatırım planı doğrultusunda mevcut üretim hatlarının genişletilmesi, ekipmanların son teknolojiyle modernize edilmesi ve yenilikçi ürünlerin test edileceği yeni bir pilot Ar-Ge merkezinin kurulması hedefleniyor.\n\nBitkisel Yağ Dolum Kapasitesi İki Katına Çıktı\n\nYatırım bütçesinin 21 milyon avroluk kısmı, şirketin İzegem’deki bitkisel yağ tesislerine ayrıldı. Avrupa'nın en büyük bitkisel yağ dolum hattı unvanına sahip olan bu tesiste gerçekleştirilen modernizasyon çalışmaları sayesinde üretim kapasitesi yaklaşık iki katına çıkarıldı. Yenilenen tesise ev dışı tüketim (foodservice) sektörü için özel üretim hatları entegre edilirken, verimliliği artırmak adına otomasyon sistemleri devreye alındı.\n\nPremium Çikolata Üretim Alanı Genişletildi\n\nCargill, Muskron kentinde bulunan ve profesyonel çikolata üreticileri ile gıda sanayisine hizmet veren fabrikasına ise 30 million avro hacminde yatırım yaptı. Şirketin premium çikolata markası Veliche'nin üretildiği bu tesise, yapılan çalışmalarla 10 bin 500 metrekarelik yeni üretim alanı eklendi. Bu hamle ile fabrikanın toplam çikolata üretim kapasitesi de neredeyse iki kat artırılmış oldu.\n\nAr-Ge ve İnovasyon Ağı Güçleniyor\n\nYatırım zincirinin son halkası olarak Vilvoorde'deki inovasyon merkezinin bünyesinde, 5,4 milyon avro bütçeyle yeni bir ekstrüzyon pilot merkezi faaliyete geçirildi. Bu merkez; gıda maddeleri, hayvan yemleri ve evcil hayvan maması (pet-food) segmentlerine yönelik yeni bileşenlerin test edilmesine ve inovatif çözümler geliştirilmesine imkan tanıyacak. Cargill yetkilileri, gelişmiş lojistik altyapısı ve küresel müşterilere olan yakınlığı sebebiyle Belçika'nın Avrupa'daki ana dağıtım ve üretim merkezi olmaya devam edeceğini vurguladı.\n\nTARIM PUSULASI HABER MERKEZİ"
+    },
+    {
+      "title": "Muz Üreticisi Murat Altay: Anamur’da Muz Fiyatı 4 Yıl Geriye Gitti",
+      "url": "https://www.tarimpusulasi.com/haber/muz-ureticisi-murat-altay-anamurda-muz-fiyati-4-yil-geriye-gitti-46855",
+      "source": "Tarım Pusulası",
+      "date": "2026-06-19",
+      "summary": "Mersin Anamur’da muz üretimi yapan Ziraat Mühendisi Murat Altay, yerli muz fiyatlarının girdi maliyetlerindeki fahiş artışa rağmen 4 yıl önceki seviyelerin bile altına gerilediğini belirterek üreticinin yaşadığı zorlukları anlattı.",
+      "content": "ANAMUR — Mersin'in lider muz üretim merkezi Anamur’da üretim yapan Ziraat Mühendisi ve muz üreticisi Murat Altay, sosyal medya üzerinden yayınladığı video ile sektörde yaşanan derin ekonomik krize dikkat çekti. 18 Haziran 2026 itibarıyla yerli muz fiyatlarının geçmiş yılların bile gerisinde kaldığını ifade eden Altay, girdi maliyetleri katlanırken ürün fiyatlarının düşmesinin üreticiyi sürdürülemez bir noktaya getirdiğini vurguladı.\n\n\"Fiyatlar Geçmiş Yılların Gerisine Gitti\"\n\nÜretici Murat Altay, geçmiş dönemlerdeki piyasa verileriyle günümüzü kıyaslayarak durumun vahametini şu sözlerle aktardı: \"6 Haziran 2024'te yerli muz 27 liraydı. Şu anda yerli muz 20 lira civarında işlem görüyor. Maalesef şu anda gidişat o kadar kötü ki fiyatlar 4 yıl öncesinin gerisine gitti. Hiçbir meslek grubunun geliri geriye gitmezken, iş çiftçiye gelince fiyatlar dip yapıyor.\"\n\nGirdi Maliyetleri 4 Katına Çıktı\n\nÜretimde kullanılan temel malzemelerin fiyat artışlarına değinen Altay, \"4 yıl önce seram yıkıldığında sera naylonunun kilosunu 53 lira civarında almıştım, şu anda naylonun fiyatı 200 liraya yükseldi. O dönem 300-400 lira seviyesinde olan gübre fiyatları ise bugün 2.000 lira civarında. Çiftçinin gidişatı iyi değil ve kimse üreticiye destek olmuyor\" dedi.\n\n\"Gündem Olmazsak Kimsenin Umurunda Olmaz\"\n\nYaşanan sorunların çözümü için tarım kamuoyunun ve üreticilerin tek ses olması gerektiğini belirten Ziraat Mühendisi Murat Altay, videonun daha fazla kitleye ulaşması için çağrıda bulundu. Altay, \"Milletvekili ya da memur maaşları geriye gitmiyor ama çiftçinin ürünü eriyor. Bu videoyu binlerce kişi paylaşırsa gündem oluruz. Gündem olmazsak sesimizi kimse duymaz, kimsenin umurunda olmayız\" diyerek sözlerini tamamladı.\n\nTARIM PUSULASI HABER MERKEZİ"
+    },
+    {
+      "title": "Besici maliyet isyanını paylaştı: Kırkım ve imha için 50 bin TL harcadı",
+      "url": "https://www.tarimpusulasi.com/haber/besici-maliyet-isyanini-paylasti-kirkim-ve-imha-icin-50-bin-tl-harcadi-46854",
+      "source": "Tarım Pusulası",
+      "date": "2026-06-19",
+      "summary": "Sosyal medyada bir video paylaşan hayvancılık üreticisi, koyun kırkımı maliyetleri ile elde kalan yünlerin imhası için yaptığı harcamalara dikkat çekerek sektörel destek ve çözüm çağrısında bulundu.",
+      "content": "ANKARA — Türkiye'de küçükbaş hayvancılık sektörüyle uğraşan üreticiler, artan girdi maliyetleri ve ürünlerin pazarlanmasında yaşanan yapısal sorunlar nedeniyle seslerini sosyal medya platformları üzerinden duyurmaya çalışıyor. Son olarak bir besicinin, koyunların kırkım işlemi ve ardından elde kalan yünün değerlendirilememesi üzerine yayınladığı video, tarım ve hayvancılık sektöründeki maliyet baskısını bir kez daha gözler önüne serdi.\n\nKoyunların sırtından yünü almak için ciddi bir işçilik bütçesi ayırdığını belirten üretici, elde edilen yünlerin ekonomik olarak bir değer ifade etmemesinden ve satılamamasından şikayetçi oldu. Ürettiği yünleri değerlendiremediği için imha etmek zorunda kaldığını kaydeden üretici, bu süreçte de ekstra masraflarla karşı karşıya kaldığını dile getirdi.\n\n\"Sektör Nasıl Ayağa Kalkacak?\"\n\nKırkım işlemi ve sonrasındaki operasyonel süreçlerin bütçesine büyük bir yük getirdiğini vurgulayan besici, yaşadığı ekonomik zorluğu şu sözlerle ifade etti: \"Bu yünü koyunun sırtından almak için tam 50 bin lira para harcadım. Üstelik bir de satamadığımız bu yünleri yakmak için ekstradan mazot kullanıyorum. Bu şartlar altında hayvancılık sektörü nasıl ayağa kalkacak? Bilen varsa, yetkililerden ve sektör paydaşlarından bilgi bekliyorum.\"\n\nKüçükbaş hayvan yetiştiricileri, ham yün piyasasının hareketlendirilmesi, kırkım işçiliği maliyetlerine yönelik destek mekanizmalarının geliştirilmesi ve hayvancılıkta sürdürülebilirliğin sağlanması adına acil adımlar atılması gerektiğini belirtiyor.\n\nTARIM PUSULASI HABER MERKEZİ"
+    },
+    {
+      "title": "Kıbrıscık pirincinin 300 yıllık tarihi Bolu'da canlanıyor",
+      "url": "https://www.tarimpusulasi.com/haber/kibriscik-pirincinin-300-yillik-tarihi-boluda-canlaniyor-46853",
+      "source": "Tarım Pusulası",
+      "date": "2026-06-19",
+      "summary": "Bolu Valiliği, 2020 yılında coğrafi işaret tescili alan ve tarihi 1700'lü yıllara dayanan ata mirası Kıbrıscık pirincinin geçmişten günümüze uzanan geleneksel üretim yolculuğunu sosyal medya hesaplarından paylaştı.",
+      "content": "BOLU — Bolu’nun bereketli topraklarında asırlardır üretilen ve şehrin en önemli tarımsal miraslarından biri olan Kıbrıscık Pirinci, geleneksel üretim yöntemi ve köklü geçmişiyle geleceğe taşınmaya devam ediyor. 2020 yılında coğrafi işaret tescili alarak kalitesi tescillenen bu değerli ürün, Bolu Valiliği tarafından yapılan paylaşımla yeniden gündeme geldi. Valilik, geçmişten günümüze uzanan üretim geleneğinin şehrin tarımsal kimliği açısından büyük bir gurur kaynağı olduğunu vurguladı.\n\nKıbrıscık ilçesine bağlı Alanhimmetler köyünde çeltik üretimi yapan yerel bir çiftçi, tescilli pirincin kökenleri ve tarihteki izleri hakkında önemli bilgiler verdi. Yapılan tarihi araştırmalara değinen çiftçi, bu özel pirincin bölgedeki ekim geçmişinin 1700'lü yıllara kadar uzandığını belirterek, \"Kızım üniversitede araştırdı; bu derede 1700'lü yıllardan beri ekiliyormuş. Bizim dedelerimiz başlamış, bizler de devam ettiriyoruz\" ifadelerini kullandı.\n\nÖküzlerle Başlayan 120 Günlük Meşakkatli Yolculuk\n\nTeknolojinin henüz gelişmediği eski dönemlerdeki üretim zorluklarını anlatan Alanhimmetler köyü üreticisi, çeltik üretim sürecini şu sözlerle aktardı: \"Eskiden motor yoktu; nisan ayının sonlarında toprakları öküzlerle, hayvanlarla sürerdik. Ardından suyu salıp tohumu atardık. Bir hafta içinde yeşeren çeltiklerin 40 gün sonra otunu ayıklardık. Toplamda 100-120 gün içinde hasat olgunluğuna erişen çeltikleri, Sıla Panayırı dönüşünde oraklarla biçerdik.\"\n\nHasat edilen ürünlerin harman yerlerinde yine hayvanların tırnaklarıyla ovularak saplarından ayrıldığını belirten çiftçi, kurutma işleminin ardından değirmenlerde dövülerek pazara sunulduğunu ifade etti. Kıbrıscık pirincinin lezzetine ve kalitesine dikkat çeken üretici, \"Pirinçten pilav, çorba, sütlü çorba ve pirinç unu yapılır. Çok güzel pilavı olur, Türkiye'de bu pirincin üzerine başka pirinç yoktur\" diyerek ürünün benzersiz yapısını vurguladı.\n\nTARIM PUSULASI HABER MERKEZİ"
+    },
+    {
+      "title": "DKMP Çankırı'da kaçak salep toplayan 10 kişiye 6,9 milyon TL ceza kesti",
+      "url": "https://www.tarimpusulasi.com/haber/dkmp-cankirida-kacak-salep-toplayan-10-kisiye-69-milyon-tl-ceza-kesti-46852",
+      "source": "Tarım Pusulası",
+      "date": "2026-06-19",
+      "summary": "Doğa Koruma ve Milli Parklar (DKMP) ekipleri, Çankırı’da biyoçeşitliliği koruma çalışmaları kapsamında doğadan izinsiz olarak toplanan 35 kilogram salep orkidesi yumrusuna el koydu; yasa dışı toplama yapan 10 kişiye rekor ceza uygulandı.",
+      "content": "ÇANKIRI — Tarım ve Orman Bakanlığına bağlı Doğa Koruma ve Milli Parklar (DKMP) Genel Müdürlüğü, biyoçeşitliliğin korunması ve nesli tehlike altındaki türlerin yasa dışı ticaretinin önlenmesine yönelik denetimlerini aralıksız sürdürüyor. Çankırı'da gelen bir ihbarı değerlendiren ekipler, kolluk kuvvetleriyle ortaklaşa yürüttükleri operasyonda büyük bir çevre suçunu engelledi.\n\nGerçekleştirilen titiz denetimler sonucunda, doğadan izinsiz olarak sökülmüş 35 kilogram salep orkidesi yumrusu ele geçirildi. Koruma altındaki yumrular, yeniden toprağa kazandırılmak ve doğaya iade edilmek üzere DKMP ekiplerince güvence altına alındı.\n\n10 Kişiye Rekor İdari Para Cezası\n\nNesli tehlike altında bulunan salep orkidelerini mevzuata aykırı şekilde topladığı tespit edilen 10 kişi hakkında yasal işlem başlatıldı. İlgili kanun kapsamında, biyolojik çeşitliliğe zarar veren bu kişilere toplam 6 milyon 992 bin 245 TL idari para cezası uygulandı.\n\nDKMP yetkilileri tarafından yapılan açıklamada, doğal mirasın ve biyoçeşitliliğin korunması adına yasa dışı faaliyetlerle mücadelenin kararlılıkla devam edeceği vurgulandı.\n\nTARIM PUSULASI HABER MERKEZİ"
+    },
+    {
+      "title": "ABD süt sektöründe alarm: Üretim patladı, çiğ süt fiyatları düşüşe geçti",
+      "url": "https://www.tarimdanhaber.com/abd-sut-sektorunde-alarm-uretim-patladi-cig-sut-fiyatlari-dususe-gecti",
+      "source": "Tarımdan Haber",
+      "date": "2026-06-19",
+      "summary": "ABD'de yüksek kırmızı et fiyatları nedeniyle üreticilerin sürülerini büyütmesi süt üretiminde rekor artışa yol açtı. Artan arz çiğ süt fiyatlarını baskılarken, USDA üretim tahminlerini yükseltip süt fiyatı beklentilerini aşağı çekti.",
+      "content": "Haber Merkezi / ABD'de kırmızı et piyasasında yaşanan arz sıkışıklığı ve yükselen fiyatlar, bu kez süt sektörünü baskı altına aldı. Tarım Politikaları Uzmanı Ergin Kahveci'nin değerlendirmesine göre, et fiyatlarından daha fazla gelir elde etmek isteyen üreticilerin sürülerindeki inekleri kesime göndermemesi, süt üretiminde hızlı bir artışa yol açtı. Artan üretim ise çiğ süt fiyatları üzerinde baskı oluşturdu.\n\nEt fiyatları yükseldi, süt arzı arttı\n\nABD'de son yıllarda yaşanan hayvan varlığı daralması nedeniyle kırmızı et fiyatları önemli ölçüde yükseldi. Bu süreçte üreticiler, yüksek et fiyatlarından yararlanmak amacıyla sürülerindeki yaşlı inekleri bile kesime göndermek yerine elde tutmayı tercih etti.\n\nBu tercih süt sektöründe beklenmedik bir sonuç doğurdu. Sürüde kalan inek sayısının artmasıyla birlikte süt üretimi de yükseldi. Böylece et sektöründeki arz daralması süt tarafında arz fazlasına dönüştü.\n\nKahveci, tarım sektöründe bir alanda yaşanan gelişmenin diğer alanları doğrudan etkilediğini belirterek, “Tarım bir bütündür ve birlikte yönetilmelidir” değerlendirmesinde bulundu.\n\nABD'de süt ineği sayısı 190 bin baş arttı\n\nABD Tarım Bakanlığı (USDA) verilerine göre ülkedeki süt ineği sayısı geçen yılın aynı dönemine göre 190 bin baş artarak 9 milyon 645 bin başa ulaştı.\n\nİnek başına aylık süt veriminin 938 kilograma yükselmesiyle birlikte Nisan 2026 döneminde günlük çiğ süt üretimi geçen yıla göre yüzde 2,7 arttı. Aylık üretim miktarı ise yaklaşık 301 bin 600 tona çıktı.\n\nUSDA üretim tahminlerini yükseltti\n\nSüt üretimindeki artışın devam edeceğini öngören USDA, 2026 yılı toplam süt üretimi tahminini 453 bin ton artırarak 107,23 milyon tona yükseltti.\n\nBakanlık, 2027 yılında da üretimin artmaya devam edeceğini ve toplam süt üretiminin 107,50 milyon ton ile yeni bir rekora ulaşacağını öngörüyor.\n\nTereyağı ve süt tozu fiyatlarında sert düşüş\n\nÜretimdeki yükseliş, süt ürünleri piyasasında da fiyat baskısını beraberinde getirdi. Mayıs ayından Haziran ayı başına kadar geçen sürede toptan tereyağı ve yağsız süt tozu fiyatları kilogram başına 0,156 dolar geriledi.\n\nSüt ürünlerinde yaşanan bu değer kaybı, üreticilerin eline geçen çiğ süt fiyatı beklentilerini de aşağı çekti.\n\nÇiğ süt fiyatı tahminleri aşağı yönlü revize edildi\n\nUSDA, 2026 yılı ortalama çiğ süt fiyatı tahminini bir önceki aya göre yüzde 2,59 düşürerek kilogram başına 0,46 dolar seviyesine indirdi.\n\nArz fazlasının devam edeceği beklentisiyle 2027 yılı çiğ süt fiyat tahmini de kilogram başına 0,46 dolar olarak revize edildi.\n\nİhracat artışı arz fazlasını dengeleyemedi\n\nABD'nin süt ürünleri ihracatında güçlü bir artış yaşanmasına rağmen iç piyasadaki üretim hızının daha yüksek olması nedeniyle arz fazlası sorunu devam ediyor.\n\nNisan ayında peynir ve tereyağı ihracatı geçen yılın aynı dönemine göre yüzde 35,8 artış göstererek 807 bin tona ulaştı. Ancak bu artış, süt üretimindeki büyümeyi dengelemeye yetmedi.\n\nSektör için risk büyüyor\n\nŞu an için düşük yem maliyetleri üreticilerin karlılığını korumasına yardımcı oluyor. Ancak uzmanlar, çiğ süt fiyatlarında yaşanan gerilemenin kalıcı hale gelmesi durumunda ABD süt sektöründe önümüzdeki dönemde ciddi gelir kayıpları ve piyasa baskısı yaşanabileceği uyarısında bulunuyor."
+    },
     {
       "title": "Kırsalda Bereket Projesi'nde ithalat detayı! TİGEM, 50 bin baş merinos için Yeni Zelanda'ya heyet gönderdi",
       "url": "https://www.tarimdanhaber.com/kirsalda-bereket-projesinde-ithalat-detayi-tigem-50-bin-bas-merinos-icin-yeni-zelandaya-heyet-gonderdi",
@@ -71,22 +119,6 @@
       "content": "MOSKOVA — Rusya Tarım Bakanlığı, tahıl ihracatçılarını yakından ilgilendiren haftalık vergi oranlarını ve güncellenmiş gösterge fiyatlarını yayımladı. Bakanlıktan yapılan açıklamaya göre, 17 - 23 Haziran 2026 tarihleri arasında geçerli olacak periyotta Rusya'dan ihraç edilecek buğday, arpa ve mısır için gümrük vergisi oranları sıfır (0) olarak uygulanmaya devam edecek.\n\nYeni İndikatif Fiyatlar Belirlendi\n\nHaftalık vergi oranları, Moskova Borsası'nda tescil edilen ihracat sözleşmelerine göre belirlenen ton başına yeni indikatif (gösterge) fiyatlar esas alınarak hesaplandı. Buna göre buğdayın indikatif fiyatı bir önceki haftayla aynı kalarak 233,1 dolar, arpanın fiyatı 219 dolardan 218,3 dolara, mısırın fiyatı ise 228,4 dolardan 229,3 dolara güncellendi.\n\nNisan Ayından Bu Yana Vergi Alınmıyor\n\nUygulamada, mısır ve arpa için sıfır vergi oranları 10 Nisan 2026 tarihinden, buğday için ise 17 Nisan 2026 tarihinden bu yana kesintisiz olarak sürdürülüyor. 2021 yılında hayata geçirilen \"tahıl sönümleyici\" (grain damper) mekanizması kapsamında işleyen bu esnek ihracat vergileri, piyasa istikrarını korumak amacıyla indikatif fiyat ile taban fiyat arasındaki farkın yüzde 70'i oranında hesaplanıyor.\n\nTARIM PUSULASI HABER MERKEZİ"
     },
     {
-      "title": "Hindistan ve AEB Tarım Engellerini Görüşecek",
-      "url": "https://www.tarimpusulasi.com/haber/hindistan-ve-aeb-tarim-engellerini-gorusecek-46848",
-      "source": "Tarım Pusulası",
-      "date": "2026-06-18",
-      "summary": "Hindistan, deniz ürünleri, gıda ve tarım ürünleri ihracatını kolaylaştırmak amacıyla Avrasya Ekonomik Birliği (AEB) ile tarife dışı engellerin kaldırılmasını masaya yatırmaya hazırlanıyor. India Times'ın haberine göre kritik müzakerelerin ikinci turu haziran ayı sonunda Moskova'da gerçekleştirilecek",
-      "content": "HİNDİSTAN — Hindistan, Avrasya Ekonomik Birliği (AEB) ile gıda, tarım ve deniz ürünleri ihracatındaki bürokratik ve teknik prosedürleri kolaylaştırmak için kritik bir hamle yapıyor. India Times gazetesinin yayımladığı habere göre iki taraf, aralarındaki serbest ticaret anlaşması müzakerelerinin ikinci turu kapsamında haziran ayı sonunda Moskova'da bir araya gelecek.\n\nTarife Dışı Engeller ve Standartlar Masada\n\nGörüşmelerin ana odağını, ticareti zorlaştıran sıhhi ve bitki sağlığı (fito-saniter) önlemleri ile teknik engeller oluşturuyor. Hindistan hükümeti, AEB tarafından uygulanan mevcut katı standartların fiilen tarife dışı birer kısıtlama işlevi gördüğünü savunuyor. Bu doğrultuda müzakerelerde insan, hayvan ve bitki sağlığını korumaya yönelik normların esnetilmesinin yanı sıra ürün etiketleme, ambalajlama, kalite sertifikasyonu ve test prosedürleri gibi teknik süreçlerin basitleştirilmesi talep edilecek.\n\nMüzakere Sürecinde İkinci Perde\n\nRusya, Ermenistan, Belarus, Kazakistan ve Kırgızistan'ın üye olduğu AEB ile Hindistan arasındaki serbest ticaret anlaşmasının ilk resmi müzakere turu Kasım 2025'te gerçekleştirilmişti. Taraflar, ticaret anlaşmasının başlatılmasına yönelik temel kuralları ve ön koşulları ise geçtiğimiz yıl uzlaşıyla karara bağlamıştı.\n\nTARIM PUSULASI HABER MERKEZİ"
-    },
-    {
-      "title": "Rusagrotrans: Rusya'nın Buğday İhracatı 47 Milyon Tonu Aşacak",
-      "url": "https://www.tarimpusulasi.com/haber/rusagrotrans-rusyanin-bugday-ihracati-47-milyon-tonu-asacak-46847",
-      "source": "Tarım Pusulası",
-      "date": "2026-06-18",
-      "summary": "Rusagrotrans, Rusya'nın bu sezonki buğday ihracat tahminini 47 milyon tonun üzerine çıkararak geçen yıla oranla %11,3'lük bir artış öngördü. Mayıs ayı ihracat beklentileri ise Avrasya Ekonomik Birliği ülkelerine yapılan sevkiyatların etkisiyle yukarı yönlü revize edildi.",
-      "content": "MOSKOVA — Rusya’nın önde gelen lojistik ve analiz merkezlerinden Rusagrotrans, cari sezon sonu için buğday ihracat tahminlerini güncelledi. Kurumun yayımladığı son rapora göre, Rusya'nın buğday ihracatı bir önceki sezonda gerçekleşen 42,2 milyon tona kıyasla yüzde 11,3 oranında bir artış göstererek 47 milyon ton ve üzerine çıkacak.\n\nMayıs ve Haziran Ayı Sevkiyatlarında Hareketlilik\n\nAnalistler, 2026 yılı Mayıs ayına yönelik buğday ihracat tahminini, Avrasya Ekonomik Birliği (AEB) ülkelerine yapılan yüksek hacimli sevkiyatların etkisiyle 3,2 milyon tona yükseltti. Haziran ayı ihracat beklentisi ise 1,85 milyon ton olarak belirlendi. Verilere göre, Haziran ayının ilk dokuz gününde Rusya'dan yaklaşık 355 bin ton buğdayın çıkışı halihazırza tamamlandı.\n\nYeni Hasat Dönemi Fiyatları Baskılıyor\n\nPiyasa dinamiklerini de değerlendiren Rusagrotrans uzmanları, borsadaki buğday kotasyonlarının ve fiziki piyasa fiyatlarının geçen hafta düşüş eğilimini sürdürdüğünü kaydetti. Analistler, küresel piyasalarda ve Rusya iç pazarında yaşanan bu fiyat düşüşünün, yeni hasat dönemine ait ürünlerin kitlesel olarak piyasaya girmeye başlamasından kaynaklanan arz baskısından ileri geldiğini vurguluyor.\n\nTARIM PUSULASI HABER MERKEZİ"
-    },
-    {
       "title": "Antalya dünya tohumculuğunun merkezi olacak: Asya Tohumculuk Kongresi ilk kez Türkiye’de düzenlenecek",
       "url": "https://www.tarimdanhaber.com/antalya-dunya-tohumculugunun-merkezi-olacak-asya-tohumculuk-kongresi-ilk-kez-turkiyede-duzenlenecek",
       "source": "Tarımdan Haber",
@@ -101,38 +133,6 @@
       "date": "2026-06-18",
       "summary": "Ankara’da yaklaşık 12 bin baş dişi besilik sığırın kesiminin durdurulmasıyla başlayan tartışma, Türkiye hayvancılığında yıllardır çözülemeyen bir sorunu yeniden gündeme taşıdı. Kanunlarda açık bir dişi hayvan kesim yasağı bulunmazken, Tarım ve Orman Bakanlığı’nın yıllardır uyguladığı idari koruma me",
       "content": "Haber Merkezi / Tarımdan Haber'in 7 Haziran'da gündeme getirdiği; 'Ankara’da besicilerin \"Dişi Hayvan\" çıkmazı: Kesimliğe gelen 12 bin hayvan için zorunlu aşı kararı' başlıklı haberi, Türkiye hayvancılık sektöründe uzun yıllardır tartışılan \"damızlık dişi hayvanların korunması\" konusunu yeniden gündeme taşıdı.\n\nKamuoyunda çoğu zaman \"dişi hayvan kesim yasağı\" olarak bilinen uygulamanın yasal zemini yeniden sorgulanırken, uzmanlar tartışmanın yalnızca kesim meselesi olmadığını, hayvancılık kayıt sistemindeki yapısal eksikliklerin de gün yüzüne çıktığını belirtiyor.\n\nKanunlarda açık bir dişi hayvan kesim yasağı bulunmuyor\n\nMevzuat incelendiğinde, ne yürürlükten kaldırılan 4631 sayılı Hayvan Islahı Kanunu'nda ne de halen yürürlükte bulunan 5996 sayılı Veteriner Hizmetleri, Bitki Sağlığı, Gıda ve Yem Kanunu'nda \"damızlık niteliği taşıyan dişi hayvanların kesilmesi yasaktır\" şeklinde açık bir hüküm yer almıyor.\n\nBu nedenle kamuoyunda sıkça dile getirilen \"dişi hayvan kesmek kanunen yasaktır\" söylemi teknik anlamda doğru kabul edilmiyor.\n\nAncak bu durum, Tarım ve Orman Bakanlığı'nın uygulamalarının hukuki dayanağının olmadığı anlamına da gelmiyor.\n\nBakanlık hangi hükümlere dayanıyor?\n\nHayvancılık mevzuatında temel yaklaşım, damızlık değeri taşıyan hayvanların üretim amaçları dışında kullanılmaması üzerine kurulu.\n\n4631 sayılı Kanun'un 6'ncı maddesinde yer alan ve daha sonra 5996 sayılı Kanun'un 10'uncu maddesinde sürdürülen düzenlemeye göre, damızlık belgesi ve soykütüğü kaydı bulunan hayvanların damızlık özelliklerini korudukları sürece amacı dışında kullanılmaması gerekiyor.\n\nTarım ve Orman Bakanlığı da yıllardır bu hükmü; \"Damızlık vasfı devam eden hayvanın kesime sevki amacı dışında kullanımdır\" şeklinde yorumlayarak uyguluyor.\n\nBu kapsamda Bakanlık;\n\nDamızlık materyalin korunması,\n\nBuzağı üretiminin artırılması,\n\nSürü varlığının güçlendirilmesi,\n\nUzun vadede et arzının güvence altına alınması,\n\namacıyla çeşitli idari tedbirler yürütüyor.\n\nDişi hayvan kesim raporu sistemi nasıl çalışıyor?\n\n2012 yılından itibaren uygulanan sistemde gebe veya damızlık niteliğini koruyan dişi hayvanlar için kesim raporu düzenlenmemesi esas alınıyor.\n\nBuna karşılık;\n\nKısır,\n\nİnfertil,\n\nTedavi edilemeyen üreme problemi bulunan,\n\nDamızlık özelliğini kaybetmiş,\n\nhayvanlar için veteriner hekim raporuyla kesim izni verilebiliyor.\n\nBu nedenle mezbahalarda kesim öncesi \"Dişi Hayvan Kesim Raporu\" talep ediliyor.\n\nYıllardır uygulanan temel prensip ise şöyle özetleniyor:\n\nDamızlık niteliği devam eden dişi hayvan → Kesim yok\n\nDamızlık niteliğini kaybetmiş dişi hayvan → Raporla kesim\n\nAnkara’daki olay neden farklı?\n\nUzmanlara göre Ankara’da gündeme gelen yaklaşık 12 bin başlık olay, klasik bir damızlık düve vakasından farklı özellikler taşıyor.\n\nİddialara göre söz konusu hayvanlar;\n\nDamızlık işletmelerinde yetiştirilmedi,\n\nBesi amacıyla satın alındı,\n\nAylarca besi programında tutuldu,\n\nKesim ağırlığına ulaştı.\n\nBu nedenle tartışmanın odağında şu soru yer alıyor:\n\nGenetik olarak damızlık potansiyeli taşıyan her dişi hayvan, fiilen damızlık hayvan olarak mı değerlendirilmelidir?\n\nHayvancılık uzmanları, besi işletmelerinde 600-700 kilogram canlı ağırlığa ulaşmış ve kesim planlaması yapılmış hayvanların son aşamada damızlık materyal olarak değerlendirilmesinin mevzuatın amaçsal yorumuyla tam olarak örtüşmeyebileceğini ifade ediyor.\n\nMevzuatta tanımlanmayan üçüncü grup\n\nAnkara’daki kriz, aslında mevzuatta açık şekilde tanımlanmamış yeni bir kategoriyi gündeme getirdi.\n\nBunlar; \"Damızlık olarak yetiştirilmeyen ancak genetik olarak damızlık potansiyeli taşıyan besilik dişi hayvanlar.\"\n\nMevzuat mevcut haliyle iki grubu net biçimde tanımlıyor:\n\nDamızlık sürü hayvanları,\n\nDamızlık özelliğini kaybetmiş kesimlik hayvanlar.\n\nAncak Ankara’daki olaydaki hayvanlar bu iki grubun arasında yer alıyor.\n\nSorunun merkezinde TÜRKVET sistemi var\n\nUzmanlara göre yaşanan krizin temelinde kayıt sistemi bulunuyor. Bugün TÜRKVET sisteminde hayvanlar damızlık veya besilik statüsüne göre değil, büyük ölçüde cinsiyet bilgisi üzerinden takip ediliyor.\n\nBu nedenle damızlık potansiyeli bulunan dişi hayvanlar uzun süre besi materyali olarak kullanılabiliyor ve sorun ancak kesim aşamasında ortaya çıkıyor.\n\nHayvancılık çevreleri, eğer bir hayvan gelecekte damızlık materyal olarak değerlendirilecekse bunun kesim döneminde değil, üretim zincirine giriş yaptığı aşamada belirlenmesi gerektiğini savunuyor.\n\nAmaç doğru, yöntem tartışılıyor\n\nSektör temsilcileri Bakanlığın;\n\nBuzağı sayısını artırma,\n\nDamızlık materyali koruma,\n\nYerli üretimi güçlendirme,\n\nİthalat bağımlılığını azaltma,\n\nhedeflerinin doğru olduğunu belirtiyor. Ancak bu hedeflere ulaşmanın yolunun kesime birkaç hafta kalmış besi hayvanlarından değil;\n\nDüve merkezlerinden,\n\nDamızlık işletmelerinden,\n\nTİGEM kaynaklı damızlık programlarından,\n\nEtkin soykütüğü sistemlerinden,\n\nErken dönem damızlık-besilik ayrımından\n\ngeçtiği ifade ediliyor.\n\nHayvancılıkta yeni bir düzenleme ihtiyacı mı doğuyor?\n\nAnkara’da yaşanan 12 bin başlı"
-    },
-    {
-      "title": "Bangladeş Gıda Bakanlığı: Buğday İthalatı Yüzde 25 Arttı",
-      "url": "https://www.tarimpusulasi.com/haber/banglades-gida-bakanligi-bugday-ithalati-yuzde-25-artti-46846",
-      "source": "Tarım Pusulası",
-      "date": "2026-06-18",
-      "summary": "The Financial Express’in yayımladığı rapora göre Bangladeş, küresel fiyatlardaki istikrarı fırsata çevirerek buğday ithalatını %25 artırdı. Ülkenin toplam gıda tahılı ithalatının 9 milyon tona ulaşarak tarihi zirveye yaklaşması bekleniyor.",
-      "content": "DAKKA — Asya piyasalarında tahıl ticareti hareketlenirken, Bangladeş küresel pazardan yaptığı alımlarla dikkat çekiyor. The Financial Express gazetesinin Bangladeş Gıda Bakanlığı resmi verilerine dayandırdığı habere göre ülke, 2025-26 mali yılında tarihinin en yüksek ikinci gıda tahılı ithalat hacmine ulaşma yolunda ilerliyor. Küresel piyasalarda fiyatların istikrarlı seyretmesini fırsat bilen Bangladeş hükümeti ve özel sektörü, buğday tedarikine hız verdi.\n\nİthalat Giderleri 2,24 Milyar Dolara Ulaştı\n\nAçıklanan resmi verilere göre, özel tüccarlar ve devlet eliyle yapılan pirinç ile buğday ithalatı 31 Mayıs itibarıyla 8,4 milyon ton sınırını aştı. Mali yıl sonuna kadar toplam ithalatın 9 milyon tona ulaşacağı tahmin ediliyor. Bu dönemde pirinç alımları yatay bir seyir izlerken, buğday ithalatı hacimsel olarak yüzde 25'in üzerinde bir artış gösterdi. Bangladeş Merkez Bankası verileri gıda tahılı ithalat faturalarının yüzde 33 artarak 2,24 milyar dolara yükseldiğini, bu harcamanın 1,77 milyar dolarlık aslan payının sadece buğday alımına ayrıldığını ortaya koydu.\n\nFiyat İstikrarı Sağlandı Ama Tüketiciye Yansımadı\n\nBangladeş Gıda Genel Müdürlüğü (DGoF) Direktörü Md Moniruzzaman, hem güçlü yerel üretim hem de zamanında yapılan ithalat sayesinde devletin gıda stokunun 1,7 milyon tona yükseldiğini ve arz güvenliği sorunu bulunmadığını vurguladı. Sektör uzmanlarından Prof. Golam Hafeez Kennedy, uluslararası piyasada buğdayın tonunun 220-250 dolar, pirincin ise 380-450 dolar bandında kalmasının bu tedarik başarısını getirdiğini belirtti.\n\nMadalyonun diğer yüzünde ise tüketici hakları savunucuları yer alıyor. Bangladeş Tüketiciler Derneği (CAB) Başkan Yardımcısı SM Nazer Hossain, küresel buğday fiyatları yüzde 12 ila 15 arasında düşmesine rağmen iç pazardaki un ve pirinç fiyatlarının yüksek kalmaya devam ettiğini belirterek, artan ithalat hacminden yerel tüketicinin henüz faydalanamadığı eleştirisinde bulundu.\n\nTARIM PUSULASI HABER MERKEZİ"
-    },
-    {
-      "title": "Tahıl Konseyi Tahmini: Küresel Fasulye Üretimi %2 Azalacak",
-      "url": "https://www.tarimpusulasi.com/haber/tahil-konseyi-tahmini-kuresel-fasulye-uretimi-2-azalacak-46845",
-      "source": "Tarım Pusulası",
-      "date": "2026-06-18",
-      "summary": "Uluslararası Tahıl Konseyi (IGC), 2026/27 sezonunda dünya kuru fasulye üretiminin yüzde 2 düşerek 29,6 milyon tona gerileyeceğini duyurdu. Üretim kaybında ABD, Hindistan ve Brezilya başı çekiyor.",
-      "content": "LONDRA — Küresel gıda piyasaları ve bakliyat sektörü, üretim tahminlerindeki gerileme sinyalleriyle hareketleniyor. Uluslararası Tahıl Konseyi (IGC) tarafından yayımlanan son raporda, 2026/27 sezonuna ilişkin dünya genelindeki kuru fasulye üretimi masaya yatırıldı. Kurum analistlerinin öngörülerine göre, geçtiğimiz yıl yakalanan istikrarlı üretim seviyesinin ardından, küresel kuru fasulye üretimi yeni sezonda yıllık bazda yüzde 2 oranında bir daralma yaşayacak. Bu düşüşle birlikte dünya üretim hacminin 29,6 milyon tona gerilemesi bekleniyor.\n\nÜç Dev Ülkede Rekolte Kaybı Kapıda\n\nIGC analistleri, küresel ölçekteki bu azalışın arkasındaki temel nedenleri önemli üretici ülkelerdeki tarımsal daralmaya bağlıyor. Raporda; Hindistan, ABD ve Brezilya gibi dünya kuru fasulye arzını sırtlayan kritik ülkelerde bu yıl daha düşük rekolte elde edileceği vurgulanıyor.\n\nPiyasadaki arzın azalmasına paralel olarak, küresel tüketim hacminin 29,9 milyon tona, küresel stokların ise 4,1 milyon tona gerileyeceği tahmin ediliyor. Öte yandan ticari hareketlilik cephesinde istikrarlı bir seyir hakim. 2026 yılı genelinde kuru fasulye ticaret hacminin, 2025 verileriyle uyumlu şekilde 5,3 milyon ton seviyesinde kalacağı; 2027 yılında da Asya pazarındaki talep değişikliklerinin asgari düzeyde kalması sebebiyle bu seyrin değişmeyeceği öngörülüyor.\n\nTARIM PUSULASI HABER MERKEZİ"
-    },
-    {
-      "title": "Rusya Tarım Raporu: Türkiye'ye Yulaf Sevkiyatı Devam Ediyor",
-      "url": "https://www.tarimpusulasi.com/haber/rusya-tarim-raporu-turkiyeye-yulaf-sevkiyati-devam-ediyor-46844",
-      "source": "Tarım Pusulası",
-      "date": "2026-06-18",
-      "summary": "Rusya, 2026 yılının ilk 4 ayında yulaf ihracatını yüzde 23 artırarak 111 bin tona çıkardı. En büyük alıcı 76 bin tonla Çin olurken, Türkiye de ithalatçı ülkeler arasında yer aldı.",
-      "content": "MOSKOVA — Küresel tahıl pazarında hareketlilik sürerken, Rusya'nın yulaf ihracatında önemli bir ivme yakalandı. Sektör uzmanlarının paylaştığı verilere göre, 2026 yılının ilk 4 ayında Rusya, yurt dışına 23,5 milyon ABD dolarını aşan değerde yaklaşık 111 bin ton yulaf ihraç etti. Bu dönemde elde edilen ihracat hacmi, geçen yılın aynı dönemine kıyasla hem miktar hem de finansal değer bazında yüzde 23 oranında artış gösterdi.\n\nÇin Liderliğini Koruyor, Türkiye Alıcılar Arasında\n\nAçıklanan ihracat verilerine göre, Rus yulafını en çok tercih eden ülkelerin başında Çin Halk Cumhuriyeti geldi. Çin, Rusya'dan 76 bin tondan fazla yulaf ithal ederek lider konumda yer aldı. Çin'i 20 bin tonu aşan ithalatıyla Moğolistan ve 11 bin tonun üzerindeki alımıyla Kazakistan takip etti.\n\nUluslararası pazarda pazar payını genişleten Rusya, ilk üç sırada yer alan bu ülkelerin yanı sıra Türkiye, Ermenistan, Gürcistan ve Kırgızistan dahil olmak üzere dünyanın birçok farklı noktasına yulaf tedariki sağlamaya devam ediyor. Nisan ayına ait Avrasya Ekonomik Birliği (AEB) ülkelerinin verilerinin henüz tamamen netleşmediği, bu rakamların önümüzdeki süreçte daha da yukarı yönlü güncellenebileceği belirtiliyor.\n\nTARIM PUSULASI HABER MERKEZİ"
-    },
-    {
-      "title": "Tekirdağ’da 2026 biçim ücretleri belli oldu: Hububat ve ayçiçeğinde dekar başına 400 TL",
-      "url": "https://www.tarimdanhaber.com/tekirdagda-2026-bicim-ucretleri-belli-oldu-hububat-ve-ayciceginde-dekar-basina-400-tl",
-      "source": "Tarımdan Haber",
-      "date": "2026-06-17",
-      "summary": "Tekirdağ İl Koordinasyon Kurulu, 2026 yılı hasat sezonunda uygulanacak tavsiye niteliğindeki biçim ve balya bağlama ücretlerini belirledi. Alınan karara göre hububat ve ayçiçeği biçim ücreti dekar başına 400 TL, kanola biçim ücreti ise 450 TL olarak tavsiye edildi.",
-      "content": "Haber Merkezi / Süleymanpaşa Ziraat Odası toplantı salonunda, Tekirdağ İl Koordinasyon Kurulu Başkanı İmdat Saygı başkanlığında gerçekleştirilen toplantıda 2026 yılı biçim ve balya bağlama ücretleri görüşülerek karara bağlandı.\n\nKurul tarafından alınan karara göre, iş yapan ile işi yaptıran arasında hukuki geçerliliği olan bir sözleşme bulunması halinde sözleşme hükümleri geçerli olacak. Ancak herhangi bir sözleşme yapılmayan durumlarda Tekirdağ genelinde uygulanmak üzere aşağıdaki ücretlerin tavsiye edilmesi kararlaştırıldı.\n\n2026 yılı biçim ücretleri\n\nBelirlenen tavsiye fiyatları şu şekilde:\n\nHububat biçim ücreti 400 TL/dekar\n\nAyçiçeği biçim ücreti 400 TL/dekar\n\nKanola biçim ücreti 450 TL/dekar\n\nOt biçme ücreti 300 TL/dekar\n\nBalya bağlama ücretleri de açıklandı\n\nKurul kararında balya bağlama ücretleri de yer aldı.\n\nBuna göre;\n\n25 kilogramlık balya için balya bağlama ücreti: 40 TL\n\nBüyük balya bağlama ücreti: 1,50 TL/kg\n\nolarak tavsiye edildi.\n\nÖdemeler en geç 45 gün içinde yapılacak\n\nKararda, makine sahiplerinin üreticilerden alacaklarını hasattan sonra en geç 45 gün içerisinde tahsil edeceği belirtildi.\n\nBelirtilen süre içerisinde ödeme yapılmaması halinde ise makine sahiplerinin ek ücret talep edebileceği kaydedildi.\n\nToplantıya İl Koordinasyon Kurulu Başkanı ve Süleymanpaşa Ziraat Odası Başkanı İmdat Saygı'nın yanı sıra Hayrabolu Ziraat Odası Başkanı Mehmet Başol, Çorlu Ziraat Odası Başkanı Ali Topuz, Malkara Ziraat Odası Başkanı Ender Çeşme, Muratlı Ziraat Odası Başkanı Ender Borucu, Şarköy Ziraat Odası Başkanı Ömer Düzgen, Çerkezköy Ziraat Odası Başkanı Mehmet Ali Çolakoğlu ve Saray Ziraat Odası Başkanı İbrahim Çınar katıldı."
     }
   ],
   "commoditiesByBorsa": {
@@ -328,20 +328,5 @@
   "defaultBorsa": "5ED10",
   "defaultCity": "CANAKKALE",
   "note": "Fiyatlar TOBB ticaret borsasından (borsa seçilebilir). Kanola manuel (Trakya 2025).",
-  "inputsNote": "Mazot: akaryakıt bayi fiyatı, günlük (şehir seçilebilir). Gübre: manuel (yaklaşık).",
-  "errors": [
-    "borsa 5ED10: fetch failed",
-    "borsa 5KO10: fetch failed",
-    "borsa 5ES10: fetch failed",
-    "mazot ANKARA: fetch failed",
-    "mazot ISTANBUL: fetch failed",
-    "mazot IZMIR: fetch failed",
-    "mazot KONYA: fetch failed",
-    "mazot ADANA: fetch failed",
-    "mazot BURSA: fetch failed",
-    "mazot ANTALYA: fetch failed",
-    "mazot SAMSUN: fetch failed",
-    "mazot TEKIRDAG: fetch failed",
-    "mazot CANAKKALE: fetch failed"
-  ]
+  "inputsNote": "Mazot: akaryakıt bayi fiyatı, günlük (şehir seçilebilir). Gübre: manuel (yaklaşık)."
 }
