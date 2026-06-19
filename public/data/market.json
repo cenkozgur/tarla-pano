@@ -1,26 +1,26 @@
 {
-  "updatedAt": "2026-06-19T20:26:48.384Z",
+  "updatedAt": "2026-06-19T21:44:54.437Z",
   "fx": [
     {
       "code": "USD",
       "name": "Dolar",
-      "buy": 46.43,
-      "sell": 46.45,
-      "change": -0.03
+      "buy": 46.41,
+      "sell": 46.48,
+      "change": -0.02
     },
     {
       "code": "EUR",
       "name": "Euro",
-      "buy": 53.29,
-      "sell": 53.37,
-      "change": 0.2
+      "buy": 53.25,
+      "sell": 53.36,
+      "change": 0.15
     },
     {
       "code": "GRA",
       "name": "Gram Altın",
-      "buy": 6203.92,
-      "sell": 6204.73,
-      "change": -1.31
+      "buy": 6204.69,
+      "sell": 6205.5,
+      "change": -1.3
     },
     {
       "code": "CEYREKALTIN",
@@ -38,6 +38,14 @@
     }
   ],
   "news": [
+    {
+      "title": "TMO piyasa göstergelerini yayımladı: İşte ürün ürün son fiyatlar (19 Haziran)",
+      "url": "https://www.tarimdanhaber.com/foto-galeri/tmo-piyasa-gostergelerini-yayimladi-iste-urun-urun-son-fiyatlar-19-haziran",
+      "source": "Tarımdan Haber",
+      "date": "2026-06-19",
+      "summary": "Toprak Mahsulleri Ofisi (TMO), 19 Haziran tarihli hububat ve bakliyat piyasa göstergelerini yayımladı. Ekmeklik buğday serbest piyasada 14 bin 879 TL/ton seviyesinde işlem görürken, Konya Ticaret Borsası'nda 15 bin 546 TL/tona kadar çıktı. Raporda arpa, mısır, çeltik ve bakliyat ürünlerinin yanı sır",
+      "content": "TMO'nun 19 Haziran tarihli hububat ve bakliyat piyasa göstergelerine göre, ekmeklik buğday, makarnalık buğday, yemlik arpa, mısır, çeltik ve bakliyat ürünleri serbest piyasa fiyatları ile borsa fiyatları karşılaştırmalı olarak yayınlandı. Aynı zamanda ürünlerin dünya piyasa verileri de paylaşıldı. Bir bakışta, piyasa verileri hakkında bilgi sahip olmanız için TMO piyasa göstergelerini sizler için derledik."
+    },
     {
       "title": "Marmarabirlik Başkanı Ali Yıldız Dört Ülkeye İhracatı Duyurdu",
       "url": "https://www.tarimpusulasi.com/haber/marmarabirlik-baskani-ali-yildiz-dort-ulkeye-ihracati-duyurdu-46869",
@@ -125,14 +133,6 @@
       "date": "2026-06-19",
       "summary": "Fiyat Endeksleri Merkezi (FEM) konsensüs tahminine göre, Orta Doğu'daki lojistik tıkanıklıkların küresel arzı daraltmasıyla birlikte ikinci çeyrek sonu itibarıyla küresel karbamid (üre) ihracat fiyatlarının yüzde 40'tan fazla artması bekleniyor.",
       "content": "MOSKOVA — Küresel mineral gübre pazarı, Orta Doğu'da uzun süredir devam eden lojistik kısıtlamaların ve jeopolitik gerilimlerin doğrudan etkisi altına girdi. Kommersant gazetesinin Fiyat Endeksleri Merkezi (ЦЦИ) konsensüs tahminlerine dayandırdığı analize göre, özellikle azotlu gübre segmentinde üreticilerin depo stoklarındaki aşırı yığılma nedeniyle uzun vadeli pozisyonlardaki malları elden çıkarmaya çalışması kısa vadeli bir düşüş trendi yaratsa da yakın gelecekte piyasaları çok sert bir fiyat artış dalgası bekliyor.\n\nKarbamid Fiyatları Ton Başına 683 Doları Aşacak\n\nRapora göre, küresel karbamid (üre) ihracat fiyatlarının 2026 yılının ikinci çeyreği sonunda yüzde 40'ın üzerinde artarak ton başına ortalama 683 doları aşması öngörülüyor. Uzmanlar, yıl genelinde ise karbamid ihracat maliyetlerindeki toplam artışın yüzde 45’i bulacağını tahmin ediyor. Orta Doğu'daki çatışma ortamının sürmesi, azotlu gübre üretimini ve ham madde tedarikini küresel ölçekte kısıtlarken; Hindistan ve ABD gibi küresel lider ithalatçıların pazardaki alım faaliyetlerini hızlandırması fiyatları yukarı yönlü baskılayan en önemli unsurlar arasında yer alıyor.\n\nAmonyum Fosfat ve Potasyumda da Yükseliş Sürüyor\n\nFiyat Endeksleri Merkezi'nin tahminlerine göre, amonyum fosfat fiyatları ikinci çeyrek sonunda ton başına 808 dolara ulaşarak yüzde 17'lik bir artış kaydedecek. Yıl genelindeki artışın ise yüzde 15'i bularak ortalama ton fiyatının 729 dolar seviyesinde dengeleneceği belirtiliyor. Bu segmentteki en kritik faktör, Çin'in ihracat pazarında olmaması ve bu durumun Brezilya ile Hindistan gibi dev ithalatçıların istikrarlı talebi karşısında küresel arz dengesini bozması olarak gösteriliyor. Ayrıca fosfat kayası ve kükürt gibi ham maddelerin maliyetlerindeki artış da fiyatları destekliyor. Potasyum fiyatlarının ise büyük tüketiciler Çin ve Hindistan'ın güçlü talebiyle ikinci çeyrekte yüzde 11 artışla ton başına 322 dolara, 2026 yılı genelinde ise ortalama yüzde 7 artışla 301 dolara yükselmesi bekleniyor.\n\nRus Üreticiler Sanfiyona Rağmen Pazardaki Yerini Koruyor\n\nKüresel arenadaki güçlü pozisyonunu korumayı başaran Rusya gübre sektörü, oluşan bu yeni piyasa koşullarından fayda sağlayabilecek konumda bulunuyor. Rus karbamid üreticileri, ülkenin güney bölgelerinde yaşanan altyapı ve lojistik sorunlarına rağmen uzak destinasyonlara yönelik ihracat operasyonlarını kesintisiz sürdürerek küresel pazarın en önemli tedarikçisi olmaya devam ediyor. Bu ihracat başarısına Avrupa Birliği (AB) tarafından uygulanan yaptırım bariyerleri ve ek gümrük vergileri bile engel olamıyor.\n\nTARIM PUSULASI HABER MERKEZİ"
-    },
-    {
-      "title": "Hasan Hüseyin Demiröz'den ESK'ya sert tepki: Üretici zarar ederken ithal ete yüzde 25 zam!",
-      "url": "https://www.tarimdanhaber.com/hasan-huseyin-demirozden-eskya-sert-tepki-uretici-zarar-ederken-ithal-ete-yuzde-25-zam",
-      "source": "Tarımdan Haber",
-      "date": "2026-06-19",
-      "summary": "Anahtar Parti Genel Başkan Yardımcısı Hasan Hüseyin Demiröz, Et ve Süt Kurumu'nun PERDER üyesi marketlere sattığı ithal et fiyatına yüzde 25 zam yapmasını eleştirerek, \"Yerli üretici yüksek yem maliyetleri altında ezilirken ithal ete zam yapılması kabul edilemez. Çözüm ithalatta değil, üreticiyi des",
-      "content": "Haber Merkezi / Anahtar Parti Genel Başkan Yardımcısı Hasan Hüseyin Demiröz, Et ve Süt Kurumu'nun (ESK) Perakendeciler Derneği (PERDER) üyesi marketlere tedarik ettiği ithal et fiyatına yüzde 25 oranında zam yapmasını sert sözlerle eleştirdi. Demiröz, yerli besicinin yüksek yem maliyetleri altında ayakta kalma mücadelesi verdiğini belirterek, ithal et fiyatlarına yapılan zammın üreticiye değil aracılara yarayacağını savundu.\n\nİthal et firmalarının maliyeti mi arttı?\n\nESK'nın ithal et ve besilik hayvan politikasını eleştiren Demiröz, kurumun yaptığı fiyat artışının gerekçesini sorgulayarak şunları söyledi:\n\n\"Et ve Süt Kurumu perakende marketlere sattığı ithal ete yüzde 25 zam yaptı. Kendi üreticisi yüksek yem maliyetleri altında ayakta kalmaya çalışırken ithal ete ve et besisine zam yapıyorsunuz. İthal ettiğiniz firmaların maliyetleri mi arttı? Buradan elde edeceğiniz gelirle üreticiye destek vereceğinizi mi düşünüyorsunuz?\"\n\nGeçtiğimiz yıl ithal et operasyonlarından elde edilen yaklaşık 13 milyar liralık gelire de dikkat çeken Demiröz, bu kaynağın sektöre dönmediğini kaydetti.\n\nUcuz et dar gelirliye ulaşmıyor\n\nİthal edilen et miktarının Türkiye'nin toplam et ihtiyacının yaklaşık yüzde 10'una karşılık geldiğini belirten Demiröz, buna rağmen uygulamanın tüketici lehine sonuç vermediğini savundu.\n\nDemiröz, marketlerde satılan düşük fiyatlı etlerin sınırlı miktarda olması nedeniyle vatandaşların ürüne ulaşamadığını belirterek, \"Bulan alıyor, bulamayan daha yüksek fiyatla almak zorunda kalıyor. Marketlerde kavga çıkıyor. Bu kavgalar yaşanmasın diye bazı marketler alabildikleri ucuz eti arka kapıdan kasaplara satıyor. Hem market hem kasap kazanıyor, tüketici ise yine yüksek fiyatla karşı karşıya kalıyor\" dedi.\n\nÇözüm ithalatta değil üretimde\n\nHayvancılıkta kalıcı çözümün ithalat değil üretim olduğunu vurgulayan Demiröz, hükümete yerli üretimi destekleme çağrısında bulundu.\n\nYem maliyetlerinin düşürülmesi, meraların rehabilite edilmesi ve üreticinin kaliteli yemle desteklenmesi gerektiğini ifade eden Demiröz, şu önerilerde bulundu:\n\nGirdi maliyetlerine müdahale edilmeli,\n\nAtıl durumdaki meralar üretime kazandırılmalı,\n\nKüçükbaş hayvancılıkta seferberlik ilan edilmeli,\n\nÜreticiye uygun fiyatlı kaliteli yem sağlanmalı,\n\nBesicinin hayvanı ESK tarafından alınmalı.\n\nÜretici desteklenirse maliyetler yüzde 40 düşer\n\nDemiröz, yerli üretime öncelik verilmesi halinde hayvancılık maliyetlerinde ciddi düşüş yaşanacağını savunarak, \"Üreticinin besisini Et ve Süt Kurumu alsın. Bunlar yapılırsa maliyetler yüzde 40 düşer. Paramız yurt dışına gitmez. Başlangıçta üreticiden biraz daha yüksek fiyatla alım yapılabilir ancak bir yıl içinde fiyatlar düşmeye başlar ya da en azından artmaz\" değerlendirmesinde bulundu.\n\nYapın iktidarda kalın, yapamazsanız geliyoruz\n\nHayvancılık politikalarının değiştirilmesi çağrısında bulunan Demiröz, açıklamasını siyasi bir mesajla tamamladı.\n\nDemiröz, \"Üretim hafızamızı yeniden kazanalım. Yerli üreticiyi destekleyin. Yapın iktidarda kalın. Yapamazsanız geliyoruz\" ifadelerini kullandı."
     }
   ],
   "commoditiesByBorsa": {
@@ -328,5 +328,17 @@
   "defaultBorsa": "5ED10",
   "defaultCity": "CANAKKALE",
   "note": "Fiyatlar TOBB ticaret borsasından (borsa seçilebilir). Kanola manuel (Trakya 2025).",
-  "inputsNote": "Mazot: akaryakıt bayi fiyatı, günlük (şehir seçilebilir). Gübre: manuel (yaklaşık)."
+  "inputsNote": "Mazot: akaryakıt bayi fiyatı, günlük (şehir seçilebilir). Gübre: manuel (yaklaşık).",
+  "errors": [
+    "mazot ANKARA: fetch failed",
+    "mazot ISTANBUL: fetch failed",
+    "mazot IZMIR: fetch failed",
+    "mazot KONYA: fetch failed",
+    "mazot ADANA: fetch failed",
+    "mazot BURSA: fetch failed",
+    "mazot ANTALYA: fetch failed",
+    "mazot SAMSUN: fetch failed",
+    "mazot TEKIRDAG: fetch failed",
+    "mazot CANAKKALE: fetch failed"
+  ]
 }
