@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-06-20T01:54:56.062Z",
+  "updatedAt": "2026-06-20T06:25:34.688Z",
   "fx": [
     {
       "code": "USD",
@@ -38,6 +38,14 @@
     }
   ],
   "news": [
+    {
+      "title": "Samsun İl Tarım Müdürlüğünden Üreticiye Akdeniz Meyve Sineği Tuzağı",
+      "url": "https://www.tarimpusulasi.com/haber/samsun-il-tarim-mudurlugunden-ureticiye-akdeniz-meyve-sinegi-tuzagi-46870",
+      "source": "Tarım Pusulası",
+      "date": "2026-06-20",
+      "summary": "Samsun İl Tarım ve Orman Müdürlüğü ile Samsun Büyükşehir Belediyesi iş birliğiyle yürütülen proje kapsamında, meyve üretiminde ciddi kayıplara yol açan Akdeniz meyve sineğine karşı 110 üreticiye toplam 1.600 adet kitlesel biyoteknik mücadele tuzağı dağıtıldı.",
+      "content": "SAMSUN — Samsun İl Tarım ve Orman Müdürlüğü ile Samsun Büyükşehir Belediyesi iş birliğinde yürütülen \"Samsun İli Akdeniz Meyve Sineği Biyoteknik Mücadele Projesi\" kapsamında üreticilere kitlesel tuzak desteği sağlandı. Meyvelerde çürümeye yol açarak ciddi ürün ve pazar kayıplarına neden olan Akdeniz meyve sineğine karşı kimyasal ilaç kullanımını azaltmayı hedefleyen proje ile Atakum, Canik ve İlkadım ilçelerinde faaliyet gösteren 110 üreticiye toplam 1.600 tuzak dağıtıldı.\n\nKimyasal İlaç Kullanımının Azaltılması Hedefleniyor\n\nMeyve üretiminde önemli kayıplara neden olan Akdeniz meyve sineğine karşı geliştirilen proje ile kimyasal mücadele yerine biyoteknik yöntemlerin yaygınlaştırılması amaçlanıyor. Zararlının neden olduğu meyve çürümeleri ve kalite kayıplarının önüne geçilmesi hedeflenirken, ürünlerde kalıntı riskinin azaltılması ve çevrenin korunması da öncelikli hedefler arasında yer alıyor.\n\nAkdeniz meyve sineğine karşı tuzak dağıtım programında konuşan Samsun İl Tarım ve Orman Müdürü Kemal Yılmaz şu ifadeleri kullandı:\n\n\"Bitkisel üretimde hastalık ve zararlarla mücadele konusu oldukça önemli bir konu olup mücadele edilmediği takdirde üründe ciddi verim ve kalite kayıpları yaşanabilmektedir. Üretimde ciddi manada verim ve kalite kayıplarına neden olan bir zararlımız da Akdeniz meyve sineğidir. Bununla mücadele edilmediği takdirde meyvelerde çürüme olur ve ciddi anlamda verim ve kalite kaybı yaşanır. Akdeniz meyve sineği ile mücadelede özellikle kimyasal mücadeleden ziyade biyoteknik mücadeleyi uygulamak istiyoruz ve öneriyoruz. Özellikle geç dönemde kimyasal uygulandığı zaman üründe kalıntıya sebeiyet verebilmekte. Bu da ihracatımızı olumsuz anlamda etkilemektedir. Üreticilerimizin verim ve gelir kaybı anlamına gelmektedir. Dolayısıyla biz biyoteknik mücadeleyi kullanarak hem çevreyi ve doğayı korumuş oluyoruz hem de kalıntı problemini ortadan kaldırmış oluyoruz. Bu sayede daha sürdürülebilir bir üretim yapılmasına da imkan sağlamış oluyoruz.\"\n\nÜreticilere Eğitim ve Teknik Destek Verilecek\n\nSamsun Büyükşehir Belediyesi Kırsal Hizmetler Daire Başkanı Mehmet Yıldız da tarımsal üretimin desteklenmesine yönelik çalışmalara aralıksız devam ettiklerini belirtti. İl Tarım ve Orman Müdürlüğü ile koordineli şekilde hazırlanan projelerin üreticilere önemli katkılar sağladığını vurgulayan Yıldız, tarım sektörünün ihtiyaçlarına yönelik desteklerin süreceğini söyledi.\n\nProje kapsamında görevli ziraat mühendisleri ve teknik personeller, sezon boyunca sahada düzenli takip ve izleme çalışmaları gerçekleştirecek. Üreticilere tuzakların etkin kullanımı konusunda eğitimler verilecek, ayrıca bahçe ve işletme ziyaretleriyle teknik destek sağlanacak.\n\nHedef Kaliteli Üretim ve Yüksek Pazar Değeri\n\nYürütülen biyoteknik mücadele çalışması sayesinde özellikle Samsun’da yetiştirilen şeftalilerin kalite standardının yükseltilmesi, ürünlerin pazar değerinin artırılması ve sürdürülebilir tarım uygulamalarının yaygınlaştırılması amaçlanıyor. Projenin aynı zamanda çevre ve insan sağlığının korunmasına katkı sağlaması bekleniyor.\n\nTARIM PUSULASI HABER MERKEZİ"
+    },
     {
       "title": "TMO piyasa göstergelerini yayımladı: İşte ürün ürün son fiyatlar (19 Haziran)",
       "url": "https://www.tarimdanhaber.com/foto-galeri/tmo-piyasa-gostergelerini-yayimladi-iste-urun-urun-son-fiyatlar-19-haziran",
@@ -125,14 +133,6 @@
       "date": "2026-06-19",
       "summary": "Avrupa Komisyonu, derinleşen tarım krizi karşısında Avrupa Tarımsal Kriz Fonu bütçesini iki katından fazla artırarak 200 milyon avrodan 500 milyon avroya çıkarma kararı aldı; ancak çiftçi birlikleri bu adımı yetersiz buluyor.",
       "content": "BRÜKSEL — Avrupa Birliği (AB), kıta genelinde üreticileri zor durumda bırakan tarımsal krizlere karşı finansal kalkanını büyütüyor. Tarım portalı GlavAgronom'un Avrupa Komisyonu kaynaklarına dayandırdığı bilgilere göre, Avrupa Tarımsal Anti-Kriz Fonu'nun bütçesi iki katından fazla artırılarak 200 milyon avrodan 500 milyon avroya çıkarıldı. Komisyon, uzama riski taşıyan kriz dalgasına karşı atılan bu bütçe hamlesini \"ilk olumlu adım\" olarak nitelendirdi.\n\nYeni düzenleme kapsamında üye ülkelere, AB fonlarından alacakları tahsisat tutarının en fazla %200'ü oranında kendi ulusal bütçelerinden çiftçilerine ek destek sağlama hakkı da tanındı. Komisyon, Avrupa'nın en büyük çiftçi organizasyonu Copa-Cogeca'nın artan lobicilik faaliyetlerinin, bu konunun siyasi gündemin ilk sırasına taşınmasında büyük rol oynadığını kabul etti.\n\nÇiftçi Birlikleri Tepkili: \"Milyonlarca Çiftçiye Yetmez\"\n\nAvrupa Komisyonu'nun bütçe artış kararına rağmen, üretici cephesinden gelen ilk tepkiler memnuniyetten ziyade endişe barındırıyor. Copa-Cogeca liderleri, açıklanan 500 milyon avroluk tutarın kıta genelinde krizden etkilenen milyonlarca Avrupa çiftçisine bölüştürüldüğünde devede kulak kalacağını vurguladı. Birlik, bu meblağın, kısa ve orta vadede fırlayan gübre fiyatlarının üretici sırtına yüklediği ek maliyetleri telafi etmekten çok uzak olduğundan emin olduklarını ifade etti.\n\n2026 Yılında Karbon Vergisi Çiftçiyi Vuracak\n\nCopa-Cogeca'nın raporunda, üreticileri bekleyen çok daha büyük bir mali tehlikeye dikkat çekildi. Birliğin hesaplamalarına göre, AB'nin gübre üretiminde karbon emisyonlarını sınırlandırmaya yönelik mekanizmasının (sınırda karbon düzenlemesi) sektöre getireceği doğrudan uygulama maliyeti 2026 yılı itibarıyla tek başına 820 milyon avroyu bulacak. Çiftçi hareketinin liderleri, bu devasa çevre ve uyum maliyetlerinin tamamının gübre üreticileri tarafından doğrudan çiftçilerin omuzlarına yükleneceğini ve kriz fonunun bu yükü kaldırmaya yetmeyeceğini savunuyor.\n\nTARIM PUSULASI HABER MERKEZİ"
-    },
-    {
-      "title": "Analiz Raporu: Küresel Gübre Fiyatlarında %40'lık Yeni Artış Kapıda",
-      "url": "https://www.tarimpusulasi.com/haber/analiz-raporu-kuresel-gubre-fiyatlarinda-40lik-yeni-artis-kapida-46862",
-      "source": "Tarım Pusulası",
-      "date": "2026-06-19",
-      "summary": "Fiyat Endeksleri Merkezi (FEM) konsensüs tahminine göre, Orta Doğu'daki lojistik tıkanıklıkların küresel arzı daraltmasıyla birlikte ikinci çeyrek sonu itibarıyla küresel karbamid (üre) ihracat fiyatlarının yüzde 40'tan fazla artması bekleniyor.",
-      "content": "MOSKOVA — Küresel mineral gübre pazarı, Orta Doğu'da uzun süredir devam eden lojistik kısıtlamaların ve jeopolitik gerilimlerin doğrudan etkisi altına girdi. Kommersant gazetesinin Fiyat Endeksleri Merkezi (ЦЦИ) konsensüs tahminlerine dayandırdığı analize göre, özellikle azotlu gübre segmentinde üreticilerin depo stoklarındaki aşırı yığılma nedeniyle uzun vadeli pozisyonlardaki malları elden çıkarmaya çalışması kısa vadeli bir düşüş trendi yaratsa da yakın gelecekte piyasaları çok sert bir fiyat artış dalgası bekliyor.\n\nKarbamid Fiyatları Ton Başına 683 Doları Aşacak\n\nRapora göre, küresel karbamid (üre) ihracat fiyatlarının 2026 yılının ikinci çeyreği sonunda yüzde 40'ın üzerinde artarak ton başına ortalama 683 doları aşması öngörülüyor. Uzmanlar, yıl genelinde ise karbamid ihracat maliyetlerindeki toplam artışın yüzde 45’i bulacağını tahmin ediyor. Orta Doğu'daki çatışma ortamının sürmesi, azotlu gübre üretimini ve ham madde tedarikini küresel ölçekte kısıtlarken; Hindistan ve ABD gibi küresel lider ithalatçıların pazardaki alım faaliyetlerini hızlandırması fiyatları yukarı yönlü baskılayan en önemli unsurlar arasında yer alıyor.\n\nAmonyum Fosfat ve Potasyumda da Yükseliş Sürüyor\n\nFiyat Endeksleri Merkezi'nin tahminlerine göre, amonyum fosfat fiyatları ikinci çeyrek sonunda ton başına 808 dolara ulaşarak yüzde 17'lik bir artış kaydedecek. Yıl genelindeki artışın ise yüzde 15'i bularak ortalama ton fiyatının 729 dolar seviyesinde dengeleneceği belirtiliyor. Bu segmentteki en kritik faktör, Çin'in ihracat pazarında olmaması ve bu durumun Brezilya ile Hindistan gibi dev ithalatçıların istikrarlı talebi karşısında küresel arz dengesini bozması olarak gösteriliyor. Ayrıca fosfat kayası ve kükürt gibi ham maddelerin maliyetlerindeki artış da fiyatları destekliyor. Potasyum fiyatlarının ise büyük tüketiciler Çin ve Hindistan'ın güçlü talebiyle ikinci çeyrekte yüzde 11 artışla ton başına 322 dolara, 2026 yılı genelinde ise ortalama yüzde 7 artışla 301 dolara yükselmesi bekleniyor.\n\nRus Üreticiler Sanfiyona Rağmen Pazardaki Yerini Koruyor\n\nKüresel arenadaki güçlü pozisyonunu korumayı başaran Rusya gübre sektörü, oluşan bu yeni piyasa koşullarından fayda sağlayabilecek konumda bulunuyor. Rus karbamid üreticileri, ülkenin güney bölgelerinde yaşanan altyapı ve lojistik sorunlarına rağmen uzak destinasyonlara yönelik ihracat operasyonlarını kesintisiz sürdürerek küresel pazarın en önemli tedarikçisi olmaya devam ediyor. Bu ihracat başarısına Avrupa Birliği (AB) tarafından uygulanan yaptırım bariyerleri ve ek gümrük vergileri bile engel olamıyor.\n\nTARIM PUSULASI HABER MERKEZİ"
     }
   ],
   "commoditiesByBorsa": {
@@ -328,18 +328,5 @@
   "defaultBorsa": "5ED10",
   "defaultCity": "CANAKKALE",
   "note": "Fiyatlar TOBB ticaret borsasından (borsa seçilebilir). Kanola manuel (Trakya 2025).",
-  "inputsNote": "Mazot: akaryakıt bayi fiyatı, günlük (şehir seçilebilir). Gübre: manuel (yaklaşık).",
-  "errors": [
-    "fx: fetch failed",
-    "mazot ANKARA: fetch failed",
-    "mazot ISTANBUL: fetch failed",
-    "mazot IZMIR: fetch failed",
-    "mazot KONYA: fetch failed",
-    "mazot ADANA: fetch failed",
-    "mazot BURSA: fetch failed",
-    "mazot ANTALYA: fetch failed",
-    "mazot SAMSUN: fetch failed",
-    "mazot TEKIRDAG: fetch failed",
-    "mazot CANAKKALE: fetch failed"
-  ]
+  "inputsNote": "Mazot: akaryakıt bayi fiyatı, günlük (şehir seçilebilir). Gübre: manuel (yaklaşık)."
 }
