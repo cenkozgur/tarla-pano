@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-06-20T09:49:44.217Z",
+  "updatedAt": "2026-06-20T11:45:50.125Z",
   "fx": [
     {
       "code": "USD",
@@ -38,6 +38,14 @@
     }
   ],
   "news": [
+    {
+      "title": "Coğrafi kaderin iflası: \"Burada hiçbir şey yetişmez\" denilen topraklar nasıl dünyayı doyuruyor?",
+      "url": "https://www.tarimdanhaber.com/cografi-kaderin-iflasi-burada-hicbir-sey-yetismez-denilen-topraklar-nasil-dunyayi-doyuruyor",
+      "source": "Tarımdan Haber",
+      "date": "2026-06-20",
+      "summary": "\"Tarımsal zenginlik coğrafyanın lütfudur\" diyenlere inat, Brezilya bir imkansızı başardı. 1970'lerde tarım için \"ölü\" kabul edilen 200 milyon hektarlık asidik savanları, bilimle bir gıda imparatorluğuna dönüştürdü. İşte Arjantin’in mirasyedi politikalarına karşı Brezilya’nın EMBRAPA vizyonu.",
+      "content": "Haber Merkezi / Tarım politikaları üzerine saha çalışmaları yürüten Ergin Kahveci, Brezilya’nın \"Cerrado\" mucizesini masaya yatırdı. \"Brezilya, bataklıkları bilimle imparatorluğa dönüştürdü; biz ise 1925’te aynı vizyonla kurduğumuz Atatürk Orman Çiftliği’ni heder ettik\" diyen Kahveci, 'Ya Orman Çiftliği, Atatürk Orman Çiftliği Olsaydı?' başlıklı çarpıcı bir makale kaleme aldı.\n\nDünya tarım ekonomisinde on yıllardır kabul gören bir dogma vardır: \"Tarımsal zenginlik, coğrafyanın bir lütfudur.\" Ukrayna’nın kara toprağı veya Arjantin’in Pampas’ı gibi bir mirasa sahip değilseniz, yarışa geride başlarsınız. Ancak Brezilya, son elli yılda bu \"coğrafi kadercilik\" dogmasını temelinden sarstı.\n\n1970’lerden önce Brezilya’nın merkezinde yer alan devasa Cerrado bölgesi, uzman raporlarına göre \"üzerinde hayvancılık bile yapılamayacak kadar kötü\" durumdaydı. Toprak aşırı asidikti, alüminyum zehirlenmesi vardı ve fosfor barındırmıyordu. Brezilya, popülist siyaset yerine, devlet destekli tarımsal araştırma kurumu EMBRAPA aracılığıyla binlerce doktoralı araştırmacıyı laboratuvarlara kapattı.\n\nBrezilya’nın mucizesi üç hamleyle gerçekleşti: Toprağın pH seviyesini kireçle dengelemek, soya fasulyesini tropikal iklime göre genetik olarak ıslah etmek ve laboratuvarda geliştirilen \"Mucize Bakteri\" (Rhizobium) ile gübre maliyetini sıfırlamak. Bugün Brezilya, küresel mısır piyasasını domine eden \"Safrinha\" modeliyle aynı tarladan yılda iki kez hasat alıyor. Brezilya'nın aksine, verimli topraklarını \"mirasyedi\" politikalarıyla eriten Arjantin ise bugün küresel ligde hızla zemin kaybediyor.\n\nErgin Kahveci'nin kapsamlı makalesini okumak için → Ya orman çiftliği, Atatürk Orman Çiftliği olsaydı?"
+    },
     {
       "title": "Pancarın çığlığı: Şekerin 'gizli' istilası ve sofralarımızdaki kimyasal tehdit",
       "url": "https://www.tarimdanhaber.com/pancarin-cigligi-sekerin-gizli-istilasi-ve-sofralarimizdaki-kimyasal-tehdit",
@@ -125,14 +133,6 @@
       "date": "2026-06-19",
       "summary": "Le Figaro'nun verilerine göre, Orta Doğu'da devam eden İran krizi ve aralarında Türkiye ile Rusya'nın da bulunduğu dev üreticilerin ihracat kısıtlamaları nedeniyle küresel gübre ticareti 2026'nın ilk dört ayında yüzde 30 çöküş yaşadı.",
       "content": "PARİS — Orta Doğu'da tırmanan jeopolitik gerilimler, küresel tarım sektörünün en kritik girdisi olan mineral gübre tedarik zincirini kopma noktasına getirdi. Lenta.ru'nun Fransız Le Figaro gazetesine dayandırdığı verilere göre, 2026 yılının ilk dört ayında, bölgede devam eden İran krizi nedeniyle küresel gübre ticareti hacmi geçen yılın aynı dönemine kıyasla yüzde 30 oranında sert bir düşüş kaydetti.\n\nOcak-Nisan dönemini kapsayan süreçte dünya genelinde ancak 41 milyon ton gübre satışı gerçekleştirilebildi. Geçtiğimiz yılın aynı dört aylık döneminde ise bu miktar 58 milyon ton seviyesindeydi. Ticaret hacmindeki bu gerileme parasal değer bazında ise geçen yıla oranla yüzde 18'lik bir kayıpla 18 milyar dolarlık bir erimeye yol açtı.\n\nDev Üreticilerden Peş Peşe İhracat Kısıtlaması Hamlesi\n\nRaporda, lojistik tıkanıklıkların yanı sıra küresel ticaret akışını yavaşlatan bir diğer kritik etkenin de ulusal korumacılık politikaları olduğu vurgulandı. Türkiye, Rusya, Çin ve Mısır gibi dünya gübre piyasasını domine eden dev üretici ülkelerin, kendi iç piyasa arz güvenliğini sağlamak amacıyla gübre ihracatına katı kısıtlamalar getirmesi ticaret hacmindeki daralmayı daha da derinleştirdi.\n\nFAO: Fiyatlar Uzun Süre Çok Yüksek Kalacak\n\nBirleşmiş Milletler Gıda ve Tarım Örgütü (FAO) tarafından yapılan projeksiyonlar da iyimser bir tablo sunmuyor. FAO uzmanlarına göre, krizin merkez üssü olan Hürmüz Boğazı Haziran ayından itibaren kademeli olarak trafiğe açılsa bile; azot, fosfat ve kükürt sevkiyatlarının eski ritmine dönmesi oldukça yavaş ve istikrarsız olacak. Bu durum, piyasada arz dengelenmeye başlasa dahi gübre fiyatlarının çok uzun bir süre daha yüksek seviyelerde çakılı kalacağı anlamına geliyor.\n\n\"Dünya Önümüzdeki Birkaç Yıl Gıda Kriziyle Karşı Karşıya\"\n\nYaşanan bu girdi krizi, küresel gıda arzını da doğrudan tehdit ediyor. Rusya Devlet Başkanı Danışmanı Anton Kobyakov, küresel tarım ve gıda piyasalarının geleceğine yönelik yaptığı değerlendirmede korkutucu bir uyarıda bulundu. Kobyakov, hem Orta Doğu'daki kronikleşen askeri ve lojistik krizlerin hem de iklim değişikliğinin yıkıcı etkilerinin bir araya gelmesi nedeniyle, dünyanın önümüzdeki birkaç yıl içinde ciddi bir küresel gıda kriziyle karşı karşıya kalacağını ifade etti.\n\nTARIM PUSULASI HABER MERKEZİ"
-    },
-    {
-      "title": "Yeni Hasat Baskısıyla Buğday Fiyatları Düştü",
-      "url": "https://www.tarimpusulasi.com/haber/yeni-hasat-baskisiyla-bugday-fiyatlari-dustu-46864",
-      "source": "Tarım Pusulası",
-      "date": "2026-06-19",
-      "summary": "Rusagrotrans Analiz Merkezi, küresel fiziki buğday piyasalarında yeni hasat döneminin yaklaşması ve ABD ile İran arasında imzalanan Hürmüz Boğazı mutabakatının yarattığı arz baskısıyla fiyatlarda düşüş trendinin sürdüğünü açıkladı.",
-      "content": "MOSKOVA — Küresel tarımsal emtia ve tahıl piyasaları, yeni üretim sezonunun getirdiği arz yoğunluğu ve jeopolitik yumuşama adımlarının etkisiyle yönünü aşağıya çevirdi. Rusya'nın önde gelen tarım analiz merkezlerinden Rusagrotrans, İnterfaks ajansına yaptığı açıklamada, fiziki buğday piyasalarındaki fiyat düşüşünün arkasında iki majör etken olduğunu belirtti. Merkez, dünya genelinde yeni mahsul tahılların kitlesel olarak piyasaya girmeye başlamasının yanı sıra ABD ile İran arasında Hürmüz Boğazı'nın tamamen açılmasını öngören bir mutabakat zaptı imzalanmasının fiyatlar üzerinde ciddi bir baskı oluşturduğunu bildirdi.\n\nRusya'da İhracat Fiyatları Geriliyor, Avrupa'da Kuraklık Alarmı Veriyor\n\nAnalistler, Rusya Federasyonu'nda yeni hasat dönemine ait buğdayın ekexport (ihracat) fiyatlarında düşüş kaydetti. Ancak küresel pazardaki bu genel düşüş eğiliminin aksine Fransa ve Almanya istisnai bir grafik çizdi. Avrupa'da etkili olması beklenen aşırı sıcakların ekim alanlarına zarar verebileceği endişesiyle, Fransa'da buğday fiyatları ton başına 5 dolar, Almanya'da ise 1 dolar artış gösterdi. Vadeli işlem piyasalarında ise fiyat hareketleri karmaşık bir seyir izlemeye devam ediyor.\n\nUSDA Rusya'nın Üretim Tahminini 2 Milyon Ton Artırdı\n\nRaporda, ABD Tarım Bakanlığı'nın (USDA) geçtiğimiz hafta yayınladığı verilere de atıfta bulunuldu. Buna göre USDA, Rusya'nın Kırım hariç 2026/27 sezonu (Temmuz-Haziran) buğday rekolte tahminini bir önceki aya göre 2 milyon ton artırarak 88 milyon tona yükseltti. Ülkenin yeni sezondaki buğday ihracat tahmini ise değişmeyerek 47 milyon ton seviyesinde sabit bırakıldı. ABD kanadında ise kışlık ve yazlık buğday, mısır ve soya fasulyesi tarlalarındaki durumun iyileşmesi ve kışlık buğday hasadının normal takvimin çok ilerisinde gitmesi küresel arz endişelerini hafifleten bir diğer unsur oldu.\n\nTürkiye ve Bölge Ülkelerinin İthalat İştahı Azalıyor\n\nKüresel buğday talebi tarafında ise ülkeler bazında dikkat çekici revizeler yapıldı. Rusagrotrans, Türkiye'nin buğday ithalat tahmininin tüketimdeki değişimler ve iç piyasa tedbirleri doğrultusunda 6 milyon tondan 5,5 milyon tona düşürüldüğünü açıkladı. Benzer şekilde Suriye ve Nijerya'nın ithalat tahminleri gerileyen tüketim nedeniyle, Fas'ın ithalat tahmini ise Haziran ve Temmuz 2026 döneminde uygulayacağı gümrük vergileri sebebiyle aşağı yönlü revize edildi. Bu düşüşlerin aksine, sadece Mısır'ın buğday ithalat tahmini, artan iç tüketim talebi nedeniyle 1 milyon ton artırılarak 13,5 milyon tona çıkarıldı.\n\nTARIM PUSULASI HABER MERKEZİ"
     }
   ],
   "commoditiesByBorsa": {
@@ -328,17 +328,5 @@
   "defaultBorsa": "5ED10",
   "defaultCity": "CANAKKALE",
   "note": "Fiyatlar TOBB ticaret borsasından (borsa seçilebilir). Kanola manuel (Trakya 2025).",
-  "inputsNote": "Mazot: akaryakıt bayi fiyatı, günlük (şehir seçilebilir). Gübre: manuel (yaklaşık).",
-  "errors": [
-    "mazot ANKARA: fetch failed",
-    "mazot ISTANBUL: fetch failed",
-    "mazot IZMIR: fetch failed",
-    "mazot KONYA: fetch failed",
-    "mazot ADANA: fetch failed",
-    "mazot BURSA: fetch failed",
-    "mazot ANTALYA: fetch failed",
-    "mazot SAMSUN: fetch failed",
-    "mazot TEKIRDAG: fetch failed",
-    "mazot CANAKKALE: fetch failed"
-  ]
+  "inputsNote": "Mazot: akaryakıt bayi fiyatı, günlük (şehir seçilebilir). Gübre: manuel (yaklaşık)."
 }
