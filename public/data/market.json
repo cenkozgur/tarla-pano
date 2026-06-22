@@ -1,43 +1,67 @@
 {
-  "updatedAt": "2026-06-22T13:06:51.012Z",
+  "updatedAt": "2026-06-22T17:51:47.251Z",
   "fx": [
     {
       "code": "USD",
       "name": "Dolar",
       "buy": 46.46,
-      "sell": 46.47,
+      "sell": 46.46,
       "change": 0.04
     },
     {
       "code": "EUR",
       "name": "Euro",
-      "buy": 53.22,
-      "sell": 53.23,
-      "change": -0.15
+      "buy": 53.14,
+      "sell": 53.15,
+      "change": -0.3
     },
     {
       "code": "GRA",
       "name": "Gram Altın",
-      "buy": 6265.02,
-      "sell": 6265.98,
-      "change": 0.97
+      "buy": 6246.97,
+      "sell": 6247.64,
+      "change": 0.68
     },
     {
       "code": "CEYREKALTIN",
       "name": "Çeyrek Altın",
-      "buy": 10110.07,
-      "sell": 10341.08,
-      "change": 0.24
+      "buy": 10117.53,
+      "sell": 10348.71,
+      "change": 0.31
     },
     {
       "code": "CUMHURIYETALTINI",
       "name": "Cumhuriyet Altını",
-      "buy": 41993,
-      "sell": 42625,
-      "change": 0.5
+      "buy": 41973,
+      "sell": 42605,
+      "change": 0.45
     }
   ],
   "news": [
+    {
+      "title": "Muğla Büyükşehir Belediyesi projeleri Avrupa'da en iyi seçildi",
+      "url": "https://www.tarimpusulasi.com/haber/mugla-buyuksehir-belediyesi-projeleri-avrupada-en-iyi-secildi-46889",
+      "source": "Tarım Pusulası",
+      "date": "2026-06-22",
+      "summary": "Avrupa Komisyonu DG MOVE tarafından hazırlanan 2026 yılı En İyi Uygulamalar Derleme Raporu’nda Muğla Büyükşehir Belediyesi’nin \"Erişilebilir Plajlar\" ve \"Slow Food Yeryüzü Pazarı\" projeleri Avrupa çapında örnek uygulama seçildi.",
+      "content": "MUĞLA — Avrupa Komisyonu Ulaştırma ve Hareketlilik Genel Müdürlüğü (DG MOVE) tarafından hazırlanan 2026 yılı En İyi Uygulamalar Derleme Raporu yayımlandı. Raporda Muğla, turizmde erişilebilirlik ve gastronomi mirasını koruma alanlarındaki çalışmalarıyla büyük bir başarıya imza attı. Kentin iki büyük projesi, “En İyi Uygulama” (Best Practice) olarak Avrupa’daki en başarılı örnekler arasında yer aldı.\n\nEngelsiz Plajlar Finlandiya ile Birlikte Örnek Gösterildi\n\nRaporda “Erişilebilirlikte En İyi Uygulamalar” kategorisinde bulunan “Erişilebilir Plajlar” başlığı altında Muğla, Finlandiya’nın Tampere kentiyle birlikte Avrupa'ya örnek gösterildi. Komisyon raporunda, Muğla Büyükşehir Belediyesi’nin hayata geçirdiği projeye dair, “Muğla’nın erişilebilir plajlar projesi herkes için eşit bir plaj deneyimi sunmaktadır. Erişilebilir plaj tasarımı; özel yürüyüş yolları, denize çıkan rampalar, yönlendirici tabelalar, amfibi sandalyeler ve erişilebilir tuvaletleri içermektedir. Ayrıca Büyükşehir Belediyesi, yaz aylarında denize girmek isteyen engelli bireyleri, engelli taşıma araçları ve uzman personel eşliğinde evlerinden plajlara taşımaktadır” ifadelerine yer verildi. Muğla genelinde 8 ilçede hizmet veren toplam 23 erişilebilir plaj, engelli vatandaşların denize güvenli ve konforlu erişimini sağlıyor.\n\nSlow Food Muğla Yeryüzü Pazarı Kültürel Miras Listesinde\n\n2026 raporunun “Kültürel Miras ve Yaratıcılıkta En İyi Uygulamalar” kategorisindeki “Mutfak Mirasını Korumak” başlığında ise Muğla; Gaziantep, Krakow (Polonya) ve Stuttgart (Almanya) ile birlikte örnek şehirler arasına girdi. Muğla Büyükşehir Belediyesi’nin paydaşlarından biri olduğu ve Muğla Tanıtım Platformu tarafından “iyi, temiz ve adil gıda erişimi” anlayışıyla kurulan Slow Food Muğla Yeryüzü Pazarı, raporda yerel üretici ile tüketici arasında kültürel aktarımı sağlayan ve kentin kimliğini koruyan yaratıcı bir kamusal alan olarak nitelendirildi.\n\nRaporda ayrıca, her yıl Slow Food Muğla Yeryüzü Pazarı’nda düzenlenen Uluslararası Geleneksel Muğla Düğün Yemekleri Festivali’ne de dikkat çekildi. Festivalin yalnızca yöresel yemekleri değil; düğün ritüellerini, geleneksel sunum biçimlerini ve mutfak mirasını da yaşattığı vurgulandı.\n\nBaşkan Ahmet Aras: \"Muğla'yı Dünyada Daha Güçlü Tanıtacağız\"\n\nKıyı Belediyeler Birliği ve Muğla Büyükşehir Belediye Başkanı Ahmet Aras, Avrupa Komisyonu tarafından hazırlanan raporda Muğla’nın iki projesinin örnek uygulama olarak yer almasının kendileri için büyük bir gurur ve motivasyon kaynağı olduğunu ifade etti. Başkan Aras, “Bizim için turizm, bu kentin denizine, güneşine, doğasına, kültürüne ve yaşam olanaklarına herkesin eşit biçimde erişebilmesini sağlamaktır. Herkes İçin Engelsiz Plaj projemizle engelleri kaldırıyoruz. Slow Food Muğla Yeryüzü Pazarı ile de yerel üreticimizi destekliyor, köklü mutfak kültürümüzü geleceğe taşıyoruz. Erişilebilir, sürdürülebilir ve kültürel mirasına sahip çıkan bir turizm vizyonuyla Muğla’yı dünyada daha güçlü tanıtmak için çalışmaya devam edeceğiz” dedi.\n\nTARIM PUSULASI HABER MERKEZİ"
+    },
+    {
+      "title": "Manisa BB'den Salihli ve Köprübaşı'nda çilek üreticisine %75 hibe",
+      "url": "https://www.tarimpusulasi.com/haber/manisa-bbden-salihli-ve-koprubasinda-cilek-ureticisine-75-hibe-46888",
+      "source": "Tarım Pusulası",
+      "date": "2026-06-22",
+      "summary": "Manisa Büyükşehir Belediyesi, Salihli ve Köprübaşı ilçelerinde üretim yapan 73 küçük ölçekli çilek üreticisine, girdi maliyetlerini düşürmek amacıyla yüzde 75 hibeli malç naylonu desteği sağladı.",
+      "content": "MANİSA — Yerel üreticilerin girdi maliyetlerini azaltmayı ve üretime sürdürülebilir katkı sağlamayı hedefleyen Manisa Büyükşehir Belediyesi, Salihli ve Köprübaşı ilçelerindeki çilek üreticilerine yönelik önemli bir destek projesini hayata geçirdi. Kırsal Hizmetler Dairesi Başkanlığı koordinasyonunda yürütülen proje kapsamında, bölgedeki çilek üreticilerine yüzde 75 hibeli malç naylonu dağıtımı gerçekleştirildi.\n\nDüzenlenen teslim programı dahilinde, Salihli’nin Gökeyüp Mahallesi ile Köprübaşı ilçesinde faaliyet gösteren toplam 73 üreticiye, her biri yaklaşık bir dönümlük arazinin ihtiyacını karşılayacak uzunlukta malç naylonu teslim edildi. Dağıtım törenine Salihli Belediye Başkanı Mazlum Nurlu, Manisa Büyükşehir Belediyesi Kırsal Hizmetler Dairesi Başkanı Yılmaz Usta ve çok sayıda yerel üretici katılım sağladı.\n\n\"Hedefimiz Girdi Maliyetlerini En Aza İndirmek\"\n\nProgramda konuşan Salihli Belediye Başkanı Mazlum Nurlu, tarım sektörünün içinde bulunduğu zorlukları yakından bildiğini ifade ederek, \"Üretim maliyetlerine bir nebze olsun katkı sağlayabilmek adına, Büyükşehir Belediye Başkanımızın öncülüğünde ve bürokratlarımızın desteğiyle tarımdaki en büyük girdi maliyetlerini en aza indirecek yardım çalışmalarımız hızla devam ediyor. Bölgemizin kendine has kokusu ve lezzetiyle öne çıkan Gökeyüp çileklerini, el birliğiyle bölge halkımızın tüketimine arz etmeyi sürdüreceğiz\" dedi.\n\nDesteğin Kapsamı: Küçük Üreticiye Odaklanıldı\n\nManisa Büyükşehir Belediyesi Kırsal Hizmetler Dairesi Başkanı Yılmaz Usta ise bütçe imkanlarını en doğru ve adil şekilde değerlendirmek adına doğrudan küçük üreticiye odaklandıklarını vurguladı. Destekten yararlanma kriterlerine değinen Usta, şu açıklamalarda bulundu: \"Malç naylonu desteğimiz; Çiftçi Kayıt Sistemi’ne (ÇKS) kayıtlı ve 4 dönümün altında çilek üretim alanına sahip üreticilerimizi kapsıyor. Bütçe imkânları ve artan maliyetler nedeniyle hedef kitlemizi küçük üreticiler olarak belirledik. Sizlerin üretime devam edebilmesi adına, meclis kararımız doğrultusunda maliyetin yüzde 75’ini hibe olarak karşılıyoruz. Taleplere göre üreticimizin yanında olmaya devam edeceğiz.\"\n\nÜreticilerden Yerel Yönetime Teşekkür\n\nSağlanan girdi desteğinden memnuniyet duyan yerel temsilciler ve çiftçiler, belediye başkanlarına teşekkürlerini iletti. Gökeyüp Mahalle Muhtarı Ramazan Özdemir ve Salihli Belediyesi Meclis Üyesi aynı zamanda çilek üreticisi olan Mesut Yüksel, teslim aldıkları malç naylonlarının üretim maliyetlerini düşürmede büyük katkı sağlayacağını belirterek memnuniyetlerini paylaştılar.\n\nTARIM PUSULASI HABER MERKEZİ"
+    },
+    {
+      "title": "Rosstat: Rusya'da pestisit ve agrokisayasal fiyatları düştü",
+      "url": "https://www.tarimpusulasi.com/haber/rosstat-rusyada-pestisit-ve-agrokisayasal-fiyatlari-dustu-46887",
+      "source": "Tarım Pusulası",
+      "date": "2026-06-22",
+      "summary": "Rusya Federal İstatistik Servisi (Rosstat) verilerine göre, kimya sektöründeki genel fiyat artışlarına tezat olarak, pestisit ve agrokimsayasal ürünlerin fiyatları mayıs ayında yüzde 14,8 oranında geriledi. Tarımsal girdilerde yaşanan bu düşüşe karşılık nisan ayında butadien ve ksilol gibi temel kim",
+      "content": "MOSKOVA — Rusya Federasyonu'nda genel kimya sanayi ürünlerinde gözlemlenen yukarı yönlü sert fiyat hareketlerine rağmen, doğrudan tarım sektörünü ilgilendiren koruma kalkanı girdilerinde rahatlatıcı bir gelişme yaşandı. \"Verimlilik Ajansı\" (Agentstvo Plodorodiya) tarafından Rusya Federal İstatistik Servisi (Rosstat) resmi verilerine dayandırılarak yapılan açıklamaya göre, pestisit ve agrokimyasal ürünlerin fiyatlarında mayıs ayı itibarıyla yüzde 14,8 oranında dikkate değer bir düşüş kaydedildi. Tarımsal koruma ilaçlarındaki bu gerileme, girdi maliyetleri baskısı altındaki üreticiler için olumlu bir nefes alanı yarattı.\n\nResmi istatistiklerin detayları incelendiğinde, tarımsal kimyasallardaki ucuzlamanın genel kimya sektöründeki muazzam fiyat artışlarının gölgesinde gerçekleştiği görülüyor. Rosstat verilerine göre, nisan ayında endüstriyel kimyasal ham maddelerin fiyatları rekor seviyede yükseldi. Bu dönemde en yüksek fiyat artışı yüzde 74,8 ile butadien-1,3 maddesinde görülürken, ksilol fiyatları yüzde 54,0 ve doymamış monokarbonik, sikloalkanik, sikloalkenik ile asiklik polikarbonik asitler ve türevleri yüzde 53,0 oranında değer kazandı. Bu maddeleri yüzde 48,9 artışla toluen, yüzde 39,5 artışla stiren ve yüzde 34,1 artışla keton ve hinon fonksiyonel gruplu bileşikler izledi.\n\nGenel kimyasal ham maddelerdeki bu olağanüstü tırmanışa tezat olarak, tarım ve sanayinin belirli kollarını rahatlatan indirimler de istatistiklere yansıdı. Mayıs ayında teknik gaz kükürt fiyatları yüzde 17,1 oranında gerilerken, bitki koruma ve tarımsal üretimde kritik öneme sahip olan diğer pestisitler ile agrokimyasal ürün grupları da yüzde 14,8'lik düşüşle piyasada dengeleyici bir rol oynadı.\n\nTARIM PUSULASI HABER MERKEZİ"
+    },
     {
       "title": "Financial Times: Küresel üre fiyatları %50 düşüşle 475 dolara geriledi",
       "url": "https://www.tarimpusulasi.com/haber/financial-times-kuresel-ure-fiyatlari-50-dususle-475-dolara-geriledi-46886",
@@ -109,30 +133,6 @@
       "date": "2026-06-22",
       "summary": "2026 üretim yılında ekili ürününde değişiklik yapan çiftçiler için ÇKS güncelleme süreci devam ediyor. Son başvuru tarihi 30 Haziran olarak açıklanırken, beyan edilen ürün ile arazideki ürünün uyuşmaması halinde destekleme ödemesi yapılmayacağı bildirildi.",
       "content": "Haber Merkezi / 2026 üretim yılına ilişkin Çiftçi Kayıt Sistemi (ÇKS) ürün değişikliği başvurularında sona yaklaşılıyor. Bayburt İl Tarım ve Orman Müdürlüğü, üretim sezonu içerisinde ekili ürünlerinde değişiklik yapan çiftçilerin kayıtlarını güncellemeleri için son başvuru tarihinin 30 Haziran 2026 olduğunu duyurdu.\n\nMüdürlük tarafından yapılan açıklamada, ürün değişikliği bulunan üreticilerin başvurularını Ziraat Odaları aracılığıyla belirtilen tarihe kadar gerçekleştirmeleri gerektiği belirtildi. Açıklamada, çiftçilerin destekleme ödemeleri ve diğer haklardan yararlanabilmeleri için kayıtlarını zamanında güncellemelerinin önem taşıdığı vurgulandı.\n\nDestekleme ödemelerinde kritik detay\n\nYetkililer, ÇKS'de beyan edilen ürün ile arazide fiilen bulunan ürünün farklı olması durumunda ilgili parsel için destekleme ödemesi yapılmayacağı uyarısında bulundu.\n\nÜreticilerin herhangi bir mağduriyet yaşamamaları için ürün değişikliklerini 30 Haziran tarihine kadar kayıt altına almaları gerektiği ifade edildi."
-    },
-    {
-      "title": "Mersin Büyükşehir Belediyesi Coğrafi İşaretli Ürünleri Tanıttı",
-      "url": "https://www.tarimpusulasi.com/haber/mersin-buyuksehir-belediyesi-cografi-isaretli-urunleri-tanitti-46881",
-      "source": "Tarım Pusulası",
-      "date": "2026-06-21",
-      "summary": "Mersin Büyükşehir Belediyesi ve MTSO ev sahipliğinde düzenlenen \"Mersinli Üreticiler Coğrafi İşaretleri Konuşuyor\" programı kapsamında kente gelen uzman heyet, Hamzabeyli Evimiz Atölye ile Tarsus Eshab-ı Kehf Tarımsal Kalkınma Kooperatifi’ni ziyaret ederek coğrafi işaretli ürünlerin üretim süreçleri",
-      "content": "MERSİN — \"Akdeniz’in Mirası, Toprağın Kimliği\" sloganıyla yola çıkan Mersin Büyükşehir Belediyesi ile Mersin Ticaret ve Sanayi Odası (MTSO) ev sahipliğinde düzenlenen \"Mersinli Üreticiler Coğrafi İşaretleri Konuşuyor\" programı kapsamındaki saha çalışmaları tamamlandı. Program kapsamında kente gelen ulusal düzeydeki uzman ve akademisyenlerden oluşan heyet, yerel kalkınma modellerini yerinde görmek amacıyla Hamzabeyli Evimiz Atölye ile Tarsus Eshab-ı Kehf Tarımsal Kalkınma Kooperatifi’ni ziyaret etti.\n\nKadın Eliyle Katma Değerli Üretim\n\nMersinden Kadın Kooperatifi iş birliğinde gerçekleştirilen saha gezisine, Mersinden Kadın Kooperatifi Yönetim Kurulu Başkanı Meral Seçer ve Tarımsal Hizmetler Dairesi Başkanı Abdullah Selçuk Şahutoğlu eşlik etti. Heyette; YÜciTA Başkanı Prof. Dr. Yavuz Tekelioğlu, Akdeniz Üniversitesi Coğrafi İşaretler Uygulama ve Araştırma Merkezi Müdürü Prof. Dr. Mehmet Zanbak ve Türk Patent ve Marka Kurumu Sınai Mülkiyet Uzmanı Gonca Ilıcalı’nın da aralarında bulunduğu çok sayıda alanında uzman isim yer aldı.\n\nHamzabeyli Köyümüz Atölye ziyaretiyle başlayan teknik gezide, Mersin’in coğrafi işaretli stratejik ürünü olan \"Mersin Kan Portakalı\" ve mahalle bazlı kırsal kalkınma modelleri masaya yatırıldı. Uzmanlar, büyükşehir belediyesi tarafından hayata geçirilen atölyede coğrafi işaretli ürünlerin kadın üreticiler tarafından nasıl işlendiğini ve yüksek katma değerli ticari ürünler haline getirildiğini gözlemledi. Programın ikinci durağında ise Tarsus Eshab-ı Kehf Tarımsal Kalkınma Kooperatifi’ni ziyaret eden heyet, Tarsus’un tescilli lezzeti \"Sarı Ulak Zeytini\"nin işleme tesislerini inceleyerek üretim aşamalarına şahit oldu.\n\nHedef Coğrafi İşaretli Ürün Sayısını Artırmak\n\nKentin coğrafi işaret potansiyeline dikkat çeken Mersin Büyükşehir Belediyesi Tarımsal Hizmetler Dairesi Başkanı Selçuk Şahutoğlu, geleceğin coğrafi işaretli üretim modellerinde olduğunu vurguladı. Şahutoğlu, yürütülen kurumsal çalışmalar hakkında şu bilgileri verdi:\n\n\"Mersin ilinde var olan 24 adet coğrafi işaretli ürüne ek olarak büyükşehir belediyesi olarak yeni tescil çalışmaları yürütüyoruz. 5 ürünü daha başvuru aşamasına getirdik. 2024 yılında Gülnar Kişniş Üzümü’ne coğrafi işaret aldık. Mersinden Kadın Kooperatifi’nin başvurusuyla Mersin Kan Portakalı’nın coğrafi işaret sürecine destek verdik. Bugünlerde de Bozyazı Gölevezi ve Kravga Eriği başta olmak üzere toplam 5 yeni üründe coğrafi işaret tescil çalışmalarını sürdürüyoruz. Var olan bu yüksek potansiyeli açığa çıkartacağız.\"\n\nTürkiye'de Bir İlk: Üretici Yoğunluklu Katılım\n\nYÜciTA Başkanı Prof. Dr. Yavuz Tekelioğlu, gerçekleştirilen programın Türkiye’de bugüne kadar coğrafi işaretler alanında yapılmış, üretici katılımı en yüksek etkinlik olduğunu ifade etti. Salondaki katılımcıların yüzde 90’ının kadın üreticilerden oluşmasından derin bir memnuniyet duyduğunu aktaran Tekelioğlu, coğrafi işaretli ürünlerin kırsalda refah artışı, istihdam ve tersine göç için en önemli anahtar olduğunu belirtti. Akdeniz Üniversitesi Müdürü Prof. Dr. Mehmet Zanbak ve diğer kooperatif başkanları da Mersin’de hayata geçirilen sosyal belediyecilik ve bilinçli kooperatifçilik modelinin tüm Anadolu’ya örnek teşkil etmesi gerektiğinin altını çizdi.\n\nTARIM PUSULASI HABER MERKEZİ"
-    },
-    {
-      "title": "Diyarbakır Büyükşehir Belediyesi Yerel Tohum Seferberliği Başlattı",
-      "url": "https://www.tarimpusulasi.com/haber/diyarbakir-buyuksehir-belediyesi-yerel-tohum-seferberligi-baslatti-46880",
-      "source": "Tarım Pusulası",
-      "date": "2026-06-21",
-      "summary": "Diyarbakır Büyükşehir Belediyesi İklim Değişikliği ve Sıfır Atık Dairesi Başkanlığı bünyesindeki Agroekoloji Yerleşkesi, kimyasal kullanmadan geleneksel yöntemlerle 100’e yakın bitki ve 5 kadim buğday türünü üreterek yerel tohumları çiftçilerle geleceğe taşıyor.",
-      "content": "DİYARBAKIR — Diyarbakır Büyükşehir Belediyesi İklim Değişikliği ve Sıfır Atık Dairesi Başkanlığı bünyesinde hizmet veren Agroekoloji Yerleşkesi, kurulduğu günden bu yana yoğun ilgi görerek adeta bir açık hava okuluna dönüştü. Son iki yılda 105 farklı öğrenci ve sivil grubu ağırlayan yerleşke; çocuklar, lise ve üniversite öğrencileri için düzenlenen uygulamalı atölyelerle kentin kadim tarım hafızasını geleceğe aktarıyor. Projenin temel hedeflerinin başında, yok olma tehlikesi altındaki yerel tohumların bulunması, korunması, çoğaltılması ve çiftçiler aracılığıyla yeniden toprakla buluşturulması yer alıyor.\n\nKimyasal Yok, Geleneksel ve Ekoloji Esaslı Çözümler Var\n\nYerleşkede yürütülen çalışmalar ve yerel tohum stratejisi hakkında bilgi veren Agroekoloji Koordinatörü Bişar İçli, öncelikli amaçlarının çocuk ile tohum arasındaki bağı yeniden güçlendirmek olduğunu belirtti. Bünyelerinde kurulan özel bir tohum kütüphanesi ile yerel çeşitleri güvenceye aldıklarını aktaran İçli, agroekolojik tarım uygulamalarının geçmişten gelen kültürel tarım mirasına dayandığını kaydetti.\n\nYerleşke arazisinde yaklaşık 100 çeşit ürün yetiştirildiğini ve bu çeşitliliğin temel amacının pazar ürünü değil, tamamen tohum üretimi ve çoğaltımı olduğunu vurgulayan İçli, şu teknik detayları paylaştı:\n\n\"Toprak verimliliğini kimyasallar yerine bazalt tozu kullanarak doğal yollarla artırıyoruz. Ayrıca meşe külü, kadife çiçeği, reyhan ve çeşitli yeşilliklerden yararlanarak bitkileri zararlılar ile hastalıklara karşı ekolojik yöntemlerle koruyoruz.\"\n\nKadim Tarım Kültürü ve 5 Gizemli Buğday Türü\n\nDiyarbakır tarımının dünyaca ünlü simgelerinden olan karpuz yetiştiriciliğinde, geçmişte yaygın olarak uygulanan güvercin gübresi ve boranhane kültürü de bu yerleşkede yeniden canlandırıldı. Güvercin gübreleri, özel yağmur suyu depolarında fermente edilerek modern damlama sistemleri aracılığıyla bostanlara veriliyor. Yerleşkede deneme üretimi süren 14 farklı buğday çeşidinin bulunduğunu ifade eden Bişar İçli, bu çeşitlerden 5'inin Mezopotamya topraklarından bugüne ulaşan binlerce yıllık kadim buğday türleri olduğunu, bunun yanı sıra nohut, susam, kişniş, sarımsak, kavun, salatalık, arpa ve mısır gibi pek çok yerel çeşidin de korunduğunu bildirdi.\n\nTohumların sadece bir merkezde kilitli tutulmasının sürdürülebilir bir çözüm olmadığını hatırlatan İçli, bölge çiftçileriyle güçlü bir ağ kurarak karşılıklı tohum alışverişi başlatmayı ve üreticileri yerel çeşitleri ekmeye teşvik etmeyi hedeflediklerini sözlerine ekledi.\n\nTARIM PUSULASI HABER MERKEZİ"
-    },
-    {
-      "title": "Denizli Büyükşehir’den Bozkurtlu Üreticiye Makine Desteği",
-      "url": "https://www.tarimpusulasi.com/haber/denizli-buyuksehirden-bozkurtlu-ureticiye-makine-destegi-46879",
-      "source": "Tarım Pusulası",
-      "date": "2026-06-21",
-      "summary": "Denizli Büyükşehir Belediyesi, kırsal kalkınmayı desteklemek ve tarımda modernizasyonu yaygınlaştırmak amacıyla Bozkurt ilçesinde mısır ve benzeri ürünlerin üretiminde verimliliği artıracak modern çapa makinesini Bozkurt Belediyesi’ne teslim etti.",
-      "content": "DENİZLİ — Denizli Büyükşehir Belediyesi, kırsal kalkınmayı güçlendirmek, tarımsal üretimde verimliliği artırmak ve üreticileri modern teknolojiyle buluşturmak amacıyla yürüttüğü ekipman desteklerine bir yenisini daha ekledi. Sürdürülebilir arazi yönetimi vizyonu doğrultusunda hareket eden belediye, Bozkurt ilçesindeki üreticilerin iş yükünü hafifletecek tarımsal makine hamlesini gerçekleştirdi.\n\nKırsalda Modernizasyon ve Ortak Kullanım\n\nTarımsal faaliyetlerde mekanizasyonu artırarak geleneksel yöntemlerle yapılan yoğun iş gücü süreçlerini hafifletmeyi hedefleyen proje kapsamında, Bozkurt ilçesi için tedarik edilen 1 adet modern çapa makinesi düzenlenen resmi törenle teslim edildi. Denizli Büyükşehir Belediyesi Kırsal Hizmetler Dairesi Başkanı Yücel Arazsu tarafından Bozkurt Belediyesi’ne teslim edilen ekipman, ilçe genelindeki çiftçilerin ortak kullanımına sunulacak.\n\nBozkurt Belediyesi bünyesinde üreticilerin hizmetine sunulan çapa makinesi; zamandan ve üretim maliyetlerinden büyük oranda tasarruf edilmesini sağlayacak. Bozkurt ilçesi sınırları içerisinde yaygın olarak gerçekleştirilen mısır ve benzeri ürünlerin üretim kalitesini doğrudan etkileyecek olan bu modern ekipman; yabancı otların temizlenmesi, toprağın havalandırılması ve gübreleme süreçlerinde verimliliğin en üst seviyeye çıkarılmasında kritik bir rol üstlenecek.\n\nBelediye Başkanlarından Güç Birliği Mesajı\n\nDenizli Büyükşehir Belediyesi’nin sağladığı ekipman desteğinden büyük mutluluk duyduklarını belirten Bozkurtlu üreticiler, üretici dostu projeleriyle her zaman sahada yanlarında olan Denizli Büyükşehir Belediye Başkanı Bülent Nuri Çavuşoğlu’na teşekkürlerini iletti.\n\nTeslim töreninde projenin bölge tarımı için taşıdığı stratejik öneme dikkat çeken Bozkurt Belediye Başkanı Birsen Çelik ise yaptığı değerlendirmede şu ifadeleri kullandı:\n\n\"Bozkurtlu üreticilerimizin en çok ihtiyaç duyduğu tarımsal ekipmanlardan biri olan çapa makinesini ilçemize kazandırarak bizlere büyük bir kolaylık sağlayan, kırsalda üretimin kesintisiz ve daha güçlü bir şekilde devam etmesi için her zaman desteklerini hissettiğimiz Büyükşehir Belediye Başkanımız Sayın Bülent Nuri Çavuşoğlu’na ve emeği geçen tüm ekibe şahsım ve tüm üreticilerimiz adına gönülden teşekkür ediyorum.\"\n\nToprak yapısının korunması ve çevresel etkilerin en aza indirilmesi amacıyla yürütülen bu desteklerin, ilçedeki üretim hacmini kısa sürede artırması bekleniyor.\n\nTARIM PUSULASI HABER MERKEZİ"
     }
   ],
   "commoditiesByBorsa": {
