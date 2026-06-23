@@ -1,26 +1,26 @@
 {
-  "updatedAt": "2026-06-23T16:28:18.034Z",
+  "updatedAt": "2026-06-23T18:21:12.468Z",
   "fx": [
     {
       "code": "USD",
       "name": "Dolar",
-      "buy": 464687,
-      "sell": 464848,
+      "buy": 464722,
+      "sell": 464789,
       "change": 2
     },
     {
       "code": "EUR",
       "name": "Euro",
-      "buy": 529284,
-      "sell": 529395,
-      "change": -39
+      "buy": 529151,
+      "sell": 529329,
+      "change": -41
     },
     {
       "code": "GRA",
       "name": "Gram Altın",
-      "buy": 617976,
-      "sell": 618048,
-      "change": -131
+      "buy": 616248,
+      "sell": 616343,
+      "change": -158
     },
     {
       "code": "CEYREKALTIN",
@@ -38,6 +38,22 @@
     }
   ],
   "news": [
+    {
+      "title": "LÖSEV’den doğa dostu proje: Mandalinaları uğur böcekleri koruyor!",
+      "url": "https://www.tarimdanhaber.com/losevden-doga-dostu-proje-mandalinalari-ugur-bocekleri-koruyor",
+      "source": "Tarımdan Haber",
+      "date": "2026-06-23",
+      "summary": "Kanserle mücadelede sadece tıbbi tedaviyle değil, \"koruyucu sağlık\" yaklaşımıyla da fark oluşturan LÖSEV, Seferihisar’daki Sağlıklı Doğal Yaşam Kasabası’nda doğa dostu bir modele imza atıyor. Kimyasal ilaç yerine \"uğur böcekleri\" ile biyolojik mücadele başlatan vakıf, hem toprağı koruyor hem de löse",
+      "content": "Haber Merkezi / İzmir Seferihisar’da bulunan LÖSEV Lösemili Çocuklar Sağlıklı Doğal Yaşam Kasabası, sadece bir yaşam alanı değil, aynı zamanda örnek bir ekolojik üretim merkezi haline geldi. Vakıf, kanser hastalarının iyileşme sürecinde hayati önem taşıyan \"sağlıklı beslenme\" vizyonunu, kimyasaldan arındırılmış tarımsal üretimle birleştiriyor.\n\nTarım İlacına Son: Bahçeler Uğur Böceklerine Emanet\n\nLÖSEV, satsuma mandalinalarını zararlılardan korumak için doğanın dengesini bozacak yöntemler yerine \"biyolojik mücadele\"yi tercih ediyor. Bahçelere salınan yedi noktalı yerli tür uğur böcekleri, ağaçlara zarar veren yaprak bitleriyle beslenerek doğal bir koruma kalkanı oluşturuyor.\n\nBu sürdürülebilir modelin sağladığı avantajlar ise dikkat çekici:\n\nTamamen Zehirsiz: Tarım ilacı kalıntısı içermeyen, tamamen doğal ürünler.\n\nDoğal Denge: Tek bir uğur böceğinin ömrü boyunca binlerce zararlıyı tüketmesiyle sağlanan ekolojik başarı.\n\nSürdürülebilir Tarım: Toprağı yormayan, gelecek nesillere temiz bir çevre bırakan üretim.\n\n282 Dönümde Dev Biyoçeşitlilik Havzası\n\nKasaba, sadece mandalina ağaçlarıyla sınırlı kalmıyor; cevizden zeytine, limondan Hicaz narına kadar geniş bir ürün yelpazesine ev sahipliği yapıyor. 282 dönümlük dev alanda biyoçeşitliliği artırmak için; arı otu, fesleğen, nane, kekik ve ıhlamur gibi doğaya faydalı bitkiler ekiliyor. Alana yerleştirilen \"böcek evleri\" ve kuş yuvaları ile ekosistemin kendi döngüsünü koruması sağlanıyor.\n\n\"İyileşmiş Gençlerin Umudu\" Sofralara Taşınıyor\n\nBu özel yöntemlerle yetiştirilen satsuma mandalinaları, dalından sofraya kadar hiçbir yapay işleme (etilen gazı veya parafin gibi) maruz kalmadan ulaştırılıyor.\n\nLÖSEV Ailesine Destek: Ürünler, tedavisi süren çocuklara ve dezavantajlı öğrencilere taze olarak ulaştırılıyor.\n\nEğitime ve Tedaviye Katkı: Mandalinaların bir kısmı, besin değerini koruyan doğal kurutma yöntemleriyle LSV Dükkan üzerinden satışa sunuluyor. Buradan elde edilen tüm gelir, lösemili çocukların tedavi ve eğitim masrafları için kullanılıyor.\n\n\"Sağlıklı Beslenme İlaç Kadar Önemli\"\n\nKanserle mücadelede C vitamini ve antioksidan zengini gıdaların önemine dikkat çeken LÖSEV yetkilileri, bu projenin aynı zamanda bir çevre bilinci hareketi olduğunu vurguluyor. İyileşmiş gençler, aileler ve gönüllülerin omuz omuza katıldığı fidan dikim etkinlikleri, projenin toplumsal dayanışma ayağını oluşturuyor."
+    },
+    {
+      "title": "TİGEM’de ihale krizi: Arap atlarının geleceği ve sektörel tepkiler büyüyor",
+      "url": "https://www.tarimdanhaber.com/tigemde-ihale-krizi-arap-atlarinin-gelecegi-ve-sektorel-tepkiler-buyuyor",
+      "source": "Tarımdan Haber",
+      "date": "2026-06-23",
+      "summary": "Karacabey Tarım İşletmesi’nde iptal edilen Arap tayı ihalesi, sadece yaşanan tartışmalarla değil, atçılık sektöründe biriken derin bir memnuniyetsizlikle gündemde. Arap atlarının hak ettiği değeri görmediğini ve İngiliz atlarının piyasadaki hakimiyetinin arttığını savunan yetiştiriciler, \"hakların k",
+      "content": "Haber Merkezi / TİGEM, 16 Haziran 2026 tarihinde gerçekleşen 61 baş safkan Arap koşu tayı satış ihalesinin, yaşanan fiziki tartışmalar ve hakaret içerikli söylemler nedeniyle iptal edildiğini duyurmuştu. Kurum, adil rekabet koşullarının bozulması nedeniyle ihalenin ileri bir tarihte yeniden yapılacağını açıklamasına rağmen, sektördeki soru işaretleri her geçen gün artıyor.\n\nTİGEM’in \"Kamuoyu Duyurusu\" ile duyurduğu ihale iptali, aslında sektörde uzun süredir devam eden yapısal bir rahatsızlığın dışa vurumu olarak yorumlanıyor. İptal kararının arkasında yatan tartışmaların ötesinde, asıl odak noktası safkan Arap atlarının korunması ve piyasa değeri konusundaki endişeler.\n\nArap Atlarının \"Hakları\" mı Korunmuyor?\n\nSektörün önde gelen isimleri ve at sahipleri, TİGEM yönetiminin Arap atı yetiştiriciliği ve satışı konusundaki tutumunu sert bir dille eleştiriyor. Temel iddialar şu şekilde öne çıkıyor:\n\nPiyasa Dengesizliği: İngiliz atlarının piyasada giderek baskın hale gelmesi, Arap atı yetiştiricilerinin rekabet gücünü zayıflatıyor.\n\nDeğer Kaybı: Arap atlarının haklarının yeterince korunmadığı ve gerekli stratejik desteğin verilmediği düşüncesi, yönetime karşı bir tepki dalgasına yol açıyor.\n\nYönetim Stratejisi: Yetiştiriciler, Arap atının Türkiye atçılığındaki kültürel ve ekonomik öneminin göz ardı edildiğini savunuyor.\n\n150-200 Arap Tayı Nasıl Satılacak?\n\nİhale iptalinden sonra gözler TİGEM’in atacağı yeni adımlara çevrilmiş durumda. Elde kalan 150-200 civarındaki safkan Arap tayının satışı, sektördeki güven tazeleme çabası için de bir test niteliği taşıyor. Yetiştiriciler, TİGEM’in yeni ihale sürecinde;\n\nArap atı yetiştiricilerini tatmin edecek ve emeği koruyacak yeni bir fiyatlandırma/ihale modeli belirleyip belirlemeyeceğini,\n\nİngiliz atları karşısında Arap atlarını destekleyecek daha şeffaf ve koruyucu bir politika izlenip izlenmeyeceğini merak ediyor.\n\n\"Sektör Güven Bekliyor\"\n\nTİGEM, yayınladığı duyuruda safkan Arap koşu taylarının kamu yararı ve sektör ihtiyaçları doğrultusunda, adil rekabet şartlarında satılmasının temel öncelikleri olduğunu belirtmiş olsa da, sektördeki genel kanı bu \"temel önceliklerin\" eyleme dökülmesinin şart olduğu yönünde.\n\nAtçılık dünyası, sadece bir ihale takvimi değil; Arap atının geleceğini güvence altına alacak vizyoner bir yönetim değişikliği ve somut adımlar bekliyor."
+    },
     {
       "title": "Oil World: Güney Amerika üretimi soya fiyatlarını baskılıyor",
       "url": "https://www.tarimpusulasi.com/haber/oil-world-guney-amerika-uretimi-soya-fiyatlarini-baskiliyor-46910",
@@ -117,22 +133,6 @@
       "date": "2026-06-23",
       "summary": "Türkiye’de küçükbaş hayvancılığın kanayan yarası olan “çoban bulma” sorunu, yabancı iş gücü düzenlemeleriyle nefes alsa da, sahada yeni engeller gün yüzüne çıktı. TÜRKYED Genel Başkanı Nihat Çelik, yabancı çobanların maliyet yükü ve dil bariyeri nedeniyle mevcut sistemin revize edilmesi gerektiğini ",
       "content": "Haber Merkezi / Küçükbaş hayvancılıkta iş gücü krizine çözüm olarak hayata geçirilen yabancı çoban istihdamı, sektör temsilcilerinden gelen geri bildirimlerle mercek altına alındı. Tarımsal Üretim ve Küçükbaş Yetiştiricileri (TÜRKYED) Genel Başkanı Nihat Çelik, çalışma izni düzenlemesinin önemli bir adım olduğunu ancak uygulama aşamasında yaşanan maliyet ve eğitim sorunlarının \"sürdürülebilirliği\" zorlaştırdığını belirtti.\n\n“Destekler, Artan Maliyetleri Karşılamıyor”\n\nYabancı çoban çalıştırmanın beraberinde getirdiği SGK primleri, ücretler ve barınma giderlerinin işletme bütçelerini zorladığını ifade eden Çelik, mevcut sürü yöneticisi desteklerinin bu yükü hafifletmekte yetersiz kaldığını söyledi.\n\nÇelik, \"Yabancı çoban için çalışma izni, SGK primi, ücret ve yan giderler toplam maliyeti çok yükseltiyor. Destek mekanizmalarının bu gerçeklik ışığında yeniden gözden geçirilmesi, sektörün ayakta kalması için şart\" dedi.\n\nDil Bariyeri Eğitimi Zorlaştırıyor\n\nSektördeki bir diğer kritik sorun ise sertifikasyon süreci. Eğitimlerin Türkçe olması, yabancı uyruklu çobanların teknik terimleri anlamasını ve sınavları geçmesini güçleştiriyor. Çelik, çözüm önerisini şu sözlerle özetledi:\n\nÇok Dilli Materyaller: Eğitim materyallerinin farklı dillerde hazırlanması.\n\nGörsel Odaklı Eğitim: Teorik yerine uygulamaya dayalı, görsel ağırlıklı eğitim programları.\n\nÖzel Eğitim Programları: Sadece izin vermekle değil, çobanların yetkinliklerini artıracak özel eğitim modelleriyle ilerlenmesi.\n\nÇobanlıkta \"Kurumsal Dönüşüm\" Zamanı\n\n\"Sürü Yönetimi Elemanı Benim\" projesinin sektöre önemli bir ivme kazandırdığını kabul eden Nihat Çelik, sertifika odaklı yaklaşımın artık yeterli olmadığını savundu. Çelik, \"Ulusal Sürü Yöneticiliği Eğitimi\" modeline geçilmesi gerektiğini belirterek, şu vizyonu paylaştı:\n\n\"Çobanlık artık kurumsal bir meslek haline getirilmeli. Gençleri teşvik eden, dijital hayvancılık teknolojilerini kapsayan, sosyal güvencesi garanti altında olan ve kariyer gelişimi sunan kalıcı bir modele ihtiyacımız var. Sürdürülebilir hayvancılık, ancak nitelikli insan kaynağıyla mümkündür.\""
-    },
-    {
-      "title": "Türkiye ekonomisinde yeni dönem: Biyoçözümlerle 2035’te 75 bin yeşil istihdam hedefi",
-      "url": "https://www.tarimdanhaber.com/turkiye-ekonomisinde-yeni-donem-biyocozumlerle-2035te-75-bin-yesil-istihdam-hedefi",
-      "source": "Tarımdan Haber",
-      "date": "2026-06-23",
-      "summary": "Türkiye, sürdürülebilir kalkınma yolunda stratejik bir adım atıyor. Yeni açıklanan \"Biyoçözümlerin Değeri\" raporuna göre, doğru politikalarla biyoçözümler sektörü 2035 yılına kadar Türkiye ekonomisine 10,8 milyar avronun üzerinde katkı sağlayabilir.",
-      "content": "Haber Merkezi / Küresel çapta sanayi dönüşümünün anahtarı olarak görülen \"biyoçözümler\", Türkiye için de yeni bir ekonomik fırsat penceresi aralıyor. Amsterdam Data Collective (ADC) iş birliğiyle hazırlanan ve Ankara’da kamu, sanayi ve akademi dünyasının katılımıyla duyurulan rapor, Türkiye’nin yeşil dönüşüm potansiyelini rakamlarla ortaya koyuyor.\n\n4 Milyar Avrodan 10,8 Milyar Avroya Sıçrama\n\nRapordaki çarpıcı verilere göre, Türkiye’de biyoçözümler sektörü halihazırda 4 milyar avroluk bir üretim çıktısı yaratıyor ve 28 binden fazla kişiye istihdam sağlıyor. 2035 yılına yönelik projeksiyonlar ise oldukça iddialı:\n\nEkonomik Büyüme: Sektörün toplam üretim hacminin 10,8 milyar avronun üzerine çıkması öngörülüyor.\n\nİstihdam Patlaması: Sektör ve değer zincirleri genelinde toplam 75 binden fazla kişiye yeni iş imkânı doğacak.\n\nÇarpan Etkisi: Biyoçözümler alanında yaratılan her 1 doğrudan istihdam, beraberinde 1,6 ek dolaylı istihdam getiriyor. Bu durum, sektörün uzun vadeli ekonomik dayanıklılık için bir \"istihdam motoru\" olduğunu kanıtlıyor.\n\nBiyoçözümler Hangi Alanlarda Dönüşüm Oluşturacak?\n\nGıda, tarım, enerji ve endüstriyel üretim gibi 30’dan fazla sektörde kullanılan biyoçözümler; kaynak verimliliği ve düşük karbonlu üretim modelleri için kritik rol oynuyor. Rapor, biyoçözümlerin özellikle şu 5 alanda Türkiye’ye güç katacağını vurguluyor:\n\nİhracat Rekabetçiliği: Daha verimli ve sürdürülebilir üretim süreçleri.\n\nEnerji Dayanıklılığı: Biyobazlı enerji kaynakları ile dışa bağımlılığın azaltılması.\n\nTarımsal Verimlilik: Doğaya uyumlu, verim artırıcı biyoteknolojik çözümler.\n\nSanayi Dönüşümü: Yeşil üretim standartlarına uyum.\n\nKaynak Verimliliği: Atıkların azaltılması ve döngüsel ekonomiye geçiş.\n\n“Türkiye Büyük Bir Avantaja Sahip”\n\nKonuya ilişkin değerlendirmelerde bulunan Novonesis Türkiye Ülke Müdürü Pınar Tunçkol, biyoçözümlerin artık sadece bir sürdürülebilirlik tercihi değil, rekabetçiliğin temel şartı olduğunun altını çizdi. Tunçkol, \"Güçlü sanayi tabanımız, üretim kapasitemiz ve stratejik konumumuzla Türkiye, biyoçözümler dönüşümünden en çok fayda sağlayacak ülkelerden biri\" ifadelerini kullandı.\n\nBüyüme İçin \"Yeşil Yol Haritası\"\n\nRapor, Türkiye’nin bu potansiyeli gerçeğe dönüştürmesi için beş temel politika önerisi sunuyor:\n\nKamu ve özel sektör arasındaki iş birliği mekanizmalarının güçlendirilmesi.\n\nBiyoekonomi için uzun vadeli ve öngörülebilir mevzuatların oluşturulması.\n\nAr-Ge, inovasyon ve pilot projelere verilen desteğin artırılması.\n\nTarım, enerji ve sanayi politikalarının koordineli bir şekilde yönetilmesi.\n\nYerli değer zincirlerinin teşvik edilmesi.\n\nTürkiye’nin sürdürülebilir kalkınma ajandasının en önemli başlıklarından biri haline gelen biyoçözümler, önümüzdeki 10 yıl içerisinde sadece çevresel değil, ekonomik bir dönüşümün de mimarı olmaya hazırlanıyor."
-    },
-    {
-      "title": "Konya borsasında \"arpa\" şoku: Üretici isyan etti, fiyatlar çakıldı!",
-      "url": "https://www.tarimdanhaber.com/konya-borsasinda-arpa-soku-uretici-isyan-etti-fiyatlar-cakildi",
-      "source": "Tarımdan Haber",
-      "date": "2026-06-22",
-      "summary": "Konya Ticaret Borsası’nda (KTB) arpa fiyatlarının 12,156 TL'den 11,360 TL bandına sert düşüşü, üreticide büyük bir hayal kırıklığı ve öfkeye neden oldu. Artan girdi maliyetleri karşısında ürününü maliyetine dahi satamayan çiftçiler, sosyal medya üzerinden \"Bu bir hırsızlık, üreticiyi piyasaya kurban",
-      "content": "Haber Merkezi / Konya Ticaret Borsası’nda (KTB) dün yaşanan arpa fiyat düşüşü, üreticinin sabrını taşırdı. Geçtiğimiz hafta 12,156 TL seviyelerinden haftayı kapatan arpa fiyatları, haftanın ilk işlem gününde 11,360 TL’ye kadar gerileyerek çiftçiyi şok etti. Üreticiler, sosyal medya üzerinden \"Bu bir hırsızlık\" diyerek duruma tepki gösterirken, Konya Ticaret Borsası'nın paylaşımının altına gelen hububat yorumları sektördeki büyük krizi gözler önüne serdi.\n\n\"Çiftçi Oyuncak Oldu\": Borsada Tansiyon Yüksek\n\nKonya Ticaret Borsası’nın güncel fiyatları paylaşmasının ardından, yerli üreticilerden adeta yorum yağdı. Birçok çiftçi, açıklanan fiyatların girdi maliyetlerini karşılamaktan çok uzak olduğunu belirterek, \"Çiftçi 4 kişinin elinde oyuncak oldu\" ifadeleriyle tepkisini dile getirdi.\n\nKulislerde ve üretici nezdinde öne çıkan temel eleştiriler şunlar:\n\nMaliyet-Fiyat Uçurumu: Mazot, gübre ve tohumdaki fahiş artışlara dikkat çeken üreticiler, \"1 ton buğday 16 bin TL, ancak mazot 70 TL, gübre 1800 TL. Bu maliyetlerle bu fiyatlar çiftçinin batış reçetesidir\" yorumunu yapıyor.\n\n\"Anlaşmalı\" İddiaları: Çiftçilerin büyük bir kısmı fiyatların piyasa şartlarından ziyade \"anlaşmalı\" bir şekilde düşürüldüğünü savunuyor.\n\nStok ve Eylem Çağrısı: Sosyal medyada örgütlenen bazı üreticiler, \"Borsayı kapatın, bir hafta eylem yapın, kimse mal vermesin\" çağrısında bulunarak, ürün arzını durdurarak tepki gösterme fikrini tartışıyor.\n\n\"Kışın 16 TL Olan Arpa, Şimdi Neden Düştü?\"\n\nÜreticinin en çok sorguladığı nokta ise piyasadaki dengesizlik. Kış aylarında 16 TL seviyelerini gören arpanın, harman zamanı 10-11 TL bandına çekilmesi çiftçiyi isyan noktasına getirdi. Bir kullanıcı, \"Kışın arpa 16 TL iken yem 900 TL'ydi. Şimdi arpa 11 TL’ye düştü, peki yem fiyatları ne kadar düştü? Yarın çiftçi malını satınca arpa tekrar zamlanacak\" diyerek endüstriyel manipülasyon iddiasını gündeme taşıdı.\n\nÇiftçi Çaresiz: \"Traktör Konvoyları Nerede?\"\n\nYorumlarda en dikkat çeken bir diğer unsur ise siyasi tepkiler oldu. Bazı kullanıcılar geçmişte traktör konvoylarıyla yapılan seçim kutlamalarına atıfta bulunarak, \"O gün oy atanlar bugün hesabını sorsun\" diyerek sitem etti. Birçok üretici ise artan borç yükü nedeniyle stok yapamadıklarını ve bu durumun kendilerini \"faize çalışan bir hammala\" dönüştürdüğünü vurguluyor.\n\nSektör temsilcileri ve yatırımcılar için kritik soru şu: Konya Borsası'ndaki bu sert düşüş, Türkiye genelindeki hububat fiyatlarını nasıl etkileyecek? Devlet kurumlarından fiyat istikrarı konusunda bir müdahale gelecek mi?"
     }
   ],
   "commoditiesByBorsa": {
