@@ -1,32 +1,32 @@
 {
-  "updatedAt": "2026-06-23T03:54:56.125Z",
+  "updatedAt": "2026-06-23T07:53:00.650Z",
   "fx": [
     {
       "code": "USD",
       "name": "Dolar",
-      "buy": 464601,
-      "sell": 464901,
-      "change": 2
+      "buy": 46.47,
+      "sell": 46.49,
+      "change": 0.03
     },
     {
       "code": "EUR",
       "name": "Euro",
-      "buy": 531059,
-      "sell": 531749,
-      "change": 0
+      "buy": 53.09,
+      "sell": 53.1,
+      "change": -0.1
     },
     {
       "code": "GRA",
       "name": "Gram Altın",
-      "buy": 625766,
-      "sell": 625859,
-      "change": -6
+      "buy": 6131.6,
+      "sell": 6132.56,
+      "change": -2.07
     },
     {
       "code": "CEYREKALTIN",
       "name": "Çeyrek Altın",
-      "buy": 1011753,
-      "sell": 1034871,
+      "buy": 10117.53,
+      "sell": 10348.71,
       "change": 0
     },
     {
@@ -34,10 +34,18 @@
       "name": "Cumhuriyet Altını",
       "buy": 41973,
       "sell": 42605,
-      "change": 45
+      "change": 0.45
     }
   ],
   "news": [
+    {
+      "title": "B-Reçete Sistemi Antalya’da Sektöre Tanıtıldı",
+      "url": "https://www.tarimpusulasi.com/haber/b-recete-sistemi-antalyada-sektore-tanitildi-46891",
+      "source": "Tarım Pusulası",
+      "date": "2026-06-23",
+      "summary": "Antalya Ticaret Borsası ile Antalya İl Tarım ve Orman Müdürlüğü iş birliğinde düzenlenen bilgilendirme toplantısında, 1 Temmuz 2026 tarihinde Türkiye genelinde uygulanacak B-Reçete Sistemi sektör temsilcilerine anlatıldı. Yeni sistemle bitki koruma ürünlerinin satışı ve kullanımı dijital ortamda tak",
+      "content": "ANTALYA – Antalya Ticaret Borsası (ATB) ile Antalya İl Tarım ve Orman Müdürlüğü iş birliğinde, Antalya Ticaret Borsası ev sahipliğinde düzenlenen “B-Reçete (Bitki Reçetesi) Sistemi Bilgilendirme Toplantısı”nda, 1 Temmuz 2026 tarihinde ülke genelinde uygulamaya alınacak sistem hakkında sektör temsilcilerine bilgi verildi.\n\nToplantıya Antalya Ticaret Borsası Başkan Vekili Halil Bülbül, Yönetim Kurulu Üyesi Ragıp Gök, Antalya İl Tarım ve Orman Müdürü Şakir Fırat Erkal, ATB üyeleri ve tarım sektörü temsilcileri katıldı.\n\nAntalya Ticaret Borsası Başkan Vekili Halil Bülbül, tarımsal üretimi ilgilendiren mevzuat değişikliklerini yakından takip ettiklerini belirterek, güvenilir gıda üretiminin büyük önem taşıdığını söyledi. Bülbül, 1 Temmuz’dan itibaren 81 ilde uygulanacak B-Reçete Sistemi’nin bitkisel üretimde güvenli üretim ve güvenilir gıda arzı açısından önemli bir adım olduğunu vurguladı.\n\nAntalya’nın Türkiye tarımının merkezlerinden biri olduğunu kaydeden Bülbül, üreticilerin ve sektör temsilcilerinin yeni sisteme hızlı uyum sağlaması amacıyla bilgilendirme toplantısını düzenlediklerini belirterek, Antalya İl Tarım ve Orman Müdürlüğü’ne iş birliği nedeniyle teşekkür etti.\n\nPestisit kullanımında yeni dönem\n\nAntalya İl Tarım ve Orman Müdürü Şakir Fırat Erkal, Antalya Ticaret Borsası ile tarımın birçok alanında ortak çalışmalar yürüttüklerini belirterek, bitki koruma ürünlerinin satışı, depolanması ve kullanımına yönelik yeni düzenlemenin önemli bir dönüşüm sağlayacağını ifade etti.\n\nPilot uygulamanın dört ilde devam ettiğini hatırlatan Erkal, B-Reçete Sistemi’nin 1 Temmuz 2026 tarihinden itibaren tüm Türkiye’de yürürlüğe gireceğini söyledi.\n\nSistemin temel amacının pestisitlerin hatalı ve gereğinden fazla kullanımını önlemek olduğunu belirten Erkal, dijital altyapı sayesinde bitki koruma ürünlerinin kullanımının daha etkin şekilde takip edileceğini, izlenebilirliğin güçleneceğini ve güvenilir gıda üretiminin destekleneceğini kaydetti.\n\nİlaç satışı dijital ortamda takip edilecek\n\nToplantıda sunum yapan Antalya İl Tarım ve Orman Müdürlüğü Bitkisel Üretim ve Bitki Sağlığı Şube Müdürü Dr. Safinaz Arslan, sistemin temel amacının bitki koruma ürünlerinin kontrollü kullanımını sağlamak ve izlenebilirliği artırmak olduğunu söyledi.\n\nArslan, üreticilerin kayıtlı arazilerine ve ürün desenlerine göre ihtiyaç duydukları miktarda bitki koruma ürünü satın alabileceklerini belirterek, sistemin E-Reçete, E-Üretici Kayıt Defteri, Çiftçi Kayıt Sistemi (ÇKS), Tarımsal Üretim Kayıt Sistemi ve KOBÜKS ile entegre çalışacağını ifade etti.\n\nAntibiyotik benzetmesi\n\nBazı etken maddelerin reçeteye tabi olacağını belirten Arslan, uygulamayı sağlık sektöründeki antibiyotik kullanımına benzetti.\n\nArslan, “Nasıl ki doktor reçetesi olmadan antibiyotik kullanılamıyorsa, belirli bitki koruma ürünleri de yetkili kişiler tarafından düzenlenecek reçeteler doğrultusunda kullanılabilecek. Üreticilere alanı ve üretim miktarı kadar ürün satışı yapılacak” dedi.\n\nSistem sayesinde bitki koruma ürünlerinin kim tarafından satın alındığı, hangi üretim alanında kullanıldığı ve tedarik zinciri boyunca hangi aşamalardan geçtiğinin dijital ortamda izlenebileceğini belirten Arslan, kontrollü satış ve etkin denetimin hedeflendiğini kaydetti.\n\nToplantı, sektör temsilcilerinin sorularının yanıtlanmasının ardından sona erdi."
+    },
     {
       "title": "Konya borsasında \"arpa\" şoku: Üretici isyan etti, fiyatlar çakıldı!",
       "url": "https://www.tarimdanhaber.com/konya-borsasinda-arpa-soku-uretici-isyan-etti-fiyatlar-cakildi",
@@ -119,14 +127,6 @@
       "content": "MOSKOVA — Rusya, küresel tarım piyasalarındaki etkinliğini artırmak amacıyla stratejik adımlar atmaya devam ediyor. Rusya Federal Veterinerlik ve Bitki Sağlığı Gözetim Servisi (Rosselhoznadzor) tarafından yapılan resmi açıklamaya göre, Rusya ile Bangladeş arasında tarımsal ürün ticaretini hacimsel olarak büyütme kararı alındı. Başkent Moskova'da bir araya gelen Rosselhoznadzor temsilcileri ile Bangladeş Tarım Bakanlığı Tarımsal Kalkınma Departmanı heyeti, iki ülke arasındaki ticari ilişkileri güçlendirecek kritik bir müzakere süreci yürüttü.\n\nGerçekleştirilen resmi görüşmeler kapsamında Rosselhoznadzor yetkilileri, Rusya'nın Bangladeş pazarına yönelik agro-endüstriyel ürünlerin, özellikle de tahıl sevkiyatının hacmini düzenli olarak artırmaya tamamen hazır olduğunu net bir şekilde ifade etti. Karşılıklı ticaret modeline dayanan müzakerelerde Bangladeş tarafı ise, Rusya Federasyonu pazarındaki talebi karşılamak üzere tropikal meyve ve sebze ihracatı yapmaya ciddi düzeyde ilgi duyduklarını heyete iletti. İki ülkenin delegeleri, söz konusu ürünlerin karşılıklı ticaretinde uygulanacak bitki sağlığı ve karantina gerekliliklerini içeren resmi belgelerin en kısa sürede takas edilmesi konusunda tam mutabakata vardı.\n\nTARIM PUSULASI HABER MERKEZİ"
     },
     {
-      "title": "Florida Üniversitesi, A vitamini zengini domates geliştirdi",
-      "url": "https://www.tarimpusulasi.com/haber/florida-universitesi-a-vitamini-zengini-domates-gelistirdi-46883",
-      "source": "Tarım Pusulası",
-      "date": "2026-06-22",
-      "summary": "ABD’deki Florida Üniversitesi bilim insanları, göz sağlığı ve bağışıklık için hayati önem taşıyan A vitamini eksikliğiyle mücadele etmek amacıyla yüksek beta-karoten içeren yeni bir domates çeşidi geliştirdi. En iyi domates çeşitleriyle melezlenen hibrit, havuç ve lahanayı besin değeriyle geride bır",
-      "content": "FLORIDA — Amerika Birleşik Devletleri’nde (ABD) küresel ölçekte ciddi bir sağlık sorunu olan A vitamini eksikliğiyle mücadelede çığır açacak yeni bir tarımsal inovasyona imza atıldı. Florida Üniversitesi bünyesinde çalışmalarını yürüten bilim insanları, bitkilerde karotenoid üretimi süreçlerinde aktif rol oynayan \"CCS\" genini tespit etti. Bu genin laboratuvar ortamında bitki genetiğine entegre edilmesiyle birlikte, deneme bitkilerinin meyvelerinde belirgin bir renk değişimi gözlemlendi ve domatesler parlak turuncu bir renge büründü.\n\nProjenin ikinci aşamasında araştırmacılar, piyasadaki en kaliteli ve verimli ticari domates çeşitlerini bu deneysel örneklerle melezledi. Elde edilen iri yapılı hibrit domates varyetelerinin laboratuvar analizleri çarpıcı sonuçlar ortaya koydu. Geliştirilen yeni hibritlerin bünyesindeki beta-karoten, kapsantin ve kapsorubin miktarlarının, bu besin ögeleri bakımından zenginliğiyle bilinen havuç ve lahanayı bile geride bıraktığı belirlendi. Görme yetisi, güçlü bir bağışıklık sistemi ve sağlıklı büyüme için kritik öneme sahip olan A vitaminini yüksek oranda barındıran bu domates çeşidinin, gelecekte gıda güvenliği ve beslenme yetersizliği projelerinde önemli bir rol oynaması bekleniyor.\n\nTARIM PUSULASI HABER MERHEZİ"
-    },
-    {
       "title": "120 milyar TL’lik çağrı: \"AOÇ Tarım Bilimleri Akademisi\" projesi",
       "url": "https://www.tarimdanhaber.com/120-milyar-tllik-cagri-aoc-tarim-bilimleri-akademisi-projesi",
       "source": "Tarımdan Haber",
@@ -143,19 +143,19 @@
           "key": "bugday",
           "name": "Buğday (ekmeklik)",
           "unit": "₺/kg",
-          "price": 14.97,
-          "change": 0,
+          "price": 14.76,
+          "change": -1.4,
           "source": "Edirne TB",
-          "date": "2026-05-11"
+          "date": "2026-06-23"
         },
         {
           "key": "arpa",
           "name": "Arpa",
           "unit": "₺/kg",
-          "price": 11.29,
-          "change": 0,
+          "price": 11.36,
+          "change": 0.62,
           "source": "Edirne TB",
-          "date": "2026-06-18"
+          "date": "2026-06-23"
         },
         {
           "key": "aycicegi",
@@ -244,19 +244,19 @@
       "key": "bugday",
       "name": "Buğday (ekmeklik)",
       "unit": "₺/kg",
-      "price": 14.97,
-      "change": 0,
+      "price": 14.76,
+      "change": -1.4,
       "source": "Edirne TB",
-      "date": "2026-05-11"
+      "date": "2026-06-23"
     },
     {
       "key": "arpa",
       "name": "Arpa",
       "unit": "₺/kg",
-      "price": 11.29,
-      "change": 0,
+      "price": 11.36,
+      "change": 0.62,
       "source": "Edirne TB",
-      "date": "2026-06-18"
+      "date": "2026-06-23"
     },
     {
       "key": "aycicegi",
@@ -328,18 +328,5 @@
   "defaultBorsa": "5ED10",
   "defaultCity": "CANAKKALE",
   "note": "Fiyatlar TOBB ticaret borsasından (borsa seçilebilir). Kanola manuel (Trakya 2025).",
-  "inputsNote": "Mazot: akaryakıt bayi fiyatı, günlük (şehir seçilebilir). Gübre: manuel (yaklaşık).",
-  "errors": [
-    "fx: fetch failed",
-    "mazot ANKARA: fetch failed",
-    "mazot ISTANBUL: fetch failed",
-    "mazot IZMIR: fetch failed",
-    "mazot KONYA: fetch failed",
-    "mazot ADANA: fetch failed",
-    "mazot BURSA: fetch failed",
-    "mazot ANTALYA: fetch failed",
-    "mazot SAMSUN: fetch failed",
-    "mazot TEKIRDAG: fetch failed",
-    "mazot CANAKKALE: fetch failed"
-  ]
+  "inputsNote": "Mazot: akaryakıt bayi fiyatı, günlük (şehir seçilebilir). Gübre: manuel (yaklaşık)."
 }
