@@ -1,32 +1,32 @@
 {
-  "updatedAt": "2026-06-24T04:37:12.394Z",
+  "updatedAt": "2026-06-24T08:14:26.376Z",
   "fx": [
     {
       "code": "USD",
       "name": "Dolar",
-      "buy": 46.48,
-      "sell": 46.51,
-      "change": 0.04
+      "buy": 464956,
+      "sell": 465002,
+      "change": 5
     },
     {
       "code": "EUR",
       "name": "Euro",
-      "buy": 52.85,
-      "sell": 52.89,
-      "change": -0.13
+      "buy": 528158,
+      "sell": 528268,
+      "change": -21
     },
     {
       "code": "GRA",
       "name": "Gram Altın",
-      "buy": 6072.76,
-      "sell": 6073.63,
-      "change": -1.13
+      "buy": 609014,
+      "sell": 609105,
+      "change": -85
     },
     {
       "code": "CEYREKALTIN",
       "name": "Çeyrek Altın",
-      "buy": 9982.22,
-      "sell": 10210.4,
+      "buy": 998222,
+      "sell": 102104,
       "change": 0
     },
     {
@@ -34,10 +34,18 @@
       "name": "Cumhuriyet Altını",
       "buy": 41220,
       "sell": 41841,
-      "change": -1.79
+      "change": -179
     }
   ],
   "news": [
+    {
+      "title": "Konya Şeker'de 2025 bilançosu: 3 milyar TL zarar ve borç yapısında \"kısa vade\" alarmı",
+      "url": "https://www.tarimdanhaber.com/konya-sekerde-2025-bilancosu-3-milyar-tl-zarar-ve-borc-yapisinda-kisa-vade-alarmi",
+      "source": "Tarımdan Haber",
+      "date": "2026-06-24",
+      "summary": "Konya Şeker'in 2025 mali tabloları, esas faaliyetlerdeki 13 milyar TL'lik zararı ve hasılattaki %18'lik düşüşü gözler önüne serdi. \"Parasal Kazanç\" kalemindeki gerilemeyle birlikte şirket, 3 milyar TL net dönem zararı ile yılı kapattı.",
+      "content": "Haber Merkezi / Konya Şeker Sanayi ve Ticaret Anonim Şirketi ve bağlı ortaklıkları, 2025 yılına ait konsolide finansal sonuçlarını açıkladı. Bir önceki yıl 12,7 milyar TL kar bildiren grup, 2025 yılında 3 milyar TL’nin üzerinde net dönem zararı açıkladı.\n\nKonya Şeker’in 1 Ocak – 31 Aralık 2025 dönemini kapsayan bağımsız denetimden geçmiş finansal tabloları, grubun özellikle esas faaliyetlerinde ciddi bir daralma yaşadığını gözler önüne serdi.\n\nHasılatta Düşüş, Maliyetlerde Artış\n\nŞirketin 2024 yılında 77,2 milyar TL olan hasılatı, 2025 yılında yaklaşık %18’lik bir düşüşle 63,4 milyar TL seviyesine geriledi. Buna karşılık, 2024 yılında 74,9 milyar TL olan satışların maliyeti, 2025 yılında 64,4 milyar TL olarak gerçekleşti. Bu tablo, grubun 2024 yılında 2,3 milyar TL olan brüt karının, 2025 yılında 950,8 milyon TL seviyesinde brüt zarara dönüştüğünü gösteriyor.\n\nEsas Faaliyetlerde 13 Milyar TL'lik Zarar\n\nGrubun operasyonel karlılığındaki bozulma \"Esas Faaliyet Karı\" kaleminde net bir şekilde görülüyor. 2024 yılında 3,3 milyar TL esas faaliyet zararı açıklayan Konya Şeker, 2025 yılında bu zararı 13,1 milyar TL’ye yükseltti. Bu durumun ana nedenlerinden biri, 2024 yılında 5,2 milyar TL olan \"Esas faaliyetlerden diğer giderler\" kaleminin, 2025 yılında 10,4 milyar TL seviyesine çıkması oldu.\n\nParasal Kazanç Karlılığı Kurtaramadı\n\n2024 yılında grubun finansal tablolarında 23,8 milyar TL’lik \"Parasal Kazanç\" kalemi, net karlılığı destekleyen en önemli unsur olmuştu. 2025 yılında ise bu parasal kazanç 14,5 milyar TL seviyesine geriledi. Operasyonel zararlar ve artan giderler karşısında bu kazanç kalemi tek başına karlılığı korumaya yetmedi ve şirket yıl sonunu 3,04 milyar TL net dönem zararı ile kapattı.\n\nNet Dönem Zararı: 3.049.725.740 TL.\n\nAna Ortaklık Payı: 2.994.529.413 TL zarar.\n\nEsas Faaliyet Zararı: 13.110.502.938 TL.\n\nKısa Vadeli Borçlarda Sert Yükseliş\n\nFinansal tablolardaki en çarpıcı bulgu, uzun vadeli borçların çok büyük bir kısmının kısa vadeye dönmüş olmasıdır:\n\nUzun Vadeli Borçlanmaların Kısa Vadeli Kısımları: 2024 sonunda 8,3 milyar TL seviyesindeyken, 2025 sonunda 28,4 milyar TL seviyesine yükselmiştir. Bu, uzun vadeli kredi taksitlerinin artık cari dönemde ödenmesi gereken bir yükümlülük haline geldiğini gösterir.\n\nUzun Vadeli Borçlanmalar: 2024 sonunda 38,1 milyar TL olan tutar, 2025 sonunda 5,9 milyar TL'ye gerilemiştir. Yani borçların vadesi önemli ölçüde kısalmıştır.\n\nKısa Vadeli Yükümlülüklerde Sert Artış\n\nToplam Kısa Vadeli Yükümlülükler: 2024 sonunda 42,2 milyar TL iken, 2025 sonunda 70,3 milyar TL'ye çıkmıştır.\n\nTicari Borçlar: Şirketin ticari borçları 31,6 milyar TL'den 35,7 milyar TL'ye yükselerek toplam kısa vadeli yükümlülüklerin %50'sinden fazlasını oluşturmaktadır."
+    },
     {
       "title": "LÖSEV’den doğa dostu proje: Mandalinaları uğur böcekleri koruyor!",
       "url": "https://www.tarimdanhaber.com/losevden-doga-dostu-proje-mandalinalari-ugur-bocekleri-koruyor",
@@ -125,14 +133,6 @@
       "date": "2026-06-23",
       "summary": "Türkiye’de hayvancılık işletmelerinin kanayan yarası haline gelen \"çoban ve hayvan bakıcısı\" bulma sorunu için çözüm kapısı aralandı. Türkiye Damızlık Sığır Yetiştiricileri Merkez Birliği’nin girişimleriyle, yurt dışından çalışma vizesiyle profesyonel çoban getirilmesinin önü resmen açıldı.",
       "content": "Haber Merkezi / Yıllardır süren iş gücü krizine karşı hayvancılık sektörü kritik bir virajı dönüyor. İşletmelerde yaşanan personel eksikliğini gidermek amacıyla Tarım ve Orman Bakanlığı ile Çalışma ve Sosyal Güvenlik Bakanlığı’nın koordinasyonunda yürütülen süreç sonuçlandı. Artık işletmeler, İŞKUR üzerinden yasal prosedürleri tamamlayarak yabancı çoban ve hayvan bakıcısı istihdam edebilecek.\n\nİlgili Haber: Yabancı çoban istihdamında \"maliyet ve eğitim\" engeli: Sektörden kritik çağrı!\n\nKimler Yabancı Çoban İçin Başvurabilir?\n\nGidabulteni.com'un haberine göre, Bakanlık tarafından belirlenen kriterlere göre, her işletme yabancı personel çalıştıramayacak. İstihdam hakkından yararlanabilmek için belirlenen asgari hayvan sayısı şartları şöyle:\n\nKüçükbaş İşletmeleri: En az 200 baş hayvan.\n\nBesi Sığırı İşletmeleri: En az 100 baş hayvan.\n\nSüt Sığırı İşletmeleri: En az 50 baş hayvan.\n\nKarma İşletmeler: En az 75 baş hayvan.\n\nNot: Her bir işletme için en fazla 3 yabancı çalışan istihdamına izin veriliyor.\n\nSüreç Nasıl İşleyecek?\n\nKırklareli Damızlık Sığır Yetiştiricileri Birliği Başkanı Ali Dermenci, sürecin tamamen kontrollü ve yasal çerçevede ilerleyeceğini belirtti. İhtiyaç duyan işletmeler, taleplerini kendi il birliklerine iletecek. Ardından Türkiye Damızlık Sığır Yetiştiricileri Merkez Birliği koordinasyonunda, İŞKUR ve yetkilendirilmiş firmalar aracılığıyla yurt dışından (başta Afganistan olmak üzere) çalışan temini sağlanacak.\n\nGetirilecek olan çalışanlar, yalnızca başvuru yapılan işletmelerde görev yapabilecek ve çalışma izni sistemine tabi olacaklar.\n\nSektör İçin Bir \"Can Suyu\"\n\nHayvancılık işletmeleri için en büyük zorluklardan biri olan \"nitelikli bakıcı ve çoban\" sorunu, yıllardır üretimin sürekliliğini tehdit ediyordu. Bu düzenleme ile hem işletmelerin üzerindeki üretim baskısının hafifletilmesi hem de hayvansal üretimde verimliliğin korunması hedefleniyor. Sektör temsilcileri, bu adımın yerli hayvancılığın sürdürülebilirliği açısından \"geç kalınmış ancak yerinde bir hamle\" olduğunu ifade ediyor.\n\nKaynak: www.gidabulteni.com"
-    },
-    {
-      "title": "Yabancı çoban istihdamında \"maliyet ve eğitim\" engeli: Sektörden kritik çağrı!",
-      "url": "https://www.tarimdanhaber.com/yabanci-coban-istihdaminda-maliyet-ve-egitim-engeli-sektorden-kritik-cagri",
-      "source": "Tarımdan Haber",
-      "date": "2026-06-23",
-      "summary": "Türkiye’de küçükbaş hayvancılığın kanayan yarası olan “çoban bulma” sorunu, yabancı iş gücü düzenlemeleriyle nefes alsa da, sahada yeni engeller gün yüzüne çıktı. TÜRKYED Genel Başkanı Nihat Çelik, yabancı çobanların maliyet yükü ve dil bariyeri nedeniyle mevcut sistemin revize edilmesi gerektiğini ",
-      "content": "Haber Merkezi / Küçükbaş hayvancılıkta iş gücü krizine çözüm olarak hayata geçirilen yabancı çoban istihdamı, sektör temsilcilerinden gelen geri bildirimlerle mercek altına alındı. Tarımsal Üretim ve Küçükbaş Yetiştiricileri (TÜRKYED) Genel Başkanı Nihat Çelik, çalışma izni düzenlemesinin önemli bir adım olduğunu ancak uygulama aşamasında yaşanan maliyet ve eğitim sorunlarının \"sürdürülebilirliği\" zorlaştırdığını belirtti.\n\n“Destekler, Artan Maliyetleri Karşılamıyor”\n\nYabancı çoban çalıştırmanın beraberinde getirdiği SGK primleri, ücretler ve barınma giderlerinin işletme bütçelerini zorladığını ifade eden Çelik, mevcut sürü yöneticisi desteklerinin bu yükü hafifletmekte yetersiz kaldığını söyledi.\n\nÇelik, \"Yabancı çoban için çalışma izni, SGK primi, ücret ve yan giderler toplam maliyeti çok yükseltiyor. Destek mekanizmalarının bu gerçeklik ışığında yeniden gözden geçirilmesi, sektörün ayakta kalması için şart\" dedi.\n\nDil Bariyeri Eğitimi Zorlaştırıyor\n\nSektördeki bir diğer kritik sorun ise sertifikasyon süreci. Eğitimlerin Türkçe olması, yabancı uyruklu çobanların teknik terimleri anlamasını ve sınavları geçmesini güçleştiriyor. Çelik, çözüm önerisini şu sözlerle özetledi:\n\nÇok Dilli Materyaller: Eğitim materyallerinin farklı dillerde hazırlanması.\n\nGörsel Odaklı Eğitim: Teorik yerine uygulamaya dayalı, görsel ağırlıklı eğitim programları.\n\nÖzel Eğitim Programları: Sadece izin vermekle değil, çobanların yetkinliklerini artıracak özel eğitim modelleriyle ilerlenmesi.\n\nÇobanlıkta \"Kurumsal Dönüşüm\" Zamanı\n\n\"Sürü Yönetimi Elemanı Benim\" projesinin sektöre önemli bir ivme kazandırdığını kabul eden Nihat Çelik, sertifika odaklı yaklaşımın artık yeterli olmadığını savundu. Çelik, \"Ulusal Sürü Yöneticiliği Eğitimi\" modeline geçilmesi gerektiğini belirterek, şu vizyonu paylaştı:\n\n\"Çobanlık artık kurumsal bir meslek haline getirilmeli. Gençleri teşvik eden, dijital hayvancılık teknolojilerini kapsayan, sosyal güvencesi garanti altında olan ve kariyer gelişimi sunan kalıcı bir modele ihtiyacımız var. Sürdürülebilir hayvancılık, ancak nitelikli insan kaynağıyla mümkündür.\""
     }
   ],
   "commoditiesByBorsa": {
@@ -328,17 +328,5 @@
   "defaultBorsa": "5ED10",
   "defaultCity": "CANAKKALE",
   "note": "Fiyatlar TOBB ticaret borsasından (borsa seçilebilir). Kanola manuel (Trakya 2025).",
-  "inputsNote": "Mazot: akaryakıt bayi fiyatı, günlük (şehir seçilebilir). Gübre: manuel (yaklaşık).",
-  "errors": [
-    "mazot ANKARA: fetch failed",
-    "mazot ISTANBUL: fetch failed",
-    "mazot IZMIR: fetch failed",
-    "mazot KONYA: fetch failed",
-    "mazot ADANA: fetch failed",
-    "mazot BURSA: fetch failed",
-    "mazot ANTALYA: fetch failed",
-    "mazot SAMSUN: fetch failed",
-    "mazot TEKIRDAG: fetch failed",
-    "mazot CANAKKALE: fetch failed"
-  ]
+  "inputsNote": "Mazot: akaryakıt bayi fiyatı, günlük (şehir seçilebilir). Gübre: manuel (yaklaşık)."
 }
