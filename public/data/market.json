@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-06-24T17:58:45.756Z",
+  "updatedAt": "2026-06-24T19:51:15.854Z",
   "fx": [
     {
       "code": "USD",
@@ -328,5 +328,8 @@
   "defaultBorsa": "5ED10",
   "defaultCity": "CANAKKALE",
   "note": "Fiyatlar TOBB ticaret borsasından (borsa seçilebilir). Kanola manuel (Trakya 2025).",
-  "inputsNote": "Mazot: akaryakıt bayi fiyatı, günlük (şehir seçilebilir). Gübre: manuel (yaklaşık)."
+  "inputsNote": "Mazot: akaryakıt bayi fiyatı, günlük (şehir seçilebilir). Gübre: manuel (yaklaşık).",
+  "errors": [
+    "fx: fetch failed"
+  ]
 }
