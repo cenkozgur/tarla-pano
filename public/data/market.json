@@ -1,43 +1,59 @@
 {
-  "updatedAt": "2026-06-24T08:14:26.376Z",
+  "updatedAt": "2026-06-24T11:18:28.695Z",
   "fx": [
     {
       "code": "USD",
       "name": "Dolar",
-      "buy": 464956,
-      "sell": 465002,
-      "change": 5
+      "buy": 46.49,
+      "sell": 46.5,
+      "change": 0.05
     },
     {
       "code": "EUR",
       "name": "Euro",
-      "buy": 528158,
-      "sell": 528268,
-      "change": -21
+      "buy": 52.76,
+      "sell": 52.77,
+      "change": -0.31
     },
     {
       "code": "GRA",
       "name": "Gram Altın",
-      "buy": 609014,
-      "sell": 609105,
-      "change": -85
+      "buy": 6039.43,
+      "sell": 6040.4,
+      "change": -1.67
     },
     {
       "code": "CEYREKALTIN",
       "name": "Çeyrek Altın",
-      "buy": 998222,
-      "sell": 102104,
-      "change": 0
+      "buy": 9789.06,
+      "sell": 10015.14,
+      "change": -1.91
     },
     {
       "code": "CUMHURIYETALTINI",
       "name": "Cumhuriyet Altını",
-      "buy": 41220,
-      "sell": 41841,
-      "change": -179
+      "buy": 40760,
+      "sell": 41381,
+      "change": -1.1
     }
   ],
   "news": [
+    {
+      "title": "CHP'li Öztürkmen: Nizip Çayı Kirliliği 30 Köyü Etkiliyor",
+      "url": "https://www.tarimpusulasi.com/haber/chpli-ozturkmen-nizip-cayi-kirliligi-30-koyu-etkiliyor-46911",
+      "source": "Tarım Pusulası",
+      "date": "2026-06-24",
+      "summary": "CHP Gaziantep Milletvekili Hasan Öztürkmen, Gaziantep Organize Sanayi Bölgesi kaynaklı olduğu iddia edilen atıkların Nizip Çayı'nda ciddi kirliliğe yol açtığını belirterek, yaklaşık 30 köyün çevresel ve tarımsal üretim açısından olumsuz etkilendiğini söyledi. Bölge sakinleri ise sağlık, çevre ve üre",
+      "content": "GAZİANTEP — CHP Gaziantep Milletvekili Hasan Öztürkmen, Gaziantep Organize Sanayi Bölgesi'nden kaynaklanan ve yeterince arıtılmadığı öne sürülen sanayi atıklarının Nizip Çayı'nda ciddi kirliliğe neden olduğunu belirterek, bölgede yaşayan vatandaşların ve üreticilerin yaşadığı sorunları yeniden gündeme taşıdı.\n\nÖztürkmen'in açıklamasına göre, Nizip Çayı'na karıştığı iddia edilen kimyasal içerikli atıklar nedeniyle yaklaşık 30 köyün çevresel koşulları ve tarımsal faaliyetleri olumsuz etkileniyor. Bölgedeki köy dernekleri başkanları İlhan Aslan ve Öner Deniz de kirliliğin çevre felaketi boyutuna ulaştığını ifade ederek yetkililerden çözüm talep etti.\n\nKöylüler, geçmişte balık tutulabilen ve sulama amacıyla kullanılan çayda bugün yoğun kirlilik ve kötü koku oluştuğunu belirtti. Vatandaşlar, söz konusu durumun tarım arazileri, bahçeler ve günlük yaşam üzerinde olumsuz etkiler yarattığını dile getirdi.\n\nHasan Öztürkmen ise Nizip Çayı'ndaki kirlilik sorununu Türkiye Büyük Millet Meclisi gündemine birçok kez taşıdığını belirterek, verilen sözlerin yerine getirilmediğini savundu.\n\nÖztürkmen, sanayi faaliyetlerinden kaynaklandığını ifade ettiği kirliliğin yalnızca çevreyi değil, insan ve hayvan sağlığını da tehdit ettiğini söyledi. Kirlenen toprakların da rehabilite edilmesi gerektiğini belirten Öztürkmen, bölgede yaşayan vatandaşların sağlık riskleriyle karşı karşıya kaldığını ifade etti.\n\nSanayi bölgesinin ekonomik gelişimine karşı olmadıklarını vurgulayan Öztürkmen, sanayi büyümesinin çevresel etkilerinin kontrol altına alınması gerektiğini belirtti. Bölge sakinleri ise özellikle son yıllarda kötü koku, sinek ve sivrisinek yoğunluğunda artış yaşandığını, bazı ağaçların kuruduğunu öne sürdü.\n\nÖte yandan açıklamalarda yer alan çevresel etkiler ve sağlık risklerine ilişkin değerlendirmeler tarafların beyanlarına dayanırken, söz konusu iddialarla ilgili resmi kurumların güncel inceleme ve ölçüm sonuçlarına ilişkin açıklama bulunmuyor.\n\nTARIM PUSULASI HABER MERKEZİ"
+    },
+    {
+      "title": "Hayvancılıkta \"asgari ücretli çoban\" dönemi: Yüksek maaş çarkı kırılacak mı?",
+      "url": "https://www.tarimdanhaber.com/hayvancilikta-asgari-ucretli-coban-donemi-yuksek-maas-carki-kirilacak-mi",
+      "source": "Tarımdan Haber",
+      "date": "2026-06-24",
+      "summary": "Hayvancılıkta çoban krizi için yeni dönem: Türkiye Damızlık Sığır Yetiştiricileri Merkez Birliği, yurt dışından asgari ücretle profesyonel çoban getirilmesinin önünü açan bir model üzerinde çalışma başlattı. İşletmeleri yüksek maaş yükünden kurtarması beklenen bu girişim, sektörde çözüm kapısı olara",
+      "content": "Haber Merkezi / Türkiye’de hayvancılık işletmelerinin en büyük maliyet ve operasyonel sorunlarından biri olan \"çoban bulma\" meselesi, yeni bir çözüm arayışını gündeme getirdi. Türkiye Damızlık Sığır Yetiştiricileri Merkez Birliği’nin girişimleriyle, yurt dışından profesyonel çoban getirilmesi konusunda somut bir adım atıldı.\n\nSektör temsilcilerinin uzun süredir dile getirdiği çoban bulma zorluğu ve buna bağlı yükselen maliyetler karşısında, profesyonel bir istihdam modelinin hayata geçirilmesi hedefleniyor. Bu girişim, özellikle piyasadaki kontrolsüz maaş artışlarını dengelemeyi amaçlayan bir çözüm kapısı olarak değerlendiriliyor.\n\nAsgari Ücretle Çalışma Şartı Öne Çıkıyor\n\nYeni modelin en dikkat çeken yönü, istihdamın belirli standartlara bağlanması. Özellikle son dönemde sektörde gözlemlenen yüksek maaş taleplerine karşı, birlik üzerinden getirilecek çobanların asgari ücretle çalışma şartıyla istihdam edilmesi hedefleniyor.\n\nBu modelle hedeflenen temel noktalar ise şöyle sıralanıyor:\n\nPiyasa Dengesini Sağlamak: Kontrolsüz şekilde artan maaş talepleri yerine, asgari ücret baremiyle maliyetlerin işletmeler için daha öngörülebilir hale getirilmesi.\n\nKurumsal İstihdam: Çoban ihtiyacının bireysel pazarlıklar yerine, birlikler ve istihdam büroları aracılığıyla daha profesyonel ve kayıtlı bir yapıya kavuşturulması.\n\nProfesyonel Temin: Özellikle hayvancılık tecrübesiyle bilinen Afganistan ve Türkmenistan gibi ülkelerden, belirlenen kurallar dahilinde iş gücü temini.\n\nSüreç Nasıl İşleyecek?\n\nAtılan bu adımda, işletme sahiplerinin üzerindeki yükü hafifletecek şeffaf bir süreç kurgulanması planlanıyor. Uygulamanın temel işleyişi şu şekilde öngörülüyor:\n\nTalep Yönetimi: İhtiyaç sahibi işletmeler, taleplerini bölge birlikleri aracılığıyla üst birliğe iletecek.\n\nSözleşmeli İstihdam: Üst birlik, sözleşme yaptığı istihdam bürosu ile koordineli çalışarak süreci yönetecek.\n\nİşletme Giderleri: Çoban başına 400 dolarlık hizmet bedeli ve evrak masrafları, işletme tarafından karşılanacak. Ayrıca, işletme personelin iaşe ve barınma ihtiyaçlarını üstlenecek.\n\nPerformans Odaklı Çalışma: Bir yıllık çalışma süresinin ardından, memnuniyet durumuna göre çalışma vizesinin uzatılması veya sonlandırılması gibi bir değerlendirme süreci işletilecek.\n\nSektör İçin Bir \"Çözüm Kapısı\"\n\nBu girişim, halihazırda çoban bulma konusunda sıkıntı yaşayan ve yüksek personel maliyetleriyle mücadele eden işletmeler için bir çıkış yolu olarak görülüyor. Özellikle asgari ücret şartının sisteme dahil edilmesi, hayvancılık işletmelerine sürdürülebilir bir maliyet yönetimi sunma potansiyeli taşıyor.\n\nSektör paydaşları, bu uygulamanın hayvancılık işletmelerinin üzerindeki iş gücü yükünü ne oranda hafifleteceğini ve sahada nasıl bir karşılık bulacağını merakla bekliyor.\n\nTürkiye Damızlık Sığır Yetiştiricileri Merkez Birliği’nin başlattığı bu yeni istihdam modelini, hayvancılık sektörünün kronikleşen çoban sorununa çözüm olma noktasında nasıl değerlendiriyorsunuz?"
+    },
     {
       "title": "Konya Şeker'de 2025 bilançosu: 3 milyar TL zarar ve borç yapısında \"kısa vade\" alarmı",
       "url": "https://www.tarimdanhaber.com/konya-sekerde-2025-bilancosu-3-milyar-tl-zarar-ve-borc-yapisinda-kisa-vade-alarmi",
@@ -117,22 +133,6 @@
       "date": "2026-06-23",
       "summary": "LÖSEV, İzmir'in Seferihisar ilçesindeki Sağlıklı Doğal Yaşam Kasabası'nda yetiştirdiği satsuma mandalinalarında kimyasal ilaçlar yerine biyolojik mücadele yöntemleri uyguluyor. Proje kapsamında bahçelere salınan yerli uğur böcekleriyle zararlılarla doğal yollarla mücadele edilirken, sürdürülebilir ü",
       "content": "İZMİR — LÖSEV, İzmir'in Seferihisar ilçesinde bulunan Lösemili Çocuklar Sağlıklı Doğal Yaşam Kasabası'nda yetiştirilen satsuma mandalinalarında biyolojik mücadele yöntemleri uyguladığını açıkladı. Kurum, kimyasal ilaçlar yerine doğal yöntemlerle yürütülen üretim modeliyle sürdürülebilir tarımı ve biyoçeşitliliği desteklemeyi amaçladığını bildirdi.\n\nLÖSEV tarafından yapılan açıklamaya göre, bahçelerde zararlıların kontrolü amacıyla yerli tür yedi noktalı uğur böcekleri kullanılıyor. Yaprak bitleriyle beslenen uğur böceklerinin, zararlı popülasyonunun doğal yollarla azaltılmasına katkı sağladığı belirtildi.\n\nAçıklamada, Seferihisar'daki üretim alanında yaklaşık 10 bin mandalina ağacının yanı sıra ceviz, zeytin, limon, portakal, greyfurt ve Hicaz narı ağaçlarının da bulunduğu ifade edildi. Ayrıca 282 dönümlük alanda arı otu, fesleğen, nane, kekik, adaçayı, biberiye ve ıhlamur gibi bitkilerin yetiştirildiği kaydedildi.\n\nEkolojik dengeyi desteklemek amacıyla üretim alanına kuş yuvaları, böcek evleri ve arı kovanları yerleştirildiği belirtilirken, bu uygulamaların biyoçeşitliliğin korunmasına katkı sunduğu ifade edildi.\n\nLÖSEV, yetiştirilen satsuma mandalinalarının hasat sonrası etilen gazı veya parafin gibi maddelere maruz bırakılmadan vakfa kayıtlı lösemi ve kanser hastaları ile dezavantajlı bölgelerde eğitim gören öğrencilere ulaştırıldığını açıkladı.\n\nAçıklamada ayrıca ürünlerin bir bölümünün doğal kurutma yöntemleriyle işlenerek LSV Dükkan aracılığıyla satışa sunulduğu ve elde edilen gelirin lösemi ve kanser tedavisi gören çocukların sağlık ve eğitim giderlerine aktarılmasına destek sağladığı bilgisi paylaşıldı.\n\nLÖSEV, sağlıklı beslenme ve koruyucu sağlık yaklaşımlarına dikkat çekerek, doğal yöntemlerle üretilen gıdaların yaygınlaştırılmasına yönelik çalışmalarını sürdürdüğünü bildirdi.\n\nTARIM PUSULASI HABER MERKEZİ"
-    },
-    {
-      "title": "Keskinoğlu Bandırma'da Damızlık Yetiştiricileriyle Buluştu",
-      "url": "https://www.tarimpusulasi.com/haber/keskinoglu-bandirmada-damizlik-yetistiricileriyle-bulustu-46903",
-      "source": "Tarım Pusulası",
-      "date": "2026-06-23",
-      "summary": "Keskinoğlu, Bandırma'da etlik ve yumurtacı damızlık yetiştiricilerinin katılımıyla istişare toplantısı düzenledi. Toplantıda biyogüvenlik uygulamaları, sürdürülebilir üretim, damızlık faaliyetleri ve canlı üretimde verimliliği artırmaya yönelik çalışmalar ele alındı.",
-      "content": "BANDIRMA — Türkiye'nin entegre piliç eti ve yumurta üreticileri arasında yer alan Keskinoğlu, Bandırma'da etlik ve yumurtacı damızlık yetiştiricilerinin katılımıyla bir istişare toplantısı gerçekleştirdi. Toplantıda biyogüvenlik uygulamaları, sürdürülebilir üretim ve canlı üretimde verimliliği artırmaya yönelik çalışmalar değerlendirildi.\n\nProgram, Keskinoğlu Canlı Faaliyetler Genel Müdür Yardımcısı Güven Atlı'nın açılış konuşmasıyla başladı. Atlı, damızlık faaliyetlerinde elde edilen sonuçlarda yetiştiricilerle kurulan iş birliği ve karşılıklı güvenin önemli rol oynadığını belirtti.\n\nYetiştiricilerle kurulan ilişkinin yalnızca ticari bir iş birliğinden ibaret olmadığını ifade eden Atlı, ortak hedefler doğrultusunda üretim faaliyetlerinin sürdürüldüğünü söyledi. Matlı çatısı altında üretim faaliyetlerinin devam ettiğini belirten Atlı, damızlık üretiminin sürdürülebilir üretim altyapısı açısından stratejik önem taşıdığını vurguladı.\n\nToplantının devamında Matlı Şirketler Grubu'nun faaliyet alanları ve gelecek vizyonuna ilişkin sunum gerçekleştirildi. Daha sonra H&N firmasında görev yapan Teknik Veteriner Hekim Fernando Carrasquer Puyal, \"Yumurtacı Damızlıkta Biyogüvenlik\" başlıklı sunumunda biyogüvenlik uygulamalarının önemine ilişkin bilgiler paylaştı.\n\nProgramın bir diğer bölümünde ise Aviagen Teknik Müdürü Kifag Abutumeh, \"Etlik Damızlık Yetiştiriciliğinde Biyogüvenlik\" konulu sunum yaptı. Abutumeh, biyogüvenlik uygulamalarının sürü sağlığının korunması, üretim verimliliğinin artırılması ve sürdürülebilir yetiştiricilik açısından taşıdığı öneme dikkat çekti.\n\nToplantıda yetiştiricilerin görüş ve önerileri de alınırken, sektörde uygulanabilecek ortak çalışma alanları ve üretim süreçlerinde verimliliği artırmaya yönelik değerlendirmeler yapıldı. Program, konuşmacılara plaket takdimi ve katılımcılara hediyelerinin verilmesiyle sona erdi.\n\nKeskinoğlu, damızlık faaliyetlerinin geliştirilmesi, biyogüvenlik standartlarının yükseltilmesi ve canlı üretimde verimliliğin artırılmasına yönelik çalışmalarını sürdürdüğünü bildirirken, sektör paydaşlarıyla bilgi paylaşımını destekleyen organizasyonlara devam edeceğini açıkladı.\n\nTARIM PUSULASI HABER MERKEZİ"
-    },
-    {
-      "title": "Hayvancılıkta \"ithal çoban\" dönemi başladı: İŞKUR destekli istihdam süreci!",
-      "url": "https://www.tarimdanhaber.com/hayvancilikta-ithal-coban-donemi-basladi-iskur-destekli-istihdam-sureci",
-      "source": "Tarımdan Haber",
-      "date": "2026-06-23",
-      "summary": "Türkiye’de hayvancılık işletmelerinin kanayan yarası haline gelen \"çoban ve hayvan bakıcısı\" bulma sorunu için çözüm kapısı aralandı. Türkiye Damızlık Sığır Yetiştiricileri Merkez Birliği’nin girişimleriyle, yurt dışından çalışma vizesiyle profesyonel çoban getirilmesinin önü resmen açıldı.",
-      "content": "Haber Merkezi / Yıllardır süren iş gücü krizine karşı hayvancılık sektörü kritik bir virajı dönüyor. İşletmelerde yaşanan personel eksikliğini gidermek amacıyla Tarım ve Orman Bakanlığı ile Çalışma ve Sosyal Güvenlik Bakanlığı’nın koordinasyonunda yürütülen süreç sonuçlandı. Artık işletmeler, İŞKUR üzerinden yasal prosedürleri tamamlayarak yabancı çoban ve hayvan bakıcısı istihdam edebilecek.\n\nİlgili Haber: Yabancı çoban istihdamında \"maliyet ve eğitim\" engeli: Sektörden kritik çağrı!\n\nKimler Yabancı Çoban İçin Başvurabilir?\n\nGidabulteni.com'un haberine göre, Bakanlık tarafından belirlenen kriterlere göre, her işletme yabancı personel çalıştıramayacak. İstihdam hakkından yararlanabilmek için belirlenen asgari hayvan sayısı şartları şöyle:\n\nKüçükbaş İşletmeleri: En az 200 baş hayvan.\n\nBesi Sığırı İşletmeleri: En az 100 baş hayvan.\n\nSüt Sığırı İşletmeleri: En az 50 baş hayvan.\n\nKarma İşletmeler: En az 75 baş hayvan.\n\nNot: Her bir işletme için en fazla 3 yabancı çalışan istihdamına izin veriliyor.\n\nSüreç Nasıl İşleyecek?\n\nKırklareli Damızlık Sığır Yetiştiricileri Birliği Başkanı Ali Dermenci, sürecin tamamen kontrollü ve yasal çerçevede ilerleyeceğini belirtti. İhtiyaç duyan işletmeler, taleplerini kendi il birliklerine iletecek. Ardından Türkiye Damızlık Sığır Yetiştiricileri Merkez Birliği koordinasyonunda, İŞKUR ve yetkilendirilmiş firmalar aracılığıyla yurt dışından (başta Afganistan olmak üzere) çalışan temini sağlanacak.\n\nGetirilecek olan çalışanlar, yalnızca başvuru yapılan işletmelerde görev yapabilecek ve çalışma izni sistemine tabi olacaklar.\n\nSektör İçin Bir \"Can Suyu\"\n\nHayvancılık işletmeleri için en büyük zorluklardan biri olan \"nitelikli bakıcı ve çoban\" sorunu, yıllardır üretimin sürekliliğini tehdit ediyordu. Bu düzenleme ile hem işletmelerin üzerindeki üretim baskısının hafifletilmesi hem de hayvansal üretimde verimliliğin korunması hedefleniyor. Sektör temsilcileri, bu adımın yerli hayvancılığın sürdürülebilirliği açısından \"geç kalınmış ancak yerinde bir hamle\" olduğunu ifade ediyor.\n\nKaynak: www.gidabulteni.com"
     }
   ],
   "commoditiesByBorsa": {
@@ -328,5 +328,10 @@
   "defaultBorsa": "5ED10",
   "defaultCity": "CANAKKALE",
   "note": "Fiyatlar TOBB ticaret borsasından (borsa seçilebilir). Kanola manuel (Trakya 2025).",
-  "inputsNote": "Mazot: akaryakıt bayi fiyatı, günlük (şehir seçilebilir). Gübre: manuel (yaklaşık)."
+  "inputsNote": "Mazot: akaryakıt bayi fiyatı, günlük (şehir seçilebilir). Gübre: manuel (yaklaşık).",
+  "errors": [
+    "borsa 5ED10: fetch failed",
+    "borsa 5KO10: fetch failed",
+    "borsa 5ES10: fetch failed"
+  ]
 }
