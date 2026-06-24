@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-06-24T11:18:28.695Z",
+  "updatedAt": "2026-06-24T13:30:36.535Z",
   "fx": [
     {
       "code": "USD",
@@ -11,33 +11,49 @@
     {
       "code": "EUR",
       "name": "Euro",
-      "buy": 52.76,
-      "sell": 52.77,
-      "change": -0.31
+      "buy": 52.74,
+      "sell": 52.75,
+      "change": -0.35
     },
     {
       "code": "GRA",
       "name": "Gram Altın",
-      "buy": 6039.43,
-      "sell": 6040.4,
-      "change": -1.67
+      "buy": 5936.89,
+      "sell": 5937.84,
+      "change": -3.34
     },
     {
       "code": "CEYREKALTIN",
       "name": "Çeyrek Altın",
-      "buy": 9789.06,
-      "sell": 10015.14,
-      "change": -1.91
+      "buy": 9638.35,
+      "sell": 9868.72,
+      "change": -3.35
     },
     {
       "code": "CUMHURIYETALTINI",
       "name": "Cumhuriyet Altını",
-      "buy": 40760,
-      "sell": 41381,
-      "change": -1.1
+      "buy": 40317,
+      "sell": 40926,
+      "change": -2.19
     }
   ],
   "news": [
+    {
+      "title": "Viranşehir'de Sulamada Kullanılan 62 Kaçak Trafo Tespit Edildi",
+      "url": "https://www.tarimpusulasi.com/haber/viransehirde-sulamada-kullanilan-62-kacak-trafo-tespit-edildi-46913",
+      "source": "Tarım Pusulası",
+      "date": "2026-06-24",
+      "summary": "Dicle Elektrik, Şanlıurfa'nın Viranşehir ilçesinde yapay zeka destekli dronlarla gerçekleştirdiği denetimlerde tarımsal sulamada kullanıldığı belirtilen toplam 7.820 kVA gücünde 62 kayıt dışı kaçak trafo tespit edildiğini açıkladı. Şirkete göre söz konusu trafoların kapasitesi yaklaşık 5 bin 500 han",
+      "content": "ŞANLIURFA — Dicle Elektrik, enerji arz güvenliğinin korunması ve şebeke üzerindeki kayıt dışı tüketimin önlenmesi amacıyla Şanlıurfa'nın Viranşehir ilçesinde gerçekleştirdiği denetimlerde, tarımsal sulamada kullanıldığı belirtilen toplam 62 kayıt dışı kaçak trafo tespit edildiğini açıkladı.\n\nŞirket tarafından yapılan açıklamaya göre, yapay zeka destekli analizler sonrasında dronlarla gerçekleştirilen saha denetimlerinde tespit edilen trafoların toplam kurulu gücü 7.820 kVA olarak belirlendi. Dicle Elektrik, bu kapasitenin yaklaşık 5 bin 500 hanenin günlük enerji ihtiyacına eşdeğer olduğunu bildirdi.\n\nTrafoların Gücü 100 ile 250 kVA Arasında Değişiyor\n\nDenetimlerde tespit edilen kaçak trafoların en küçüğünün 100 kVA, en büyüğünün ise 250 kVA gücünde olduğu belirtildi. Yapılan incelemelerde söz konusu trafoların ağırlıklı olarak 50 ila 400 dönüm büyüklüğündeki buğday ve pamuk arazilerinin sulanmasında kullanıldığı ifade edildi.\n\nŞirket yetkilileri, yüksek kapasiteli kayıt dışı enerji kullanımının şebeke üzerinde ilave yük oluşturduğunu ve enerji arzının sürdürülebilirliği açısından risk taşıdığını savundu.\n\n\"Can ve Mal Güvenliği Açısından Risk Oluşturuyor\"\n\nDicle Elektrik yetkilileri, kayıt dışı elektrik kullanımında kullanılan trafoların enerji kalitesini olumsuz etkileyebildiğini belirterek şu değerlendirmede bulundu:\n\n\"Kayıt dışı kaçak elektrik kullanımı enerji kalitesini olumsuz yönde etkileyerek diğer abonelerin kesintisiz enerji almasını engelliyor. Ayrıca topraklama ve koruma rölesi bulunmayan bu sistemler yangın ve ölümcül kazalara yol açma riski taşıyor.\"\n\nHukuki Süreç Başlatıldı\n\nDicle Elektrik tarafından yapılan açıklamada, dron görüntüleri ve diğer teknik belgelerle hazırlanan dosyanın şirket avukatlarınca savcılığa sunulduğu bildirildi. Tespit edilen kayıt dışı trafolara el konulmasına yönelik hukuki sürecin başlatıldığı kaydedildi.\n\nKayıp-Kaçak Oranında Düşüş Açıklaması\n\nŞirket, bölgede yürütülen dijital dönüşüm projeleri kapsamında yapay zeka destekli analiz sistemleri, dron ve uydu destekli denetimler ile uzaktan sayaç yönetimi uygulamalarının kullanıldığını belirtti.\n\nDicle Elektrik'in verilerine göre, bölgede kayıp-kaçak oranı geçmiş yıllarda yüzde 76 seviyelerindeyken, uygulanan teknolojik denetimler sonrasında yüzde 35'e kadar geriledi. Bu verilere göre kayıp-kaçak oranında 41 puanlık düşüş sağlandığı ifade edildi.\n\nÖte yandan haberde yer alan tespitler ve rakamlar Dicle Elektrik tarafından paylaşılan verilere dayanırken, söz konusu kaçak kullanım iddialarına ilişkin ilgili kişi veya işletmelerden bağımsız bir açıklama bulunmuyor.\n\nTARIM PUSULASI HABER MERKEZİ"
+    },
+    {
+      "title": "İSO 500 Listesinde Ege'den 11 Su Ürünleri Firması Var",
+      "url": "https://www.tarimpusulasi.com/haber/iso-500-listesinde-egeden-11-su-urunleri-firmasi-var-46912",
+      "source": "Tarım Pusulası",
+      "date": "2026-06-24",
+      "summary": "İstanbul Sanayi Odası'nın (İSO) Türkiye'nin İlk 500 Büyük Sanayi Kuruluşu araştırmasında su ürünleri ve hayvansal mamuller sektörü 25 firmayla temsil edilirken, bunların 11'ini Ege Su Ürünleri ve Hayvansal Mamuller İhracatçıları Birliği üyesi firmalar oluşturdu. Birlik Başkanı Ufuk Atakan Demir, söz",
+      "content": "İZMİR — İstanbul Sanayi Odası'nın (İSO) açıkladığı Türkiye'nin İlk 500 Büyük Sanayi Kuruluşu araştırmasında su ürünleri ve hayvansal mamuller sektörü 25 firmayla temsil edilirken, bu firmaların 11'ini Ege Su Ürünleri ve Hayvansal Mamuller İhracatçıları Birliği üyeleri oluşturdu.\n\nEge Su Ürünleri ve Hayvansal Mamuller İhracatçıları Birliği Başkanı Ufuk Atakan Demir, İSO 500 Listesi'nde yer alan 11 üye firmanın toplam üretimden satışlarının 201 milyar 114 milyon TL'ye ulaştığını belirterek, elde edilen başarıdan memnuniyet duyduklarını ifade etti.\n\nDemir'in paylaştığı verilere göre, İSO 500 Listesi'nde yer alan 11 firma 2024 yılında 926 milyon dolar ihracat gerçekleştirirken, 2025 yılında ihracatlarını yüzde 19 artırarak 1 milyar 102 milyon dolara çıkardı. Böylece firmaların ihracatı bir yıl içinde yaklaşık 176 milyon dolar artış gösterdi.\n\nGümüşdoğa 15 Basamak Yükseldi\n\nListede su ürünleri sektörünün önemli temsilcilerinden Gümüşdoğa Su Ürünleri Üretim İhracat ve İthalat A.Ş. 66'ncı sırada yer aldı. Firma, bir önceki yıl bulunduğu 81'inci sıradan 15 basamak yükselerek dikkat çekti.\n\nNamet Gıda Sanayi ve Ticaret A.Ş. ise geçen yıla göre 10 sıra yükselerek 67'nci sıraya çıktı.\n\nTürkiye'nin su ürünleri ihracatında önde gelen firmalarından Kılıç Deniz Ürünleri Üretimi İhracat İthalat ve Ticaret A.Ş. ise 89'uncu sıradaki yerini korudu.\n\nKanatlı ve Süt Sektörü Güçlü Temsil Edildi\n\nKanatlı sektöründe faaliyet gösteren Abalıoğlu Lezita Gıda Sanayi A.Ş. 102'nci, Gedik Tavukçuluk ve Tarım Ürünleri Ticaret Sanayi A.Ş. 115'inci, Keskinoğlu Tavukçuluk ve Damızlık İşletmeleri Sanayi Ticaret A.Ş. ise 160'ıncı sırada yer aldı.\n\nSüt sektöründe faaliyet gösteren Pınar Süt Mamulleri Sanayii A.Ş. 185'inci, Tarım Kredi Süt Ürünleri A.Ş. ise 239'uncu sıraya yerleşti.\n\nEn Büyük Yükseliş Agromey'den\n\nPınar Entegre Et ve Un Sanayii A.Ş. önceki yıla göre 6 sıra yükselerek 288'inci sıraya çıktı.\n\nAbalıoğlu Balık ve Gıda Ürünleri A.Ş. ise 58 basamak yükselerek 309'uncu sıraya yerleşti ve listedeki en dikkat çekici yükselişlerden birine imza attı.\n\nEge Su Ürünleri ve Hayvansal Mamuller İhracatçıları Birliği üyeleri arasında en yüksek sıçramayı ise Agromey Gıda ve Yem Sanayi Ticaret A.Ş. gerçekleştirdi. Firma, 2024 yılında bulunduğu 453'üncü sıradan 2025 yılında 383'üncü sıraya yükselerek 70 basamaklık artış kaydetti.\n\nBirlik Başkanı Ufuk Atakan Demir, İSO 500 Listesi'nde yer alan firmaların hem üretimde hem de ihracatta Türkiye ekonomisine önemli katkılar sunduğunu belirterek, sektörün uluslararası pazarlardaki rekabet gücünü artırmaya devam ettiğini ifade etti.\n\nTARIM PUSULASI HABER MERKEZİ"
+    },
     {
       "title": "CHP'li Öztürkmen: Nizip Çayı Kirliliği 30 Köyü Etkiliyor",
       "url": "https://www.tarimpusulasi.com/haber/chpli-ozturkmen-nizip-cayi-kirliligi-30-koyu-etkiliyor-46911",
@@ -117,22 +133,6 @@
       "date": "2026-06-23",
       "summary": "Birleşmiş Milletler Gıda ve Tarım Örgütü (FAO), sınır aşan hayvan hastalıklarının dünya genelinde yayılmaya devam ettiğini ve bunun gıda güvenliği, uluslararası ticaret ve ülkelerin ekonomileri için ciddi riskler oluşturduğunu açıkladı. Kuruluşa göre kuş gribi nedeniyle bugüne kadar 633 milyondan fa",
       "content": "ROMA — Birleşmiş Milletler Gıda ve Tarım Örgütü (FAO), sınır aşan hayvan hastalıklarının dünya genelinde yayılmaya devam ettiğini ve bunun gıda güvenliği, uluslararası ticaret ile ülkelerin ekonomik istikrarı açısından önemli tehditler oluşturduğunu bildirdi.\n\nFAO tarafından yayımlanan açıklamada, kuş gribi, Afrika domuz vebası, şap hastalığı ve küçükbaş geviş getiren hayvan vebasının küresel ölçekte en ciddi hayvan sağlığı tehditleri arasında yer aldığı belirtildi. Ayrıca Ebola, Nipah virüsü ve And Dağları hantavirüsü gibi zoonotik hastalıkların da yeni riskler oluşturduğu vurgulandı.\n\nKuş gribi 633 milyon kanatlı kaybına yol açtı\n\nFAO'nun değerlendirmelerine göre kuş gribi salgınları nedeniyle dünya genelinde 633 milyondan fazla kanatlı hayvan kaybedildi. Kuruluş, bunun yaklaşık 48 milyar dolarlık bir pazarı etkilediğini belirtti.\n\nAfrika domuz vebasının bazı Asya ülkelerinde domuz varlığını yüzde 40'ın üzerinde azalttığı ifade edilirken, şap hastalığının küresel ekonomik maliyetinin yılda 11,3 milyar dolar seviyesinde olduğu bildirildi.\n\nBir milyardan fazla kişinin geçim kaynağı risk altında\n\nFAO verilerine göre hayvansal üretim sektörü dünya genelinde bir milyardan fazla insanın geçim kaynağını oluşturuyor ve her yıl trilyonlarca dolarlık ekonomik değer üretiyor.\n\nBu nedenle hayvan sağlığının korunmasının yalnızca üreticiler açısından değil; gıda arzı, ticaret, kırsal kalkınma ve ekonomik istikrar açısından da kritik önem taşıdığı ifade edildi.\n\nFAO Hayvancılık ve Hayvan Sağlığı Dairesi Direktörü ve Baş Veteriner Uzmanı Thanawat Tiensin, salgınların etkisinin yalnızca hayvan sağlığıyla sınırlı olmadığını belirterek, bu durumun tarımsal üretimi, ticareti ve turizmi de olumsuz etkilediğini söyledi.\n\nYeni tehditler ortaya çıkıyor\n\nFAO, son dönemde ortaya çıkan yeni epidemiyolojik risklere de dikkat çekti.\n\nAçıklamada, ABD'de uzun yıllar kontrol altında tutulan ve New World Screwworm adı verilen sineğin larvalarının neden olduğu miyaz vakalarının yeniden görüldüğü belirtildi. Hastalığın Orta Amerika ülkeleri ve Meksika üzerinden yayılım göstererek ABD'ye ulaştığı ifade edildi.\n\nKuruluş ayrıca, Afrika kökenli SAT1 şap virüsü serotipinin tarihsel yayılım alanının dışına çıkmasının uzmanlar arasında endişe yarattığını bildirdi.\n\nFAO'ya göre bu gelişmeler, hayvan hastalıklarının sınırları ne kadar hızlı aşabildiğini ve küresel gıda üretimi ile ticaret üzerinde ne kadar büyük riskler oluşturduğunu ortaya koyuyor.\n\nFAO erken uyarı sistemine odaklanıyor\n\nArtan riskler karşısında FAO, üye ülkeler ve Dünya Hayvan Sağlığı Örgütü (WOAH) ile birlikte Sınır Aşan Hayvan Hastalıkları Küresel Ortaklık Programı'nı (GPP-TAD) geliştirmeye başladı.\n\nUzun vadeli olarak tasarlanan programın; erken uyarı sistemleri, hastalıkların önlenmesi, hazırlık kapasitesinin artırılması ve salgınlara hızlı müdahale mekanizmalarının güçlendirilmesine odaklanacağı belirtildi.\n\nFAO Genel Direktör Yardımcısı Beth Bechdol, hayvan sağlığı sistemlerine yapılacak yatırımların kriz sonrasında müdahaleden çok daha düşük maliyetli olduğunu belirterek, güçlü veteriner altyapısının gıda güvenliği ve ticaretin sürdürülebilirliği açısından kritik rol oynadığını ifade etti.\n\nKuruluş, yeni programla ülkelerin salgınlara müdahale eden yapıdan, riskleri önceden tespit eden ve önleyen bir sisteme geçmesini hedefliyor.\n\nTARIM PUSULASI HABER MERKEZİ"
-    },
-    {
-      "title": "ABD, İran fonlarının tarım ürünleri alımında kullanılacağını açıkladı",
-      "url": "https://www.tarimpusulasi.com/haber/abd-iran-fonlarinin-tarim-urunleri-aliminda-kullanilacagini-acikladi-46905",
-      "source": "Tarım Pusulası",
-      "date": "2026-06-23",
-      "summary": "ABD yönetimi, İran'a yönelik bazı yaptırımları 60 gün süreyle askıya aldı. Washington, dondurulan İran varlıklarının Amerikan mısır, soya ve buğdayı alımında kullanılabileceğini açıklarken, Tahran yönetimi böyle bir zorunluluk bulunmadığını savundu.",
-      "content": "WASHINGTON — ABD ile İran arasında yürütülen diplomatik temaslar sonucunda, Washington yönetimi İran'a yönelik bazı yaptırımların uygulanmasını 60 gün süreyle askıya aldı.\n\nReuters'ın aktardığı bilgilere göre, taraflar arasındaki görüşmeler İsviçre'de gerçekleştirildi. Görüşmelerin ardından ABD yönetimi, İran'a ait dondurulmuş mali varlıkların kullanımına ilişkin yeni bir mekanizma üzerinde uzlaşı sağlandığını açıkladı.\n\nABD Başkan Yardımcısı JD Vance, Beyaz Saray temsilcisi Jared Kushner tarafından geliştirilen sistem kapsamında, İran'a ait serbest bırakılacak fonların ABD ve Katar'ın gözetiminde tutulacağını belirtti. Vance'e göre bu kaynaklar, başta Amerikan menşeli mısır, soya fasulyesi ve buğday olmak üzere tarım ürünlerinin satın alınmasında kullanılabilecek.\n\nABD Başkanı Donald Trump da yaptığı açıklamada, bloke edilen fonların çözülmesiyle ortaya çıkacak kaynağın Amerikan tarım ürünleri alımlarına yönlendirileceğini ifade etti.\n\nTahran'dan itiraz geldi\n\nİran tarafı ise ABD'li yetkililerin açıklamalarına farklı yaklaşıyor.\n\nTasnim Haber Ajansı'nın aktardığına göre İran Merkez Bankası Başkanı Abdolnaser Hemmati, İran'ın dondurulmuş varlıklarının yalnızca Amerikan tarım ürünleri alımında kullanılacağı yönünde herhangi bir taahhüt bulunmadığını söyledi.\n\nHemmati, serbest bırakılacak fonların en azından bir bölümünün yaptırım kapsamı dışında kalan diğer ürünlerin ithalatında da değerlendirilebileceğini belirtti.\n\nTarım piyasaları açısından önemi\n\nGelişme, özellikle küresel tahıl ve yağlı tohum piyasaları açısından dikkat çekiyor. İran'ın olası mısır, soya ve buğday alımlarının ABD tarım ihracatına katkı sağlayabileceği değerlendirilirken, fonların kullanım koşullarına ilişkin ABD ve İran arasında görüş ayrılıklarının devam ettiği görülüyor.\n\nUzmanlar, sürecin nihai şeklinin iki ülke arasında yapılacak yeni görüşmeler ve uygulanacak mali denetim mekanizmalarına bağlı olacağını belirtiyor.\n\nTARIM PUSULASI HABER MERKEZİ"
-    },
-    {
-      "title": "LÖSEV Seferihisar'da Biyolojik Mücadeleyle Mandalina Üretiyor",
-      "url": "https://www.tarimpusulasi.com/haber/losev-seferihisarda-biyolojik-mucadeleyle-mandalina-uretiyor-46904",
-      "source": "Tarım Pusulası",
-      "date": "2026-06-23",
-      "summary": "LÖSEV, İzmir'in Seferihisar ilçesindeki Sağlıklı Doğal Yaşam Kasabası'nda yetiştirdiği satsuma mandalinalarında kimyasal ilaçlar yerine biyolojik mücadele yöntemleri uyguluyor. Proje kapsamında bahçelere salınan yerli uğur böcekleriyle zararlılarla doğal yollarla mücadele edilirken, sürdürülebilir ü",
-      "content": "İZMİR — LÖSEV, İzmir'in Seferihisar ilçesinde bulunan Lösemili Çocuklar Sağlıklı Doğal Yaşam Kasabası'nda yetiştirilen satsuma mandalinalarında biyolojik mücadele yöntemleri uyguladığını açıkladı. Kurum, kimyasal ilaçlar yerine doğal yöntemlerle yürütülen üretim modeliyle sürdürülebilir tarımı ve biyoçeşitliliği desteklemeyi amaçladığını bildirdi.\n\nLÖSEV tarafından yapılan açıklamaya göre, bahçelerde zararlıların kontrolü amacıyla yerli tür yedi noktalı uğur böcekleri kullanılıyor. Yaprak bitleriyle beslenen uğur böceklerinin, zararlı popülasyonunun doğal yollarla azaltılmasına katkı sağladığı belirtildi.\n\nAçıklamada, Seferihisar'daki üretim alanında yaklaşık 10 bin mandalina ağacının yanı sıra ceviz, zeytin, limon, portakal, greyfurt ve Hicaz narı ağaçlarının da bulunduğu ifade edildi. Ayrıca 282 dönümlük alanda arı otu, fesleğen, nane, kekik, adaçayı, biberiye ve ıhlamur gibi bitkilerin yetiştirildiği kaydedildi.\n\nEkolojik dengeyi desteklemek amacıyla üretim alanına kuş yuvaları, böcek evleri ve arı kovanları yerleştirildiği belirtilirken, bu uygulamaların biyoçeşitliliğin korunmasına katkı sunduğu ifade edildi.\n\nLÖSEV, yetiştirilen satsuma mandalinalarının hasat sonrası etilen gazı veya parafin gibi maddelere maruz bırakılmadan vakfa kayıtlı lösemi ve kanser hastaları ile dezavantajlı bölgelerde eğitim gören öğrencilere ulaştırıldığını açıkladı.\n\nAçıklamada ayrıca ürünlerin bir bölümünün doğal kurutma yöntemleriyle işlenerek LSV Dükkan aracılığıyla satışa sunulduğu ve elde edilen gelirin lösemi ve kanser tedavisi gören çocukların sağlık ve eğitim giderlerine aktarılmasına destek sağladığı bilgisi paylaşıldı.\n\nLÖSEV, sağlıklı beslenme ve koruyucu sağlık yaklaşımlarına dikkat çekerek, doğal yöntemlerle üretilen gıdaların yaygınlaştırılmasına yönelik çalışmalarını sürdürdüğünü bildirdi.\n\nTARIM PUSULASI HABER MERKEZİ"
     }
   ],
   "commoditiesByBorsa": {
@@ -328,10 +328,5 @@
   "defaultBorsa": "5ED10",
   "defaultCity": "CANAKKALE",
   "note": "Fiyatlar TOBB ticaret borsasından (borsa seçilebilir). Kanola manuel (Trakya 2025).",
-  "inputsNote": "Mazot: akaryakıt bayi fiyatı, günlük (şehir seçilebilir). Gübre: manuel (yaklaşık).",
-  "errors": [
-    "borsa 5ED10: fetch failed",
-    "borsa 5KO10: fetch failed",
-    "borsa 5ES10: fetch failed"
-  ]
+  "inputsNote": "Mazot: akaryakıt bayi fiyatı, günlük (şehir seçilebilir). Gübre: manuel (yaklaşık)."
 }
