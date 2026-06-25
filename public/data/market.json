@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-06-25T10:30:25.375Z",
+  "updatedAt": "2026-06-25T12:37:54.369Z",
   "fx": [
     {
       "code": "USD",
@@ -11,33 +11,41 @@
     {
       "code": "EUR",
       "name": "Euro",
-      "buy": 52.93,
-      "sell": 52.95,
-      "change": 0.17
+      "buy": 52.91,
+      "sell": 52.94,
+      "change": 0.14
     },
     {
       "code": "GRA",
       "name": "Gram Altın",
-      "buy": 5962.7,
-      "sell": 5963.58,
-      "change": -0.28
+      "buy": 5971.4,
+      "sell": 5972.36,
+      "change": -0.13
     },
     {
       "code": "CEYREKALTIN",
       "name": "Çeyrek Altın",
-      "buy": 9630.06,
-      "sell": 9850.47,
-      "change": -1.44
+      "buy": 9633.8,
+      "sell": 9854.29,
+      "change": -1.4
     },
     {
       "code": "CUMHURIYETALTINI",
       "name": "Cumhuriyet Altını",
-      "buy": 39950,
-      "sell": 40554,
-      "change": -1.49
+      "buy": 39920,
+      "sell": 40524,
+      "change": -1.56
     }
   ],
   "news": [
+    {
+      "title": "TMO hububat alımlarında ilk ödemeler hesaplara yatıyor!",
+      "url": "https://www.tarimdanhaber.com/tmo-hububat-alimlarinda-ilk-odemeler-hesaplara-yatiyor",
+      "source": "Tarımdan Haber",
+      "date": "2026-06-25",
+      "summary": "Tarım ve Orman Bakanı İbrahim Yumaklı, TMO'nun 3 Haziran'da başlayan hububat alım sürecinde, ilk ödemelerin bugün itibarıyla çiftçilerin banka hesaplarına aktarılmaya başlandığını duyurdu. Yumaklı, yapılan ödemenin parasal miktarı ile ilgili bir bilgi vermedi.",
+      "content": "Haber Merkezi / Tarım ve Orman Bakanı İbrahim Yumaklı, çiftçilerin merakla beklediği haberi duyurdu. Toprak Mahsulleri Ofisi (TMO) tarafından 3 Haziran'da başlatılan hububat alım sürecinde, ilk ödemeler bugün itibarıyla üreticilerin hesaplarına aktarılmaya başlandı.\n\nÇiftçilerin emeğinin korunması ve hasat sürecinin sorunsuz ilerlemesi adına yürütülen çalışmalar hakkında önemli detaylar paylaşıldı.\n\nHububat Alımında 600 Farklı Noktada Hizmet\n\nHasat sezonunun ülke genelinde yoğunlaşmasıyla birlikte TMO, kapasitesini hızla artırıyor. Şu an halihazırda 211 noktada devam eden alım operasyonlarının, süreç boyunca 600 farklı noktaya çıkarılması hedefleniyor. Bu sayede çiftçilerin ürünlerini daha kolay ve hızlı bir şekilde teslim etmeleri sağlanacak.\n\nÖdemeler Hakkında Bilmeniz Gerekenler\n\nBakan Yumaklı'nın açıklamalarına göre, TMO'nun hububat alım süreciyle ilgili ödeme planı ve stratejisi şu şekilde:\n\nTam Alım Garantisi: TMO, üreticilerin getirdiği hububat ürünlerinin tamamını satın alacak.\n\nÖdeme Takvimi: Ürün bedelleri, teslimat tarihinden itibaren 21'inci günden itibaren üreticilerin banka hesaplarına yatırılmaya devam edecek.\n\nBakan İbrahim Yumaklı, \"Çiftçimizin emeğini ve alın terini korumaya devam edeceğiz\" vurgusuyla, devletin üreticinin yanında olduğunu bir kez daha yineledi. Bakan Yumaklı, hububat alım ödemesi kapsamında çiftçiye ödenen miktarla ilgili bir bilgi vermedi."
+    },
     {
       "title": "Sulu arazide \"Hedef 1 Ton\": Konya Ovası'nda rekolte beklentisi zirvede!",
       "url": "https://www.tarimdanhaber.com/sulu-arazide-hedef-1-ton-konya-ovasinda-rekolte-beklentisi-zirvede",
@@ -125,14 +133,6 @@
       "date": "2026-06-23",
       "summary": "Oil World'ün ön değerlendirmelerine göre 2026/27 sezonunda dünya ayçiçeği üretiminin 63,3 milyon tona ulaşması bekleniyor. Üretimdeki artışın temel nedenleri arasında ekim alanlarının genişlemesi ve özellikle Karadeniz Havzası ülkelerinde verimlerin toparlanacağı beklentisi yer alıyor.",
       "content": "HAMBURG — Tarım piyasaları analiz kuruluşu Oil World, 2026/27 sezonunda dünya ayçiçeği üretiminin son yılların en yüksek seviyelerinden birine ulaşabileceğini açıkladı.\n\nKuruluşun ön değerlendirmelerine göre küresel ayçiçeği üretiminin 2026/27 sezonunda 63,3 milyon ton olması bekleniyor. Bu miktar, bir önceki sezondaki 57,5 milyon tonluk üretimin ve son beş yılın 56,2 milyon tonluk ortalamasının üzerinde bulunuyor.\n\nÜretim artışının arkasında ekim alanları var\n\nAnalistlere göre üretim artışının temel nedenleri arasında ayçiçeği ekim alanlarının genişlemesi ve verimlerin toparlanacağı beklentisi yer alıyor.\n\nÖzellikle Karadeniz Havzası'ndaki üretici ülkelerde çiftçilerin son dönemde yüksek seyreden ayçiçeği fiyatları nedeniyle tahıllar yerine yağlı tohum üretimine yöneldiği belirtiliyor.\n\nRaporda ayrıca ayçiçeğinin bazı tahıl ürünlerine göre daha düşük gübre ihtiyacına sahip olmasının da üreticilerin tercihlerini etkileyen faktörlerden biri olduğu ifade edildi.\n\nEkim alanları 34,5 milyon hektara çıkabilir\n\nOil World tahminlerine göre dünya genelinde ayçiçeği hasat alanı 2026/27 sezonunda 34,5 milyon hektara ulaşacak.\n\nBu rakam geçen sezon 33 milyon hektar, 2024/25 sezonunda ise 30,4 milyon hektar seviyesindeydi.\n\nEn yüksek alan artışının Rusya'da gerçekleşmesi bekleniyor. Rapora göre Rusya'da ayçiçeği ekim alanlarının yıllık bazda 1,7 milyon hektar artabileceği öngörülüyor.\n\nRusya'yı Arjantin'in 600 bin hektarlık artışla izlemesi beklenirken, Avrupa Birliği, Ukrayna, ABD ve Türkiye'de de ekim alanlarının genişleyeceği tahmin ediliyor.\n\nHasat gecikebilir\n\nAnalistler, Rusya ve Ukrayna'da ayçiçeği ekimlerinin gecikmeli başladığını belirterek bunun Eylül ayında başlaması beklenen hasat dönemini öteleyebileceğine dikkat çekti.\n\nBu durumun yeni sezon ürünlerinin piyasaya giriş takvimini de etkileyebileceği değerlendiriliyor.\n\nAyçiçeği yağı talebi güçlü kalabilir\n\nOil World, 2026/27 sezonunda küresel ayçiçeği yağı talebinin güçlü seyretmesini bekliyor.\n\nRaporda, palm yağı arzında yaşanabilecek olası daralmanın ayçiçeği yağına olan talebi artırabileceği ifade edildi.\n\nBununla birlikte önceki sezondan devreden stokların sınırlı olması nedeniyle ayçiçeği yağı ve ayçiçeği küspesi ihracatındaki mevsimsel artışın beklenenden daha geç gerçekleşebileceği kaydedildi.\n\nUzmanlar, yeni sezon üretim tahminlerinin hava koşulları, verim gelişimi ve Karadeniz Havzası'ndaki üretim performansına bağlı olarak önümüzdeki aylarda güncellenebileceğini belirtiyor.\n\nTARIM PUSULASI HABER MERKEZİ"
-    },
-    {
-      "title": "Tekirdağlı çiftçi: Doğrudan ekim maliyetleri azaltıyor",
-      "url": "https://www.tarimpusulasi.com/haber/tekirdagli-ciftci-dogrudan-ekim-maliyetleri-azaltiyor-46908",
-      "source": "Tarım Pusulası",
-      "date": "2026-06-23",
-      "summary": "Tekirdağ'ın Süleymanpaşa ilçesine bağlı Karaevli Mahallesi'nde çiftçilik yapan Münür Karaevli, arpa hasadına başladıklarını ancak yüksek rutubet nedeniyle biçime ara verdiklerini söyledi. Karaevli, doğrudan ekim ve sulu tarım uygulamalarının hem maliyetleri düşürdüğünü hem de verim artışına katkı sa",
-      "content": "TEKİRDAĞ — Tekirdağ'ın Süleymanpaşa ilçesine bağlı Karaevli Mahallesi'nde çiftçilik yapan Münür Karaevli, bölgede arpa hasadına başladıklarını ancak ürünlerdeki yüksek rutubet nedeniyle biçim çalışmalarını geçici olarak durdurduklarını açıkladı.\n\nAilesinin üç-dört kuşaktır çiftçilik yaptığını belirten Karaevli, hasat edilen arpaların güvenli şekilde depolanabilmesi için nem oranının belirli seviyelerin altına düşmesi gerektiğini söyledi.\n\nKaraevli, \"Arpalarda rutubetin 13'ün altında olması gerekiyor. Ölçümlerimizde yüzde 14,5-15 seviyelerinde çıktı. Bir süre daha bekleyip rutubet düştüğünde hasada devam edeceğiz\" dedi.\n\nAyçiçeğinde doğrudan ekim uygulaması\n\nArpa tarlasının yanında bulunan ayçiçeği ekili alanlarda doğrudan ekim yöntemi kullandıklarını ifade eden Karaevli, toprağı işlemeden anıza ekim yaptıklarını belirtti.\n\nBu yöntemin hem erozyonu azaltmaya hem de üretim maliyetlerini düşürmeye katkı sağladığını dile getiren Karaevli, toprağın yapısının korunmasının uzun vadeli üretim açısından önemli olduğunu vurguladı.\n\n\"Sulu tarım verim ve kalite için gerekli\"\n\nSulu tarımın özellikle su kaynaklarına erişimi bulunan bölgelerde yaygınlaştırılması gerektiğini söyleyen Karaevli, sulamanın hem verim hem de ürün kalitesi açısından önemli avantajlar sağladığını kaydetti.\n\nYaklaşık 20 yıl önce Kırsal Kalkınma Yatırımlarının Desteklenmesi Programı kapsamında Tekirdağ İl Tarım ve Orman Müdürlüğü'nden destek alarak iki sulama makinesi satın aldığını belirten Karaevli, söz konusu ekipmanların halen aktif olarak kullanıldığını ifade etti.\n\nSulama yatırımlarının üreticiler açısından önemli bir destek olduğuna dikkat çeken Karaevli, tamburlu sulama ve damla sulama sistemlerinin yaygınlaşmasının tarımsal üretime olumlu katkı sağlayacağını söyledi.\n\nGenç çiftçilere farklı ürün önerisi\n\nTarımla uğraşan genç nesillere de tavsiyelerde bulunan Karaevli, üreticilerin alternatif ürünlere yönelmesini ve sulu tarım uygulamalarına daha fazla önem vermesini önerdi.\n\nGeçen yıl bölgede kuraklığın etkili olduğunu hatırlatan Karaevli, bu yıl ise yağışların önemli ölçüde arttığını belirterek üretim sezonunun verimli geçmesini temenni etti.\n\nKaraevli, \"Geçen yıl kurak bir sezon yaşadık. Bu yıl yağış miktarı yaklaşık iki kat arttı. İnşallah bölgemiz ve ülkemiz için bereketli bir üretim sezonu olur\" ifadelerini kullandı.\n\nTARIM PUSULASI HABER MERKEZİ"
     }
   ],
   "commoditiesByBorsa": {
