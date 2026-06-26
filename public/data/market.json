@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-06-26T10:54:48.631Z",
+  "updatedAt": "2026-06-26T13:14:29.392Z",
   "fx": [
     {
       "code": "USD",
@@ -11,33 +11,41 @@
     {
       "code": "EUR",
       "name": "Euro",
-      "buy": 53.21,
-      "sell": 53.22,
-      "change": 0.28
+      "buy": 53.28,
+      "sell": 53.29,
+      "change": 0.42
     },
     {
       "code": "GRA",
       "name": "Gram Altın",
-      "buy": 6071.69,
-      "sell": 6072.54,
-      "change": 0.72
+      "buy": 6069.86,
+      "sell": 6070.77,
+      "change": 0.69
     },
     {
       "code": "CEYREKALTIN",
       "name": "Çeyrek Altın",
-      "buy": 9725.09,
-      "sell": 9947.6,
-      "change": 0.7
+      "buy": 9750.97,
+      "sell": 9976.2,
+      "change": 0.99
     },
     {
       "code": "CUMHURIYETALTINI",
       "name": "Cumhuriyet Altını",
-      "buy": 40250,
-      "sell": 40854,
-      "change": 0.49
+      "buy": 40353,
+      "sell": 40963,
+      "change": 0.76
     }
   ],
   "news": [
+    {
+      "title": "Tarımda 'B' reçete dönemi başlıyor: 1 Temmuz itibariyle tüm Türkiye'de geçerli!",
+      "url": "https://www.tarimdanhaber.com/tarimda-b-recete-donemi-basliyor-1-temmuz-itibariyle-tum-turkiyede-gecerli",
+      "source": "Tarımdan Haber",
+      "date": "2026-06-26",
+      "summary": "Tarım ve Orman Bakanlığı, bitki koruma ürünlerinde izlenebilirliği sağlamak amacıyla başlattığı B Reçete sistemini 1 Temmuz'dan itibaren tüm Türkiye'de uygulamaya alıyor. Bakan Yumaklı, uygulamanın pestisit kullanımında yeni bir dönem başlatacağını vurguladı.",
+      "content": "Haber Merkezi / Tarım ve Orman Bakanlığı, bitkisel üretimde sürdürülebilirliği sağlamak, insan ve çevre sağlığını korumak amacıyla hayata geçirdiği \"B Reçete\" sistemini tüm Türkiye’ye yaygınlaştırıyor. Bakan İbrahim Yumaklı, 1 Temmuz itibarıyla 81 ilde eş zamanlı olarak başlayacak olan sistemin, pestisit kullanımında \"tüm duvarları yıkacak\" bir devrim niteliği taşıdığını vurguladı.\n\n\"Güvenilir Gıda İçin İzlenebilirlik Şart\"\n\nTarım ve Orman Bakanı İbrahim Yumaklı, 81 ilin tarım ve orman il müdürleri ile gerçekleştirdiği çevrimiçi toplantıda, sistemin detaylarını paylaştı. Beşeri ilaçlardaki reçeteleme mantığına benzer bir yapının tarıma entegre edildiğini belirten Bakan Yumaklı, artık her ilacın kimin tarafından, hangi amaçla, ne kadarlık bir alanda ve hangi dozda kullanılacağının kayıt altına alınacağını ifade etti.\n\nYeni sistemle gelen temel değişiklikler şunlar:\n\nTam İzlenebilirlik: İlacı yazan, ilacı alan ve kullanan kişi sistem üzerinden net bir şekilde görülebilecek.\n\nSadece Üreticiye Erişim: Bitkisel üretim yapan üreticiler, kayıtlı oldukları tarım alanı ve ürün miktarına göre, bilimsel kriterler çerçevesinde onaylanmış dozda pestisit alabilecek.\n\nHatalı Kullanıma Son: Gereğinden fazla veya yanlış ilaç kullanımının önüne geçilerek, pestisit kaynaklı riskler minimize edilecek.\n\n\"Pestisit Kaynaklı Problemleri Çözmeye Aday\"\n\nMersin, Samsun, Ankara ve Kırklareli’nde pilot uygulaması başarıyla gerçekleştirilen sistem, 1 Temmuz’dan itibaren ülke geneline yayılıyor. Bakan Yumaklı, sistemin sadece bir teknik değişiklik değil, bir vizyon dönüşümü olduğunu belirterek şunları kaydetti:\n\n\"Bu bir devrim. Türkiye'de pestisit anlamında bütün duvarları yıkacak, bütün problemleri çözmeye aday bir sistem. Bizler de vatandaşız, aynı gıdaları tüketiyoruz. Bu meseleye sadece bir iş olarak değil, gıda güvenliğimizin teminatı olarak bakıyoruz.\"\n\nDezenformasyon ve Provokasyonlara Geçit Yok\n\nUygulamanın yaygınlaşmasıyla birlikte sistemden menfaatleri zedelenen kesimlerin olabileceğine işaret eden Bakan Yumaklı, dezenformasyon ve provokasyonlara karşı kararlı bir duruş sergileyeceklerini belirtti. Bakanlık olarak vatandaşın güvenilir gıdaya ulaşmasının birincil öncelikleri olduğunu hatırlatan Yumaklı, il müdürlerine kesintisiz erişim ve sıkı denetim konusunda talimat verdi.\n\nTarımda Dinamik Dönüşüm\n\nİklim değişikliği ve buna bağlı olarak artan zararlı türleri ile hastalıkların, tarımsal üretimi daha hassas ve dikkatli olunması gereken bir sürece soktuğunu belirten Bakanlık, B Reçete sistemi ile bu dinamik süreçlere karşı daha hızlı, şeffaf ve bilimsel veriye dayalı bir yönetim modeli hedefliyor."
+    },
     {
       "title": "TMO: 2026 Hububat Rekoltesi Beklentilerin Üzerine Çıkabilir",
       "url": "https://www.tarimpusulasi.com/haber/tmo-2026-hububat-rekoltesi-beklentilerin-uzerine-cikabilir-46915",
@@ -125,14 +133,6 @@
       "date": "2026-06-24",
       "summary": "Konya Şeker'in 2025 mali tabloları, esas faaliyetlerdeki 13 milyar TL'lik zararı ve hasılattaki %18'lik düşüşü gözler önüne serdi. \"Parasal Kazanç\" kalemindeki gerilemeyle birlikte şirket, 3 milyar TL net dönem zararı ile yılı kapattı.",
       "content": "Haber Merkezi / Konya Şeker Sanayi ve Ticaret Anonim Şirketi ve bağlı ortaklıkları, 2025 yılına ait konsolide finansal sonuçlarını açıkladı. Bir önceki yıl 12,7 milyar TL kar bildiren grup, 2025 yılında 3 milyar TL’nin üzerinde net dönem zararı açıkladı.\n\nKonya Şeker’in 1 Ocak – 31 Aralık 2025 dönemini kapsayan bağımsız denetimden geçmiş finansal tabloları, grubun özellikle esas faaliyetlerinde ciddi bir daralma yaşadığını gözler önüne serdi.\n\nHasılatta Düşüş, Maliyetlerde Artış\n\nŞirketin 2024 yılında 77,2 milyar TL olan hasılatı, 2025 yılında yaklaşık %18’lik bir düşüşle 63,4 milyar TL seviyesine geriledi. Buna karşılık, 2024 yılında 74,9 milyar TL olan satışların maliyeti, 2025 yılında 64,4 milyar TL olarak gerçekleşti. Bu tablo, grubun 2024 yılında 2,3 milyar TL olan brüt karının, 2025 yılında 950,8 milyon TL seviyesinde brüt zarara dönüştüğünü gösteriyor.\n\nEsas Faaliyetlerde 13 Milyar TL'lik Zarar\n\nGrubun operasyonel karlılığındaki bozulma \"Esas Faaliyet Karı\" kaleminde net bir şekilde görülüyor. 2024 yılında 3,3 milyar TL esas faaliyet zararı açıklayan Konya Şeker, 2025 yılında bu zararı 13,1 milyar TL’ye yükseltti. Bu durumun ana nedenlerinden biri, 2024 yılında 5,2 milyar TL olan \"Esas faaliyetlerden diğer giderler\" kaleminin, 2025 yılında 10,4 milyar TL seviyesine çıkması oldu.\n\nParasal Kazanç Karlılığı Kurtaramadı\n\n2024 yılında grubun finansal tablolarında 23,8 milyar TL’lik \"Parasal Kazanç\" kalemi, net karlılığı destekleyen en önemli unsur olmuştu. 2025 yılında ise bu parasal kazanç 14,5 milyar TL seviyesine geriledi. Operasyonel zararlar ve artan giderler karşısında bu kazanç kalemi tek başına karlılığı korumaya yetmedi ve şirket yıl sonunu 3,04 milyar TL net dönem zararı ile kapattı.\n\nNet Dönem Zararı: 3.049.725.740 TL.\n\nAna Ortaklık Payı: 2.994.529.413 TL zarar.\n\nEsas Faaliyet Zararı: 13.110.502.938 TL.\n\nKısa Vadeli Borçlarda Sert Yükseliş\n\nFinansal tablolardaki en çarpıcı bulgu, uzun vadeli borçların çok büyük bir kısmının kısa vadeye dönmüş olmasıdır:\n\nUzun Vadeli Borçlanmaların Kısa Vadeli Kısımları: 2024 sonunda 8,3 milyar TL seviyesindeyken, 2025 sonunda 28,4 milyar TL seviyesine yükselmiştir. Bu, uzun vadeli kredi taksitlerinin artık cari dönemde ödenmesi gereken bir yükümlülük haline geldiğini gösterir.\n\nUzun Vadeli Borçlanmalar: 2024 sonunda 38,1 milyar TL olan tutar, 2025 sonunda 5,9 milyar TL'ye gerilemiştir. Yani borçların vadesi önemli ölçüde kısalmıştır.\n\nKısa Vadeli Yükümlülüklerde Sert Artış\n\nToplam Kısa Vadeli Yükümlülükler: 2024 sonunda 42,2 milyar TL iken, 2025 sonunda 70,3 milyar TL'ye çıkmıştır.\n\nTicari Borçlar: Şirketin ticari borçları 31,6 milyar TL'den 35,7 milyar TL'ye yükselerek toplam kısa vadeli yükümlülüklerin %50'sinden fazlasını oluşturmaktadır."
-    },
-    {
-      "title": "LÖSEV’den doğa dostu proje: Mandalinaları uğur böcekleri koruyor!",
-      "url": "https://www.tarimdanhaber.com/losevden-doga-dostu-proje-mandalinalari-ugur-bocekleri-koruyor",
-      "source": "Tarımdan Haber",
-      "date": "2026-06-23",
-      "summary": "Kanserle mücadelede sadece tıbbi tedaviyle değil, \"koruyucu sağlık\" yaklaşımıyla da fark oluşturan LÖSEV, Seferihisar’daki Sağlıklı Doğal Yaşam Kasabası’nda doğa dostu bir modele imza atıyor. Kimyasal ilaç yerine \"uğur böcekleri\" ile biyolojik mücadele başlatan vakıf, hem toprağı koruyor hem de löse",
-      "content": "Haber Merkezi / İzmir Seferihisar’da bulunan LÖSEV Lösemili Çocuklar Sağlıklı Doğal Yaşam Kasabası, sadece bir yaşam alanı değil, aynı zamanda örnek bir ekolojik üretim merkezi haline geldi. Vakıf, kanser hastalarının iyileşme sürecinde hayati önem taşıyan \"sağlıklı beslenme\" vizyonunu, kimyasaldan arındırılmış tarımsal üretimle birleştiriyor.\n\nTarım İlacına Son: Bahçeler Uğur Böceklerine Emanet\n\nLÖSEV, satsuma mandalinalarını zararlılardan korumak için doğanın dengesini bozacak yöntemler yerine \"biyolojik mücadele\"yi tercih ediyor. Bahçelere salınan yedi noktalı yerli tür uğur böcekleri, ağaçlara zarar veren yaprak bitleriyle beslenerek doğal bir koruma kalkanı oluşturuyor.\n\nBu sürdürülebilir modelin sağladığı avantajlar ise dikkat çekici:\n\nTamamen Zehirsiz: Tarım ilacı kalıntısı içermeyen, tamamen doğal ürünler.\n\nDoğal Denge: Tek bir uğur böceğinin ömrü boyunca binlerce zararlıyı tüketmesiyle sağlanan ekolojik başarı.\n\nSürdürülebilir Tarım: Toprağı yormayan, gelecek nesillere temiz bir çevre bırakan üretim.\n\n282 Dönümde Dev Biyoçeşitlilik Havzası\n\nKasaba, sadece mandalina ağaçlarıyla sınırlı kalmıyor; cevizden zeytine, limondan Hicaz narına kadar geniş bir ürün yelpazesine ev sahipliği yapıyor. 282 dönümlük dev alanda biyoçeşitliliği artırmak için; arı otu, fesleğen, nane, kekik ve ıhlamur gibi doğaya faydalı bitkiler ekiliyor. Alana yerleştirilen \"böcek evleri\" ve kuş yuvaları ile ekosistemin kendi döngüsünü koruması sağlanıyor.\n\n\"İyileşmiş Gençlerin Umudu\" Sofralara Taşınıyor\n\nBu özel yöntemlerle yetiştirilen satsuma mandalinaları, dalından sofraya kadar hiçbir yapay işleme (etilen gazı veya parafin gibi) maruz kalmadan ulaştırılıyor.\n\nLÖSEV Ailesine Destek: Ürünler, tedavisi süren çocuklara ve dezavantajlı öğrencilere taze olarak ulaştırılıyor.\n\nEğitime ve Tedaviye Katkı: Mandalinaların bir kısmı, besin değerini koruyan doğal kurutma yöntemleriyle LSV Dükkan üzerinden satışa sunuluyor. Buradan elde edilen tüm gelir, lösemili çocukların tedavi ve eğitim masrafları için kullanılıyor.\n\n\"Sağlıklı Beslenme İlaç Kadar Önemli\"\n\nKanserle mücadelede C vitamini ve antioksidan zengini gıdaların önemine dikkat çeken LÖSEV yetkilileri, bu projenin aynı zamanda bir çevre bilinci hareketi olduğunu vurguluyor. İyileşmiş gençler, aileler ve gönüllülerin omuz omuza katıldığı fidan dikim etkinlikleri, projenin toplumsal dayanışma ayağını oluşturuyor."
     }
   ],
   "commoditiesByBorsa": {
@@ -332,16 +332,6 @@
   "errors": [
     "borsa 5ED10: fetch failed",
     "borsa 5KO10: fetch failed",
-    "borsa 5ES10: fetch failed",
-    "mazot ANKARA: fetch failed",
-    "mazot ISTANBUL: fetch failed",
-    "mazot IZMIR: fetch failed",
-    "mazot KONYA: fetch failed",
-    "mazot ADANA: fetch failed",
-    "mazot BURSA: fetch failed",
-    "mazot ANTALYA: fetch failed",
-    "mazot SAMSUN: fetch failed",
-    "mazot TEKIRDAG: fetch failed",
-    "mazot CANAKKALE: fetch failed"
+    "borsa 5ES10: fetch failed"
   ]
 }
