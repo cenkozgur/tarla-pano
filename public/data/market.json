@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-06-26T22:16:57.151Z",
+  "updatedAt": "2026-06-26T23:36:11.607Z",
   "fx": [
     {
       "code": "USD",
@@ -294,7 +294,7 @@
       "name": "Motorin (mazot)",
       "unit": "₺/lt",
       "price": 66.27,
-      "change": 0.09,
+      "change": 0,
       "source": "CANAKKALE ort."
     },
     {
@@ -328,5 +328,18 @@
   "defaultBorsa": "5ED10",
   "defaultCity": "CANAKKALE",
   "note": "Fiyatlar TOBB ticaret borsasından (borsa seçilebilir). Kanola manuel (Trakya 2025).",
-  "inputsNote": "Mazot: akaryakıt bayi fiyatı, günlük (şehir seçilebilir). Gübre: manuel (yaklaşık)."
+  "inputsNote": "Mazot: akaryakıt bayi fiyatı, günlük (şehir seçilebilir). Gübre: manuel (yaklaşık).",
+  "errors": [
+    "fx: fetch failed",
+    "mazot ANKARA: fetch failed",
+    "mazot ISTANBUL: fetch failed",
+    "mazot IZMIR: fetch failed",
+    "mazot KONYA: fetch failed",
+    "mazot ADANA: fetch failed",
+    "mazot BURSA: fetch failed",
+    "mazot ANTALYA: fetch failed",
+    "mazot SAMSUN: fetch failed",
+    "mazot TEKIRDAG: fetch failed",
+    "mazot CANAKKALE: fetch failed"
+  ]
 }
