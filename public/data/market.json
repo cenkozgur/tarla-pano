@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-06-27T16:34:25.470Z",
+  "updatedAt": "2026-06-27T17:40:36.355Z",
   "fx": [
     {
       "code": "USD",
@@ -44,7 +44,7 @@
       "source": "Tarımdan Haber",
       "date": "2026-06-27",
       "summary": "Türkiye genelindeki 15 büyük ticaret borsasının kapanış verileriyle hazırlanan günlük hububat ve tahıl fiyatlarını bu sayfadan takip edebilirsiniz.",
-      "content": "Konya Ticaret Borsası (KTB) verilerine göre hububat piyasasındaki güncel fiyat hareketleri (26 Haziran 2026)\n\nGaziantep Ticaret Borsası (GTB) Hububat Fiyatları – 26 Haziran 2026\n\n/* Genel Tasarım Ayarları */\n\n.hububat-baslik {\n\nfont-family: sans-serif;\n\nfont-size: 20px;\n\nfont-weight: 700;\n\ncolor: #2c3e50;\n\nmargin-bottom: 15px;\n\nborder-left: 5px solid #e67e22; /* Hububat rengi turuncu */\n\npadding-left: 10px;\n\n}\n\n.hububat-tablo {\n\nwidth: 100%;\n\nborder-collapse: collapse;\n\nfont-family: sans-serif;\n\nfont-size: 15px;\n\nbackground-color: #fff;\n\n}\n\n.hububat-tablo thead {\n\nbackground-color: #f8f9fa;\n\n}\n\n.hububat-tablo th,\n\n.hububat-tablo td {\n\npadding: 12px 15px;\n\nborder-bottom: 1px solid #eee;\n\ntext-align: left;\n\n}\n\n.hububat-tablo th {\n\ncolor: #666;\n\nfont-weight: 600;\n\ntext-transform: uppercase;\n\nfont-size: 13px;\n\n}\n\n.fiyat {\n\nfont-weight: 700;\n\ncolor: #d35400; /* Hububat için vurgu rengi */\n\n}\n\n/* Mobil Görünüm (Kart Tasarımı) */\n\n@media (max-width: 768px) {\n\n.hububat-tablo thead {\n\ndisplay: none; /* Başlıkları gizle */\n\n}\n\n.hububat-tablo,\n\n.hububat-tablo tbody,\n\n.hububat-tablo tr,\n\n.hububat-tablo td {\n\ndisplay: block;\n\nwidth: 100%;\n\n}\n\n.hububat-tablo tr {\n\nmargin-bottom: 15px;\n\nborder: 1px solid #e0e0e0;\n\nborder-radius: 10px;\n\nbox-shadow: 0 4px 6px rgba(0,0,0,0.05);\n\npadding: 10px;\n\n}\n\n.hububat-tablo td {\n\nborder: none;\n\nposition: relative;\n\npadding-left: 50%; /* Yazıları sağa yasla */\n\ntext-align: right;\n\npadding-top: 10px;\n\npadding-bottom: 10px;\n\n}\n\n/* Kart içindeki etiketleri (Tarih, Arpa vb.) oluşturur */\n\n.hububat-tablo td::before {\n\ncontent: attr(data-label);\n\nposition: absolute;\n\nleft: 15px;\n\nwidth: 45%;\n\ntext-align: left;\n\nfont-weight: 600;\n\ncolor: #7f8c8d;\n\nfont-size: 13px;\n\n}\n\n.fiyat {\n\nfont-size: 16px;\n\n}\n\n}"
+      "content": "Tarih\n\nE.Buğday\n\nM.Buğday\n\nArpa\n\nMısır\n\n26 Haziran 2026\n\n14,643\n\n15,073\n\n11,455\n\n13,039\n\nKonya Ticaret Borsası (KTB) verilerine göre hububat piyasasındaki güncel fiyat hareketleri (26 Haziran 2026)\n\nGaziantep Ticaret Borsası (GTB) Hububat Fiyatları – 26 Haziran 2026\n\nTarih\n\nE.Buğ\n\nM.Buğ\n\nArpa\n\nMısır\n\n26 Haziran 2026\n\n14,643\n\n15,073\n\n11,455\n\n13,039\n\n25 Haziran 2026\n\n14,797\n\n15,550\n\n11,320\n\n13,250\n\n24 Haziran 2026\n\n14,668\n\n15,271\n\n11,538\n\n13,162\n\n23 Haziran 2026\n\n14,691\n\n15,215\n\n11,940\n\n13,250\n\n22 Haziran 2026\n\n14,927\n\n15,550\n\n11,584\n\n13,015\n\n19 Haziran 2026\n\n14,768\n\n15,683\n\n11,655\n\n12,640\n\n7 Mayıs 2026\n\n592,73\n\n609,61\n\n30 Nisan 2026\n\n597,73\n\n603,93\n\n24 Nisan 2026\n\n595,36\n\n600,71\n\n16 Nisan 2026\n\n590,90\n\n595,61\n\n9 Nisan 2026\n\n595,39\n\n590,16\n\n2 Nisan 2026\n\n607,17\n\n595,71\n\n26 Mart 2026\n\n612,10\n\n591,00\n\n12 Mart 2026\n\n607,30\n\n587,71\n\n5 Mart 2026\n\n604,45\n\n572,56\n\n26 Şubat 2026\n\n601,86\n\n573,27\n\n12 Şubat 2026\n\n606,24\n\n571,50\n\n5 Şubat 2026\n\n584,20\n\n565,44\n\n29 Ocak 2026\n\n579,64\n\n566,87\n\n22 Ocak 2026\n\n588,46\n\n562,20\n\n15 Ocak 2026\n\n601,24\n\n566,79\n\n8 Ocak 2026\n\n587,19\n\n552,57\n\n/* Kart/Stack Tasarımı */\n\n.price-cards {\n\ndisplay: flex;\n\nflex-direction: column;\n\ngap: 15px; /* Kartlar arası boşluk */\n\n}\n\n.price-card {\n\nborder: 1px solid #ccc;\n\nborder-radius: 8px;\n\npadding: 12px 16px;\n\nbackground-color: #fafafa;\n\nbox-shadow: 0 2px 5px rgba(0,0,0,0.05);\n\n}\n\n.card-row {\n\nmargin-bottom: 6px;\n\nfont-size: 1em;\n\n}\n\n.card-row strong {\n\ncolor: #2a6ebb; /* Başlık rengi */\n\n}\n\n.et-fiyat-baslik {\n\nfont-size: 18px;\n\nfont-weight: 600;\n\nmargin-bottom: 12px;\n\n}\n\n.et-fiyatlari {\n\nwidth: 100%;\n\nborder-collapse: collapse;\n\nfont-size: 15px;\n\n}\n\n.et-fiyatlari thead {\n\nbackground: rgba(0,0,0,0.04);\n\n}\n\n.et-fiyatlari th,\n\n.et-fiyatlari td {\n\npadding: 10px;\n\nborder-bottom: 1px solid #eee;\n\ntext-align: left;\n\n}\n\n.fiyat {\n\nfont-weight: 700;\n\ncolor: #1a7f37;\n\n}\n\n/* Mobil Kart Tasarımı */\n\n@media (max-width: 768px) {\n\n.et-fiyatlari thead {\n\ndisplay: none;\n\n}"
     },
     {
       "title": "Kırmızı et piyasasında \"fiyatlama krizi\": Besici kesim fiyatlarındaki düşüşe isyan ediyor!",
@@ -328,8 +328,5 @@
   "defaultBorsa": "5ED10",
   "defaultCity": "CANAKKALE",
   "note": "Fiyatlar TOBB ticaret borsasından (borsa seçilebilir). Kanola manuel (Trakya 2025).",
-  "inputsNote": "Mazot: akaryakıt bayi fiyatı, günlük (şehir seçilebilir). Gübre: manuel (yaklaşık).",
-  "errors": [
-    "fx: fetch failed"
-  ]
+  "inputsNote": "Mazot: akaryakıt bayi fiyatı, günlük (şehir seçilebilir). Gübre: manuel (yaklaşık)."
 }
