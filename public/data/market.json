@@ -1,43 +1,51 @@
 {
-  "updatedAt": "2026-06-28T09:42:20.013Z",
+  "updatedAt": "2026-06-28T11:25:04.059Z",
   "fx": [
     {
       "code": "USD",
       "name": "Dolar",
-      "buy": 465911,
-      "sell": 4666,
-      "change": 12
+      "buy": 46.59,
+      "sell": 46.66,
+      "change": 0.12
     },
     {
       "code": "EUR",
       "name": "Euro",
-      "buy": 530727,
-      "sell": 531528,
-      "change": 9
+      "buy": 53.07,
+      "sell": 53.15,
+      "change": 0.09
     },
     {
       "code": "GRA",
       "name": "Gram Altın",
-      "buy": 612921,
-      "sell": 613013,
-      "change": 167
+      "buy": 6129.21,
+      "sell": 6130.13,
+      "change": 1.67
     },
     {
       "code": "CEYREKALTIN",
       "name": "Çeyrek Altın",
-      "buy": 981761,
-      "sell": 1004218,
-      "change": 165
+      "buy": 9817.61,
+      "sell": 10042.18,
+      "change": 1.65
     },
     {
       "code": "CUMHURIYETALTINI",
       "name": "Cumhuriyet Altını",
       "buy": 40643,
       "sell": 41253,
-      "change": 147
+      "change": 1.47
     }
   ],
   "news": [
+    {
+      "title": "İDMA İstanbul 2026'da 1 Milyar Dolarlık İş Birliği Hedefi",
+      "url": "https://www.tarimpusulasi.com/haber/idma-istanbul-2026da-1-milyar-dolarlik-is-birligi-hedefi-46920",
+      "source": "Tarım Pusulası",
+      "date": "2026-06-28",
+      "summary": "İstanbul Fuar Merkezi'nde kapılarını açan İDMA İstanbul 2026, tahıl ve gıda işleme teknolojileri sektörünün küresel buluşma noktası oldu. 120'den fazla ülkeden 10 binin üzerinde profesyonelin katılması beklenen fuarda, 400'ü aşkın marka yer alırken yaklaşık 1 milyar dolarlık ticaret hacmi hedefleniy",
+      "content": "İSTANBUL - İstanbul Fuar Merkezi'nde 25-27 Haziran tarihleri arasında düzenlenen İDMA İstanbul 2026, un, yem, mısır, irmik, pirinç, bulgur, bakliyat, makarna ve bisküvi teknolojileri başta olmak üzere tahıl ve gıda işleme endüstrisinin tüm paydaşlarını aynı çatı altında buluşturdu. Bu yıl fuarda yaklaşık 1 milyar dolarlık iş birliği hacmine ulaşılması hedefleniyor.\n\nBu yıl fuarda yaklaşık 1 milyar dolarlık iş birliği hacmine ulaşılması hedeflenirken, organizasyon küresel gıda güvenliği, sürdürülebilir üretim ve ileri değirmencilik teknolojileri açısından sektörün en önemli uluslararası platformlarından biri olarak öne çıktı.\n\nAhmet Güldal: \"Sektör 23 yılda 34 milyar dolar ihracat sağladı\"\n\nToprak Mahsulleri Ofisi Yönetim Kurulu Başkanı ve Genel Müdürü Ahmet Güldal, açılış konuşmasında hasat sezonunun devam ettiğini belirterek, tahılı katma değere dönüştüren sanayi sektörünün Türkiye ekonomisine büyük katkı sunduğunu söyledi.\n\nGüldal, sektörün son 23 yılda yaklaşık 34 milyar dolarlık ihracat geliri oluşturduğunu belirterek, üreticiler, sanayiciler ve ihracatçılara ekonomiye sağladıkları katkı nedeniyle teşekkür etti.\n\n\"İDMA sektörün ortak aklını buluşturuyor\"\n\nHAGE Grup Yönetim Kurulu Başkanı Muhammet Ali Kalkan, İDMA'nın artık yalnızca bir fuar değil, küresel tahıl ekonomisinin en önemli buluşma platformlarından biri haline geldiğini söyledi.\n\nKalkan, fuarın yeni yatırımların, uluslararası iş birliklerinin ve teknolojik dönüşümün şekillendiği önemli bir merkez olduğunu belirterek, sektörün geleceğinin burada oluşturulan ortak vizyonla şekillendiğini ifade etti.\n\n120 Ülkeden 10 Bini Aşkın Profesyonel\n\nİDMA İstanbul 2026'da;\n\n400'ün üzerinde marka\n\n120'den fazla ülkeden\n\n10 binin üzerinde profesyonel ziyaretçi\n\n60'tan fazla uluslararası delegasyon\n\nbir araya geldi.\n\nFuar boyunca binlerce B2B görüşmesi gerçekleştirilirken yeni ihracat bağlantıları kurulması ve uluslararası ticaret ağlarının genişletilmesi hedefleniyor.\n\nGıda Güvenliği ve Yapay Zekâ Gündemde\n\nİDMA Global Grain & Milling Forum kapsamında;\n\nKüresel gıda güvenliği\n\nTahıl ticareti\n\nYeni nesil değirmencilik teknolojileri\n\nYapay zekâ ve otomasyon\n\nDijitalleşme\n\nİzlenebilirlik\n\nEnerji verimliliği\n\nSürdürülebilir üretim\n\nYem teknolojileri\n\nTedarik zinciri dayanıklılığı\n\nbaşlıklarında sektörün geleceğine yön verecek oturumlar düzenlendi.\n\nYükselen Pazarlarda Yeni Fırsatlar\n\nUluslararası Tahıl Konseyi (IGC) verilerine göre dünya un ticaretinde yeniden büyüme beklenirken özellikle Afrika, Orta Doğu ve Güneydoğu Asya'da gıda güvenliği yatırımları hız kazanıyor.\n\nKentleşme, değişen tüketici talepleri ve stratejik gıda yatırımları ise ileri işleme teknolojilerine olan ihtiyacı artırıyor.\n\nDünya Genelinde 570 Milyon Ton Buğday İşleniyor\n\nDünya genelinde faaliyet gösteren 12 binden fazla endüstriyel un değirmeni, yılda 570 milyon tonun üzerinde buğday işliyor.\n\nSektörde artık yalnızca üretim kapasitesi değil; enerji verimliliği, dijital proses yönetimi, sürdürülebilirlik, izlenebilirlik ve güçlü tedarik zincirleri de rekabetin belirleyici unsurları arasında yer alıyor."
+    },
     {
       "title": "Türkiye Su Ürünlerinde Rekor Kırdı! Üretim 1 Milyon Tonu Aştı",
       "url": "https://www.tarimpusulasi.com/haber/turkiye-su-urunlerinde-rekor-kirdi-uretim-1-milyon-tonu-asti-46919",
@@ -125,14 +133,6 @@
       "date": "2026-06-26",
       "summary": "Tarım ve Orman Bakanlığı, bitki koruma ürünlerinde izlenebilirliği sağlamak amacıyla başlattığı B Reçete sistemini 1 Temmuz'dan itibaren tüm Türkiye'de uygulamaya alıyor. Bakan Yumaklı, uygulamanın pestisit kullanımında yeni bir dönem başlatacağını vurguladı.",
       "content": "Haber Merkezi / Tarım ve Orman Bakanlığı, bitkisel üretimde sürdürülebilirliği sağlamak, insan ve çevre sağlığını korumak amacıyla hayata geçirdiği \"B Reçete\" sistemini tüm Türkiye’ye yaygınlaştırıyor. Bakan İbrahim Yumaklı, 1 Temmuz itibarıyla 81 ilde eş zamanlı olarak başlayacak olan sistemin, pestisit kullanımında \"tüm duvarları yıkacak\" bir devrim niteliği taşıdığını vurguladı.\n\n\"Güvenilir Gıda İçin İzlenebilirlik Şart\"\n\nTarım ve Orman Bakanı İbrahim Yumaklı, 81 ilin tarım ve orman il müdürleri ile gerçekleştirdiği çevrimiçi toplantıda, sistemin detaylarını paylaştı. Beşeri ilaçlardaki reçeteleme mantığına benzer bir yapının tarıma entegre edildiğini belirten Bakan Yumaklı, artık her ilacın kimin tarafından, hangi amaçla, ne kadarlık bir alanda ve hangi dozda kullanılacağının kayıt altına alınacağını ifade etti.\n\nYeni sistemle gelen temel değişiklikler şunlar:\n\nTam İzlenebilirlik: İlacı yazan, ilacı alan ve kullanan kişi sistem üzerinden net bir şekilde görülebilecek.\n\nSadece Üreticiye Erişim: Bitkisel üretim yapan üreticiler, kayıtlı oldukları tarım alanı ve ürün miktarına göre, bilimsel kriterler çerçevesinde onaylanmış dozda pestisit alabilecek.\n\nHatalı Kullanıma Son: Gereğinden fazla veya yanlış ilaç kullanımının önüne geçilerek, pestisit kaynaklı riskler minimize edilecek.\n\n\"Pestisit Kaynaklı Problemleri Çözmeye Aday\"\n\nMersin, Samsun, Ankara ve Kırklareli’nde pilot uygulaması başarıyla gerçekleştirilen sistem, 1 Temmuz’dan itibaren ülke geneline yayılıyor. Bakan Yumaklı, sistemin sadece bir teknik değişiklik değil, bir vizyon dönüşümü olduğunu belirterek şunları kaydetti:\n\n\"Bu bir devrim. Türkiye'de pestisit anlamında bütün duvarları yıkacak, bütün problemleri çözmeye aday bir sistem. Bizler de vatandaşız, aynı gıdaları tüketiyoruz. Bu meseleye sadece bir iş olarak değil, gıda güvenliğimizin teminatı olarak bakıyoruz.\"\n\nDezenformasyon ve Provokasyonlara Geçit Yok\n\nUygulamanın yaygınlaşmasıyla birlikte sistemden menfaatleri zedelenen kesimlerin olabileceğine işaret eden Bakan Yumaklı, dezenformasyon ve provokasyonlara karşı kararlı bir duruş sergileyeceklerini belirtti. Bakanlık olarak vatandaşın güvenilir gıdaya ulaşmasının birincil öncelikleri olduğunu hatırlatan Yumaklı, il müdürlerine kesintisiz erişim ve sıkı denetim konusunda talimat verdi.\n\nTarımda Dinamik Dönüşüm\n\nİklim değişikliği ve buna bağlı olarak artan zararlı türleri ile hastalıkların, tarımsal üretimi daha hassas ve dikkatli olunması gereken bir sürece soktuğunu belirten Bakanlık, B Reçete sistemi ile bu dinamik süreçlere karşı daha hızlı, şeffaf ve bilimsel veriye dayalı bir yönetim modeli hedefliyor."
-    },
-    {
-      "title": "TMO: 2026 Hububat Rekoltesi Beklentilerin Üzerine Çıkabilir",
-      "url": "https://www.tarimpusulasi.com/haber/tmo-2026-hububat-rekoltesi-beklentilerin-uzerine-cikabilir-46915",
-      "source": "Tarım Pusulası",
-      "date": "2026-06-25",
-      "summary": "Toprak Mahsulleri Ofisi (TMO) Genel Müdürü Ahmet Güldal, İDMA İstanbul 2026 Fuarı'nda yaptığı değerlendirmede, sahadan gelen veriler ve iklim koşullarının Türkiye'nin 2026 yılında son yılların en yüksek hububat üretim dönemlerinden birine işaret ettiğini söyledi. Güldal, hasadın buğdayda yüzde 14, a",
-      "content": "İSTANBUL — Toprak Mahsulleri Ofisi (TMO) Yönetim Kurulu Başkanı ve Genel Müdürü Ahmet Güldal, İDMA İstanbul 2026 Fuarı'nın açılış programında yaptığı konuşmada, 2026 üretim sezonunda Türkiye'nin son yılların en yüksek hububat üretim dönemlerinden birini yaşayabileceğini söyledi.\n\nGüldal, sahadan elde edilen veriler ile mevcut iklim koşullarının üretim beklentilerini güçlendirdiğini belirterek, 2026 yılı buğday rekoltesinin 22 milyon 750 bin ton, arpa rekoltesinin ise 9 milyon ton olarak tahmin edildiğini, mevcut gelişmelerin üretimin bu rakamların da üzerine çıkabileceğine işaret ettiğini ifade etti.\n\nHasatta İlk Veriler Olumlu\n\nTMO Genel Müdürü Ahmet Güldal, hasadın ülke genelinde buğdayda yüzde 14, arpada ise yüzde 13 seviyesine ulaştığını belirtti.\n\nHasadı tamamlanan bölgelerden gelen ilk verilere göre ortalama verimin 400 kilogramın üzerinde gerçekleştiğini aktaran Güldal, üreticilerin randevu alma sürecinde herhangi bir sorun yaşamadığını, randevu gerçekleşme oranının yüzde 80'in üzerine çıktığını ve ürün bedeli ödemelerine başlandığını bildirdi.\n\nAlım Fiyatları Hasat Başında Açıklandı\n\nGüldal, TMO'nun 2026 yılı alım fiyatlarını 2 Haziran tarihinde açıkladığını hatırlattı.\n\nBuna göre;\n\nEkmeklik buğday: 16.500 TL/ton\n\nMakarnalık buğday: 16.500 TL/ton\n\nArpa: 12.750 TL/ton\n\nolarak belirlendi.\n\nMakarnalık buğdayda kaliteyi teşvik etmek amacıyla bu yıl da ekmeklik ve makarnalık buğday alım fiyatlarının aynı seviyede tutulduğunu ifade etti.\n\n20 Milyon Tonun Üzerinde Depolama Hazırlığı\n\n2026 alım sezonu kapsamında ülke genelinde 600'ün üzerinde alım merkezi planlandığını belirten Güldal, lisanslı depolarda yaklaşık 10 milyon ton depolama kapasitesi bulunduğunu söyledi.\n\nTMO'nun kendi depoları, kiralık depoları ve açık yığın sahalarıyla birlikte toplam depolama kapasitesinin 20 milyon tonun üzerine çıkarıldığını ifade etti.\n\nHububat Sanayisinden 21 Milyar Dolarlık Net Katkı\n\nGüldal, hububata dayalı sanayinin Türkiye ekonomisine sağladığı katkıya da dikkat çekti.\n\nVerdiği bilgilere göre Türkiye;\n\nDünya un ihracatında 1'inci\n\nMakarna ihracatında ise 2'nci sırada bulunuyor.\n\n2002 yılından bu yana;\n\nBuğday ve mamullerinde 54 milyar dolar ihracat\n\n33 milyar dolar ithalat\n\n21 milyar dolar net dış ticaret katkısı\n\nelde edildi.\n\nAynı dönemde mısır ticaretinde ise 10 milyar dolarlık net dış ticaret katkısı sağlandı.\n\nKüresel Piyasalar Yakından İzleniyor\n\nAhmet Güldal, yeni sezonda dünya genelinde buğday, arpa ve mısır üretiminde düşüş beklendiğini ancak yüksek stok seviyeleri nedeniyle arz yönlü önemli bir sorun öngörülmediğini ifade etti.\n\nİklim değişikliği, jeopolitik gelişmeler, enerji maliyetleri ve ticaret koridorlarındaki belirsizliklerin küresel hububat piyasalarını etkilemeye devam ettiğini belirten Güldal, TMO'nun tüm gelişmeleri yakından takip ettiğini söyledi.\n\nKonuşmasının sonunda TMO'nun güçlü stok yapısı ve yaygın alım organizasyonuyla üreticilerin yanında olmaya devam edeceğini vurgulayan Güldal, kurumun üretici, sanayici ve tüketici arasındaki piyasa dengesini gözeterek faaliyetlerini sürdürdüğünü ifade etti.\n\nRakam Analizi: TMO'nun açıkladığı verilere göre 2026 yılı için öngörülen 22,75 milyon ton buğday ve 9 milyon ton arpa üretimi birlikte değerlendirildiğinde toplam üretim beklentisi 31,75 milyon tona ulaşıyor. Ayrıca TMO'nun 20 milyon tonun üzerindeki depolama hazırlığı, beklenen yüksek üretim sezonuna yönelik altyapı hazırlığını ortaya koyuyor.\n\nTARIM PUSULASI HABER MERKEZİ"
     }
   ],
   "commoditiesByBorsa": {
