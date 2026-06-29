@@ -1,32 +1,32 @@
 {
-  "updatedAt": "2026-06-29T22:32:01.684Z",
+  "updatedAt": "2026-06-29T23:35:54.824Z",
   "fx": [
     {
       "code": "USD",
       "name": "Dolar",
-      "buy": 466389,
-      "sell": 466512,
-      "change": 0
+      "buy": 46.64,
+      "sell": 46.65,
+      "change": -0.01
     },
     {
       "code": "EUR",
       "name": "Euro",
-      "buy": 532833,
-      "sell": 533478,
-      "change": -1
+      "buy": 53.28,
+      "sell": 53.36,
+      "change": 0
     },
     {
       "code": "GRA",
       "name": "Gram Altın",
-      "buy": 602034,
-      "sell": 60213,
-      "change": -4
+      "buy": 6026.07,
+      "sell": 6026.85,
+      "change": 0.05
     },
     {
       "code": "CEYREKALTIN",
       "name": "Çeyrek Altın",
-      "buy": 972225,
-      "sell": 994684,
+      "buy": 9722.25,
+      "sell": 9946.84,
       "change": 0
     },
     {
@@ -34,7 +34,7 @@
       "name": "Cumhuriyet Altını",
       "buy": 40418,
       "sell": 41029,
-      "change": -13
+      "change": -1.3
     }
   ],
   "news": [
@@ -53,6 +53,14 @@
       "date": "2026-06-29",
       "summary": "Rusya merkezli analiz kuruluşu Rusagrotrans, 2025-2026 sezonunda ülkenin buğday ihracatının geçen sezona göre yaklaşık %13 artarak 47,7 milyon tona ulaşabileceğini açıkladı. Haziran ayı ihracatında da geçen yılın aynı dönemine göre belirgin artış beklenirken, küresel buğday piyasasında ise yeni hasa",
       "content": "MOSKOVA — Rusya merkezli Rusagrotrans Analitik Merkezi, 2025-2026 sezonunda ülkenin buğday ihracatının önemli ölçüde artmasını beklediğini açıkladı.\n\nKuruluşun yayımladığı değerlendirmeye göre Rusya'nın buğday ihracatının sezon sonunda 47,7 milyon tona ulaşacağı öngörülüyor. Bu rakam, bir önceki sezonda gerçekleşen 42,2 milyon tonluk ihracatın yaklaşık 5,5 milyon ton üzerinde bulunuyor. Böylece ihracatta yıllık bazda yaklaşık %13'lük artış bekleniyor.\n\nAnalistler, Haziran 2026 döneminde Rusya'nın buğday ihracatının yaklaşık 2,26 milyon ton olacağını tahmin ediyor. Gerçekleşen sevkiyatlar incelendiğinde, 1-22 Haziran tarihleri arasında ihracatın 1,55 milyon ton seviyesine ulaştığı bildirildi.\n\nKarşılaştırmalı verilere göre, Haziran 2025 ayında Rusya'nın buğday ihracatı 1,36 milyon ton olarak gerçekleşmişti. Buna göre Haziran 2026 tahmini, geçen yılın aynı ayına göre yaklaşık 900 bin ton daha yüksek seviyeye işaret ediyor.\n\nKüresel piyasalarda farklı fiyat hareketleri\n\nRusagrotrans'ın değerlendirmesine göre 17-23 Haziran döneminde dünya buğday piyasalarında ülkeler bazında farklı fiyat eğilimleri görüldü.\n\nRusya ve Ukrayna'da yeni hasat döneminin yaklaşmasının etkisiyle buğday fiyatları yaklaşık 1 ABD doları/ton geriledi.\n\nABD'de ise ekili alanların durumunun piyasa beklentilerinin altında kalması nedeniyle fiyatlar yaklaşık 5 ABD doları/ton yükseldi.\n\nFransa ve Almanya'da kurak hava koşullarının etkisiyle buğday fiyatları sırasıyla 2 ABD doları/ton ve 1 ABD doları/ton artış gösterdi.\n\nAnalistler, yeni hasat süreci, hava koşulları ve üretim beklentilerinin önümüzdeki dönemde uluslararası buğday fiyatlarının yönü üzerinde belirleyici olmaya devam edeceğini değerlendiriyor.\n\nTARIM PUSULASI HABER MERKEZİ"
+    },
+    {
+      "title": "Güncel hububat fiyatları – Buğday, arpa ve mısır fiyatları 29 Haziran 2026",
+      "url": "https://www.tarimdanhaber.com/hububat-fiyatlari",
+      "source": "Tarımdan Haber",
+      "date": "2026-06-29",
+      "summary": "Türkiye genelindeki 15 büyük ticaret borsasının kapanış verileriyle hazırlanan günlük hububat ve tahıl fiyatlarını bu sayfadan takip edebilirsiniz. 29 Haziran güncel hububat fiyatları...",
+      "content": "Haber Merkezi / Hububat fiyatları 29 Haziran 2026'da nasıl bir seyir izledi? Ticaret Borsalarında gerçekleşen işlemlerde ekmeklik buğday, makarnalık buğday, arpa ve mısır fiyatları sakin bir seyir izlerken bir önceki haftaya göre fiyatları biraz aşağı yönlü başladı. Bölgelere göre 29 Haziran 2026 hububat fiyatları şu şekilde gerçekleşti.\n\nKonya Ticaret Borsası Hububat Fiyatları - 29 Haziran 2026\n\nMakarnalık Buğday: 15,01 TL/ton\n\nKırmızı Sert Ekmeklik Buğday: 14,68 TL/ton\n\nBeyaz Sert Ekmeklik Buğday: 15,38 TL/ton\n\nArpa: 11,39 TL/ton\n\nMısır (18 ve altı): 12,86 TL/ton\n\nMısır (18 Üstü):\n\nGaziantep Ticaret Borsası (GTB) Hububat Fiyatları – 29 Haziran 2026\n\nSert Buğday (Güneydoğu - 2. Grup): 15,500 TL - 15,700 TL\n\nSert Buğday (Güneydoğu - 3. Grup): 15,200 TL - 15,400 TL\n\nEkmeklik Buğday ( 1. Grup): 15,600 TL - 15,800 TL\n\nEkmeklik Buğday (2. Grup): 15,100 TL - 15,300 TL\n\nEkmeklik Buğday (3. Grup): 14,800 TL - 15,000 TL\n\nÇakır Arpa: 11,800 TL - 12,000 TL\n\nKırmızı Kabuklu Mercimek: 38,000 TL - 40,000 TL\n\nEdirne Ticaret Borsası Hububat Fiyatları 26 Haziran 2026\n\nEskişehir Ticaret Borsası Hububat Fiyatları 26 Haziran 2026\n\nPolatlı Ticaret Borsası Hububat Fiyatları 26 Haziran 2026\n\nSamsun Ticaret Borsası Hububat Fiyatları 26 Haziran 2026\n\nHububat Piyasasında Günlük Fiyat Değişimleri (Haziran 2026)\n\nAşağıdaki fiyatlar, Türkiye genelindeki 15 büyük ticaret borsasının günlük kapanış verileri esas alınarak hesaplanmış ortalama değerlerdir.\n\n26 Haziran 2026:\n\nE. Buğday: 14.643 TL | M. Buğday: 15.073 TL | Arpa: 11.455 TL | Mısır: 13.039 TL\n\n25 Haziran 2026:\n\nE. Buğday: 14.790 TL | M. Buğday: 15.550 TL | Arpa: 11.320 TL | Mısır: 13.250 TL\n\n24 Haziran 2026:\n\nE. Buğday: 14.660 TL | M. Buğday: 15.270 TL | Arpa: 11.530 TL | Mısır: 13.160 TL\n\n23 Haziran 2026:\n\nE. Buğday: 14.690 TL | M. Buğday: 15.210 TL | Arpa: 11.940 TL | Mısır: 13.250 TL\n\n22 Haziran 2026:\n\nE. Buğday: 14.920 TL | M. Buğday: 15.550 TL | Arpa: 11.580 TL | Mısır: 13.010 TL\n\n19 Haziran 2026:\n\nE. Buğday: 14.760 TL | M. Buğday: 15.680 TL | Arpa: 11.650 TL | Mısır: 12,640 TL\n\n18 Haziran 2026:\n\nE. Buğday: 14.802 TL | M. Buğday: 15.626 TL | Arpa: 11.909 TL | Mısır: 13,401 TL\n\n17 Haziran 2026:\n\nE. Buğday: 14.976 TL | M. Buğday: 15.697 TL | Arpa: 12.159 TL | Mısır: 13,474 TL"
     },
     {
       "title": "Bakan Yumaklı: 160 bin damızlık küçükbaş dağıtılacak",
@@ -125,14 +133,6 @@
       "date": "2026-06-28",
       "summary": "İcradan satılacak Soma B Termik Santrali için 350 milyon dolar değer biçildi. Ancak satıştan elde edilecek gelir 20 milyar TL’yi aşan kömür borcunun tamamını karşılamayacak; TKİ’nin Konya Şeker’den ek talepte bulunması bekleniyor.",
       "content": "Haber Merkezi / Konya Şeker’in Türkiye Kömür İşletmeleri’ne (TKİ) olan 20 milyar TL’yi aşan borcu nedeniyle icralık olan Soma B Termik Santrali’nin satış takvimi belli oldu. ANKA Haber Ajansı’ndan Olcay Aydilek’in aktardığı bilgilere göre, santral Eylül ayının ilk haftasında icra yoluyla satışa çıkarılacak.\n\n2015 yılında 685,5 milyon dolara satın alınan Soma B Termik Santrali, Konya Şeker’in TKİ’ye olan borçları nedeniyle bugün yeniden mülkiyet değişikliğine hazırlanıyor. Enerji ve Tabii Kaynaklar Bakanlığı ile yapılan uzun görüşmelerden sonuç alınamaması üzerine başlatılan icra süreci, satış aşamasına ulaştı.\n\n350 Milyon Dolar Değer Biçildi\n\nİcra Dairesi tarafından görevlendirilen bilirkişi heyeti, yaptığı incelemeler neticesinde Soma B Termik Santrali’ne 350 milyon dolar değer biçti. Eylül ayının ilk haftasında gerçekleştirilmesi planlanan satıştan elde edilecek gelirin tamamı, TKİ’nin alacaklarına mahsuben kuruma aktarılacak. Ancak kaynaklar, bu satışın TKİ'nin alacağının tamamını karşılamayabileceğini ve kurumun kalan bakiye için Konya Şeker'den yeni talepte bulunmasının beklendiğini belirtiyor.\n\nSektörde \"Sürpriz\" İsim: Yeni Bir Alıcı Markajda\n\nDaha önce Akçadağ ve ODAŞ gibi firmaların ilgilendiği bilinen santral için şimdi gözler yeni taliplere çevrildi. Enerji Bakanlığı kaynakları, sektörden büyük bir şirketin daha santrali yakın markaja aldığını ifade ediyor.\n\nKaynaklar, sürecin sadece Soma B ile sınırlı kalmayabileceğine de dikkat çekiyor: \"Soma icradan satılacak; aynı zamanda Sivas Kangal Termik Santrali de pazarlık yoluyla bir alıcıya devredilebilir. Konya Şeker, böylece enerji sektöründen çekilme sürecini tamamlayabilir.\"\n\nSüreç Nasıl Buraya Geldi?\n\nKonya Şeker yönetimi santrali işletememiş, elektrik üretimi için kömür tedarik edilen TKİ’ye de borçlar ödenmediği için mali kriz derinleşmişti. TKİ'ye borçlar, faizlerle birlikte 20 milyar TL sınırını aşarken, borçlar nedeniyle kömür tedarikinin ve elektrik üretiminin durma noktasına gelmesi üzerine devreye giren Enerji ve Tabii Kaynaklar Bakanlığı, yönetimle yürütülen müzakerelerden sonuç alamayınca hukuki süreç başlatılmıştı."
-    },
-    {
-      "title": "Kahramanmaraş’ta Tarım İlçe Müdürlüğünde şiddet iddiası: Sendikal tercih mi, sistematik bobbing mi?",
-      "url": "https://www.tarimdanhaber.com/kahramanmarasta-tarim-ilce-mudurlugunde-siddet-iddiasi-sendikal-tercih-mi-sistematik-bobbing-mi",
-      "source": "Tarımdan Haber",
-      "date": "2026-06-28",
-      "summary": "Kahramanmaraş Dulkadiroğlu İlçe Tarım Müdürlüğü’nde görevli ziraat mühendisi ve Mühendis Tek-Sen Tarım Orman Sendikası İl Temsilcisi E.Ö.’nün, tohum dağıtım programı sırasında kurum yöneticileri tarafından fiziksel şiddete uğradığı ve tehdit edildiği iddia edildi. Olayla ilgili darp raporu alınırken",
-      "content": "Haber Merkezi / Kahramanmaraş’ta bir kamu kurumunda yaşanan şiddet olayı, sendikal haklar ve çalışma barışı tartışmalarını yeniden alevlendirdi. Dulkadiroğlu İlçe Tarım Müdürlüğü’nde görevli E.Ö., polise verdiği ifadede, bir tohum dağıtım programı esnasında üstlerinin fiziksel şiddetine, hakaret ve tehditlerine maruz kaldığını öne sürerek şikayetçi oldu.\n\n\"Yeter Artık, Çiftçiler Beni Parçalayacak\" Dedi, Şiddet Gördü\n\nOlayın başlangıcını anlatan E.Ö., çiftçilerle kurum arasındaki iletişimi sağladığını ve programın yoğun baskı altında geçtiğini belirtti. Eski Bakan Vahit Kirişci’nin ayrılmasının ardından çiftçilerin tepkisiyle karşılaştığını ifade eden E.Ö., dağıtım tırının önünde duran Şube Müdürü D.Ö.’ye, \"Müdürüm yeter artık, tohumları dağıtalım. Çiftçiler beni parçalayacak\" dediğini belirtti.\n\nİddiaya göre, bu serzenişin ardından gelen Şube Müdürü H.Ö. tarafından yakasından tutularak hakarete uğrayan E.Ö., İl Müdür Yardımcısı O.Y.’nin de hakaret ve tehditlerine maruz kaldı. E.Ö., O.Y.’nin kendisine yumruk ve tekme attığını, yere düştüğünde de tekmelenmeye devam edildiğini ileri sürdü.\n\nAdli Rapor Şiddeti Doğruladı\n\nOlayın ardından hastaneye giderek darp raporu alan E.Ö.’nün vücudunun çeşitli bölgelerinde morluklar, sıyrıklar ve şişlikler tespit edildi. Genel adli muayene raporuna ve dosyaya eklenen fotoğraflara yansıyan bulgular, fiziksel saldırı iddialarını destekler nitelikte. Ayrıca olay anına dair bir memur ve bir çiftçinin tanık ifadeleri soruşturma dosyasına dahil edildi.\n\nMühendis Tek-Sen: \"Sendikal Tercih Baskı Gerekçesi Olamaz\"\n\nKonuyla ilgili Mühendis Tek-Sen Tarım Orman Sendikası’ndan yapılan yazılı açıklamada, olayın basit bir tartışmanın ötesinde olduğu vurgulandı. Açıklamada şu ifadelere yer verildi:\n\n\"Temsilcimizin yaşadığı olay, sendikal tercihi nedeniyle uzun süredir devam eden baskı, dışlama ve yıldırma sürecinin son halkasıdır. Bir kamu çalışanının sendika değiştirmesi, hiçbir şekilde mobbing ya da şiddet gerekçesi olamaz. Makam ve yöneticilik yetkisi, çalışanları sindirme aracı olarak kullanılamaz.\"\n\nSoruşturma Çağrısı ve \"Güvence\" Talebi\n\nSendika, sürecin şeffaf ve tarafsız yürütülmesi gerektiğinin altını çizerek şunları kaydetti:\n\nSistematik İnceleme: Sendika değişikliği sonrası yaşanan mobbing iddiaları tüm yönleriyle incelenmeli.\n\nİdari ve Adli İşlem: Sorumlular hakkında gecikmeksizin işlem yapılmalı.\n\nKoruma Talebi: E.Ö.’nün yeni bir sürgün veya idari yaptırımla karşı karşıya kalmaması için yetkili makamlar önlem almalı.\n\nSendika, temsilcilerinin hukuki ve sendikal haklarını sonuna kadar savunacaklarını belirterek, sürecin takipçisi olacaklarını açıkladı. Kamuoyunun gözü şimdi, idari ve adli soruşturmanın sonucuna çevrilmiş durumda."
     }
   ],
   "commoditiesByBorsa": {
