@@ -1,43 +1,51 @@
 {
-  "updatedAt": "2026-06-29T19:26:04.857Z",
+  "updatedAt": "2026-06-29T21:08:56.296Z",
   "fx": [
     {
       "code": "USD",
       "name": "Dolar",
-      "buy": 46629,
-      "sell": 466431,
-      "change": 2
+      "buy": 46.61,
+      "sell": 46.68,
+      "change": -0.01
     },
     {
       "code": "EUR",
       "name": "Euro",
-      "buy": 532922,
-      "sell": 533247,
-      "change": 37
+      "buy": 53.25,
+      "sell": 53.39,
+      "change": -0.01
     },
     {
       "code": "GRA",
       "name": "Gram Altın",
-      "buy": 601472,
-      "sell": 601568,
-      "change": -187
+      "buy": 6020.36,
+      "sell": 6021.22,
+      "change": -0.04
     },
     {
       "code": "CEYREKALTIN",
       "name": "Çeyrek Altın",
-      "buy": 972225,
-      "sell": 994684,
-      "change": -156
+      "buy": 9722.25,
+      "sell": 9946.84,
+      "change": 0
     },
     {
       "code": "CUMHURIYETALTINI",
       "name": "Cumhuriyet Altını",
       "buy": 40418,
       "sell": 41029,
-      "change": -13
+      "change": -1.3
     }
   ],
   "news": [
+    {
+      "title": "Tarımda 'mutlak butlan' davası! Pancar kooperatifi seçimleri yargıya taşındı",
+      "url": "https://www.tarimdanhaber.com/tarimda-mutlak-butlan-davasi-pancar-kooperatifi-secimleri-yargiya-tasindi",
+      "source": "Tarımdan Haber",
+      "date": "2026-06-29",
+      "summary": "Türkiye genel siyasetinde gündem olan \"mutlak butlan\" tartışması bu kez Akşehir-Ilgın Pancar Ekicileri Kooperatifi seçimlerine taşındı. 23 Mayıs'taki seçimde başkan adayı tarafından, uzak bölgelerdeki çiftçilerin sandığa katılımı için mazot giderlerinin karşılanmasının seçim iradesini sakatladığı id",
+      "content": "Sadettin İnan / Genel siyasetteki seçim süreçlerine dair \"kesin hükümsüzlük\" tartışmaları, rotasını tarım dünyasının önemli temsilcilerinden biri olan Akşehir-Ilgın Pancar Ekicileri Kooperatifi’ne çevirdi. 23 Mayıs 2026 tarihinde yapılan genel kurulda, uzun yıllardır görev yapan başkan Yusuf Yazır seçimi kaybederek koltuğu Ahmet Kara’ya devretmişti. Ancak bu seçim, sonuçların açıklanmasıyla birlikte hukuk dünyasında daha önce pek rastlanmayan bir tartışmanın fitilini ateşledi.\n\nSeçim Stratejisi Mahkemelik Oldu\n\nDavacılar Yusuf Yazır ve Abdullah Demirtaş, seçim sürecinde uzak bölgelerdeki çiftçilerin sandığa katılımını sağlamak amacıyla kullanılan ve mazot giderlerinin karşılandığı iddia edilen yöntemi yargıya taşıdı. Davacı taraf, bu yöntemin sadece bir \"seçim çalışması\" olmadığını, seçim iradesini kökten sakatladığını ve bu nedenle Türk Borçlar Kanunu’nun 27. maddesi kapsamında \"mutlak butlan\" ile malul olduğu gerekçesiyle seçimlerin iptali için Konya 1. Asliye Ticaret Mahkemesi’ne dava açtı.\n\nSiyasetten Kooperatife Hukuki Emsal\n\nKooperatif seçimlerinde benzer yöntemlerin gelenekselleşmiş bir uygulama olarak görülmesine rağmen, bu kez bunun bir \"hukuki ihtilaf\" konusu haline getirilmesi dikkatleri üzerine çekti. Kooperatif eski Başkanı Yusuf Yazır ve Abdullah Demirtaş, bu durumu sadece bir usulsüzlük olarak değil, seçim iradesinin satın alınması ve iradenin fesada uğratılması olarak nitelendirerek, seçimin \"yok hükmünde\" sayılmasını talep etti.\n\nHukuk çevreleri, seçim süreçlerinde \"katılımı artırma\" gerekçesiyle yapılan yardımların, yargı nezdinde \"irade fesadı\" olarak kabul edilip edilmeyeceği üzerine bir tartışma başlattı.\n\nGözler Yargı Kararında\n\nAkşehir-Ilgın Pancar Ekicileri Kooperatif seçimlerinin iptaline yönelik açılan mutlak butlan davası, kooperatif ve birlik seçimlerinde bundan sonra yürütülecek seçim kampanyaları ve yöntemleri için kritik bir emsal teşkil edebilir. Pancar üreticisi ise kooperatifin geleceğine dair hukuktan çıkacak kararı merakla bekliyor."
+    },
     {
       "title": "Rusagrotrans: Rusya'nın Buğday İhracatı %13 Artabilir",
       "url": "https://www.tarimpusulasi.com/haber/rusagrotrans-rusyanin-bugday-ihracati-13-artabilir-46942",
@@ -125,14 +133,6 @@
       "date": "2026-06-28",
       "summary": "Kahramanmaraş Dulkadiroğlu İlçe Tarım Müdürlüğü’nde görevli ziraat mühendisi ve Mühendis Tek-Sen Tarım Orman Sendikası İl Temsilcisi E.Ö.’nün, tohum dağıtım programı sırasında kurum yöneticileri tarafından fiziksel şiddete uğradığı ve tehdit edildiği iddia edildi. Olayla ilgili darp raporu alınırken",
       "content": "Haber Merkezi / Kahramanmaraş’ta bir kamu kurumunda yaşanan şiddet olayı, sendikal haklar ve çalışma barışı tartışmalarını yeniden alevlendirdi. Dulkadiroğlu İlçe Tarım Müdürlüğü’nde görevli E.Ö., polise verdiği ifadede, bir tohum dağıtım programı esnasında üstlerinin fiziksel şiddetine, hakaret ve tehditlerine maruz kaldığını öne sürerek şikayetçi oldu.\n\n\"Yeter Artık, Çiftçiler Beni Parçalayacak\" Dedi, Şiddet Gördü\n\nOlayın başlangıcını anlatan E.Ö., çiftçilerle kurum arasındaki iletişimi sağladığını ve programın yoğun baskı altında geçtiğini belirtti. Eski Bakan Vahit Kirişci’nin ayrılmasının ardından çiftçilerin tepkisiyle karşılaştığını ifade eden E.Ö., dağıtım tırının önünde duran Şube Müdürü D.Ö.’ye, \"Müdürüm yeter artık, tohumları dağıtalım. Çiftçiler beni parçalayacak\" dediğini belirtti.\n\nİddiaya göre, bu serzenişin ardından gelen Şube Müdürü H.Ö. tarafından yakasından tutularak hakarete uğrayan E.Ö., İl Müdür Yardımcısı O.Y.’nin de hakaret ve tehditlerine maruz kaldı. E.Ö., O.Y.’nin kendisine yumruk ve tekme attığını, yere düştüğünde de tekmelenmeye devam edildiğini ileri sürdü.\n\nAdli Rapor Şiddeti Doğruladı\n\nOlayın ardından hastaneye giderek darp raporu alan E.Ö.’nün vücudunun çeşitli bölgelerinde morluklar, sıyrıklar ve şişlikler tespit edildi. Genel adli muayene raporuna ve dosyaya eklenen fotoğraflara yansıyan bulgular, fiziksel saldırı iddialarını destekler nitelikte. Ayrıca olay anına dair bir memur ve bir çiftçinin tanık ifadeleri soruşturma dosyasına dahil edildi.\n\nMühendis Tek-Sen: \"Sendikal Tercih Baskı Gerekçesi Olamaz\"\n\nKonuyla ilgili Mühendis Tek-Sen Tarım Orman Sendikası’ndan yapılan yazılı açıklamada, olayın basit bir tartışmanın ötesinde olduğu vurgulandı. Açıklamada şu ifadelere yer verildi:\n\n\"Temsilcimizin yaşadığı olay, sendikal tercihi nedeniyle uzun süredir devam eden baskı, dışlama ve yıldırma sürecinin son halkasıdır. Bir kamu çalışanının sendika değiştirmesi, hiçbir şekilde mobbing ya da şiddet gerekçesi olamaz. Makam ve yöneticilik yetkisi, çalışanları sindirme aracı olarak kullanılamaz.\"\n\nSoruşturma Çağrısı ve \"Güvence\" Talebi\n\nSendika, sürecin şeffaf ve tarafsız yürütülmesi gerektiğinin altını çizerek şunları kaydetti:\n\nSistematik İnceleme: Sendika değişikliği sonrası yaşanan mobbing iddiaları tüm yönleriyle incelenmeli.\n\nİdari ve Adli İşlem: Sorumlular hakkında gecikmeksizin işlem yapılmalı.\n\nKoruma Talebi: E.Ö.’nün yeni bir sürgün veya idari yaptırımla karşı karşıya kalmaması için yetkili makamlar önlem almalı.\n\nSendika, temsilcilerinin hukuki ve sendikal haklarını sonuna kadar savunacaklarını belirterek, sürecin takipçisi olacaklarını açıkladı. Kamuoyunun gözü şimdi, idari ve adli soruşturmanın sonucuna çevrilmiş durumda."
-    },
-    {
-      "title": "TMO Genel Müdürü Ahmet Güldal'dan İDMA 2026'da \"Rekolte\" mesajı: Üretim beklentilerin üzerine çıkabilir",
-      "url": "https://www.tarimdanhaber.com/tmo-genel-muduru-ahmet-guldaldan-idma-2026da-rekolte-mesaji-uretim-beklentilerin-uzerine-cikabilir",
-      "source": "Tarımdan Haber",
-      "date": "2026-06-28",
-      "summary": "İDMA İstanbul 2026 Fuarı’nın açılışında konuşan TMO Genel Müdürü Ahmet Güldal, 2026 hububat sezonuna dair kritik verileri paylaştı. Türkiye'nin buğdayda 22 milyon 750 bin ton, arpada ise 9 milyon ton rekolte beklentisi olduğunu belirten Güldal, iklim koşulları ve saha verilerinin bu rakamların üzeri",
-      "content": "Haber Merkezi / Türkiye’nin tahıl işleme teknolojileri alanındaki en büyük buluşması olan İDMA İstanbul 2026 Fuarı, sektörün paydaşlarını bir araya getirdi. Fuarın açılış programında TMO’nun alım faaliyetleri, stratejik stoklar ve küresel piyasalar hakkında önemli açıklamalarda bulunan TMO Genel Müdürü Ahmet Güldal, Türkiye'nin hububat üretiminde başarılı bir sezon geçirdiğini vurguladı.\n\nHasatta Verim 400 Kilogramın Üzerinde\n\nHasat sürecine dair güncel verileri paylaşan Güldal, ülke genelinde buğdayda yüzde 14, arpada ise yüzde 13 seviyesine ulaşıldığını belirtti. Saha gözlemlerinin oldukça olumlu olduğunu ifade eden Genel Müdür, \"Hasat yapılan bölgelerde ortalama verimlerin 400 kilogramın üzerinde gerçekleştiğini görüyoruz. Üreticilerimiz randevu alma sürecinde bir aksaklık yaşamıyor, randevu gerçekleşme oranımız yüzde 80'in üzerinde\" dedi.\n\n20 Milyon Tonluk Depolama Hazırlığı\n\nTMO’nun yeni sezona hazırlıklı girdiğini belirten Güldal, alım organizasyonuna dair şu detayları aktardı:\n\n600'ün üzerinde alım merkezi planlandı.\n\n10 milyon ton lisanslı depo kapasitesi aktif.\n\nKiralık depolar ve açık yığınlarla birlikte toplam depolama hazırlığı 20 milyon tonun üzerine çıkarıldı.\n\nDış Ticarette Net 31 Milyar Dolar Katkı\n\nHububata dayalı sanayinin Türkiye ekonomisi için hayati bir katma değer olduğunu belirten Ahmet Güldal, Türkiye'nin un ihracatında dünya lideri, makarna ihracatında ise ikinci sırada yer aldığını hatırlattı. Güldal, 2002 yılından bugüne buğday ve mamulleri ticaretinden 21 milyar dolar, mısır ticaretinden ise 10 milyar dolar olmak üzere toplamda 31 milyar dolarlık net dış ticaret katkısı sağlandığını ifade etti.\n\nTMO, Bolluğu da Yönetebilen Bir Kurumdur\n\nPiyasalara yönelik \"rekabet\" tartışmalarına da açıklık getiren Güldal, TMO’nun özel sektörle rekabet etmediğini, aksine piyasanın sağlıklı işlemesi için bir denge unsuru olduğunu vurguladı.\n\nDünya piyasalarındaki gelişmeleri yakından takip ettiklerini belirten Güldal sözlerini şöyle noktaladı: \"Dünya genelinde üretimde bir düşüş beklense de, mevcut stok seviyeleri arz güvenliği açısından bir sorun öngörmüyor. Biz TMO olarak, geçmişte olduğu gibi bugün de üreticinin emeğini korumak, sanayicinin ham maddeye erişimini desteklemek ve tüketicinin temel gıdaya kesintisiz ulaşımını sağlamak sorumluluğuyla sahadayız. TMO, yalnızca yokluğu değil, bolluğu da yönetebilen köklü bir kurumdur.\""
     }
   ],
   "commoditiesByBorsa": {
