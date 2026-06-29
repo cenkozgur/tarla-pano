@@ -1,43 +1,75 @@
 {
-  "updatedAt": "2026-06-29T14:59:55.092Z",
+  "updatedAt": "2026-06-29T17:41:04.728Z",
   "fx": [
     {
       "code": "USD",
       "name": "Dolar",
-      "buy": 46.64,
-      "sell": 46.64,
-      "change": 0.03
+      "buy": 466276,
+      "sell": 466445,
+      "change": 2
     },
     {
       "code": "EUR",
       "name": "Euro",
-      "buy": 53.29,
-      "sell": 53.3,
-      "change": 0.35
+      "buy": 532915,
+      "sell": 53331,
+      "change": 37
     },
     {
       "code": "GRA",
       "name": "Gram Altın",
-      "buy": 6039.88,
-      "sell": 6040.8,
-      "change": -1.46
+      "buy": 603337,
+      "sell": 603433,
+      "change": -156
     },
     {
       "code": "CEYREKALTIN",
       "name": "Çeyrek Altın",
-      "buy": 9722.25,
-      "sell": 9946.84,
-      "change": -1.56
+      "buy": 972225,
+      "sell": 994684,
+      "change": -156
     },
     {
       "code": "CUMHURIYETALTINI",
       "name": "Cumhuriyet Altını",
       "buy": 40418,
       "sell": 41029,
-      "change": -1.3
+      "change": -13
     }
   ],
   "news": [
+    {
+      "title": "Bakan Yumaklı: 160 bin damızlık küçükbaş dağıtılacak",
+      "url": "https://www.tarimpusulasi.com/haber/bakan-yumakli-160-bin-damizlik-kucukbas-dagitilacak-46941",
+      "source": "Tarım Pusulası",
+      "date": "2026-06-29",
+      "summary": "Tarım ve Orman Bakanı İbrahim Yumaklı, Ankara'nın Polatlı ilçesinde düzenlenen törende \"Kırsalda Bereket Küçükbaşa Destek Projesi\" kapsamında ilk damızlık küçükbaş hayvan teslimlerinin başladığını açıkladı. Proje kapsamında üç yılda 1.600 üreticiye toplam 160 bin damızlık küçükbaş hayvan verilmesi h",
+      "content": "ANKARA — Tarım ve Orman Bakanı İbrahim Yumaklı, Ankara'nın Polatlı ilçesindeki TİGEM Polatlı Tarım İşletmesi Müdürlüğü'nde düzenlenen törende \"Kırsalda Bereket Küçükbaşa Destek Projesi\" kapsamında ilk damızlık küçükbaş hayvan teslimlerinin başladığını açıkladı.\n\nBakan Yumaklı, projenin yalnızca hayvan dağıtımını değil, kırsal kalkınmayı destekleyen uzun vadeli bir üretim modeli olduğunu belirterek, küçükbaş yetiştiriciliğinin güçlendirilmesini hedeflediklerini ifade etti.\n\nKonuşmasında hayvansal üretimin gıda arz güvenliği, kırsal istihdam ve sanayi açısından stratejik önem taşıdığına dikkat çeken Yumaklı, son yıllarda uygulanan destek politikalarıyla sektörün üretim kapasitesinin arttığını söyledi. Bakan, son 24 yılda hayvancılığa toplam 633 milyar lira destek sağlandığını, büyükbaş ve küçükbaş hayvan varlığının yanı sıra süt, kırmızı et, yumurta ve kanatlı eti üretiminde artışlar yaşandığını belirtti.\n\nÜç yılda 160 bin damızlık küçükbaş hayvan\n\nYumaklı'nın verdiği bilgiye göre proje kapsamında üç yıl içerisinde 1.600 üreticiye toplam 160 bin damızlık küçükbaş hayvan teslim edilecek. Her hak sahibine 95 dişi ve 5 erkek olmak üzere 100 baş damızlık hayvan verilecek. Teslimatlar TİGEM'e bağlı 10 işletmede gerçekleştirilecek.\n\nÜreticilere kredi, bakım desteği ve sigorta\n\nBakan Yumaklı, proje kapsamında üreticilere üç temel destek sunulacağını açıkladı.\n\nBuna göre hak sahipleri Ziraat Bankası aracılığıyla sıfır faize kadar kredi imkânından yararlanabilecek. Ayrıca 12 ay boyunca aylık 15 bin lira olmak üzere toplam 180 bin lira bakım ve besleme desteği sağlanacak. Bir yıllık TARSİM sigortası da Bakanlık tarafından karşılanacak.\n\nHak sahiplerinin önemli bölümü kadın ve gençlerden oluşuyor\n\nYumaklı, proje kapsamında belirlenen hak sahiplerinin yüzde 49'unun kadın, yüzde 79'unun genç üreticilerden oluştuğunu açıkladı. Ayrıca başvuru sahiplerinin yüzde 18'ini veteriner hekimler ile ziraat ve gıda mühendislerinin oluşturduğunu belirtti.\n\nYerli genetik kaynaklardan yetiştirilen damızlıklar teslim ediliyor\n\nProjede dağıtılan hayvanların tamamının TİGEM işletmelerinde yetiştirilen ve yerli genetik kaynaklardan elde edilen damızlık sürülerden seçildiğini belirten Yumaklı, uygulamanın aynı zamanda yürütülen ıslah çalışmalarının da önemli bir parçası olduğunu söyledi.\n\nKüçükbaş üretiminde yeni hedefler\n\nKonuşmasında yeni Hayvancılık Yol Haritası sonrasında küçükbaş hayvan varlığında artış yaşandığını ifade eden Yumaklı, küçükbaşın kırmızı et üretimindeki payını yükseltmeyi hedeflediklerini belirtti. Meraların geliştirilmesi, halk elinde ıslah projeleri, TİGEM damızlık üretim merkezlerinin güçlendirilmesi ve AR-GE çalışmalarının sürdürüleceğini kaydetti.\n\nYumaklı, üretimin planlı şekilde artırılması, aile işletmelerinin güçlendirilmesi ve kırsalda kalıcı refahın sağlanmasının Bakanlığın öncelikleri arasında bulunduğunu söyledi.\n\nTARIM PUSULASI HABER MERKEZİ"
+    },
+    {
+      "title": "Bloomberg: Hürmüz Boğazı'nda Gübre Sevkiyatı Hız Kazandı",
+      "url": "https://www.tarimpusulasi.com/haber/bloomberg-hurmuz-bogazinda-gubre-sevkiyati-hiz-kazandi-46940",
+      "source": "Tarım Pusulası",
+      "date": "2026-06-29",
+      "summary": "ABD ile İran arasında imzalanan geçici barış anlaşmasının ardından Hürmüz Boğazı'nda gemi trafiği yeniden hız kazandı. Bloomberg'in haberine göre gübre yüklü gemilerin geçişindeki artış, küresel gübre ticaretinin normalleşme sürecine girdiğine işaret ediyor.",
+      "content": "HÜRMÜZ BOĞAZI — ABD ile İran arasında imzalanan geçici barış anlaşmasının ardından Hürmüz Boğazı'ndaki deniz trafiği yeniden hareketlenmeye başladı. Bloomberg'in aktardığına göre, boğazın ticari gemilere yeniden açılmasıyla birlikte tarımsal üretimde kullanılan gübrelerin ihracatı önemli ölçüde arttı.\n\nAjansın verilerine göre, anlaşmanın ardından en az 16 gübre yüklü gemi Hürmüz Boğazı'ndan geçerek rotasına devam etti.\n\nBloomberg, mevcut sevkiyat hacminin silahlı çatışma öncesindeki seviyelere yeniden yaklaşmaya başladığını belirtti.\n\nHaberde ayrıca, askeri operasyonun başladığı tarihten bu yana boğazda bekleyen 40'tan fazla gemiden en az 18'inin bölgeden ayrıldığı ifade edildi.\n\nGemi trafiğinin önemli bölümünün Asya ülkelerine yöneldiği kaydedildi.\n\nUzmanlar, Hürmüz Boğazı'ndaki geçişlerin normalleşmesinin özellikle gübre tedarik zinciri açısından küresel tarım piyasalarına olumlu katkı sağlayabileceğini değerlendiriyor.\n\nTARIM PUSULASI HABER MERKEZİ"
+    },
+    {
+      "title": "Agrarheute: Almanya'da Çiftçiler Kanoladan Vazgeçiyor",
+      "url": "https://www.tarimpusulasi.com/haber/agrarheute-almanyada-ciftciler-kanoladan-vazgeciyor-46939",
+      "source": "Tarım Pusulası",
+      "date": "2026-06-29",
+      "summary": "Almanya'da zararlılarla mücadelede kullanılabilecek bitki koruma ürünlerinin sınırlı olması ve artan üretim riski, çiftçilerin kanola ekiminden uzaklaşmasına neden oluyor. Agrarheute'nin gerçekleştirdiği ankete göre üreticilerin yaklaşık yarısı gelecekte kanola yetiştirmeyi bırakmayı planlıyor.",
+      "content": "BERLİN — Almanya'da kanola üreticileri, zararlılarla mücadelede kullanılan bitki koruma ürünlerinin yetersiz kalması nedeniyle üretim planlarını yeniden gözden geçiriyor. Üreticiler artan zararlı baskısı ve sınırlı mücadele imkânlarının kanola yetiştiriciliğini her geçen yıl daha riskli hale getirdiğini belirtiyor.\n\nUzun yıllar gerileme yaşayan kanola ekim alanları, 2025 yılında yükselen fiyatların etkisiyle yeniden artış göstermişti. 2026 hasadı için 2025 sonbaharında Almanya'da 1,5 milyon hektar kışlık kanola ekimi yapıldı. Bir önceki sezonda bu alan 1,1 milyon hektar seviyesindeydi.\n\nAncak 2026 yılı Mayıs ayında bitkilerde baklaların tamamen oluşmasının ardından birçok üretici zararlı kaynaklı ürün kayıplarıyla karşı karşıya kaldı.\n\nTarım haber portalı Agrarheute.com, Haziran ayının ilk yarısında 598 çiftçinin katıldığı bir anket düzenledi. Katılımcılara, \"Gelecekte kanola yetiştirmeyi planlıyor musunuz?\" sorusu yöneltildi.\n\nAnket sonuçlarına göre çiftçilerin yüzde 45'i gelecekte kanola üretimini tamamen bırakmayı düşündüğünü açıkladı.\n\nKanola yetiştirmeye devam etmeyi planlayan yüzde 55'lik grubun ise yüzde 9'u ekim alanlarını azaltacağını ifade etti.\n\nAyrıca katılımcıların yüzde 23'ü, uygun bir alternatif ürün bulamadıkları için kanola üretimine devam edeceklerini belirtti.\n\nSonuçlar, Almanya'da kanola üretiminin önümüzdeki yıllarda zararlılarla mücadele, bitki koruma ürünlerine erişim ve alternatif ürün seçeneklerine bağlı olarak yeniden şekillenebileceğine işaret ediyor.\n\nTARIM PUSULASI HABER MERKEZİ"
+    },
+    {
+      "title": "FederUnacoma: Türkiye Traktör Pazarı İlk 4 Ayda Yarıya Düştü",
+      "url": "https://www.tarimpusulasi.com/haber/federunacoma-turkiye-traktor-pazari-ilk-4-ayda-yariya-dustu-46938",
+      "source": "Tarım Pusulası",
+      "date": "2026-06-29",
+      "summary": "FederUnacoma verilerine göre 2026 yılının ilk dört ayında küresel traktör pazarı büyümeye devam ederken, Türkiye ana pazarlar arasında en sert daralmayı yaşayan ülke oldu. Aynı dönemde Hindistan rekor satış rakamlarına ulaşırken, ABD, Kanada ve Brezilya'da da düşüş sürdü.",
+      "content": "ROMA — 2026 yılının ilk dört ayında dünya traktör pazarı büyümesini sürdürse de ülkeler arasındaki performans farkı dikkat çekti. FederUnacoma'nın yıllık toplantısında paylaşılan verilere göre, Ocak-Nisan döneminde dünya genelinde 512 binden fazla traktör satıldı. Bu rakam geçen yılın aynı dönemine göre yüzde 18'lik artışa işaret ediyor.\n\nAncak küresel büyümenin önemli ölçüde Hindistan kaynaklı olduğu belirtiliyor.\n\nİlk dört ayda 375 bin traktör satışı gerçekleştiren Hindistan, dünyanın en büyük tarım makinesi pazarı olma konumunu bir kez daha güçlendirdi. Mevcut eğilimin devam etmesi halinde ülkede yıl sonunda 1 milyonun üzerinde yeni traktör satışı gerçekleşebileceği ve bunun dünya satışlarının yaklaşık yüzde 40'ını oluşturabileceği öngörülüyor.\n\nFederUnacoma Başkanı Mariateresa Maschio, Hindistan pazarının diğer ülkelerden önemli ölçüde ayrıldığını belirterek, ülkede ağırlıklı olarak orta ve düşük güçlü traktörlerin tercih edildiğini, bu araçların yalnızca tarımsal üretimde değil yük ve yolcu taşımacılığında da kullanıldığını ifade etti.\n\nKuzey Amerika'da ise daralma eğilimi devam etti. ABD'de traktör satışları yılın ilk dört ayında yüzde 9 gerileyerek 53 bin 800 adet oldu. Kanada'da satışlar yüzde 8 azalarak 6 bin 100 adede düştü.\n\nBrezilya'da da talepte zayıflama görüldü. Ülkede traktör satışları yüzde 15 azalarak 12 bin 300 adet seviyesinde gerçekleşti.\n\nRapora göre ana pazarlar içinde en sert düşüş Türkiye'de yaşandı. İlk dört ayda yalnızca 7 bin 250 traktör satıldı. Bu rakam geçen yılın aynı dönemindeki satışların yaklaşık yarısına karşılık geliyor.\n\nAvrupa genelinde ise daha dengeli bir görünüm oluştu. Traktör satışları yüzde 4 artışla 45 bin adedin üzerine çıktı. İngiltere'de ise satışlar yüzde 25 artarak 4 bin 550 adet oldu.\n\nFederUnacoma, tarım makineleri sektörünün jeopolitik gerilimler, ekonomik bölgeselleşme, korumacı ticaret politikaları ve pazarın parçalanmasından etkilenmeye devam ettiğini belirtti.\n\nKuruluş ayrıca Basra Körfezi'ndeki gerilimin enerji ve gübre fiyatlarını yeniden yükselttiğini, bunun da çiftçilerin yeni makine yatırımlarını sınırlandıran önemli faktörlerden biri olduğunu vurguladı.\n\nTARIM PUSULASI HABER MERKEZİ"
+    },
     {
       "title": "Oil World: Küresel Soya Üretimi 441 Milyon Tonu Aşabilir",
       "url": "https://www.tarimpusulasi.com/haber/oil-world-kuresel-soya-uretimi-441-milyon-tonu-asabilir-46937",
@@ -69,38 +101,6 @@
       "date": "2026-06-29",
       "summary": "Avrupa Birliği'nde mayıs ayında akaryakıt fiyatları geçen yılın aynı dönemine göre yüzde 20,7 arttı. Yakıt maliyetlerindeki yükseliş tarımsal üretim giderlerini artırırken, Rusya'da dizel fiyatlarındaki sert artış üreticilerin maliyetlerini kritik seviyelere taşıdı.",
       "content": "ANKARA — Avrupa Birliği'nde akaryakıt fiyatları mayıs ayında geçen yılın aynı dönemine göre önemli ölçüde yükseldi. Eurostat verilerine göre motorin ve diğer akaryakıt ürünlerinin fiyatı yıllık bazda yüzde 20,7 arttı.\n\nVerilere göre fiyat artışı Avrupa Birliği'nin tüm üye ülkelerinde görüldü. En yüksek artış yüzde 33,9 ile Bulgaristan'da kaydedilirken, Lüksemburg ve Litvanya da yüksek artış yaşayan ülkeler arasında yer aldı. En düşük artış ise yüzde 3,5 ile Macaristan'da gerçekleşti.\n\nYakıt maliyetleri tarımsal üretimi doğrudan etkiliyor\n\nAkaryakıt fiyatlarındaki yükseliş özellikle ekim sezonu ve hasat hazırlıkları döneminde tarımsal üretim maliyetlerini artırıyor. Yakıt; toprak işleme, ekim, sulama, hasat ve ürün taşımacılığı gibi üretimin hemen her aşamasında temel girdiler arasında bulunuyor.\n\nRus üreticiler de yüksek maliyet baskısıyla karşı karşıya\n\nRusya'da da tarım sektörü ciddi yakıt maliyetleriyle mücadele ediyor.\n\nSektör kaynaklarına göre son bir ay içinde tarımsal amaçlı kullanılan akaryakıt fiyatları yüzde 40 ila 50 arasında yükselirken, kış aylarından bu yana toplam artış yüzde 100'ü aştı.\n\n15 Haziran'da St. Petersburg Emtia Borsası'nda motorin fiyatı ton başına 77 bin rublenin (yaklaşık 1.001 ABD doları) üzerine çıkarak tarihi zirvesini gördü. Bu rakam geçen yılın aynı dönemine göre yüzde 30'dan fazla artış anlamına geliyor.\n\nBazı bölgelerde ise lojistik giderleri de eklendiğinde çiftçilerin ödediği dizel fiyatının 100 bin rubleyi (yaklaşık 1.300 ABD doları) aştığı, bazı bölgelerde ise ton başına 115-120 bin rubleye (yaklaşık 1.495-1.560 ABD doları) kadar yükseldiği ifade edildi.\n\nÜreticiler kârlılığın hızla düştüğünü söylüyor\n\nRus üretici temsilcileri mevcut buğday fiyatlarıyla bu seviyedeki yakıt maliyetlerinin sürdürülebilir olmadığını belirtiyor.\n\nÜreticilere göre ton başına 100 bin ruble (yaklaşık 1.300 ABD doları) seviyesindeki motorin maliyetlerinin karşılanabilmesi için buğday fiyatının yaklaşık 18 bin ruble (yaklaşık 234 ABD doları) olması gerekiyor. Ancak mevcut piyasa fiyatı bunun yaklaşık yarısı seviyesinde bulunuyor ve 9 bin ruble (yaklaşık 117 ABD doları) düzeyinde işlem görüyor.\n\nFiyat artışının arkasında birçok neden bulunuyor\n\nUzmanlara göre fiyat yükselişinde;\n\nMevsimsel talep artışı,\n\nPetrol rafinerileri ve depolama tesislerine yönelik saldırıların etkileri,\n\nGüney bölgelerde yaşanan lojistik sorunları,\n\nDizelin ihracat pazarlarında daha yüksek gelir sağlaması\n\ngibi faktörler etkili oldu.\n\nUzmanlar ayrıca piyasada oluşan arz endişelerinin üreticileri erken yakıt alımına yönlendirdiğini, bunun da fiyatların daha da yükselmesine neden olduğunu belirtiyor.\n\nGıda fiyatlarına yeni baskı uyarısı\n\nRusya Merkez Bankası daha önce yaptığı değerlendirmelerde enerji maliyetlerindeki artışın gıda fiyatları üzerinde de yukarı yönlü baskı oluşturabileceğine dikkat çekmişti.\n\nUzmanlara göre özellikle tahıl üretiminde yakıt giderleri toplam üretim maliyetinin yaklaşık yüzde 40'ına ulaşmış durumda.\n\nTarım ve enerji uzmanları, artan üretim maliyetlerinin önümüzdeki dönemde hem üreticilerin kârlılığını hem de tüketici fiyatlarını etkilemeye devam edebileceğini değerlendiriyor.\n\nTARIM PUSULASI HABER MERKEZİ"
-    },
-    {
-      "title": "Çin, Avustralya sığır etine yüzde 55 ek vergi uygulayacak",
-      "url": "https://www.tarimpusulasi.com/haber/cin-avustralya-sigir-etine-yuzde-55-ek-vergi-uygulayacak-46933",
-      "source": "Tarım Pusulası",
-      "date": "2026-06-29",
-      "summary": "Çin Ticaret Bakanlığı, Avustralya'dan ithal edilen sığır etine mevcut tarifelere ek olarak yüzde 55 ilave gümrük vergisi uygulanacağını açıkladı. Kararın, Avustralya'nın Çin'e yönelik yıllık ihracat kotasını doldurmasının ardından yürürlüğe gireceği bildirildi.",
-      "content": "PEKİN — Çin Ticaret Bakanlığı, Avustralya'dan ithal edilen sığır etine mevcut gümrük tarifelerine ek olarak yüzde 55 oranında ilave vergi uygulanacağını açıkladı.\n\nBakanlık tarafından yapılan açıklamaya göre karar, Çin'in 1 Ocak 2026 tarihinde yürürlüğe koyduğu sığır eti ithalatına yönelik koruma tedbirleri kapsamında alındı.\n\nSöz konusu uygulamada ihracatçı ülkelere yıllık ithalat kotası tanımlanıyor. Belirlenen kotanın aşılması halinde ise ek gümrük vergisi devreye giriyor.\n\nÇin Ticaret Bakanlığı verilerine göre Avustralya'nın Çin'e yaptığı sığır eti ihracatı 18 Haziran itibarıyla yıllık kotanın yüzde 100'üne ulaştı. Düzenleme gereği, kotanın dolmasının ardından üçüncü günden itibaren Avustralya menşeli sığır etine yüzde 55 oranında ilave vergi uygulanacak.\n\nÇin Gümrükler Genel İdaresi ile Ticaret Bakanlığı, ihracatçı ülkelerin kota kullanım oranı yüzde 50 ve yüzde 80 seviyelerine ulaştığında resmi bilgilendirme yaparken, yüzde 100 seviyesine ulaşılması halinde ilave verginin yürürlüğe gireceğini kamuoyuna duyuruyor.\n\nAlınan kararın, Çin ile Avustralya arasındaki sığır eti ticaretini ve küresel kırmızı et piyasasını nasıl etkileyeceği önümüzdeki dönemde yakından takip edilecek.\n\nTARIM PUSULASI HABER MERKEZİ"
-    },
-    {
-      "title": "EİB: Çin heyeti Türk kirazı için saha incelemesini tamamladı",
-      "url": "https://www.tarimpusulasi.com/haber/eib-cin-heyeti-turk-kirazi-icin-saha-incelemesini-tamamladi-46932",
-      "source": "Tarım Pusulası",
-      "date": "2026-06-29",
-      "summary": "Türkiye, dünya kiraz üretimindeki liderliğini Çin pazarına taşımaya hazırlanıyor. Çin Halk Cumhuriyeti Gümrükler Genel İdaresi'nden gelen teknik heyet, Türkiye'de kiraz bahçeleri ve ihracat tesislerinde incelemelerini tamamlarken, hazırlanacak raporun ardından Türk kirazının Çin pazarına yeniden gir",
-      "content": "İZMİR — Dünya kiraz üretiminde yaklaşık 1 milyon 400 bin dekar alanda yıllık 700 bin tonluk üretimle lider konumda bulunan Türkiye, dünyanın en büyük kiraz ithalatçısı olan Çin Halk Cumhuriyeti pazarına yeniden ihracat yapabilmek için kritik bir sürece girdi.\n\nTarım ve Orman Bakanlığı ile sektör temsilcilerinin yürüttüğü çalışmalar kapsamında, Çin Halk Cumhuriyeti Gümrükler Genel İdaresi'nden iki teknik uzmandan oluşan heyet, 22-28 Haziran 2026 tarihleri arasında Türkiye'de kiraz bahçeleri, paketleme tesisleri ile fumigasyon ve soğuk işlem merkezlerinde incelemelerde bulundu.\n\nHeyet, üretimden paketlemeye, depolamadan ihracata kadar kirazın tüm izlenebilirlik sürecini yerinde denetledi. İncelemelerin ardından hazırlanacak rapor doğrultusunda Pekin yönetiminin Türkiye'den kiraz ithalatına yeniden izin vermesi bekleniyor.\n\nÇin heyeti üretimden ihracata kadar süreci inceledi\n\nProgram kapsamında Çinli uzmanlar Wenjun Chen ve Jinlu Cui, ilk olarak Ankara'da Tarım ve Orman Bakanlığı yetkilileriyle bir araya geldi. Toplantıda Türkiye'nin kiraz üretiminde uyguladığı gıda güvenliği, bitki sağlığı ve ihracat standartlarına ilişkin sunum yapıldı.\n\nHeyet daha sonra Bornova Zirai Mücadele Araştırma Enstitüsü'nde Akdeniz Meyve Sineği ve Kiraz Sineğiyle mücadelede kullanılan biyoteknik yöntemleri yerinde inceledi.\n\nSalihli ve Alaşehir'de saha denetimi\n\nÇin heyeti, Manisa'nın Salihli ilçesinde bulunan ve Çin'e ihracat için belirlenen kiraz bahçelerinden birinde üretim süreçlerini sahada gözlemledi.\n\nArdından Alaşehir'deki ihracat tesisinde fumigasyon, sterilizasyon, paketleme ve sevkiyat aşamaları hakkında bilgi aldı. İnceleme programı Denizli, Isparta ve Afyonkarahisar'daki kiraz üretim alanlarıyla devam etti.\n\n\"Türk kirazı Avrupa'da premium ürün\"\n\nEge Yaş Meyve Sebze İhracatçıları Birliği Başkanı Cengiz Balık, Türk kirazının kalite ve aroması nedeniyle Avrupa pazarında \"premium ürün\" olarak kabul edildiğini belirtti.\n\nBalık, Almanya, Avusturya, Hollanda, Birleşik Krallık, Rusya ile Birleşik Arap Emirlikleri ve Katar'ın Türk kirazının güçlü pazarları arasında yer aldığını ifade etti.\n\nBilimsel çalışmalar Çin sürecine destek sağlıyor\n\nBalık, Bornova Zirai Mücadele Araştırma Enstitüsü tarafından yürütülen araştırmaların, metil bromid fumigasyonu ve soğuk uygulama sonrasında ürün kalitesinin korunduğunu ve kalıntı seviyelerinin uluslararası limitlerin altında kaldığını bilimsel olarak ortaya koyduğunu söyledi.\n\nBu çalışmaların, Türkiye ile Çin arasında imzalanması beklenen ihracat protokolü açısından önemli bir referans oluşturduğunu kaydetti.\n\nHedef yıllık 100 milyon dolar ihracat\n\nÇin'in yılda yaklaşık 600 bin ton kiraz ithal ettiğini ve bu pazarın büyüklüğünün 3,5 milyar dolar seviyesinde bulunduğunu belirten Balık, Çin'in dünyanın en büyük kiraz ithalatçısı olduğunu söyledi.\n\nBalık, geçmiş yıllarda yaşanan tecrübelerden gerekli derslerin çıkarıldığını ifade ederek, üretici ve ihracatçıların ihracat zincirindeki tüm sorumluluklarını eksiksiz yerine getireceklerine inandığını belirtti.\n\nOrta vadede Çin'e yıllık 100 milyon dolarlık Türk kirazı ihracatı hedeflediklerini dile getiren Balık, Çin pazarının Türkiye için önemli bir büyüme potansiyeli taşıdığını vurguladı.\n\nTARIM PUSULASI HABER MERKEZİ"
-    },
-    {
-      "title": "TİM, Ege'den 11 firmayı İhracatın Yıldızları'nda ödüllendirdi",
-      "url": "https://www.tarimpusulasi.com/haber/tim-egeden-11-firmayi-ihracatin-yildizlarinda-odullendirdi-46931",
-      "source": "Tarım Pusulası",
-      "date": "2026-06-29",
-      "summary": "Türkiye İhracatçılar Meclisi'nin (TİM) düzenlediği \"İhracatın Yıldızları Ödül Töreni\"nde Ege Bölgesi'nden 11 firma 12 ödül kazandı. Hazır giyimden kuru meyveye, su ürünlerinden zeytin ve zeytinyağına kadar birçok sektörde Egeli firmalar ihracat şampiyonluğu elde etti.",
-      "content": "İSTANBUL — Türkiye İhracatçılar Meclisi (TİM) tarafından düzenlenen \"İhracatın Yıldızları Ödül Töreni\"nde, 2025 yılında Türkiye'nin mal ve hizmet ihracatına en yüksek katkıyı sağlayan firmalar ödüllendirildi. Törende Ege Bölgesi'nden 11 firma toplam 12 ödül alarak farklı sektörlerde ihracat başarılarını taçlandırdı.\n\nÖdüller; Cumhurbaşkanı Recep Tayyip Erdoğan, Ticaret Bakanı Prof. Dr. Ömer Bolat, Hazine ve Maliye Bakanı Mehmet Şimşek, Tarım ve Orman Bakanı İbrahim Yumaklı ile diğer kabine üyeleri ve TİM Başkanı Mustafa Gültepe tarafından takdim edildi.\n\nHazır giyim sektöründe Üniteks Tekstil Gıda Sanayi ve Dış Ticaret A.Ş., 2025 yılı Türkiye ihracat şampiyonu oldu. Şirketin ödülünü Yönetim Kurulu Başkanı Mehmet Serhan Ünsal aldı.\n\nKuru meyve ve mamulleri sektöründe Özgür Tarım Ürünleri Sanayi ve Ticaret A.Ş., ihracat şampiyonluğunu sürdürürken; su ürünleri sektöründe Kılıç Deniz Ürünleri İhracat ve İthalat Ticaret A.Ş. birincilik ödülüne layık görüldü.\n\nTütün sektöründe JTİ Tütün Ürünleri Sanayi A.Ş., yaş meyve ve sebze sektöründe Uçak Kardeşler Gıda A.Ş., zeytin ve zeytinyağı sektöründe ise Verde Yağ Besin Maddeleri Ticaret Sanayi A.Ş. sektör liderleri arasında yer aldı.\n\nE-ihracat kategorisinde Türkiye üçüncüsü olan K.F.C. Gıda Tekstil Sanayi İthalat İhracat Yatırım A.Ş. de ödül alan Egeli firmalar arasında bulundu.\n\nÜretim tesisleri Ege Bölgesi'nde bulunan HABAŞ Sınai ve Tıbbi Gazlar İstihsal Endüstrisi A.Ş., çelik sektöründe; VESTEL Ticaret A.Ş., elektrik-elektronik sektöründe; Türkiye Petrol Rafinerileri A.Ş. (TÜPRAŞ) ise kimya sektöründe ödül aldı. TÜPRAŞ ayrıca Türkiye'nin en fazla ihracat yapan altıncı firması olurken, İzmir'deki üretim tesisleriyle faaliyet gösteren Star Rafineri A.Ş. en fazla ihracat yapan firmalar sıralamasında yedinci sırada yer aldı.\n\nTörenin ardından değerlendirmelerde bulunan Ege İhracatçı Birlikleri Koordinatör Başkanı Muhammet Öztürk, Ege Bölgesi'nden 11 firmanın ödül almasının gurur verici olduğunu belirtti. Öztürk, bölgenin 2025 yılında Türkiye ekonomisine 42,8 milyar dolar döviz kazandırdığını ifade etti.\n\nKüresel rekabet koşullarının zorlaştığına dikkat çeken Öztürk, ihracatta sürdürülebilir büyüme için rekabetçi bir ekonomik yapının önemine işaret etti. Üretim maliyetlerinin rakip ülkelere göre daha hızlı arttığını belirten Öztürk, rekabet gücünün yeniden kazanılması halinde Türkiye'nin kısa sürede 500 milyar dolarlık ihracat hedeflerine ulaşabileceğini söyledi.\n\nTARIM PUSULASI HABER MERKEZİ"
-    },
-    {
-      "title": "Tarım ve Orman Bakanlığı fotoğraf yarışması sergisini açtı",
-      "url": "https://www.tarimpusulasi.com/haber/tarim-ve-orman-bakanligi-fotograf-yarismasi-sergisini-acti-46930",
-      "source": "Tarım Pusulası",
-      "date": "2026-06-29",
-      "summary": "Tarım ve Orman Bakanlığı tarafından, DenizBank'ın desteğiyle düzenlenen \"Tarım, Orman ve İnsan Fotoğraf Yarışması\"nın ödüllü eserlerinden oluşan sergi Galeri Deniz'de açıldı. \"Bereketin Yüzyılı\" temasıyla gerçekleştirilen yarışmaya 2 bini aşkın katılımcı 6 binden fazla eserle başvurdu.",
-      "content": "İSTANBUL — Tarım, orman, toprak ve suyun önemine ilişkin toplumsal farkındalığı artırmak amacıyla Tarım ve Orman Bakanlığı tarafından DenizBank'ın desteğiyle düzenlenen Tarım, Orman ve İnsan Fotoğraf Yarışması kapsamında ödül alan eserlerden oluşan sergi Galeri Deniz'de ziyarete açıldı.\n\nBu yıl \"Bereketin Yüzyılı\" temasıyla gerçekleştirilen yarışmaya 2 bini aşkın katılımcı, 6 binden fazla eserle başvurdu. Yarışmada \"Genel\", \"Çiftçi\", \"Öğrenci\", \"Tarım ve Orman Bakanlığı Çalışanları\", \"DenizBank Çalışanları\" ve \"Bereketin Yüzyılı\" olmak üzere altı kategoride 13 eser ödüle layık görülürken, bir eser de Tarım ve Orman Bakanı İbrahim Yumaklı tarafından verilen Bakan Özel Ödülünü kazandı.\n\nSerginin açılışı, Tarım ve Orman Bakanlığı Eğitim ve Yayın Dairesi Başkanı Dr. Bülent Kahraman Çolakoğlu ile DenizBank Genel Müdürü Recep Baştuğun katılımıyla gerçekleştirildi. Tarımsal üretimin ve kırsal yaşamın farklı yönlerini yansıtan seçki, 16 Temmuz Perşembe gününe kadar Galeri Deniz'de ziyaret edilebilecek.\n\nAçılışta konuşan Dr. Bülent Kahraman Çolakoğlu, 2009 yılından bu yana düzenlenen yarışmanın her yıl daha geniş kitlelere ulaştığını belirterek, organizasyonun özellikle gençlerin tarım, orman ve doğal kaynaklara yönelik ilgisini artırmayı hedeflediğini söyledi.\n\nÇolakoğlu, gıda güvenliğinin sürdürülebilirliği açısından tarımsal üretimin devamlılığının önemine dikkat çekerek, yarışma aracılığıyla genç üreticilerin tarıma kazandırılmasının da amaçlandığını ifade etti.\n\nDenizBank Genel Müdürü Recep Baştuğ ise bankanın yaklaşık 25 yıldır tarım sektörüne finansman ve farklı alanlarda destek verdiğini belirtti. Baştuğ, tarımı yalnızca finansman sağlanan bir sektör olarak görmediklerini; teknoloji, verimlilik, su yönetimi ve sürdürülebilir üretim perspektifiyle değerlendirdiklerini ifade etti.\n\nBaştuğ, Tarım, Orman ve İnsan Fotoğraf Yarışması'nın üretimin değerini ve tarımın insan hikâyelerini görünür kılan önemli organizasyonlardan biri olduğunu belirterek, yarışmanın paydaşları arasında yer almaktan memnuniyet duyduklarını söyledi.\n\nTarım ve Orman Bakanlığı verilerine göre, yarışmanın başladığı 2009 yılından bu yana 50 bini aşkın fotoğraf başvurusu yapılırken yaklaşık 14 bin sanatçı yarışmaya katıldı. Bugüne kadar 259 eser ödüle değer bulunurken, bin 945 eser sergilenmeye hak kazandı.\n\nBakanlık ayrıca, 2026 yılında 16'ncısı düzenlenecek yarışmanın temasının \"Kadının Emeği, Tarımın Geleceği\" olacağını duyurdu.\n\nTARIM PUSULASI HABER MERKEZİ"
     },
     {
       "title": "Türkşeker Genel Müdürü, pancar üreticisini savcılığa verdi! Belgeler değil, çiftçi yargıya taşındı",
@@ -328,5 +328,10 @@
   "defaultBorsa": "5ED10",
   "defaultCity": "CANAKKALE",
   "note": "Fiyatlar TOBB ticaret borsasından (borsa seçilebilir). Kanola manuel (Trakya 2025).",
-  "inputsNote": "Mazot: akaryakıt bayi fiyatı, günlük (şehir seçilebilir). Gübre: manuel (yaklaşık)."
+  "inputsNote": "Mazot: akaryakıt bayi fiyatı, günlük (şehir seçilebilir). Gübre: manuel (yaklaşık).",
+  "errors": [
+    "borsa 5ED10: fetch failed",
+    "borsa 5KO10: fetch failed",
+    "borsa 5ES10: fetch failed"
+  ]
 }
