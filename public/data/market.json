@@ -1,26 +1,26 @@
 {
-  "updatedAt": "2026-06-29T17:41:04.728Z",
+  "updatedAt": "2026-06-29T19:26:04.857Z",
   "fx": [
     {
       "code": "USD",
       "name": "Dolar",
-      "buy": 466276,
-      "sell": 466445,
+      "buy": 46629,
+      "sell": 466431,
       "change": 2
     },
     {
       "code": "EUR",
       "name": "Euro",
-      "buy": 532915,
-      "sell": 53331,
+      "buy": 532922,
+      "sell": 533247,
       "change": 37
     },
     {
       "code": "GRA",
       "name": "Gram Altın",
-      "buy": 603337,
-      "sell": 603433,
-      "change": -156
+      "buy": 601472,
+      "sell": 601568,
+      "change": -187
     },
     {
       "code": "CEYREKALTIN",
@@ -38,6 +38,14 @@
     }
   ],
   "news": [
+    {
+      "title": "Rusagrotrans: Rusya'nın Buğday İhracatı %13 Artabilir",
+      "url": "https://www.tarimpusulasi.com/haber/rusagrotrans-rusyanin-bugday-ihracati-13-artabilir-46942",
+      "source": "Tarım Pusulası",
+      "date": "2026-06-29",
+      "summary": "Rusya merkezli analiz kuruluşu Rusagrotrans, 2025-2026 sezonunda ülkenin buğday ihracatının geçen sezona göre yaklaşık %13 artarak 47,7 milyon tona ulaşabileceğini açıkladı. Haziran ayı ihracatında da geçen yılın aynı dönemine göre belirgin artış beklenirken, küresel buğday piyasasında ise yeni hasa",
+      "content": "MOSKOVA — Rusya merkezli Rusagrotrans Analitik Merkezi, 2025-2026 sezonunda ülkenin buğday ihracatının önemli ölçüde artmasını beklediğini açıkladı.\n\nKuruluşun yayımladığı değerlendirmeye göre Rusya'nın buğday ihracatının sezon sonunda 47,7 milyon tona ulaşacağı öngörülüyor. Bu rakam, bir önceki sezonda gerçekleşen 42,2 milyon tonluk ihracatın yaklaşık 5,5 milyon ton üzerinde bulunuyor. Böylece ihracatta yıllık bazda yaklaşık %13'lük artış bekleniyor.\n\nAnalistler, Haziran 2026 döneminde Rusya'nın buğday ihracatının yaklaşık 2,26 milyon ton olacağını tahmin ediyor. Gerçekleşen sevkiyatlar incelendiğinde, 1-22 Haziran tarihleri arasında ihracatın 1,55 milyon ton seviyesine ulaştığı bildirildi.\n\nKarşılaştırmalı verilere göre, Haziran 2025 ayında Rusya'nın buğday ihracatı 1,36 milyon ton olarak gerçekleşmişti. Buna göre Haziran 2026 tahmini, geçen yılın aynı ayına göre yaklaşık 900 bin ton daha yüksek seviyeye işaret ediyor.\n\nKüresel piyasalarda farklı fiyat hareketleri\n\nRusagrotrans'ın değerlendirmesine göre 17-23 Haziran döneminde dünya buğday piyasalarında ülkeler bazında farklı fiyat eğilimleri görüldü.\n\nRusya ve Ukrayna'da yeni hasat döneminin yaklaşmasının etkisiyle buğday fiyatları yaklaşık 1 ABD doları/ton geriledi.\n\nABD'de ise ekili alanların durumunun piyasa beklentilerinin altında kalması nedeniyle fiyatlar yaklaşık 5 ABD doları/ton yükseldi.\n\nFransa ve Almanya'da kurak hava koşullarının etkisiyle buğday fiyatları sırasıyla 2 ABD doları/ton ve 1 ABD doları/ton artış gösterdi.\n\nAnalistler, yeni hasat süreci, hava koşulları ve üretim beklentilerinin önümüzdeki dönemde uluslararası buğday fiyatlarının yönü üzerinde belirleyici olmaya devam edeceğini değerlendiriyor.\n\nTARIM PUSULASI HABER MERKEZİ"
+    },
     {
       "title": "Bakan Yumaklı: 160 bin damızlık küçükbaş dağıtılacak",
       "url": "https://www.tarimpusulasi.com/haber/bakan-yumakli-160-bin-damizlik-kucukbas-dagitilacak-46941",
@@ -93,14 +101,6 @@
       "date": "2026-06-29",
       "summary": "Rusya'da 2026 yılında buğday ekim alanının 25,8 milyon hektara gerilemesi bekleniyor. Analiz şirketi SovEcon, ekim alanlarındaki daralma nedeniyle 2026/27 sezonu buğday üretim tahminini de 90,3 milyon tondan 88,9 milyon tona düşürdü.",
       "content": "MOSKOVA — Rusya'da buğday ekim alanlarının 2026 yılında son yılların en düşük seviyesine gerilemesi bekleniyor. Tarım piyasaları analiz kuruluşu SovEcon'un değerlendirmesine göre ülkede buğday ekim alanı 2025 yılındaki 26,9 milyon hektardan 25,8 milyon hektara düşebilir. Bu gerçekleşirse 2014 yılından bu yana en düşük ekim alanı kaydedilmiş olacak. 2014 yılında buğday ekim alanı 25,2 milyon hektar olarak gerçekleşmişti.\n\nEkim alanlarındaki daralma beklentisi nedeniyle SovEcon, 2026/27 sezonuna ilişkin Rusya buğday üretim tahminini de aşağı yönlü revize etti. Şirket, daha önce 90,3 milyon ton olarak öngördüğü üretim tahminini 88,9 milyon tona indirdi.\n\nRevizyonun temel nedeni baharlık buğday ekim alanlarında beklenen düşüş oldu. Daha önce 10,5 milyon hektar olacağı tahmin edilen baharlık buğday alanı 9,9 milyon hektar olarak güncellendi. Analistler, bunun son onlarca yılın en düşük seviyesi olabileceğine dikkat çekti.\n\nBuna karşılık kışlık buğday ekim alanı 15,9 milyon hektar seviyesinde korunuyor.\n\nSovEcon Genel Müdürü Andrey Sizov, Rusya'nın ihracat potansiyeli açısından üretimin bölgesel dağılımının büyük önem taşıdığını belirtti. Ülkenin başlıca ihracat bölgesi olan Güney Rusya'da buğday üretiminin geçen sezonki 31,9 milyon tondan 37,4 milyon tona çıkmasının beklendiğini ifade etti.\n\nAnalize göre Güney Rusya'daki üretim artışı, ülke genelindeki toplam üretim tahmininin düşmesine rağmen sezonun ilk bölümünde ihracata yönelik arzı artırabilir. Bu durumun küresel buğday piyasasında fiyatlar üzerinde ilave baskı oluşturabileceği değerlendiriliyor.\n\nTARIM PUSULASI HABER MERKEZİ"
-    },
-    {
-      "title": "Eurostat: AB'de Akaryakıt Zamları Tarımsal Maliyetleri Artırdı",
-      "url": "https://www.tarimpusulasi.com/haber/eurostat-abde-akaryakit-zamlari-tarimsal-maliyetleri-artirdi-46934",
-      "source": "Tarım Pusulası",
-      "date": "2026-06-29",
-      "summary": "Avrupa Birliği'nde mayıs ayında akaryakıt fiyatları geçen yılın aynı dönemine göre yüzde 20,7 arttı. Yakıt maliyetlerindeki yükseliş tarımsal üretim giderlerini artırırken, Rusya'da dizel fiyatlarındaki sert artış üreticilerin maliyetlerini kritik seviyelere taşıdı.",
-      "content": "ANKARA — Avrupa Birliği'nde akaryakıt fiyatları mayıs ayında geçen yılın aynı dönemine göre önemli ölçüde yükseldi. Eurostat verilerine göre motorin ve diğer akaryakıt ürünlerinin fiyatı yıllık bazda yüzde 20,7 arttı.\n\nVerilere göre fiyat artışı Avrupa Birliği'nin tüm üye ülkelerinde görüldü. En yüksek artış yüzde 33,9 ile Bulgaristan'da kaydedilirken, Lüksemburg ve Litvanya da yüksek artış yaşayan ülkeler arasında yer aldı. En düşük artış ise yüzde 3,5 ile Macaristan'da gerçekleşti.\n\nYakıt maliyetleri tarımsal üretimi doğrudan etkiliyor\n\nAkaryakıt fiyatlarındaki yükseliş özellikle ekim sezonu ve hasat hazırlıkları döneminde tarımsal üretim maliyetlerini artırıyor. Yakıt; toprak işleme, ekim, sulama, hasat ve ürün taşımacılığı gibi üretimin hemen her aşamasında temel girdiler arasında bulunuyor.\n\nRus üreticiler de yüksek maliyet baskısıyla karşı karşıya\n\nRusya'da da tarım sektörü ciddi yakıt maliyetleriyle mücadele ediyor.\n\nSektör kaynaklarına göre son bir ay içinde tarımsal amaçlı kullanılan akaryakıt fiyatları yüzde 40 ila 50 arasında yükselirken, kış aylarından bu yana toplam artış yüzde 100'ü aştı.\n\n15 Haziran'da St. Petersburg Emtia Borsası'nda motorin fiyatı ton başına 77 bin rublenin (yaklaşık 1.001 ABD doları) üzerine çıkarak tarihi zirvesini gördü. Bu rakam geçen yılın aynı dönemine göre yüzde 30'dan fazla artış anlamına geliyor.\n\nBazı bölgelerde ise lojistik giderleri de eklendiğinde çiftçilerin ödediği dizel fiyatının 100 bin rubleyi (yaklaşık 1.300 ABD doları) aştığı, bazı bölgelerde ise ton başına 115-120 bin rubleye (yaklaşık 1.495-1.560 ABD doları) kadar yükseldiği ifade edildi.\n\nÜreticiler kârlılığın hızla düştüğünü söylüyor\n\nRus üretici temsilcileri mevcut buğday fiyatlarıyla bu seviyedeki yakıt maliyetlerinin sürdürülebilir olmadığını belirtiyor.\n\nÜreticilere göre ton başına 100 bin ruble (yaklaşık 1.300 ABD doları) seviyesindeki motorin maliyetlerinin karşılanabilmesi için buğday fiyatının yaklaşık 18 bin ruble (yaklaşık 234 ABD doları) olması gerekiyor. Ancak mevcut piyasa fiyatı bunun yaklaşık yarısı seviyesinde bulunuyor ve 9 bin ruble (yaklaşık 117 ABD doları) düzeyinde işlem görüyor.\n\nFiyat artışının arkasında birçok neden bulunuyor\n\nUzmanlara göre fiyat yükselişinde;\n\nMevsimsel talep artışı,\n\nPetrol rafinerileri ve depolama tesislerine yönelik saldırıların etkileri,\n\nGüney bölgelerde yaşanan lojistik sorunları,\n\nDizelin ihracat pazarlarında daha yüksek gelir sağlaması\n\ngibi faktörler etkili oldu.\n\nUzmanlar ayrıca piyasada oluşan arz endişelerinin üreticileri erken yakıt alımına yönlendirdiğini, bunun da fiyatların daha da yükselmesine neden olduğunu belirtiyor.\n\nGıda fiyatlarına yeni baskı uyarısı\n\nRusya Merkez Bankası daha önce yaptığı değerlendirmelerde enerji maliyetlerindeki artışın gıda fiyatları üzerinde de yukarı yönlü baskı oluşturabileceğine dikkat çekmişti.\n\nUzmanlara göre özellikle tahıl üretiminde yakıt giderleri toplam üretim maliyetinin yaklaşık yüzde 40'ına ulaşmış durumda.\n\nTarım ve enerji uzmanları, artan üretim maliyetlerinin önümüzdeki dönemde hem üreticilerin kârlılığını hem de tüketici fiyatlarını etkilemeye devam edebileceğini değerlendiriyor.\n\nTARIM PUSULASI HABER MERKEZİ"
     },
     {
       "title": "Türkşeker Genel Müdürü, pancar üreticisini savcılığa verdi! Belgeler değil, çiftçi yargıya taşındı",
@@ -328,10 +328,5 @@
   "defaultBorsa": "5ED10",
   "defaultCity": "CANAKKALE",
   "note": "Fiyatlar TOBB ticaret borsasından (borsa seçilebilir). Kanola manuel (Trakya 2025).",
-  "inputsNote": "Mazot: akaryakıt bayi fiyatı, günlük (şehir seçilebilir). Gübre: manuel (yaklaşık).",
-  "errors": [
-    "borsa 5ED10: fetch failed",
-    "borsa 5KO10: fetch failed",
-    "borsa 5ES10: fetch failed"
-  ]
+  "inputsNote": "Mazot: akaryakıt bayi fiyatı, günlük (şehir seçilebilir). Gübre: manuel (yaklaşık)."
 }
