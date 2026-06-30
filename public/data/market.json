@@ -1,26 +1,26 @@
 {
-  "updatedAt": "2026-06-30T01:50:34.414Z",
+  "updatedAt": "2026-06-30T06:16:10.393Z",
   "fx": [
     {
       "code": "USD",
       "name": "Dolar",
-      "buy": 46.64,
-      "sell": 46.65,
-      "change": -0.01
+      "buy": 46.65,
+      "sell": 46.67,
+      "change": 0.03
     },
     {
       "code": "EUR",
       "name": "Euro",
-      "buy": 53.28,
-      "sell": 53.36,
-      "change": 0
+      "buy": 53.16,
+      "sell": 53.18,
+      "change": -0.28
     },
     {
       "code": "GRA",
       "name": "Gram Altın",
-      "buy": 6026.07,
-      "sell": 6026.85,
-      "change": 0.05
+      "buy": 5982.32,
+      "sell": 5983.29,
+      "change": -0.67
     },
     {
       "code": "CEYREKALTIN",
@@ -38,6 +38,14 @@
     }
   ],
   "news": [
+    {
+      "title": "Hasat bereketi fiyatlara yansıdı: Hububatta düşüş eğilimi sürüyor",
+      "url": "https://www.tarimdanhaber.com/hasat-bereketi-fiyatlara-yansidi-hububatta-dusus-egilimi-suruyor",
+      "source": "Tarımdan Haber",
+      "date": "2026-06-30",
+      "summary": "Türkiye genelinde hasadın hız kazanmasıyla birlikte hububat piyasasında fiyatlar aşağı yönlü seyrini koruyor. Son verilere göre buğday, arpa ve mısır fiyatlarında hem haftalık hem de günlük bazda gerileme yaşandı.",
+      "content": "Haber Merkezi / Türkiye genelindeki 15 farklı ticaret borsasından elde edilen verilere göre, hububat ürünlerinde hasat dönemiyle birlikte beklenen fiyat gevşemesi net bir şekilde gözlemleniyor. Arzın piyasaya girmesiyle birlikte fiyatlar, geçtiğimiz haftayı düşüşle tamamladı.\n\nHaftalık Verilerde Düşüş Dikkat Çekiyor\n\nTicaret borsalarının 22-26 Haziran 2026 tarihlerini kapsayan haftalık ortalamalarına bakıldığında, hububat fiyatlarının istikrarlı bir şekilde gerilediği görülüyor. Haftalık bazda ekmeklik buğday fiyatı 14.841 TL seviyesinden 14.745 TL’ye, makarnalık buğday ise 15.649 TL’den 15.332 TL’ye indi. Aynı dönemde arpa fiyatları 12.017 TL’den 11.568 TL’ye, mısır fiyatları ise 13.334 TL’den 13.143 TL seviyesine geriledi.\n\nKapanış Fiyatlarında da Düşüş Hakim\n\nHaftanın son işlem günü olan 26 Haziran 2026 tarihindeki kapanış fiyatları, düşüş trendinin günlük bazda da devam ettiğini gösteriyor. Gün sonu kapanış verilerine göre;\n\nEkmeklik Buğday: 14.768 TL’den 14.643 TL’ye,\n\nMakarnalık Buğday: 15.683 TL’den 15.073 TL’ye,\n\nArpa: 11.655 TL’den 11.456 TL’ye geriledi.\n\nAylık Genel Görünüm\n\nHaziran ayı genelindeki (01-26 Haziran 2026) ortalama fiyatlar, sezonun bu dönemindeki piyasa hareketliliğini de ortaya koyuyor. Bu süreçte oluşan ortalama fiyatlar şöyle gerçekleşti:\n\nHasadın ilerlemesiyle birlikte fiyatlardaki bu seyir, önümüzdeki dönemde piyasaların nasıl bir dengeye oturacağını da belirleyecek. Üreticiler ve piyasa takipçileri, ürün girişlerinin hızlanmasıyla fiyatlardaki mevcut dalgalanmanın devam edip etmeyeceğini yakından izliyor."
+    },
     {
       "title": "Tarımda 'mutlak butlan' davası! Pancar kooperatifi seçimleri yargıya taşındı",
       "url": "https://www.tarimdanhaber.com/tarimda-mutlak-butlan-davasi-pancar-kooperatifi-secimleri-yargiya-tasindi",
@@ -125,14 +133,6 @@
       "date": "2026-06-28",
       "summary": "Türkşeker Genel Müdürü Muhiddin Şahin, Tarımdan Haber’in belgeleriyle ortaya koyduğu organize pancar kaçakçılığı ve kanunsuz pancar ekim sözleşmeleri karşısında sessizliğini korurken, bu skandallara sosyal medya üzerinden tepki gösteren çiftçi hakkında suç duyurusunda bulundu.",
       "content": "Haber Merkezi / Tarımdan Haber'in daha önce belgeleriyle gündeme getirdiği organize pancar kaçakçılığı ve UHM Tarım üzerinden çiftçilerle yapılan kanunsuz düşük fiyattan pancar ekim sözleşmeleri, kamuoyunda tartışılmaya devam ederken, Türkşeker Genel Müdürü Muhiddin Şahin'den dikkat çeken bir suç duyurusu kararı geldi. Organize pançar kaçakçılığı ve UHM Tarım üzerinden yapılan kanunsuz düşük fiyatlı pancar ekim sözleşmelerine karşı hiç bir işlem başlatmayan Şahin, sosyal medya hesabından söz konusu iddialara tepki gösteren bir çiftçi hakkında Ankara Cumhuriyet Başsavcılığı'na suç duyurusunda bulundu.\n\nSuç duyurusu dilekçesine göre Muhittin Şahin'in, sosyal medya paylaşımlarında kendisine yönelik \"yolsuzluk\", \"tefecilere para kazandırmak\" ve benzeri ifadeler kullanıldığı gerekçesiyle çiftçiden şikayetçi olması dikkat çekti.\n\nDört ayrı suçtan şikayet\n\nAnkara Cumhuriyet Başsavcılığı'na sunulan dilekçede, çiftçi hakkında;\n\nHakaret,\n\nİftira,\n\nHalkı kin ve düşmanlığa sevk etme,\n\nGerçeğe aykırı bilgiyi alenen yayma\n\nsuçlarının oluştuğu ileri sürüldü.\n\nDilekçede, sosyal medya paylaşımlarında yer alan ifadelerin Muhittin Şahin'i kamuoyu önünde suçlu gibi gösterdiği, herhangi bir kesinleşmiş yargı kararı veya resmi tespit bulunmaksızın yolsuzluk isnadında bulunulduğu savunuldu.\n\nTarımdan Haber'in gündeme taşıdığı belgeler pancarda yaşanan yolsuzluğu ortaya koymuştu!\n\nTarımdan Haber, daha önce yayımladığı haberlerde Türkşeker'in ekim sahası içerisinde bulunan Karapınar'dan Çorum Şeker Fabrikası'na gerçekleştirilen 150 bin ton ile 200 bin ton olduğu düşünülen kaçak pancar sevkiyatına ilişkin belgeleri ve UHM Tarım üzerinden bazı üreticilerle piyasa fiyatlarının altında imzalanan pancar ekim sözleşmeleri belgeleri ile kamuoyu ile paylaşılmıştı.\n\nTürkşeker, kamuoyuna yansıyan belgelerle ilgili herhangi bir açıklama yapmazken, Bilgi Edinme Hakkı kapsamında UHM Tarım'a verilen kotalarla ilgili CİMER üzerinden yapılan başvurulara da yanıt vermedi. Çorum Şeker Fabrikası ile UHM Tarım hakkında kamuoyuna açıklanmış herhangi bir idari soruşturma bilgisi bulunmazken, Türkşeker Genel Müdürü Muhiddin Şahin'in sosyal medya üzerinden söz konusu iddialara tepki gösteren çiftçi Şerafettin Buga hakkında hakaret, iftira, halkı kin ve düşmanlığa sevk etme ile gerçeğe aykırı bilgiyi alenen yayma suçlamalarıyla Ankara Cumhuriyet Başsavcılığı'na suç duyurusunda bulunması dikkat çekti.\n\nSuç duyurusu, tarım camiasında \"Belgelerde yer alan iddialar mı araştırılacak, yoksa bu iddiaları dile getirenler mi yargı önüne çıkarılacak?\" sorusunu da beraberinde getirdi.\n\nGözler soruşturma sürecinde\n\nSavcılığın suç duyurusu üzerine nasıl bir değerlendirme yapacağı önümüzdeki süreçte netlik kazanacak.\n\nKaçak pancar ve UHM Tarım dosyası\n\nPancar kotasında büyük vurgun: Çiftçinin alın terinden 300 milyonluk rant devşiriliyor!\n\nKarapınar’daki pancar vurgunu: Rant ağı nasıl örüldü, kimler neyi görmezden geldi?\n\nKarapınar’da pancar kotası rantı: Müfettişler gerçeği mi arıyor, iz mi siliyor?\n\nPancar kotası vurgununda kilit soru: Türkşeker neden susuyor?"
-    },
-    {
-      "title": "Konya Şeker’in Soma B Santrali Eylül’de icradan satılacak: Satış bedeli borcu kapatmaya yetmeyecek!",
-      "url": "https://www.tarimdanhaber.com/konya-sekerin-soma-b-santrali-eylulde-icradan-satilacak-satis-bedeli-borcu-kapatmaya-yetmeyecek",
-      "source": "Tarımdan Haber",
-      "date": "2026-06-28",
-      "summary": "İcradan satılacak Soma B Termik Santrali için 350 milyon dolar değer biçildi. Ancak satıştan elde edilecek gelir 20 milyar TL’yi aşan kömür borcunun tamamını karşılamayacak; TKİ’nin Konya Şeker’den ek talepte bulunması bekleniyor.",
-      "content": "Haber Merkezi / Konya Şeker’in Türkiye Kömür İşletmeleri’ne (TKİ) olan 20 milyar TL’yi aşan borcu nedeniyle icralık olan Soma B Termik Santrali’nin satış takvimi belli oldu. ANKA Haber Ajansı’ndan Olcay Aydilek’in aktardığı bilgilere göre, santral Eylül ayının ilk haftasında icra yoluyla satışa çıkarılacak.\n\n2015 yılında 685,5 milyon dolara satın alınan Soma B Termik Santrali, Konya Şeker’in TKİ’ye olan borçları nedeniyle bugün yeniden mülkiyet değişikliğine hazırlanıyor. Enerji ve Tabii Kaynaklar Bakanlığı ile yapılan uzun görüşmelerden sonuç alınamaması üzerine başlatılan icra süreci, satış aşamasına ulaştı.\n\n350 Milyon Dolar Değer Biçildi\n\nİcra Dairesi tarafından görevlendirilen bilirkişi heyeti, yaptığı incelemeler neticesinde Soma B Termik Santrali’ne 350 milyon dolar değer biçti. Eylül ayının ilk haftasında gerçekleştirilmesi planlanan satıştan elde edilecek gelirin tamamı, TKİ’nin alacaklarına mahsuben kuruma aktarılacak. Ancak kaynaklar, bu satışın TKİ'nin alacağının tamamını karşılamayabileceğini ve kurumun kalan bakiye için Konya Şeker'den yeni talepte bulunmasının beklendiğini belirtiyor.\n\nSektörde \"Sürpriz\" İsim: Yeni Bir Alıcı Markajda\n\nDaha önce Akçadağ ve ODAŞ gibi firmaların ilgilendiği bilinen santral için şimdi gözler yeni taliplere çevrildi. Enerji Bakanlığı kaynakları, sektörden büyük bir şirketin daha santrali yakın markaja aldığını ifade ediyor.\n\nKaynaklar, sürecin sadece Soma B ile sınırlı kalmayabileceğine de dikkat çekiyor: \"Soma icradan satılacak; aynı zamanda Sivas Kangal Termik Santrali de pazarlık yoluyla bir alıcıya devredilebilir. Konya Şeker, böylece enerji sektöründen çekilme sürecini tamamlayabilir.\"\n\nSüreç Nasıl Buraya Geldi?\n\nKonya Şeker yönetimi santrali işletememiş, elektrik üretimi için kömür tedarik edilen TKİ’ye de borçlar ödenmediği için mali kriz derinleşmişti. TKİ'ye borçlar, faizlerle birlikte 20 milyar TL sınırını aşarken, borçlar nedeniyle kömür tedarikinin ve elektrik üretiminin durma noktasına gelmesi üzerine devreye giren Enerji ve Tabii Kaynaklar Bakanlığı, yönetimle yürütülen müzakerelerden sonuç alamayınca hukuki süreç başlatılmıştı."
     }
   ],
   "commoditiesByBorsa": {
@@ -328,19 +328,5 @@
   "defaultBorsa": "5ED10",
   "defaultCity": "CANAKKALE",
   "note": "Fiyatlar TOBB ticaret borsasından (borsa seçilebilir). Kanola manuel (Trakya 2025).",
-  "inputsNote": "Mazot: akaryakıt bayi fiyatı, günlük (şehir seçilebilir). Gübre: manuel (yaklaşık).",
-  "errors": [
-    "fx: fetch failed",
-    "borsa 5ES10: fetch failed",
-    "mazot ANKARA: fetch failed",
-    "mazot ISTANBUL: fetch failed",
-    "mazot IZMIR: fetch failed",
-    "mazot KONYA: fetch failed",
-    "mazot ADANA: fetch failed",
-    "mazot BURSA: fetch failed",
-    "mazot ANTALYA: fetch failed",
-    "mazot SAMSUN: fetch failed",
-    "mazot TEKIRDAG: fetch failed",
-    "mazot CANAKKALE: fetch failed"
-  ]
+  "inputsNote": "Mazot: akaryakıt bayi fiyatı, günlük (şehir seçilebilir). Gübre: manuel (yaklaşık)."
 }
