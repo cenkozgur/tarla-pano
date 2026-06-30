@@ -1,43 +1,51 @@
 {
-  "updatedAt": "2026-06-30T16:54:44.383Z",
+  "updatedAt": "2026-06-30T18:58:30.209Z",
   "fx": [
     {
       "code": "USD",
       "name": "Dolar",
-      "buy": 46.66,
-      "sell": 46.66,
-      "change": 0.03
+      "buy": 46.64,
+      "sell": 46.65,
+      "change": 0
     },
     {
       "code": "EUR",
       "name": "Euro",
-      "buy": 53.2,
-      "sell": 53.21,
-      "change": -0.22
+      "buy": 53.3,
+      "sell": 53.32,
+      "change": -0.02
     },
     {
       "code": "GRA",
       "name": "Gram Altın",
-      "buy": 6040.58,
-      "sell": 6041.34,
-      "change": 0.29
+      "buy": 6044.97,
+      "sell": 6045.89,
+      "change": 0.37
     },
     {
       "code": "CEYREKALTIN",
       "name": "Çeyrek Altın",
-      "buy": 9666.56,
-      "sell": 9887.77,
-      "change": -0.59
+      "buy": 9658.23,
+      "sell": 9881.38,
+      "change": -0.66
     },
     {
       "code": "CUMHURIYETALTINI",
       "name": "Cumhuriyet Altını",
-      "buy": 40098,
-      "sell": 40709,
-      "change": -0.78
+      "buy": 40037,
+      "sell": 40641,
+      "change": -0.95
     }
   ],
   "news": [
+    {
+      "title": "Eurostat: Fransa sıcakları Romanya mısır fiyatını yükseltti",
+      "url": "https://www.tarimpusulasi.com/haber/eurostat-fransa-sicaklari-romanya-misir-fiyatini-yukseltti-46950",
+      "source": "Tarım Pusulası",
+      "date": "2026-06-30",
+      "summary": "Fransa ve Almanya'da etkili olan sıcak hava dalgası Avrupa tahıl piyasasında fiyatları yukarı taşıdı. Romanya mısırı FOB Köstence'de 240-243 dolar/ton seviyesine yükselirken, Eurostat verileri Fransa'nın son iki sezonda AB'nin en güçlü mısır tedarikçilerinden biri olduğunu gösterdi.",
+      "content": "BÜKREŞ — Avrupa'da etkisini artıran sıcak hava dalgası tahıl piyasalarında fiyat hareketlerini hızlandırırken, Romanya mısırı en yakın teslimatlar için FOB Köstence (Constanța) bazında 240-243 ABD doları/ton seviyelerinde işlem görerek piyasadaki en yüksek fiyatlı tahıl ürünlerinden biri oldu.\n\nPiyasa kaynaklarına göre fiyatlardaki yükseliş, Avrupa tahıl borsası MATIF'teki hareketlerin yanı sıra özellikle Fransa ve Almanya'da etkili olan aşırı sıcak hava koşullarına ilişkin beklentilerden destek alıyor. Uzmanlar, yüksek sıcaklıkların mısır gelişimi üzerindeki olası etkilerinin yakından izlendiğini belirtiyor.\n\nEurostat verileri ise Fransa'nın Avrupa Birliği içindeki mısır ticaretinde son iki sezonda güç kazandığını ortaya koyuyor. Verilere göre Fransa, AB iç pazarına yaptığı sevkiyatlarda Romanya'yı geride bırakarak özellikle Hollanda, Belçika ve İspanya gibi yakın pazarlarda daha önemli bir tedarikçi haline geldi.\n\nPiyasa katılımcıları, önümüzdeki günlerde Fransa ve Almanya'daki hava koşullarının yanı sıra MATIF'teki fiyat hareketlerinin Avrupa mısır piyasasının yönü açısından belirleyici olacağını değerlendiriyor.\n\nTARIM PUSULASI HABER MERKEZİ"
+    },
     {
       "title": "Platts: Fransa'da buğday fiyatları 3 ayın zirvesinde",
       "url": "https://www.tarimpusulasi.com/haber/platts-fransada-bugday-fiyatlari-3-ayin-zirvesinde-46949",
@@ -117,14 +125,6 @@
       "date": "2026-06-29",
       "summary": "Türkiye genel siyasetinde gündem olan \"mutlak butlan\" tartışması bu kez Akşehir-Ilgın Pancar Ekicileri Kooperatifi seçimlerine taşındı. 23 Mayıs'taki seçimde başkan adayı tarafından, uzak bölgelerdeki çiftçilerin sandığa katılımı için mazot giderlerinin karşılanmasının seçim iradesini sakatladığı id",
       "content": "Sadettin İnan / Genel siyasetteki seçim süreçlerine dair \"kesin hükümsüzlük\" tartışmaları, rotasını tarım dünyasının önemli temsilcilerinden biri olan Akşehir-Ilgın Pancar Ekicileri Kooperatifi’ne çevirdi. 23 Mayıs 2026 tarihinde yapılan genel kurulda, uzun yıllardır görev yapan başkan Yusuf Yazır seçimi kaybederek koltuğu Ahmet Kara’ya devretmişti. Ancak bu seçim, sonuçların açıklanmasıyla birlikte hukuk dünyasında daha önce pek rastlanmayan bir tartışmanın fitilini ateşledi.\n\nSeçim Stratejisi Mahkemelik Oldu\n\nDavacılar Yusuf Yazır ve Abdullah Demirtaş, seçim sürecinde uzak bölgelerdeki çiftçilerin sandığa katılımını sağlamak amacıyla kullanılan ve mazot giderlerinin karşılandığı iddia edilen yöntemi yargıya taşıdı. Davacı taraf, bu yöntemin sadece bir \"seçim çalışması\" olmadığını, seçim iradesini kökten sakatladığını ve bu nedenle Türk Borçlar Kanunu’nun 27. maddesi kapsamında \"mutlak butlan\" ile malul olduğu gerekçesiyle seçimlerin iptali için Konya 1. Asliye Ticaret Mahkemesi’ne dava açtı.\n\nSiyasetten Kooperatife Hukuki Emsal\n\nKooperatif seçimlerinde benzer yöntemlerin gelenekselleşmiş bir uygulama olarak görülmesine rağmen, bu kez bunun bir \"hukuki ihtilaf\" konusu haline getirilmesi dikkatleri üzerine çekti. Kooperatif eski Başkanı Yusuf Yazır ve Abdullah Demirtaş, bu durumu sadece bir usulsüzlük olarak değil, seçim iradesinin satın alınması ve iradenin fesada uğratılması olarak nitelendirerek, seçimin \"yok hükmünde\" sayılmasını talep etti.\n\nHukuk çevreleri, seçim süreçlerinde \"katılımı artırma\" gerekçesiyle yapılan yardımların, yargı nezdinde \"irade fesadı\" olarak kabul edilip edilmeyeceği üzerine bir tartışma başlattı.\n\nGözler Yargı Kararında\n\nAkşehir-Ilgın Pancar Ekicileri Kooperatif seçimlerinin iptaline yönelik açılan mutlak butlan davası, kooperatif ve birlik seçimlerinde bundan sonra yürütülecek seçim kampanyaları ve yöntemleri için kritik bir emsal teşkil edebilir. Pancar üreticisi ise kooperatifin geleceğine dair hukuktan çıkacak kararı merakla bekliyor."
-    },
-    {
-      "title": "Rusagrotrans: Rusya'nın Buğday İhracatı %13 Artabilir",
-      "url": "https://www.tarimpusulasi.com/haber/rusagrotrans-rusyanin-bugday-ihracati-13-artabilir-46942",
-      "source": "Tarım Pusulası",
-      "date": "2026-06-29",
-      "summary": "Rusya merkezli analiz kuruluşu Rusagrotrans, 2025-2026 sezonunda ülkenin buğday ihracatının geçen sezona göre yaklaşık %13 artarak 47,7 milyon tona ulaşabileceğini açıkladı. Haziran ayı ihracatında da geçen yılın aynı dönemine göre belirgin artış beklenirken, küresel buğday piyasasında ise yeni hasa",
-      "content": "MOSKOVA — Rusya merkezli Rusagrotrans Analitik Merkezi, 2025-2026 sezonunda ülkenin buğday ihracatının önemli ölçüde artmasını beklediğini açıkladı.\n\nKuruluşun yayımladığı değerlendirmeye göre Rusya'nın buğday ihracatının sezon sonunda 47,7 milyon tona ulaşacağı öngörülüyor. Bu rakam, bir önceki sezonda gerçekleşen 42,2 milyon tonluk ihracatın yaklaşık 5,5 milyon ton üzerinde bulunuyor. Böylece ihracatta yıllık bazda yaklaşık %13'lük artış bekleniyor.\n\nAnalistler, Haziran 2026 döneminde Rusya'nın buğday ihracatının yaklaşık 2,26 milyon ton olacağını tahmin ediyor. Gerçekleşen sevkiyatlar incelendiğinde, 1-22 Haziran tarihleri arasında ihracatın 1,55 milyon ton seviyesine ulaştığı bildirildi.\n\nKarşılaştırmalı verilere göre, Haziran 2025 ayında Rusya'nın buğday ihracatı 1,36 milyon ton olarak gerçekleşmişti. Buna göre Haziran 2026 tahmini, geçen yılın aynı ayına göre yaklaşık 900 bin ton daha yüksek seviyeye işaret ediyor.\n\nKüresel piyasalarda farklı fiyat hareketleri\n\nRusagrotrans'ın değerlendirmesine göre 17-23 Haziran döneminde dünya buğday piyasalarında ülkeler bazında farklı fiyat eğilimleri görüldü.\n\nRusya ve Ukrayna'da yeni hasat döneminin yaklaşmasının etkisiyle buğday fiyatları yaklaşık 1 ABD doları/ton geriledi.\n\nABD'de ise ekili alanların durumunun piyasa beklentilerinin altında kalması nedeniyle fiyatlar yaklaşık 5 ABD doları/ton yükseldi.\n\nFransa ve Almanya'da kurak hava koşullarının etkisiyle buğday fiyatları sırasıyla 2 ABD doları/ton ve 1 ABD doları/ton artış gösterdi.\n\nAnalistler, yeni hasat süreci, hava koşulları ve üretim beklentilerinin önümüzdeki dönemde uluslararası buğday fiyatlarının yönü üzerinde belirleyici olmaya devam edeceğini değerlendiriyor.\n\nTARIM PUSULASI HABER MERKEZİ"
     },
     {
       "title": "Güncel hububat fiyatları – Buğday, arpa ve mısır fiyatları 29 Haziran 2026",
@@ -328,21 +328,5 @@
   "defaultBorsa": "5ED10",
   "defaultCity": "CANAKKALE",
   "note": "Fiyatlar TOBB ticaret borsasından (borsa seçilebilir). Kanola manuel (Trakya 2025).",
-  "inputsNote": "Mazot: akaryakıt bayi fiyatı, günlük (şehir seçilebilir). Gübre: manuel (yaklaşık).",
-  "errors": [
-    "fx: fetch failed",
-    "borsa 5ED10: fetch failed",
-    "borsa 5KO10: fetch failed",
-    "borsa 5ES10: fetch failed",
-    "mazot ANKARA: fetch failed",
-    "mazot ISTANBUL: fetch failed",
-    "mazot IZMIR: fetch failed",
-    "mazot KONYA: fetch failed",
-    "mazot ADANA: fetch failed",
-    "mazot BURSA: fetch failed",
-    "mazot ANTALYA: fetch failed",
-    "mazot SAMSUN: fetch failed",
-    "mazot TEKIRDAG: fetch failed",
-    "mazot CANAKKALE: fetch failed"
-  ]
+  "inputsNote": "Mazot: akaryakıt bayi fiyatı, günlük (şehir seçilebilir). Gübre: manuel (yaklaşık)."
 }
