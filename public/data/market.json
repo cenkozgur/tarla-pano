@@ -1,26 +1,26 @@
 {
-  "updatedAt": "2026-06-30T18:58:30.209Z",
+  "updatedAt": "2026-06-30T20:57:39.023Z",
   "fx": [
     {
       "code": "USD",
       "name": "Dolar",
-      "buy": 46.64,
-      "sell": 46.65,
-      "change": 0
+      "buy": 46.59,
+      "sell": 46.66,
+      "change": -0.04
     },
     {
       "code": "EUR",
       "name": "Euro",
-      "buy": 53.3,
-      "sell": 53.32,
-      "change": -0.02
+      "buy": 53.28,
+      "sell": 53.35,
+      "change": -0.01
     },
     {
       "code": "GRA",
       "name": "Gram Altın",
-      "buy": 6044.97,
-      "sell": 6045.89,
-      "change": 0.37
+      "buy": 6010.85,
+      "sell": 6011.97,
+      "change": -0.2
     },
     {
       "code": "CEYREKALTIN",
@@ -38,6 +38,30 @@
     }
   ],
   "news": [
+    {
+      "title": "Paraguay, BAE'ye İlk Resmi Koyun Eti İhracatını Gerçekleştirdi",
+      "url": "https://www.tarimpusulasi.com/haber/paraguay-baeye-ilk-resmi-koyun-eti-ihracatini-gerceklestirdi-46953",
+      "source": "Tarım Pusulası",
+      "date": "2026-06-30",
+      "summary": "Paraguay, Birleşik Arap Emirlikleri'ne yaklaşık 12 tonluk ilk resmi koyun eti ihracatını gerçekleştirdi. Frigorífico Victoria tarafından yapılan sevkiyatın, ülkenin koyunculuk sektörüne yeni ihracat fırsatları sunması bekleniyor.",
+      "content": "ASUNCIÓN — Paraguay, Birleşik Arap Emirlikleri (BAE) pazarının açılmasının ardından bu ülkeye yönelik ilk resmi koyun eti ihracatını gerçekleştirerek hayvansal üretim sektöründe yeni bir ihracat eşiğini geçti.\n\nİlk sevkiyat, Paraguay'da faaliyet gösteren Frigorífico Victoria tarafından gerçekleştirildi. Yaklaşık 12 ton koyun etinden oluşan ihracatın, Paraguay koyunculuk sektörünün uluslararası pazarlara açılmasında önemli bir adım olduğu değerlendiriliyor.\n\nBirleşik Arap Emirlikleri, yüksek kalite standartları ve katma değerli gıda ithalatı nedeniyle dünya genelinde en seçici pazarlardan biri olarak kabul ediliyor. Paraguay'ın bu pazara giriş yapması, ülkenin ihracat pazarlarını çeşitlendirme stratejisinin önemli bir parçası olarak öne çıkıyor.\n\nSektör temsilcileri, elde edilen başarının üreticiler, et sanayisi ve veterinerlik/sağlık hizmetlerinin koordineli çalışmaları sayesinde mümkün olduğunu belirtiyor. Bu iş birliğinin Paraguay menşeli hayvansal ürünlerin uluslararası pazarlardaki rekabet gücünü artırması hedefleniyor.\n\nGerçekleştirilen ilk ihracat yaklaşık 12 ton olarak açıklanırken, mevcut metinde önceki dönemlere ait koyun eti ihracat miktarına ilişkin resmi bir veri paylaşılmadığı için doğrudan sayısal karşılaştırma yapılamıyor. Ancak sevkiyatın, BAE pazarına yapılan ilk resmi koyun eti ihracatı olması bakımından sektörde önemli bir kilometre taşı niteliği taşıdığı ifade ediliyor.\n\nTARIM PUSULASI HABER MERKEZİ"
+    },
+    {
+      "title": "TASS: Fransa'da sıcaklar buğday ve mısırı vurdu",
+      "url": "https://www.tarimpusulasi.com/haber/tass-fransada-sicaklar-bugday-ve-misiri-vurdu-46952",
+      "source": "Tarım Pusulası",
+      "date": "2026-06-30",
+      "summary": "Fransa Tarım Bakanı Annie Genevard, 10 günü aşan sıcak hava dalgasının özellikle buğday ve mısır üretiminde hasat kayıplarını kaçınılmaz hale getirdiğini açıkladı. Hükümet ise doğal afet ilanı konusunda henüz karar vermedi.",
+      "content": "PARİS — Fransa'da 10 günden uzun süredir devam eden olağanüstü sıcak hava dalgası, bitkisel üretimde verim kaybı endişelerini artırdı. Fransa Tarım Bakanı Annie Genevard, özellikle buğday ve mısır üretiminde hasat kayıplarının kaçınılmaz olduğunu açıkladı.\n\nTASS'ın, Bakan Genevard'ın Les Echos gazetesine verdiği röportaja dayandırdığı habere göre, uzun süredir etkili olan yüksek sıcaklıklar tarım sektöründe önemli zararlara yol açtı.\n\nGenevard, özellikle sulanan ve sulanmayan üretim alanları arasında önemli verim farkı oluşacağını belirterek, buğday ve mısır üretiminin sıcak hava koşullarından en fazla etkilenecek ürünler arasında bulunduğunu söyledi.\n\nTarım Bakanı, mevcut aşamada hükümetin ülke genelinde doğal afet ilan edip etmeyeceği konusunda karar vermek için henüz erken olduğunu ifade etti. Fransa tarımının geçmişte de benzer iklim olaylarıyla karşı karşıya kaldığını hatırlatan Genevard, Tarım Bakanlığı'nın üreticilere yönelik acil destek mekanizmalarını sürdürdüğünü belirtti.\n\nBakan Genevard, iklim değişikliğinin etkilerinin daha sık hissedildiğine dikkat çekerek, üreticilerin aşırı sıcak dönemlerine karşı daha hazırlıklı olması gerektiğini vurguladı. Her işletmeye klima kurulmasının gerçekçi olmadığını belirten Genevard, bunun yerine ahır ve kümeslerde alternatif soğutma sistemlerinin değerlendirilmesini önerdi.\n\nSulama konusunda ise gelecek hafta Fransa Parlamentosu'nda görüşülmesi planlanan tarımda olağanüstü hal yasa tasarısının belirleyici olacağı bildirildi. Tasarıda özellikle sulama rezervuarları ve su yönetimine ilişkin düzenlemeler yer alıyor.\n\nTARIM PUSULASI HABER MERKEZİ"
+    },
+    {
+      "title": "NASS: ABD'de buğday fiyatları hasatla gerilemeye devam ediyor",
+      "url": "https://www.tarimpusulasi.com/haber/nass-abdde-bugday-fiyatlari-hasatla-gerilemeye-devam-ediyor-46951",
+      "source": "Tarım Pusulası",
+      "date": "2026-06-30",
+      "summary": "ABD'de kışlık buğday hasadının son beş yıl ortalamasının üzerine çıkması ve yazlık buğdayın durumunun iyileşmesi, vadeli işlemlerde fiyatları aşağı çekti. Buna karşın Avrupa'daki sıcak hava dalgası üretim riskini artırmaya devam ediyor.",
+      "content": "CHICAGO — ABD'de kışlık buğday hasadının hız kazanması ve yazlık buğday ekilişlerinde ürün durumunun iyileşmesi, vadeli buğday kontratlarında satış baskısını artırırken, Avrupa'da etkisini sürdüren sıcak hava dalgası küresel arz endişelerini gündemde tutuyor.\n\nABD Tarım Bakanlığı'na bağlı Ulusal Tarımsal İstatistik Servisi (NASS) tarafından yayımlanan Crop Progress raporuna göre, 28 Haziran itibarıyla kışlık buğday hasadının %48'i tamamlandı. Bu oran, son 5 yıl ortalaması olan %39'un 9 puan üzerinde gerçekleşti.\n\nAynı raporda, iyi ve çok iyi durumdaki kışlık buğday oranı %26 ile geçen haftaya göre değişmezken, geçen yılın aynı dönemindeki %48 seviyesinin oldukça altında kaldı. Buna karşılık yazlık buğdayın iyi ve çok iyi durumdaki oranı %59'a yükselerek geçen yılki %53 seviyesini aştı.\n\nVadeli işlem piyasalarında ise Temmuz kontratları üzerinde vade sonuna yaklaşılmasıyla birlikte satış baskısı arttı. Temmuz vadeli kontratlar zararına el değiştirirken, Eylül vadeli kontratlar yaklaşık 20 ABD doları/ton daha yüksek seviyelerde işlem görüyor.\n\nHaftalık bazda Temmuz vadeli kontratlarda Chicago'da %4,9, Kansas City'de %5,6, Minneapolis'te ise %12 değer kaybı yaşandı. Paris Euronext'te Eylül vadeli buğday kontratındaki düşüş ise %0,6 ile sınırlı kaldı.\n\nÖte yandan FranceAgriMer, Fransa'da 16-22 Haziran döneminde iyi ve çok iyi durumdaki yumuşak buğday oranının %74'e gerilediğini açıkladı. Ülkede geçen hafta görülen 40-45°C sıcaklıkların verim potansiyelini olumsuz etkilediği belirtilirken, Doğu Avrupa'da da sıcak hava dalgasının üretim üzerinde risk oluşturduğu ifade edildi.\n\nUkrayna'da ise ihracat fiyatları gerilemeye devam ediyor. Karadeniz limanlarına teslim gıda amaçlı buğday fiyatları son bir haftada 100-150 Grivna/ton düşüş gösterdi. Buna rağmen ülkenin ihracat performansı güçlü seyrini koruyor. Haziran ayının ilk 26 gününde ihracat 1,313 milyon ton olarak gerçekleşirken, geçen yıl aynı dönemde 800 bin ton seviyesindeydi.\n\nArjantin'de buğday ekimi planlanan alanların %65,8'ine ulaşırken, yağış yetersizliği üreticiler açısından risk oluşturmaya devam ediyor.\n\nBirleşmiş Milletler Gıda ve Tarım Örgütü (FAO) ise 2026/27 sezonunda küresel buğday üretiminin %3,8 azalarak 810,9 milyon tona gerilemesini bekliyor. Tahminde, Avustralya, Avrupa Birliği ve ABD'deki üretim düşüşleri etkili olurken, yalnızca ABD'de üretimin %21,3 azalacağı öngörülüyor.\n\nTARIM PUSULASI HABER MERKEZİ"
+    },
     {
       "title": "Eurostat: Fransa sıcakları Romanya mısır fiyatını yükseltti",
       "url": "https://www.tarimpusulasi.com/haber/eurostat-fransa-sicaklari-romanya-misir-fiyatini-yukseltti-46950",
@@ -85,30 +109,6 @@
       "date": "2026-06-30",
       "summary": "CHP Adana Milletvekili Ayhan Barut, yaz aylarının başlamasıyla birlikte yeniden görülen orman yangınlarına ilişkin yaptığı açıklamada, yangınlarla mücadelede hazırlıkların yetersiz olduğunu savundu. Barut, kapsamlı bir Acil Eylem Planı hazırlanması, hava filosunun güçlendirilmesi ve erken uyarı sist",
       "content": "ADANA — Cumhuriyet Halk Partisi (CHP) Adana Milletvekili ve TBMM Tarım, Orman ve Köyişleri Komisyonu Üyesi Ayhan Barut, yaz aylarının başlamasıyla birlikte Türkiye'nin farklı bölgelerinde yeniden görülen orman yangınlarına ilişkin değerlendirmelerde bulundu. Barut, yangınlarla mücadelede hazırlıkların yetersiz olduğunu savunarak kapsamlı bir Acil Eylem Planı hazırlanması çağrısı yaptı.\n\nBarut, yaptığı açıklamada orman yangınlarının yalnızca ağaçların zarar görmesine neden olmadığını; doğal yaşam alanlarını, biyolojik çeşitliliği, su kaynaklarını, hava kalitesini ve tarımsal üretimi de olumsuz etkilediğini belirtti. Yangınların iklim krizinin etkilerini artırdığına dikkat çeken Barut, her yıl benzer olayların yaşanmasına rağmen yeterli hazırlığın yapılmadığını öne sürdü.\n\n\"24 saat esaslı hazırlık yapılmalı\"\n\nAyhan Barut, yangın sezonu başlamadan önce gerekli hazırlıkların tamamlanması gerektiğini belirterek, yangın söndürme uçakları ve helikopterlerinden oluşan hava filosunun güçlendirilmesini istedi.\n\nBarut, orman teşkilatının personel sayısının artırılması, teknik donanım ve lojistik altyapının geliştirilmesi, riskli bölgelerde erken uyarı ve sürekli izleme sistemlerinin yaygınlaştırılması gerektiğini ifade etti.\n\nYerel iş birliği çağrısı\n\nAçıklamasında yerel yönetimler, orman köylüleri, kamu kurumları, gönüllü ekipler ve sivil toplum kuruluşları arasında koordinasyonun güçlendirilmesi gerektiğini dile getiren Barut, toplumun yangınlara karşı bilinçlendirilmesine yönelik çalışmaların artırılmasını önerdi.\n\nCHP'li Barut, her yaz benzer kayıpların yaşanmaması için bilimsel verilere dayalı kalıcı çözümlerin hayata geçirilmesi gerektiğini belirterek, orman yangınlarına yönelik kapsamlı bir Acil Eylem Planı'nın vakit kaybedilmeden hazırlanmasını istedi.\n\nTARIM PUSULASI HABER MERKEZİ"
-    },
-    {
-      "title": "Antalya Halk Ekmek 30 Milyon Ekmek Üretimini Aştı",
-      "url": "https://www.tarimpusulasi.com/haber/antalya-halk-ekmek-30-milyon-ekmek-uretimini-asti-46945",
-      "source": "Tarım Pusulası",
-      "date": "2026-06-30",
-      "summary": "Antalya Büyükşehir Belediyesi'nin Döşemealtı'nda 30 Haziran 2022'de üretime başlayan Halk Ekmek Fabrikası, bugüne kadar 30 milyonu aşkın ekmek üretirken, yalnızca 2025 yılında 5 milyon ekmek ve unlu mamul ile 3 milyon 686 bin beyaz ekmeği vatandaşlara ulaştırdı.",
-      "content": "ANTALYA — Antalya Büyükşehir Belediyesi'nin halkın uygun fiyatlı, hijyenik ve sağlıklı ekmeğe erişimini sağlamak amacıyla 30 Haziran 2022 tarihinde Döşemealtı'nda üretime aldığı Halk Ekmek Fabrikası, bugüne kadar 30 milyonu aşkın ekmek üretti.\n\nBelediye iştiraki EKDAĞ A.Ş. tarafından işletilen tesiste bugün 25 farklı ekmek ve unlu mamul çeşidi üretilirken, yalnızca 2025 yılında 5 milyon adet ekmek ve unlu mamul, bunun yanında 3 milyon 686 bin adet beyaz ekmek üretildi.\n\n25 farklı ürün tüketiciye sunuluyor\n\nEKDAĞ A.Ş. Genel Müdürü Ahmet Aydın, Halk Ekmek'in yalnızca beyaz ekmek üretmediğini belirterek ürün yelpazesinde kepekli, köy ekmeği, tam buğday, çavdar, çok tahıllı ve sarı buğday ekmeklerinin yanı sıra roll, tost, sandviç, hamburger ekmeği ve pide gibi toplam 25 farklı ürünün yer aldığını söyledi.\n\nAydın, daha sağlıklı beslenmeyi tercih eden tüketicilere yönelik ürün grubunda ise 520 bin adet üretim gerçekleştirildiğini ifade etti.\n\n74 satış noktasında hizmet veriliyor\n\nAhmet Aydın, Halk Ekmek'in Antalya genelinde yaygınlaşmaya devam ettiğini belirterek Muratpaşa, Kepez, Konyaaltı, Döşemealtı ve Aksu ilçelerinde toplam 74 satış noktasında hizmet verdiklerini açıkladı.\n\nAydın, sosyal belediyecilik anlayışıyla vatandaşların kaliteli ve uygun fiyatlı ekmeğe ulaşmasını sağlamayı hedeflediklerini belirterek, Antalya'nın farklı bölgelerinde satış ağını geliştirmeye devam edeceklerini kaydetti.\n\nÜretim rakamları dikkat çekiyor\n\nVerilere göre fabrikanın üretim performansı şu şekilde gerçekleşti:\n\nÜretime başlangıç: 30 Haziran 2022\n\nBugüne kadar toplam üretim: 30 milyonun üzerinde ekmek\n\n2025 yılında ekmek ve unlu mamul: 5 milyon adet\n\n2025 yılında beyaz ekmek: 3 milyon 686 bin adet\n\nÜrün çeşidi: 25\n\nSağlıklı ürün grubu üretimi: 520 bin adet\n\nSatış noktası: 74\n\nAntalya Büyükşehir Belediyesi, Halk Ekmek uygulamasıyla vatandaşların uygun fiyatlı ve güvenilir gıdaya erişimini artırmayı amaçladığını bildirdi.\n\nTARIM PUSULASI HABER MERKEZİ"
-    },
-    {
-      "title": "Dicle Elektrik: Viranşehir'de 29 Kaçak Trafo Tespit Edildi",
-      "url": "https://www.tarimpusulasi.com/haber/dicle-elektrik-viransehirde-29-kacak-trafo-tespit-edildi-46944",
-      "source": "Tarım Pusulası",
-      "date": "2026-06-30",
-      "summary": "Dicle Elektrik, Şanlıurfa'nın Viranşehir ilçesinde dron destekli denetimlerde toplam gücü 4 bin 440 kVA olan 29 kayıt dışı kaçak trafo tespit etti. Şirket, trafoların günlük yaklaşık 3 bin hanenin elektrik ihtiyacına eş değer kapasiteye sahip olduğunu bildirirken, olayla ilgili yasal süreç başlatıld",
-      "content": "ŞANLIURFA — Dicle Elektrik, tarımsal sulama sezonunun başlamasıyla birlikte enerji arz güvenliğinin korunması, kayıt dışı elektrik tüketiminin önlenmesi ve şebeke güvenilirliğinin artırılması amacıyla yürüttüğü dron destekli denetimlerini yoğunlaştırdı. Şirket, Şanlıurfa'nın Viranşehir ilçesinde gerçekleştirilen kontrollerde 29 kayıt dışı kaçak trafo tespit edildiğini açıkladı.\n\nAçıklamaya göre denetimler Yağızlar, Fareli, Kızlarsarayı ve Sağırtaş mahallelerinde gerçekleştirildi. Yapılan incelemelerde toplam kurulu gücü 4 bin 440 kVA olan 29 kaçak trafo belirlendi.\n\nŞirket verilerine göre tespit edilen trafoların en küçüğü 50 kVA, en büyüğü ise 250 kVA kapasitesinde bulunuyor. Dicle Elektrik, bu trafoların toplam kapasitesinin günlük yaklaşık 3 bin hanenin elektrik tüketimine eş değer olduğunu bildirdi.\n\nİncelemelerde söz konusu trafoların, pamuk tarlaları ile ikinci ürün ekimi yapılacak tarım alanlarının, kaçak elektrik kullanılarak çalışan derin kuyulardan çekilen yeraltı suyuyla sulanmasında kullanıldığı tespit edildi.\n\nŞirket, tespit edilen 29 kaçak trafoyla ilgili yasal işlemlerin başlatıldığını, trafolara el konulması amacıyla Cumhuriyet Başsavcılığına başvuruda bulunulduğunu açıkladı.\n\nDronlar anız yangınlarını da kaydetti\n\nDicle Elektrik, denetimlerde kullanılan dronların yalnızca kaçak elektrik kullanımını değil, anız yakma yasağına aykırı uygulamaları da görüntülediğini bildirdi.\n\nŞirketin açıklamasına göre, Şanlıurfa Valiliği tarafından anız yakmanın yasaklanmasına rağmen hasadı tamamlanan bazı buğday tarlalarında anız yakıldığı tespit edildi.\n\nElde edilen görüntülerin jandarma birimlerine teslim edildiği belirtilirken, anız yaktığı belirlenen kişiler hakkında 5326 sayılı Kabahatler Kanunu ile 2872 sayılı Çevre Kanunu kapsamında işlem yapılmasının beklendiği ifade edildi.\n\nYetkililer, kaçak elektrik kullanımının enerji arz güvenliğini olumsuz etkilediğini, şebekeye zarar verdiğini ve kayıtlı abonelerin hizmet kalitesini düşürdüğünü belirterek denetimlerin tarımsal sulama sezonu boyunca süreceğini bildirdi.\n\nTARIM PUSULASI HABER MERKEZİ"
-    },
-    {
-      "title": "GÜBRETAŞ'ın yeni nesil gübre satışları yüzde 147,7 büyüdü",
-      "url": "https://www.tarimpusulasi.com/haber/gubretasin-yeni-nesil-gubre-satislari-yuzde-1477-buyudu-46943",
-      "source": "Tarım Pusulası",
-      "date": "2026-06-30",
-      "summary": "GÜBRETAŞ, son üç yılda geliştirdiği 33 yeni ürünüyle ürün portföyünü 100'ün üzerine çıkardı. Şirket, 2024-2025 döneminde yeni nesil ürün satışlarını yüzde 147,7 artırırken, 2025 yılında satış miktarı 81.920 tona ulaştı.",
-      "content": "ANKARA — GÜBRETAŞ, son yıllarda geliştirdiği yeni nesil gübre ve bitki besleme ürünleriyle ürün portföyünü önemli ölçüde genişletirken, satış performansında da dikkat çeken bir büyüme yakaladı. Şirket, bugün 100'ün üzerinde farklı ürünüyle yaklaşık 1 milyon çiftçi ortağından oluşan Tarım Kredi Kooperatifleri ağı üzerinden üreticilere hizmet veriyor.\n\nŞirket tarafından yapılan açıklamaya göre son üç yılda ürün portföyüne 33 yeni ürün kazandırıldı. Yeni ürünler; katı organomineral gübrelerden fosfor teknolojili gübrelere, mikro granül gübrelerden biyostimülantlara, sıvı bitki besleme ürünlerinden organik ve organomineral sıvı gübrelere kadar geniş bir ürün yelpazesini kapsıyor.\n\nGÜBRETAŞ'ın geliştirdiği Leolife serisi organomineral gübreler, Perfectful serisi harmanlanmış gübreler ile EFT DAP, EFT Richness, EFT Trophy ve EFT Prize fosfor teknolojili gübreleri ürün grubunda öne çıkıyor. Şirket ayrıca GF-Earlyfert, GF Earlyfert Starter, Restful Amino, İzamore, Searius, GF-Mix, Wetron, N-Gate ve Leolife-M serileriyle farklı bitki besleme ihtiyaçlarına yönelik çözümler sunuyor.\n\nYeni ürün satışlarında dikkat çeken artış\n\nŞirket verilerine göre yeni nesil ürünlerin satış miktarı 2023 yılında 35 ton seviyesindeydi.\n\nBu rakam;\n\n2024 yılında 33.072 tona\n\n2025 yılında ise 81.920 tona yükseldi.\n\nBuna göre satış miktarı;\n\n2023-2024 döneminde yaklaşık 945 kat artış gösterdi.\n\n2024-2025 döneminde ise 33.072 tondan 81.920 tona çıkarak yüzde 147,7 büyüdü.\n\nŞirket, söz konusu büyümenin yeni ürünlerin üreticiler tarafından benimsenmesi, yaygın satış ağı ve saha faaliyetlerinin etkisiyle gerçekleştiğini belirtti.\n\nGoral: Ar-Ge çalışmalarımızı sürdürüyoruz\n\nGÜBRETAŞ Genel Müdürü Musa Goral, yaptığı değerlendirmede tarımsal üretimde sürdürülebilirlik ve verimliliği artırmaya yönelik Ar-Ge çalışmalarını kesintisiz sürdürdüklerini ifade etti.\n\nGoral, son üç yılda geliştirilen yeni nesil ürünlerin kısa sürede üreticiler tarafından benimsenmesinin doğru ihtiyaçlara uygun çözümler geliştirdiklerini gösterdiğini belirterek, güçlü dağıtım ağı ve saha organizasyonuyla üreticilere katma değer sağlayacak ürünler geliştirmeye devam edeceklerini kaydetti.\n\nŞirket, yeni nesil ürünleri ve yaygın hizmet ağıyla üreticilerin verim ve gelirlerinin artırılmasına katkı sağlamayı hedeflediğini açıkladı.\n\nTARIM PUSULASI HABER MERKEZİ"
     },
     {
       "title": "Hasat bereketi fiyatlara yansıdı: Hububatta düşüş eğilimi sürüyor",
@@ -328,5 +328,17 @@
   "defaultBorsa": "5ED10",
   "defaultCity": "CANAKKALE",
   "note": "Fiyatlar TOBB ticaret borsasından (borsa seçilebilir). Kanola manuel (Trakya 2025).",
-  "inputsNote": "Mazot: akaryakıt bayi fiyatı, günlük (şehir seçilebilir). Gübre: manuel (yaklaşık)."
+  "inputsNote": "Mazot: akaryakıt bayi fiyatı, günlük (şehir seçilebilir). Gübre: manuel (yaklaşık).",
+  "errors": [
+    "mazot ANKARA: fetch failed",
+    "mazot ISTANBUL: fetch failed",
+    "mazot IZMIR: fetch failed",
+    "mazot KONYA: fetch failed",
+    "mazot ADANA: fetch failed",
+    "mazot BURSA: fetch failed",
+    "mazot ANTALYA: fetch failed",
+    "mazot SAMSUN: fetch failed",
+    "mazot TEKIRDAG: fetch failed",
+    "mazot CANAKKALE: fetch failed"
+  ]
 }
