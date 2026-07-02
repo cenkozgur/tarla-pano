@@ -1,26 +1,26 @@
 {
-  "updatedAt": "2026-07-02T18:14:38.308Z",
+  "updatedAt": "2026-07-02T19:52:44.174Z",
   "fx": [
     {
       "code": "USD",
       "name": "Dolar",
       "buy": 46.69,
-      "sell": 46.69,
-      "change": 0.06
+      "sell": 46.7,
+      "change": 0.07
     },
     {
       "code": "EUR",
       "name": "Euro",
-      "buy": 53.48,
-      "sell": 53.53,
-      "change": 0.71
+      "buy": 53.45,
+      "sell": 53.5,
+      "change": 0.66
     },
     {
       "code": "GRA",
       "name": "Gram Altın",
-      "buy": 6183.61,
-      "sell": 6184.51,
-      "change": 2.25
+      "buy": 6181.35,
+      "sell": 6182.31,
+      "change": 2.22
     },
     {
       "code": "CEYREKALTIN",
@@ -38,6 +38,22 @@
     }
   ],
   "news": [
+    {
+      "title": "Zafer Partisi'nden Tarım Kredi'ye tepki: \"12 bin 750 liralık arpa 11 bin 500 liraya isteniyor\"",
+      "url": "https://www.tarimdanhaber.com/zafer-partisinden-tarim-krediye-tepki-12-bin-750-liralik-arpa-11-bin-500-liraya-isteniyor",
+      "source": "Tarımdan Haber",
+      "date": "2026-07-02",
+      "summary": "Zafer Partisi Tarım Politikalarından Sorumlu Genel Başkan Yardımcısı ve çiftçi Nihat Babaözü, Tarım Kredi Kooperatiflerinin borcuna karşılık arpa teslim etmek isteyen üreticilere ton başına 11 bin 500 lira teklif ettiğini belirtti. Hükümetin arpa alım fiyatını 12 bin 750 lira olarak açıkladığını hat",
+      "content": "Haber Merkezi / Zafer Partisi Tarım Politikalarından Sorumlu Genel Başkan Yardımcısı ve çiftçi Nihat Babaözü, Tarım Kredi Kooperatiflerinin üreticilerden borçlarına karşılık arpa alımında uyguladığı fiyatı sert sözlerle eleştirdi. Babaözü, açıklanan resmi alım fiyatına rağmen üreticilere daha düşük fiyat teklif edildiğini kaydetti.\n\nTarım Kredi Kooperatiflerinden arandığını ve borcuna karşılık arpa vermesinin istendiğini belirten Babaözü, \"Verelim dedik. 'Kaç paraya alacaksınız?' diye sorduk. Bize 11 bin 500 lira dediler. Oysa hükümet arpa alım fiyatını 12 bin 750 lira olarak açıkladı. Bu 11 bin 500 lira nedir?\" ifadelerini kullandı.\n\nTarım Kredi Kooperatiflerinin kuruluş amacını unuttuğunu savunan Babaözü, kurumun üreticiyi desteklemek yerine mağdur ettiğini vurguladı.\n\nTarım Kredi Kooperatifleri Genel Müdürü Hüseyin Aydın'ı sert bir dille eleştiren Babaözü, \"Verdiği tartışmalı kredilerle uzun yıllar Ziraat Bankasının başında duran kişi bugün Tarım Kredi'yi yönetiyor. 1 milyondan fazla aylığı cebe indiren kişi. Çiftçinin alın teriyle, emeğiyle bunlar yenilmez\" dedi.\n\nTarımdan Haber gündeme getirmişti\n\nTarım Kredi Kooperatiflerinin çiftçi ortaklardan arpa alım fiyatını 11,500 TL'den aldığını ve çiftçinin bu fiyata tepki gösterdiğini Tarımdan Haber gündeme getirmişti. → Tarım Kredi'den çiftçiye 11 bin 500 liralık arpa fiyatı! 1,5 milyon liralık genel müdür yeniden gündemde\n\n[youtube-video]https://www.youtube.com/shorts/wm2jkyOX53E[/youtube-video]"
+    },
+    {
+      "title": "Ferrero, sürdürülebilir tarım yatırımlarındaki ilerlemeyi açıkladı",
+      "url": "https://www.tarimpusulasi.com/haber/ferrero-surdurulebilir-tarim-yatirimlarindaki-ilerlemeyi-acikladi-46971",
+      "source": "Tarım Pusulası",
+      "date": "2026-07-02",
+      "summary": "Ferrero Grubu, 2024/25 mali yılını kapsayan 17. Sürdürülebilirlik Raporu'nu yayımladı. Raporda sürdürülebilir tarım, izlenebilirlik, iklim çalışmaları ve Türkiye'de yürütülen Ferrero Değerli Tarım Programı kapsamında ulaşılan sonuçlar paylaşıldı.",
+      "content": "ANKARA — Ferrero Grubu, 2024/25 mali yılını kapsayan 17. Sürdürülebilirlik Raporu'nu yayımlayarak sürdürülebilir tarım, iklim, çevre, tedarik zinciri ve toplumsal gelişim alanlarında yürüttüğü çalışmalara ilişkin güncel verileri paylaştı. Şirket, raporunda sürdürülebilirlik uygulamalarının üretimden tedarik zincirine kadar tüm faaliyetlerine entegre edildiğini bildirdi.\n\nRapora göre Ferrero Değerli Tarım Programı, hammaddelerin sürdürülebilir şekilde temin edilmesini desteklerken tedarik zincirinde izlenebilirliği artırmayı, çiftçilerin üretim kapasitesini geliştirmeyi ve tarımsal üretimin çevresel etkilerini azaltmayı hedefliyor. Program kapsamında fındık, kakao, palm yağı, kahve ve süt ürünleri gibi temel hammaddeler için farklı sürdürülebilirlik uygulamaları yürütülüyor.\n\nFerrero Grubu Başkanı Giovanni Ferrero, şirketin uzun vadeli başarısının tedarik zincirinde yer alan toplumların ve ekosistemlerin refahına bağlı olduğunu belirterek doğal kaynakların korunmasına ve üretici topluluklarının desteklenmesine yönelik çalışmaların devam edeceğini ifade etti.\n\nTürkiye'de 50 bin üreticiye ulaşıldı\n\nRapora göre Türkiye'de 2012 yılından bu yana yürütülen Ferrero Değerli Tarım Programı kapsamında bugüne kadar yaklaşık 32 milyon avroluk kaynak ayrıldı.\n\nŞirket verilerine göre program sayesinde;\n\nyaklaşık 100 bin hektarlık üretim alanına ulaşıldı,\n\n50 bin fındık üreticisine destek sağlandı,\n\nmevsimlik tarım işçilerinin yaşam koşullarının iyileştirilmesi,\n\nçocukların eğitimine katkı verilmesi,\n\nonarıcı tarım uygulamalarının yaygınlaştırılması,\n\nçevre dostu üretim yöntemlerinin geliştirilmesine yönelik çalışmalar yürütüldü.\n\nProgram kapsamında ayrıca Uluslararası Çalışma Örgütü (ILO), Türkiye Eğitim Gönüllüleri Vakfı (TEGV) ile kamu kurumlarıyla iş birliklerinin sürdüğü bildirildi.\n\nİzlenebilirlik oranları yükseldi\n\nFerrero'nun yayımladığı rapora göre temel hammaddelerde yüksek izlenebilirlik seviyelerine ulaşıldı.\n\nŞirket verilerine göre;\n\nkahvede %100,\n\npalm yağında %98,6,\n\nkakaoda %98,\n\nfındıkta ise %97 oranında izlenebilirlik sağlandı.\n\nBunun yanında kakaonun %99'unun, palm yağının %100'ünün ve kahve çekirdeklerinin %100'ünün sürdürülebilirlik sertifikaları kapsamında tedarik edildiği belirtildi.\n\nEmisyonlar azaltıldı\n\nRaporda iklim çalışmaları kapsamında 24 üretim tesisinde %100 yenilenebilir elektrik kullanımına geçildiği belirtilirken, bunun sonucunda Kapsam 1 ve Kapsam 2 sera gazı emisyonlarının yıllık bazda %7,2 azaltıldığı ifade edildi.\n\nAyrıca şirket genelinde ilk Su Kurumsal Ayak İzi değerlendirmesinin tamamlandığı ve ambalajların %92,9'unun geri dönüştürülebilir, yeniden kullanılabilir veya kompostlanabilir şekilde tasarlandığı bildirildi.\n\nÇalışan ve toplum odaklı uygulamalar\n\nRaporda, Ferrero'nun Dahil Etme ve Saygı Programı'nın 61 ülkede uygulandığı, 500'ün üzerinde oturum gerçekleştirildiği ve çalışanların yaklaşık %80'ine ulaşıldığı belirtildi.\n\nJoy of Moving Programı kapsamında ise 2025 yılı itibarıyla 35 ülkede 4,9 milyon çocuğa ulaşıldığı, programın başladığı 2005 yılından bu yana dünya genelinde ulaşılan çocuk sayısının 60 milyonu aştığı ifade edildi."
+    },
     {
       "title": "TÜSEDAD açıkladı: Haziran ayında çiğ süt üretim maliyeti 26,97 liraya geriledi",
       "url": "https://www.tarimdanhaber.com/tusedad-acikladi-haziran-ayinda-cig-sut-uretim-maliyeti-2697-liraya-geriledi",
@@ -111,28 +127,12 @@
       "content": "ASTANA — Kazakistan'ın \"ham madde tedarikçisi\" mi yoksa işlenmiş tarım ürünlerinde lider bir ülke mi olduğu sorusuna Kazakistan Tahıl Birliği Analisti Yevgeniy Karabanov yanıt verdi. Karabanov ayrıca, Özbekistan'ın un ihracatındaki büyümenin Kazakistan un sanayisinin yenilgisi anlamına gelmediğini belirtti.\n\nSon günlerde Kazakistan'ın küresel un ihracatçıları sıralamasındaki yerine ilişkin çok sayıda değerlendirme yapıldı. Bazı yorumlarda, Kazakistan'ın Orta Asya'nın lider un ihracatçısı olma konumunu Özbekistan'a kaptırdığı ileri sürüldü. Ayrıca tarım ürünleri ihracatı bağlamında ülke için sık sık \"ham madde tedarikçisi\" ifadesi kullanılıyor.\n\nKarabanov, gerçekte Kazakistan buğday ununun başlıca alıcılarının Kırgızistan, Özbekistan, Türkmenistan, Tacikistan ve Afganistan olduğunu belirtti. Bu ülkelerin Kazakistan'ın toplam buğday unu ihracatındaki payı yaklaşık %98 seviyesinde bulunuyor.\n\nKarabanov'un paylaştığı verilere göre, Kazakistan'ın buğday unu ihracatı son üç yılda (2023-2025) önemli bir değişim göstermedi. En yüksek ihracat 2023 yılında 1 milyon 958 bin 700 ton, en düşük ihracat ise 2024 yılında 1 milyon 876 bin 200 ton olarak gerçekleşti. 2025 yılında ihracat 1 milyon 928 bin ton oldu. Bu rakam, 2023 yılındaki en yüksek seviyenin yalnızca %1,6 altında kaldı.\n\nAynı dönemde Afganistan'ın Kazakistan'ın toplam un ihracatındaki payı 2024 yılında %65,6 ile en yüksek seviyeye ulaştı, ancak 2025 yılında %54,3'e geriledi.\n\nBuna bağlı olarak Afganistan'a yapılan un ihracatının fiziksel miktarı da azaldı. 2023 yılında 1 milyon 271 bin 200 ton olan ihracat, 2025 yılında 1 milyon 47 bin 600 tona düştü. Böylece Afganistan'a yapılan un ihracatında %17,5 oranında gerileme kaydedildi.\n\nAyrıca Kazakistan'ın un ihracatı Özbekistan'a %26, Tacikistan'a ise %2,9 oranında azaldı.\n\nBuna karşılık diğer pazarlarda önemli artışlar yaşandı. Kırgızistan'a yapılan un ihracatı 9,7 kat, Türkmenistan'a yapılan ihracat 3 kat, Çin'e yapılan ihracat ise 4,8 kat arttı.\n\nKarabanov, \"2024 ve 2025 yıllarında Kazakistan'ın un ihracatında ciddi bir düşüş yaşandığı yönündeki bilgiler rakamlarla doğrulanmıyor.\" değerlendirmesinde bulundu.\n\nÖzbekistan'ın buğday unu ihracatı ise 2023 yılında 1 milyon 310 bin 700 tondan, 2025 yılında 1 milyon 591 bin 300 tona yükselerek %21 artış gösterdi.\n\nBununla birlikte Özbekistan ununun neredeyse tek alıcısı Afganistan oldu. Afganistan'ın Özbekistan'ın toplam un ihracatındaki payı %98,9 ile %99,9 arasında gerçekleşti.\n\nÖzbekistan aynı zamanda Kazakistan buğdayının en büyük alıcılarından biri olmayı sürdürüyor. Ülkede üretilen ve bir bölümü Afganistan'a ihraç edilen unun hammaddesi büyük ölçüde Kazakistan'dan ithal edilen buğdaydan karşılanıyor.\n\nBu kapsamda Kazakistan'dan Özbekistan'a yapılan buğday ihracatı 2023 yılında 3 milyon 543 bin 400 tondan, 2025 yılında 4 milyon 186 bin tona yükselerek %18 arttı.\n\nKarabanov'a göre Özbekistan un sanayisinin gelişmesi ve ihracat kapasitesinin artmasının arkasında birkaç temel neden bulunuyor:\n\nAfganistan ile doğrudan kara sınırına sahip olması,\n\nTeslimat süresinin kısa olması ve karayolu taşımacılığının avantaj sağlaması,\n\nUn taşımacılığında transit demiryolu ücretlerinin bulunmaması nedeniyle Özbekistan'dan Afganistan'a demiryolu taşımacılık maliyetlerinin Kazakistanlı ihracatçılara göre ton başına 28-37 ABD doları daha düşük olması,\n\nAfgan yatırımcıların Özbekistan un sanayisine yatırım yapması,\n\nElektrik, işçilik ve vergi gibi üretim maliyetlerinin daha düşük olması,\n\nRekabetçi fiyatlarla Kazakistan buğdayına kolay erişim sağlanması,\n\nÖzellikle ithal buğdayda KDV uygulamaları açısından avantaj sağlayan vergi politikaları.\n\nKarabanov, son yıllarda Özbekistan'ın Afganistan'a yaptığı un ihracatındaki büyümenin temel nedeninin, Kazakistan ve Rusya gibi diğer tedarikçilere kıyasla daha rekabetçi fiyat sunabilmesi olduğunu ifade etti.\n\nKarabanov, Afganistan'da da yerel un sanayisinin gelişmeye başladığını belirtti. Ülkede eski değirmenlerin yeniden faaliyete geçirildiğini, yeni un fabrikalarının kurulduğunu ifade eden analist, bunun Kazakistan'ın Afganistan'a yaptığı buğday ihracatındaki artıştan da görülebildiğini söyledi.\n\nVerilere göre Kazakistan'ın Afganistan'a buğday ihracatı 2023 yılında 448 bin ton iken, 2025 yılında 496 bin 700 tona yükseldi.\n\nKarabanov, Afganistan'da siyasi ve sosyoekonomik istikrarın güçlenmesiyle birlikte un sanayisinin de gelişeceğini belirterek şu değerlendirmede bulundu:\n\n\"Afganistan'da siyasi ve sosyoekonomik istikrar sağlandıkça un sanayisi, ülkenin gıda güvenliğinin önemli unsurlarından biri olarak gelişecektir. Bunun doğal sonucu olarak bu ülkenin un ithalatı azalırken, buğday ithalatı artacaktır.\"\n\nAnaliste göre aynı süreç daha önce Tacikistan ve Özbekistan'da da yaşandı. Son örnek ise Irak oldu.\n\n2010'lu yıllarda iç savaş döneminde Irak, ağırlıklı olarak Türkiye'den olmak üzere dünyanın en büyük un ithalatçılarından biri konumundaydı. Ancak ülkedeki siyasi istikrarın artmasıyla birlikte Irak'ın un ithalatı yaklaşık iki kat azaldı."
     },
     {
-      "title": "IGC: Dünya mercimek üretimi 9,4 milyon tona inecek",
-      "url": "https://www.tarimpusulasi.com/haber/igc-dunya-mercimek-uretimi-94-milyon-tona-inecek-46963",
-      "source": "Tarım Pusulası",
-      "date": "2026-07-02",
-      "summary": "Uluslararası Tahıl Konseyi (IGC), 2026/27 sezonunda küresel mercimek üretiminin ekim alanlarındaki daralma ve verim kayıpları nedeniyle 9,4 milyon tona gerileyeceğini açıkladı. Buna rağmen yüksek stoklar sayesinde tüketimin artması, küresel ticaretin ise Asya talebiyle güçlü kalması bekleniyor.",
-      "content": "LONDRA — Uluslararası Tahıl Konseyi (IGC), haziran ayında yayımladığı son piyasa değerlendirmesinde, 2026/27 pazarlama yılında dünya mercimek üretiminin önceki sezona göre önemli ölçüde gerileyeceğini öngördü.\n\nRapora göre küresel mercimek üretiminin 2025/26 sezonundaki 10,6 milyon tondan 2026/27 sezonunda 9,4 milyon tona düşmesi bekleniyor. IGC, bu gerilemenin temel nedenleri arasında ekim alanlarının daralması ve verimlilikte beklenen düşüşü gösterdi.\n\nBuna karşın dünya mercimek tüketiminin artış eğilimini sürdürmesi bekleniyor. Küresel tüketimin 2026/27 sezonunda 8,7 milyon tona ulaşacağı tahmin edilirken, bu miktar 2025/26 sezonunda 8,5 milyon ton, 2024/25 sezonunda ise 7,3 milyon ton olarak gerçekleşmişti.\n\nUluslararası ticarette de büyümenin devam edeceği öngörülüyor. IGC tahminlerine göre dünya mercimek ticareti 2026 takvim yılında yüzde 9 artış göstererek 5 milyon tona ulaşabilir. 2027 yılında ise ticaret hacminin benzer seviyede kalması beklenirken, piyasanın yönünü büyük ölçüde Asya ülkelerindeki talep belirleyecek.\n\nUzmanlar, üretimde beklenen düşüşe rağmen yüksek stok seviyelerinin küresel arzın dengelenmesine katkı sağlayabileceğini değerlendiriyor.\n\nTARIM PUSULASI HABER MERKEZİ"
-    },
-    {
       "title": "Yumaklı'nın arpa hasadı paylaşımına çiftçiden tepki yağdı: \"Tarlaya değil, fiyatlara bakın!\"",
       "url": "https://www.tarimdanhaber.com/yumaklinin-arpa-hasadi-paylasimina-ciftciden-tepki-yagdi-tarlaya-degil-fiyatlara-bakin",
       "source": "Tarımdan Haber",
       "date": "2026-07-02",
       "summary": "Tarım ve Orman Bakanı İbrahim Yumaklı'nın Kırıkkale'de arpa hasadı yaptığı paylaşımına çiftçilerden yüzlerce tepki yorumu geldi. Üreticiler, açıklanan arpa alım fiyatının yetersiz olduğunu belirterek artan girdi maliyetleri, düşük kazanç ve alım politikalarını eleştirdi.",
       "content": "Haber Merkezi / Tarım ve Orman Bakanı İbrahim Yumaklı'nın Kırıkkale'de gerçekleştirdiği arpa hasadına ilişkin sosyal medya paylaşımı, çok sayıda çiftçinin tepkisini çekti.\n\nPaylaşımın altına yorum yapan üreticiler, hasat görüntülerinden çok açıklanan alım fiyatları ve üretim maliyetlerine dikkat çekti.\n\nEn büyük tepki arpa fiyatına\n\nYorumlarda en fazla dile getirilen konu, Toprak Mahsulleri Ofisi'nin açıkladığı arpa alım fiyatı oldu.\n\nÇiftçiler, üretim maliyetlerinin hızla arttığını belirterek açıklanan fiyatın giderleri karşılamadığını savundu.\n\n\"Çiftçi kazanamıyor\" mesajı öne çıktı\n\nPaylaşıma yapılan yorumlarda üreticiler;\n\nArpa alım fiyatının yetersiz olduğunu,\n\nMazot, gübre ve ilaç maliyetlerinin arttığını,\n\nÜreticinin emeğinin karşılığını alamadığını,\n\nTarım politikalarının yeniden gözden geçirilmesi gerektiğini\n\nifade etti.\n\nTarım Kredi'nin alım fiyatı da gündeme getirildi\n\nBazı üreticiler ise Toprak Mahsulleri Ofisi'nin açıkladığı fiyat ile Tarım Kredi Kooperatiflerinin uyguladığı alım fiyatı arasındaki farka dikkat çekti.\n\nYorumlarda, çiftçinin desteklenmesi gerektiği yönünde çağrılar yapılırken, tarımda sürdürülebilir üretim için üreticinin gelirinin artırılmasının önemine vurgu yapıldı.\n\nYorumlar dikkat çekti\n\nPaylaşımın altındaki çok sayıdaki yorum, üreticilerin hasat döneminde yaşadığı ekonomik sıkıntıları bir kez daha gözler önüne serdi. Özellikle alım fiyatları ile yükselen üretim maliyetleri arasındaki makasın açıldığı yönündeki değerlendirmeler öne çıktı.\n\nİşte paylaşımın altına yapılan dikkat çekici yorumlardan bazıları;\n\n-Tebrikler sn bakanım 1 kilo buğday 16.5 TL 1 adet ekmek 16 TL er yada geç o sandık gelecek önümüze\n\n-Bakan Bey istifa etmenizi bekliyoruz. Arpa buğday beleş\n\n-16,50 bugday 12,750 arpa bu da TMO bas fiat yazik bu çiftçiye yazık oldu tarih bunu unutmaz\n\n-Sayın bakan artık demeç sosyal medya pozları kesmiyor icraat bekliyoruz 10liraya arpa mı olur kahvede çay 20 lira eserinizle gurur duyun."
-    },
-    {
-      "title": "Arı Tarım'dan Afyon'a dev yatırım! Sandıklı'da 300 dönümlük jeotermal sera kurulacak",
-      "url": "https://www.tarimdanhaber.com/ari-tarimdan-afyona-dev-yatirim-sandiklida-300-donumluk-jeotermal-sera-kurulacak",
-      "source": "Tarımdan Haber",
-      "date": "2026-07-02",
-      "summary": "Arı Tarım A.Ş., Afyonkarahisar'ın Sandıklı ilçesinde toplam 300 dönümlük jeotermal sera yatırımı yapmaya hazırlanıyor. Firma sahibi Özer Urak, her biri 50 dönüm büyüklüğünde 6 modern sera kurulacağını belirterek, şirketin Türkiye genelindeki sera sayısının da hızla arttığını söyledi.",
-      "content": "Haber Merkezi / Arı Tarım A.Ş., jeotermal enerjiyle modern sera üretimine yönelik önemli bir yatırım kararı aldı.\n\nFirma sahibi Özer Urak, Afyonkarahisar'ın Sandıklı ilçesinde her biri 50 dönüm büyüklüğünde 6 adet jeotermal sera kurulacağını açıkladı. Toplam 300 dönümlük yatırımın, bölgedeki örtü altı üretim kapasitesine önemli katkı sağlaması bekleniyor.\n\nTürkiye genelinde 11 serası bulunuyor\n\nUrak, şirketin halen Türkiye'nin farklı bölgelerinde faaliyet gösteren 11 modern seraya sahip olduğunu belirtti.\n\nBuna göre şirketin;\n\nAntalya'da 6,\n\nAdana'da 2,\n\nMersin'de 3\n\nolmak üzere toplam 11 serası bulunuyor.\n\nSeraların Antalya'nın Kumluca, Finike, Demre, Serik, Manavgat ve Elmalı, Adana'nın Karataş ve Seyhan, Mersin'in Anamur, Bozyazı ve Silifke ilçelerinde faaliyet gösterdiğini belirten Urak, Sandıklı yatırımının da bu üretim ağına ekleneceğini ifade etti.\n\nModern üretim teknikleri uygulanıyor\n\nÖzer Urak, seralarda ağırlıklı olarak sebze ve tarla bitkileri üretimi gerçekleştirildiğini belirterek, başta domates, biber, salatalık, patlıcan, kabak, karpuz ve kavun olmak üzere farklı bölgelerin iklim koşullarına uygun ürünlerin yetiştirildiğini söyledi.\n\nÜretim süreçlerinde modern tarım teknikleri, kontrollü sulama sistemleri ve bitki besleme uygulamalarının kullanıldığını ifade eden Urak, amaçlarının yüksek verim ile kaliteli üretimi birlikte sağlamak olduğunu dile getirdi.\n\nİhracata yönelik üretim hedefleniyor\n\nUrak, Türkiye'nin farklı iklim bölgelerinde üretim yapabilmelerinin yıl boyunca kesintisiz ürün arzı sağladığını belirterek, modern sera yatırımları sayesinde hem iç pazara hem de ihracata yönelik güvenilir ve kaliteli ürün üretimini sürdürdüklerini kaydetti."
     }
   ],
   "commoditiesByBorsa": {
@@ -328,5 +328,17 @@
   "defaultBorsa": "5ED10",
   "defaultCity": "CANAKKALE",
   "note": "Fiyatlar TOBB ticaret borsasından (borsa seçilebilir). Kanola manuel (Trakya 2025).",
-  "inputsNote": "Mazot: akaryakıt bayi fiyatı, günlük (şehir seçilebilir). Gübre: manuel (yaklaşık)."
+  "inputsNote": "Mazot: akaryakıt bayi fiyatı, günlük (şehir seçilebilir). Gübre: manuel (yaklaşık).",
+  "errors": [
+    "mazot ANKARA: fetch failed",
+    "mazot ISTANBUL: fetch failed",
+    "mazot IZMIR: fetch failed",
+    "mazot KONYA: fetch failed",
+    "mazot ADANA: fetch failed",
+    "mazot BURSA: fetch failed",
+    "mazot ANTALYA: fetch failed",
+    "mazot SAMSUN: fetch failed",
+    "mazot TEKIRDAG: fetch failed",
+    "mazot CANAKKALE: fetch failed"
+  ]
 }
