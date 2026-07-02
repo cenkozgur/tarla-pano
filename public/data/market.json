@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-07-02T07:51:09.776Z",
+  "updatedAt": "2026-07-02T10:44:15.675Z",
   "fx": [
     {
       "code": "USD",
@@ -11,33 +11,57 @@
     {
       "code": "EUR",
       "name": "Euro",
-      "buy": 53.36,
-      "sell": 53.39,
-      "change": 0.46
+      "buy": 53.37,
+      "sell": 53.4,
+      "change": 0.48
     },
     {
       "code": "GRA",
       "name": "Gram Altın",
-      "buy": 6109.05,
-      "sell": 6109.7,
-      "change": 1.02
+      "buy": 6106.71,
+      "sell": 6107.55,
+      "change": 0.98
     },
     {
       "code": "CEYREKALTIN",
       "name": "Çeyrek Altın",
-      "buy": 9851.8,
-      "sell": 10079.28,
-      "change": 0
+      "buy": 9800.99,
+      "sell": 10025.2,
+      "change": -0.54
     },
     {
       "code": "CUMHURIYETALTINI",
       "name": "Cumhuriyet Altını",
-      "buy": 40771,
-      "sell": 41460,
-      "change": 2.02
+      "buy": 40631,
+      "sell": 41253,
+      "change": -0.5
     }
   ],
   "news": [
+    {
+      "title": "Rusya Tahıl Birliği: Haziranda hububat ihracatı iki kat arttı",
+      "url": "https://www.tarimpusulasi.com/haber/rusya-tahil-birligi-haziranda-hububat-ihracati-iki-kat-artti-46969",
+      "source": "Tarım Pusulası",
+      "date": "2026-07-02",
+      "summary": "Rusya Tahıl Birliği'nin ön verilerine göre ülkenin Haziran 2026'daki hububat ihracatı geçen yılın aynı dönemine göre iki katına çıkarak 2,9 milyon tona ulaştı. Rus buğdayına yönelik talep özellikle Suudi Arabistan, Kenya ve Türkiye'de artarken, Avrupa'daki sıcak hava dalgasının da küresel talebi des",
+      "content": "MOSKOVA — Rusya Tahıl Birliği (RZS), ön verilere göre ülkenin Haziran 2026 döneminde buğday, arpa ve mısırdan oluşan temel hububat ürünlerinde 2,9 milyon ton ihracat gerçekleştirdiğini açıkladı. Bu miktar, Haziran 2025'e göre yaklaşık iki kat artış anlamına geliyor.\n\nRusya Tahıl Birliği Analiz Departmanı Direktörü Elena Tyurina, Interfax'a yaptığı değerlendirmede, Haziran ayında buğday ihracatının 2,5 milyon tona ulaşarak geçen yılın aynı dönemine göre 1,8 kat arttığını bildirdi. Aynı dönemde mısır ihracatı 351 bin ton ile 4,4 kat artarken, arpa ihracatı da 2 bin 900 tondan 81 bin 800 tona yükseldi.\n\nTyurina, Temmuz-Haziran dönemini kapsayan 2025/26 tarım sezonunda Rusya'nın toplam hububat ihracatının ön tahminlere göre 54,3 milyon ton olduğunu belirtti. Bu rakamın önceki sezondaki 52,5 milyon tona göre yüzde 3,4 daha yüksek olduğunu ifade eden Tyurina, buğday ihracatının 47,5 milyon tona çıkarak yüzde 4,9 arttığını, mısır ihracatının yüzde 15 artışla 3,2 milyon tona ulaştığını, arpa ihracatının ise 4,4 milyon tondan 3,4 milyon tona gerilediğini söyledi.\n\nHaziran ayında Rus buğdayını ithal eden ülke sayısının artmaya devam ettiğini belirten Tyurina, özellikle Basra Körfezi ülkelerinin alımlarını hızlandırdığını ifade etti. Uzmana göre bu talep artışının en önemli nedenlerinden biri Rusya'nın uluslararası pazardaki istikrarlı tedarikçi konumu oldu.\n\nHaziran ayında Rus buğdayının en büyük alıcısı Suudi Arabistan olurken, bu ülkeye yapılan sevkiyat geçen yılın aynı ayına göre 8,7 kat artarak 237 bin tona yükseldi. Ocak-Haziran döneminde Kenya'nın ithalatı 722 tondan 227 bin tona çıkarak 31 kat arttı. Türkiye'ye yapılan sevkiyatlar ise iki kat artışla 201 bin tona ulaştı.\n\nGeçen yılın haziran ayında Rus buğdayı almayan Brezilya, Venezuela ve Meksika da yeniden alıcı ülkeler arasına katıldı. Ayrıca Tanzanya, Vietnam, Güney Afrika ve uzun bir aradan sonra Hindistan da Rus buğdayı ithal eden ülkeler arasında yer aldı.\n\nElena Tyurina, Haziran ayında Rus buğdayının 26 ülkeye ihraç edildiğini, geçen yılın aynı döneminde ise bu sayının 20 ülke olduğunu belirtti. Aynı dönemde mısır ihracatı yalnızca iki ülkeye gerçekleştirildi.\n\nTürkiye'nin mısır ithalat kotasını artırmasının ardından Rusya'dan yapılan mısır sevkiyatının önemli ölçüde yükseldiğini belirten Tyurina, Türkiye'ye yapılan mısır ihracatının geçen yılki 4 bin tondan 238 bin tona çıktığını söyledi. İran'a yönelik mısır ihracatı ise 3,5 kat artarak 113 bin tona ulaştı.\n\nİran'ın aynı zamanda Rus arpasının da en önemli alıcılarından biri olduğu belirtilirken, Haziran ayında bu ülkeye 63 bin 700 ton arpa gönderildi. Geçen yılın aynı döneminde İran'a arpa sevkiyatı yapılmamıştı.\n\nTyurina, Haziran ayında Rusya'dan buğday ihracatı gerçekleştiren şirket sayısının 27'ye düştüğünü, geçen yıl aynı dönemde ise 43 şirketin ihracat yaptığını söyledi. Son aylarda ihracatçı sayısının yaklaşık 30 şirket seviyesinde dengelendiğini ifade etti.\n\nHububat ve baklagil sevkiyatlarının Haziran ayında 21 liman üzerinden gerçekleştirildiğini belirten Tyurina, ihracatta yine Novorossiysk Limanı'nın ilk sırada yer aldığını söyledi. Bu limandan yapılan yüklemeler geçen yılın aynı ayına göre 1,8 kat artarak 837 bin tona ulaştı.\n\nAçık deniz aktarma operasyonları (roadstead transshipment) da 1,9 kat artışla 795 bin tona yükseldi.\n\nDiğer önemli limanlardaki sevkiyatlar ise şöyle gerçekleşti:\n\nRostov terminalleri: 525 bin ton (2,2 kat artış)\n\nTuapse Limanı: 219 bin ton (3,6 kat artış)\n\nAzov Limanı: 203 bin ton (3,4 kat artış)\n\nTyurina, Baltık Denizi'ndeki Vysotsk Limanı'nın da dikkat çekici bir performans sergilediğini belirterek, bu limandan yapılan sevkiyatların 2,5 kat artarak 150 bin tona ulaştığını söyledi. Uzman, bunun Rus tahıl ihracatının yalnızca güney limanlarına bağımlı kalmadığını göstermesi açısından önemli bir gelişme olduğunu vurguladı.\n\nHaziran ayında nehir limanlarından \"nehir-deniz\" tipi gemilerle gerçekleştirilen sevkiyatlarda da önemli artış yaşandı.\n\nBuna göre;\n\nTolyatti: 44 bin 800 ton (3,5 kat artış)\n\nKamışin: 36 bin 600 ton (2,4 kat artış)\n\nVolgodonsk: 34 bin 600 ton (8 kat artış)\n\nTyurina, son dönemde nehir limanlarından gerçekleştirilen aylık sevkiyat hacimlerinin belirgin şekilde arttığını belirterek, geçmişte aylık ortalama 6-10 bin ton seviyesinde olan yüklemelerin artık 30 bin tonun üzerine çıktığını ifade etti.\n\nRusya Tahıl Birliği'ne göre Rus tahılına yönelik uluslararası talebin artmasında Avrupa'da etkili olan sıcak hava dalgası da önemli rol oynuyor. Uzmanlar, yüksek sıcaklıkların Avrupa'daki buğday üretimini olumsuz etkileyebileceği beklentisinin ithalatçı ülkelerin Rus tahılına yönelmesini desteklediğini değerlendiriyor.\n\nFiyat gelişmelerine ilişkin değerlendirmede bulunan Tyurina, Haziran ayında Rusya Tahıl Birliği tarafından izlenen tüm referans piyasalarda fiyatların gerilediğini söyledi.\n\nBuna göre;\n\nFransız buğdayı fiyatı aylık bazda %0,8 düşerek ton başına 237 dolara geriledi.\n\nABD buğdayı fiyatı %6,3 azalarak 238 dolar/ton oldu.\n\nRus buğdayı (FOB Novo"
+    },
+    {
+      "title": "APK-Inform: Ukrayna kolza ihracatı 9 sezonun dibinde",
+      "url": "https://www.tarimpusulasi.com/haber/apk-inform-ukrayna-kolza-ihracati-9-sezonun-dibinde-46968",
+      "source": "Tarım Pusulası",
+      "date": "2026-07-02",
+      "summary": "APK-Inform verilerine göre Ukrayna'nın 2025/26 sezonunda kolza ihracatı yüzde 39 azalarak 1,9 milyon tona geriledi ve son dokuz sezonun en düşük seviyesine indi. İhracat vergisi, düşük üretim ve ilkbahar donları ihracattaki gerilemenin başlıca nedenleri arasında gösterildi.",
+      "content": "KİEV — APK-Inform tarafından açıklanan operasyonel verilere göre, Ukrayna'nın 2025/26 sezonundaki kolza ihracatı 1,9 milyon ton olarak gerçekleşti. Bu miktar önceki sezona göre yüzde 39 düşüş anlamına gelirken, son dokuz sezonun en düşük ihracat seviyesi olarak kayıtlara geçti.\n\nVerilere göre yaklaşık son yirmi yıl içinde ilk kez Ukrayna'da üretilen kolzanın yalnızca yüzde 59-60'lık bölümü ihraç edildi. Önceki yıllarda toplam arzın ortalama yüzde 85'i dış pazarlara gönderiliyordu. Böylece ürünün daha büyük bölümü ülke içinde işlenmeye başladı.\n\nAPK-Inform, ihracattaki sert düşüşün temel nedenleri arasında kolzaya getirilen yüzde 10 ihracat vergisini gösterdi. Vergi uygulaması, Ukraynalı yağlı tohum işleyicilerinin iç piyasadaki rekabet gücünü artırırken, ihracat hacmini sınırlandırdı.\n\nBir diğer önemli etken ise 2025 ilkbaharında yaşanan don olayları oldu. Olumsuz hava koşulları nedeniyle kolza üretimi son dört yılın en düşük seviyesine geriledi.\n\nRapora göre Avrupa Birliği'nde 2025 yılında kolza üretiminin artması da Ukrayna'nın ihracatını etkileyen faktörlerden biri oldu. Buna rağmen Avrupa pazarı ithal hammaddeye bağımlılığını sürdürürken, talebin hâlen iç üretimin üzerinde olduğu belirtildi.\n\n2025/26 sezonunda Ukrayna'nın kolza ihracatının yüzde 91'i Avrupa Birliği ülkelerine yapıldı. Ancak AB'ye yapılan sevkiyatlar miktar bazında yüzde 38 azalarak 1,73 milyon tona geriledi.\n\nÜlke bazında en büyük ithalatçı 876 bin ton ile Almanya olurken, onu 453 bin tonla Belçika ve 247 bin tonla Hollanda takip etti.\n\nAPK-Inform, 2026/27 sezonunda da ihracatta güçlü bir toparlanma beklemiyor. Kuruluşa göre bu yıl kolza ekim alanları da ani sıcaklık değişimlerinden olumsuz etkilendi. Özellikle Ukrayna'nın orta ve güney bölgelerinde bazı tarlaların buz tabakası altında kalması nedeniyle önemli ürün kayıpları yaşandı.\n\nRaporda ayrıca ihracat vergisinin yürürlükte kalmaya devam edeceği belirtilirken, ihracat potansiyelinin önümüzdeki dönemde de büyük ölçüde iç işleme sanayisinin ekonomisi ve Ukraynalı işleyicilerin kârlılığı tarafından belirleneceği ifade edildi.\n\nAPK-Inform'un tahminlerine göre, 2026 yılında 3,6 milyon ton kolza üretimi beklenirken, 2026/27 sezonunda ihracatın 2,1-2,2 milyon ton seviyesine ulaşabileceği öngörülüyor. Bu miktar bir önceki sezona göre yaklaşık yüzde 18 artış anlamına gelse de son yılların ortalamasının altında kalmaya devam edecek.\n\nTARIM PUSULASI HABER MERKEZİ"
+    },
+    {
+      "title": "Reuters: Hindistan mısır ihracatında 3 yılın zirvesine gidiyor",
+      "url": "https://www.tarimpusulasi.com/haber/reuters-hindistan-misir-ihracatinda-3-yilin-zirvesine-gidiyor-46967",
+      "source": "Tarım Pusulası",
+      "date": "2026-07-02",
+      "summary": "Reuters'ın aktardığı verilere göre Hindistan'ın mısır ihracatının 2026 yılında son üç yılın en yüksek seviyesine ulaşması bekleniyor. Rekor üretim, gerileyen fiyatlar ve Asya pazarlarına yönelik düşük navlun maliyetleri ihracatı desteklerken, El Niño kaynaklı hava koşulları sezonun en önemli riskler",
+      "content": "MUMBAİ — Reuters'ın aktardığına göre Hindistan'ın mısır ihracatının 2026 yılında son üç yılın en yüksek seviyesine ulaşması bekleniyor. Rekor üretim sonucu gerileyen iç piyasa fiyatları ve Asya ülkelerine yönelik daha düşük navlun maliyetleri, Hint mısırının uluslararası pazarda rekabet gücünü artırdı.\n\nYılın ilk beş ayında Vietnam, Nepal, Bangladeş, Sri Lanka ve Bhutan'ın Hindistan'dan mısır ithalatını artırdığı belirtilirken, İran'a yönelik savaşın ardından küresel navlun ücretlerinde yaşanan yükselişin Asyalı alıcıları Hint mısırına yönelttiği ifade edildi.\n\nOlam Agri India Başkan Yardımcısı Nitin Gupta, son aylarda ihracat talebinin güçlü seyrettiğini belirterek, Hindistan'daki düşük mısır fiyatlarının ve ABD ile Güney Amerika'dan yapılan sevkiyatlarda artan taşıma maliyetlerinin Hint mısırını Asyalı alıcılar açısından daha cazip hale getirdiğini söyledi.\n\nHindistan Ticaret Bakanlığı'nın ön verilerine göre, 2026 yılının ilk beş ayında mısır ihracatı geçen yılın aynı dönemindeki 228 bin 844 tondan 1,08 milyon tona yükseldi. Gupta, yıl genelinde ihracatın 1,8 milyon tona ulaşabileceğini, bunun da 2023 yılından bu yana görülen en yüksek seviye olacağını ve geçen yılki 805 bin 935 tonluk ihracatın iki katından fazla gerçekleşeceğini öngördü.\n\n2025/26 sezonunda Hindistan'ın mısır üretimi bir önceki yıla göre yüzde 27 artarak rekor düzey olan 55 milyon tona ulaştı. Bu artışta, 2024 yılında etanol sektöründen gelen güçlü talebin mısır fiyatlarını yükseltmesi ve çiftçilerin ekim alanlarını genişletmesi etkili oldu.\n\nSon aylarda arz fazlası nedeniyle gerileyen mısır fiyatlarının, ihracatın stokları azaltmasıyla yeniden toparlanmaya başladığı belirtiliyor. Ancak ihracatçı Hemant Jain'e göre fiyatlardaki yükseliş, ihracat hızını yeniden yavaşlatmaya başladı. Jain, Bangladeş ve Nepal gibi komşu ülkelerin alımlarını sürdürdüğünü, diğer Asyalı alıcıların ise yeniden ABD mısırına yöneldiğini söyledi.\n\nPiyasa katılımcıları, ekim ayında yeni mahsulün piyasaya girmesiyle ihracatın yeniden hız kazanmasını bekliyor. Ancak uzmanlar, El Niño hava olayının yağışları azaltması durumunda çiftçilerin mısır yerine farklı ürünlere yönelebileceği ve bunun üretimi olumsuz etkileyebileceği uyarısında bulunuyor.\n\nTARIM PUSULASI HABER MERKEZİ"
+    },
     {
       "title": "Kazakistan'da buğday fiyatları yükselişini sürdürüyor",
       "url": "https://www.tarimpusulasi.com/haber/kazakistanda-bugday-fiyatlari-yukselisini-surduruyor-46966",
@@ -101,30 +125,6 @@
       "date": "2026-07-01",
       "summary": "Konya Şeker'in işlettiği Soma Termik Santrali'nde Enerji ve Tabii Kaynaklar Bakanlığı'na verilen elektrik üretim taahhüdünün Haziran ayında da yerine getirilememesi nedeniyle yaklaşık 100 milyon liralık ceza kesildiği öğrenildi. Daha önce Nisan ayında da eksik üretim nedeniyle 50 milyon liralık kesi",
       "content": "Sadettin İnan / İcradan satış süreci Eylül ayında başlaması beklenen Soma Termik Santrali'nde yaşanan yönetim sorunlarının maliyeti büyümeye devam ediyor.\n\nEdinilen bilgilere göre, Konya Şeker'in Enerji ve Tabii Kaynaklar Bakanlığı'na verdiği elektrik üretim taahhüdünü Haziran ayında da yerine getirememesi üzerine, eksik üretim nedeniyle yaklaşık 100 milyon lira ceza ödediği öğrenildi. (Haziran ayında 30 günde 13 gün taahhüt yerine getirelemedi)\n\nBakanların katıldığı toplantıda üretim taahhüdü verilmişti\n\nMart ayında Enerji ve Tabii Kaynaklar Bakanı ile Çevre, Şehircilik ve İklim Değişikliği Bakanı'nın katılımıyla gerçekleştirilen toplantıda, Soma Termik Santrali çalışanlarının maaşlarının ödenebilmesi amacıyla santralden 75 dolar/megavat teşvikli fiyat üzerinden elektrik alınmasına karar verilmişti.\n\nBu destek karşılığında Konya Şeker yönetimi ilk etapta 295 megavat/saat üretim taahhüdünde bulunmuş, ancak daha sonra bu taahhüt 180 megavat/saate düşürülmüştü.\n\nBuna rağmen santralin, revize edilen üretim taahhüdünü de yerine getiremediği ortaya çıktı.\n\nNisan ayında da 50 milyon liralık kesinti yapılmıştı\n\nHaziran ayında yaşanan 100 milyon liralık cezanın öncesinde de benzer bir tablo yaşanmıştı. Bilindiği üzere Nisan ayında eksik üretim nedeniyle EÜAŞ, Konya Şeker'e hak ettiği enerji ödemesinden yaklaşık 50 milyon liralık kesinti yapmıştı.\n\nŞirket bu tutarı doğrudan nakit olarak ödemese de, hak edilen enerji gelirinden yapılan kesinti nedeniyle aynı tutarda gelir kaybına uğramıştı. Ancak Konya Şeker Başkanı Ramazan Erkoyuncu, santrallerde yaşanan kötü yönetimin ortaya çıkmaması için EÜAŞ'ın kestiği cezayı; 'Biz ceza ödemedik' diyerek manipüle etmeye çalışmıştı.\n\nHaziran ayında kesilen ceza 100 milyon liraya çıktı!\n\n6 ünitesi bulunan Soma Termik Santralinde mevcut kurulu kapasitenin çok altında (saatte 180 megavat) altında elektrik üretim taahhüdü verilmesine rağmen Haziran ayında 13 gün bu taahhüdün yerine getirelemediği ve bundan dolayı EÜAŞ'ın, Konya Şeker'e 100 milyon lira ceza kestiği öğrenildi.\n\nSoma'da Genel Müdür Yardımcısı Sessiz Sedasız Görevden Alındı!\n\nEdinilen bilgilere göre, eksik üretim nedeniyle oluşan sorumluluğun Genel Müdür Yardımcısı Mehmet Ali Alkanat'a yansıtıldığı ve Alkanat'ın, Yönetim Kurulu Başkanı Ramazan Erkoyuncu'nun kararıyla dün görevden alındığı öğrenildi.\n\nBu gelişme, Soma Termik Santrali'nde bugüne kadar yaşanan mali kayıplar nedeniyle herhangi bir üst düzey yönetici hakkında işlem yapılmazken, ilk kez bir yöneticinin görevden alınması açısından dikkat çekti.\n\nNisan ayındaki ceza tartışma konusu olmuştu\n\nÖte yandan, Nisan ayında EÜAŞ tarafından hak edişten yapılan yaklaşık 50 milyon liralık kesintinin ardından Ramazan Erkoyuncu'nun kamuoyuna yaptığı \"ceza ödemedik\" yönündeki açıklama Soma Termik Santralinde yaşanan sıkıntıyı gözler önüne sermişti.\n\nŞirket EÜAŞ'a doğrudan bir ödeme yapmamış olsa da, eksik üretim nedeniyle hak ettiği enerji bedelinden kesinti uygulanması fiilen aynı tutarda gelir kaybı yaşanmasına neden olmuştu.\n\nHaziran ayında kesilen yaklaşık 100 milyon liralık cezanın ardından Soma Termik Santrali'nden sorumlu Genel Müdür Yardımcısının görevden alınması, \"Bugüne kadar santralde yaşanan yönetim zafiyetlerine neden göz yumuldu?\" sorusunu da beraberinde getirdi.\n\nDaha fazla bilgi\n\nRamazan Erkoyuncu Bakanlara verdiği taahhüdü de yerine getiremedi: Bakanlıktan Konya Şeker’e 50 milyon lira ceza!\n\nKonya Şeker'de 'Keçi' operasyonu: Gerçekler kelime oyunlarıyla nasıl saklanıyor?"
-    },
-    {
-      "title": "Bakan Yumaklı: Hububatta rekor üretim bekliyoruz, destek artacak",
-      "url": "https://www.tarimpusulasi.com/haber/bakan-yumakli-hububatta-rekor-uretim-bekliyoruz-destek-artacak-46961",
-      "source": "Tarım Pusulası",
-      "date": "2026-07-01",
-      "summary": "Tarım ve Orman Bakanı İbrahim Yumaklı, Kırıkkale'de düzenlenen arpa hasadı ve mera ıslah projesi tanıtımında, 2026 yılının son 66 yılın en yağışlı yılı olduğunu belirterek buğday ve arpada rekor üretim beklendiğini açıkladı. Yumaklı, İran krizi nedeniyle artan girdi maliyetlerinin destekleme ödemele",
-      "content": "KIRIKKALE — Tarım ve Orman Bakanı İbrahim Yumaklı, Kırıkkale'nin Karakeçili ilçesinde düzenlenen arpa hasadı ile Karakeçili Eğribük Mera Islah ve Amenajman Projesi tanıtım programında yaptığı açıklamada, 2026 üretim sezonuna ilişkin önemli değerlendirmelerde bulundu. Programa Tarım ve Orman Bakan Yardımcısı Ahmet Gümen, Toprak Mahsulleri Ofisi Genel Müdürü Ahmet Güldal, Bitkisel Üretim Genel Müdürü Uğur Erdem, Kırıkkale İl Tarım ve Orman Müdürü Fatih Ateş, sektör temsilcileri ve üreticiler katıldı.\n\nYumaklı, 2026 yılının son 66 yılın en yağışlı yılı olarak kayıtlara geçtiğini belirterek baraj doluluk oranlarının yüzde 81'in üzerine çıktığını söyledi. Düzenli yağışların birçok üründe verimliliği artırdığını ifade eden Bakan Yumaklı, bitkisel üretimin bu yıl 140 milyon tonu aşarak tarihi bir rekora ulaşabileceğini dile getirdi.\n\nİlk tahminlere göre buğday üretiminin geçen yıla göre yüzde 27 artışla 22 milyon 750 bin tona, arpa üretiminin ise yüzde 50 artışla 9 milyon tona ulaşmasının beklendiğini belirten Yumaklı, bu rakamların hem verimlilik hem de üreticinin başarısı açısından önemli olduğunu söyledi.\n\nHasat sürecine ilişkin bilgi veren Yumaklı, ilk hasadın buğdayda 10 Mayıs'ta Aydın'da, arpada ise 15 Mayıs'ta Şanlıurfa'da başladığını belirterek, Doğu Anadolu Bölgesi dışında ülkenin büyük bölümünde hasadın sürdüğünü kaydetti. Bakan Yumaklı, hasat oranının buğdayda yüzde 19'a, arpada ise yüzde 17'ye ulaştığını ifade etti.\n\nToprak Mahsulleri Ofisi'nin alım politikalarına da değinen Yumaklı, alım fiyatlarının üretim maliyetleri dikkate alınarak ve dünya piyasalarının üzerinde belirlendiğini söyledi. Yumaklı, TMO'nun yalnızca 21 günde 1 milyon ton ürün alımı gerçekleştirerek kendi rekorunu kırdığını, fiyat açıklamasından sonraki 28 günde ise yaklaşık 2 milyon ton hububat alındığını açıkladı. Teslim edilen ürünler için üreticilere şimdiye kadar 2 milyar lira ödeme yapıldığını belirten Bakan, bundan sonraki ödemelerin de ürün tesliminden sonraki 21'inci günden itibaren sürdürüleceğini söyledi.\n\nTarımsal desteklere ilişkin yeni bir mesaj da veren Yumaklı, Cumhurbaşkanı Recep Tayyip Erdoğan tarafından açıklanan temel destek ve planlama desteğinin, İran krizi sonrasında yükselen girdi maliyetleri dikkate alınarak üretim sezonu sonunda yeniden hesaplanacağını ve güncelleneceğini ifade etti.\n\nÜreticilere TARSİM ve Devlet Destekli Gelir Koruma Sigortası çağrısında bulunan Yumaklı, iklim değişikliğinin artık tarımsal üretimin temel risklerinden biri haline geldiğini belirterek üreticilerin risk yönetimine önem vermesi gerektiğini söyledi. Ayrıca hasat döneminde biçerdöver ve balya makinelerinden kaynaklanabilecek yangın risklerine karşı dikkatli olunması çağrısı yaptı.\n\nProgram kapsamında tanıtılan Karakeçili Eğribük Mera Islah ve Amenajman Projesi hakkında da bilgi veren Yumaklı, yaklaşık 3 bin dekarlık alanda yürütülen projenin modern mera ıslah yöntemleriyle uygulanacağını, beş yıl sonunda mera verimliliğinin artırılmasının ve kaliteli kaba yem üretiminin güçlendirilmesinin hedeflendiğini söyledi. Projede ayrıca kuraklığa dayanıklı türlerle yaklaşık 500 dekarlık alanda yüksek protein değerine sahip yem bitkilerinin yetiştirileceğini belirtti.\n\nYumaklı, sürdürülebilir tarımsal üretimin güçlü üretici, verimli meralar ve planlı destek politikalarıyla mümkün olacağını belirterek hasat sezonunun tüm üreticilere bereket getirmesini diledi.\n\nTARIM PUSULASI HABER MERKEZİ"
-    },
-    {
-      "title": "ABD Ticaret Bakanlığı Rus Gübre Vergilerini Uzattı",
-      "url": "https://www.tarimpusulasi.com/haber/abd-ticaret-bakanligi-rus-gubre-vergilerini-uzatti-46960",
-      "source": "Tarım Pusulası",
-      "date": "2026-07-01",
-      "summary": "ABD Ticaret Bakanlığı, Rusya'dan ithal edilen fosforlu gübrelere uygulanan telafi edici vergilerin devam etmesine karar verdi. Karar kapsamında EuroChem, PhosAgro ve diğer Rus tedarikçilerine yönelik mevcut vergi oranları korunurken, Fas kaynaklı inceleme ise henüz sonuçlanmadı.",
-      "content": "WASHINGTON — ABD Ticaret Bakanlığı, Rusya'dan ithal edilen fosforlu gübrelere uygulanan telafi edici vergilerin yürürlükte kalmasına karar verdi. Bakanlığın yayımladığı inceleme sonuçlarına göre mevcut vergi oranlarında değişikliğe gidilmedi.\n\nKarar kapsamında Rus gübre üreticisi EuroChem için telafi edici vergi oranı %24,11, PhosAgro için %14,64, diğer Rus tedarikçileri için ise %16,64 olarak korunacak.\n\nABD, Rusya ve Fas'tan ithal edilen fosforlu gübrelere yönelik söz konusu vergileri ilk olarak Nisan 2021'de beş yıllık süreyle uygulamaya koymuştu. Sürecin başlatılmasında ABD'nin en büyük fosfat üreticilerinden Mosaic şirketinin başvurusu etkili olmuştu. Şirket, Rusya ve Fas'tan sübvansiyonlu ithalatın iç pazarda haksız rekabete neden olduğunu savunmuştu.\n\nABD Ticaret Bakanlığı, 2026 yılında beş yıllık sürenin dolması nedeniyle vergilere ilişkin zorunlu gözden geçirme (sunset review) sürecini başlattı. İnceleme sırasında ABD'li üreticiler Mosaic ile Simplot görüşlerini Bakanlığa iletirken, Rus makamları ve Rus şirketleri resmi bir değerlendirme sunmadı. Bu nedenle inceleme hızlandırılmış prosedür kapsamında tamamlandı.\n\nÖte yandan Fas merkezli OCP hakkında yürütülen incelemenin sonuçları henüz açıklanmadı. Bazı ABD'li senatörler, Orta Doğu'daki gelişmeler nedeniyle yükselen gübre fiyatlarını gerekçe göstererek Fas'a uygulanan vergilerin kaldırılması çağrısında bulunmuştu.\n\nKararın, küresel fosforlu gübre ticareti ile uluslararası gübre fiyatlarının seyri açısından yakından izlenmesi bekleniyor.\n\nTARIM PUSULASI HABER MERKEZİ"
-    },
-    {
-      "title": "Oman Flour Mills 30 Bin Ton Mısır Alımı İçin İhaleye Çıkıyor",
-      "url": "https://www.tarimpusulasi.com/haber/oman-flour-mills-30-bin-ton-misir-alimi-icin-ihaleye-cikiyor-46959",
-      "source": "Tarım Pusulası",
-      "date": "2026-07-01",
-      "summary": "Oman Flour Mills, 30 bin ton mısır alımı için uluslararası ihale düzenleyeceğini açıkladı. Teklifler 1 Temmuz 2026 tarihine kadar kabul edilirken, ürün teslimatının 1-15 Eylül 2026 döneminde gerçekleştirilmesi planlanıyor.",
-      "content": "UMMAN — Oman Flour Mills, 30 bin ton mısır alımı amacıyla uluslararası ihale açtığını duyurdu. Şirketin yayımladığı ihale takvimine göre teklifler 1 Temmuz 2026 tarihine kadar kabul edilecek ve ihale aynı gün gerçekleştirilecek.\n\nİhaleyi kazanan tedarikçinin ürün teslimatını 1-15 Eylül 2026 tarihleri arasında gerçekleştirmesi planlanıyor. Başvuruların şirketin belirlediği resmi e-posta adresi üzerinden yapılacağı bildirildi.\n\nOman Flour Mills, Umman'ın önde gelen un ve yem üreticileri arasında yer alıyor. Şirket, ilk kurulduğu dönemde günlük 150 metrik ton un üretim kapasitesine sahipken, yapılan yatırımlarla bu kapasitesini 800 metrik tona yükseltti.\n\nŞirket ayrıca 1983 yılında faaliyete aldığı yem fabrikasında başlangıçta günlük 300 metrik ton üretim kapasitesiyle çalışırken, bugün hayvan yemi üretim kapasitesi 1.500 metrik tona ulaştı.\n\nOman Flour Mills, ürün tedarikinde kalite kontrol süreçleri, gelişmiş öğütme teknolojileri ve müşteri ihtiyaçlarına yönelik özel üretim çözümleri sunduğunu belirtiyor. Şirket, sürdürülebilir üretim uygulamaları kapsamında kaynak kullanımını optimize etmeyi ve çevresel etkisini azaltmayı hedeflediğini de vurguluyor.\n\nAçılan ihalenin, bölgesel mısır ticareti ve yem sanayisine yönelik talebin seyri açısından uluslararası tahıl piyasaları tarafından yakından takip edilmesi bekleniyor.\n\nTARIM PUSULASI HABER MERKEZİ"
     },
     {
       "title": "Tarım Kredi'de yine çiftçinin kasasına gidildi! Yağ şirketine 3,5 milyarlık sermaye aktarıldı",
@@ -328,5 +328,20 @@
   "defaultBorsa": "5ED10",
   "defaultCity": "CANAKKALE",
   "note": "Fiyatlar TOBB ticaret borsasından (borsa seçilebilir). Kanola manuel (Trakya 2025).",
-  "inputsNote": "Mazot: akaryakıt bayi fiyatı, günlük (şehir seçilebilir). Gübre: manuel (yaklaşık)."
+  "inputsNote": "Mazot: akaryakıt bayi fiyatı, günlük (şehir seçilebilir). Gübre: manuel (yaklaşık).",
+  "errors": [
+    "borsa 5ED10: fetch failed",
+    "borsa 5KO10: fetch failed",
+    "borsa 5ES10: fetch failed",
+    "mazot ANKARA: fetch failed",
+    "mazot ISTANBUL: fetch failed",
+    "mazot IZMIR: fetch failed",
+    "mazot KONYA: fetch failed",
+    "mazot ADANA: fetch failed",
+    "mazot BURSA: fetch failed",
+    "mazot ANTALYA: fetch failed",
+    "mazot SAMSUN: fetch failed",
+    "mazot TEKIRDAG: fetch failed",
+    "mazot CANAKKALE: fetch failed"
+  ]
 }
