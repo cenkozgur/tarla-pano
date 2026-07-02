@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-07-02T12:32:22.470Z",
+  "updatedAt": "2026-07-02T14:41:50.056Z",
   "fx": [
     {
       "code": "USD",
@@ -12,32 +12,40 @@
       "code": "EUR",
       "name": "Euro",
       "buy": 53.52,
-      "sell": 53.56,
-      "change": 0.77
+      "sell": 53.54,
+      "change": 0.76
     },
     {
       "code": "GRA",
       "name": "Gram Altın",
-      "buy": 6190.18,
-      "sell": 6191.14,
-      "change": 2.36
+      "buy": 6182.42,
+      "sell": 6183.4,
+      "change": 2.24
     },
     {
       "code": "CEYREKALTIN",
       "name": "Çeyrek Altın",
-      "buy": 9795.15,
-      "sell": 10019.22,
-      "change": -0.6
+      "buy": 9927.81,
+      "sell": 10164.65,
+      "change": 0.85
     },
     {
       "code": "CUMHURIYETALTINI",
       "name": "Cumhuriyet Altını",
-      "buy": 40643,
-      "sell": 41258,
-      "change": -0.49
+      "buy": 41178,
+      "sell": 41800,
+      "change": 0.82
     }
   ],
   "news": [
+    {
+      "title": "TÜSEDAD açıkladı: Haziran ayında çiğ süt üretim maliyeti 26,97 liraya geriledi",
+      "url": "https://www.tarimdanhaber.com/tusedad-acikladi-haziran-ayinda-cig-sut-uretim-maliyeti-2697-liraya-geriledi",
+      "source": "Tarımdan Haber",
+      "date": "2026-07-02",
+      "summary": "Tüm Süt, Et ve Damızlık Sığır Yetiştiricileri Derneği (TÜSEDAD), Haziran ayına ilişkin sıcak çiğ süt üretim maliyetini litre başına 26,97 TL olarak açıkladı. Bir önceki aya göre maliyetin 34 kuruş gerilediği belirtilirken, düşüşte kuru yonca fiyatlarındaki gerileme ile mazot fiyatlarındaki düşüşün e",
+      "content": "Haber Merkezi / Tüm Süt, Et ve Damızlık Sığır Yetiştiricileri Derneği (TÜSEDAD), Haziran ayına ilişkin sıcak çiğ süt üretim maliyetini açıkladı. Dernek tarafından yapılan hesaplamaya göre 1 litre sıcak çiğ sütün üretim maliyeti Haziran ayında 26,97 TL olarak gerçekleşti.\n\nTÜSEDAD Maliyet Komisyonu tarafından hazırlanan çalışmada, 100 baş sağmal hayvana sahip ve günlük ortalama 30 litre süt verimi elde edilen bir işletme modeli esas alındı. Hesaplamalarda güncel yem fiyatlarının yanı sıra işletmelerin tüm gider ve gelir kalemleri dikkate alındı.\n\nDernek, Haziran ayında litre başına üretim maliyetinin bir önceki aya göre 34 kuruş azaldığını bildirdi. Açıklamada, maliyetlerdeki gerilemenin en önemli nedenleri arasında kuru yonca otu fiyatının yüzde 12,73 düşmesi, kesif yem fiyatlarının sabit kalması ve mazot fiyatındaki yüzde 3,9'luk gerileme gösterildi.\n\nÖte yandan Tarım ve Orman Bakanlığı tarafından verilen buzağı desteklerinde de artış yaşandığına dikkat çekildi. Buna göre 2025 yılında ortalama 2 bin 170 TL olan buzağı desteğinin 2026 yılında 3 bin 19 TL'ye yükseldiği belirtildi.\n\nTÜSEDAD, 2024 yılından itibaren temel desteklerin kalite kriterlerine göre ilave ödemelerle şekillendirildiğini hatırlatarak, bu uygulamanın kayıt dışılığı azaltırken süt kalitesinin artırılmasına da katkı sağladığını ifade etti.\n\nDernek, süt üreticilerinin maliyetlerini kamuoyuyla şeffaf şekilde paylaşmaya ve sektörü düzenli olarak bilgilendirmeye devam edeceklerini bildirdi."
+    },
     {
       "title": "Anahtar Parti'den TMO'ya tepki: Buğdayda kazanan çiftçi değil, 13,5 liraya alan tüccar olacak",
       "url": "https://www.tarimdanhaber.com/anahtar-partiden-tmoya-tepki-bugdayda-kazanan-ciftci-degil-135-liraya-alan-tuccar-olacak",
@@ -125,14 +133,6 @@
       "date": "2026-07-02",
       "summary": "Arı Tarım A.Ş., Afyonkarahisar'ın Sandıklı ilçesinde toplam 300 dönümlük jeotermal sera yatırımı yapmaya hazırlanıyor. Firma sahibi Özer Urak, her biri 50 dönüm büyüklüğünde 6 modern sera kurulacağını belirterek, şirketin Türkiye genelindeki sera sayısının da hızla arttığını söyledi.",
       "content": "Haber Merkezi / Arı Tarım A.Ş., jeotermal enerjiyle modern sera üretimine yönelik önemli bir yatırım kararı aldı.\n\nFirma sahibi Özer Urak, Afyonkarahisar'ın Sandıklı ilçesinde her biri 50 dönüm büyüklüğünde 6 adet jeotermal sera kurulacağını açıkladı. Toplam 300 dönümlük yatırımın, bölgedeki örtü altı üretim kapasitesine önemli katkı sağlaması bekleniyor.\n\nTürkiye genelinde 11 serası bulunuyor\n\nUrak, şirketin halen Türkiye'nin farklı bölgelerinde faaliyet gösteren 11 modern seraya sahip olduğunu belirtti.\n\nBuna göre şirketin;\n\nAntalya'da 6,\n\nAdana'da 2,\n\nMersin'de 3\n\nolmak üzere toplam 11 serası bulunuyor.\n\nSeraların Antalya'nın Kumluca, Finike, Demre, Serik, Manavgat ve Elmalı, Adana'nın Karataş ve Seyhan, Mersin'in Anamur, Bozyazı ve Silifke ilçelerinde faaliyet gösterdiğini belirten Urak, Sandıklı yatırımının da bu üretim ağına ekleneceğini ifade etti.\n\nModern üretim teknikleri uygulanıyor\n\nÖzer Urak, seralarda ağırlıklı olarak sebze ve tarla bitkileri üretimi gerçekleştirildiğini belirterek, başta domates, biber, salatalık, patlıcan, kabak, karpuz ve kavun olmak üzere farklı bölgelerin iklim koşullarına uygun ürünlerin yetiştirildiğini söyledi.\n\nÜretim süreçlerinde modern tarım teknikleri, kontrollü sulama sistemleri ve bitki besleme uygulamalarının kullanıldığını ifade eden Urak, amaçlarının yüksek verim ile kaliteli üretimi birlikte sağlamak olduğunu dile getirdi.\n\nİhracata yönelik üretim hedefleniyor\n\nUrak, Türkiye'nin farklı iklim bölgelerinde üretim yapabilmelerinin yıl boyunca kesintisiz ürün arzı sağladığını belirterek, modern sera yatırımları sayesinde hem iç pazara hem de ihracata yönelik güvenilir ve kaliteli ürün üretimini sürdürdüklerini kaydetti."
-    },
-    {
-      "title": "Konya Şeker'de Soma faturası büyüyor! Bu kez 100 milyon liralık ceza, genel müdür yardımcısı görevden alındı",
-      "url": "https://www.tarimdanhaber.com/konya-sekerde-soma-faturasi-buyuyor-bu-kez-100-milyon-liralik-ceza-genel-mudur-yardimcisi-gorevden-alindi",
-      "source": "Tarımdan Haber",
-      "date": "2026-07-01",
-      "summary": "Konya Şeker'in işlettiği Soma Termik Santrali'nde Enerji ve Tabii Kaynaklar Bakanlığı'na verilen elektrik üretim taahhüdünün Haziran ayında da yerine getirilememesi nedeniyle yaklaşık 100 milyon liralık ceza kesildiği öğrenildi. Daha önce Nisan ayında da eksik üretim nedeniyle 50 milyon liralık kesi",
-      "content": "Sadettin İnan / İcradan satış süreci Eylül ayında başlaması beklenen Soma Termik Santrali'nde yaşanan yönetim sorunlarının maliyeti büyümeye devam ediyor.\n\nEdinilen bilgilere göre, Konya Şeker'in Enerji ve Tabii Kaynaklar Bakanlığı'na verdiği elektrik üretim taahhüdünü Haziran ayında da yerine getirememesi üzerine, eksik üretim nedeniyle yaklaşık 100 milyon lira ceza ödediği öğrenildi. (Haziran ayında 30 günde 13 gün taahhüt yerine getirelemedi)\n\nBakanların katıldığı toplantıda üretim taahhüdü verilmişti\n\nMart ayında Enerji ve Tabii Kaynaklar Bakanı ile Çevre, Şehircilik ve İklim Değişikliği Bakanı'nın katılımıyla gerçekleştirilen toplantıda, Soma Termik Santrali çalışanlarının maaşlarının ödenebilmesi amacıyla santralden 75 dolar/megavat teşvikli fiyat üzerinden elektrik alınmasına karar verilmişti.\n\nBu destek karşılığında Konya Şeker yönetimi ilk etapta 295 megavat/saat üretim taahhüdünde bulunmuş, ancak daha sonra bu taahhüt 180 megavat/saate düşürülmüştü.\n\nBuna rağmen santralin, revize edilen üretim taahhüdünü de yerine getiremediği ortaya çıktı.\n\nNisan ayında da 50 milyon liralık kesinti yapılmıştı\n\nHaziran ayında yaşanan 100 milyon liralık cezanın öncesinde de benzer bir tablo yaşanmıştı. Bilindiği üzere Nisan ayında eksik üretim nedeniyle EÜAŞ, Konya Şeker'e hak ettiği enerji ödemesinden yaklaşık 50 milyon liralık kesinti yapmıştı.\n\nŞirket bu tutarı doğrudan nakit olarak ödemese de, hak edilen enerji gelirinden yapılan kesinti nedeniyle aynı tutarda gelir kaybına uğramıştı. Ancak Konya Şeker Başkanı Ramazan Erkoyuncu, santrallerde yaşanan kötü yönetimin ortaya çıkmaması için EÜAŞ'ın kestiği cezayı; 'Biz ceza ödemedik' diyerek manipüle etmeye çalışmıştı.\n\nHaziran ayında kesilen ceza 100 milyon liraya çıktı!\n\n6 ünitesi bulunan Soma Termik Santralinde mevcut kurulu kapasitenin çok altında (saatte 180 megavat) altında elektrik üretim taahhüdü verilmesine rağmen Haziran ayında 13 gün bu taahhüdün yerine getirelemediği ve bundan dolayı EÜAŞ'ın, Konya Şeker'e 100 milyon lira ceza kestiği öğrenildi.\n\nSoma'da Genel Müdür Yardımcısı Sessiz Sedasız Görevden Alındı!\n\nEdinilen bilgilere göre, eksik üretim nedeniyle oluşan sorumluluğun Genel Müdür Yardımcısı Mehmet Ali Alkanat'a yansıtıldığı ve Alkanat'ın, Yönetim Kurulu Başkanı Ramazan Erkoyuncu'nun kararıyla dün görevden alındığı öğrenildi.\n\nBu gelişme, Soma Termik Santrali'nde bugüne kadar yaşanan mali kayıplar nedeniyle herhangi bir üst düzey yönetici hakkında işlem yapılmazken, ilk kez bir yöneticinin görevden alınması açısından dikkat çekti.\n\nNisan ayındaki ceza tartışma konusu olmuştu\n\nÖte yandan, Nisan ayında EÜAŞ tarafından hak edişten yapılan yaklaşık 50 milyon liralık kesintinin ardından Ramazan Erkoyuncu'nun kamuoyuna yaptığı \"ceza ödemedik\" yönündeki açıklama Soma Termik Santralinde yaşanan sıkıntıyı gözler önüne sermişti.\n\nŞirket EÜAŞ'a doğrudan bir ödeme yapmamış olsa da, eksik üretim nedeniyle hak ettiği enerji bedelinden kesinti uygulanması fiilen aynı tutarda gelir kaybı yaşanmasına neden olmuştu.\n\nHaziran ayında kesilen yaklaşık 100 milyon liralık cezanın ardından Soma Termik Santrali'nden sorumlu Genel Müdür Yardımcısının görevden alınması, \"Bugüne kadar santralde yaşanan yönetim zafiyetlerine neden göz yumuldu?\" sorusunu da beraberinde getirdi.\n\nDaha fazla bilgi\n\nRamazan Erkoyuncu Bakanlara verdiği taahhüdü de yerine getiremedi: Bakanlıktan Konya Şeker’e 50 milyon lira ceza!\n\nKonya Şeker'de 'Keçi' operasyonu: Gerçekler kelime oyunlarıyla nasıl saklanıyor?"
     }
   ],
   "commoditiesByBorsa": {
@@ -328,17 +328,5 @@
   "defaultBorsa": "5ED10",
   "defaultCity": "CANAKKALE",
   "note": "Fiyatlar TOBB ticaret borsasından (borsa seçilebilir). Kanola manuel (Trakya 2025).",
-  "inputsNote": "Mazot: akaryakıt bayi fiyatı, günlük (şehir seçilebilir). Gübre: manuel (yaklaşık).",
-  "errors": [
-    "mazot ANKARA: fetch failed",
-    "mazot ISTANBUL: fetch failed",
-    "mazot IZMIR: fetch failed",
-    "mazot KONYA: fetch failed",
-    "mazot ADANA: fetch failed",
-    "mazot BURSA: fetch failed",
-    "mazot ANTALYA: fetch failed",
-    "mazot SAMSUN: fetch failed",
-    "mazot TEKIRDAG: fetch failed",
-    "mazot CANAKKALE: fetch failed"
-  ]
+  "inputsNote": "Mazot: akaryakıt bayi fiyatı, günlük (şehir seçilebilir). Gübre: manuel (yaklaşık)."
 }
