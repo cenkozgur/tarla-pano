@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-07-03T19:41:38.489Z",
+  "updatedAt": "2026-07-03T20:44:18.591Z",
   "fx": [
     {
       "code": "USD",
@@ -11,16 +11,16 @@
     {
       "code": "EUR",
       "name": "Euro",
-      "buy": 53.56,
-      "sell": 53.59,
-      "change": 0.02
+      "buy": 53.53,
+      "sell": 53.6,
+      "change": 0.01
     },
     {
       "code": "GRA",
       "name": "Gram Altın",
-      "buy": 6276.12,
-      "sell": 6277.14,
-      "change": 1.32
+      "buy": 6277.06,
+      "sell": 6278.08,
+      "change": 1.34
     },
     {
       "code": "CEYREKALTIN",
@@ -38,6 +38,14 @@
     }
   ],
   "news": [
+    {
+      "title": "TİGEM'in reforme olarak sattığı koyunlar piyasada birinci sınıf damızlık olarak satılıyor",
+      "url": "https://www.tarimdanhaber.com/tigemin-reforme-olarak-sattigi-koyunlar-piyasada-birinci-sinif-damizlik-olarak-satiliyor",
+      "source": "Tarımdan Haber",
+      "date": "2026-07-03",
+      "summary": "TİGEM'in ihale yoluyla \"reforme\" statüsünde satışa çıkardığı koyunların, alıcılar tarafından daha sonra \"TİGEM damızlığı\" etiketiyle damızlık olarak piyasada satıldığı ortaya çıktı. Reforme olarak satılan hayvanların önemli bir bölümünün damızlık vasfını koruduğu yönündeki iddialar, reforme satış si",
+      "content": "Haber Merkezi / TİGEM'in ihale yoluyla gerçekleştirdiği reforme koyun satışları, dikkat çeken bir tabloyu ortaya koyuyor.\n\nReforme koyun; yaşlılık, hastalık, verim düşüklüğü veya genetik nedenlerle damızlık özelliğini kaybetmiş, üreme ve yüksek verim dönemini tamamlamış hayvanlar olarak tanımlanıyor. Bu nedenle reforme olarak satışa çıkarılan hayvanların damızlık amacıyla kullanılmaması, ağırlıklı olarak et üretiminde değerlendirilmesi bekleniyor.\n\nAncak TİGEM'in reforme olarak sattığı koyunların önemli bir bölümünün, ihale alıcıları tarafından daha sonra \"TİGEM damızlığı\" adıyla damızlık hayvan olarak piyasada sattığı kaydediliyor.\n\nİhaleye girenler farklı bir tablo anlatıyor\n\nİhalelere katılan bazı alıcılar, satışa çıkarılan hayvanların en az yüzde 60'ının gerçekte reforme niteliği taşımadığını ifade ederken, ihaleye de bundan dolayı girdiklerini kaydediyor.\n\nBu değerlendirme doğruysa, damızlık değerini koruyan hayvanların hangi gerekçeyle reforme kapsamına alındığı sorusunu beraberinde getiriyor.\n\nÇünkü damızlık değeri bulunmayan hayvan olarak ihale edilen koyunların daha sonra damızlık olarak satılabilmesi, reforme raporlarının hazırlanma kriterlerinin sorgulanmasına neden oluyor.\n\nTİGEM bugün bin baş reforme koyun ihalesi düzenledi\n\nTİGEM, bugün (3 Temmuz) Karacabey Tarım İşletmesi'nde bin baş reforme Merinos koyunu ihalesi düzenledi. İhalede reforme Merinos koyunlarının canlı kilogram başlangıç fiyatı 225 lira olarak belirlenirken, ortalama 64 kilogram ağırlığındaki bir koyun yaklaşık 14 bin 400 lira başlangıç bedeliyle satışa çıkarıldı.\n\nDiğer taraftan kırsalda küçükbaş hayvancılığın desteklenmesi kapsamında üreticilere damızlık Merinos koyunlarının yaklaşık 35 bin lira seviyesinde satılması, reforme olarak ihale edilen hayvanların daha sonra damızlık olarak pazarlanması halinde ortaya çıkan fiyat farkını da gözler önüne seriyor.\n\nİhale süreçleri ve piyasadaki satışlar denetlenmeli\n\nİhaleye katılan bazı alıcıların dile getirdiği iddialar, reforme olarak satışa çıkarılan hayvanların gerçekten damızlık vasfını kaybedip kaybetmediği sorusunu gündeme taşıyor.\n\nEğer damızlık değerini koruyan hayvanlar reforme statüsünde satışa çıkarılıyor ve daha sonra damızlık olarak pazarlanabiliyorsa, hem kamu kaynaklarının etkin kullanımı hem de damızlık hayvan piyasasının işleyişi açısından bu sürecin ilgili denetim birimlerince incelenmesi gerektiği değerlendiriliyor."
+    },
     {
       "title": "Türkşeker Genel Müdürü’nden Saadet Partisi'ne \"600 Milyonluk Şeker\" ziyareti: \"Zarar değil, kar ettik\"",
       "url": "https://www.tarimdanhaber.com/turkseker-genel-mudurunden-saadet-partisine-600-milyonluk-seker-ziyareti-zarar-degil-kar-ettik",
@@ -125,14 +133,6 @@
       "date": "2026-07-02",
       "summary": "Ferrero Grubu, 2024/25 mali yılını kapsayan 17. Sürdürülebilirlik Raporu'nu yayımladı. Raporda sürdürülebilir tarım, izlenebilirlik, iklim çalışmaları ve Türkiye'de yürütülen Ferrero Değerli Tarım Programı kapsamında ulaşılan sonuçlar paylaşıldı.",
       "content": "ANKARA — Ferrero Grubu, 2024/25 mali yılını kapsayan 17. Sürdürülebilirlik Raporu'nu yayımlayarak sürdürülebilir tarım, iklim, çevre, tedarik zinciri ve toplumsal gelişim alanlarında yürüttüğü çalışmalara ilişkin güncel verileri paylaştı. Şirket, raporunda sürdürülebilirlik uygulamalarının üretimden tedarik zincirine kadar tüm faaliyetlerine entegre edildiğini bildirdi.\n\nRapora göre Ferrero Değerli Tarım Programı, hammaddelerin sürdürülebilir şekilde temin edilmesini desteklerken tedarik zincirinde izlenebilirliği artırmayı, çiftçilerin üretim kapasitesini geliştirmeyi ve tarımsal üretimin çevresel etkilerini azaltmayı hedefliyor. Program kapsamında fındık, kakao, palm yağı, kahve ve süt ürünleri gibi temel hammaddeler için farklı sürdürülebilirlik uygulamaları yürütülüyor.\n\nFerrero Grubu Başkanı Giovanni Ferrero, şirketin uzun vadeli başarısının tedarik zincirinde yer alan toplumların ve ekosistemlerin refahına bağlı olduğunu belirterek doğal kaynakların korunmasına ve üretici topluluklarının desteklenmesine yönelik çalışmaların devam edeceğini ifade etti.\n\nTürkiye'de 50 bin üreticiye ulaşıldı\n\nRapora göre Türkiye'de 2012 yılından bu yana yürütülen Ferrero Değerli Tarım Programı kapsamında bugüne kadar yaklaşık 32 milyon avroluk kaynak ayrıldı.\n\nŞirket verilerine göre program sayesinde;\n\nyaklaşık 100 bin hektarlık üretim alanına ulaşıldı,\n\n50 bin fındık üreticisine destek sağlandı,\n\nmevsimlik tarım işçilerinin yaşam koşullarının iyileştirilmesi,\n\nçocukların eğitimine katkı verilmesi,\n\nonarıcı tarım uygulamalarının yaygınlaştırılması,\n\nçevre dostu üretim yöntemlerinin geliştirilmesine yönelik çalışmalar yürütüldü.\n\nProgram kapsamında ayrıca Uluslararası Çalışma Örgütü (ILO), Türkiye Eğitim Gönüllüleri Vakfı (TEGV) ile kamu kurumlarıyla iş birliklerinin sürdüğü bildirildi.\n\nİzlenebilirlik oranları yükseldi\n\nFerrero'nun yayımladığı rapora göre temel hammaddelerde yüksek izlenebilirlik seviyelerine ulaşıldı.\n\nŞirket verilerine göre;\n\nkahvede %100,\n\npalm yağında %98,6,\n\nkakaoda %98,\n\nfındıkta ise %97 oranında izlenebilirlik sağlandı.\n\nBunun yanında kakaonun %99'unun, palm yağının %100'ünün ve kahve çekirdeklerinin %100'ünün sürdürülebilirlik sertifikaları kapsamında tedarik edildiği belirtildi.\n\nEmisyonlar azaltıldı\n\nRaporda iklim çalışmaları kapsamında 24 üretim tesisinde %100 yenilenebilir elektrik kullanımına geçildiği belirtilirken, bunun sonucunda Kapsam 1 ve Kapsam 2 sera gazı emisyonlarının yıllık bazda %7,2 azaltıldığı ifade edildi.\n\nAyrıca şirket genelinde ilk Su Kurumsal Ayak İzi değerlendirmesinin tamamlandığı ve ambalajların %92,9'unun geri dönüştürülebilir, yeniden kullanılabilir veya kompostlanabilir şekilde tasarlandığı bildirildi.\n\nÇalışan ve toplum odaklı uygulamalar\n\nRaporda, Ferrero'nun Dahil Etme ve Saygı Programı'nın 61 ülkede uygulandığı, 500'ün üzerinde oturum gerçekleştirildiği ve çalışanların yaklaşık %80'ine ulaşıldığı belirtildi.\n\nJoy of Moving Programı kapsamında ise 2025 yılı itibarıyla 35 ülkede 4,9 milyon çocuğa ulaşıldığı, programın başladığı 2005 yılından bu yana dünya genelinde ulaşılan çocuk sayısının 60 milyonu aştığı ifade edildi."
-    },
-    {
-      "title": "TÜSEDAD açıkladı: Haziran ayında çiğ süt üretim maliyeti 26,97 liraya geriledi",
-      "url": "https://www.tarimdanhaber.com/tusedad-acikladi-haziran-ayinda-cig-sut-uretim-maliyeti-2697-liraya-geriledi",
-      "source": "Tarımdan Haber",
-      "date": "2026-07-02",
-      "summary": "Tüm Süt, Et ve Damızlık Sığır Yetiştiricileri Derneği (TÜSEDAD), Haziran ayına ilişkin sıcak çiğ süt üretim maliyetini litre başına 26,97 TL olarak açıkladı. Bir önceki aya göre maliyetin 34 kuruş gerilediği belirtilirken, düşüşte kuru yonca fiyatlarındaki gerileme ile mazot fiyatlarındaki düşüşün e",
-      "content": "Haber Merkezi / Tüm Süt, Et ve Damızlık Sığır Yetiştiricileri Derneği (TÜSEDAD), Haziran ayına ilişkin sıcak çiğ süt üretim maliyetini açıkladı. Dernek tarafından yapılan hesaplamaya göre 1 litre sıcak çiğ sütün üretim maliyeti Haziran ayında 26,97 TL olarak gerçekleşti.\n\nTÜSEDAD Maliyet Komisyonu tarafından hazırlanan çalışmada, 100 baş sağmal hayvana sahip ve günlük ortalama 30 litre süt verimi elde edilen bir işletme modeli esas alındı. Hesaplamalarda güncel yem fiyatlarının yanı sıra işletmelerin tüm gider ve gelir kalemleri dikkate alındı.\n\nDernek, Haziran ayında litre başına üretim maliyetinin bir önceki aya göre 34 kuruş azaldığını bildirdi. Açıklamada, maliyetlerdeki gerilemenin en önemli nedenleri arasında kuru yonca otu fiyatının yüzde 12,73 düşmesi, kesif yem fiyatlarının sabit kalması ve mazot fiyatındaki yüzde 3,9'luk gerileme gösterildi.\n\nÖte yandan Tarım ve Orman Bakanlığı tarafından verilen buzağı desteklerinde de artış yaşandığına dikkat çekildi. Buna göre 2025 yılında ortalama 2 bin 170 TL olan buzağı desteğinin 2026 yılında 3 bin 19 TL'ye yükseldiği belirtildi.\n\nTÜSEDAD, 2024 yılından itibaren temel desteklerin kalite kriterlerine göre ilave ödemelerle şekillendirildiğini hatırlatarak, bu uygulamanın kayıt dışılığı azaltırken süt kalitesinin artırılmasına da katkı sağladığını ifade etti.\n\nDernek, süt üreticilerinin maliyetlerini kamuoyuyla şeffaf şekilde paylaşmaya ve sektörü düzenli olarak bilgilendirmeye devam edeceklerini bildirdi."
     }
   ],
   "commoditiesByBorsa": {
