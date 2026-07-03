@@ -1,43 +1,59 @@
 {
-  "updatedAt": "2026-07-03T08:12:19.621Z",
+  "updatedAt": "2026-07-03T10:50:31.488Z",
   "fx": [
     {
       "code": "USD",
       "name": "Dolar",
-      "buy": 46799,
-      "sell": 468106,
-      "change": 15
+      "buy": 46.8,
+      "sell": 46.81,
+      "change": 0.15
     },
     {
       "code": "EUR",
       "name": "Euro",
-      "buy": 536392,
-      "sell": 536501,
-      "change": 16
+      "buy": 53.61,
+      "sell": 53.62,
+      "change": 0.11
     },
     {
       "code": "GRA",
       "name": "Gram Altın",
-      "buy": 629265,
-      "sell": 629358,
-      "change": 159
+      "buy": 6283.68,
+      "sell": 6284.51,
+      "change": 1.44
     },
     {
       "code": "CEYREKALTIN",
       "name": "Çeyrek Altın",
-      "buy": 992781,
-      "sell": 1016465,
-      "change": 0
+      "buy": 10055.77,
+      "sell": 10287.82,
+      "change": 1.21
     },
     {
       "code": "CUMHURIYETALTINI",
       "name": "Cumhuriyet Altını",
-      "buy": 41178,
-      "sell": 41800,
-      "change": 82
+      "buy": 41708,
+      "sell": 42338,
+      "change": 1.29
     }
   ],
   "news": [
+    {
+      "title": "TÜSEDAD: Haziran Ayı Çiğ Süt Üretim Maliyeti 26,97 TL",
+      "url": "https://www.tarimpusulasi.com/haber/tusedad-haziran-ayi-cig-sut-uretim-maliyeti-2697-tl-46976",
+      "source": "Tarım Pusulası",
+      "date": "2026-07-03",
+      "summary": "TÜSEDAD, Haziran ayında 1 litre sıcak çiğ sütün üretim maliyetini 26,97 TL olarak hesapladı. Dernek, maliyetin bir önceki aya göre 34 kuruş gerilediğini, düşüşte kuru yonca otu fiyatları ile mazot fiyatlarındaki gerilemenin etkili olduğunu açıkladı.",
+      "content": "ANKARA — Tüm Süt, Et ve Damızlık Sığır Yetiştiricileri Derneği (TÜSEDAD), Haziran ayına ilişkin sıcak çiğ süt üretim maliyetini açıkladı. Dernek tarafından hazırlanan çalışmaya göre, 100 baş sağmal Holstein işletmesi modeli esas alınarak hesaplanan 1 litre sıcak çiğ süt üretim maliyeti 26,97 TL olarak belirlendi.\n\nTÜSEDAD'ın düzenli olarak kamuoyuyla paylaştığı maliyet çalışmasında; güncel yem fiyatları, enerji, işçilik, bakım, sigorta, amortisman ile diğer gider ve gelir kalemlerinin dikkate alındığı belirtildi. Hesaplamalar günlük ortalama 30 litre süt verimine sahip 100 baş sağmal işletme modeli üzerinden gerçekleştirildi.\n\nDernek açıklamasına göre Haziran ayında litre başına maliyet, bir önceki aya kıyasla 34 kuruş geriledi. Bu düşüşte özellikle kuru yonca otu fiyatındaki %12,73'lük azalış, kesif yem fiyatlarının sabit kalması ve mazot fiyatındaki yaklaşık %3,9'luk gerileme etkili oldu.\n\nAçıklamada ayrıca Tarım ve Orman Bakanlığı tarafından sağlanan ortalama buzağı desteğinin 2025 yılında 2.170 TL/baş seviyesinden 2026 yılında 3.019 TL/baş düzeyine yükseldiği bilgisi paylaşıldı. TÜSEDAD, destekleme sisteminde kalite kriterlerinin dikkate alınmasının kayıt dışılığı azaltabileceği ve kaliteyi artırabileceği değerlendirmesinde bulundu.\n\nMaliyet tablosunda yer alan verilere göre ortalama süt primi 0,56 TL/litre, soğutma bedeli ise 1,30 TL/litre olarak hesaplandı. Çalışmada kullanılan yem fiyatları ile farklı yaş gruplarına yönelik rasyonlar da ayrıntılı olarak kamuoyuyla paylaşıldı. Özellikle işletme giderleri içerisinde yem maliyetlerinin en yüksek payı oluşturduğu grafiklerle gösterildi. (Belgenin 2 ve 3. sayfalarındaki tablo ve grafikler.)\n\nTÜSEDAD, üreticilerin maliyetlerini şeffaf biçimde ortaya koymak ve sektörü bilgilendirmek amacıyla çiğ süt üretim maliyetlerini düzenli olarak açıklamayı sürdüreceğini bildirdi.\n\nTARIM PUSULASI HABER MERKEZİ"
+    },
+    {
+      "title": "KEDV: Zonguldak Karaelmas Kadın Kooperatifi'nde yeni dönem",
+      "url": "https://www.tarimpusulasi.com/haber/kedv-zonguldak-karaelmas-kadin-kooperatifinde-yeni-donem-46975",
+      "source": "Tarım Pusulası",
+      "date": "2026-07-03",
+      "summary": "Kapsayıcı Büyüme Derneği, Kadın Emeğini Değerlendirme Vakfı (KEDV) ve Awen for Us iş birliğiyle yürütülen Benim Kooperatifim projesi kapsamında Zonguldak Karaelmas Kadın Kooperatifi'nde endüstriyel mutfak ve yenilenen kooperatif binası hizmete açıldı. Üretim ile gündüz yaşlı bakım hizmetini aynı çat",
+      "content": "ZONGULDAK — Kapsayıcı Büyüme Derneği, Kadın Emeğini Değerlendirme Vakfı (KEDV) ve Awen for Us iş birliğiyle yürütülen Benim Kooperatifim projesi kapsamında desteklenen Zonguldak Karaelmas Kadın Kooperatifi'nde yeni dönem düzenlenen açılış töreniyle başladı.\n\nProje kapsamında kooperatif binası aslına uygun şekilde yenilenirken, tam donanımlı bir endüstriyel mutfak da kuruldu. Yapılan çalışmalarla üretim kapasitesinin artırılması ve kadınların ekonomik hayata daha güçlü katılım sağlaması amaçlanıyor.\n\nProje kapsamında ayrıca Aile ve Sosyal Hizmetler İl Müdürlüğü ile yapılacak iş birliği doğrultusunda kooperatif binasının gündüz yaşlı bakım merkezi olarak da hizmet vermesi planlanıyor. Aynı merkezde hem üretim faaliyetlerinin hem de gündüz yaşlı bakım hizmetlerinin yürütülmesi hedeflenirken, bu modelin Türkiye'de ilk kez uygulanacağı belirtildi.\n\n2021 yılında kurulan Zonguldak Karaelmas Kadın Kooperatifi'nin Başkanı Sevgi Alay, proje sayesinde Avrupa'da örnekleri bulunan \"üretim ve bakım evi\" modelini hayata geçirdiklerini belirterek, çalışmanın diğer kadın kooperatiflerine de ilham vermesini beklediklerini ifade etti.\n\nKEDV Yönetim Kurulu Başkanı Şengül Akçar ise kadınların görünmeyen bakım emeğinin ekonomiye önemli katkılar sunduğunu belirterek, kadın kooperatiflerinin finansman, eğitim ve kapasite geliştirme alanlarında desteklenmesinin sürdürülebilir kalkınma açısından önemli olduğunu söyledi. Akçar, Karaelmas Kadın Kooperatifi'nin geliştirdiği modelin kadın istihdamı, toplumsal dayanışma ve iklim değişikliğine uyum açısından bütüncül bir yaklaşım sunduğunu dile getirdi.\n\nKapsayıcı Büyüme Derneği Başkanı Kadir Kılıçparlar da kooperatif üyelerinin ortaya koyduğu çalışmanın diğer kadın kooperatifleri için örnek oluşturabileceğini belirterek, kadınlara verilen desteğin sosyal ve ekonomik açıdan önemli etkiler oluşturduğunu ifade etti.\n\nAçılış töreninin moderasyonunu yapan Awen for Us Kurucusu Dr. Aylin Löle ise bakım sorumlulukları nedeniyle çok sayıda kadının ücretli çalışma hayatına katılamadığına dikkat çekerek, kadın kooperatiflerinin görünmeyen emeği ekonomik değere dönüştüren önemli yapılar olduğunu söyledi.\n\nZonguldak Karaelmas Kadın Kooperatifi, gıda üretiminin yanı sıra unutulmaya yüz tutmuş el sanatları ile geri dönüşümden sanat ürünleri üretmeye devam ediyor. Kooperatifin faaliyet gösterdiği tarihi Ruhban Evi ise Zonguldak'ın endüstriyel mirası arasında yer alıyor. Türkiye Taşkömürü Kurumu mülkiyetindeki yapı, Zonguldak İl Özel İdaresi'ne tahsis edilmesinin ardından 2021 yılından bu yana kooperatif tarafından sosyal üretim merkezi olarak kullanılıyor.\n\nTARIM PUSULASI HABER MERKEZİ"
+    },
     {
       "title": "Ege Tütün İhracatçıları Birliği Salihli'de zirai ilaç atıkları için 7 atık noktası açtı",
       "url": "https://www.tarimpusulasi.com/haber/ege-tutun-ihracatcilari-birligi-salihlide-zirai-ilac-atiklari-icin-7-atik-noktasi-acti-46974",
@@ -117,22 +133,6 @@
       "date": "2026-07-02",
       "summary": "Rusya Tahıl Birliği'nin ön verilerine göre ülkenin Haziran 2026'daki hububat ihracatı geçen yılın aynı dönemine göre iki katına çıkarak 2,9 milyon tona ulaştı. Rus buğdayına yönelik talep özellikle Suudi Arabistan, Kenya ve Türkiye'de artarken, Avrupa'daki sıcak hava dalgasının da küresel talebi des",
       "content": "MOSKOVA — Rusya Tahıl Birliği (RZS), ön verilere göre ülkenin Haziran 2026 döneminde buğday, arpa ve mısırdan oluşan temel hububat ürünlerinde 2,9 milyon ton ihracat gerçekleştirdiğini açıkladı. Bu miktar, Haziran 2025'e göre yaklaşık iki kat artış anlamına geliyor.\n\nRusya Tahıl Birliği Analiz Departmanı Direktörü Elena Tyurina, Interfax'a yaptığı değerlendirmede, Haziran ayında buğday ihracatının 2,5 milyon tona ulaşarak geçen yılın aynı dönemine göre 1,8 kat arttığını bildirdi. Aynı dönemde mısır ihracatı 351 bin ton ile 4,4 kat artarken, arpa ihracatı da 2 bin 900 tondan 81 bin 800 tona yükseldi.\n\nTyurina, Temmuz-Haziran dönemini kapsayan 2025/26 tarım sezonunda Rusya'nın toplam hububat ihracatının ön tahminlere göre 54,3 milyon ton olduğunu belirtti. Bu rakamın önceki sezondaki 52,5 milyon tona göre yüzde 3,4 daha yüksek olduğunu ifade eden Tyurina, buğday ihracatının 47,5 milyon tona çıkarak yüzde 4,9 arttığını, mısır ihracatının yüzde 15 artışla 3,2 milyon tona ulaştığını, arpa ihracatının ise 4,4 milyon tondan 3,4 milyon tona gerilediğini söyledi.\n\nHaziran ayında Rus buğdayını ithal eden ülke sayısının artmaya devam ettiğini belirten Tyurina, özellikle Basra Körfezi ülkelerinin alımlarını hızlandırdığını ifade etti. Uzmana göre bu talep artışının en önemli nedenlerinden biri Rusya'nın uluslararası pazardaki istikrarlı tedarikçi konumu oldu.\n\nHaziran ayında Rus buğdayının en büyük alıcısı Suudi Arabistan olurken, bu ülkeye yapılan sevkiyat geçen yılın aynı ayına göre 8,7 kat artarak 237 bin tona yükseldi. Ocak-Haziran döneminde Kenya'nın ithalatı 722 tondan 227 bin tona çıkarak 31 kat arttı. Türkiye'ye yapılan sevkiyatlar ise iki kat artışla 201 bin tona ulaştı.\n\nGeçen yılın haziran ayında Rus buğdayı almayan Brezilya, Venezuela ve Meksika da yeniden alıcı ülkeler arasına katıldı. Ayrıca Tanzanya, Vietnam, Güney Afrika ve uzun bir aradan sonra Hindistan da Rus buğdayı ithal eden ülkeler arasında yer aldı.\n\nElena Tyurina, Haziran ayında Rus buğdayının 26 ülkeye ihraç edildiğini, geçen yılın aynı döneminde ise bu sayının 20 ülke olduğunu belirtti. Aynı dönemde mısır ihracatı yalnızca iki ülkeye gerçekleştirildi.\n\nTürkiye'nin mısır ithalat kotasını artırmasının ardından Rusya'dan yapılan mısır sevkiyatının önemli ölçüde yükseldiğini belirten Tyurina, Türkiye'ye yapılan mısır ihracatının geçen yılki 4 bin tondan 238 bin tona çıktığını söyledi. İran'a yönelik mısır ihracatı ise 3,5 kat artarak 113 bin tona ulaştı.\n\nİran'ın aynı zamanda Rus arpasının da en önemli alıcılarından biri olduğu belirtilirken, Haziran ayında bu ülkeye 63 bin 700 ton arpa gönderildi. Geçen yılın aynı döneminde İran'a arpa sevkiyatı yapılmamıştı.\n\nTyurina, Haziran ayında Rusya'dan buğday ihracatı gerçekleştiren şirket sayısının 27'ye düştüğünü, geçen yıl aynı dönemde ise 43 şirketin ihracat yaptığını söyledi. Son aylarda ihracatçı sayısının yaklaşık 30 şirket seviyesinde dengelendiğini ifade etti.\n\nHububat ve baklagil sevkiyatlarının Haziran ayında 21 liman üzerinden gerçekleştirildiğini belirten Tyurina, ihracatta yine Novorossiysk Limanı'nın ilk sırada yer aldığını söyledi. Bu limandan yapılan yüklemeler geçen yılın aynı ayına göre 1,8 kat artarak 837 bin tona ulaştı.\n\nAçık deniz aktarma operasyonları (roadstead transshipment) da 1,9 kat artışla 795 bin tona yükseldi.\n\nDiğer önemli limanlardaki sevkiyatlar ise şöyle gerçekleşti:\n\nRostov terminalleri: 525 bin ton (2,2 kat artış)\n\nTuapse Limanı: 219 bin ton (3,6 kat artış)\n\nAzov Limanı: 203 bin ton (3,4 kat artış)\n\nTyurina, Baltık Denizi'ndeki Vysotsk Limanı'nın da dikkat çekici bir performans sergilediğini belirterek, bu limandan yapılan sevkiyatların 2,5 kat artarak 150 bin tona ulaştığını söyledi. Uzman, bunun Rus tahıl ihracatının yalnızca güney limanlarına bağımlı kalmadığını göstermesi açısından önemli bir gelişme olduğunu vurguladı.\n\nHaziran ayında nehir limanlarından \"nehir-deniz\" tipi gemilerle gerçekleştirilen sevkiyatlarda da önemli artış yaşandı.\n\nBuna göre;\n\nTolyatti: 44 bin 800 ton (3,5 kat artış)\n\nKamışin: 36 bin 600 ton (2,4 kat artış)\n\nVolgodonsk: 34 bin 600 ton (8 kat artış)\n\nTyurina, son dönemde nehir limanlarından gerçekleştirilen aylık sevkiyat hacimlerinin belirgin şekilde arttığını belirterek, geçmişte aylık ortalama 6-10 bin ton seviyesinde olan yüklemelerin artık 30 bin tonun üzerine çıktığını ifade etti.\n\nRusya Tahıl Birliği'ne göre Rus tahılına yönelik uluslararası talebin artmasında Avrupa'da etkili olan sıcak hava dalgası da önemli rol oynuyor. Uzmanlar, yüksek sıcaklıkların Avrupa'daki buğday üretimini olumsuz etkileyebileceği beklentisinin ithalatçı ülkelerin Rus tahılına yönelmesini desteklediğini değerlendiriyor.\n\nFiyat gelişmelerine ilişkin değerlendirmede bulunan Tyurina, Haziran ayında Rusya Tahıl Birliği tarafından izlenen tüm referans piyasalarda fiyatların gerilediğini söyledi.\n\nBuna göre;\n\nFransız buğdayı fiyatı aylık bazda %0,8 düşerek ton başına 237 dolara geriledi.\n\nABD buğdayı fiyatı %6,3 azalarak 238 dolar/ton oldu.\n\nRus buğdayı (FOB Novo"
-    },
-    {
-      "title": "APK-Inform: Ukrayna kolza ihracatı 9 sezonun dibinde",
-      "url": "https://www.tarimpusulasi.com/haber/apk-inform-ukrayna-kolza-ihracati-9-sezonun-dibinde-46968",
-      "source": "Tarım Pusulası",
-      "date": "2026-07-02",
-      "summary": "APK-Inform verilerine göre Ukrayna'nın 2025/26 sezonunda kolza ihracatı yüzde 39 azalarak 1,9 milyon tona geriledi ve son dokuz sezonun en düşük seviyesine indi. İhracat vergisi, düşük üretim ve ilkbahar donları ihracattaki gerilemenin başlıca nedenleri arasında gösterildi.",
-      "content": "KİEV — APK-Inform tarafından açıklanan operasyonel verilere göre, Ukrayna'nın 2025/26 sezonundaki kolza ihracatı 1,9 milyon ton olarak gerçekleşti. Bu miktar önceki sezona göre yüzde 39 düşüş anlamına gelirken, son dokuz sezonun en düşük ihracat seviyesi olarak kayıtlara geçti.\n\nVerilere göre yaklaşık son yirmi yıl içinde ilk kez Ukrayna'da üretilen kolzanın yalnızca yüzde 59-60'lık bölümü ihraç edildi. Önceki yıllarda toplam arzın ortalama yüzde 85'i dış pazarlara gönderiliyordu. Böylece ürünün daha büyük bölümü ülke içinde işlenmeye başladı.\n\nAPK-Inform, ihracattaki sert düşüşün temel nedenleri arasında kolzaya getirilen yüzde 10 ihracat vergisini gösterdi. Vergi uygulaması, Ukraynalı yağlı tohum işleyicilerinin iç piyasadaki rekabet gücünü artırırken, ihracat hacmini sınırlandırdı.\n\nBir diğer önemli etken ise 2025 ilkbaharında yaşanan don olayları oldu. Olumsuz hava koşulları nedeniyle kolza üretimi son dört yılın en düşük seviyesine geriledi.\n\nRapora göre Avrupa Birliği'nde 2025 yılında kolza üretiminin artması da Ukrayna'nın ihracatını etkileyen faktörlerden biri oldu. Buna rağmen Avrupa pazarı ithal hammaddeye bağımlılığını sürdürürken, talebin hâlen iç üretimin üzerinde olduğu belirtildi.\n\n2025/26 sezonunda Ukrayna'nın kolza ihracatının yüzde 91'i Avrupa Birliği ülkelerine yapıldı. Ancak AB'ye yapılan sevkiyatlar miktar bazında yüzde 38 azalarak 1,73 milyon tona geriledi.\n\nÜlke bazında en büyük ithalatçı 876 bin ton ile Almanya olurken, onu 453 bin tonla Belçika ve 247 bin tonla Hollanda takip etti.\n\nAPK-Inform, 2026/27 sezonunda da ihracatta güçlü bir toparlanma beklemiyor. Kuruluşa göre bu yıl kolza ekim alanları da ani sıcaklık değişimlerinden olumsuz etkilendi. Özellikle Ukrayna'nın orta ve güney bölgelerinde bazı tarlaların buz tabakası altında kalması nedeniyle önemli ürün kayıpları yaşandı.\n\nRaporda ayrıca ihracat vergisinin yürürlükte kalmaya devam edeceği belirtilirken, ihracat potansiyelinin önümüzdeki dönemde de büyük ölçüde iç işleme sanayisinin ekonomisi ve Ukraynalı işleyicilerin kârlılığı tarafından belirleneceği ifade edildi.\n\nAPK-Inform'un tahminlerine göre, 2026 yılında 3,6 milyon ton kolza üretimi beklenirken, 2026/27 sezonunda ihracatın 2,1-2,2 milyon ton seviyesine ulaşabileceği öngörülüyor. Bu miktar bir önceki sezona göre yaklaşık yüzde 18 artış anlamına gelse de son yılların ortalamasının altında kalmaya devam edecek.\n\nTARIM PUSULASI HABER MERKEZİ"
-    },
-    {
-      "title": "Reuters: Hindistan mısır ihracatında 3 yılın zirvesine gidiyor",
-      "url": "https://www.tarimpusulasi.com/haber/reuters-hindistan-misir-ihracatinda-3-yilin-zirvesine-gidiyor-46967",
-      "source": "Tarım Pusulası",
-      "date": "2026-07-02",
-      "summary": "Reuters'ın aktardığı verilere göre Hindistan'ın mısır ihracatının 2026 yılında son üç yılın en yüksek seviyesine ulaşması bekleniyor. Rekor üretim, gerileyen fiyatlar ve Asya pazarlarına yönelik düşük navlun maliyetleri ihracatı desteklerken, El Niño kaynaklı hava koşulları sezonun en önemli riskler",
-      "content": "MUMBAİ — Reuters'ın aktardığına göre Hindistan'ın mısır ihracatının 2026 yılında son üç yılın en yüksek seviyesine ulaşması bekleniyor. Rekor üretim sonucu gerileyen iç piyasa fiyatları ve Asya ülkelerine yönelik daha düşük navlun maliyetleri, Hint mısırının uluslararası pazarda rekabet gücünü artırdı.\n\nYılın ilk beş ayında Vietnam, Nepal, Bangladeş, Sri Lanka ve Bhutan'ın Hindistan'dan mısır ithalatını artırdığı belirtilirken, İran'a yönelik savaşın ardından küresel navlun ücretlerinde yaşanan yükselişin Asyalı alıcıları Hint mısırına yönelttiği ifade edildi.\n\nOlam Agri India Başkan Yardımcısı Nitin Gupta, son aylarda ihracat talebinin güçlü seyrettiğini belirterek, Hindistan'daki düşük mısır fiyatlarının ve ABD ile Güney Amerika'dan yapılan sevkiyatlarda artan taşıma maliyetlerinin Hint mısırını Asyalı alıcılar açısından daha cazip hale getirdiğini söyledi.\n\nHindistan Ticaret Bakanlığı'nın ön verilerine göre, 2026 yılının ilk beş ayında mısır ihracatı geçen yılın aynı dönemindeki 228 bin 844 tondan 1,08 milyon tona yükseldi. Gupta, yıl genelinde ihracatın 1,8 milyon tona ulaşabileceğini, bunun da 2023 yılından bu yana görülen en yüksek seviye olacağını ve geçen yılki 805 bin 935 tonluk ihracatın iki katından fazla gerçekleşeceğini öngördü.\n\n2025/26 sezonunda Hindistan'ın mısır üretimi bir önceki yıla göre yüzde 27 artarak rekor düzey olan 55 milyon tona ulaştı. Bu artışta, 2024 yılında etanol sektöründen gelen güçlü talebin mısır fiyatlarını yükseltmesi ve çiftçilerin ekim alanlarını genişletmesi etkili oldu.\n\nSon aylarda arz fazlası nedeniyle gerileyen mısır fiyatlarının, ihracatın stokları azaltmasıyla yeniden toparlanmaya başladığı belirtiliyor. Ancak ihracatçı Hemant Jain'e göre fiyatlardaki yükseliş, ihracat hızını yeniden yavaşlatmaya başladı. Jain, Bangladeş ve Nepal gibi komşu ülkelerin alımlarını sürdürdüğünü, diğer Asyalı alıcıların ise yeniden ABD mısırına yöneldiğini söyledi.\n\nPiyasa katılımcıları, ekim ayında yeni mahsulün piyasaya girmesiyle ihracatın yeniden hız kazanmasını bekliyor. Ancak uzmanlar, El Niño hava olayının yağışları azaltması durumunda çiftçilerin mısır yerine farklı ürünlere yönelebileceği ve bunun üretimi olumsuz etkileyebileceği uyarısında bulunuyor.\n\nTARIM PUSULASI HABER MERKEZİ"
     }
   ],
   "commoditiesByBorsa": {
