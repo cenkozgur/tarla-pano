@@ -1,43 +1,59 @@
 {
-  "updatedAt": "2026-07-05T17:16:15.469Z",
+  "updatedAt": "2026-07-05T18:17:20.268Z",
   "fx": [
     {
       "code": "USD",
       "name": "Dolar",
-      "buy": 467548,
-      "sell": 468629,
-      "change": 16
+      "buy": 46.75,
+      "sell": 46.86,
+      "change": 0.16
     },
     {
       "code": "EUR",
       "name": "Euro",
-      "buy": 535113,
-      "sell": 536121,
+      "buy": 53.51,
+      "sell": 53.61,
       "change": 0
     },
     {
       "code": "GRA",
       "name": "Gram Altın",
-      "buy": 627676,
-      "sell": 627778,
-      "change": 133
+      "buy": 6276.76,
+      "sell": 6277.78,
+      "change": 1.33
     },
     {
       "code": "CEYREKALTIN",
       "name": "Çeyrek Altın",
-      "buy": 1005528,
-      "sell": 1028512,
-      "change": 119
+      "buy": 10055.28,
+      "sell": 10285.12,
+      "change": 1.19
     },
     {
       "code": "CUMHURIYETALTINI",
       "name": "Cumhuriyet Altını",
       "buy": 41668,
       "sell": 42298,
-      "change": 119
+      "change": 1.19
     }
   ],
   "news": [
+    {
+      "title": "Hatay Büyükşehir 151 Üreticiye Ayçiçeği Tohumu Desteği Sağladı",
+      "url": "https://www.tarimpusulasi.com/haber/hatay-buyuksehir-151-ureticiye-aycicegi-tohumu-destegi-sagladi-46999",
+      "source": "Tarım Pusulası",
+      "date": "2026-07-05",
+      "summary": "Hatay Büyükşehir Belediyesi, Ayçiçeği Yetiştiriciliğinin Geliştirilmesi Projesi kapsamında Amik Ovası'nda 151 üreticiye ayçiçeği tohumu desteği sağladı. Destek sayesinde toplam 7 bin 350 dekar alanda ekim yapılırken, üreticilere teknik danışmanlık ve saha takibi de sunuluyor.",
+      "content": "HATAY (Amik Ovası) — Hatay Büyükşehir Belediyesi (HBB), Başkan Mehmet Öntürk'ün tarımsal üretimi güçlendirme ve kırsal kalkınmayı destekleme hedefi doğrultusunda üreticilere yönelik desteklerini sürdürüyor.\n\nBelediye tarafından yürütülen Ayçiçeği Yetiştiriciliğinin Geliştirilmesi Projesi kapsamında Amik Ovası'nda üreticilere ayçiçeği tohumu desteği sağlandı. Destek programıyla katma değeri yüksek ürünlerin yaygınlaştırılması, ürün çeşitliliğinin artırılması ve tarımsal üretimin güçlendirilmesi amaçlanıyor.\n\nHatay Büyükşehir Belediyesinin açıklamasına göre proje kapsamında toplam 7 bin 350 dekar alanda ayçiçeği ekimi gerçekleştirildi. Sağlanan tohum desteğinden 151 üretici yararlanırken, üreticilerin ekim maliyetlerinin azaltılmasına katkı sağlandı.\n\nDestek yalnızca tohum teminiyle sınırlı kalmadı. HBB ekipleri, ekim yapılan alanlarda düzenli saha kontrolleri gerçekleştirerek üreticilere teknik danışmanlık, süreç takibi ve rehberlik hizmeti de sunuyor.\n\nProjeden yararlanan üretici Yusuf Dennuroğlu, Cumhurbaşkanlığı, Hatay Valiliği, Hatay Büyükşehir Belediyesi ve İl Tarım ve Orman Müdürlüğünün destekleri sayesinde arazisinin tamamına ayçiçeği ektiğini belirterek, ürünlerin gelişiminden memnun olduğunu ifade etti. Dennuroğlu, verimli bir hasat dönemi geçirmeyi hedeflediklerini söyledi.\n\nHatay Büyükşehir Belediyesi yetkilileri ise tarımsal üretimi destekleyen projelerin önümüzdeki dönemde de devam edeceğini bildirdi.\n\nTARIM PUSULASI HABER MERKEZİ"
+    },
+    {
+      "title": "Eskişehir Büyükşehir 79 Üreticiye Yem Balyası Desteği Verdi",
+      "url": "https://www.tarimpusulasi.com/haber/eskisehir-buyuksehir-79-ureticiye-yem-balyasi-destegi-verdi-46998",
+      "source": "Tarım Pusulası",
+      "date": "2026-07-05",
+      "summary": "Eskişehir Büyükşehir Belediyesi, kırsal kalkınmayı desteklemek amacıyla Sarıcakaya'da düzenlenen törende Sarıcakaya ve Mihalgazi ilçelerinde faaliyet gösteren 79 üreticiye toplam 2 bin 850 yem bitkisi balyası dağıttı. Destekle hayvancılık yapan üreticilerin yem maliyetlerinin azaltılması hedefleniyo",
+      "content": "ESKİŞEHİR (Sarıcakaya) — Eskişehir Büyükşehir Belediyesi, kırsal kalkınmayı desteklemeye yönelik çalışmaları kapsamında hayvancılıkla uğraşan üreticilere yem bitkisi balyası desteğini sürdürdü. Sarıcakaya'da düzenlenen Balya Dağıtım Töreni'nde Sarıcakaya ve Mihalgazi ilçelerinde faaliyet gösteren 79 üreticiye toplam 2 bin 850 yem bitkisi balyası dağıtıldı.\n\nTörene Eskişehir Büyükşehir Belediyesi Meclis Üyesi Hasan Ünal, belediye yöneticileri, muhtarlar, üreticiler ve vatandaşlar katıldı. Programda, belediyenin kırsal kalkınmaya yönelik desteklerinin devam edeceği vurgulandı.\n\nBelediye açıklamasına göre destek kapsamında kullanılan yem bitkileri, Sarıcakaya ilçesi Laçin Mahallesi'nde belediyeye ait 80 dekarlık alanda kuru tarım modeliyle yetiştirilen Macar fiği ve buğday karışımından üretildi. Hasat sonucunda toplam 3 bin 350 balya elde edildi.\n\nÜretilen balyaların 500 adedi, Mihalıççık Belediyesi ile imzalanan Küçükbaş Hayvan Yetiştiriciliği İş Birliği Protokolü kapsamında Mihalıççık Belediyesine teslim edilirken, kalan 2 bin 850 balya, destek başvurusu kabul edilen Sarıcakaya ve Mihalgazi ilçelerindeki 79 üreticiye dağıtıldı.\n\nBelediye verilerine göre destekten yararlanan üreticilerin 18'i kadın üreticilerden oluştu. Destek kapsamında her üreticiye 35 balya teslim edildi.\n\nTörende konuşan Sarıcakayalı üretici Ayşenur Toygar, balya desteğinin üreticiler açısından önemli olduğunu belirterek Eskişehir Büyükşehir Belediyesine ve Belediye Başkanı Ayşe Ünlüce'ye teşekkür etti.\n\nMihalgazili üretici Sabri Ay da verilen desteğin yem maliyetlerini azaltacağını ifade ederek belediyeye teşekkürlerini iletti.\n\nEskişehir Büyükşehir Belediye Başkanı Ayşe Ünlüce'nin şehir dışı programı nedeniyle katılamadığı törende konuşan Büyükşehir Belediyesi Meclis Üyesi Hasan Ünal ise üretimin önemine dikkat çekerek, tarım ve hayvansal üretimde sürdürülebilirliğin bilimsel ve verimli yöntemlerle sağlanabileceğini söyledi.\n\nÜnal, üretimin devam etmesinin hem bölge hem de ülke açısından önem taşıdığını belirterek üreticilerin faaliyetlerini sürdürmesinin kırsal kalkınmaya katkı sağlayacağını ifade etti.\n\nKonuşmaların ardından yem balyaları hak sahibi üreticilere teslim edilirken, Eskişehir Büyükşehir Belediyesi kırsal kalkınmaya yönelik desteklerin önümüzdeki dönemde de süreceğini bildirdi.\n\nTARIM PUSULASI HABER MERKEZİ"
+    },
     {
       "title": "Denizli Büyükşehir Beyağaç'ta Tarım İşçilerine İkramda Bulundu",
       "url": "https://www.tarimpusulasi.com/haber/denizli-buyuksehir-beyagacta-tarim-iscilerine-ikramda-bulundu-46997",
@@ -117,22 +133,6 @@
       "date": "2026-07-05",
       "summary": "Uluslararası Gıda Politikaları Araştırma Enstitüsü (IFPRI), İran'daki savaş ve Hürmüz Boğazı'nda ticari taşımacılığın büyük ölçüde durmasının gübre maliyetlerini artırdığını, bunun da 2026 yılında mısır ve buğday ekim alanlarında daralmaya yol açabileceğini açıkladı. Analize göre gelişme, küresel ta",
       "content": "ANKARA — İran'da yaşanan savaşın ardından Hürmüz Boğazı'nda ticari gemi trafiğinin büyük ölçüde durması, küresel gübre tedarik zincirini olumsuz etkilerken bunun tarımsal üretime de yansıması bekleniyor. Uluslararası Gıda Politikaları Araştırma Enstitüsü (IFPRI), Nisan ayında yayımladığı analizde, artan gübre maliyetleri nedeniyle çiftçilerin daha fazla azotlu gübre gerektiren ürünlerden uzaklaşabileceğini bildirdi.\n\nIFPRI'ye göre 2026 yılında mısır ve buğday ekim alanlarının bir önceki yıla göre yaklaşık %3 azalması bekleniyor. Buna karşılık daha düşük sentetik azot ihtiyacı bulunan soya fasulyesine yönelişin hız kazanabileceği değerlendiriliyor.\n\nABD Tarım Bakanlığı'nın (USDA) mart ayının ikinci haftasında hazırladığı ekim tahminlerinde soya ekim alanlarının yıllık bazda %4 artacağı öngörülmüştü. Ancak IFPRI araştırmacıları, nisan ve mayıs aylarında gübre fiyatlarında görülen ilave yükselişlerin USDA projeksiyonlarına tam olarak yansımamış olabileceğini belirtiyor. Bu nedenle ekim desenindeki değişimin açıklanan tahminlerden daha büyük olabileceği ifade ediliyor.\n\nKrizin temel nedeni ise Hürmüz Boğazı'nın küresel enerji ve gübre ticaretindeki kritik konumu olarak gösteriliyor. Normal koşullarda dünya gübre ticaretinin yaklaşık %30'u, sıvılaştırılmış doğal gaz (LNG) ticaretinin yaklaşık %20'si ve deniz yoluyla taşınan ham petrolün yaklaşık %27'si bu güzergâhtan geçiyor. Doğal gaz ise azotlu gübre üretiminin en önemli hammaddeleri arasında bulunuyor.\n\nBirleşmiş Milletler'in değerlendirmesine göre petrol fiyatlarının 2026 yılı haziran ayına kadar varil başına 100 doların üzerinde kalması halinde dünya genelinde akut gıda güvensizliği yaşayan kişi sayısı 45 milyon artabilir. Riskin özellikle Sahra Altı Afrika ile Güney Asya ülkelerinde daha belirgin olacağı öngörülüyor.\n\nAnalizde örnek olarak Etiyopya gösteriliyor. Ülkenin azotlu gübre ihtiyacının %90'dan fazlası Basra Körfezi üzerinden Cibuti Limanı aracılığıyla karşılanıyor. Savaş nedeniyle bu tedarik zincirinin önemli ölçüde aksadığı belirtiliyor.\n\nÖte yandan Uluslararası Gübre Üreticileri Birliği'nin (IFA) kısa vadeli görünüm raporuna göre küresel azotlu gübre üretim kapasitesinin 2026 yılında 2024 seviyesine göre %4, fosfat ve potasyumlu gübre kapasitesinin ise %5 artması bekleniyor. Bu artışın, çatışma öncesinde planlanan yeni tesis yatırımlarından kaynaklandığı ifade ediliyor.\n\nAncak IFPRI uzmanları, üretim kapasitesindeki bu yükselişin özellikle Kuzey Yarımküre'de ekim sezonunun devam ettiği mevcut dönemde yaşanan arz kesintilerini kısa vadede telafi etmeye yetmeyeceğini vurguluyor.\n\nAnalizde ayrıca Çin'in azotlu gübre üretiminde doğal gaz yerine büyük ölçüde kömür kullanması nedeniyle Körfez kaynaklı doğal gaz arzındaki kesintilerden daha sınırlı etkilendiği belirtiliyor. Bununla birlikte uzun vadede kömür kullanımının artmasının iklim değişikliği açısından olumsuz sonuçlar doğurabileceği uyarısı yapılıyor.\n\nTürkiye açısından değerlendirildiğinde ise uluslararası gübre piyasalarında yaşanabilecek fiyat artışları, ithalata bağımlı gübre tedariki nedeniyle üretim maliyetlerini etkileyebilecek önemli riskler arasında bulunuyor. Gübre maliyetlerindeki olası yükselişin özellikle hububat üretim sezonunda çiftçilerin girdi maliyetlerini artırabileceği değerlendiriliyor. Ancak IFPRI raporunda Türkiye'ye ilişkin doğrudan bir tahmin veya veri yer almıyor.\n\nTARIM PUSULASI HABER MERKEZİ"
-    },
-    {
-      "title": "Rusagrotrans: Küresel buğday piyasasında fiyatlar geriledi",
-      "url": "https://www.tarimpusulasi.com/haber/rusagrotrans-kuresel-bugday-piyasasinda-fiyatlar-geriledi-46993",
-      "source": "Tarım Pusulası",
-      "date": "2026-07-05",
-      "summary": "Dünya buğday fiyatları, yeni sezon hasadının piyasaya girmesi ve Hürmüz Boğazı'nda gemi trafiğinin yeniden normale dönmesiyle düşüşünü sürdürdü. Analistler, uluslararası fiyatlardaki bu hareketin Türkiye'nin ithalat maliyetleri ve un sanayisi açısından da yakından takip edildiğini belirtiyor.",
-      "content": "MOSKOVA — Küresel buğday fiyatlarında son günlerde yaşanan gerileme, buğday ithalatçısı ülkeler arasında bulunan Türkiye açısından da yakından izleniyor. Özellikle un sanayisi ve tahıl ticareti açısından uluslararası fiyat hareketleri, iç piyasa maliyetleri üzerinde etkili olabiliyor.\n\nRusagrotrans Analiz Merkezi'nin Interfax'a yaptığı değerlendirmeye göre, 23 Haziran-1 Temmuz döneminde dünya buğday fiyatları yeni sezon ürününün piyasaya girmesi ve Hürmüz Boğazı'nda deniz taşımacılığının yeniden normalleşmesi nedeniyle geriledi.\n\nAnalistler, mineral gübre taşıyan gemilerin yeniden Hürmüz Boğazı'nı kullanmaya başlamasının tarımsal üretime yönelik lojistik riskleri azalttığını ve bunun da piyasalardaki baskının hafiflemesine katkı sağladığını belirtti.\n\nRus buğdayında fiyatlar geriledi\n\nAnaliz merkezinin verilerine göre, yüzde 12,5 proteinli Rus buğdayının, temmuz ayının ikinci yarısı ile ağustos teslimatlı ihracat fiyatı, önceki haftaya göre ton başına 7 dolar geriledi.\n\nFiyat düşüşünde yeni hasadın piyasaya girmesinin yanı sıra Rus rublesindeki değer kaybı da etkili oldu.\n\nRakip ülkelerde de benzer düşüş görüldü\n\nUluslararası piyasalarda fiyat gerilemesi yalnızca Rusya ile sınırlı kalmadı.\n\nAnalize göre;\n\nABD,\n\nRomanya,\n\nUkrayna\n\nArjantin\n\nmenşeli buğdaylarda fiyatlar ton başına 4 ila 11 dolar arasında düştü.\n\nBuna karşılık Fransa, fiyatların yükseldiği tek önemli ihracatçı ülke oldu.\n\nFransız buğdayı aynı dönemde ton başına 2 dolar değer kazandı. Bunun nedeni olarak, olağanüstü sıcak hava koşulları nedeniyle ekili alanların durumunun bozulması ve üretim tahminlerinin aşağı yönlü revize edilmesi gösterildi.\n\nABD raporu piyasaya destek verdi\n\nAnalistler, fiyatlardaki düşüşe rağmen piyasanın ABD Tarım Bakanlığı'nın (USDA) son raporundan destek aldığını da belirtti.\n\nUSDA verilerine göre, ABD'de 2026/27 sezonu buğday ekim alanı 17,3 milyon hektar olarak tahmin edildi.\n\nKarşılaştırıldığında;\n\nMart ayındaki tahmin 17,7 milyon hektar,\n\n2025/26 sezonundaki gerçekleşme ise 18,3 milyon hektar seviyesindeydi.\n\nBöylece yeni sezon ekim alanı, hem mart tahmininin 400 bin hektar, hem de geçen sezonun 1 milyon hektar altında kaldı.\n\nBu revizyonun ardından ABD'nin mevcut 42 milyon tonluk buğday üretim tahmininin de aşağı yönlü güncellenebileceği değerlendiriliyor.\n\nTürkiye açısından ne anlama geliyor?\n\nKüresel buğday fiyatlarındaki gerileme, Türkiye gibi önemli ithalatçı ülkeler açısından hammadde maliyetlerini etkileyebilecek gelişmeler arasında yer alıyor. Ancak uluslararası fiyatların iç piyasaya yansıması; döviz kuru, navlun maliyetleri, gümrük politikaları ve iç piyasa arz-talep dengesi gibi birçok değişkene bağlı olarak farklılık gösterebiliyor.\n\nTARIM PUSULASI HABER MERKEZİ"
-    },
-    {
-      "title": "Science: AB'nin pestisit planı Türkiye'yi de etkileyebilir",
-      "url": "https://www.tarimpusulasi.com/haber/science-abnin-pestisit-plani-turkiyeyi-de-etkileyebilir-46992",
-      "source": "Tarım Pusulası",
-      "date": "2026-07-05",
-      "summary": "Avrupa Birliği'nin pestisit ruhsatlandırma sisteminde planladığı değişiklikler, yalnızca Avrupa'daki üreticileri değil, Türkiye'nin tarım ve gıda ihracatını da yakından ilgilendirebilir. Science dergisinde yayımlanan değerlendirmeye göre 27 araştırma kuruluşundan bilim insanları, yeni düzenlemelerin",
-      "content": "BRÜKSEL — Avrupa Birliği'nin pestisit kullanımına ilişkin mevzuatta hazırladığı yeni düzenleme, Türkiye'nin Avrupa pazarına yaptığı yaş meyve, sebze ve diğer tarım ürünleri ihracatı açısından da yakından izleniyor.\n\nScience dergisinde yayımlanan değerlendirmeye göre, Avrupa'daki 27 araştırma kuruluşundan bilim insanı, Avrupa Komisyonu'nun hazırladığı \"Omnibus Simplification Package (Basitleştirme Paketi)\" kapsamında pestisit denetimlerinin gevşetilmesinin çevre ve insan sağlığı açısından önemli riskler oluşturabileceği uyarısında bulundu.\n\nAraştırmacılar, önerilen değişikliklerin mevcut denetim mekanizmasını zayıflatabileceğini ve zararlı etkileri bulunan bazı pestisitlerin piyasada daha uzun süre kalmasına neden olabileceğini belirtti.\n\nMevcut sistem 10 yılda bir denetim öngörüyor\n\nAvrupa Birliği'nde aktif pestisit maddeleri, mevcut uygulamaya göre her 10 yılda bir yeniden değerlendiriliyor.\n\nBilim insanlarının paylaştığı verilere göre, 2011 yılından bu yana gerçekleştirilen incelemelerde;\n\n59 aktif madde, insan sağlığı veya çevre açısından risk taşıdığı gerekçesiyle onay alamadı.\n\n96 aktif madde ise başvuru sahiplerinin süreçten çekilmesi nedeniyle yeniden değerlendirmeyi tamamlayamadı.\n\nBu veriler, mevcut sistemin piyasadaki riskli maddelerin belirlenmesinde aktif rol oynadığını ortaya koyuyor.\n\nRuhsat süresi 15 yıla çıkarılabilir\n\nBilim insanlarının eleştirdiği tekliflerden biri de pestisit ürünlerinin ruhsat süresinin uzatılması oldu.\n\nYeni düzenleme kabul edilirse;\n\nmevcut 10 yıllık ruhsat süresi 15 yıla çıkarılabilecek,\n\nbirçok pestisit için zorunlu periyodik yeniden değerlendirme kaldırılabilecek.\n\nAraştırmacılara göre bu durum, yeni bilimsel bulguların değerlendirme sistemine daha geç yansımasına neden olabilir.\n\nGeçiş süresi üç yıla kadar uzayabilecek\n\nMevcut uygulamada sağlık veya çevre açısından risk tespit edilen pestisitler için tanınan geçiş süresi en fazla 18 ay ile sınırlı.\n\nYeni teklif ise bu sürenin 3 yıla kadar uzatılabilmesini öngörüyor.\n\nBilim insanları, bunun çevre ve halk sağlığı açısından ilave risk oluşturabileceğini ifade ediyor.\n\nBilim insanları: Sorunlar denetimi azaltarak çözülemez\n\nAraştırmacılar mevcut risk değerlendirme sisteminin kusursuz olmadığını da kabul ediyor.\n\nDeğerlendirmeye göre sistem;\n\nbirçok canlı türü üzerindeki etkileri yeterince incelemiyor,\n\npestisitlerin birlikte oluşturduğu etkileri tam olarak değerlendiremiyor,\n\ndolaylı ekolojik etkileri sınırlı ölçüde analiz ediyor.\n\nAncak bilim insanları, bu eksiklerin çözümünün denetimi azaltmak değil, mevcut sistemi daha da güçlendirmek olduğunu savunuyor.\n\nDaha güçlü izleme sistemi önerildi\n\nAraştırmacılar çözüm olarak;\n\ndaha fazla canlı türünün risk değerlendirmesine dahil edilmesini,\n\nbilimsel çalışmaların daha şeffaf yürütülmesini,\n\npestisit kullanımının daha etkin izlenmesini,\n\nsaha verileri ile risk değerlendirmesi arasında sürekli geri bildirim mekanizması kurulmasını öneriyor.\n\nUzmanlara göre bu yaklaşım hem çevrenin hem de insan sağlığının daha etkin korunmasına katkı sağlayabilir.\n\nTARIM PUSULASI HABER MERKEZİ"
     }
   ],
   "commoditiesByBorsa": {
@@ -328,20 +328,5 @@
   "defaultBorsa": "5ED10",
   "defaultCity": "CANAKKALE",
   "note": "Fiyatlar TOBB ticaret borsasından (borsa seçilebilir). Kanola manuel (Trakya 2025).",
-  "inputsNote": "Mazot: akaryakıt bayi fiyatı, günlük (şehir seçilebilir). Gübre: manuel (yaklaşık).",
-  "errors": [
-    "borsa 5ED10: fetch failed",
-    "borsa 5KO10: fetch failed",
-    "borsa 5ES10: fetch failed",
-    "mazot ANKARA: fetch failed",
-    "mazot ISTANBUL: fetch failed",
-    "mazot IZMIR: fetch failed",
-    "mazot KONYA: fetch failed",
-    "mazot ADANA: fetch failed",
-    "mazot BURSA: fetch failed",
-    "mazot ANTALYA: fetch failed",
-    "mazot SAMSUN: fetch failed",
-    "mazot TEKIRDAG: fetch failed",
-    "mazot CANAKKALE: fetch failed"
-  ]
+  "inputsNote": "Mazot: akaryakıt bayi fiyatı, günlük (şehir seçilebilir). Gübre: manuel (yaklaşık)."
 }
