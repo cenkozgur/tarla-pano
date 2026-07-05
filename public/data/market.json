@@ -1,43 +1,67 @@
 {
-  "updatedAt": "2026-07-05T15:52:54.045Z",
+  "updatedAt": "2026-07-05T17:16:15.469Z",
   "fx": [
     {
       "code": "USD",
       "name": "Dolar",
-      "buy": 46.75,
-      "sell": 46.86,
-      "change": 0.16
+      "buy": 467548,
+      "sell": 468629,
+      "change": 16
     },
     {
       "code": "EUR",
       "name": "Euro",
-      "buy": 53.51,
-      "sell": 53.61,
+      "buy": 535113,
+      "sell": 536121,
       "change": 0
     },
     {
       "code": "GRA",
       "name": "Gram Altın",
-      "buy": 6276.76,
-      "sell": 6277.78,
-      "change": 1.33
+      "buy": 627676,
+      "sell": 627778,
+      "change": 133
     },
     {
       "code": "CEYREKALTIN",
       "name": "Çeyrek Altın",
-      "buy": 10055.28,
-      "sell": 10285.12,
-      "change": 1.19
+      "buy": 1005528,
+      "sell": 1028512,
+      "change": 119
     },
     {
       "code": "CUMHURIYETALTINI",
       "name": "Cumhuriyet Altını",
       "buy": 41668,
       "sell": 42298,
-      "change": 1.19
+      "change": 119
     }
   ],
   "news": [
+    {
+      "title": "Denizli Büyükşehir Beyağaç'ta Tarım İşçilerine İkramda Bulundu",
+      "url": "https://www.tarimpusulasi.com/haber/denizli-buyuksehir-beyagacta-tarim-iscilerine-ikramda-bulundu-46997",
+      "source": "Tarım Pusulası",
+      "date": "2026-07-05",
+      "summary": "Denizli Büyükşehir Belediyesi, yaz sıcaklarının etkisini artırdığı günlerde Beyağaç ilçesindeki tarlalarda çalışan tarım işçilerine mobil ikram araçlarıyla soğuk su ve limonata ulaştırdı. Belediye, zorlu hava koşullarında üretime katkı sağlayan emekçilere destek vermeyi amaçladığını belirtti.",
+      "content": "DENİZLİ (Beyağaç) — Denizli Büyükşehir Belediyesi, yaz sıcaklarının etkisini artırdığı günlerde Beyağaç ilçesindeki tarım işçilerine yönelik mobil ikram hizmetini sürdürdü. Belediye ekipleri, tarlalarda çalışan emekçilere soğuk su ve limonata ikram etti.\n\nDenizli Büyükşehir Belediyesi Sosyal Hizmetler Dairesi Başkanlığı bünyesinde faaliyet gösteren mobil ikram araçları, kent genelindeki çalışmalarını Beyağaç ilçesindeki tarım alanlarında devam ettirdi.\n\nBelediye açıklamasına göre termometrelerin 40 dereceye yaklaştığı sıcak hava koşullarında üretim faaliyetlerini sürdüren tarım işçilerine ulaştırılan soğuk su ve limonata ile çalışanların serinlemesi amaçlandı.\n\nGün boyunca yüksek sıcaklık altında çalışan tarım işçileri, belediye ekiplerinin ikramından duydukları memnuniyeti dile getirerek Denizli Büyükşehir Belediye Başkanı Bülent Nuri Çavuşoğlu'na teşekkür etti.\n\nDenizli Büyükşehir Belediyesi, özellikle yaz aylarında mobil ikram araçlarıyla farklı noktalarda vatandaşlara yönelik destek çalışmalarını sürdürdüğünü, tarımsal üretimin önemli aktörleri olan tarım işçilerinin de bu hizmetlerden yararlanmaya devam edeceğini bildirdi.\n\nTARIM PUSULASI HABER MERKEZİ"
+    },
+    {
+      "title": "Ankara Büyükşehir ATA Çiftliği'nde İlk Dut Hasadını Yaptı",
+      "url": "https://www.tarimpusulasi.com/haber/ankara-buyuksehir-ata-ciftliginde-ilk-dut-hasadini-yapti-46996",
+      "source": "Tarım Pusulası",
+      "date": "2026-07-05",
+      "summary": "Ankara Büyükşehir Belediyesi'nin ATA Çiftliği'nde düzenlediği ilk dut hasadı etkinliği, Ankara'da görev yapan büyükelçileri ve diplomatik temsilcileri bir araya getirdi. ABB, 22 farklı türden yaklaşık 18 bin meyve ağacının bulunduğu alanda üretim, eğitim, tarım turizmi ve sosyal destek amaçlı çalışm",
+      "content": "ANKARA — Ankara Büyükşehir Belediyesi (ABB), Başkent'e kazandırdığı ATA Çiftliği'nde bu yılın ilk dut hasadını gerçekleştirdi. Hasat etkinliği, Ankara'da görev yapan büyükelçiler ve diplomatik temsilcilerin katılımıyla düzenlendi.\n\nABB Dış İlişkiler Dairesi Başkanlığı, Kültür, Sanat ve Sosyal İşler Dairesi Başkanlığı ile Kırsal Hizmetler Dairesi Başkanlığı koordinasyonunda gerçekleştirilen programa, ABB Başkanı Mansur Yavaş'ın eşi Nursen Yavaş, ABB Başkan Vekili Faruk Köylüoğlu, ABB Genel Sekreter Yardımcısı Ahmet Mekin Tüzün ve belediye bürokratları ev sahipliği yaptı.\n\nHasat sezonunun ilk ürünü olan dutların toplandığı etkinlikte, diplomatik temsilciler rekreasyon alanındaki dut ağaçlarından meyve topladı. Etkinlik öncesinde konuşan ABB Genel Sekreter Yardımcısı Ahmet Mekin Tüzün, dut hasadı geleneği hakkında bilgi verirken ATA Çiftliği'nin Ankara'nın tarım vizyonuna katkı sağlayan önemli projelerden biri olduğunu ifade etti.\n\nTüzün, ATA Çiftliği'nin Ankara Büyükşehir Belediyesi Atatürk Tarımsal Araştırma Merkezi bünyesinde faaliyet gösterdiğini belirterek, alanın başlangıçta yaklaşık 20 bin konutluk imar alanı olarak planlandığını, daha sonra tarım ve rekreasyon alanına dönüştürüldüğünü söyledi.\n\nYaklaşık 3,5 milyon metrekare büyüklüğündeki alanın dört temel amaç doğrultusunda değerlendirildiğini belirten Tüzün, bunların tarımsal üretim, eğitim faaliyetleri, tarım turizmi ve kent sakinlerine yeşil yaşam alanı sunmak olduğunu dile getirdi.\n\nATA Çiftliği'nde oluşturulan meyve ormanında 22 farklı türden yaklaşık 18 bin meyve ağacı bulunduğunu aktaran Tüzün, çocukların meyveyi dalından kopararak tüketebileceği doğal bir ortam oluşturmayı hedeflediklerini söyledi.\n\nKırsal Hizmetler Dairesi Başkanlığı tarafından Ankara genelinde dağıtılan domates ve biber fidelerinin de bu alanda üretildiğini belirten Tüzün, meyve üretiminin artmasıyla birlikte elde edilen ürünlerin sosyal yardım alan vatandaşlara ücretsiz ulaştırılmasının planlandığını ifade etti.\n\nABB'nin açıklamasına göre ATA Çiftliği, hem tarımsal üretimin desteklenmesi hem de kent tarımı konusunda farkındalık oluşturulması amacıyla faaliyetlerini sürdürüyor.\n\nTARIM PUSULASI HABER MERKEZİ"
+    },
+    {
+      "title": "Antalya Büyükşehir, Demre’de 151 Aslan Balığı Avladı",
+      "url": "https://www.tarimpusulasi.com/haber/antalya-buyuksehir-demrede-151-aslan-baligi-avladi-46995",
+      "source": "Tarım Pusulası",
+      "date": "2026-07-05",
+      "summary": "Antalya Büyükşehir Belediyesi tarafından Demre'de düzenlenen Aslan Balığı Avlama ve Tadım Etkinliği'nde 7 takımın katılımıyla 151 aslan balığı yakalandı. Belediye, istilacı türün yayılımını kontrol altına almak, sürdürülebilir balıkçılığı desteklemek ve türün ekonomik değerine ilişkin farkındalık ol",
+      "content": "DEMRE — Antalya Büyükşehir Belediyesi, Akdeniz'de yayılımını sürdüren istilacı aslan balığının kontrol altına alınmasına katkı sağlamak amacıyla Demre Çayağzı Limanı'nda Aslan Balığı Avlama ve Tadım Etkinliği düzenledi.\n\nEtkinliğe 7 takım ve 21 yarışmacı katıldı. Yarışma sonunda 151 adet aslan balığı avlanırken toplam av miktarı 19 kilogram olarak kaydedildi. Yarışmayı birinci tamamlayan takım ise 46 adet aslan balığı yakaladı.\n\nDereceye giren yarışmacılara çeşitli ödüller verilirken, birinci olan takıma maske, şnorkel ve aslan balığı maketi hediye edildi. Etkinlik sonunda yakalanan balıklar uzmanlar tarafından temizlenerek katılımcılara tadımı yaptırıldı.\n\nAntalya Büyükşehir Belediyesi Başkan Danışmanı Lokman Atasoy, aslan balığının Akdeniz'in doğal türlerinden biri olmadığını belirterek, türün doğal yaşam alanının Kızıldeniz ve Hint Okyanusu olduğunu söyledi.\n\nAtasoy, aslan balığının Türkiye kıyılarında 2014 yılından itibaren görülmeye başladığını ve doğal avcısının bulunmaması nedeniyle hızla yayıldığını ifade etti. Türün yerli balık popülasyonları üzerinde baskı oluşturduğunu belirten Atasoy, bu nedenle kontrollü avcılığın sürdürülebilir balıkçılık açısından önem taşıdığını dile getirdi.\n\nAslan balığının dikenlerinin zehirli olmasına rağmen uygun şekilde temizlendikten sonra güvenle tüketilebildiğini kaydeden Atasoy, besin değerinin yüksek olduğunu ve ekonomik açıdan da değerlendirilmesi gerektiğini söyledi. Belediye tarafından işletilen EKDAĞ sosyal tesisleri ile balık çarşısında da satışa sunulduğunu aktardı.\n\nYarışmada \"En Büyük Aslan Balığı\" kategorisinde birinci olan Hüseyin Ünel ise organizasyonun Türkiye'de benzerinin bulunmadığını belirterek, istilacı türlerle mücadelede bu tür etkinliklerin diğer Akdeniz illerine de örnek olmasını istedi.\n\nAslan balığı, Akdeniz'e son yıllarda yayılan istilacı türler arasında yer alıyor. Uzmanlar, doğal avcısının bulunmaması nedeniyle popülasyonunun hızla arttığını ve yerli deniz canlıları üzerinde baskı oluşturduğunu belirtiyor. Antalya Büyükşehir Belediyesi de düzenlediği etkinlikle hem popülasyonun kontrolüne katkı sağlamayı hem de kamuoyunda farkındalık oluşturmayı hedefliyor.\n\nTARIM PUSULASI HABER MERKEZİ"
+    },
     {
       "title": "Anahtar Parti’den Türkşeker’e 600 milyonluk “Şeker Operasyonu” tepkisi: “Devleti kimin zarara uğrattığını açıklayın!”",
       "url": "https://www.tarimdanhaber.com/anahtar-partiden-turksekere-600-milyonluk-seker-operasyonu-tepkisi-devleti-kimin-zarara-ugrattigini-aciklayin",
@@ -109,30 +133,6 @@
       "date": "2026-07-05",
       "summary": "Avrupa Birliği'nin pestisit ruhsatlandırma sisteminde planladığı değişiklikler, yalnızca Avrupa'daki üreticileri değil, Türkiye'nin tarım ve gıda ihracatını da yakından ilgilendirebilir. Science dergisinde yayımlanan değerlendirmeye göre 27 araştırma kuruluşundan bilim insanları, yeni düzenlemelerin",
       "content": "BRÜKSEL — Avrupa Birliği'nin pestisit kullanımına ilişkin mevzuatta hazırladığı yeni düzenleme, Türkiye'nin Avrupa pazarına yaptığı yaş meyve, sebze ve diğer tarım ürünleri ihracatı açısından da yakından izleniyor.\n\nScience dergisinde yayımlanan değerlendirmeye göre, Avrupa'daki 27 araştırma kuruluşundan bilim insanı, Avrupa Komisyonu'nun hazırladığı \"Omnibus Simplification Package (Basitleştirme Paketi)\" kapsamında pestisit denetimlerinin gevşetilmesinin çevre ve insan sağlığı açısından önemli riskler oluşturabileceği uyarısında bulundu.\n\nAraştırmacılar, önerilen değişikliklerin mevcut denetim mekanizmasını zayıflatabileceğini ve zararlı etkileri bulunan bazı pestisitlerin piyasada daha uzun süre kalmasına neden olabileceğini belirtti.\n\nMevcut sistem 10 yılda bir denetim öngörüyor\n\nAvrupa Birliği'nde aktif pestisit maddeleri, mevcut uygulamaya göre her 10 yılda bir yeniden değerlendiriliyor.\n\nBilim insanlarının paylaştığı verilere göre, 2011 yılından bu yana gerçekleştirilen incelemelerde;\n\n59 aktif madde, insan sağlığı veya çevre açısından risk taşıdığı gerekçesiyle onay alamadı.\n\n96 aktif madde ise başvuru sahiplerinin süreçten çekilmesi nedeniyle yeniden değerlendirmeyi tamamlayamadı.\n\nBu veriler, mevcut sistemin piyasadaki riskli maddelerin belirlenmesinde aktif rol oynadığını ortaya koyuyor.\n\nRuhsat süresi 15 yıla çıkarılabilir\n\nBilim insanlarının eleştirdiği tekliflerden biri de pestisit ürünlerinin ruhsat süresinin uzatılması oldu.\n\nYeni düzenleme kabul edilirse;\n\nmevcut 10 yıllık ruhsat süresi 15 yıla çıkarılabilecek,\n\nbirçok pestisit için zorunlu periyodik yeniden değerlendirme kaldırılabilecek.\n\nAraştırmacılara göre bu durum, yeni bilimsel bulguların değerlendirme sistemine daha geç yansımasına neden olabilir.\n\nGeçiş süresi üç yıla kadar uzayabilecek\n\nMevcut uygulamada sağlık veya çevre açısından risk tespit edilen pestisitler için tanınan geçiş süresi en fazla 18 ay ile sınırlı.\n\nYeni teklif ise bu sürenin 3 yıla kadar uzatılabilmesini öngörüyor.\n\nBilim insanları, bunun çevre ve halk sağlığı açısından ilave risk oluşturabileceğini ifade ediyor.\n\nBilim insanları: Sorunlar denetimi azaltarak çözülemez\n\nAraştırmacılar mevcut risk değerlendirme sisteminin kusursuz olmadığını da kabul ediyor.\n\nDeğerlendirmeye göre sistem;\n\nbirçok canlı türü üzerindeki etkileri yeterince incelemiyor,\n\npestisitlerin birlikte oluşturduğu etkileri tam olarak değerlendiremiyor,\n\ndolaylı ekolojik etkileri sınırlı ölçüde analiz ediyor.\n\nAncak bilim insanları, bu eksiklerin çözümünün denetimi azaltmak değil, mevcut sistemi daha da güçlendirmek olduğunu savunuyor.\n\nDaha güçlü izleme sistemi önerildi\n\nAraştırmacılar çözüm olarak;\n\ndaha fazla canlı türünün risk değerlendirmesine dahil edilmesini,\n\nbilimsel çalışmaların daha şeffaf yürütülmesini,\n\npestisit kullanımının daha etkin izlenmesini,\n\nsaha verileri ile risk değerlendirmesi arasında sürekli geri bildirim mekanizması kurulmasını öneriyor.\n\nUzmanlara göre bu yaklaşım hem çevrenin hem de insan sağlığının daha etkin korunmasına katkı sağlayabilir.\n\nTARIM PUSULASI HABER MERKEZİ"
-    },
-    {
-      "title": "Türkiye, Rus tahılının en büyük ikinci alıcısı oldu",
-      "url": "https://www.tarimpusulasi.com/haber/turkiye-rus-tahilinin-en-buyuk-ikinci-alicisi-oldu-46991",
-      "source": "Tarım Pusulası",
-      "date": "2026-07-05",
-      "summary": "Rusya Tahıl Birliği'nin açıkladığı verilere göre Türkiye, 15 Şubat-30 Haziran döneminde Rus tahılının en büyük ikinci ithalatçısı oldu. Aynı dönemde Türkiye, Rus arpasının da en önemli alıcı ülkeleri arasında yer alırken, Rusya'nın tahıl ihracatı geçen yılın aynı dönemine göre daha yüksek ihracat ko",
-      "content": "MOSKOVA — Türkiye, Rusya'nın tahıl ihracatında en önemli pazarlarından biri olmayı sürdürdü.\n\nRusya Tahıl Birliği'nin (Russian Grain Union) ön değerlendirmesine göre, 15 Şubat-30 Haziran döneminde Türkiye, 2 milyon tonun üzerinde tahıl ithalatıyla Rus tahılının en büyük ikinci alıcısı oldu. Aynı dönemde Rus arpasının en önemli alıcı ülkeleri arasında da Türkiye yer aldı.\n\nVerilere göre Rusya'nın en büyük tahıl müşterisi 3,3 milyon tonla Mısır olurken, Türkiye 2 milyon tonun üzerindeki alımıyla ikinci sırada yer aldı. Yaklaşık 1,1 milyon tonluk ithalat gerçekleştiren Suudi Arabistan ise üçüncü sırada bulundu. İlk beş ülke arasında ayrıca Kenya ve Sudan da yer aldı.\n\nRusya'nın toplam tahıl ihracatının büyük bölümünü buğday oluşturdu. Söz konusu dönemde 16,1 milyon ton buğday, 55 ülkeye gönderildi. Bu miktar toplam ihracatın yüzde 84,6'sına karşılık geldi.\n\nAynı dönemde 1,68 milyon ton mısır ihraç edilirken, bu üründe en büyük alıcı İran oldu.\n\nArpa ihracatı ise 1,24 milyon ton olarak gerçekleşti. Rusya Tahıl Birliği verilerine göre arpanın en önemli alıcıları İran ve Türkiye oldu.\n\nİhracat kotasının yüzde 76'sı kullanıldı\n\nRusya Tahıl Birliği'nin verilerine göre, 15 Şubat-30 Haziran döneminde uygulanan 25 milyon tonluk mevsimsel tahıl ihracat kotasının yüzde 76'sı kullanıldı. Böylece aynı dönemde 19 milyon tonun üzerinde buğday, arpa ve mısır uluslararası pazarlara sevk edildi.\n\nİhracat kotası sezonun başında 20 milyon ton olarak belirlenmiş, daha sonra Rus hükümeti tarafından 5 milyon ton artırılarak 25 milyon tona çıkarılmıştı. Artışın gerekçesi olarak ülkede elde edilen 141,2 milyon tonluk rekor tahıl hasadı gösterildi.\n\nKarşılaştırma yapıldığında, geçen sezon uygulanan ihracat kotası 10,6 milyon ton seviyesindeydi. Böylece bu sezonki kota geçen yıla göre yaklaşık 2,4 kat daha yüksek gerçekleşti. Buna karşın geçen yıl kotanın yüzde 86,5'i kullanılırken, bu sezon kullanım oranı yüzde 76 seviyesinde kaldı.\n\nSezon boyunca ihracat kotası tahsis edilen 213 şirketten yaklaşık 200'ü ihracat gerçekleştirdi.\n\nRusya'da tahıl ihracat kotası uygulaması 2020 yılından bu yana yürürlükte bulunuyor. Ancak uygulama Avrasya Ekonomik Birliği (AEB) üyesi ülkelere yapılan sevkiyatları kapsamıyor.\n\nTürkiye'nin Rus tahılındaki güçlü konumu, özellikle un sanayi, yem sektörü ve hayvansal üretimde kullanılan hammaddelerin temini açısından dış ticaret ilişkilerinin önemini koruduğunu ortaya koyuyor.\n\nTARIM PUSULASI HABER MERKEZİ"
-    },
-    {
-      "title": "Rusya'da buğday ihracat vergisi yeniden uygulanacak",
-      "url": "https://www.tarimpusulasi.com/haber/rusyada-bugday-ihracat-vergisi-yeniden-uygulanacak-46990",
-      "source": "Tarım Pusulası",
-      "date": "2026-07-04",
-      "summary": "Rusya, 8-14 Temmuz döneminde buğday ihracat vergisini ton başına 370,1 rubleye yükseltti. Arpa ve mısırda vergi sıfır seviyesinde kalırken, artışta buğday için yükselen gösterge ihracat fiyatı etkili oldu.",
-      "content": "MOSKOVA — Rusya, 8-14 Temmuz döneminde uygulanacak buğday ihracat vergisini ton başına 370,1 ruble (yaklaşık 4,81 ABD doları) olarak belirledi. Böylece yaklaşık üç aylık süreçte ilk kez buğday ihracatında yeniden vergi uygulanmaya başlanmış oldu.\n\nResmi verilere göre vergi oranı nisan ayının başında 329 ruble (yaklaşık 4,28 ABD doları)/ton seviyesindeydi. Daha sonra 0 ruble (0 ABD doları) seviyesine indirildi ve 11 hafta boyunca bu düzeyde kaldı. Yeni dönemde ise vergi yeniden 370,1 ruble (yaklaşık 4,81 ABD doları)/ton olarak uygulanacak.\n\nArpa ve mısır ihracatında ise herhangi bir değişikliğe gidilmedi. Her iki ürün için ihracat vergisi 0 ruble (0 ABD doları) olarak uygulanmaya devam edecek.\n\nVergi hesaplamasında esas alınan gösterge ihracat fiyatlarında yalnızca buğdayda artış görüldü. Buna göre buğdayın gösterge fiyatı 233,8 ABD dolarından 239,4 ABD dolarına yükseldi. Böylece ton başına 5,6 ABD dolarlık artış gerçekleşti.\n\nArpa için gösterge fiyat 218,3 ABD doları, mısır için ise 230,3 ABD doları seviyesinde sabit kaldı. Bu nedenle her iki üründe ihracat vergisinde değişiklik yapılmadı.\n\nTARIM PUSULASI HABER MERKEZİ"
-    },
-    {
-      "title": "Erdoğan'dan çiftçiye yeni kredi ve destek paketi",
-      "url": "https://www.tarimpusulasi.com/haber/erdogandan-ciftciye-yeni-kredi-ve-destek-paketi-46989",
-      "source": "Tarım Pusulası",
-      "date": "2026-07-04",
-      "summary": "Cumhurbaşkanı Recep Tayyip Erdoğan, Ziraat Bankasının İstanbul Haliç Kongre Merkezi'nde düzenlediği 5. Tarım Ekosistemi Buluşması programında çiftçilere yönelik yeni finansman paketlerini açıkladı. Kadın ve genç çiftçi kredisi limiti 3 milyon liradan 5 milyon liraya çıkarılırken, süt hayvancılığı, b",
-      "content": "İSTANBUL — Cumhurbaşkanı Recep Tayyip Erdoğan, Ziraat Bankasının Haliç Kongre Merkezi'nde düzenlediği 5. Tarım Ekosistemi Buluşması programında üreticilere yönelik yeni kredi ve finansman paketlerini açıkladı. Tarım sektöründe yatırımları artırmayı hedefleyen düzenlemeler kapsamında kadın ve genç çiftçilerden süt hayvancılığı işletmelerine, yenilenebilir enerji yatırımlarından büyükbaş ve küçükbaş üreticilerine kadar farklı alanlarda kredi limitleri yükseltildi.\n\nKadın ve genç çiftçilere kredi limiti 5 milyon liraya çıkarıldı\n\nCumhurbaşkanı Erdoğan, tarım sektörüne yönelik ilk müjdenin kadın ve genç üreticilere yönelik olduğunu belirterek, kadın ve genç çiftçi yatırım kredisi limitinin 3 milyon liradan 5 milyon liraya yükseltildiğini açıkladı.\n\nYeni finansman modeli kapsamında yatırım kredileri;\n\n2 yıl anapara ödemesiz,\n\n10 yıla kadar vadeli,\n\nöz kaynak katkısı aranmadan\n\nve Kredi Garanti Fonu teminat desteğiyle\n\nkullandırılabilecek. Erdoğan, bu uygulamayla özellikle gençlerin ve kadınların tarımsal üretime katılımının artırılmasının hedeflendiğini söyledi.\n\nAtıl işletmeler yeniden üretime kazandırılacak\n\nCumhurbaşkanı Erdoğan, ikinci destek paketinin kullanılmayan büyükbaş süt ve besi işletmelerine yönelik olduğunu belirtti.\n\nBuna göre;\n\nSüt hayvancılığı yatırımları için 60 milyon liraya kadar,\n\nBesicilik yatırımları için ise 40 milyon liraya kadar\n\nyatırım kredisi sağlanacak.\n\nSöz konusu kredilerin 2 yıl geri ödemesiz ve 8 yıla kadar vadeli olarak kullandırılacağını açıklayan Erdoğan, amaçlarının atıl durumdaki işletmeleri yeniden üretime kazandırmak olduğunu ifade etti.\n\nYenilenebilir enerji yatırımlarına finansman desteği\n\nKonuşmasında üretim maliyetlerinin azaltılmasına yönelik yeni uygulamalara da değinen Erdoğan, çiftçilerin kendi elektriğini üretmesini teşvik edecek yenilenebilir enerji yatırımlarına ilişkin kredi paketini açıkladı.\n\nBu kapsamda üreticilere;\n\n15 milyon liraya kadar kredi,\n\n8 yıl vadeli finansman\n\nve yüksek faiz sübvansiyonu\n\nsağlanacağını belirten Erdoğan, uygulamanın hem enerji maliyetlerini düşürmeyi hem de çevre dostu üretimi yaygınlaştırmayı amaçladığını söyledi.\n\nBüyükbaş ve küçükbaş üreticilerine yeni kredi limitleri\n\nCumhurbaşkanı Erdoğan, hayvansal üretime yönelik kredi üst limitlerinde de artış yapıldığını açıkladı.\n\nYeni düzenlemeye göre;\n\nKüçükbaş üreticilerine yönelik kredi limiti 2 milyon liraya,\n\nBüyükbaş üreticilerine yönelik kredi limiti ise 3 milyon liraya\n\nyükseltildi.\n\nErdoğan, açıklanan finansman paketlerinin üreticilerin yatırım kapasitesini güçlendirmeyi ve tarımsal üretimin sürdürülebilirliğini desteklemeyi amaçladığını ifade etti.\n\nTarıma 2026 yılında 939 milyar liralık kaynak\n\nCumhurbaşkanı Erdoğan, yeni kredi paketlerinin yanı sıra 2026 yılında tarım sektörüne ayrılan kamu kaynaklarına ilişkin de bilgi verdi.\n\nErdoğan'ın açıkladığı verilere göre, 2026 yılında tarıma doğrudan ve dolaylı olarak 939 milyar liralık destek sağlanacak. Bu kaynağın, üretimin artırılması, finansmana erişimin kolaylaştırılması ve kırsal yatırımların güçlendirilmesi amacıyla kullanılacağını belirten Erdoğan, üreticilerin desteklenmesinin sürdürüleceğini söyledi.\n\nTARIM PUSULASI HABER MERKEZİ"
     }
   ],
   "commoditiesByBorsa": {
@@ -328,5 +328,20 @@
   "defaultBorsa": "5ED10",
   "defaultCity": "CANAKKALE",
   "note": "Fiyatlar TOBB ticaret borsasından (borsa seçilebilir). Kanola manuel (Trakya 2025).",
-  "inputsNote": "Mazot: akaryakıt bayi fiyatı, günlük (şehir seçilebilir). Gübre: manuel (yaklaşık)."
+  "inputsNote": "Mazot: akaryakıt bayi fiyatı, günlük (şehir seçilebilir). Gübre: manuel (yaklaşık).",
+  "errors": [
+    "borsa 5ED10: fetch failed",
+    "borsa 5KO10: fetch failed",
+    "borsa 5ES10: fetch failed",
+    "mazot ANKARA: fetch failed",
+    "mazot ISTANBUL: fetch failed",
+    "mazot IZMIR: fetch failed",
+    "mazot KONYA: fetch failed",
+    "mazot ADANA: fetch failed",
+    "mazot BURSA: fetch failed",
+    "mazot ANTALYA: fetch failed",
+    "mazot SAMSUN: fetch failed",
+    "mazot TEKIRDAG: fetch failed",
+    "mazot CANAKKALE: fetch failed"
+  ]
 }
