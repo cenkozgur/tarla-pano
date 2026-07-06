@@ -1,43 +1,67 @@
 {
-  "updatedAt": "2026-07-06T10:45:13.187Z",
+  "updatedAt": "2026-07-06T14:16:33.514Z",
   "fx": [
     {
       "code": "USD",
       "name": "Dolar",
       "buy": 46.82,
-      "sell": 46.82,
+      "sell": 46.83,
       "change": 0.03
     },
     {
       "code": "EUR",
       "name": "Euro",
-      "buy": 53.5,
+      "buy": 53.49,
       "sell": 53.51,
-      "change": -0.11
+      "change": -0.12
     },
     {
       "code": "GRA",
       "name": "Gram Altın",
-      "buy": 6254.35,
-      "sell": 6255.02,
-      "change": -0.36
+      "buy": 6232.76,
+      "sell": 6233.68,
+      "change": -0.7
     },
     {
       "code": "CEYREKALTIN",
       "name": "Çeyrek Altın",
-      "buy": 10004.86,
-      "sell": 10235.77,
-      "change": -0.67
+      "buy": 9965.17,
+      "sell": 10193.01,
+      "change": -1.09
     },
     {
       "code": "CUMHURIYETALTINI",
       "name": "Cumhuriyet Altını",
-      "buy": 41797,
-      "sell": 42429,
-      "change": 0.31
+      "buy": 41417,
+      "sell": 42049,
+      "change": -0.9
     }
   ],
   "news": [
+    {
+      "title": "ESK'nın görevi kar etmek mi, piyasayı düzenlemek mi? İşte kanunda yazan görevleri",
+      "url": "https://www.tarimdanhaber.com/esknin-gorevi-kar-etmek-mi-piyasayi-duzenlemek-mi-iste-kanunda-yazan-gorevleri",
+      "source": "Tarımdan Haber",
+      "date": "2026-07-06",
+      "summary": "İthal Hayvan Dosyası'nın dördüncü bölümünde Et ve Süt Kurumu'nun (ESK) hukuki statüsü ve görev tanımı mercek altına aldık. Tarım Politikaları Uzmanı Ergin Kahveci, 233 sayılı KHK ile Et ve Süt Kurumu Ana Statüsü'nün ilgili maddelerine dikkat çekerek, kurumun temel görevinin piyasa regülasyonu olduğu",
+      "content": "Haber Merkezi / İthal Hayvan Dosyası'nın önceki bölümlerinde Et ve Süt Kurumu'nun (ESK) 500 bin baş besilik sığır ithalatındaki maliyet yapısı ve satış fiyatları ele alınmıştı. Dosyanın dördüncü bölümünde ise tartışmanın hukuki boyutu inceleyeceğiz.\n\nTarım Politikaları Uzmanı Ergin Kahveci, hazırladığı analizde ESK'nın hukuki statüsünü belirleyen 233 sayılı Kanun Hükmünde Kararname ile Et ve Süt Kurumu Ana Statüsü'nün ilgili hükümlerine dikkat çekerek, kurumun görev tanımının kamuoyunda yeniden değerlendirilmesi gerektiğini belirtti.\n\nSermayesinin tamamı devlete ait\n\nKahveci'nin analizine göre ESK, 233 sayılı KHK kapsamında faaliyet gösteren bir İktisadi Devlet Teşekkülü (İDT) niteliğinde bulunuyor. Kurumun sermayesinin tamamı devlete ait olup, Tarım ve Orman Bakanlığı'nın ilgili kuruluşu olarak faaliyet gösteriyor.\n\nAnalizde, ESK'nın ticari esaslara göre faaliyet gösterdiği, alım-satım yapabildiği, ithalat gerçekleştirebildiği ve bilanço hazırladığı belirtilirken, bunun yanında kamu adına piyasayı düzenleme görevi de bulunduğunu ifade etti.\n\nAna Statü'nün 1'inci maddesi ne diyor?\n\nKahveci, Et ve Süt Kurumu Ana Statüsü'nün 1'inci maddesine dikkat çekerek, kurumun devletin genel hayvancılık politikası çerçevesinde hayvancılık sektöründe düzenleyici ve destekleyici bir rol üstlenmesini sağlamak amacıyla faaliyet gösterdiğini hatırlattı.\n\nAynı maddede ESK'nın, piyasa ekonomisi kuralları içinde tam rekabet koşullarının oluşmasına katkı sağlayarak, verimlilik ve karlılık ilkeleri doğrultusunda kamu yararını gözetmekle yükümlü olduğunun altını çizdi.\n\nTemel amaç piyasa dengesine katkı sağlamak\n\nAna Statü'nün 5'inci maddesinde ise ESK'nın temel amacının; et, süt ve balık piyasalarında ekonomik gereklere uygun şekilde faaliyet göstermek, kamu yararını gözetmek ve sektörde tam rekabet koşullarının oluşmasına katkı sağlamak olduğu hükme bağlanıyor.\n\nAynı maddede ayrıca, et ve süt piyasasında üretici veya tüketici aleyhine oluşabilecek fiyat dengesizliklerini önlemek amacıyla gerekli tedbirlerin alınabileceği ve bu kapsamda kuruma ilave mali yük getiren görevlerin tarımsal destekleme bütçesinden karşılanabileceği de düzenleniyor.\n\n\"Asıl görev piyasa regülasyonu\"\n\nErgin Kahveci, söz konusu düzenlemeler çerçevesinde ESK'nın temel fonksiyonunun hayvancılık piyasasında regülasyon sağlamak olduğunu değerlendirdi.\n\nAnalizde, kurumun karlılık ilkesiyle çalışmasının mevzuatta yer aldığı ancak bunun yanında kamu yararını gözetme, üretici ve tüketici arasındaki piyasa dengesini koruma sorumluluğunun da açık şekilde tanımlandığı ifade ediliyor.\n\nKahveci, mevcut uygulamalarda ise kurumun ticari faaliyetleri ile piyasa düzenleme görevi arasındaki dengenin yeniden tartışılması gerektiğini dile getirdi.\n\nNot: Bu haber, İthal Hayvan Dosyası özel serimizin dördüncü bölümüdür.\n\nYarın: Görev zararı nedir? Et ve Süt Kurumu zarar ederse oluşan maliyet kim tarafından karşılanıyor? 233 sayılı KHK ve Et ve Süt Kurumu Ana Statüsü çerçevesinde \"görev zararı\" mekanizmasını ele alacağız.\n\nİTHAL HAYVAN DOSYASI\n\nBölüm 1 → 53 bin liraya mal olan ithal besilik hayvan neden 82 bin liraya satılıyor?\n\nBölüm 2 → Brezilya'dan çıkan ithal besilik hayvan Türkiye'ye kaça geliyor?\n\nBölüm 3 → ESK'nın 420 TL ve 310 TL'lik satış tarifesi nasıl hesaplandı?\n\nBölüm 4 → ESK'nın görevi kar etmek mi, piyasayı düzenlemek mi?\n\nBölüm 5 → Görev zararı nedir? ESK zarar ederse parayı kim ödüyor?\n\nBölüm 6 → ESK’nın elde ettiği kar nereye gidiyor?\n\nBölüm 7 → ESK piyasayı düzenliyor mu, ithalatı mı yönetiyor?\n\nBölüm 8 → İthalat modeli analizi: 'İthalat gemilerinin gölgesinde sürdürülemez bir sistem oluştu'"
+    },
+    {
+      "title": "Güncel hububat fiyatları – Buğday, arpa ve mısır fiyatları 6 Temmuz 2026",
+      "url": "https://www.tarimdanhaber.com/hububat-fiyatlari",
+      "source": "Tarımdan Haber",
+      "date": "2026-07-06",
+      "summary": "Türkiye'nin önde gelen ticaret borsalarında oluşan günlük hububat fiyatları Tarımdan Haber'de tek sayfada güncelleniyor. Konya, Polatlı, Gaziantep, Edirne, Eskişehir başta olmak üzere birçok ticaret borsasında 6 Temmuz buğday, arpa, mısır ve diğer hububat ürünlerinde oluşan güncel fiyatları, ortalam",
+      "content": "Haber Merkezi / Türkiye'de hububat piyasasının nabzını tutan ticaret borsalarındaki günlük fiyatlar Tarımdan Haber'de anlık olarak güncelleniyor. Konya Ticaret Borsası, Polatlı Ticaret Borsası, Gaziantep Ticaret Borsası, Edirne Ticaret Borsası, Eskişehir Ticaret Borsası ve diğer borsalarda oluşan ekmeklik buğday, makarnalık buğday, arpa ve mısır fiyatlarını tek sayfadan takip edebilirsiniz. Sayfada ayrıca Türkiye genelindeki ticaret borsalarından derlenen günlük ortalama hububat fiyatları da yer almaktadır.\n\nKonya Ticaret Borsası Hububat Fiyatları - 6 Temmuz 2026\n\nMakarnalık Buğday: 14,22 TL/ton\n\nKırmızı Sert Ekmeklik Buğday: 14,81 TL/ton\n\nBeyaz Sert Ekmeklik Buğday: 14,68 TL/ton\n\nKırmızı Diğer Ekmeklik Buğday: 13,26 TL/ton\n\nBeyaz Diğer Ekmeklik Buğday: 13,61 TL/ton\n\nArpa: 11,52 TL/ton\n\nMısır (18 ve altı): 12,76 TL/ton\n\nMısır (18 Üstü): - TL/ton\n\nGaziantep Ticaret Borsası (GTB) Hububat Fiyatları – 6 Temmuz 2026\n\nSert Buğday (Güneydoğu-1. Grup): 15.700 TL - 15.800 TL\n\nSert Buğday (Güneydoğu - 2. Grup): 15,100 TL - 15,300 TL\n\nSert Buğday (Güneydoğu - 3. Grup): 14,700 TL - 15,000 TL\n\nEkmeklik Buğday ( 1. Grup): 15,600 TL - 15,800 TL\n\nEkmeklik Buğday (2. Grup): 15,100 TL - 15,300 TL\n\nEkmeklik Buğday (3. Grup): 14,800 TL - 15,000 TL\n\nEkmeklik Buğday (Yemlik): 14,000 TL - 14,300 TL\n\nBeyaz Arpa (İç Anadolu): 11,600 TL - 11,900 TL\n\nÇakır Arpa: 12,000 TL - 12,100 TL\n\nKırmızı Kabuklu Mercimek: 43,000 TL - 44,000 TL\n\nEdirne Ticaret Borsası Hububat Fiyatları 6 Temmuz 2026\n\n1. Sınıf Kırmızı Ekmeklik Buğday: 13,695 TL/ton\n\n2. Sınıf Kırmızı Ekmeklik Buğday: 13,913 TL/ton\n\n3. Sınıf Kırmızı Ekmeklik Buğday: 12,937 TL/ton\n\nDüşük Vasıflı Kırmızı Ekmeklik Buğday: 13,293 TL/ton\n\nStandart Dışı Kırmızı Ekmeklik Buğday: 12,864 TL/ton\n\n1. Grup Arpa: 11,360 TL/ton\n\n2. Grup Arpa: 11,320TL/ton\n\nBarem Dışı Arpa: 10,020 TL/ton\n\nEskişehir Ticaret Borsası Hububat Fiyatları 6 Temmuz 2026\n\nArpa : 10,739 TL/ton\n\nBuğday (Müfitbey): 12,391 TL/ton\n\nBuğday (Ekiz): 13,556 TL/ton\n\nPolatlı Ticaret Borsası Hububat Fiyatları 6 Temmuz 2026\n\nKırmızı Ekmeklik Buğday (2.Derece): 15,36 TL/ton\n\nKırmızı Ekmeklik Buğday (3. Derece): 14,07 TL/ton\n\nDüşük Vasıflı Kırmızı Ekmeklik Buğday: 14,03 TL/ton\n\nDüşük Vasıflı Beyaz Ekmeklik Buğday: 13,66 TL/ton\n\nStandart Dışı Buğday: 13,83 TL/ton\n\nBeyaz Arpa (1. Grup): 11,25 TL/ton\n\nBeyaz Arpa (2. Grup): 11,16 TL/ton\n\nStandart Dışı Arpa: 10,98 TL/ton\n\nHububat Piyasasında Günlük Fiyat Değişimleri (Haziran-Temmuz 2026)\n\nAşağıdaki fiyatlar, Türkiye genelindeki 15 büyük ticaret borsasının günlük kapanış verileri esas alınarak hesaplanmış ortalama değerlerdir.\n\n3 Temmuz 2026:\n\nE. Buğday: 14.777 TL | M. Buğday: 15.293 TL | Arpa: 11.588 TL | Mısır: 12.649 TL\n\n2 Temmuz 2026:\n\nE. Buğday: 14.305 TL | M. Buğday: 15.434 TL | Arpa: 11.914 TL | Mısır: 12.586 TL\n\n1 Temmuz 2026:\n\nE. Buğday: 14.554 TL | M. Buğday: 15.509 TL | Arpa: 11.317 TL | Mısır: 13.259 TL\n\n30 Haziran 2026:\n\nE. Buğday: 14.385 TL | M. Buğday: 15.075 TL | Arpa: 11.331 TL | Mısır: 12.422 TL\n\n29 Haziran 2026:\n\nE. Buğday: 14.757 TL | M. Buğday: 15.309 TL | Arpa: 11.326 TL | Mısır: 13.055 TL\n\n26 Haziran 2026:\n\nE. Buğday: 14.643 TL | M. Buğday: 15.073 TL | Arpa: 11.455 TL | Mısır: 13.039 TL\n\n25 Haziran 2026:\n\nE. Buğday: 14.790 TL | M. Buğday: 15.550 TL | Arpa: 11.320 TL | Mısır: 13.250 TL\n\n24 Haziran 2026:\n\nE. Buğday: 14.660 TL | M. Buğday: 15.270 TL | Arpa: 11.530 TL | Mısır: 13.160 TL\n\n23 Haziran 2026:\n\nE. Buğday: 14.690 TL | M. Buğday: 15.210 TL | Arpa: 11.940 TL | Mısır: 13.250 TL\n\n22 Haziran 2026:\n\nE. Buğday: 14.920 TL | M. Buğday: 15.550 TL | Arpa: 11.580 TL | Mısır: 13.010 TL\n\n19 Haziran 2026:\n\nE. Buğday: 14.760 TL | M. Buğday: 15.680 TL | Arpa: 11.650 TL | Mısır: 12,640 TL\n\n18 Haziran 2026:\n\nE. Buğday: 14.802 TL | M. Buğday: 15.626 TL | Arpa: 11.909 TL | Mısır: 13,401 TL\n\n17 Haziran 2026:\n\nE. Buğday: 14.976 TL | M. Buğday: 15.697 TL | Arpa: 12.159 TL | Mısır: 13,474 TL"
+    },
+    {
+      "title": "Tarım Kredi'den çiftçiye hasat vurgunu: Arpa fiyatını 500 lira daha kırdılar!",
+      "url": "https://www.tarimdanhaber.com/tarim-krediden-ciftciye-hasat-vurgunu-arpa-fiyatini-500-lira-daha-kirdilar",
+      "source": "Tarımdan Haber",
+      "date": "2026-07-06",
+      "summary": "TMO fiyatı piyasa için 'taban' olması gerekirken, çiftçinin öz kuruluşu Tarım Kredi üreticiye hasat darbesi vurdu! Arpa alım fiyatını 500 lira daha kıran kurum, bir yandan çiftçinin ürününü piyasanın altına çekerken, diğer yandan çiftçinin öz sermayesini zarar eden kendi şirketlerine 'can suyu' olar",
+      "content": "Haber Merkezi / Çiftçinin \"kara gün dostu\" olması beklenen Tarım Kredi Kooperatifleri, hasat döneminde üreticiye tam anlamıyla bir \"hasat darbesi\" vurdu. TMO 12.750 TL/ton olarak açıkladığı arpa alım fiyatı piyasa beklentilerini zaten karşılamazken, çiftçi kuruluşu Tarım Kredi, adeta bir \"vurgun\" yaparcasına fiyatları 500 lira daha aşağı çekerek üreticiyi tüccarın insafına terk etti.\n\n\"Zaten Düşüktü, Daha da Kırdılar\"\n\nKurum, son aldığı kararla zaten girdi maliyetlerinin altında ezilen çiftçinin elindeki ürünü daha da ucuza kapatmanın yolunu açtı.\n\n7 gün ödemeli alım fiyatı: 11.500 TL/tondan 11.000 TL/tona,\n\nİki ay vadeli alım fiyatı: 12.750 TL/tondan 11.800 TL/tona düşürüldü.\n\nÇiftçiler, \"Girdi maliyetleri %100 artarken, bizim ürünümüzün fiyatını 500 lira daha kırmak, doğrudan üreticiye ihanettir\" diyerek karara tepki gösteriyor. Bir çiftçi kuruluşunun, çiftçinin ürününü değerinde almak yerine fiyatları aşağı yönlü kırarak tüccara \"daha ucuza alabilirsin\" kapısını aralaması, sektörde tepkileri artırdı.\n\nBorçlu Çiftçiye \"Çifte Pranga\"\n\nDiğer yandan Tarım Kredi'nin, arpa alım politikasını tam bir \"baskı aracı\" haline getirmesi de dikkat çekiyor. Sadece borcu olan çiftçiden alım yapan kurum, buna bir de \"kota\" sınırı getirerek üreticiyi tamamen köşeye sıkıştırdı.\n\nVadeli alımlarda: 11.800 TL/ton fiyat veriliyor ancak bu süreçte çiftçinin borcuna işleyen yüksek faiz, aradaki farkı anında yutuyor.\n\nKota uygulaması: Her kooperatife konulan kota dolduğunda, borçlu çiftçi ürününü elden çıkaramayacak duruma getiriliyor.\n\nÇiftçinin Sermayesi Zarar Eden Şirketlere \"Can Suyu\"\n\nHüseyin Aydın yönetimindeki Tarım Kredi’nin çiftçiden esirgediği her kuruş, zarar eden iştiraklere aktarılmaya devam ediyor. Kurumun, çiftçinin ürününü \"daha ucuza kırmak\" için yarışırken;\n\nTarım Kredi Yağ Şirketi’ne 3,5 milyar TL, Tarım Kredi Marketler’e 6,3 milyar TL kaynak aktarması, önceliklerin ne kadar değiştiğini gözler önüne seriyor.\n\nÇiftçi, kendi öz sermayesiyle, kötü yönetimden kaynaklı zararların kapatılmasını kabul etmiyor. \"Asli görevi çiftçiyi korumak olan bir kurum, nasıl olur da çiftçinin ürününü piyasadan daha ucuza alıp, zarardaki marketlerine kaynak yapar?\" sorusu, bugün Ankara’dan tarlaya kadar her yerde yankılanıyor.\n\nDaha fazla bilgi\n\nTarım Kredi'de yine çiftçinin kasasına gidildi! Yağ şirketine 3,5 milyarlık sermaye aktarıldı\n\nZafer Partisi'nden Tarım Kredi'ye tepki: \"12 bin 750 liralık arpa 11 bin 500 liraya isteniyor\""
+    },
     {
       "title": "Fıstık Üreticileri Birliği: İthalat üreticiyi zorluyor",
       "url": "https://www.tarimpusulasi.com/haber/fistik-ureticileri-birligi-ithalat-ureticiyi-zorluyor-47001",
@@ -109,30 +133,6 @@
       "date": "2026-07-05",
       "summary": "Türkşeker’in Nisan ayı sonunda duyuru ve ilan yapmaksızın iki firmaya gerçekleştirdiği 100 bin tonluk şeker satışı, siyasetin gündemine oturdu. Anahtar Parti Genel Başkan Yardımcısı Hasan Hüseyin Demiröz, söz konusu satışın kamuoyunda yaklaşık 600 milyon liralık bir zarara yol açtığını belirterek, “",
       "content": "Haber Merkezi / Türkşeker’in Nisan ayı sonunda İşmen Gıda ve Remzi Çakar firmalarına yaptığı şeker satışını sert bir dille eleştiren Anahtar Parti Genel Başkan Yardımcısı Hasan Hüseyin Demiröz, kurumun sessizliğini bozması gerektiğini ifade etti. Demiröz, yapılan işlemin bir \"skandal operasyon\" olduğunu savundu.\n\nİlgili Haber → Türkşeker Genel Müdürü’nden Saadet Partisi'ne \"600 Milyonluk Şeker\" ziyareti: \"Zarar değil, kar ettik\"\n\n\"Zamdan Bir Gün Önce Adrese Teslim Satış\"\n\nHasan Hüseyin Demiröz, açıklamasında satışın zamanlamasına ve uygulanan fiyat politikasına dikkat çekti. Satışın gerçekleştirildiği dönemde Türkşeker’in resmi piyasa satış fiyatının çuval başına 1.735 TL (34,70 TL/kg) olduğunu hatırlatan Demiröz, şu verileri paylaştı:\n\nİşmen Gıda ve Remzi Çakar’a Yapılan Satış: 30 bin ton peşin ödemeli çuval başı 1.588 TL, 70 bin ton ise 6 ay vadeli 1.850 TL üzerinden gerçekleştirildi.\n\nZamlı Tarife: Satıştan sadece bir gün sonra Türkşeker, şeker satış fiyatını çuval başına 1.925 TL’ye çıkardı.\n\nDemiröz, \"İşmen Gıda ve Remzi Çakar, hem piyasa fiyatının altından yapılan bu satıştan hem de bir gün sonra yapılan yüzde 11’lik şeker zammından dolayı çifte kazanç sağlamıştır. Bu, kamu kaynaklarının belirli firmalara peşkeş çekilmesidir,\" ifadelerini kullandı.\n\n\"Sayın Genel Müdür, Açıklayın: Şeker Elinizde mi Kalacaktı?\"\n\nTürkşeker Genel Müdürü’nün \"devletin zarara uğramadığı\" yönündeki savunmasını hatırlatan Demiröz, bu açıklamayı \"fiyatları yükseltme bahanesiyle yapılan bir kılıf\" olarak niteledi. Genel Müdür’e doğrudan sorular yönelten Demiröz şunları sordu:\n\n\"Fiyatları yükseltmek için 100 bin ton şekeri piyasanın altında fiyatla iki tüccara vermek hangi ticari mantığa sığar? Mayıs ve Haziran aylarında toplamda kaç ton şeker sattınız? Pancardan şekere kadar kota ile üretilen ve ihtiyaca göre şekillenen bu stratejik emtia, elinizde mi kalacaktı da ilansız ve habersiz bir şekilde bu firmalara satış yaptınız?\"\n\nTürkşeker Sessizliğini Korumaya Devam Ediyor\n\nHasan Hüseyin Demiröz, 600 milyon liralık kamu zararı iddialarına rağmen Türkşeker yönetiminin satış bilgilerini yalanlayamadığını ve kamuoyuna tatmin edici bir açıklama yapmadığını vurguladı. Anahtar Parti olarak konunun takipçisi olacaklarını belirten Demiröz, sürecin şeffaf bir şekilde soruşturulması gerektiğini yineledi."
-    },
-    {
-      "title": "Bakan Yumaklı duyurdu: Pancar üreticisine 2 milyar 768 milyon liralık avans ödemesi",
-      "url": "https://www.tarimdanhaber.com/bakan-yumakli-duyurdu-pancar-ureticisine-2-milyar-768-milyon-liralik-avans-odemesi",
-      "source": "Tarımdan Haber",
-      "date": "2026-07-05",
-      "summary": "Tarım ve Orman Bakanı İbrahim Yumaklı, 2026 yılı sözleşmeli pancar üretimi kapsamında Türkşeker'in üreticilere toplam 2 milyar 768 milyon lira avans ödemesi yapıldığını açıkladı. Gübre ve çapa avansı olarak yapılan ödeme, üreticilerin üretim sezonundaki finansman yükünü hafifletmeyi amaçlıyor.",
-      "content": "Haber Merkezi / 2026 yılı sözleşmeli şeker pancarı üretim sezonunda pancar üreticilerine yönelik avans ödemeleri hesaplara yatırıldı.\n\nTarım ve Orman Bakanı İbrahim Yumaklı, sosyal medya hesabından yaptığı açıklamada, Türkşeker ile sözleşmeli üretim yapan çiftçilere toplam 2 milyar 768 milyon 70 bin lira tutarında avans ödemesi gerçekleştirildiğini duyurdu.\n\nYapılan ödemelerin 1 milyar 780 milyon lirasını gübre avansı, 988 milyon 70 bin lirasını ise çapa avansı oluşturdu.\n\nBakan Yumaklı, paylaşımında, \"Toprağa değer katan, alın teriyle üreten çiftçimizin daima yanındayız. 2026 yılı sözleşmeli pancar üretim döneminde üreticilerimize toplamda 2 milyar 768 milyon TL avans ödemesi gerçekleştirdik. Hayırlı, bereketli olsun.\" ifadelerini kullandı.\n\nÜreticinin finansman ihtiyacına destek\n\nŞeker pancarı üretiminde ekimden hasada kadar geçen süreçte gübreleme, çapalama ve bakım giderleri önemli bir maliyet kalemi oluşturuyor. Türkşeker tarafından yapılan avans ödemeleri, üreticilerin bu dönemdeki nakit ihtiyacının karşılanmasına katkı sağlarken, üretimin sürdürülebilirliği açısından da önem taşıyor.\n\nSöz konusu ödemeler, Türkşeker ile sözleşmeli üretim yapan pancar üreticilerinin hesaplarına aktarıldı."
-    },
-    {
-      "title": "Aynı ithal besilik hayvan büyük işletmeye 420, küçük işletmeye 310 liradan satılıyor! ESK bu fiyatları nasıl belirledi?",
-      "url": "https://www.tarimdanhaber.com/ayni-ithal-besilik-hayvan-buyuk-isletmeye-420-kucuk-isletmeye-310-liradan-satiliyor-esk-bu-fiyatlari-nasil-belirledi",
-      "source": "Tarımdan Haber",
-      "date": "2026-07-05",
-      "summary": "Et ve Süt Kurumu'nun (ESK) 2026 yılı besilik sığır ithalatında aynı özelliklere sahip hayvanlar, işletme büyüklüğüne göre farklı fiyatlarla üreticiye sunuluyor. Tarım Politikaları Uzmanı Ergin Kahveci'nin analizine göre, 200 baş ve üzeri kapasiteye sahip işletmeler canlı kilogramı 420 liradan, 200 b",
-      "content": "Haber Merkezi / Et ve Süt Kurumu'nun 2026 yılı besilik sığır ithalat programında, aynı özelliklere sahip ithal hayvanların iki farklı fiyat tarifesiyle üreticiye satılması dikkat çekiyor. Tarım Politikaları Uzmanı Ergin Kahveci'nin analizine göre fiyat farklılığı, işletmelerin hayvan kapasitesine göre belirleniyor.\n\nBüyük işletmelere 420 TL'den satış\n\nAnalize göre, 200 baş ve üzeri kapasiteye sahip işletmelere verilecek ithal besilik hayvanlarda satış fiyatı canlı kilogram başına 420 lira olarak uygulanıyor.\n\nOrtalama 196 kilogram canlı ağırlığındaki bir besilik hayvan için bu fiyat 82 bin 320 liralık satış bedeline karşılık geliyor.\n\nKüçük işletmelere 310 TL uygulanıyor\n\n200 başın altında kapasiteye sahip işletmeler ise aynı ağırlıktaki ithal besilik hayvanı canlı kilogramı 310 liradan satın alabiliyor.\n\nBu durumda 196 kilogramlık bir hayvanın satış bedeli 60 bin 760 lira olarak hesaplanıyor.\n\nAynı hayvanda 21 bin 560 liralık fiyat farkı\n\nİki tarife karşılaştırıldığında, aynı özelliklere sahip ithal besilik hayvan için işletme büyüklüğüne bağlı olarak 21 bin 560 liralık satış fiyatı farkı oluşuyor.\n\nTarım Politikaları Uzmanı Ergin Kahveci, bu uygulamanın küçük ölçekli besicilerin ithal hayvana daha düşük maliyetle ulaşabilmesi amacıyla oluşturulduğunu değerlendiriyor.\n\nKotalar da işletme büyüklüğüne göre ayrılıyor\n\nESK'nın 500 bin başlık besilik sığır ithalat programında da dağıtım iki gruba ayrılıyor.\n\nBuna göre;\n\n392 bin baş hayvan (yüzde 78,4), 200 baş ve üzeri işletmelere,\n\n108 bin baş hayvan (yüzde 21,6), 200 başın altındaki işletmelere tahsis ediliyor.\n\nBöylece hem satış fiyatı hem de ithalat kotası, işletmelerin kapasitesine göre farklılaştırılmış oluyor.\n\nNot: Bu haber, İthal Hayvan Dosyası özel serimizin üçüncü bölümüdür.\n\nYarın: Yarın dosyanın 4'üncü bölümünde: Et ve Süt Kurumu'nun temel görevi kar etmek mi, yoksa piyasayı düzenlemek mi? ESK'nın kuruluş amacı, yasal görevleri ve ithal hayvan satış politikasını mevzuat çerçevesinde masaya yatıracağız.\n\nİTHAL HAYVAN DOSYASI\n\nBölüm 1 → 53 bin liraya mal olan ithal besilik hayvan neden 82 bin liraya satılıyor?\n\nBölüm 2 → Brezilya'dan çıkan ithal besilik hayvan Türkiye'ye kaça geliyor?\n\nBölüm 3 → ESK'nın 420 TL ve 310 TL'lik satış tarifesi nasıl hesaplandı?\n\nBölüm 4 → ESK'nın görevi kar etmek mi, piyasayı düzenlemek mi?\n\nBölüm 5 → Görev zararı nedir? ESK zarar ederse parayı kim ödüyor?\n\nBölüm 6 → ESK’nın elde ettiği kar nereye gidiyor?\n\nBölüm 7 → ESK piyasayı düzenliyor mu, ithalatı mı yönetiyor?\n\nBölüm 8 → İthalat modeli analizi: 'İthalat gemilerinin gölgesinde sürdürülemez bir sistem oluştu'"
-    },
-    {
-      "title": "Sarımsak Piyasasında \"Fiyat Makası\" Açıldı: Bölgeden Bölgeye Büyük Fark!",
-      "url": "https://www.tarimdanhaber.com/sarimsak-piyasasinda-fiyat-makasi-acildi-bolgeden-bolgeye-buyuk-fark",
-      "source": "Tarımdan Haber",
-      "date": "2026-07-05",
-      "summary": "Türkiye genelinde sarımsak fiyatları, ürünün yetiştiği bölgeye ve kaliteye göre geniş bir yelpazede seyrediyor. Halihazırda güncel ilanlara yansıyan verilere göre, sarımsağın kilogram fiyatı 60 TL ile 160 TL arasında büyük bir değişkenlik gösteriyor.",
-      "content": "Haber Merkizi / Tarımsal ürün piyasalarında üreticiden tüketiciye ulaşan süreçte fiyat farklılıkları dikkat çekmeye devam ediyor. Özellikle Taşköprü sarımsağı gibi coğrafi işaret potansiyeli taşıyan ürünler ile standart üretim sarımsaklar arasındaki fiyat farkı, piyasadaki \"kalite ve bölge\" ayrımını gözler önüne seriyor.\n\nFiyatlar 60 TL'den Başlıyor, 160 TL'ye Çıkıyor\n\nPiyasadaki güncel satış ilanları incelendiğinde;\n\nEn uygun fiyatlı ürünler: Gaziantep (Araban) ve Şanlıurfa (Haliliye) bölgelerinden gelen ilanlarda 60 TL - 65 TL bandında seyrediyor.\n\nOrta segment: Antalya (Serik) ve Konya (Seydişehir) bölgesinde sarımsak fiyatları 75 TL ile 120 TL arasında alıcı buluyor.\n\nZirve Taşköprü'de: Piyasanın en yüksek fiyatları ise Kastamonu bölgesinden geliyor. Hakiki Taşköprü sarımsağı ilanları, kalite ve yöresel marka değerine bağlı olarak 150 TL ile 160 TL arasında fiyatlanıyor.\n\n\"Kalite ve Bölge Algısı Fiyatı Belirliyor\"\n\nSektör temsilcileri, sarımsak fiyatlarındaki bu dengesizliğin temel nedenini \"coğrafi özellikler ve raf ömrü\" olarak açıklıyor. Özellikle Taşköprü sarımsağının kendine has aroması ve dayanıklılığı nedeniyle piyasada \"premium\" ürün olarak konumlandığı, buna karşın yerel üretimin yoğun olduğu bölgelerde ise fiyatın daha rekabetçi bir seviyede kaldığı gözlemleniyor.\n\nÜretici ve Alıcı İçin Not\n\nPiyasada 30 ton gibi yüksek stok bildiren üreticilerin varlığı, arzın belirli bölgelerde yoğunlaştığını gösteriyor. Ancak, farklı bölgelerden gelen ilanlar arasındaki uçurum, üreticilerin kendi bölgelerindeki fiyat rekabetini doğru analiz etmeleri gerektiğini bir kez daha hatırlatıyor."
     }
   ],
   "commoditiesByBorsa": {
@@ -328,17 +328,5 @@
   "defaultBorsa": "5ED10",
   "defaultCity": "CANAKKALE",
   "note": "Fiyatlar TOBB ticaret borsasından (borsa seçilebilir). Kanola manuel (Trakya 2025).",
-  "inputsNote": "Mazot: akaryakıt bayi fiyatı, günlük (şehir seçilebilir). Gübre: manuel (yaklaşık).",
-  "errors": [
-    "mazot ANKARA: fetch failed",
-    "mazot ISTANBUL: fetch failed",
-    "mazot IZMIR: fetch failed",
-    "mazot KONYA: fetch failed",
-    "mazot ADANA: fetch failed",
-    "mazot BURSA: fetch failed",
-    "mazot ANTALYA: fetch failed",
-    "mazot SAMSUN: fetch failed",
-    "mazot TEKIRDAG: fetch failed",
-    "mazot CANAKKALE: fetch failed"
-  ]
+  "inputsNote": "Mazot: akaryakıt bayi fiyatı, günlük (şehir seçilebilir). Gübre: manuel (yaklaşık)."
 }
