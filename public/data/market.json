@@ -1,33 +1,33 @@
 {
-  "updatedAt": "2026-07-06T06:00:21.146Z",
+  "updatedAt": "2026-07-06T10:45:13.187Z",
   "fx": [
     {
       "code": "USD",
       "name": "Dolar",
       "buy": 46.82,
       "sell": 46.82,
-      "change": 0.02
+      "change": 0.03
     },
     {
       "code": "EUR",
       "name": "Euro",
-      "buy": 53.52,
-      "sell": 53.56,
-      "change": -0.04
+      "buy": 53.5,
+      "sell": 53.51,
+      "change": -0.11
     },
     {
       "code": "GRA",
       "name": "Gram Altın",
-      "buy": 6246.16,
-      "sell": 6247.12,
-      "change": -0.49
+      "buy": 6254.35,
+      "sell": 6255.02,
+      "change": -0.36
     },
     {
       "code": "CEYREKALTIN",
       "name": "Çeyrek Altın",
-      "buy": 10072.46,
-      "sell": 10304.88,
-      "change": 0
+      "buy": 10004.86,
+      "sell": 10235.77,
+      "change": -0.67
     },
     {
       "code": "CUMHURIYETALTINI",
@@ -38,6 +38,22 @@
     }
   ],
   "news": [
+    {
+      "title": "Fıstık Üreticileri Birliği: İthalat üreticiyi zorluyor",
+      "url": "https://www.tarimpusulasi.com/haber/fistik-ureticileri-birligi-ithalat-ureticiyi-zorluyor-47001",
+      "source": "Tarım Pusulası",
+      "date": "2026-07-06",
+      "summary": "Türkiye Fıstık Üreticileri Merkez Birliği Başkanı Faruk Akbaş, Şanlıurfa'dan yaptığı açıklamada, kuraklığın ardından bu yıl da üreticilerin düşük fiyatlar ve ithalat nedeniyle ekonomik baskı altında kaldığını belirterek, yerli üreticiyi destekleyecek adımlar atılması çağrısında bulundu.",
+      "content": "ŞANLIURFA — Türkiye Fıstık Üreticileri Merkez Birliği Başkanı Faruk Akbaş, Şanlıurfa'da yaptığı açıklamada fıstık üreticilerinin son iki sezondur yaşadığı ekonomik sorunlara dikkat çekerek, ithalat politikalarının yeniden değerlendirilmesini istedi.\n\nCumhurbaşkanı Recep Tayyip Erdoğan ve Tarım ve Orman Bakanı İbrahim Yumaklı'ya seslenen Akbaş, üreticilerin uzun süredir ekonomik baskı altında bulunduğunu belirterek, fıstık üreticilerinin desteklenmesi çağrısında bulundu.\n\nAkbaş'ın açıklamasına göre, 2024 sezonunda yaşanan kuraklık nedeniyle birçok bahçede ağaçlar zarar gördü. Aynı dönemde fıstık fiyatlarında görülen yükselişin ardından ithalatın devreye alınmasının iç piyasadaki fiyatları olumsuz etkilediğini savundu.\n\nBu sezon ise geçen yıl yaşanan kuraklığın etkilerinin üretime yansıdığını ifade eden Akbaş, hasadın beklenen seviyeye ulaşmadığını söyledi. Buna rağmen üreticilerin halen önceki sezondan kalan ürünlerini istedikleri fiyatlardan satamadığını dile getirdi.\n\nYeni hasat döneminin başladığını belirten Akbaş, geçen yıldan kalan ürünler satılamadan yeni sezon ürünlerinin de düşük fiyatlarla alıcı bulmasından endişe duyduklarını ifade etti.\n\nAkbaş, ithal edilen ürünlerin yerli üreticinin pazardaki rekabet gücünü olumsuz etkilediğini öne sürerek, yerli üretimin korunmasına yönelik tedbirlerin artırılması gerektiğini söyledi.\n\nÜreticilerin artan maliyetler ve gelir kaybı nedeniyle zor bir süreçten geçtiğini belirten Akbaş, ithalat politikalarının gözden geçirilmesi ve üreticilerin ürünlerini hak ettikleri değerden satabilecekleri bir piyasa yapısının oluşturulmasını talep etti.\n\nAçıklamasının sonunda yetkililere çağrıda bulunan Akbaş, mevcut koşulların devam etmesi halinde birçok üreticinin üretime devam etmekte zorlanacağını ifade etti.\n\nTARIM PUSULASI HABER MERKEZİ"
+    },
+    {
+      "title": "Karaman Ziraat Odası Başkanı Bayram: Kirazda yüksek rekolte üreticiyi kurtarmadı",
+      "url": "https://www.tarimpusulasi.com/haber/karaman-ziraat-odasi-baskani-bayram-kirazda-yuksek-rekolte-ureticiyi-kurtarmadi-47000",
+      "source": "Tarım Pusulası",
+      "date": "2026-07-06",
+      "summary": "Karaman Ziraat Odası Başkanı Mehmet Bayram, Karaman'daki kiraz bahçesinde yaptığı değerlendirmede, yüksek rekolteye rağmen üreticinin artan maliyetler ve düşük alım fiyatları nedeniyle gelir elde edemediğini söyledi. Bayram, kirazın dalda bırakılması ya da hasat edilmesi durumunda üreticinin zarar e",
+      "content": "KARAMAN — Karaman Ziraat Odası Başkanı Mehmet Bayram, kiraz hasat sezonuna ilişkin yaptığı değerlendirmede, bu yıl bahçelerde verimin yüksek olmasına rağmen üreticilerin ekonomik açıdan zor bir dönem geçirdiğini söyledi.\n\nKiraz bahçesinde yaptığı açıklamada geçen yıl birçok bölgede ürün bulunmadığını hatırlatan Bayram, bu sezon ise ağaçların meyveyle dolu olduğunu ancak üreticinin yüksek maliyetler nedeniyle gelir elde edemediğini ifade etti.\n\nBayram'ın verdiği bilgilere göre kirazın üretim maliyeti kilogram başına yaklaşık 35-40 lira seviyesine ulaştı. Buna hasat işçiliğinin de eklenmesiyle toplam maliyetin 85-90 liraya çıktığını belirten Bayram, üreticinin ürünü dalında bırakması halinde yaklaşık 40 lira, hasat ettirmesi halinde ise yaklaşık 85 lira zarar edebileceğini dile getirdi.\n\nKiraz hasadında işçiliğin en önemli gider kalemlerinden biri olduğuna dikkat çeken Bayram, profesyonel bir işçinin bodur kiraz bahçelerinde günde ortalama 40 kilogram ürün toplayabildiğini, bunun da üretim maliyetlerini önemli ölçüde artırdığını söyledi.\n\nBayram, Türkiye'nin kiraz üretiminde dünyanın önde gelen ülkeleri arasında bulunduğunu belirterek, yıllık üretimin yaklaşık 700-800 bin ton seviyesinde olduğunu ifade etti. Ancak yüksek üretime rağmen üreticinin beklediği ekonomik karşılığı alamadığını savundu.\n\nKaraman'ın Başyayla ve Kazımkarabekir ilçeleri başta olmak üzere birçok bölgede kirazın aynı dönemde hasat edildiğini belirten Bayram, ürünün ne erkenci ne de geç sezon ürünü olması nedeniyle pazarda fiyat baskısıyla karşı karşıya kaldığını söyledi.\n\nKirazın bahçeden tüketiciye ulaşıncaya kadar fiyatının önemli ölçüde arttığını dile getiren Bayram, üretici ile tüketici arasındaki fiyat farkının nedenlerinin değerlendirilmesi gerektiğini ifade etti.\n\nBayram, açıklamasını \"Bu yıl üreticilerimizin yardımcısı Allah olsun. Geçen yıl ürün yoktu, bu yıl ürün bol ancak üretici para kazanamıyor.\" sözleriyle tamamladı.\n\nTARIM PUSULASI HABER MERKEZİ"
+    },
     {
       "title": "Tarım Bakanından yakın ekibine talimat: \"Bir daha O'nunla ilgili bana birşey getirmeyin\"",
       "url": "https://www.tarimdanhaber.com/tarim-bakanindan-yakin-ekibine-talimat-bir-daha-onunla-ilgili-bana-birsey-getirmeyin",
@@ -117,22 +133,6 @@
       "date": "2026-07-05",
       "summary": "Türkiye genelinde sarımsak fiyatları, ürünün yetiştiği bölgeye ve kaliteye göre geniş bir yelpazede seyrediyor. Halihazırda güncel ilanlara yansıyan verilere göre, sarımsağın kilogram fiyatı 60 TL ile 160 TL arasında büyük bir değişkenlik gösteriyor.",
       "content": "Haber Merkizi / Tarımsal ürün piyasalarında üreticiden tüketiciye ulaşan süreçte fiyat farklılıkları dikkat çekmeye devam ediyor. Özellikle Taşköprü sarımsağı gibi coğrafi işaret potansiyeli taşıyan ürünler ile standart üretim sarımsaklar arasındaki fiyat farkı, piyasadaki \"kalite ve bölge\" ayrımını gözler önüne seriyor.\n\nFiyatlar 60 TL'den Başlıyor, 160 TL'ye Çıkıyor\n\nPiyasadaki güncel satış ilanları incelendiğinde;\n\nEn uygun fiyatlı ürünler: Gaziantep (Araban) ve Şanlıurfa (Haliliye) bölgelerinden gelen ilanlarda 60 TL - 65 TL bandında seyrediyor.\n\nOrta segment: Antalya (Serik) ve Konya (Seydişehir) bölgesinde sarımsak fiyatları 75 TL ile 120 TL arasında alıcı buluyor.\n\nZirve Taşköprü'de: Piyasanın en yüksek fiyatları ise Kastamonu bölgesinden geliyor. Hakiki Taşköprü sarımsağı ilanları, kalite ve yöresel marka değerine bağlı olarak 150 TL ile 160 TL arasında fiyatlanıyor.\n\n\"Kalite ve Bölge Algısı Fiyatı Belirliyor\"\n\nSektör temsilcileri, sarımsak fiyatlarındaki bu dengesizliğin temel nedenini \"coğrafi özellikler ve raf ömrü\" olarak açıklıyor. Özellikle Taşköprü sarımsağının kendine has aroması ve dayanıklılığı nedeniyle piyasada \"premium\" ürün olarak konumlandığı, buna karşın yerel üretimin yoğun olduğu bölgelerde ise fiyatın daha rekabetçi bir seviyede kaldığı gözlemleniyor.\n\nÜretici ve Alıcı İçin Not\n\nPiyasada 30 ton gibi yüksek stok bildiren üreticilerin varlığı, arzın belirli bölgelerde yoğunlaştığını gösteriyor. Ancak, farklı bölgelerden gelen ilanlar arasındaki uçurum, üreticilerin kendi bölgelerindeki fiyat rekabetini doğru analiz etmeleri gerektiğini bir kez daha hatırlatıyor."
-    },
-    {
-      "title": "Limon üreticisinden \"fiyat direnişi\": \"Maliyetler 80 TL, zararına satışa dur dedik\"",
-      "url": "https://www.tarimdanhaber.com/limon-ureticisinden-fiyat-direnisi-maliyetler-80-tl-zararina-satisa-dur-dedik",
-      "source": "Tarımdan Haber",
-      "date": "2026-07-05",
-      "summary": "Mersin ve Adana başta olmak üzere limon üretim merkezlerinde üreticiler, artan maliyetler ve piyasadaki düşük fiyat politikalarına karşı \"satmama\" kararı aldı. Üreticiler, maliyetlerin 75-80 TL bandında olduğunu vurgulayarak, 15 günlük bir bekleme süreciyle piyasadaki arzı kısıp fiyatları yukarı çek",
-      "content": "Haber Merkezi / Akdeniz havzasında limon hasadı ve pazarlama süreci, üretici ile alıcı arasında ciddi bir fiyat çatışmasına sahne oluyor. Sezon öncesi simsarlar tarafından Mayer limon için teklif edilen 15-20 TL bandındaki fiyatlar, üreticiler tarafından \"kabul edilemez\" bulunuyor.\n\n\"Maliyetimiz 80 TL, Bu Fiyata Satış Yok\"\n\nForum ve üretici birliklerinde bir araya gelen çiftçiler, ilaç, gübre, sulama ve işçilik giderlerinin üretimi sürdürülemez kıldığına dikkat çekiyor. Bir üretici yaptığı değerlendirmede, \"70-80 TL seviyesinde maliyetimiz varken, 15-20 TL teklifler üreticiyi bitirme noktasına getiriyor. Bahçesini sökmeyi düşünen çiftçilerimiz var,\" ifadelerini kullandı.\n\n\"Marketteki Fiyat ile Dalındaki Fiyat Uyuşmuyor\"\n\nMarket raflarında 90 TL ile 110 TL arasında değişen limon fiyatlarına dikkat çeken üreticiler, tüketicinin gördüğü fiyat ile kendilerine teklif edilen fiyat arasındaki uçurumun bir an önce düzeltilmesi gerektiğini belirtiyor. Uzman görüşü bildiren bazı üreticiler ise marketteki ürünlerin genellikle iç piyasaya giden 2. ve 3. kalite olduğunu, asıl ihracatlık ürünlerin değerinin çok daha yüksek olması gerektiğini hatırlatıyor.\n\n\"15 Gün Bekleyelim, Piyasayı Biz Belirleyelim\"\n\nÜreticiler arasında yayılan ortak görüş, önümüzdeki 15 gün boyunca mal satışını durdurarak fabrikaları ve alıcıları daha gerçekçi fiyatlara zorlamak yönünde. Depolardaki stokların azalması ve yeni sezon Mayer limonunun piyasaya girmesine yaklaşık 40 gün kalmış olması, üreticilerin elini güçlendiren en önemli unsurlar olarak öne çıkıyor.\n\nİhracat Beklentisi\n\nAdana ve Mersin bölgesindeki üreticiler, Irak ve Afrika pazarlarından gelen talebin Türkiye iç piyasasını da hareketlendireceğini öngörüyor. Bir ay içerisinde depolarda limon kalmayacağını savunan çiftçiler, sabırlı olmanın ve ürünü ucuza kaptırmamanın bu sezonun tek çıkar yolu olduğunu vurguluyor.\n\nÖzetle: Akdeniz limon piyasası şu günlerde \"sabır testi\"nden geçiyor. Üreticiler, piyasada oluşturulmaya çalışılan \"düşük fiyat algısına\" karşı birlik olma mesajı veriyor."
-    },
-    {
-      "title": "Güncel hububat fiyatları – Buğday, arpa ve mısır fiyatları 3 Temmuz 2026",
-      "url": "https://www.tarimdanhaber.com/hububat-fiyatlari",
-      "source": "Tarımdan Haber",
-      "date": "2026-07-05",
-      "summary": "Türkiye'nin önde gelen ticaret borsalarında oluşan günlük hububat fiyatları Tarımdan Haber'de tek sayfada güncelleniyor. Konya, Polatlı, Gaziantep, Edirne, Eskişehir başta olmak üzere birçok ticaret borsasında 3 Temmuz buğday, arpa, mısır ve diğer hububat ürünlerinde oluşan güncel fiyatları, ortalam",
-      "content": "Haber Merkezi / Türkiye'de hububat piyasasının nabzını tutan ticaret borsalarındaki günlük fiyatlar Tarımdan Haber'de anlık olarak güncelleniyor. Konya Ticaret Borsası, Polatlı Ticaret Borsası, Gaziantep Ticaret Borsası, Edirne Ticaret Borsası, Eskişehir Ticaret Borsası ve diğer borsalarda oluşan ekmeklik buğday, makarnalık buğday, arpa ve mısır fiyatlarını tek sayfadan takip edebilirsiniz. Sayfada ayrıca Türkiye genelindeki ticaret borsalarından derlenen günlük ortalama hububat fiyatları da yer almaktadır.\n\nKonya Ticaret Borsası Hububat Fiyatları - 3 Temmuz 2026\n\nMakarnalık Buğday: 14,55 TL/ton\n\nKırmızı Sert Ekmeklik Buğday: 15,53 TL/ton\n\nBeyaz Sert Ekmeklik Buğday: -\n\nKırmızı Diğer Ekmeklik Buğday: 15,13 TL/ton\n\nArpa: 11,59 TL/ton\n\nMısır (18 ve altı): 12,54 TL/ton\n\nMısır (18 Üstü):\n\nGaziantep Ticaret Borsası (GTB) Hububat Fiyatları – 3 Temmuz 2026\n\nSert Buğday (Güneydoğu-1. Grup): 15.800 TL - 16.000 TL\n\nSert Buğday (Güneydoğu - 2. Grup): 15,400 TL - 15,600 TL\n\nSert Buğday (Güneydoğu - 3. Grup): 14,800 TL - 15,200 TL\n\nEkmeklik Buğday ( 1. Grup): 15,600 TL - 15,800 TL\n\nEkmeklik Buğday (2. Grup): 15,100 TL - 15,300 TL\n\nEkmeklik Buğday (3. Grup): 14,800 TL - 15,000 TL\n\nBeyaz Arpa (İç Anadolu): 11,800 TL - 12,000 TL\n\nÇakır Arpa: 12,250 TL - 12,300 TL\n\nKırmızı Kabuklu Mercimek: 43,000 TL - 44,000 TL\n\nEdirne Ticaret Borsası Hububat Fiyatları 3 Temmuz 2026\n\n1. Sınıf Kırmızı Ekmeklik Buğday: 14,424 TL/ton\n\n2. Sınıf Kırmızı Ekmeklik Buğday: 13,793 TL/ton\n\n3. Sınıf Kırmızı Ekmeklik Buğday: 12,974 TL/ton\n\nDüşük Vasıflı Kırmızı Ekmeklik Buğday: 13,183 TL/ton\n\nStandart Dışı Kırmızı Ekmeklik Buğday: 12,850 TL/ton\n\n1. Grup Arpa: 11,360 TL/ton\n\n2. Grup Arpa: 11,253 TL/ton\n\nBarem Dışı Arpa: 10,020 TL/ton\n\nEskişehir Ticaret Borsası Hububat Fiyatları 3 Temmuz 2026\n\nBeyaz Arpa (1.Derece): 10,876 TL/ton\n\nArpa Yemlik: 10,559 TL/ton\n\nPolatlı Ticaret Borsası Hububat Fiyatları 3 Temmuz 2026\n\nKırmızı Ekmeklik Buğday (2.Derece): 14,48 TL/ton\n\nKırmızı Ekmeklik Buğday (3. Derece): 14,07 TL/ton\n\nDüşük Vasıflı Kırmızı Ekmeklik Buğday: 14,58 TL/ton\n\nStandart Dışı Buğday: 14,17 TL/ton\n\nBeyaz Arpa (1. Grup): 11,24 TL/ton\n\nBeyaz Arpa (2. Grup): 11,162 TL/ton\n\nStandart Dışı Arpa: 11,00 TL/ton\n\nHububat Piyasasında Günlük Fiyat Değişimleri (Haziran-Temmuz 2026)\n\nAşağıdaki fiyatlar, Türkiye genelindeki 15 büyük ticaret borsasının günlük kapanış verileri esas alınarak hesaplanmış ortalama değerlerdir.\n\n3 Temmuz 2026:\n\nE. Buğday: 14.777 TL | M. Buğday: 15.293 TL | Arpa: 11.588 TL | Mısır: 12.649 TL\n\n2 Temmuz 2026:\n\nE. Buğday: 14.305 TL | M. Buğday: 15.434 TL | Arpa: 11.914 TL | Mısır: 12.586 TL\n\n1 Temmuz 2026:\n\nE. Buğday: 14.554 TL | M. Buğday: 15.509 TL | Arpa: 11.317 TL | Mısır: 13.259 TL\n\n30 Haziran 2026:\n\nE. Buğday: 14.385 TL | M. Buğday: 15.075 TL | Arpa: 11.331 TL | Mısır: 12.422 TL\n\n29 Haziran 2026:\n\nE. Buğday: 14.757 TL | M. Buğday: 15.309 TL | Arpa: 11.326 TL | Mısır: 13.055 TL\n\n26 Haziran 2026:\n\nE. Buğday: 14.643 TL | M. Buğday: 15.073 TL | Arpa: 11.455 TL | Mısır: 13.039 TL\n\n25 Haziran 2026:\n\nE. Buğday: 14.790 TL | M. Buğday: 15.550 TL | Arpa: 11.320 TL | Mısır: 13.250 TL\n\n24 Haziran 2026:\n\nE. Buğday: 14.660 TL | M. Buğday: 15.270 TL | Arpa: 11.530 TL | Mısır: 13.160 TL\n\n23 Haziran 2026:\n\nE. Buğday: 14.690 TL | M. Buğday: 15.210 TL | Arpa: 11.940 TL | Mısır: 13.250 TL\n\n22 Haziran 2026:\n\nE. Buğday: 14.920 TL | M. Buğday: 15.550 TL | Arpa: 11.580 TL | Mısır: 13.010 TL\n\n19 Haziran 2026:\n\nE. Buğday: 14.760 TL | M. Buğday: 15.680 TL | Arpa: 11.650 TL | Mısır: 12,640 TL\n\n18 Haziran 2026:\n\nE. Buğday: 14.802 TL | M. Buğday: 15.626 TL | Arpa: 11.909 TL | Mısır: 13,401 TL\n\n17 Haziran 2026:\n\nE. Buğday: 14.976 TL | M. Buğday: 15.697 TL | Arpa: 12.159 TL | Mısır: 13,474 TL"
     }
   ],
   "commoditiesByBorsa": {
