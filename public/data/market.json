@@ -1,26 +1,26 @@
 {
-  "updatedAt": "2026-07-06T01:24:47.246Z",
+  "updatedAt": "2026-07-06T06:00:21.146Z",
   "fx": [
     {
       "code": "USD",
       "name": "Dolar",
-      "buy": 46.81,
-      "sell": 46.83,
+      "buy": 46.82,
+      "sell": 46.82,
       "change": 0.02
     },
     {
       "code": "EUR",
       "name": "Euro",
-      "buy": 53.51,
-      "sell": 53.61,
-      "change": -0.01
+      "buy": 53.52,
+      "sell": 53.56,
+      "change": -0.04
     },
     {
       "code": "GRA",
       "name": "Gram Altın",
-      "buy": 6295.87,
-      "sell": 6296.63,
-      "change": 0.3
+      "buy": 6246.16,
+      "sell": 6247.12,
+      "change": -0.49
     },
     {
       "code": "CEYREKALTIN",
@@ -38,6 +38,14 @@
     }
   ],
   "news": [
+    {
+      "title": "Tarım Bakanından yakın ekibine talimat: \"Bir daha O'nunla ilgili bana birşey getirmeyin\"",
+      "url": "https://www.tarimdanhaber.com/tarim-bakanindan-yakin-ekibine-talimat-bir-daha-onunla-ilgili-bana-birsey-getirmeyin",
+      "source": "Tarımdan Haber",
+      "date": "2026-07-06",
+      "summary": "Tarım ve Orman Bakanlığı'nın en kritik birimlerinden biri olan Tarım Reformu Genel Müdürlüğü'nde kazan kaynıyor. Koridorlarda artık idari sorunlar değil, \"otorite boşluğu\" ve \"dokunulmazlık\" tartışmaları konuşuluyor.",
+      "content": "Kulis Masası / Tarım Reformu Genel Müdürlüğü bünyesinde yaşanan iş akışı krizleri ve kurumsal yapıdaki kopukluklar, artık sadece birim içi bir mesele olmaktan çıkıp Bakanlık merkez binasının ana gündemi haline geldi. İddialara göre, Genel Müdürlük makamı ile yardımcıları arasındaki iletişim kanalları tamamen tıkanmış durumda.\n\nİlgili Haber → Kim bu Genel Müdür? '2028’e kadar yerimdeyim' dedi, Tarım Bakanlığını karıştırdı!\n\nBakanlığın \"Kırılma Noktası\": Osman Yıldız Dosyası\n\nBakanlık kulislerine yansıyan bilgiler oldukça çarpıcı. Genel Müdür Osman Yıldız ile ilgili şikayetlerin ardı arkası kesilmiyor. İddiaya göre, kurumsal işleyişten memnun olmayan çevreler ve bürokratik kademedeki huzursuzluklar, bizzat Bakan İbrahim Yumaklı’ya raporlanıyor. Ancak tablo, klasik bir hiyerarşik yapıdan farklı bir noktaya evrilmiş durumda.\n\n\"Bir Daha Önüme Getirmeyin!\"\n\nBakanlık çevrelerinde konuşulan en \"derin\" kulis ise Bakan Yumaklı’nın tutumu üzerine. Kulislerde dolaşan bilgilere göre, Osman Yıldız hakkında kendisine iletilen şikayetlerden bunalan Bakan Yumaklı’nın, yakın çevresine \"Bu konuyla ilgili bir daha önüme bir şey getirmeyin\" diyerek dosyayı kapattığı konuşuluyor.\n\nBu çıkış, Tarım Bakanlığı bürokrasisinde iki farklı şekilde yorumlanıyor:\n\nBir kesim, Yıldız’ın üzerinde \"görünmez bir zırh\" olduğunu ve Bakan’ın dahi bu zırhı aşmakta zorlandığını iddia ederken, ağırlıklı bir kesim ise 'siyasi denge ve 'beka' kaygısından dolayı Bakan Yumaklı'nın sorunu görmezden gelmek zorunda olduğuna dikkat çekiyor.\n\nTarım Reformu Genel Müdürü Osman Yıldız ile ilgili iç bünyede yaşanan sorunlar ve Bakan Yumaklı'nın gelen şikayetler karşısındaki yaklaşımı, aslında Tarım Bakanlığında kararların güç dengesine göre nasıl şekillendiğini de gözler önüne seriyor.\n\nBakan Yumaklı’nın \"görmezden gelme\" stratejisi, bürokraside \"sorun çözücü\" değil, \"sorunu öteleyici\" bir yaklaşım olarak değerlendirilirken, Bakanlık binasında şu soru yüksek sesle soruluyor:\n\n\"Tarım Reformu’nun tepesindeki bu düğümü Bakan çözemiyorsa, kurum içerisindeki bu dağınıklığı kim toparlayacak?\""
+    },
     {
       "title": "Hatay Büyükşehir 151 Üreticiye Ayçiçeği Tohumu Desteği Sağladı",
       "url": "https://www.tarimpusulasi.com/haber/hatay-buyuksehir-151-ureticiye-aycicegi-tohumu-destegi-sagladi-46999",
@@ -125,14 +133,6 @@
       "date": "2026-07-05",
       "summary": "Türkiye'nin önde gelen ticaret borsalarında oluşan günlük hububat fiyatları Tarımdan Haber'de tek sayfada güncelleniyor. Konya, Polatlı, Gaziantep, Edirne, Eskişehir başta olmak üzere birçok ticaret borsasında 3 Temmuz buğday, arpa, mısır ve diğer hububat ürünlerinde oluşan güncel fiyatları, ortalam",
       "content": "Haber Merkezi / Türkiye'de hububat piyasasının nabzını tutan ticaret borsalarındaki günlük fiyatlar Tarımdan Haber'de anlık olarak güncelleniyor. Konya Ticaret Borsası, Polatlı Ticaret Borsası, Gaziantep Ticaret Borsası, Edirne Ticaret Borsası, Eskişehir Ticaret Borsası ve diğer borsalarda oluşan ekmeklik buğday, makarnalık buğday, arpa ve mısır fiyatlarını tek sayfadan takip edebilirsiniz. Sayfada ayrıca Türkiye genelindeki ticaret borsalarından derlenen günlük ortalama hububat fiyatları da yer almaktadır.\n\nKonya Ticaret Borsası Hububat Fiyatları - 3 Temmuz 2026\n\nMakarnalık Buğday: 14,55 TL/ton\n\nKırmızı Sert Ekmeklik Buğday: 15,53 TL/ton\n\nBeyaz Sert Ekmeklik Buğday: -\n\nKırmızı Diğer Ekmeklik Buğday: 15,13 TL/ton\n\nArpa: 11,59 TL/ton\n\nMısır (18 ve altı): 12,54 TL/ton\n\nMısır (18 Üstü):\n\nGaziantep Ticaret Borsası (GTB) Hububat Fiyatları – 3 Temmuz 2026\n\nSert Buğday (Güneydoğu-1. Grup): 15.800 TL - 16.000 TL\n\nSert Buğday (Güneydoğu - 2. Grup): 15,400 TL - 15,600 TL\n\nSert Buğday (Güneydoğu - 3. Grup): 14,800 TL - 15,200 TL\n\nEkmeklik Buğday ( 1. Grup): 15,600 TL - 15,800 TL\n\nEkmeklik Buğday (2. Grup): 15,100 TL - 15,300 TL\n\nEkmeklik Buğday (3. Grup): 14,800 TL - 15,000 TL\n\nBeyaz Arpa (İç Anadolu): 11,800 TL - 12,000 TL\n\nÇakır Arpa: 12,250 TL - 12,300 TL\n\nKırmızı Kabuklu Mercimek: 43,000 TL - 44,000 TL\n\nEdirne Ticaret Borsası Hububat Fiyatları 3 Temmuz 2026\n\n1. Sınıf Kırmızı Ekmeklik Buğday: 14,424 TL/ton\n\n2. Sınıf Kırmızı Ekmeklik Buğday: 13,793 TL/ton\n\n3. Sınıf Kırmızı Ekmeklik Buğday: 12,974 TL/ton\n\nDüşük Vasıflı Kırmızı Ekmeklik Buğday: 13,183 TL/ton\n\nStandart Dışı Kırmızı Ekmeklik Buğday: 12,850 TL/ton\n\n1. Grup Arpa: 11,360 TL/ton\n\n2. Grup Arpa: 11,253 TL/ton\n\nBarem Dışı Arpa: 10,020 TL/ton\n\nEskişehir Ticaret Borsası Hububat Fiyatları 3 Temmuz 2026\n\nBeyaz Arpa (1.Derece): 10,876 TL/ton\n\nArpa Yemlik: 10,559 TL/ton\n\nPolatlı Ticaret Borsası Hububat Fiyatları 3 Temmuz 2026\n\nKırmızı Ekmeklik Buğday (2.Derece): 14,48 TL/ton\n\nKırmızı Ekmeklik Buğday (3. Derece): 14,07 TL/ton\n\nDüşük Vasıflı Kırmızı Ekmeklik Buğday: 14,58 TL/ton\n\nStandart Dışı Buğday: 14,17 TL/ton\n\nBeyaz Arpa (1. Grup): 11,24 TL/ton\n\nBeyaz Arpa (2. Grup): 11,162 TL/ton\n\nStandart Dışı Arpa: 11,00 TL/ton\n\nHububat Piyasasında Günlük Fiyat Değişimleri (Haziran-Temmuz 2026)\n\nAşağıdaki fiyatlar, Türkiye genelindeki 15 büyük ticaret borsasının günlük kapanış verileri esas alınarak hesaplanmış ortalama değerlerdir.\n\n3 Temmuz 2026:\n\nE. Buğday: 14.777 TL | M. Buğday: 15.293 TL | Arpa: 11.588 TL | Mısır: 12.649 TL\n\n2 Temmuz 2026:\n\nE. Buğday: 14.305 TL | M. Buğday: 15.434 TL | Arpa: 11.914 TL | Mısır: 12.586 TL\n\n1 Temmuz 2026:\n\nE. Buğday: 14.554 TL | M. Buğday: 15.509 TL | Arpa: 11.317 TL | Mısır: 13.259 TL\n\n30 Haziran 2026:\n\nE. Buğday: 14.385 TL | M. Buğday: 15.075 TL | Arpa: 11.331 TL | Mısır: 12.422 TL\n\n29 Haziran 2026:\n\nE. Buğday: 14.757 TL | M. Buğday: 15.309 TL | Arpa: 11.326 TL | Mısır: 13.055 TL\n\n26 Haziran 2026:\n\nE. Buğday: 14.643 TL | M. Buğday: 15.073 TL | Arpa: 11.455 TL | Mısır: 13.039 TL\n\n25 Haziran 2026:\n\nE. Buğday: 14.790 TL | M. Buğday: 15.550 TL | Arpa: 11.320 TL | Mısır: 13.250 TL\n\n24 Haziran 2026:\n\nE. Buğday: 14.660 TL | M. Buğday: 15.270 TL | Arpa: 11.530 TL | Mısır: 13.160 TL\n\n23 Haziran 2026:\n\nE. Buğday: 14.690 TL | M. Buğday: 15.210 TL | Arpa: 11.940 TL | Mısır: 13.250 TL\n\n22 Haziran 2026:\n\nE. Buğday: 14.920 TL | M. Buğday: 15.550 TL | Arpa: 11.580 TL | Mısır: 13.010 TL\n\n19 Haziran 2026:\n\nE. Buğday: 14.760 TL | M. Buğday: 15.680 TL | Arpa: 11.650 TL | Mısır: 12,640 TL\n\n18 Haziran 2026:\n\nE. Buğday: 14.802 TL | M. Buğday: 15.626 TL | Arpa: 11.909 TL | Mısır: 13,401 TL\n\n17 Haziran 2026:\n\nE. Buğday: 14.976 TL | M. Buğday: 15.697 TL | Arpa: 12.159 TL | Mısır: 13,474 TL"
-    },
-    {
-      "title": "IFPRI: Hürmüz Boğazı krizi mısır ve buğday ekimini azaltabilir",
-      "url": "https://www.tarimpusulasi.com/haber/ifpri-hurmuz-bogazi-krizi-misir-ve-bugday-ekimini-azaltabilir-46994",
-      "source": "Tarım Pusulası",
-      "date": "2026-07-05",
-      "summary": "Uluslararası Gıda Politikaları Araştırma Enstitüsü (IFPRI), İran'daki savaş ve Hürmüz Boğazı'nda ticari taşımacılığın büyük ölçüde durmasının gübre maliyetlerini artırdığını, bunun da 2026 yılında mısır ve buğday ekim alanlarında daralmaya yol açabileceğini açıkladı. Analize göre gelişme, küresel ta",
-      "content": "ANKARA — İran'da yaşanan savaşın ardından Hürmüz Boğazı'nda ticari gemi trafiğinin büyük ölçüde durması, küresel gübre tedarik zincirini olumsuz etkilerken bunun tarımsal üretime de yansıması bekleniyor. Uluslararası Gıda Politikaları Araştırma Enstitüsü (IFPRI), Nisan ayında yayımladığı analizde, artan gübre maliyetleri nedeniyle çiftçilerin daha fazla azotlu gübre gerektiren ürünlerden uzaklaşabileceğini bildirdi.\n\nIFPRI'ye göre 2026 yılında mısır ve buğday ekim alanlarının bir önceki yıla göre yaklaşık %3 azalması bekleniyor. Buna karşılık daha düşük sentetik azot ihtiyacı bulunan soya fasulyesine yönelişin hız kazanabileceği değerlendiriliyor.\n\nABD Tarım Bakanlığı'nın (USDA) mart ayının ikinci haftasında hazırladığı ekim tahminlerinde soya ekim alanlarının yıllık bazda %4 artacağı öngörülmüştü. Ancak IFPRI araştırmacıları, nisan ve mayıs aylarında gübre fiyatlarında görülen ilave yükselişlerin USDA projeksiyonlarına tam olarak yansımamış olabileceğini belirtiyor. Bu nedenle ekim desenindeki değişimin açıklanan tahminlerden daha büyük olabileceği ifade ediliyor.\n\nKrizin temel nedeni ise Hürmüz Boğazı'nın küresel enerji ve gübre ticaretindeki kritik konumu olarak gösteriliyor. Normal koşullarda dünya gübre ticaretinin yaklaşık %30'u, sıvılaştırılmış doğal gaz (LNG) ticaretinin yaklaşık %20'si ve deniz yoluyla taşınan ham petrolün yaklaşık %27'si bu güzergâhtan geçiyor. Doğal gaz ise azotlu gübre üretiminin en önemli hammaddeleri arasında bulunuyor.\n\nBirleşmiş Milletler'in değerlendirmesine göre petrol fiyatlarının 2026 yılı haziran ayına kadar varil başına 100 doların üzerinde kalması halinde dünya genelinde akut gıda güvensizliği yaşayan kişi sayısı 45 milyon artabilir. Riskin özellikle Sahra Altı Afrika ile Güney Asya ülkelerinde daha belirgin olacağı öngörülüyor.\n\nAnalizde örnek olarak Etiyopya gösteriliyor. Ülkenin azotlu gübre ihtiyacının %90'dan fazlası Basra Körfezi üzerinden Cibuti Limanı aracılığıyla karşılanıyor. Savaş nedeniyle bu tedarik zincirinin önemli ölçüde aksadığı belirtiliyor.\n\nÖte yandan Uluslararası Gübre Üreticileri Birliği'nin (IFA) kısa vadeli görünüm raporuna göre küresel azotlu gübre üretim kapasitesinin 2026 yılında 2024 seviyesine göre %4, fosfat ve potasyumlu gübre kapasitesinin ise %5 artması bekleniyor. Bu artışın, çatışma öncesinde planlanan yeni tesis yatırımlarından kaynaklandığı ifade ediliyor.\n\nAncak IFPRI uzmanları, üretim kapasitesindeki bu yükselişin özellikle Kuzey Yarımküre'de ekim sezonunun devam ettiği mevcut dönemde yaşanan arz kesintilerini kısa vadede telafi etmeye yetmeyeceğini vurguluyor.\n\nAnalizde ayrıca Çin'in azotlu gübre üretiminde doğal gaz yerine büyük ölçüde kömür kullanması nedeniyle Körfez kaynaklı doğal gaz arzındaki kesintilerden daha sınırlı etkilendiği belirtiliyor. Bununla birlikte uzun vadede kömür kullanımının artmasının iklim değişikliği açısından olumsuz sonuçlar doğurabileceği uyarısı yapılıyor.\n\nTürkiye açısından değerlendirildiğinde ise uluslararası gübre piyasalarında yaşanabilecek fiyat artışları, ithalata bağımlı gübre tedariki nedeniyle üretim maliyetlerini etkileyebilecek önemli riskler arasında bulunuyor. Gübre maliyetlerindeki olası yükselişin özellikle hububat üretim sezonunda çiftçilerin girdi maliyetlerini artırabileceği değerlendiriliyor. Ancak IFPRI raporunda Türkiye'ye ilişkin doğrudan bir tahmin veya veri yer almıyor.\n\nTARIM PUSULASI HABER MERKEZİ"
     }
   ],
   "commoditiesByBorsa": {
