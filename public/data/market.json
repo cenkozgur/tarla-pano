@@ -1,40 +1,40 @@
 {
-  "updatedAt": "2026-07-06T21:01:46.365Z",
+  "updatedAt": "2026-07-06T22:20:05.239Z",
   "fx": [
     {
       "code": "USD",
       "name": "Dolar",
-      "buy": 46.8,
-      "sell": 46.84,
-      "change": 0.02
+      "buy": 468019,
+      "sell": 46844,
+      "change": 1
     },
     {
       "code": "EUR",
       "name": "Euro",
-      "buy": 53.55,
-      "sell": 53.64,
-      "change": 0.06
+      "buy": 535762,
+      "sell": 536574,
+      "change": 4
     },
     {
       "code": "GRA",
       "name": "Gram Altın",
-      "buy": 6268.6,
-      "sell": 6269.71,
-      "change": -0.13
+      "buy": 627243,
+      "sell": 627359,
+      "change": 6
     },
     {
       "code": "CEYREKALTIN",
       "name": "Çeyrek Altın",
-      "buy": 9965.17,
-      "sell": 10193.01,
-      "change": -1.09
+      "buy": 996517,
+      "sell": 1019301,
+      "change": 0
     },
     {
       "code": "CUMHURIYETALTINI",
       "name": "Cumhuriyet Altını",
       "buy": 41417,
       "sell": 42049,
-      "change": -0.9
+      "change": -9
     }
   ],
   "news": [
@@ -44,7 +44,7 @@
       "source": "Tarım Pusulası",
       "date": "2026-07-06",
       "summary": "Ari işletme belgesinin iptal edilmesine tepki gösteren Feyz Çiftliği sahibi Sencer Solakoğlu, tüm işlemleri İl Tarım ve Orman Müdürlüğünün yönlendirmeleri doğrultusunda yaptıklarını belirterek, \"Bizim suçumuz onların dediğini yapmak mı?\" ifadelerini kullandı.",
-      "content": "BURSA — Bursa'da faaliyet gösteren Feyz Çiftliği'nin sahibi Sencer Solakoğlu, sosyal medya hesabından yayımladığı videoda \"Hastalıktan Ari İşletme\" belgesinin kapsamı, alınma süreci ve halk sağlığı açısından önemine ilişkin değerlendirmelerde bulundu.\n\nSolakoğlu, hastalıktan ari işletmelerin tüberküloz ve brusella gibi insanlara da bulaşabilen zoonoz hastalıklardan arındırılmış işletmeler olduğunu belirterek, özellikle çiğ süt tüketiminde bu belgenin önemli bir güvence sağladığını söyledi.\n\nYaklaşık 15 yıldır hastalıktan ari işletme belgesine sahip olduklarını ifade eden Solakoğlu, belgenin her yıl yapılan resmi kontroller sonucunda yenilendiğini aktardı. Buna göre Tarım ve Orman Bakanlığı yetkilileri işletmedeki tüm hayvanlardan kan örnekleri alıyor, ayrıca tüberküloz testleri gerçekleştiriyor. Yapılan kontrollerde tek bir hayvanda pozitif sonucun tespit edilmesi halinde işletmenin hastalıktan ari statüsünü kaybedebildiğini söyledi.\n\nSolakoğlu, hastalıktan ari işletmelerde üretilen sütün yalnızca yağ ve protein değerleriyle değerlendirilmemesi gerektiğini belirterek, mikrobiyolojik temizliğin de süt kalitesinin temel unsurlarından biri olduğunu ifade etti.\n\nHayvan refahı, hijyen ve düzenli sağlık kontrollerinin süt güvenliğinde belirleyici olduğunu vurgulayan Solakoğlu, sağlıklı hayvanlardan elde edilen sütün tüketici açısından daha güvenli olduğunu dile getirdi.\n\nKonuşmasında tüketicilere de çağrıda bulunan Solakoğlu, ailelerin satın aldıkları sütün hastalıktan ari işletmelerden üretilip üretilmediğini sorgulamalarını önerdi. Ari işletme belgesinin yalnızca üretim kalitesini değil, aynı zamanda halk sağlığını korumaya yönelik bir güvence niteliği taşıdığını ifade etti.\n\nTürkiye'de hastalıktan ari işletme sistemi, Tarım ve Orman Bakanlığı tarafından yürütülen resmi kontroller kapsamında uygulanıyor. Belgelendirme sürecinde işletmeler düzenli sağlık taramalarından geçirilirken, tüberküloz ve brusella başta olmak üzere belirli hastalıklar yönünden izleniyor. Ari işletme statüsünün korunabilmesi için kontrollerin her yıl başarıyla tamamlanması gerekiyor.\n\nTARIM PUSULASI HABER MERKEZİ"
+      "content": "BURSA — Bursa'daki Feyz Çiftliği'nin sahibi Sencer Solakoğlu, yaklaşık 15 yıldır sahip oldukları Hastalıktan Ari İşletme ve AB normlarında üretim sertifikalarının iptal edilmesine tepki göstererek, iptal gerekçesinin aynı çiftlik içerisindeki iki ahır arasında yapılan hayvan transferleri olduğunu söyledi.\n\nSertifikaların, herhangi bir hastalık tespit edilmesi nedeniyle değil, yıllardır aynı şekilde uygulanan işletme içi hayvan hareketleri gerekçe gösterilerek iptal edildiğini savunan Solakoğlu, bu uygulamanın da Bursa İl Tarım ve Orman Müdürlüğü personelinin yönlendirmesiyle gerçekleştirildiğini öne sürdü.\n\n\"Hiçbir eksik bulamadılar. Buldukları tek eksik, aynı çiftlik sınırları içindeki bir ahırdan diğer ahıra yaptığım hayvan transferi.\"\n\nSolakoğlu, söz konusu uygulamanın yeni olmadığını belirterek, 2021'den bu yana her yıl aynı yöntemi kullandıklarını söyledi.\n\n\"Tarım İl Müdürlüğü personeli, 'Her transferde yeniden kan almaya gerek yok. Siz normal değişikliklerinizi yapın, biz yılda bir kez gelip bütün hayvanlardan kan alıyor, testlerini yapıyoruz' dedi. 2021'de, 2022'de, 2023'te, 2024'te ve 2025'te onların önerdiği şekilde yaptığımız uygulamanın bu yıl yanlış olduğuna karar verdiler ve sadece bu nedenle sertifikalarımızı iptal ettiler.\"\n\nİşletmede herhangi bir bulaşıcı hastalık bulunmadığını ileri süren Solakoğlu, yapılan testlerde de hastalık tespit edilmediğini iddia etti.\n\n\"Hastalık varmış gibi yazılar yazıyorlar ama yok. Test de yaptılar, hastalık falan yok.\"\n\nSürecin haksız olduğunu savunan Solakoğlu, İl Tarım ve Orman Müdürlüğünün yönlendirmelerine uymalarının bugün aleyhlerine kullanıldığını ifade etti.\n\n\"Tarım İl Müdürlüğü ne diyorsa onu yaptık. Onlar bu şekilde yapmamızı öngördü. Yıllardır da bu şekilde yaptıysak, bizim suçumuz ne deniyorsa onu yapmak oldu.\"\n\nKonuşmasında denetimler sırasında yaşandığını öne sürdüğü bir olaya da değinen Solakoğlu, Tarım ve Orman Bakanlığı personelinin yaptığı uygulama sırasında bir hayvanın ezilerek öldüğünü iddia ettiğini, bu konuda daha önce uyarıda bulunduklarını ancak dikkate alınmadıklarını söyledi.\n\nSolakoğlu, sertifikalarının iptal edilmesinin teknik gerekçelerden ziyade siyasi nedenlerle gerçekleştiğini de iddia ederek, hükümetin tarım politikalarını ve gıda enflasyonuna ilişkin uygulamalarını eleştirdi. Bu değerlendirmelerinde, üreticilerin desteklenmesi gerektiğini savunurken, mevcut tarım politikalarının gıda enflasyonunu düşürmediğini öne sürdü.\n\nTarım ve Orman Bakanlığı ile Bursa İl Tarım ve Orman Müdürlüğünden, Solakoğlu'nun sertifikalarının iptal gerekçesi ve açıklamalarına ilişkin haberin yayına hazırlandığı saate kadar kamuoyuna yapılmış bir değerlendirme bulunmadı.\n\nTARIM PUSULASI HABER MERKEZİ"
     },
     {
       "title": "25 yıllık biçerdöver operatörü: \"İlk kez böyle arpa biçiyorum\"",
