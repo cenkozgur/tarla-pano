@@ -1,26 +1,26 @@
 {
-  "updatedAt": "2026-07-06T19:06:19.147Z",
+  "updatedAt": "2026-07-06T21:01:46.365Z",
   "fx": [
     {
       "code": "USD",
       "name": "Dolar",
       "buy": 46.8,
-      "sell": 46.81,
-      "change": -0.01
+      "sell": 46.84,
+      "change": 0.02
     },
     {
       "code": "EUR",
       "name": "Euro",
-      "buy": 53.58,
-      "sell": 53.6,
-      "change": 0.05
+      "buy": 53.55,
+      "sell": 53.64,
+      "change": 0.06
     },
     {
       "code": "GRA",
       "name": "Gram Altın",
-      "buy": 6262.54,
-      "sell": 6263.38,
-      "change": -0.23
+      "buy": 6268.6,
+      "sell": 6269.71,
+      "change": -0.13
     },
     {
       "code": "CEYREKALTIN",
@@ -38,6 +38,14 @@
     }
   ],
   "news": [
+    {
+      "title": "Sencer Solakoğlu: \"Bizim Suçumuz İl Müdürlüğünün Dediğini Yapmak mı?\"",
+      "url": "https://www.tarimpusulasi.com/haber/sencer-solakoglu-bizim-sucumuz-il-mudurlugunun-dedigini-yapmak-mi-47008",
+      "source": "Tarım Pusulası",
+      "date": "2026-07-06",
+      "summary": "Ari işletme belgesinin iptal edilmesine tepki gösteren Feyz Çiftliği sahibi Sencer Solakoğlu, tüm işlemleri İl Tarım ve Orman Müdürlüğünün yönlendirmeleri doğrultusunda yaptıklarını belirterek, \"Bizim suçumuz onların dediğini yapmak mı?\" ifadelerini kullandı.",
+      "content": "BURSA — Bursa'da faaliyet gösteren Feyz Çiftliği'nin sahibi Sencer Solakoğlu, sosyal medya hesabından yayımladığı videoda \"Hastalıktan Ari İşletme\" belgesinin kapsamı, alınma süreci ve halk sağlığı açısından önemine ilişkin değerlendirmelerde bulundu.\n\nSolakoğlu, hastalıktan ari işletmelerin tüberküloz ve brusella gibi insanlara da bulaşabilen zoonoz hastalıklardan arındırılmış işletmeler olduğunu belirterek, özellikle çiğ süt tüketiminde bu belgenin önemli bir güvence sağladığını söyledi.\n\nYaklaşık 15 yıldır hastalıktan ari işletme belgesine sahip olduklarını ifade eden Solakoğlu, belgenin her yıl yapılan resmi kontroller sonucunda yenilendiğini aktardı. Buna göre Tarım ve Orman Bakanlığı yetkilileri işletmedeki tüm hayvanlardan kan örnekleri alıyor, ayrıca tüberküloz testleri gerçekleştiriyor. Yapılan kontrollerde tek bir hayvanda pozitif sonucun tespit edilmesi halinde işletmenin hastalıktan ari statüsünü kaybedebildiğini söyledi.\n\nSolakoğlu, hastalıktan ari işletmelerde üretilen sütün yalnızca yağ ve protein değerleriyle değerlendirilmemesi gerektiğini belirterek, mikrobiyolojik temizliğin de süt kalitesinin temel unsurlarından biri olduğunu ifade etti.\n\nHayvan refahı, hijyen ve düzenli sağlık kontrollerinin süt güvenliğinde belirleyici olduğunu vurgulayan Solakoğlu, sağlıklı hayvanlardan elde edilen sütün tüketici açısından daha güvenli olduğunu dile getirdi.\n\nKonuşmasında tüketicilere de çağrıda bulunan Solakoğlu, ailelerin satın aldıkları sütün hastalıktan ari işletmelerden üretilip üretilmediğini sorgulamalarını önerdi. Ari işletme belgesinin yalnızca üretim kalitesini değil, aynı zamanda halk sağlığını korumaya yönelik bir güvence niteliği taşıdığını ifade etti.\n\nTürkiye'de hastalıktan ari işletme sistemi, Tarım ve Orman Bakanlığı tarafından yürütülen resmi kontroller kapsamında uygulanıyor. Belgelendirme sürecinde işletmeler düzenli sağlık taramalarından geçirilirken, tüberküloz ve brusella başta olmak üzere belirli hastalıklar yönünden izleniyor. Ari işletme statüsünün korunabilmesi için kontrollerin her yıl başarıyla tamamlanması gerekiyor.\n\nTARIM PUSULASI HABER MERKEZİ"
+    },
     {
       "title": "25 yıllık biçerdöver operatörü: \"İlk kez böyle arpa biçiyorum\"",
       "url": "https://www.tarimpusulasi.com/haber/25-yillik-bicerdover-operatoru-ilk-kez-boyle-arpa-biciyorum-47007",
@@ -125,14 +133,6 @@
       "date": "2026-07-06",
       "summary": "Türkiye Fıstık Üreticileri Merkez Birliği Başkanı Faruk Akbaş, Şanlıurfa'dan yaptığı açıklamada, kuraklığın ardından bu yıl da üreticilerin düşük fiyatlar ve ithalat nedeniyle ekonomik baskı altında kaldığını belirterek, yerli üreticiyi destekleyecek adımlar atılması çağrısında bulundu.",
       "content": "ŞANLIURFA — Türkiye Fıstık Üreticileri Merkez Birliği Başkanı Faruk Akbaş, Şanlıurfa'da yaptığı açıklamada fıstık üreticilerinin son iki sezondur yaşadığı ekonomik sorunlara dikkat çekerek, ithalat politikalarının yeniden değerlendirilmesini istedi.\n\nCumhurbaşkanı Recep Tayyip Erdoğan ve Tarım ve Orman Bakanı İbrahim Yumaklı'ya seslenen Akbaş, üreticilerin uzun süredir ekonomik baskı altında bulunduğunu belirterek, fıstık üreticilerinin desteklenmesi çağrısında bulundu.\n\nAkbaş'ın açıklamasına göre, 2024 sezonunda yaşanan kuraklık nedeniyle birçok bahçede ağaçlar zarar gördü. Aynı dönemde fıstık fiyatlarında görülen yükselişin ardından ithalatın devreye alınmasının iç piyasadaki fiyatları olumsuz etkilediğini savundu.\n\nBu sezon ise geçen yıl yaşanan kuraklığın etkilerinin üretime yansıdığını ifade eden Akbaş, hasadın beklenen seviyeye ulaşmadığını söyledi. Buna rağmen üreticilerin halen önceki sezondan kalan ürünlerini istedikleri fiyatlardan satamadığını dile getirdi.\n\nYeni hasat döneminin başladığını belirten Akbaş, geçen yıldan kalan ürünler satılamadan yeni sezon ürünlerinin de düşük fiyatlarla alıcı bulmasından endişe duyduklarını ifade etti.\n\nAkbaş, ithal edilen ürünlerin yerli üreticinin pazardaki rekabet gücünü olumsuz etkilediğini öne sürerek, yerli üretimin korunmasına yönelik tedbirlerin artırılması gerektiğini söyledi.\n\nÜreticilerin artan maliyetler ve gelir kaybı nedeniyle zor bir süreçten geçtiğini belirten Akbaş, ithalat politikalarının gözden geçirilmesi ve üreticilerin ürünlerini hak ettikleri değerden satabilecekleri bir piyasa yapısının oluşturulmasını talep etti.\n\nAçıklamasının sonunda yetkililere çağrıda bulunan Akbaş, mevcut koşulların devam etmesi halinde birçok üreticinin üretime devam etmekte zorlanacağını ifade etti.\n\nTARIM PUSULASI HABER MERKEZİ"
-    },
-    {
-      "title": "Karaman Ziraat Odası Başkanı Bayram: Kirazda yüksek rekolte üreticiyi kurtarmadı",
-      "url": "https://www.tarimpusulasi.com/haber/karaman-ziraat-odasi-baskani-bayram-kirazda-yuksek-rekolte-ureticiyi-kurtarmadi-47000",
-      "source": "Tarım Pusulası",
-      "date": "2026-07-06",
-      "summary": "Karaman Ziraat Odası Başkanı Mehmet Bayram, Karaman'daki kiraz bahçesinde yaptığı değerlendirmede, yüksek rekolteye rağmen üreticinin artan maliyetler ve düşük alım fiyatları nedeniyle gelir elde edemediğini söyledi. Bayram, kirazın dalda bırakılması ya da hasat edilmesi durumunda üreticinin zarar e",
-      "content": "KARAMAN — Karaman Ziraat Odası Başkanı Mehmet Bayram, kiraz hasat sezonuna ilişkin yaptığı değerlendirmede, bu yıl bahçelerde verimin yüksek olmasına rağmen üreticilerin ekonomik açıdan zor bir dönem geçirdiğini söyledi.\n\nKiraz bahçesinde yaptığı açıklamada geçen yıl birçok bölgede ürün bulunmadığını hatırlatan Bayram, bu sezon ise ağaçların meyveyle dolu olduğunu ancak üreticinin yüksek maliyetler nedeniyle gelir elde edemediğini ifade etti.\n\nBayram'ın verdiği bilgilere göre kirazın üretim maliyeti kilogram başına yaklaşık 35-40 lira seviyesine ulaştı. Buna hasat işçiliğinin de eklenmesiyle toplam maliyetin 85-90 liraya çıktığını belirten Bayram, üreticinin ürünü dalında bırakması halinde yaklaşık 40 lira, hasat ettirmesi halinde ise yaklaşık 85 lira zarar edebileceğini dile getirdi.\n\nKiraz hasadında işçiliğin en önemli gider kalemlerinden biri olduğuna dikkat çeken Bayram, profesyonel bir işçinin bodur kiraz bahçelerinde günde ortalama 40 kilogram ürün toplayabildiğini, bunun da üretim maliyetlerini önemli ölçüde artırdığını söyledi.\n\nBayram, Türkiye'nin kiraz üretiminde dünyanın önde gelen ülkeleri arasında bulunduğunu belirterek, yıllık üretimin yaklaşık 700-800 bin ton seviyesinde olduğunu ifade etti. Ancak yüksek üretime rağmen üreticinin beklediği ekonomik karşılığı alamadığını savundu.\n\nKaraman'ın Başyayla ve Kazımkarabekir ilçeleri başta olmak üzere birçok bölgede kirazın aynı dönemde hasat edildiğini belirten Bayram, ürünün ne erkenci ne de geç sezon ürünü olması nedeniyle pazarda fiyat baskısıyla karşı karşıya kaldığını söyledi.\n\nKirazın bahçeden tüketiciye ulaşıncaya kadar fiyatının önemli ölçüde arttığını dile getiren Bayram, üretici ile tüketici arasındaki fiyat farkının nedenlerinin değerlendirilmesi gerektiğini ifade etti.\n\nBayram, açıklamasını \"Bu yıl üreticilerimizin yardımcısı Allah olsun. Geçen yıl ürün yoktu, bu yıl ürün bol ancak üretici para kazanamıyor.\" sözleriyle tamamladı.\n\nTARIM PUSULASI HABER MERKEZİ"
     }
   ],
   "commoditiesByBorsa": {
