@@ -1,43 +1,67 @@
 {
-  "updatedAt": "2026-07-08T08:44:54.527Z",
+  "updatedAt": "2026-07-08T10:49:21.020Z",
   "fx": [
     {
       "code": "USD",
       "name": "Dolar",
-      "buy": 46.86,
-      "sell": 46.86,
-      "change": 0.02
+      "buy": 46855,
+      "sell": 468602,
+      "change": 2
     },
     {
       "code": "EUR",
       "name": "Euro",
-      "buy": 53.48,
-      "sell": 53.49,
-      "change": -0.02
+      "buy": 535063,
+      "sell": 535146,
+      "change": 3
     },
     {
       "code": "GRA",
       "name": "Gram Altın",
-      "buy": 6119.62,
-      "sell": 6120.5,
-      "change": -1.03
+      "buy": 611249,
+      "sell": 611336,
+      "change": -115
     },
     {
       "code": "CEYREKALTIN",
       "name": "Çeyrek Altın",
-      "buy": 10018.75,
-      "sell": 10249.98,
-      "change": 0
+      "buy": 980884,
+      "sell": 1003538,
+      "change": -209
     },
     {
       "code": "CUMHURIYETALTINI",
       "name": "Cumhuriyet Altını",
-      "buy": 41609,
-      "sell": 42239,
-      "change": 0.45
+      "buy": 40535,
+      "sell": 41148,
+      "change": -258
     }
   ],
   "news": [
+    {
+      "title": "Lüleburgaz’da çiftçi çaresiz: \"Depolar Dolu\" denilerek buğday düşük fiyattan alınıyor",
+      "url": "https://www.tarimdanhaber.com/luleburgazda-ciftci-caresiz-depolar-dolu-denilerek-bugday-dusuk-fiyattan-aliniyor",
+      "source": "Tarımdan Haber",
+      "date": "2026-07-08",
+      "summary": "Lüleburgaz’da çiftçinin hasat çilesi: Hem ‘depolar dolu’ denilerek ürünler düşük fiyattan alınıyor hem de sahada süne olmamasına rağmen eksper raporlarıyla fiyatlar kırılıyor. Üretici adeta, ‘Veren versin, vermeyen vermesin’ denilerek köşeye sıkıştırıldı.",
+      "content": "Haber Merkezi / Kırklareli’nin Lüleburgaz ilçesinde hasat sezonu tüm hızıyla devam ederken, çiftçiler Toprak Mahsulleri Ofisi (TMO) ve Lisanslı Depoculuk (LİDAŞ) süreçlerinde yaşanan büyük mağduriyetle karşı karşıya. Randevulu üreticilerin ürünleri “depo doluluğu” gerekçesiyle kabul edilmezken, eksper raporlarındaki tutarsızlıklar üreticinin kazancına darbe vuruyor.\n\nİlgili Haber → Tarım Kredi'den çiftçiye hasat vurgunu: Arpa fiyatını 500 lira daha kırdılar!\n\n\"Kalite Değil, Depo Doluluğu Belirleyici Oluyor\"\n\nLüleburgaz LİDAŞ tarafından yapılan duyuruda, 16,5 TL fiyat kategorisindeki depoların tamamen dolduğu gerekçesiyle, randevusu olan çiftçilere ürünlerinin kalitesi ne olursa olsun 15,75 TL’lik (3. sınıf) depoya alınacağı bildirildi. Üreticilere adeta \"Veren versin, vermeyen vermesin\" mesajı verilirken, çiftçilerin emek vererek yetiştirdiği yüksek kaliteli ürünlerin düşük fiyattan fiyatlandırılması tepkilere neden oldu.\n\nEksper Raporları ve Süne Çelişkisi\n\nBölgedeki çiftçiler, İlçe Tarım Müdürlüğü ekiplerinin yaptığı kontrollerde tarlalarda \"süne\" sorunu olmadığı yönündeki raporlarına rağmen, TMO eksperlerinin süne oranını %2,5 ile %4 arasında gösterdiğini iddia ediyor.\n\nSüne oranının %2’nin üzerinde gösterilmesi, ürünün 16,5 TL yerine 15,75 TL'den alınmasına neden oluyor. Çiftçiler, \"İlçe tarım 'süne yok' diyor, TMO eksperi 'süne var' diyerek fiyat kırıyor. Bu durum, eksper raporlarının tarafsızlığı konusunda ciddi soru işaretlerine neden oluyor.\" ifadeleriyle tepkilerini dile getiriyor.\n\n85 Bin Tonluk Kapasitenin Yarısı Zaten Dolu\n\nLüleburgaz LİDAŞ’ın toplam 85 bin tonluk kapasitesinin yaklaşık 42,5 bin tonunun halihazırda 2024-2025 dönemine ait TMO ürünleri ile dolu olduğu belirtiliyor. Yeni hasat dönemi için kalan 42,5 bin tonluk kapasitenin ise kısa sürede tükendiği ve randevu sisteminin işlemez hale geldiği vurgulanıyor.\n\nZiraat Odasından Kritik Uyarı\n\nYaşanan yoğunluk ve kapasite krizi nedeniyle Ziraat Odası, üreticilere şu uyarı mesajını geçti:\n\n\"Değerli Üreticilerimiz, Lüleburgaz Lisanslı Depoculuğun 2026 yılı ürün alımları depo kapasitesi dolmuş olduğundan, randevusu olan üreticilerimizin TMO ile irtibata geçmeleri gerekmektedir.\"\n\nÇiftçi Çözüm Bekliyor\n\nHasat döneminin en yoğun günlerinde, binbir emekle tarladan kaldırılan ürünün maliyetinin altında fiyatlandırılması ve alım yerlerinde yaşanan kapasite sorunu, Lüleburgazlı çiftçiyi finansal bir çıkmaza sürüklüyor. Üreticiler, Tarım ve Orman Bakanlığı’ndan acil müdahale, eksper süreçlerinin yeniden denetlenmesi ve depo kapasitesi sorununun çözümü için destek bekliyor.\n\nKırklareli tarımı ile ilgili bilmek isteyeceğiniz haber: Ayçiçeği tamam da… Kırklareli tarımında buğday, arpa ve mısır gerçeği"
+    },
+    {
+      "title": "Tire'de Kadın Üreticiden Gençlere Çağrı",
+      "url": "https://www.tarimpusulasi.com/haber/tirede-kadin-ureticiden-genclere-cagri-47012",
+      "source": "Tarım Pusulası",
+      "date": "2026-07-08",
+      "summary": "İzmir İl Tarım ve Orman Müdürlüğü, Tire'de patates üretimi yapan kadın üretici Aylin Gedik'in üretim hikâyesini paylaştı. Gedik, tarımsal üretimde kadınların ve gençlerin yer alması için mevcut dönemin önemli bir fırsat sunduğunu belirterek, İl ve İlçe Tarım Müdürlüklerinin üreticilere verdiği deste",
+      "content": "İZMİR — İzmir İl Tarım ve Orman Müdürlüğü, sosyal medya hesabından yaptığı paylaşımda Tire'de patates üretimi yapan kadın üretici Aylin Gedik ile gerçekleştirilen söyleşiye yer verdi. Paylaşımda kadın üreticilerin tarımsal üretime ve kırsal kalkınmaya katkısına vurgu yapıldı.\n\nMüdürlüğün açıklamasında, \"Kadın Üretir, Toprak Bereketlenir, Gelecek Güçlenir\" mesajıyla kadınların bilgi, azim ve emeğiyle güçlenen tarımın üretime, kırsal kalkınmaya ve ülkemizin geleceğine değer katmaya devam ettiği ifade edildi.\n\nVideoda konuşan Tire'nin Karateke Köyü'nden kadın üretici Aylin Gedik ise çocukluk yıllarından bu yana tarımla iç içe olduğunu belirterek, patates üretiminin ekimden hasada kadar yaklaşık üç aylık yoğun bir emek süreci gerektirdiğini söyledi.\n\nGedik, üretim sürecinde İl ve İlçe Tarım Müdürlüklerinin üreticilerin yanında olduğunu ifade ederek, kadınlar ve gençler için tarımla uğraşmanın uygun bir dönem olduğunu dile getirdi.\n\nKadın üretici açıklamasında, \"Merhaba, adım Aylin Gedik. Tire Karateke Köyü'nde doğma büyümeyim. Küçüklüğümden beri çiftçilikle uğraşıyorum. Üç ay boyunca ekimden söküme kadar emek verdik. Devletimiz sağ olsun, İl ve İlçe Tarım Müdürlüklerimiz yanımızda. Kadın üreticilerimiz ve gençlerimiz için çiftçilik yapmak istiyorlarsa en güzel dönem bu dönem.\" ifadelerini kullandı.\n\nİzmir İl Tarım ve Orman Müdürlüğü, paylaşımıyla kadın üreticilerin tarımsal üretimde üstlendikleri role dikkat çekmeyi ve kırsalda üretime katılımı teşvik etmeyi amaçladı.\n\nTARIM PUSULASI HABER MERKEZİ"
+    },
+    {
+      "title": "FAO: Haziranda Et Fiyat Endeksi Rekor Seviyeye Ulaştı",
+      "url": "https://www.tarimpusulasi.com/haber/fao-haziranda-et-fiyat-endeksi-rekor-seviyeye-ulasti-47011",
+      "source": "Tarım Pusulası",
+      "date": "2026-07-08",
+      "summary": "Birleşmiş Milletler Gıda ve Tarım Örgütü (FAO), Haziran 2026'da Et Fiyat Endeksi'nin 131 puana yükselerek tarihi zirveye ulaştığını açıkladı. Artışta kümes hayvanı eti fiyatlarındaki yükseliş etkili olurken, domuz ve sığır eti fiyatlarında ise gerileme görüldü.",
+      "content": "ROMA — Birleşmiş Milletler Gıda ve Tarım Örgütü (FAO), Haziran 2026 dönemine ilişkin yayımladığı Gıda Fiyat Endeksi bülteninde yer alan Et Fiyat Endeksi'nin aylık bazda yükselerek 131 puana ulaştığını ve yeni tarihi zirvesini gördüğünü açıkladı.\n\nFAO verilerine göre Endeks, Mayıs ayına kıyasla 0,5 puan (%0,4) artarken, geçen yılın aynı dönemine göre ise 5 puan (%4) yükseldi.\n\nEndeksteki artışın temel nedeni uluslararası kümes hayvanı eti fiyatlarındaki yükseliş oldu. FAO, güçlü küresel ithalat talebi ve Brezilya'da ihracat fiyatlarının yükselmesinin fiyat artışını desteklediğini belirtti. Kuruluş ayrıca, önceki dönemde yaşanan arz fazlasına karşı yapılan üretim düzenlemelerinin ardından iç piyasada arzın geçici olarak daralmasının da fiyatları yukarı yönlü etkilediğini bildirdi.\n\nHaziran ayında koyun eti fiyatları da küresel talebin güçlü seyretmesi ve ihracata konu olabilecek arzın sınırlı kalması nedeniyle yükselişini sürdürdü.\n\nBuna karşılık domuz eti fiyatları düşüş eğilimini devam ettirdi. FAO, Avrupa Birliği'nde arzın yüksek seyretmesi ve bazı Asya pazarlarında talebin zayıf kalmasının uluslararası fiyatlar üzerinde baskı oluşturduğunu kaydetti.\n\nSığır eti fiyatları ise sınırlı ölçüde geriledi. Rapora göre bu düşüşte, Avustralya'dan üçüncü çeyrekte ihracatın artacağı beklentisiyle fiyatların gerilemesi etkili oldu. Brezilya'da ise Çin'in uygulamaya koyduğu ithalat kotalarının dolma noktasına yaklaşması nedeniyle alımların kademeli olarak yavaşladığı, buna rağmen ihracat fiyatlarının genel olarak istikrarlı seyrettiği belirtildi.\n\nFAO'nun değerlendirmesine göre Haziran ayında küresel et piyasasında ürün grupları arasında farklı fiyat hareketleri görülse de özellikle kümes hayvanı eti fiyatlarındaki güçlü yükseliş toplam endeksin yeni rekor seviyeye ulaşmasında belirleyici oldu.\n\nTARIM PUSULASI HABER MERKEZİ"
+    },
     {
       "title": "TMO: 5,5 Milyar Liralık Hububat Ödemesi Hesaplara Yattı",
       "url": "https://www.tarimpusulasi.com/haber/tmo-55-milyar-liralik-hububat-odemesi-hesaplara-yatti-47010",
@@ -109,30 +133,6 @@
       "date": "2026-07-07",
       "summary": "Bayburt Tarım ve Orman İl Müdürü Ebubekir Köse, zootekni alanında eğitim almış bir ziraat mühendisidir. Tarım ve Orman Bakanlığı bünyesinde Sivas, Osmaniye ve Ankara'da çeşitli görevlerde bulunduktan sonra 2025 yılında Bayburt İl Tarım ve Orman Müdürü olarak atanmıştır. Tarımsal projeler, kırsal kal",
       "content": "Haber Merkezi / Bayburt Tarım ve Orman İl Müdürü Ebubekir Köse, 28 Temmuz 2025 tarihinden itibaren Bayburt İl Tarım ve Orman Müdürlüğü görevini yürütmektedir. Ziraat mühendisi olan Köse, meslek hayatı boyunca ilçe müdürlüğü, ilçe müdür vekilliği ve teknik uzmanlık gibi farklı görevlerde bulunarak tarım yönetimi alanında deneyim kazandı.\n\nTarım sektörünün farklı alanlarında edindiği kamu tecrübesiyle görev yapan Ebubekir Köse, özellikle kırsal kalkınma, tarımsal projeler, hayvancılık ve tarımsal üretimin geliştirilmesine yönelik çalışmalarıyla öne çıkıyor.\n\nTüm Türkiye'deki il müdürlerinin güncel listesine \"Tarım ve Orman İl Müdürleri\" rehber sayfamızdan ulaşabilirsiniz.\n\nEbubekir Köse'nin hayatı ve eğitimi\n\nEbubekir Köse, 1985 yılında Ankara'da doğdu.\n\nLisans eğitimini Selçuk Üniversitesi Ziraat Fakültesi Zootekni Bölümü'nde 2004-2008 yılları arasında tamamladı.\n\nİngilizceyi B2 (Orta Üstü) seviyesinde bilen Köse, meslek hayatı boyunca kamu yönetimi, proje hazırlama, kırsal kalkınma, tarımsal planlama, CBS uygulamaları ve gıda güvenliği alanlarında çok sayıda hizmet içi eğitim programına katıldı.\n\nEbubekir Köse'nin kariyeri\n\nTarım ve Orman Bakanlığı bünyesinde uzun yıllardır görev yapan Ebubekir Köse'nin kariyer basamakları şu şekilde ilerledi:\n\n2010-2012: Sivas Gürün İlçe Tarım Müdürlüğü'nde Ziraat Mühendisi\n\n2012-2016: Osmaniye İl Müdürlüğü Kırsal Kalkınma ve Örgütlenme Şube Müdürlüğü'nde Ziraat Mühendisi\n\n2016-2018: Ankara Kahramankazan İlçe Tarım ve Orman Müdürlüğü'nde İlçe Müdür Vekili\n\n2018-2020: Ankara Kahramankazan İlçe Tarım ve Orman Müdürlüğü'nde Ziraat Mühendisi\n\n2020-2024: Tarım ve Orman Bakanlığı Tütün ve Alkol Dairesi Başkanlığı'nda Ziraat Mühendisi\n\n2024-2025: Ankara Etimesgut İlçe Tarım ve Orman Müdürü\n\n28 Temmuz 2025 tarihinden itibaren Bayburt Tarım ve Orman İl Müdürü\n\nTarımsal projelerde önemli deneyim\n\nEbubekir Köse, görev yaptığı illerde kırsal kalkınma projeleri, tarımsal yatırımlar ve üretici örgütlenmesi konularında çalışmalar yürüttü.\n\nMeslek hayatı boyunca;\n\nTarımsal proje hazırlama\n\nFizibilite raporları\n\nİç kontrol sistemi\n\nCBS (ArcGIS ve Netcad)\n\nTarımsal yayım\n\nGıda güvenliği\n\nKalite yönetim sistemleri\n\nTarım stratejisi hazırlama\n\nbaşta olmak üzere çok sayıda eğitim programına katıldı.\n\n2015 yılında ise \"Tarıma Değer Katanlar\" Proje Kategorisi Türkiye Birinciliği Belgesi almaya hak kazandı."
-    },
-    {
-      "title": "Sencer Solakoğlu: \"Bizim Suçumuz İl Müdürlüğünün Dediğini Yapmak mı?\"",
-      "url": "https://www.tarimpusulasi.com/haber/sencer-solakoglu-bizim-sucumuz-il-mudurlugunun-dedigini-yapmak-mi-47008",
-      "source": "Tarım Pusulası",
-      "date": "2026-07-06",
-      "summary": "Ari işletme belgesinin iptal edilmesine tepki gösteren Feyz Çiftliği sahibi Sencer Solakoğlu, tüm işlemleri İl Tarım ve Orman Müdürlüğünün yönlendirmeleri doğrultusunda yaptıklarını belirterek, \"Bizim suçumuz onların dediğini yapmak mı?\" ifadelerini kullandı.",
-      "content": "BURSA — Bursa'daki Feyz Çiftliği'nin sahibi Sencer Solakoğlu, yaklaşık 15 yıldır sahip oldukları Hastalıktan Ari İşletme ve AB normlarında üretim sertifikalarının iptal edilmesine tepki göstererek, iptal gerekçesinin aynı çiftlik içerisindeki iki ahır arasında yapılan hayvan transferleri olduğunu söyledi.\n\nSertifikaların, herhangi bir hastalık tespit edilmesi nedeniyle değil, yıllardır aynı şekilde uygulanan işletme içi hayvan hareketleri gerekçe gösterilerek iptal edildiğini savunan Solakoğlu, bu uygulamanın da Bursa İl Tarım ve Orman Müdürlüğü personelinin yönlendirmesiyle gerçekleştirildiğini öne sürdü.\n\n\"Hiçbir eksik bulamadılar. Buldukları tek eksik, aynı çiftlik sınırları içindeki bir ahırdan diğer ahıra yaptığım hayvan transferi.\"\n\nSolakoğlu, söz konusu uygulamanın yeni olmadığını belirterek, 2021'den bu yana her yıl aynı yöntemi kullandıklarını söyledi.\n\n\"Tarım İl Müdürlüğü personeli, 'Her transferde yeniden kan almaya gerek yok. Siz normal değişikliklerinizi yapın, biz yılda bir kez gelip bütün hayvanlardan kan alıyor, testlerini yapıyoruz' dedi. 2021'de, 2022'de, 2023'te, 2024'te ve 2025'te onların önerdiği şekilde yaptığımız uygulamanın bu yıl yanlış olduğuna karar verdiler ve sadece bu nedenle sertifikalarımızı iptal ettiler.\"\n\nİşletmede herhangi bir bulaşıcı hastalık bulunmadığını ileri süren Solakoğlu, yapılan testlerde de hastalık tespit edilmediğini iddia etti.\n\n\"Hastalık varmış gibi yazılar yazıyorlar ama yok. Test de yaptılar, hastalık falan yok.\"\n\nSürecin haksız olduğunu savunan Solakoğlu, İl Tarım ve Orman Müdürlüğünün yönlendirmelerine uymalarının bugün aleyhlerine kullanıldığını ifade etti.\n\n\"Tarım İl Müdürlüğü ne diyorsa onu yaptık. Onlar bu şekilde yapmamızı öngördü. Yıllardır da bu şekilde yaptıysak, bizim suçumuz ne deniyorsa onu yapmak oldu.\"\n\nKonuşmasında denetimler sırasında yaşandığını öne sürdüğü bir olaya da değinen Solakoğlu, Tarım ve Orman Bakanlığı personelinin yaptığı uygulama sırasında bir hayvanın ezilerek öldüğünü iddia ettiğini, bu konuda daha önce uyarıda bulunduklarını ancak dikkate alınmadıklarını söyledi.\n\nSolakoğlu, sertifikalarının iptal edilmesinin teknik gerekçelerden ziyade siyasi nedenlerle gerçekleştiğini de iddia ederek, hükümetin tarım politikalarını ve gıda enflasyonuna ilişkin uygulamalarını eleştirdi. Bu değerlendirmelerinde, üreticilerin desteklenmesi gerektiğini savunurken, mevcut tarım politikalarının gıda enflasyonunu düşürmediğini öne sürdü.\n\nTarım ve Orman Bakanlığı ile Bursa İl Tarım ve Orman Müdürlüğünden, Solakoğlu'nun sertifikalarının iptal gerekçesi ve açıklamalarına ilişkin haberin yayına hazırlandığı saate kadar kamuoyuna yapılmış bir değerlendirme bulunmadı.\n\nTARIM PUSULASI HABER MERKEZİ"
-    },
-    {
-      "title": "25 yıllık biçerdöver operatörü: \"İlk kez böyle arpa biçiyorum\"",
-      "url": "https://www.tarimpusulasi.com/haber/25-yillik-bicerdover-operatoru-ilk-kez-boyle-arpa-biciyorum-47007",
-      "source": "Tarım Pusulası",
-      "date": "2026-07-06",
-      "summary": "Konya'nın Yunak ilçesinde kıraç arazide yapılan arpa hasadı sırasında konuşan yaklaşık 25 yıllık biçerdöver operatörü Ali Bey, hasat ettiği çeşitle ilgili \"Böyle bir arpayı ilk defa biçiyorum.\" dedi. Operatör, dekara yaklaşık 700 kilogram verim gözlemlediğini ifade ederken değerlendirmesinin kendi s",
-      "content": "KONYA — Granar Tarım'ın iki sıralı Sinan Bey arpa çeşidinin hasadı, Konya'nın Yunak ilçesinde gerçekleştirildi. Hasat sırasında Ziraat Mühendisi Emin Erdoğan ile biçerdöver operatörü Ali Bey arasında yapılan değerlendirmede, çeşidin tarla performansı ve verimine ilişkin gözlemler paylaşıldı.\n\nHasat alanında konuşan Ziraat Mühendisi Emin Erdoğan, hasadın Konya'nın Yunak ilçe merkezinde yapıldığını belirterek yaklaşık 25 yıllık biçerdöver operatörlüğü deneyimine sahip Ali Bey'in değerlendirmelerini aldı.\n\nYaklaşık 25 yıldır biçerdöver operatörü olarak görev yaptığını belirten Ali Bey, hasat ettiği arpa çeşidini kendi mesleki deneyimi çerçevesinde değerlendirdi.\n\nOperatör Ali Bey, yaptığı açıklamada hasat edilen tarlanın kıraç koşullarda üretim yapılan bir alan olduğunu ifade ederek, kendi gözlemine göre dekarda yaklaşık 700 kilogram ürün elde edilebileceğini düşündüğünü söyledi.\n\nHaberde yer alan 700 kilogram/dekar verim bilgisi, herhangi bir resmi ölçüm sonucu değil, biçerdöver operatörünün saha gözlemine dayanan kişisel değerlendirmesi olarak aktarılıyor.\n\nZiraat Mühendisi Emin Erdoğan da söz konusu alanın kıraç koşullarda üretim yapılan bir tarla olduğunu belirterek, farklı ürünlerin hasadını gerçekleştiren deneyimli bir operatörün görüşlerinin kendileri açısından önemli olduğunu ifade etti.\n\nAli Bey ise açıklamasında, yıllardır birçok arpa çeşidinin hasadını yaptığını belirterek, kendi değerlendirmesine göre hasat edilen çeşidin veriminden memnun kaldığını ve gelecek üretim sezonunda bu çeşidi ekmeyi düşündüğünü söyledi. Ayrıca üreticilere de çeşidi tavsiye ettiğini ifade etti.\n\nVideoda paylaşılan açıklamalar, Granar Tarım tarafından gerçekleştirilen saha tanıtımı kapsamında üretici ve operatör görüşlerini içeriyor. Haberde yer alan değerlendirmeler, konuşmacıların beyanlarına dayanıyor.\n\nTARIM PUSULASI HABER MERKEZİ"
-    },
-    {
-      "title": "DSİ: Şanlıurfa Bozova'da sulama buğday verimini artırdı",
-      "url": "https://www.tarimpusulasi.com/haber/dsi-sanliurfa-bozovada-sulama-bugday-verimini-artirdi-47006",
-      "source": "Tarım Pusulası",
-      "date": "2026-07-06",
-      "summary": "Devlet Su İşleri Genel Müdürü Mehmet Akif Balta, Şanlıurfa'da sulama yatırımlarının tarımsal üretime katkı sağladığını belirtti. Bozova ilçesindeki çiftçi Hüseyin Çetiner ise sulama öncesinde dekara 250-300 kilogram olan buğday veriminin, sulama sonrasında bazı alanlarda 650-700 kilograma ulaştığını",
-      "content": "ŞANLIURFA — Devlet Su İşleri (DSİ) Genel Müdürü Mehmet Akif Balta, Şanlıurfa'da hayata geçirilen sulama projelerinin tarımsal üretim, istihdam ve bölgesel kalkınmaya katkı sağladığını belirtti. Balta, sosyal medya platformu X üzerinden yaptığı paylaşımda üreticilere bereketli ve bol kazançlı bir hasat sezonu diledi.\n\nBalta paylaşımında, \"Suyun hikâyesi Şanlıurfa'dan… Şanlıurfa'da hayata geçirilen projelerle suyun yolculuğu; tarımsal üretime, istihdama ve bölgesel kalkınmaya güç katıyor. Emektar çiftçilerimize selamlarımızı gönderiyor, emeklerinin karşılığını alacakları bereketli ve bol kazançlı bir hasat sezonu diliyoruz.\" ifadelerini kullandı.\n\nPaylaşımda yer verilen videoda konuşan Şanlıurfa'nın Bozova ilçesi Yaslıca Mahallesi'nde üretim yapan çiftçi Hüseyin Çetiner ise bölgede uzun yıllardır ailecek çiftçilik yaptıklarını ve buğday hasadına başladıklarını söyledi.\n\nÇetiner, sulama yatırımları öncesinde arazilerinde kuru tarım yaptıklarını belirterek, dönüm başına yaklaşık 250-300 kilogram buğday elde edebildiklerini ifade etti. Bu üretim miktarının masrafları karşılamakta yetersiz kaldığını dile getiren Çetiner, sulama hizmetinin devreye girmesiyle birlikte bazı tarlalarda dönüm başına 650-700 kilogram buğday verimine ulaştıklarını söyledi.\n\nÜreticinin açıklamasında paylaştığı rakamlara göre, sulama öncesindeki 250-300 kilogramlık verim ile sulama sonrasındaki 650-700 kilogramlık verim karşılaştırıldığında, bazı alanlarda üretimin yaklaşık 2,3 ila 2,8 kat seviyesine çıktığı ifade edildi. Haberde yer alan bu veriler, çiftçinin kendi beyanına dayanıyor.\n\nÇetiner ayrıca, sulama hizmetlerinin zamanında yürütüldüğünü belirterek Cumhurbaşkanı, Tarım ve Orman Bakanlığı yetkilileri, DSİ Genel Müdürlüğü, DSİ Bölge Müdürlüğü ile Atatürk Barajı Sulama Birliği yönetimi ve çalışanlarına teşekkür etti.\n\nDSİ, son yıllarda özellikle GAP kapsamındaki sulama yatırımlarının tamamlanmasıyla birlikte suyun tarımsal üretimde daha etkin kullanılmasını ve verimliliğin artırılmasını hedefleyen projeleri sürdürüyor.\n\nTARIM PUSULASI HABER MERKEZİ"
     }
   ],
   "commoditiesByBorsa": {
