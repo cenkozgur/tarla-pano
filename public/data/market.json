@@ -1,43 +1,51 @@
 {
-  "updatedAt": "2026-07-08T10:49:21.020Z",
+  "updatedAt": "2026-07-08T12:08:20.738Z",
   "fx": [
     {
       "code": "USD",
       "name": "Dolar",
-      "buy": 46855,
-      "sell": 468602,
+      "buy": 468558,
+      "sell": 468598,
       "change": 2
     },
     {
       "code": "EUR",
       "name": "Euro",
-      "buy": 535063,
-      "sell": 535146,
-      "change": 3
+      "buy": 53466,
+      "sell": 534779,
+      "change": -4
     },
     {
       "code": "GRA",
       "name": "Gram Altın",
-      "buy": 611249,
-      "sell": 611336,
-      "change": -115
+      "buy": 612611,
+      "sell": 612702,
+      "change": -93
     },
     {
       "code": "CEYREKALTIN",
       "name": "Çeyrek Altın",
-      "buy": 980884,
-      "sell": 1003538,
-      "change": -209
+      "buy": 98239,
+      "sell": 1004864,
+      "change": -196
     },
     {
       "code": "CUMHURIYETALTINI",
       "name": "Cumhuriyet Altını",
-      "buy": 40535,
-      "sell": 41148,
-      "change": -258
+      "buy": 40625,
+      "sell": 41239,
+      "change": -237
     }
   ],
   "news": [
+    {
+      "title": "FAO: Buğday Fiyatları Haziranda Yüzde 4,4 Düştü",
+      "url": "https://www.tarimpusulasi.com/haber/fao-bugday-fiyatlari-haziranda-yuzde-44-dustu-47013",
+      "source": "Tarım Pusulası",
+      "date": "2026-07-08",
+      "summary": "Birleşmiş Milletler Gıda ve Tarım Örgütü (FAO), Haziran 2026'da Tahıl Fiyat Endeksi'nin aylık bazda yüzde 3,5 gerileyerek 110,2 puana düştüğünü açıkladı. Buğday, mısır, arpa ve sorgum fiyatları düşerken, pirinç fiyatlarında ise yükseliş görüldü.",
+      "content": "ROMA — Birleşmiş Milletler Gıda ve Tarım Örgütü (FAO), Haziran 2026 dönemine ilişkin yayımladığı Gıda Fiyat Endeksi bülteninde yer alan Tahıl Fiyat Endeksi'nin aylık bazda gerilediğini açıkladı.\n\nFAO verilerine göre Tahıl Fiyat Endeksi Haziran ayında 110,2 puan olarak gerçekleşti. Endeks, Mayıs ayına göre 4 puan (%3,5) düşerken, geçen yılın aynı ayına kıyasla ise 2,9 puan (%2,7) daha yüksek seviyede kaldı.\n\nRapora göre küresel buğday fiyatları Haziran ayında yüzde 4,4 geriledi. Düşüşte, Karadeniz bölgesinde hasadın hızlanması ve güçlü arz beklentisinin etkili olduğu belirtildi. Buna karşın ABD ve Avustralya'daki üretim görünümüne ilişkin endişelerin fiyatlar üzerindeki etkisinin sınırlı kaldığı ifade edildi.\n\nFAO, Avustralya'nın bazı bölgelerinde son yağışların üretim risklerini azaltmasına rağmen El Niño kaynaklı kuraklık ve artan üretim maliyetlerinin üretim beklentileri üzerinde baskı oluşturmaya devam ettiğini bildirdi.\n\nRaporda ayrıca ABD dolarının güçlenmesi ve Hürmüz Boğazı çevresindeki gerilimin azalacağı beklentisiyle enerji piyasalarında yaşanan zayıflamanın da buğday fiyatlarını aşağı yönlü etkileyen unsurlar arasında yer aldığı kaydedildi.\n\nMısır fiyatları ise Haziran ayında yüzde 6,2 geriledi. Bu düşüşte Güney Amerika'daki ihracatçı ülkelerde yüksek arz beklentisi ile ham petrol fiyatlarındaki gerilemenin biyoyakıt talebini azaltması etkili oldu.\n\nDiğer kaba taneli ürünlerde de aşağı yönlü seyir sürdü. Uluslararası arpa fiyatları yüzde 3,4, sorgum fiyatları ise yüzde 7,7 düştü. FAO, üretim beklentilerindeki iyileşmenin yanı sıra zayıflayan buğday ve mısır piyasalarının yemlik tahıllarda rekabet gücünü azaltmasının bu gerilemede etkili olduğunu belirtti.\n\nBuna karşılık FAO Tüm Pirinç Fiyat Endeksi, Haziran ayında yüzde 3,2 yükseldi. Raporda, Asya'da Indica pirincine yönelik talebin güçlenmesi ile birlikte olumsuz hava koşulları ve üretim, taşıma ile pazarlama maliyetlerindeki artışın pirinç fiyatlarını desteklediği ifade edildi.\n\nFAO'nun değerlendirmesine göre Haziran ayında küresel tahıl piyasalarında genel görünüm aşağı yönlü olurken, pirinç piyasası talep ve maliyet kaynaklı gelişmeler nedeniyle diğer tahıl ürünlerinden ayrıştı.\n\nRaporda Yer Alan Sayısal Veriler\n\nGösterge\n\nDeğer\n\nFAO Tahıl Fiyat Endeksi\n\n110,2 puan\n\nAylık değişim\n\n-4 puan\n\nAylık değişim\n\n-%3,5\n\nYıllık değişim\n\n+2,9 puan\n\nYıllık değişim\n\n+%2,7\n\nBuğday\n\n-%4,4\n\nMısır\n\n-%6,2\n\nArpa\n\n-%3,4\n\nSorgum\n\n-%7,7\n\nPirinç\n\n+%3,2\n\nTARIM PUSULASI HABER MERKEZİ"
+    },
     {
       "title": "Lüleburgaz’da çiftçi çaresiz: \"Depolar Dolu\" denilerek buğday düşük fiyattan alınıyor",
       "url": "https://www.tarimdanhaber.com/luleburgazda-ciftci-caresiz-depolar-dolu-denilerek-bugday-dusuk-fiyattan-aliniyor",
@@ -125,14 +133,6 @@
       "date": "2026-07-07",
       "summary": "Bursa'da 25-28 Haziran tarihleri arasında gerçekleştirilen denetimlerin ardından Hastalıktan Ari İşletme Sertifikası iptal edilen işletmeler belli oldu. Tarım ve Orman Bakanlığı'nın denetimleri sonrasında hazırlanan resmi listede, Sencer Solakoğlu'nun faaliyet gösterdiği Feyz Grubu şirketlerinin yan",
       "content": "Haber Merkezi / Bursa'da 25-28 Haziran 2026 tarihleri arasında hastalıktan ari işletmelere yönelik gerçekleştirilen denetimlerin ardından, mevzuata aykırılık tespit edilen işletmelerin \"Hastalıktan Ari İşletme Sertifikaları\" iptal edildi. İptal edilen işletmeler arasında CHP'nin Tarım ve Orman Politikalarından Sorumlu ismi Sencer Solakoğlu'nun faaliyet gösterdiği Feyz Grubu şirketleri de yer aldı.\n\nBursa İl Tarım ve Orman Müdürlüğü tarafından hazırlanan resmi yazıda, denetimlerin Tarım ve Orman Bakanlığı, Pendik Veteriner Kontrol Enstitüsü Müdürlüğü ile İl ve İlçe Tarım ve Orman Müdürlüğü personelinin katılımıyla gerçekleştirildiği belirtildi. Denetimlerin, Bruselloz ile Mücadele Yönergesi, Sığır Tüberkülozu ile Mücadele Yönetmeliği ve Hastalıktan Ari İşletmeler Yönergesi kapsamında yapıldığı ifade edildi.\n\nResmi yazıda, yerinde yapılan kontrollerde bazı işletmelerde ilgili mevzuatlara aykırılıklar tespit edildiği, bu nedenle ekli listede bulunan işletmelerin \"Hastalıktan Ari İşletme Sertifikalarının\" iptal edildiği bildirildi.\n\nFeyz Grubu'na ait işletmeler de listede\n\nEkli listede, Sencer Solakoğlu'nun faaliyet gösterdiği Feyz Grubu'na ait Feyz Süt Gıda Sanayi ve Ticaret A.Ş. ile Feyz Hayvancılık Tarım Gıda Sanayi ve Ticaret A.Ş.'ye ait dört ayrı işletme numarası bulunuyor.\n\nListede ayrıca Tarfaş Tarımsal Faaliyetler, Sevkar Hayvancılık, Alaca Hayvancılık, Gürarslan Hayvancılık, Uzungroup Hayvancılık, İtimat Peynircilik, Afco Tarım, Aykar Çiftlik, ZİT Yapı, Marder Nakliyat ve Ace Hayvancılık gibi çok sayıda işletme de yer aldı.\n\nTartışmanın ardından geldi\n\nKarar, Sencer Solakoğlu ile Tarım ve Orman Bakanlığı arasında son günlerde yaşanan denetim tartışmasının ardından alınması nedeniyle dikkat çekti.\n\nSolakoğlu, sosyal medya hesabından yaptığı açıklamada işletmesine kalabalık bir denetim ekibi gönderildiğini belirtmiş uygulamanın kendisini susturmaya yönelik olduğunu iddia etmişti. Tarım ve Orman Bakanlığı ise denetimlerin yalnızca Solakoğlu'nun işletmesine yönelik olmadığını, Bursa'daki hastalıktan ari işletmelerin tamamını kapsayan rutin çalışma kapsamında yürütüldüğünü açıklamıştı.\n\nSertifika iptali ne anlama geliyor?\n\n\"Hastalıktan Ari İşletme Sertifikası\", işletmenin belirli bulaşıcı hayvan hastalıklarından ari olduğunu gösteren resmi belge niteliği taşıyor. Sertifikanın iptal edilmesi, işletmenin ari işletme statüsünü kaybetmesi anlamına gelirken, yeniden sertifika alınabilmesi için mevzuatta öngörülen şartların tekrar sağlanması gerekiyor.\n\nHastalıktan ari işletme sertifikası iptal edilen çiftlikler listesi\n\nBursa İl Tarım ve Orman Müdürlüğü'nün 25-28 Haziran 2026 tarihli denetimleri sonrasında hastalıktan ari işletme sertifikası iptal edilen işletmelerin yer aldığı resmi liste."
-    },
-    {
-      "title": "Bayburt Tarım İl Müdürü Ebubekir Köse kimdir? Görevi ve özgeçmişi",
-      "url": "https://www.tarimdanhaber.com/bayburt-tarim-il-muduru-ebubekir-kose-kimdir-gorevi-ve-ozgecmisi",
-      "source": "Tarımdan Haber",
-      "date": "2026-07-07",
-      "summary": "Bayburt Tarım ve Orman İl Müdürü Ebubekir Köse, zootekni alanında eğitim almış bir ziraat mühendisidir. Tarım ve Orman Bakanlığı bünyesinde Sivas, Osmaniye ve Ankara'da çeşitli görevlerde bulunduktan sonra 2025 yılında Bayburt İl Tarım ve Orman Müdürü olarak atanmıştır. Tarımsal projeler, kırsal kal",
-      "content": "Haber Merkezi / Bayburt Tarım ve Orman İl Müdürü Ebubekir Köse, 28 Temmuz 2025 tarihinden itibaren Bayburt İl Tarım ve Orman Müdürlüğü görevini yürütmektedir. Ziraat mühendisi olan Köse, meslek hayatı boyunca ilçe müdürlüğü, ilçe müdür vekilliği ve teknik uzmanlık gibi farklı görevlerde bulunarak tarım yönetimi alanında deneyim kazandı.\n\nTarım sektörünün farklı alanlarında edindiği kamu tecrübesiyle görev yapan Ebubekir Köse, özellikle kırsal kalkınma, tarımsal projeler, hayvancılık ve tarımsal üretimin geliştirilmesine yönelik çalışmalarıyla öne çıkıyor.\n\nTüm Türkiye'deki il müdürlerinin güncel listesine \"Tarım ve Orman İl Müdürleri\" rehber sayfamızdan ulaşabilirsiniz.\n\nEbubekir Köse'nin hayatı ve eğitimi\n\nEbubekir Köse, 1985 yılında Ankara'da doğdu.\n\nLisans eğitimini Selçuk Üniversitesi Ziraat Fakültesi Zootekni Bölümü'nde 2004-2008 yılları arasında tamamladı.\n\nİngilizceyi B2 (Orta Üstü) seviyesinde bilen Köse, meslek hayatı boyunca kamu yönetimi, proje hazırlama, kırsal kalkınma, tarımsal planlama, CBS uygulamaları ve gıda güvenliği alanlarında çok sayıda hizmet içi eğitim programına katıldı.\n\nEbubekir Köse'nin kariyeri\n\nTarım ve Orman Bakanlığı bünyesinde uzun yıllardır görev yapan Ebubekir Köse'nin kariyer basamakları şu şekilde ilerledi:\n\n2010-2012: Sivas Gürün İlçe Tarım Müdürlüğü'nde Ziraat Mühendisi\n\n2012-2016: Osmaniye İl Müdürlüğü Kırsal Kalkınma ve Örgütlenme Şube Müdürlüğü'nde Ziraat Mühendisi\n\n2016-2018: Ankara Kahramankazan İlçe Tarım ve Orman Müdürlüğü'nde İlçe Müdür Vekili\n\n2018-2020: Ankara Kahramankazan İlçe Tarım ve Orman Müdürlüğü'nde Ziraat Mühendisi\n\n2020-2024: Tarım ve Orman Bakanlığı Tütün ve Alkol Dairesi Başkanlığı'nda Ziraat Mühendisi\n\n2024-2025: Ankara Etimesgut İlçe Tarım ve Orman Müdürü\n\n28 Temmuz 2025 tarihinden itibaren Bayburt Tarım ve Orman İl Müdürü\n\nTarımsal projelerde önemli deneyim\n\nEbubekir Köse, görev yaptığı illerde kırsal kalkınma projeleri, tarımsal yatırımlar ve üretici örgütlenmesi konularında çalışmalar yürüttü.\n\nMeslek hayatı boyunca;\n\nTarımsal proje hazırlama\n\nFizibilite raporları\n\nİç kontrol sistemi\n\nCBS (ArcGIS ve Netcad)\n\nTarımsal yayım\n\nGıda güvenliği\n\nKalite yönetim sistemleri\n\nTarım stratejisi hazırlama\n\nbaşta olmak üzere çok sayıda eğitim programına katıldı.\n\n2015 yılında ise \"Tarıma Değer Katanlar\" Proje Kategorisi Türkiye Birinciliği Belgesi almaya hak kazandı."
     }
   ],
   "commoditiesByBorsa": {
@@ -143,10 +143,10 @@
           "key": "bugday",
           "name": "Buğday (ekmeklik)",
           "unit": "₺/kg",
-          "price": 14.76,
-          "change": 0,
+          "price": 13.85,
+          "change": -6.17,
           "source": "Edirne TB",
-          "date": "2026-06-23"
+          "date": "2026-07-08"
         },
         {
           "key": "arpa",
@@ -244,10 +244,10 @@
       "key": "bugday",
       "name": "Buğday (ekmeklik)",
       "unit": "₺/kg",
-      "price": 14.76,
-      "change": 0,
+      "price": 13.85,
+      "change": -6.17,
       "source": "Edirne TB",
-      "date": "2026-06-23"
+      "date": "2026-07-08"
     },
     {
       "key": "arpa",
