@@ -1,32 +1,32 @@
 {
-  "updatedAt": "2026-07-08T06:16:18.019Z",
+  "updatedAt": "2026-07-08T08:44:54.527Z",
   "fx": [
     {
       "code": "USD",
       "name": "Dolar",
-      "buy": 468519,
-      "sell": 468622,
-      "change": 2
+      "buy": 46.86,
+      "sell": 46.86,
+      "change": 0.02
     },
     {
       "code": "EUR",
       "name": "Euro",
-      "buy": 53527,
-      "sell": 535415,
-      "change": 7
+      "buy": 53.48,
+      "sell": 53.49,
+      "change": -0.02
     },
     {
       "code": "GRA",
       "name": "Gram Altın",
-      "buy": 622353,
-      "sell": 622441,
-      "change": 65
+      "buy": 6119.62,
+      "sell": 6120.5,
+      "change": -1.03
     },
     {
       "code": "CEYREKALTIN",
       "name": "Çeyrek Altın",
-      "buy": 1001875,
-      "sell": 1024998,
+      "buy": 10018.75,
+      "sell": 10249.98,
       "change": 0
     },
     {
@@ -34,10 +34,18 @@
       "name": "Cumhuriyet Altını",
       "buy": 41609,
       "sell": 42239,
-      "change": 45
+      "change": 0.45
     }
   ],
   "news": [
+    {
+      "title": "TMO: 5,5 Milyar Liralık Hububat Ödemesi Hesaplara Yattı",
+      "url": "https://www.tarimpusulasi.com/haber/tmo-55-milyar-liralik-hububat-odemesi-hesaplara-yatti-47010",
+      "source": "Tarım Pusulası",
+      "date": "2026-07-08",
+      "summary": "Toprak Mahsulleri Ofisi (TMO), 11-17 Haziran 2026 tarihleri arasında teslim edilen hububat ürünlerine ilişkin 5 milyar 486 milyon TL'lik ürün bedelinin üreticilerin hesaplarına aktarıldığını duyurdu. Kurum, ödemelerin periyodik olarak devam edeceğini ve ödeme yapılan üreticilere SMS ile bilgilendirm",
+      "content": "ANKARA — Toprak Mahsulleri Ofisi (TMO), 2026 yılı hububat alımları kapsamında ürün teslim eden üreticilere yönelik ödemelerin sürdüğünü açıkladı.\n\nKurumun sosyal medya hesaplarından yapılan bilgilendirmeye göre, 11-17 Haziran 2026 tarihleri arasında teslim edilen hububat ürünleri için 5 milyar 486 milyon TL ürün bedeli üreticilerin banka hesaplarına aktarıldı.\n\nTMO, ödeme yapılan üreticilere kısa mesaj (SMS) yoluyla bilgilendirme yapıldığını bildirirken, kalan ödemelerin de periyodik olarak devam edeceğini duyurdu.\n\nHububat alım dönemlerinde ürün bedellerinin belirli aralıklarla üreticilerin hesaplarına aktarılması, TMO'nun uyguladığı ödeme takviminin bir parçası olarak yürütülüyor. Kurum, önceki yıllarda da ürün teslim tarihine göre kademeli ödeme yöntemini uygulamıştı.\n\nAçıklamada yalnızca 11-17 Haziran 2026 tarihleri arasında teslim edilen ürünlere ilişkin ödeme tutarı paylaşıldı. Son açıklamaya göre üreticilere aktarılan toplam ödeme 5 milyar 486 milyon TL olarak gerçekleşti. TMO, diğer teslim dönemlerine ait ödemelerin ise ilerleyen süreçte periyodik şekilde sürdürüleceğini bildirdi.\n\nÖte yandan kurum, ödeme sürecinin takibini kolaylaştırmak amacıyla ödeme yapılan üreticilere SMS ile bilgi verildiğini de açıkladı.\n\nTARIM PUSULASI HABER MERKEZİ"
+    },
     {
       "title": "Rusya Tahıl Birliği: Türkiye'nin Haziran ayı buğday ithalatı ikiye katlandı",
       "url": "https://www.tarimpusulasi.com/haber/rusya-tahil-birligi-turkiyenin-haziran-ayi-bugday-ithalati-ikiye-katlandi-47009",
@@ -125,14 +133,6 @@
       "date": "2026-07-06",
       "summary": "Devlet Su İşleri Genel Müdürü Mehmet Akif Balta, Şanlıurfa'da sulama yatırımlarının tarımsal üretime katkı sağladığını belirtti. Bozova ilçesindeki çiftçi Hüseyin Çetiner ise sulama öncesinde dekara 250-300 kilogram olan buğday veriminin, sulama sonrasında bazı alanlarda 650-700 kilograma ulaştığını",
       "content": "ŞANLIURFA — Devlet Su İşleri (DSİ) Genel Müdürü Mehmet Akif Balta, Şanlıurfa'da hayata geçirilen sulama projelerinin tarımsal üretim, istihdam ve bölgesel kalkınmaya katkı sağladığını belirtti. Balta, sosyal medya platformu X üzerinden yaptığı paylaşımda üreticilere bereketli ve bol kazançlı bir hasat sezonu diledi.\n\nBalta paylaşımında, \"Suyun hikâyesi Şanlıurfa'dan… Şanlıurfa'da hayata geçirilen projelerle suyun yolculuğu; tarımsal üretime, istihdama ve bölgesel kalkınmaya güç katıyor. Emektar çiftçilerimize selamlarımızı gönderiyor, emeklerinin karşılığını alacakları bereketli ve bol kazançlı bir hasat sezonu diliyoruz.\" ifadelerini kullandı.\n\nPaylaşımda yer verilen videoda konuşan Şanlıurfa'nın Bozova ilçesi Yaslıca Mahallesi'nde üretim yapan çiftçi Hüseyin Çetiner ise bölgede uzun yıllardır ailecek çiftçilik yaptıklarını ve buğday hasadına başladıklarını söyledi.\n\nÇetiner, sulama yatırımları öncesinde arazilerinde kuru tarım yaptıklarını belirterek, dönüm başına yaklaşık 250-300 kilogram buğday elde edebildiklerini ifade etti. Bu üretim miktarının masrafları karşılamakta yetersiz kaldığını dile getiren Çetiner, sulama hizmetinin devreye girmesiyle birlikte bazı tarlalarda dönüm başına 650-700 kilogram buğday verimine ulaştıklarını söyledi.\n\nÜreticinin açıklamasında paylaştığı rakamlara göre, sulama öncesindeki 250-300 kilogramlık verim ile sulama sonrasındaki 650-700 kilogramlık verim karşılaştırıldığında, bazı alanlarda üretimin yaklaşık 2,3 ila 2,8 kat seviyesine çıktığı ifade edildi. Haberde yer alan bu veriler, çiftçinin kendi beyanına dayanıyor.\n\nÇetiner ayrıca, sulama hizmetlerinin zamanında yürütüldüğünü belirterek Cumhurbaşkanı, Tarım ve Orman Bakanlığı yetkilileri, DSİ Genel Müdürlüğü, DSİ Bölge Müdürlüğü ile Atatürk Barajı Sulama Birliği yönetimi ve çalışanlarına teşekkür etti.\n\nDSİ, son yıllarda özellikle GAP kapsamındaki sulama yatırımlarının tamamlanmasıyla birlikte suyun tarımsal üretimde daha etkin kullanılmasını ve verimliliğin artırılmasını hedefleyen projeleri sürdürüyor.\n\nTARIM PUSULASI HABER MERKEZİ"
-    },
-    {
-      "title": "Türkşeker'in şeker satışında dikkat çeken kurgu: Sistem iki firmaya çalışıyor!",
-      "url": "https://www.tarimdanhaber.com/turksekerin-seker-satisinda-dikkat-ceken-kurgu-sistem-iki-firmaya-calisiyor",
-      "source": "Tarımdan Haber",
-      "date": "2026-07-06",
-      "summary": "Türkşeker, Nisan ayında iki firmaya kamuoyundan gizli yaptığı düşük fiyatlı şeker satışının ardından Mayıs ayında bu kez kademeli indirimli satış ilanı yayımlandı. Tarımdan Haber'in ortaya çıkardığı fiyat analizi, satış yöntemi değişse de sistemin yine yalnızca iki büyük alıcıya hizmet ettiğini gözl",
-      "content": "Sadettin İnan / Türkşeker'in son aylarda uyguladığı şeker satış politikaları, sektörün gündeminden düşmüyor. Nisan ayının sonunda herhangi bir kamuoyu duyurusu yapılmadan iki firmaya gerçekleştirilen imtiyazlı şeker satışının ardından, Mayıs ayında bu kez kademeli indirimli vadeli satış ilanı yayımlandı. İlk bakışta tüm sektörün yararlanabileceği bir kampanya gibi görünen bu satış modelinin de fiyat basamakları incelendiğinde yine sadece bu iki firmaya yaradığı görülüyor.\n\nİlk tartışma kapalı kapılar ardında yapılan satışla başladı\n\nTarımdan Haber'in kamuoyuna duyurduğu haberlerde, Türkşeker'in Nisan ayı sonunda iki büyük alıcıya, yürürlükteki satış fiyatının altında şeker sattığı ortaya çıkmıştı. Söz konusu satışın ertesi günü ise Türkşeker'in şeker fiyatlarına yaptığı zamla bu iki firmaya 600 milyon liralık bir kıyak satış gerçekleştirilmişti.\n\n600 milyon liralık kıyak şeker satışının üstü örtüldü!\n\nAncak haberlerin ardından Türkşeker'den satışın gerekçesine ilişkin kamuoyunu hiç bir açıklama yapılmadığı gibi, satış sürecine ilişkin herhangi bir idari inceleme veya soruşturma başlatıldığı da kamuoyuna yansımadı.\n\nGizli şeker satışının hemen ardından ilana çıkıldı\n\nTürkşeker, kamuoyunda oluşan tepkileri kırmak için gizli satışın ardından Mayıs ayında indirimli şeker satış ilanına çıkmıştı.\n\nİlanda, alım miktarına göre dört ayrı fiyat basamağı oluşturuldu.\n\n2 bin 500 tona kadar alımlarda kilogram fiyatı 38,50 TL,\n\n2 bin 501-25 bin ton arasında 37,37 TL,\n\n25 bin 1-50 bin ton arasında 36,63 TL,\n\n50 bin ton ve üzeri alımlarda ise 36,23 TL olarak belirlendi.\n\nİlk bakışta yüksek tonajlı alımlara daha fazla iskonto uygulanması ticari açıdan olağan bir uygulama gibi görünse de, aslında bu indirimli şeker satış ilanı da yine sadece iki firmaya hizmet etti.\n\nKağıt üzerinde herkese açık, fiiliyatta iki firmaya çalıştı!\n\nŞeker sektöründe faaliyet gösteren çok sayıda firma bulunmasına rağmen, 50 bin ton ve üzeri alım yapabilecek sermaye gücüne sahip şirket sayısı son derece sınırlı durumda. Mevcut durumda 50 bin ton ve üzeri şekeri tek kalemde alabilecek sermaye gücüne sahip sadece iki firma bulunuyor. Dolayısıyla Türkşeker'in yüzde 13,72 indirimle en fazla indirim yaptığı dilimden yine maalesef sadece bu iki firma yararlanabildi.\n\nTürkşeker'in uyguladığı indirimli şeker satış dilimi, küçük ve orta ölçekli toptancıların Türkşeker'den doğrudan alım yapmasını ekonomik açıdan cazip olmaktan çıkarıyor.\n\nÖrneğin 2 bin 500 tona kadar alım yapan bir firmanın kilogram başına 38,50 TL ödemesi gerekirken, 50 bin ton ve üzeri alım yapan firma aynı ürünü 36,23 TL'den satın alabiliyor.\n\nYaklaşık 2,3 TL'lik kilogram farkı, 50 kilogramlık bir şeker çuvalında 113 lirayı aşan maliyet avantajı oluşturuyor.\n\nBu durum, küçük alıcıların Türkşeker'den doğrudan ürün almak yerine, daha düşük maliyetle ürün temin eden büyük alıcılardan şeker satın almasını beraberinde getiriyor.\n\nSonuçta değişen ne oldu?\n\nTarımdan Haber'in ulaştığı sektör bilgilerine göre, Mayıs ayındaki kampanya sonunda yaklaşık 100 bin tonluk satışın yine iki büyük alıcıda toplandığı belirtiliyor. Böylece Nisan ayında kamuoyuna duyurulmadan yapılan satışta ortaya çıkan alıcı profili ile Mayıs ayında ilan yoluyla gerçekleştirilen satışın fiili sonucu arasında dikkat çekici bir benzerlik oluşuyor.\n\nBu tablo, akıllara şu soruyu getiriyor: Nisan ayında kapalı kapılar ardında uygulanan satış modeli, Mayıs ayında bu kez herkese açık bir ilan üzerinden farklı bir yöntemle mi sürdürüldü?\n\nYarın: Türkşeker'in indirimli satış ilanının şifresi... Küçük toptancı neden Türkşeker'den şeker almadı?"
     }
   ],
   "commoditiesByBorsa": {
@@ -328,17 +328,5 @@
   "defaultBorsa": "5ED10",
   "defaultCity": "CANAKKALE",
   "note": "Fiyatlar TOBB ticaret borsasından (borsa seçilebilir). Kanola manuel (Trakya 2025).",
-  "inputsNote": "Mazot: akaryakıt bayi fiyatı, günlük (şehir seçilebilir). Gübre: manuel (yaklaşık).",
-  "errors": [
-    "mazot ANKARA: fetch failed",
-    "mazot ISTANBUL: fetch failed",
-    "mazot IZMIR: fetch failed",
-    "mazot KONYA: fetch failed",
-    "mazot ADANA: fetch failed",
-    "mazot BURSA: fetch failed",
-    "mazot ANTALYA: fetch failed",
-    "mazot SAMSUN: fetch failed",
-    "mazot TEKIRDAG: fetch failed",
-    "mazot CANAKKALE: fetch failed"
-  ]
+  "inputsNote": "Mazot: akaryakıt bayi fiyatı, günlük (şehir seçilebilir). Gübre: manuel (yaklaşık)."
 }
