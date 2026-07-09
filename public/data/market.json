@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-07-09T08:54:48.274Z",
+  "updatedAt": "2026-07-09T12:08:42.544Z",
   "fx": [
     {
       "code": "USD",
@@ -11,33 +11,41 @@
     {
       "code": "EUR",
       "name": "Euro",
-      "buy": 53.71,
-      "sell": 53.72,
-      "change": 0.36
+      "buy": 53.72,
+      "sell": 53.73,
+      "change": 0.39
     },
     {
       "code": "GRA",
       "name": "Gram Altın",
-      "buy": 6194.01,
-      "sell": 6194.9,
-      "change": 0.96
+      "buy": 6191.75,
+      "sell": 6192.7,
+      "change": 0.92
     },
     {
       "code": "CEYREKALTIN",
       "name": "Çeyrek Altın",
-      "buy": 9828.1,
-      "sell": 10052.93,
-      "change": 0
+      "buy": 9914.31,
+      "sell": 10141.04,
+      "change": 0.88
     },
     {
       "code": "CUMHURIYETALTINI",
       "name": "Cumhuriyet Altını",
-      "buy": 40795,
-      "sell": 41409,
-      "change": -1.97
+      "buy": 41165,
+      "sell": 41779,
+      "change": 0.89
     }
   ],
   "news": [
+    {
+      "title": "Denetimlerde ortaya çıktı! Ereğli Pancar Kooperatifi suç duyurusunda bulundu",
+      "url": "https://www.tarimdanhaber.com/denetimlerde-ortaya-cikti-eregli-pancar-kooperatifi-suc-duyurusunda-bulundu",
+      "source": "Tarımdan Haber",
+      "date": "2026-07-09",
+      "summary": "Ereğli Pancar Ekicileri Kooperatifi Yönetim Kurulu Başkanı Yunus Çelik, Kazımkarabekir satış mağazasında görev yapan bir personelin yaklaşık dört yıldır sistematik şekilde usulsüz işlemler gerçekleştirdiğinin yapılan denetimlerde tespit edildiğini açıkladı. Çelik, olayın ortaya çıkmasının ardından s",
+      "content": "Haber Merkezi / Ereğli Pancar Ekicileri Kooperatifi'nde yürütülen denetimlerde dikkat çeken bir usulsüzlük iddiası ortaya çıktı. Kooperatif Yönetim Kurulu Başkanı Yunus Çelik, Kazımkarabekir satış mağazasında yaklaşık dokuz yıldır görev yapan bir personelin, ilk incelemelere göre yaklaşık dört yıldır sistematik şekilde usulsüz işlemler gerçekleştirdiğinin belirlendiğini açıkladı.\n\nYazılı bir açıklama yapan Çelik, göreve geldikleri günden bu yana yürüttükleri denetim ve incelemeler sonucunda söz konusu usulsüzlüğün ortaya çıkarıldığını belirterek, vakit kaybetmeden hukuki sürecin başlatıldığını ifade etti.\n\n\"Suç duyurusunda bulunduk\"\n\nÇelik, olayın tespit edilmesinin ardından kooperatif tarafından gerekli hukuki işlemlerin başlatıldığını belirterek şu bilgileri paylaştı:\n\n\"Hiçbir gecikmeye mahal verilmeden gerekli hukuki süreç başlatılmış, kooperatifimiz tarafından suç duyurusunda bulunulmuş ve adli makamlar harekete geçirilmiştir.\"\n\n\"Ortaklarımızın bir kuruşunun hesabını soracağız\"\n\nGöreve geldikleri ilk yıl içerisinde kooperatifin mali yapısını güçlendirmek ve üreticiye daha iyi hizmet sunmak amacıyla çalıştıklarını belirten Çelik, ilk sezonlarında 37 bin ton gübre satışı gerçekleştirdiklerini ifade etti.\n\nYaşanan olaydan büyük üzüntü duyduğunu dile getiren Çelik, ortakların haklarının korunmasının öncelikleri olduğunu vurgulayarak şu değerlendirmede bulundu:\n\n\"Ortaklarımızın bir kuruşunun dahi hesabını sormak bizim en temel sorumluluğumuzdur. Hiçbir usulsüzlüğün üzeri örtülmeyecek, süreç sonuna kadar titizlikle takip edilecek ve mağduriyetlerin giderilmesi için kooperatifimiz üzerine düşen tüm sorumluluğu yerine getirecektir.\"\n\nDenetim mekanizmaları güçlendirilecek\n\nAçıklamada, benzer olayların tekrar yaşanmaması için denetim ve kontrol mekanizmalarının daha da güçlendirileceği belirtilirken, Ereğli Pancar Ekicileri Kooperatifi'nin şeffaflık, dürüstlük ve hesap verebilirlik ilkeleri doğrultusunda faaliyetlerini sürdüreceği ifade edildi."
+    },
     {
       "title": "Tarım Kredi'nin yapamadığını Bucak Ziraat Odası yaptı! Üre gübresinde 315 TL fark",
       "url": "https://www.tarimdanhaber.com/tarim-kredinin-yapamadigini-bucak-ziraat-odasi-yapti-ure-gubresinde-315-tl-fark",
@@ -125,14 +133,6 @@
       "date": "2026-07-08",
       "summary": "Birleşmiş Milletler Gıda ve Tarım Örgütü (FAO), Haziran 2026'da Et Fiyat Endeksi'nin 131 puana yükselerek tarihi zirveye ulaştığını açıkladı. Artışta kümes hayvanı eti fiyatlarındaki yükseliş etkili olurken, domuz ve sığır eti fiyatlarında ise gerileme görüldü.",
       "content": "ROMA — Birleşmiş Milletler Gıda ve Tarım Örgütü (FAO), Haziran 2026 dönemine ilişkin yayımladığı Gıda Fiyat Endeksi bülteninde yer alan Et Fiyat Endeksi'nin aylık bazda yükselerek 131 puana ulaştığını ve yeni tarihi zirvesini gördüğünü açıkladı.\n\nFAO verilerine göre Endeks, Mayıs ayına kıyasla 0,5 puan (%0,4) artarken, geçen yılın aynı dönemine göre ise 5 puan (%4) yükseldi.\n\nEndeksteki artışın temel nedeni uluslararası kümes hayvanı eti fiyatlarındaki yükseliş oldu. FAO, güçlü küresel ithalat talebi ve Brezilya'da ihracat fiyatlarının yükselmesinin fiyat artışını desteklediğini belirtti. Kuruluş ayrıca, önceki dönemde yaşanan arz fazlasına karşı yapılan üretim düzenlemelerinin ardından iç piyasada arzın geçici olarak daralmasının da fiyatları yukarı yönlü etkilediğini bildirdi.\n\nHaziran ayında koyun eti fiyatları da küresel talebin güçlü seyretmesi ve ihracata konu olabilecek arzın sınırlı kalması nedeniyle yükselişini sürdürdü.\n\nBuna karşılık domuz eti fiyatları düşüş eğilimini devam ettirdi. FAO, Avrupa Birliği'nde arzın yüksek seyretmesi ve bazı Asya pazarlarında talebin zayıf kalmasının uluslararası fiyatlar üzerinde baskı oluşturduğunu kaydetti.\n\nSığır eti fiyatları ise sınırlı ölçüde geriledi. Rapora göre bu düşüşte, Avustralya'dan üçüncü çeyrekte ihracatın artacağı beklentisiyle fiyatların gerilemesi etkili oldu. Brezilya'da ise Çin'in uygulamaya koyduğu ithalat kotalarının dolma noktasına yaklaşması nedeniyle alımların kademeli olarak yavaşladığı, buna rağmen ihracat fiyatlarının genel olarak istikrarlı seyrettiği belirtildi.\n\nFAO'nun değerlendirmesine göre Haziran ayında küresel et piyasasında ürün grupları arasında farklı fiyat hareketleri görülse de özellikle kümes hayvanı eti fiyatlarındaki güçlü yükseliş toplam endeksin yeni rekor seviyeye ulaşmasında belirleyici oldu.\n\nTARIM PUSULASI HABER MERKEZİ"
-    },
-    {
-      "title": "TMO: 5,5 Milyar Liralık Hububat Ödemesi Hesaplara Yattı",
-      "url": "https://www.tarimpusulasi.com/haber/tmo-55-milyar-liralik-hububat-odemesi-hesaplara-yatti-47010",
-      "source": "Tarım Pusulası",
-      "date": "2026-07-08",
-      "summary": "Toprak Mahsulleri Ofisi (TMO), 11-17 Haziran 2026 tarihleri arasında teslim edilen hububat ürünlerine ilişkin 5 milyar 486 milyon TL'lik ürün bedelinin üreticilerin hesaplarına aktarıldığını duyurdu. Kurum, ödemelerin periyodik olarak devam edeceğini ve ödeme yapılan üreticilere SMS ile bilgilendirm",
-      "content": "ANKARA — Toprak Mahsulleri Ofisi (TMO), 2026 yılı hububat alımları kapsamında ürün teslim eden üreticilere yönelik ödemelerin sürdüğünü açıkladı.\n\nKurumun sosyal medya hesaplarından yapılan bilgilendirmeye göre, 11-17 Haziran 2026 tarihleri arasında teslim edilen hububat ürünleri için 5 milyar 486 milyon TL ürün bedeli üreticilerin banka hesaplarına aktarıldı.\n\nTMO, ödeme yapılan üreticilere kısa mesaj (SMS) yoluyla bilgilendirme yapıldığını bildirirken, kalan ödemelerin de periyodik olarak devam edeceğini duyurdu.\n\nHububat alım dönemlerinde ürün bedellerinin belirli aralıklarla üreticilerin hesaplarına aktarılması, TMO'nun uyguladığı ödeme takviminin bir parçası olarak yürütülüyor. Kurum, önceki yıllarda da ürün teslim tarihine göre kademeli ödeme yöntemini uygulamıştı.\n\nAçıklamada yalnızca 11-17 Haziran 2026 tarihleri arasında teslim edilen ürünlere ilişkin ödeme tutarı paylaşıldı. Son açıklamaya göre üreticilere aktarılan toplam ödeme 5 milyar 486 milyon TL olarak gerçekleşti. TMO, diğer teslim dönemlerine ait ödemelerin ise ilerleyen süreçte periyodik şekilde sürdürüleceğini bildirdi.\n\nÖte yandan kurum, ödeme sürecinin takibini kolaylaştırmak amacıyla ödeme yapılan üreticilere SMS ile bilgi verildiğini de açıkladı.\n\nTARIM PUSULASI HABER MERKEZİ"
     }
   ],
   "commoditiesByBorsa": {
@@ -330,6 +330,9 @@
   "note": "Fiyatlar TOBB ticaret borsasından (borsa seçilebilir). Kanola manuel (Trakya 2025).",
   "inputsNote": "Mazot: akaryakıt bayi fiyatı, günlük (şehir seçilebilir). Gübre: manuel (yaklaşık).",
   "errors": [
+    "borsa 5ED10: fetch failed",
+    "borsa 5KO10: fetch failed",
+    "borsa 5ES10: fetch failed",
     "mazot ANKARA: fetch failed",
     "mazot ISTANBUL: fetch failed",
     "mazot IZMIR: fetch failed",
