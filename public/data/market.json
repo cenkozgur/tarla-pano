@@ -1,26 +1,26 @@
 {
-  "updatedAt": "2026-07-09T22:25:34.215Z",
+  "updatedAt": "2026-07-09T23:46:26.181Z",
   "fx": [
     {
       "code": "USD",
       "name": "Dolar",
-      "buy": 469344,
-      "sell": 469859,
+      "buy": 46936,
+      "sell": 469833,
       "change": 13
     },
     {
       "code": "EUR",
       "name": "Euro",
-      "buy": 536848,
-      "sell": 537832,
-      "change": 1
+      "buy": 536908,
+      "sell": 537691,
+      "change": 0
     },
     {
       "code": "GRA",
       "name": "Gram Altın",
-      "buy": 622557,
-      "sell": 622648,
-      "change": 13
+      "buy": 622406,
+      "sell": 622501,
+      "change": 11
     },
     {
       "code": "CEYREKALTIN",
@@ -277,24 +277,24 @@
     }
   ],
   "dieselByCity": {
-    "ANKARA": 67.9,
-    "ISTANBUL": 66.73,
-    "IZMIR": 68.17,
-    "KONYA": 69.05,
-    "ADANA": 68.73,
-    "BURSA": 67.78,
-    "ANTALYA": 69.22,
-    "SAMSUN": 68.47,
-    "TEKIRDAG": 67.62,
-    "CANAKKALE": 68.53
+    "ANKARA": 70.98,
+    "ISTANBUL": 69.81,
+    "IZMIR": 71.25,
+    "KONYA": 72.13,
+    "ADANA": 71.81,
+    "BURSA": 70.86,
+    "ANTALYA": 72.3,
+    "SAMSUN": 71.55,
+    "TEKIRDAG": 70.7,
+    "CANAKKALE": 71.61
   },
   "inputs": [
     {
       "key": "motorin",
       "name": "Motorin (mazot)",
       "unit": "₺/lt",
-      "price": 68.53,
-      "change": 0,
+      "price": 71.61,
+      "change": 4.49,
       "source": "CANAKKALE ort."
     },
     {
@@ -330,15 +330,8 @@
   "note": "Fiyatlar TOBB ticaret borsasından (borsa seçilebilir). Kanola manuel (Trakya 2025).",
   "inputsNote": "Mazot: akaryakıt bayi fiyatı, günlük (şehir seçilebilir). Gübre: manuel (yaklaşık).",
   "errors": [
-    "mazot ANKARA: fetch failed",
-    "mazot ISTANBUL: fetch failed",
-    "mazot IZMIR: fetch failed",
-    "mazot KONYA: fetch failed",
-    "mazot ADANA: fetch failed",
-    "mazot BURSA: fetch failed",
-    "mazot ANTALYA: fetch failed",
-    "mazot SAMSUN: fetch failed",
-    "mazot TEKIRDAG: fetch failed",
-    "mazot CANAKKALE: fetch failed"
+    "borsa 5ED10: fetch failed",
+    "borsa 5KO10: fetch failed",
+    "borsa 5ES10: fetch failed"
   ]
 }
