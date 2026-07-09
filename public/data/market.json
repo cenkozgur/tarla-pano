@@ -1,32 +1,32 @@
 {
-  "updatedAt": "2026-07-09T05:52:13.675Z",
+  "updatedAt": "2026-07-09T08:54:48.274Z",
   "fx": [
     {
       "code": "USD",
       "name": "Dolar",
-      "buy": 468652,
-      "sell": 468796,
-      "change": 9
+      "buy": 46.87,
+      "sell": 46.88,
+      "change": 0.1
     },
     {
       "code": "EUR",
       "name": "Euro",
-      "buy": 536769,
-      "sell": 537261,
-      "change": 34
+      "buy": 53.71,
+      "sell": 53.72,
+      "change": 0.36
     },
     {
       "code": "GRA",
       "name": "Gram Altın",
-      "buy": 614805,
-      "sell": 614894,
-      "change": 21
+      "buy": 6194.01,
+      "sell": 6194.9,
+      "change": 0.96
     },
     {
       "code": "CEYREKALTIN",
       "name": "Çeyrek Altın",
-      "buy": 98281,
-      "sell": 1005293,
+      "buy": 9828.1,
+      "sell": 10052.93,
       "change": 0
     },
     {
@@ -34,10 +34,26 @@
       "name": "Cumhuriyet Altını",
       "buy": 40795,
       "sell": 41409,
-      "change": -197
+      "change": -1.97
     }
   ],
   "news": [
+    {
+      "title": "Tarım Kredi'nin yapamadığını Bucak Ziraat Odası yaptı! Üre gübresinde 315 TL fark",
+      "url": "https://www.tarimdanhaber.com/tarim-kredinin-yapamadigini-bucak-ziraat-odasi-yapti-ure-gubresinde-315-tl-fark",
+      "source": "Tarımdan Haber",
+      "date": "2026-07-09",
+      "summary": "Bucak Ziraat Odası'nın üre gübresinde uyguladığı 1.180 liralık satış fiyatı, Tarım Kredi Kooperatifleri'nin 1.495 liralık fiyatını 315 lira geride bıraktı. Yaklaşık yüzde 21'lik fiyat farkı, \"Çiftçi için daha uygun maliyetli tarımsal girdi sağlamak mümkün mü?\" sorusunu yeniden gündeme taşıdı.",
+      "content": "Haber Merkezi / Tarımsal üretimde en önemli maliyet kalemlerinden biri olan gübrede dikkat çeken bir fiyat farkı ortaya çıktı. Çiftçilerin ekonomik koşullar altında üretim yapmaya çalıştığı bir dönemde, Bucak Ziraat Odası'nın 50 kilogramlık üre gübresini 1.180 liradan satışa sunması, piyasada önemli bir tartışmanın fitilini ateşledi.\n\nAynı dönemde Tarım Kredi Kooperatifleri'nin aynı ürün için açıkladığı 1.495 liralık satış fiyatı ile karşılaştırıldığında, iki kurum arasında çuval başına 315 lira, yani yüzde 21'i aşan bir fiyat farkı bulunuyor.\n\nBüyük üretici için fark yüz binlerce liraya ulaşıyor\n\n315 liralık fark ilk bakışta küçük görünse de, toplu alımlarda ortaya çıkan tablo dikkat çekiyor.\n\n100 çuval alan bir üretici 31 bin 500 lira,\n\n200 çuval alan bir üretici 63 bin lira,\n\n500 çuval alan büyük ölçekli bir işletme ise 157 bin 500 lira daha az ödeme yapıyor.\n\nBu nedenle gübre fiyatındaki her indirim, doğrudan üretim maliyetine ve çiftçinin gelirine yansıyor.\n\nTartışma sadece fiyat değil, yönetim anlayışı\n\nBucak Ziraat Odası'nın uyguladığı fiyat politikası, yalnızca tek bir kampanya olarak değerlendirilmiyor. Odanın uzun süredir gübre başta olmak üzere çeşitli tarımsal girdilerde üretici lehine fiyat politikası izlediği belirtiliyor.\n\nBu durum, tarımsal örgütlerin temel görevlerinden biri olan üreticinin girdi maliyetlerini düşürme hedefinin nasıl hayata geçirildiği konusunda da yeni bir tartışma başlatıyor.\n\nTarım Kredi için dikkat çeken karşılaştırma\n\nTürkiye'nin en büyük çiftçi kuruluşlarından biri olan Tarım Kredi Kooperatifleri'nin amacı üreticinin uygun fiyatla tarımsal girdiye ulaşmasını sağlamak olarak ifade edilirken, Bucak Ziraat Odası'nın çok daha sınırlı imkanlarla aynı ürünü daha düşük fiyattan sunabilmesi dikkat çekiyor.\n\nOrtaya çıkan tablo, \"Daha düşük fiyat mümkünse, bu model neden daha yaygın uygulanmıyor?\" sorusunu da beraberinde getiriyor.\n\nBucak modeli örnek olabilir mi?\n\nBucak Ziraat Odası'nın uyguladığı fiyat politikası, yalnızca bölgesel bir kampanya olmanın ötesinde, tarımsal örgütlenme açısından dikkat çekici bir örnek olarak değerlendiriliyor.\n\nÜreticiler, benzer uygulamaların Tarım Kredi Kooperatifleri başta olmak üzere diğer kooperatifler ve üretici örgütleri tarafından da hayata geçirilmesinin, tarımsal üretim maliyetlerinin düşürülmesine önemli katkı sağlayacağını ifade ediyor.\n\nGözler diğer tarımsal kuruluşlarda\n\nÜretim maliyetlerinin sürekli arttığı bir dönemde Bucak Ziraat Odası'nın ortaya koyduğu fiyat politikası, tarım sektöründe yeni bir tartışmanın kapısını araladı. Aynı ürünün iki farklı kurum tarafından yüzde 21'i aşan fiyat farkıyla satılması, çiftçinin lehine daha uygun maliyetli tedarik modellerinin mümkün olup olmadığı sorusunu yeniden gündeme taşıdı.\n\nBu örnek, tarımsal örgütlerin sadece ürün temin eden kuruluşlar değil, aynı zamanda piyasada üretici lehine denge unsuru olabileceklerini de gösteren dikkat çekici bir model olarak öne çıkıyor."
+    },
+    {
+      "title": "USW: ABD Buğday İhracatı Son 5 Yılın En Yüksek Seviyesine Çıktı",
+      "url": "https://www.tarimpusulasi.com/haber/usw-abd-bugday-ihracati-son-5-yilin-en-yuksek-seviyesine-cikti-47014",
+      "source": "Tarım Pusulası",
+      "date": "2026-07-09",
+      "summary": "ABD buğday ihracatı, 2025/2026 pazarlama yılını yaklaşık 23,8 milyon tonluk sevkiyatla tamamladı. İhracat bir önceki sezona göre yaklaşık %15 artarken, satışların hem geleneksel hem de yeniden büyüyen pazarlarda güç kazanması ABD'nin küresel buğday ticaretindeki rekabet gücünü destekledi.",
+      "content": "KANSAS — ABD'nin 2025/2026 buğday pazarlama yılı, ihracatta güçlü bir performansla tamamlandı. 31 Mayıs 2026'da sona eren sezonda gerçekleştirilen nihai ihracat sevkiyatları 23,8 milyon metrik tona (MMT) ulaştı. Bu miktar yaklaşık 871 milyon bushele karşılık gelirken, önceki pazarlama yılına göre yaklaşık %15 artış gösterdi. Böylece ABD, 2020/2021 sezonundan bu yana en yüksek buğday ihracat hacmine ulaştı.\n\nUS Wheat Associates (USW), sezonun yalnızca ihracat miktarı açısından değil, satışların gerçekleştiği pazar çeşitliliği bakımından da dikkat çekici olduğunu belirtti. Kuruluşa göre hem geleneksel (çekirdek) pazarlarda hem de fiyat odaklı değişken (swing) pazarlarda yaşanan artış, ABD buğdayının uluslararası pazardaki konumunu güçlendirdi.\n\nUSW Denizaşırı Operasyonlardan Sorumlu Başkan Yardımcısı Brian Liedl, küresel piyasalarda jeopolitik belirsizlikler, yüksek navlun maliyetleri ve yoğun rekabete rağmen ABD buğdayının alıcı bulmaya devam ettiğini belirterek, büyük ihracatçı ülkelerde rekor veya rekora yakın üretimlere rağmen ABD ürünlerinin pazardaki yerini koruduğunu ifade etti.\n\n55'ten Fazla Ülkeye Satış Yapıldı\n\nABD Tarım Bakanlığı (USDA), sezon başında ihracatın 21,8 milyon ton olacağını öngörmüştü. Ancak yıl boyunca ticari satışların beklentilerin üzerinde seyretmesi nedeniyle tahminler birkaç kez yukarı yönlü revize edildi.\n\nSezon sonunda 55'in üzerinde ülke ABD buğdayı satın aldı. USW, bunun hem geleneksel alıcıların talebini sürdürdüğünü hem de yeniden büyüyen pazarlarda talebin arttığını gösterdiğini değerlendirdi.\n\nMeksika Liderliğini Korudu\n\nABD'nin en büyük buğday müşterisi yine Meksika oldu.\n\nMeksika, özellikle sert kırmızı kışlık (HRW) ve yumuşak kırmızı kışlık (SRW) buğdayın en büyük ithalatçısı olurken, sert kırmızı baharlık (HRS) buğdayda ise ikinci sırada yer aldı.\n\nÜlkenin toplam alımı yaklaşık 4,16 milyon ton olarak gerçekleşti. Bu rakam önceki pazarlama yılına göre yaklaşık %3 artış anlamına geliyor.\n\nBunun yanında Japonya, Filipinler ve Güney Kore de ABD buğdayının en önemli geleneksel alıcıları arasında yer aldı.\n\nNijerya ve Endonezya Dikkat Çekti\n\n2025/2026 sezonunda en güçlü büyüme gösteren pazarlardan biri Nijerya oldu.\n\nABD'nin Nijerya'ya yaptığı buğday satışları 1,65 milyon tona ulaştı. Bu miktar önceki yıla göre iki katından fazla artış gösterdi. Artış, dünya piyasalarında daha düşük fiyatlı alternatif tedarikçilere rağmen gerçekleşti.\n\nBir diğer dikkat çeken ülke ise Endonezya oldu.\n\nEndonezya'nın ABD buğdayı alımları 1,15 milyon tona yükselirken, önceki sezona göre yaklaşık %50 artış kaydedildi. USW, bu artışta Endonezya Un Sanayicileri Birliği (APTINDO) ile Temmuz ayında imzalanan mutabakatın etkili olduğunu belirtti.\n\nYeni Sezon Güçlü Başladı\n\nUSW Piyasa Analisti Luke Muller, küresel üretimdeki artışa ve jeopolitik baskılara rağmen ABD buğdayının uluslararası pazarda değerini koruduğunu söyledi.\n\nUSDA verilerine göre 2026/2027 pazarlama yılı için haziran ayı itibarıyla 3 milyon tonun üzerinde yeni satış kaydedildi. Aynı dönemde ABD'nin güney eyaletlerinde 2026 buğday hasadı da başladı.\n\nUSW, yeni sezonda hem geleneksel hem de gelişmekte olan pazarlardaki ticari ilişkilerin güçlendirilmesinin ihracat ivmesini korumada kritik rol oynayacağını değerlendirdi.\n\nTARIM PUSULASI HABER MERKEZİ"
+    },
     {
       "title": "Et ve Süt Kurumu'ndan \"İthalat Atağı\": Günlük 20 tıra çıktı, üreticinin fiyatı çakıldı!",
       "url": "https://www.tarimdanhaber.com/et-ve-sut-kurumundan-ithalat-atagi-gunluk-20-tira-cikti-ureticinin-fiyati-cakildi",
@@ -117,22 +133,6 @@
       "date": "2026-07-08",
       "summary": "Toprak Mahsulleri Ofisi (TMO), 11-17 Haziran 2026 tarihleri arasında teslim edilen hububat ürünlerine ilişkin 5 milyar 486 milyon TL'lik ürün bedelinin üreticilerin hesaplarına aktarıldığını duyurdu. Kurum, ödemelerin periyodik olarak devam edeceğini ve ödeme yapılan üreticilere SMS ile bilgilendirm",
       "content": "ANKARA — Toprak Mahsulleri Ofisi (TMO), 2026 yılı hububat alımları kapsamında ürün teslim eden üreticilere yönelik ödemelerin sürdüğünü açıkladı.\n\nKurumun sosyal medya hesaplarından yapılan bilgilendirmeye göre, 11-17 Haziran 2026 tarihleri arasında teslim edilen hububat ürünleri için 5 milyar 486 milyon TL ürün bedeli üreticilerin banka hesaplarına aktarıldı.\n\nTMO, ödeme yapılan üreticilere kısa mesaj (SMS) yoluyla bilgilendirme yapıldığını bildirirken, kalan ödemelerin de periyodik olarak devam edeceğini duyurdu.\n\nHububat alım dönemlerinde ürün bedellerinin belirli aralıklarla üreticilerin hesaplarına aktarılması, TMO'nun uyguladığı ödeme takviminin bir parçası olarak yürütülüyor. Kurum, önceki yıllarda da ürün teslim tarihine göre kademeli ödeme yöntemini uygulamıştı.\n\nAçıklamada yalnızca 11-17 Haziran 2026 tarihleri arasında teslim edilen ürünlere ilişkin ödeme tutarı paylaşıldı. Son açıklamaya göre üreticilere aktarılan toplam ödeme 5 milyar 486 milyon TL olarak gerçekleşti. TMO, diğer teslim dönemlerine ait ödemelerin ise ilerleyen süreçte periyodik şekilde sürdürüleceğini bildirdi.\n\nÖte yandan kurum, ödeme sürecinin takibini kolaylaştırmak amacıyla ödeme yapılan üreticilere SMS ile bilgi verildiğini de açıkladı.\n\nTARIM PUSULASI HABER MERKEZİ"
-    },
-    {
-      "title": "Rusya Tahıl Birliği: Türkiye'nin Haziran ayı buğday ithalatı ikiye katlandı",
-      "url": "https://www.tarimpusulasi.com/haber/rusya-tahil-birligi-turkiyenin-haziran-ayi-bugday-ithalati-ikiye-katlandi-47009",
-      "source": "Tarım Pusulası",
-      "date": "2026-07-07",
-      "summary": "Rusya Tahıl Birliği'nin ön verilerine göre Türkiye'nin Rusya'dan gerçekleştirdiği Haziran ayı buğday ithalatı geçen yılın aynı ayına göre iki kat artarak 201 bin tona ulaştı. Rusya'nın toplam tahıl ihracatı da 2,9 milyon tona yükselirken, artan sevkiyatlar küresel tahıl ticaretindeki dengelerin yeni",
-      "content": "MOSKOVA — Rusya Tahıl Birliği (RZS), ön verilere göre Rusya'nın Haziran ayında buğday, arpa ve mısırdan oluşan temel tahıl grubunda 2,9 milyon ton ihracat gerçekleştirdiğini açıkladı. Birliğin paylaştığı verilere göre bu miktar, geçen yılın aynı ayına göre yaklaşık iki katına karşılık geliyor.\n\nRusya Tahıl Birliği Analiz Departmanı Direktörü Elena Tyurina, Haziran ayında Rus buğdayını satın alan ülke sayısındaki artış eğiliminin sürdüğünü belirtti. Tyurina, özellikle Basra Körfezi ülkelerinin alımlarını hızlandırdığını, bu artışta Rusya'nın istikrarlı tedarik sağlayabilmesinin etkili olduğunu ifade etti.\n\nHaziran ayı verilerine göre Rus buğdayının en büyük alıcısı Suudi Arabistan oldu. Bu ülkeye yapılan sevkiyatlar geçen yılın aynı ayına göre 8,7 kat artarak 237 bin tona yükseldi.\n\n2026 sezonunun ikinci yarısında (Ocak-Haziran) dikkat çeken alıcılardan biri de Kenya oldu. Ülkenin Rusya'dan yaptığı buğday ithalatı 722 tondan 227 bin tona çıkarak yaklaşık 314 katlık artış gösterdi. Ancak kaynak açıklamasında bu artış 31 kat olarak ifade edildi. Açıklamadaki bu hesaplama ile verilen tonaj verileri arasında matematiksel uyumsuzluk bulunduğu görülüyor. Bu nedenle söz konusu rakamın resmi kaynak tarafından güncellenmesi halinde revize edilmesi beklenebilir.\n\nRusya'nın Türkiye'ye gerçekleştirdiği buğday ihracatı ise geçen yılın aynı ayına göre iki kat artarak 201 bin tona ulaştı.\n\nHaziran ayında Rus buğdayı satın almayan bazı ülkelerin yeniden alım yapmaya başlaması da ihracattaki dikkat çekici gelişmeler arasında yer aldı. Latin Amerika pazarında Brezilya'ya 155 bin ton, Venezuela'ya 63 bin ton ve Meksika'ya 53 bin ton buğday sevk edildi.\n\nAynı dönemde Tanzanya'ya 117 bin ton, Vietnam'a 55 bin ton ve Güney Afrika Cumhuriyeti'ne 54 bin ton buğday gönderildi. Ayrıca Hindistan'a 26 bin ton buğday ihraç edildi. Rusya Tahıl Birliği, Hindistan'a uzun süredir buğday ihracatı yapılmadığını belirterek bu sevkiyatın yeni bir gelişme olduğuna dikkat çekti.\n\nKüresel tahıl ticaretinde Rusya'nın ihracat pazarını hem coğrafi hem de alıcı ülke sayısı bakımından genişletmesi, uluslararası tahıl piyasalarında rekabetin devam ettiğine işaret ediyor. Türkiye açısından ise Rusya'nın ihracat hacmindeki değişimler, un sanayisi, yem sektörü ve iç piyasadaki tahıl arzı açısından yakından takip edilen gelişmeler arasında bulunuyor.\n\nTARIM PUSULASI HABER MERKEZİ"
-    },
-    {
-      "title": "Akşehir Ilgın Pancar Kooperatifi'nde 623 milyon liralık borç incelemeye alındı",
-      "url": "https://www.tarimdanhaber.com/aksehir-ilgin-pancar-kooperatifinde-623-milyon-liralik-borc-incelemeye-alindi",
-      "source": "Tarımdan Haber",
-      "date": "2026-07-07",
-      "summary": "Akşehir Ilgın Pancar Ekicileri Kooperatifi'nde ortaya çıkan 623 milyon liralık borç nedeniyle Tarım ve Orman Bakanlığı ile Pankobirlik harekete geçti. Kooperatifte son 10 yıllık faaliyetler müfettişler ve bağımsız denetçiler tarafından mercek altına alınacak.",
-      "content": "Haber Merkezi / Akşehir Ilgın Pancar Ekicileri Kooperatifi'nde seçimlerin ardından gündeme gelen 623 milyon liralık borçla ilgili inceleme süreci başladı. Tarım ve Orman Bakanlığı ile Pankobirlik tarafından görevlendirilen müfettişler, kooperatifte kapsamlı denetim yapacak.\n\nKooperatif başkanlığına seçilen Ahmet Kara'nın, 623 milyon liralık borcun oluşumunun araştırılması amacıyla Tarım ve Orman Bakanlığı'ndan müfettiş talebinde bulunduğu öğrenildi. Talebin ardından Bakanlık ile Pankobirlik tarafından görevlendirilen müfettişler kooperatifte incelemelere başladı.\n\nYaklaşık iki ay sürmesi beklenen denetim kapsamında, kooperatifin son 10 yıllık tüm mali ve idari faaliyetleri incelenecek. İnceleme ekibinde bağımsız denetçilerin de yer alacağı belirtilirken, 623 milyon liralık borcun hangi işlemler sonucunda oluştuğunun tespit edilmesi hedefleniyor.\n\nYürütülecek inceleme sonucunda hazırlanacak raporun, kooperatifin mali yapısına ilişkin önemli tespitler ortaya koyması bekleniyor. Özellikle borcun kaynağı, oluşum süreci ve sorumluluklara ilişkin bulguların denetim raporunda yer alacağı ifade ediliyor.\n\nİlgili Haber → Tarımda 'mutlak butlan' davası! Pancar kooperatifi seçimleri yargıya taşındı"
     }
   ],
   "commoditiesByBorsa": {
