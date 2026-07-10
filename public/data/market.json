@@ -1,40 +1,40 @@
 {
-  "updatedAt": "2026-07-10T21:42:36.574Z",
+  "updatedAt": "2026-07-10T22:41:20.651Z",
   "fx": [
     {
       "code": "USD",
       "name": "Dolar",
-      "buy": 46.94,
-      "sell": 47.04,
-      "change": 0.2
+      "buy": 469424,
+      "sell": 470434,
+      "change": 2
     },
     {
       "code": "EUR",
       "name": "Euro",
-      "buy": 53.62,
-      "sell": 53.72,
-      "change": -0.12
+      "buy": 536174,
+      "sell": 537187,
+      "change": -12
     },
     {
       "code": "GRA",
       "name": "Gram Altın",
-      "buy": 6224.7,
-      "sell": 6225.55,
-      "change": 0.12
+      "buy": 62247,
+      "sell": 622555,
+      "change": 12
     },
     {
       "code": "CEYREKALTIN",
       "name": "Çeyrek Altın",
-      "buy": 9887.48,
-      "sell": 10113.63,
-      "change": -0.72
+      "buy": 988748,
+      "sell": 1011363,
+      "change": -72
     },
     {
       "code": "CUMHURIYETALTINI",
       "name": "Cumhuriyet Altını",
       "buy": 40985,
       "sell": 41606,
-      "change": -0.5
+      "change": -5
     }
   ],
   "news": [
@@ -116,7 +116,7 @@
       "source": "Tarımdan Haber",
       "date": "2026-07-10",
       "summary": "ABD Tarım Bakanlığı'nın (USDA) 2026 Türkiye Gıda Perakendesi Raporu, Türkiye'de gıda perakendesinde yaşanan büyük dönüşümü gözler önüne serdi. Rapora göre organize zincir marketler pazarın üçte ikisine hakim olurken, ilk 10 market markası toplam gıda perakendesinin yüzde 46'sını kontrol ediyor. Ergi",
-      "content": "Haber Merkezi / ABD Tarım Bakanlığı Dış Tarım Servisi (USDA/FAS), 30 Haziran 2026 tarihinde yayımladığı Retail Foods Annual-Türkiye raporunda Türkiye'deki gıda perakende sektörüne ilişkin dikkat çekici tespitlerde bulundu. Raporda, ekonomik dalgalanmalara rağmen Türkiye'de gıda perakende sektörünün büyümeye devam ettiği, özellikle organize zincir marketlerin pazardaki ağırlığını her geçen yıl artırdığı belirtildi.\n\nTarım politikaları uzmanı Ergin Kahveci de USDA raporundaki verileri ayrıntılı şekilde analiz ederek, gıda ticaretinde yaşanan dönüşümün sadece perakendeciliği değil, tarımsal üretimin geleceğini de yakından ilgilendirdiğini ifade etti.\n\nGıda pazarı 120 milyar dolara ulaştı\n\nRapora göre Türkiye'nin toplam perakende pazarı 2025 yılında 224 milyar dolara ulaşırken bunun yaklaşık 120 milyar dolarlık bölümünü gıda perakendesi oluşturdu. Ülkede yaklaşık 370 bin zincir ve bağımsız market faaliyet gösterirken organize marketlerin payı her geçen yıl artmaya devam ediyor.\n\nUSDA verileri, organize marketlerin artık Türkiye gıda ticaretinin ana aktörü haline geldiğini ortaya koyuyor.\n\nGeleneksel bakkallar geriliyor\n\nRapora göre modern organize marketler toplam gıda satışlarında 79,3 milyar dolarlık hacme ulaşırken geleneksel bakkal ve küçük perakendecilerin satış hacmi 38,5 milyar dolarda kaldı. Online gıda satışları ise 2,5 milyar dolara yükseldi.\n\nErgin Kahveci, organize marketlerin yıllardır büyümesini sürdürürken geleneksel bakkalların pazar payının düzenli şekilde gerilediğini belirterek bunun yalnızca perakende sektörünü değil, üreticiden tüketiciye uzanan bütün zinciri etkilediğini vurguladı.\n\nİlk 10 market pazarın yüzde 46'sını elinde tutuyor\n\nUSDA raporuna göre BİM, Migros, A101, Şok, CarrefourSA, Seç, Ekomini, File, Hakmar ve Macrocenter'dan oluşan ilk 10 market markası 2025 yılında toplam 54,6 milyar dolarlık satış gerçekleştirerek organize market sektörünün yüzde 46'sını kontrol etti.\n\nBu tablo, gıda ticaretindeki yoğunlaşmanın her geçen yıl arttığını gösteriyor.\n\nErgin Kahveci: Aslında 10 marka değil, 6 büyük grup\n\nRapordaki şirket yapısını inceleyen Ergin Kahveci ise dikkat çekici bir tespitte bulundu.\n\nKahveci'ye göre tüketici raflarda 10 farklı market markası görse de şirket sahiplikleri incelendiğinde tablo değişiyor.\n\nBİM ve File aynı grubun bünyesinde faaliyet gösterirken, Migros, Macrocenter ve Ekomini Anadolu Grubu çatısı altında bulunuyor. Şok ile Seç mağazaları Yıldız Holding'e ait. CarrefourSA'nın da A101'in sahibi olan Turgut Aydın Holding tarafından satın alınmasıyla birlikte ilk 10 market markası fiilen 6 büyük grubun kontrolüne geçmiş durumda.\n\nKahveci, bu yapının piyasanın giderek daha fazla yoğunlaşmasına neden olduğunu belirterek bunun tarımsal üretim açısından dikkatle izlenmesi gereken bir gelişme olduğunu ifade etti.\n\nBüyüme sadece mağaza sayısında değil\n\nUSDA verilerine göre ilk 10 zincir marketin mağaza sayısı 2025 yılı sonunda 51 bin 916'ya ulaştı. BİM, A101 ve Şok mağaza sayısında ilk üç sırayı oluştururken satış gelirlerinde ise BİM, Migros ve A101 öne çıkıyor.\n\nErgin Kahveci, mağaza sayısındaki artışın yanında asıl dikkat edilmesi gereken noktanın sermayenin giderek daha az sayıda şirket bünyesinde toplanması olduğunu ifade etti.\n\nTarım sektörü açısından ne anlama geliyor?\n\nKahveci'ye göre bugün yaşanan değişim yalnızca marketlerin büyümesi olarak değerlendirilmemeli.\n\nPerakende satışındaki bu yoğunlaşmanın ilerleyen yıllarda tedarik, lojistik, depolama ve hatta üretim süreçlerine kadar uzanabileceğini belirten Kahveci, bunun çiftçilerin pazarlık gücünü azaltabilecek yeni bir piyasa yapısını beraberinde getirebileceği uyarısında bulundu.\n\nUzmanlara göre, üreticinin korunabilmesi için tarım piyasasında kamusal denge mekanizmalarının güçlendirilmesi, piyasa düzenleyici kurumların etkinliğinin artırılması ve üretici örgütlerinin daha güçlü hale getirilmesi önem taşıyor.\n\nUSDA raporundan öne çıkan veriler\n\nToplam perakende pazarı: 224 milyar dolar\n\nGıda perakende pazarı: 120,2 milyar dolar\n\nToplam market sayısı: 370 bin\n\nOrganize market satışları: 79,3 milyar dolar\n\nGeleneksel market satışları: 38,5 milyar dolar\n\nİlk 10 marketin satış hacmi: 54,6 milyar dolar\n\nİlk 10 marketin pazar payı: %46\n\nYarın yayımlanacak ikinci dosya: USDA raporunda Tarım Kredi Market detayı: Tarımdan Haber'e dikkat çeken atıf.\n\nÖzel Dosya: Gıda perakendesinde sessiz dönüşüm\n\nDOSYA-1: ABD Tarım Bakanlığı raporu: Türkiye'de gıda ticareti 6 büyük grubun kontrolüne gidiyor!\n\nDOSYA-2: USDA raporunda Tarım Kredi Market detayı: Kaynak olarak Tarımdan Haber gösterildi\n\nDOSYA-3: Zincir marketler büyüyor, peki çiftçi neden kazanamıyor?\n\nDOSYA-4: Ergin Kahveci uyardı: Perakendede başlayan yoğunlaşma yarın tarımsal üretime taşınabilir"
+      "content": "Haber Merkezi / ABD Tarım Bakanlığı Dış Tarım Servisi (USDA/FAS), 30 Haziran 2026 tarihinde yayımladığı Retail Foods Annual-Türkiye raporunda Türkiye'deki gıda perakende sektörüne ilişkin dikkat çekici tespitlerde bulundu. Raporda, ekonomik dalgalanmalara rağmen Türkiye'de gıda perakende sektörünün büyümeye devam ettiği, özellikle organize zincir marketlerin pazardaki ağırlığını her geçen yıl artırdığı belirtildi.\n\nTarım politikaları uzmanı Ergin Kahveci de USDA raporundaki verileri ayrıntılı şekilde analiz ederek, gıda ticaretinde yaşanan dönüşümün sadece perakendeciliği değil, tarımsal üretimin geleceğini de yakından ilgilendirdiğini ifade etti.\n\nGıda pazarı 120 milyar dolara ulaştı\n\nRapora göre Türkiye'nin toplam perakende pazarı 2025 yılında 224 milyar dolara ulaşırken bunun yaklaşık 120 milyar dolarlık bölümünü gıda perakendesi oluşturdu. Ülkede yaklaşık 370 bin zincir ve bağımsız market faaliyet gösterirken organize marketlerin payı her geçen yıl artmaya devam ediyor.\n\nUSDA verileri, organize marketlerin artık Türkiye gıda ticaretinin ana aktörü haline geldiğini ortaya koyuyor.\n\nGeleneksel bakkallar geriliyor\n\nRapora göre modern organize marketler toplam gıda satışlarında 79,3 milyar dolarlık hacme ulaşırken geleneksel bakkal ve küçük perakendecilerin satış hacmi 38,5 milyar dolarda kaldı. Online gıda satışları ise 2,5 milyar dolara yükseldi.\n\nErgin Kahveci, organize marketlerin yıllardır büyümesini sürdürürken geleneksel bakkalların pazar payının düzenli şekilde gerilediğini belirterek bunun yalnızca perakende sektörünü değil, üreticiden tüketiciye uzanan bütün zinciri etkilediğini vurguladı.\n\nİlk 10 market pazarın yüzde 46'sını elinde tutuyor\n\nUSDA raporuna göre BİM, Migros, A101, Şok, CarrefourSA, Seç, Ekomini, File, Hakmar ve Macrocenter'dan oluşan ilk 10 market markası 2025 yılında toplam 54,6 milyar dolarlık satış gerçekleştirerek organize market sektörünün yüzde 46'sını kontrol etti.\n\nBu tablo, gıda ticaretindeki yoğunlaşmanın her geçen yıl arttığını gösteriyor.\n\nErgin Kahveci: Aslında 10 marka değil, 6 büyük grup\n\nRapordaki şirket yapısını inceleyen Ergin Kahveci ise dikkat çekici bir tespitte bulundu.\n\nKahveci'ye göre tüketici raflarda 10 farklı market markası görse de şirket sahiplikleri incelendiğinde tablo değişiyor.\n\nBİM ve File aynı grubun bünyesinde faaliyet gösterirken, Migros, Macrocenter ve Ekomini Anadolu Grubu çatısı altında bulunuyor. Şok ile Seç mağazaları Yıldız Holding'e ait. CarrefourSA'nın da A101'in sahibi olan Turgut Aydın Holding tarafından satın alınmasıyla birlikte ilk 10 market markası fiilen 6 büyük grubun kontrolüne geçmiş durumda.\n\nKahveci, bu yapının piyasanın giderek daha fazla yoğunlaşmasına neden olduğunu belirterek bunun tarımsal üretim açısından dikkatle izlenmesi gereken bir gelişme olduğunu ifade etti.\n\nBüyüme sadece mağaza sayısında değil\n\nUSDA verilerine göre ilk 10 zincir marketin mağaza sayısı 2025 yılı sonunda 51 bin 916'ya ulaştı. BİM, A101 ve Şok mağaza sayısında ilk üç sırayı oluştururken satış gelirlerinde ise BİM, Migros ve A101 öne çıkıyor.\n\nErgin Kahveci, mağaza sayısındaki artışın yanında asıl dikkat edilmesi gereken noktanın sermayenin giderek daha az sayıda şirket bünyesinde toplanması olduğunu ifade etti.\n\nTarım sektörü açısından ne anlama geliyor?\n\nKahveci'ye göre bugün yaşanan değişim yalnızca marketlerin büyümesi olarak değerlendirilmemeli.\n\nPerakende satışındaki bu yoğunlaşmanın ilerleyen yıllarda tedarik, lojistik, depolama ve hatta üretim süreçlerine kadar uzanabileceğini belirten Kahveci, bunun çiftçilerin pazarlık gücünü azaltabilecek yeni bir piyasa yapısını beraberinde getirebileceği uyarısında bulundu.\n\nUzmanlara göre, üreticinin korunabilmesi için tarım piyasasında kamusal denge mekanizmalarının güçlendirilmesi, piyasa düzenleyici kurumların etkinliğinin artırılması ve üretici örgütlerinin daha güçlü hale getirilmesi önem taşıyor.\n\nUSDA raporundan öne çıkan veriler\n\nToplam perakende pazarı: 224 milyar dolar\n\nGıda perakende pazarı: 120,2 milyar dolar\n\nToplam market sayısı: 370 bin\n\nOrganize market satışları: 79,3 milyar dolar\n\nGeleneksel market satışları: 38,5 milyar dolar\n\nİlk 10 marketin satış hacmi: 54,6 milyar dolar\n\nİlk 10 marketin pazar payı: %46\n\nYarın yayımlanacak ikinci dosya: USDA raporunda Tarım Kredi Market detayı: Tarımdan Haber'e dikkat çeken atıf.\n\nÖzel Dosya: Gıda perakendesinde sessiz dönüşüm\n\nDOSYA-1: ABD Tarım Bakanlığı raporu: Türkiye'de gıda ticareti 6 büyük grubun kontrolüne gidiyor!\n\nDOSYA-2: USDA raporunda Tarım Kredi Market detayı: Kaynak olarak Tarımdan Haber gösterildi\n\nDOSYA-3: Zincir marketler büyüyor, peki çiftçi neden kazanamıyor?\n\nDOSYA-4: Ergin Kahveci uyardı: Perakendede başlayan yoğunlaşma yarın tarımsal üretime taşınabilir\n\nKaynak analiz\n\nBu haber, tarım politikaları uzmanı Ergin Kahveci'nin USDA'nın 2026 Türkiye Gıda Perakendesi Raporu üzerine hazırladığı kapsamlı analizden yararlanılarak hazırlanmıştır.\n\nAnalizin tamamını okumak için tıklayın → [Perakende gıda pazarı büyümeye devam ederken biz n"
     },
     {
       "title": "Hayvan sevkinde ağır ceza dönemi! Büyükbaşta hayvan başına 7 bin 863 TL ceza",
