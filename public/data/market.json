@@ -1,26 +1,26 @@
 {
-  "updatedAt": "2026-07-10T15:56:25.930Z",
+  "updatedAt": "2026-07-10T17:49:43.293Z",
   "fx": [
     {
       "code": "USD",
       "name": "Dolar",
       "buy": 46.98,
       "sell": 46.99,
-      "change": 0.18
+      "change": 0.17
     },
     {
       "code": "EUR",
       "name": "Euro",
-      "buy": 53.76,
-      "sell": 53.78,
-      "change": 0.07
+      "buy": 53.69,
+      "sell": 53.72,
+      "change": -0.05
     },
     {
       "code": "GRA",
       "name": "Gram Altın",
-      "buy": 6208.73,
-      "sell": 6209.53,
-      "change": -0.14
+      "buy": 6198.1,
+      "sell": 6199.02,
+      "change": -0.31
     },
     {
       "code": "CEYREKALTIN",
@@ -38,6 +38,22 @@
     }
   ],
   "news": [
+    {
+      "title": "Oil World: AB ayçiçeği üretimi 9,8 milyon tona çıkabilir",
+      "url": "https://www.tarimpusulasi.com/haber/oil-world-ab-aycicegi-uretimi-98-milyon-tona-cikabilir-47034",
+      "source": "Tarım Pusulası",
+      "date": "2026-07-10",
+      "summary": "Almanya merkezli tarım analiz kuruluşu Oil World, Avrupa Birliği'nde 2026/27 pazarlama yılında ayçiçeği üretiminin kuraklığın etkilediği geçen sezonun ardından güçlü toparlanma göstereceğini öngördü. Artan üretimin yalnızca AB piyasasını değil, Türkiye'nin ithalatı ve Karadeniz bölgesindeki ayçiçeği",
+      "content": "HAMBURG — Avrupa Birliği'nde (AB) ayçiçeği üretiminin 2026/27 pazarlama yılında önemli ölçüde artması bekleniyor. Almanya merkezli tarım analiz kuruluşu Oil World, geçen sezon kuraklığın olumsuz etkilediği üretimin bu yıl daha elverişli hava koşulları ve artan ekim alanları sayesinde toparlanacağını öngörüyor.\n\nKuruluşun tahminine göre AB'nin ayçiçeği üretimi 9,8 milyon tona ulaşacak. Bu miktar, önceki sezona göre 1,1 milyon tonluk artış anlamına geliyor. Buna göre geçen sezon üretimin yaklaşık 8,7 milyon ton seviyesinde gerçekleştiği hesaplanıyor.\n\nAnalistler, üretim artışının temel nedenleri arasında topraktaki nem seviyesinin geçen yıla göre daha yüksek olması ve üreticilerin ayçiçeği ekim alanlarını genişletmesini gösteriyor.\n\nAyçiçeği ekim alanlarında en büyük artışın Macaristan, Fransa, Bulgaristan, Romanya ve İspanya'da gerçekleşmesi bekleniyor. Haziran ayı sonunda görülen sıcak hava dalgasına rağmen sonraki yağışların birçok bölgede ürün gelişimini olumlu etkilediği, bunun da ortalama verimin geçen sezona göre yaklaşık yüzde 6 artmasını sağlayabileceği belirtiliyor.\n\nİşleme sanayisi de büyüyebilir\n\nÜretimde beklenen artışın ayçiçeği işleme sektörünü de desteklemesi öngörülüyor.\n\nOil World'e göre Avrupa Birliği'nde ayçiçeği işleme miktarı 2026/27 sezonunda 8,5 milyon tona ulaşabilir. Bu gerçekleşirse son üç yılın en yüksek işleme hacmi kaydedilmiş olacak.\n\nİşleme kapasitesindeki artışın özellikle Romanya, Fransa, Macaristan ve Bulgaristan öncülüğünde gerçekleşmesi beklenirken, mevcut tesis kapasiteleri ile kanola ve soya gibi alternatif yağlı tohumlarla yaşanan rekabetin büyümeyi sınırlandırabileceği ifade ediliyor.\n\nTürkiye'nin üretimi ticareti etkileyebilir\n\nRaporda Türkiye'ye ilişkin dikkat çeken bir değerlendirme de yer aldı.\n\nAnalistlere göre Türkiye'de beklenen yüksek ayçiçeği üretiminin gerçekleşmesi halinde ülkenin ithalat ihtiyacı önemli ölçüde azalabilir. Bu durumun özellikle Romanya ve Bulgaristan'ın Türkiye'ye gerçekleştirdiği ayçiçeği tohumu ihracatını düşürebileceği belirtiliyor.\n\nTürkiye, son yıllarda ayçiçeği tohumu ve ham ayçiçek yağı ithalatında Avrupa Birliği ile Karadeniz bölgesinin önemli alıcıları arasında yer alıyor. Bu nedenle ülkedeki üretim miktarında yaşanacak değişim, bölgesel ticaret dengeleri açısından önem taşıyor.\n\nAB'nin ithalatı da azalabilir\n\nArtan iç üretim ve ihracattaki düşüşün Avrupa Birliği'nin ithalat ihtiyacını da azaltması bekleniyor.\n\nOil World, AB'nin 2026/27 sezonunda ayçiçeği ithalatının yaklaşık yarı yarıya azalarak 0,9 milyon tona gerileyebileceğini tahmin ediyor.\n\nBu gelişmenin özellikle Avrupa pazarına önemli miktarda ayçiçeği ihraç eden Arjantinli tedarikçiler üzerinde olumsuz etki oluşturabileceği değerlendiriliyor.\n\nTARIM PUSULASI HABER MERKEZİ"
+    },
+    {
+      "title": "AB Komisyonu çiftçilere gübre desteğini artırma kararı aldı",
+      "url": "https://www.tarimpusulasi.com/haber/ab-komisyonu-ciftcilere-gubre-destegini-artirma-karari-aldi-47033",
+      "source": "Tarım Pusulası",
+      "date": "2026-07-10",
+      "summary": "Avrupa Birliği, gübre maliyetlerinin üretici üzerindeki yükünü hafifletmek amacıyla Ortak Tarım Politikası'nda önemli değişikliklere gidiyor. Avrupa Parlamentosu'nun kabul ettiği düzenlemeyle çiftçilere gübre alımında maliyet desteği artırılırken, doğrudan destek ödemeleri de erkene çekilecek. Karar",
+      "content": "BRÜKSEL — Avrupa Birliği'nin tarım desteklerinde yaptığı yeni düzenlemeler, yalnızca Avrupa'daki üreticileri değil, küresel tarım piyasalarını da yakından ilgilendiriyor. Gübre maliyetlerinin üretici bütçesindeki yüksek payı nedeniyle alınan kararların, uluslararası rekabet ve üretim maliyetleri açısından Ülkemizdeki tarım sektörü tarafından da takip edilmesi bekleniyor.\n\nAvrupa Parlamentosu, Avrupa Komisyonu'nun Ortak Tarım Politikası'nda (OTP) önerdiği değişiklikleri kabul ederek çiftçilerin yeni üretim sezonu öncesinde gübre alımlarını kolaylaştıracak düzenlemelere onay verdi.\n\nYeni düzenlemeye göre çiftçiler, gübre alımından kaynaklanan ilave maliyetlerinin yüzde 80'ine kadar likidite desteğinden yararlanabilecek. Düzenlemenin amacı; üretimde düşüş yaşanmasını önlemek, gıda kalitesini korumak ve tüketici fiyatları üzerindeki baskıyı azaltmak olarak açıklandı.\n\nKararla birlikte Avrupa Birliği üyesi ülkeler, doğrudan destek ödemelerinde verilen avansı yüzde 70'ten yüzde 75'e yükseltebilecek. Ayrıca mevcut uygulamada 16 Ekim'den sonra yapılabilen ödemeler, başvuruların alınmasının ardından daha erken tarihte çiftçilere aktarılabilecek.\n\nDüzenleme kapsamında üye ülkelere, gelecek yılın doğrudan ödeme bütçesini daha esnek şekilde yeniden planlama yetkisi de verilecek.\n\nAvrupa Komisyonu'nun değerlendirmesine göre gübre giderleri, tarım işletmelerinin toplam üretim maliyetlerinin yüzde 16'sına kadarını oluşturuyor. Bu nedenle gübre fiyatlarındaki değişimler, üretim maliyetleri ve gıda arzı üzerinde doğrudan etkili oluyor.\n\nUzmanlar, Avrupa Birliği'nin aldığı bu kararın, özellikle yüksek gübre maliyetlerinin tartışıldığı dönemde üretimin sürdürülebilirliğini desteklemeyi amaçladığını belirtiyor. Düzenlemenin, uluslararası tarım piyasalarında rekabet koşulları açısından da yakından takip edilmesi bekleniyor.\n\nTARIM PUSULASI HABER MERKEZİ"
+    },
     {
       "title": "İngiltere'de pestisit tartışması yeniden alevlendi",
       "url": "https://www.tarimpusulasi.com/haber/ingilterede-pestisit-tartismasi-yeniden-alevlendi-47032",
@@ -85,22 +101,6 @@
       "date": "2026-07-10",
       "summary": "Rusya'da buğday ihracatında 11 haftadır sıfır olarak uygulanan değişken ihracat vergisi yeniden yürürlüğe giriyor. Arpa ve mısırda vergi sıfır seviyesinde kalırken, buğdaydaki yeni vergi küresel tahıl piyasası açısından yakından izleniyor.",
       "content": "MOSKOVA — Rusya'da buğday ihracatında 11 haftadır sıfır seviyesinde uygulanan değişken ihracat vergisi yeniden yürürlüğe giriyor. Yeni dönemde buğday ihracatına ton başına 370,1 ruble vergi uygulanacak. Arpa ve mısır ihracatında ise vergi sıfır olarak kalmaya devam edecek.\n\nRusya'nın uyguladığı değişken ihracat vergisi sistemi, dünyanın en büyük buğday ihracatçılarından biri olan ülkenin dış satışlarını ve küresel tahıl piyasasını yakından ilgilendiriyor. Vergideki değişiklikler, uluslararası buğday fiyatları üzerinde de etkili olabiliyor.\n\nYeni vergi oranı 15-21 Temmuz döneminde geçerli olacak. Önceki hafta 8-14 Temmuz döneminde de buğday için ton başına 370,1 ruble vergi uygulanmıştı. Daha önce nisan ayı başında vergi 329 ruble seviyesindeyken, daha sonra sıfıra indirilmiş ve 11 hafta boyunca bu seviyede kalmıştı.\n\nVergi hesaplamasında esas alınan gösterge ihracat fiyatları da güncellendi. Buna göre buğdayın gösterge fiyatı 239,4 dolardan 232,3 dolara, arpanın 218,3 dolardan 213,6 dolara gerilerken, mısırın gösterge fiyatı 230,3 dolardan 230,5 dolara yükseldi.\n\nRusya, buğday, arpa ve mısır için uyguladığı değişken ihracat vergisi sistemini 2021 yılında yürürlüğe koydu. \"Tahıl tampon mekanizması\" olarak adlandırılan uygulamada vergi, gösterge ihracat fiyatı ile baz fiyat arasındaki farkın yüzde 70'i üzerinden hesaplanıyor. Gösterge fiyatlar ise Moskova Borsası'na bildirilen ihracat sözleşmeleri esas alınarak belirleniyor.\n\nRusya'nın buğday ihracat politikalarında yaptığı değişiklikler, başta ithalatçı ülkeler olmak üzere küresel tahıl ticaretini yakından izleyen piyasa aktörleri tarafından takip ediliyor.\n\nTARIM PUSULASI HABER MERKEZİ"
-    },
-    {
-      "title": "Ulusal Pirinç Birliği: Rusya Pirinç İhracatına Yeniden Açılıyor",
-      "url": "https://www.tarimpusulasi.com/haber/ulusal-pirinc-birligi-rusya-pirinc-ihracatina-yeniden-aciliyor-47026",
-      "source": "Tarım Pusulası",
-      "date": "2026-07-10",
-      "summary": "Rusya Ulusal Pirinç Birliği, hükümetin yeni düzenlemesiyle pirinç ihracatının yeniden serbest bırakılacağını açıkladı. Sektör temsilcileri, ihracatın yeniden başlamasının iç piyasadaki arz fazlasını azaltabileceğini ancak ihracatçıların eski pazarlara dönebilmesi için devlet desteklerinin de genişle",
-      "content": "MOSKOVA — Rusya Ulusal Pirinç Birliği, hükümetin aldığı yeni kararla ülkenin pirinç ihracatında yeniden tam normalleşme sürecine girdiğini açıkladı. Yeni düzenleme kapsamında çeltik ihracatına getirilen kısıtlamaların kaldırılması planlanırken, pirinç ve işlenmiş pirinç ürünlerinin ihracatı ise mevcut düzenlemelerde zaten serbest durumda bulunuyor.\n\nRusya, 2022 yılında Fedorovski Hidroelektrik Tesisi'nde meydana gelen kazanın ardından iç piyasada arz güvenliğini sağlamak amacıyla pirinç ihracatını büyük ölçüde durdurmuş, ihracat yasağı sonraki yıllarda da uzatılmıştı.\n\n2026 yılı itibarıyla Rus hükümeti, 200 bin tonluk tarife kotası kapsamında çeltik ihracatına izin verdi. Sektör temsilcileri ise ihracatın tamamen serbest bırakılması için hazırlıkların sürdüğünü açıkladı.\n\nUlusal Pirinç Birliği, ihracatın yeniden başlamasının sektör açısından önemli olduğunu ancak bunun tek başına yeterli olmayacağını belirtti. Birlik, ihracat kısıtlamalarının uygulandığı dönemde Rus ihracatçılarının önemli bölümünün dış pazarlardaki müşterilerini kaybettiğine dikkat çekti.\n\nAçıklamada, geçmişte birçok ülkenin ağırlıklı olarak Rusya'nın orta taneli pirincini tercih ettiği, ancak son yıllarda uluslararası pazarda uzun taneli ve iri taneli pirince olan talebin arttığı ifade edildi. Bu nedenle eski pazarlara dönüşün yalnızca ticari ilişkilerin yeniden kurulmasıyla değil, aynı zamanda çeşit geliştirme ve üretim politikalarının da yeniden şekillendirilmesiyle mümkün olabileceği vurgulandı.\n\nBirlik ayrıca pirinç ihracatçılarına taşıma desteği verilmesini önerdi. Mevcut ihracat taşımacılığı destekleri kapsamında pirinç ve pirinç ürünlerinin yer almaması nedeniyle sektörün devlet desteklerinden yeterince yararlanamadığı belirtildi.\n\nRusya'da ihracat kısıtlamaları öncesinde yıllık çeltik üretimi yaklaşık 1,2 milyon ton seviyesinde bulunuyordu. Bunun büyük bölümü iç pazarda tüketilirken, her yıl yaklaşık 140-160 bin ton pirinç ihraç ediliyordu.\n\nUlusal Pirinç Birliği'ne göre bu ihracat hacmi üretim ve tüketim arasındaki dengeyi koruyor, fiyatların istikrarına katkı sağlıyor ve üreticilerin yatırım yapabilecek düzeyde gelir elde etmesine imkân tanıyordu.\n\nİhracatın durdurulmasının ardından iç piyasada oluşan ürün fazlasının son yıllarda çeltik fiyatları üzerinde aşağı yönlü baskı oluşturduğu değerlendirmesi yapıldı.\n\nTARIM PUSULASI HABER MERKEZİ"
-    },
-    {
-      "title": "Agroexport: Rusya, Afrika Buğday Pazarındaki Payını Büyüttü",
-      "url": "https://www.tarimpusulasi.com/haber/agroexport-rusya-afrika-bugday-pazarindaki-payini-buyuttu-47025",
-      "source": "Tarım Pusulası",
-      "date": "2026-07-10",
-      "summary": "Rusya'nın tarım ürünleri ihracatını geliştirme kurumu Agroexport'a göre ülke, 2025/26 sezonunda Tanzanya'ya 850 bin tonun üzerinde buğday ihraç ederek rekor kırdı. Doğu Afrika pazarındaki büyümesini sürdüren Rusya, Afrika'daki buğday ticaretindeki ağırlığını artırırken bölgedeki rekabet de güçleniyo",
-      "content": "MOSKOVA — Rusya Tarım Ürünleri İhracat Geliştirme Merkezi (Agroexport), Rusya'nın 2025/26 sezonunda Afrika pazarındaki buğday satışlarını artırmayı sürdürdüğünü açıkladı. Kurumun verilerine göre Tanzanya'ya yapılan buğday ihracatı 850 bin tonun üzerine çıkarak şimdiye kadarki en yüksek seviyeye ulaştı.\n\nAgroexport'un değerlendirmesine göre Tanzanya'ya yapılan sevkiyatlar, bir önceki sezona göre yüzde 16, son beş sezon ortalamasına göre ise yüzde 47 artış gösterdi.\n\nVerilere göre Tanzanya, 2025/26 sezonunda toplam yaklaşık 1,5 milyon ton buğday ithal etti. Böylece Rusya, ülkenin en büyük buğday tedarikçisi konumunu korudu. Agroexport, son yıllarda Rus ihracatçılarının güçlü lojistik altyapısı ve rekabetçi fiyat politikası sayesinde Tanzanya pazarındaki payını artırdığını belirtti.\n\nABD Tarım Bakanlığı (USDA) ise yeni sezonda Tanzanya'nın toplam hububat ithalatının 1,6 milyon tona yükseleceğini öngörüyor. Bu beklenti, Doğu Afrika'nın önümüzdeki dönemde de önemli ithalat pazarlarından biri olmaya devam edeceğine işaret ediyor.\n\nAgroexport ayrıca Doğu Afrika Topluluğu ülkelerinin Rusya'nın Afrika'ya yönelik buğday ihracatındaki payının arttığını bildirdi. Kurumun verilerine göre Kenya, Tanzanya ve Uganda'nın başı çektiği bölgeye 2025/26 sezonunda toplam 3,5 milyon ton buğday sevk edildi. Bu miktar, Rusya'nın Afrika'ya yaptığı toplam buğday ihracatının yaklaşık yüzde 16-17'sini oluştururken, önceki sezona göre yüzde 26 artış anlamına geliyor.\n\nRusya'nın Afrika pazarındaki büyümesi, özellikle buğday ve un ticaretinde faaliyet gösteren ihracatçılar açısından bölgedeki rekabetin güçlendiğine işaret ediyor.\n\nTARIM PUSULASI HABER MERKEZİ"
     },
     {
       "title": "Kırmızı et fiyatları (10 Temmuz 2026)",
@@ -328,5 +328,17 @@
   "defaultBorsa": "5ED10",
   "defaultCity": "CANAKKALE",
   "note": "Fiyatlar TOBB ticaret borsasından (borsa seçilebilir). Kanola manuel (Trakya 2025).",
-  "inputsNote": "Mazot: akaryakıt bayi fiyatı, günlük (şehir seçilebilir). Gübre: manuel (yaklaşık)."
+  "inputsNote": "Mazot: akaryakıt bayi fiyatı, günlük (şehir seçilebilir). Gübre: manuel (yaklaşık).",
+  "errors": [
+    "mazot ANKARA: fetch failed",
+    "mazot ISTANBUL: fetch failed",
+    "mazot IZMIR: fetch failed",
+    "mazot KONYA: fetch failed",
+    "mazot ADANA: fetch failed",
+    "mazot BURSA: fetch failed",
+    "mazot ANTALYA: fetch failed",
+    "mazot SAMSUN: fetch failed",
+    "mazot TEKIRDAG: fetch failed",
+    "mazot CANAKKALE: fetch failed"
+  ]
 }
