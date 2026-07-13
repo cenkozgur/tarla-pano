@@ -1,43 +1,59 @@
 {
-  "updatedAt": "2026-07-13T13:31:41.027Z",
+  "updatedAt": "2026-07-13T16:04:43.957Z",
   "fx": [
     {
       "code": "USD",
       "name": "Dolar",
-      "buy": 46.99,
-      "sell": 47,
-      "change": 0.01
+      "buy": 47,
+      "sell": 47.01,
+      "change": 0.02
     },
     {
       "code": "EUR",
       "name": "Euro",
-      "buy": 53.77,
-      "sell": 53.78,
-      "change": 0.2
+      "buy": 53.65,
+      "sell": 53.68,
+      "change": -0.01
     },
     {
       "code": "GRA",
       "name": "Gram Altın",
-      "buy": 6138.26,
-      "sell": 6139.21,
-      "change": -1.39
+      "buy": 6070.33,
+      "sell": 6071.25,
+      "change": -2.48
     },
     {
       "code": "CEYREKALTIN",
       "name": "Çeyrek Altın",
-      "buy": 9818.04,
-      "sell": 10042.66,
-      "change": -0.95
+      "buy": 9776.92,
+      "sell": 10000.64,
+      "change": -1.36
     },
     {
       "code": "CUMHURIYETALTINI",
       "name": "Cumhuriyet Altını",
-      "buy": 40715,
-      "sell": 41336,
-      "change": -0.91
+      "buy": 40595,
+      "sell": 41216,
+      "change": -1.2
     }
   ],
   "news": [
+    {
+      "title": "Sencer Solakoğlu: Tarım Bakanlığı ne yaptığını bilmiyor",
+      "url": "https://www.tarimpusulasi.com/haber/sencer-solakoglu-tarim-bakanligi-ne-yaptigini-bilmiyor-47052",
+      "source": "Tarım Pusulası",
+      "date": "2026-07-13",
+      "summary": "Feyz Çiftliği Sahibi Sencer Solakoğlu, katıldığı canlı yayında hayvancılıktaki salgın hastalıklardan markalaşma eksikliğine, bürokratik zafiyetlerden ari çiftlik denetimlerindeki baskılara kadar tarım sektörünü sarsacak çarpıcı açıklamalarda bulundu. Bursa'da kendi işletmesinde yaşanan ari belge ipt",
+      "content": "BURSA — Feyz Çiftliği Sahibi Sencer Solakoğlu, AGRO TV ekranlarında yayınlanan “AGRO TV İle Günaydın” programında moderatör Taner Öztürk’ün konuğu oldu. Programın ikinci bölümünde tarım ve hayvancılıkta yaşanan yapısal krizleri, salgın hastalıkları ve bürokratik engelleri sert bir dille eleştirmeye devam eden Solakoğlu, sektörün küresel pazardaki markalaşma zafiyetlerinden Tarım ve Orman Bakanlığı'nın sahada uyguladığı baskıcı politikalara kadar çok konuşulacak iddialarda bulundu.\n\n\"Kendi Markamızı Oluşturmazsak Fındığı Bu Fiyata Kimse Almaz\"\n\nTürkiye'nin tarımsal ürünlerde kendi küresel markalarını yaratamaması halinde dünya piyasalarında ezilmeye mahkum olduğunu belirten Solakoğlu, geçmişte Fisko Birlik’in ortadan kaldırılmasını örnek gösterdi. Üreticilere seslenen Solakoğlu, \"Ağzınızla kuş tutsanız bile kendi markalarımızı oluşturmazsak fındığınızı bu fiyattan kimse almayacaktır. Dünyadaki fiyatlar ortada. Biz niye beyaz peynirimizi doğru düzgün markalaştıramıyoruz da Yunanlılar bunu 'Feta cheese' adıyla dünyaya pazarlıyor? Neden geleneksel Türk yoğurdu değil de Yunan yoğurdu olarak satılıyor?\" diyerek tarımdaki vizyonsuzluğa dikkat çekti.\n\nŞap Hastalığı Rezaleti: \"Savcıları Göreve Çağırıyorum\"\n\nÜlkeyi kasıp kavuran şap salgını karşısında üretici birliklerinin ve bürokratların \"kör, sağır ve dilsizi\" oynadığını ifade eden Solakoğlu, yerel düzeyde skandal niteliğinde kararlar alındığını iddia etti. Kendi bölgesindeki yüzlerce hayvanın şap yüzünden gömüldüğünü ve mezbahaya gönderildiğini belirten ünlü üretici, \"Eğer bu ülkede yürekli bir savcı varsa gitsin Karacabey İlçe Tarım Müdürlüğü’nü ve Bursa Tarım İl Müdürlüğü’nü soruştursun. Şap çıkan işletmelerde kanuni olarak neden 'burada şap çıkmıştır' ilanı yapmadılar, neden gizlediler? Doğruları konuşmadan bir yere varmamız mümkün değil\" dedi.\n\n\"Bursa'da Hatasız Çıkan Tek İşletmeydik, Teknik Bahane ve Baskıyla Ariliğimizi İptal Ettiler\"\n\nBursa'da kendisiyle birlikte 19 çiftliğin \"hastalıktan ari işletme\" sertifikasının iptal edilmesinin ardındaki teknik gerçeği açıklayan Solakoğlu, konunun hastalıkla değil, tamamen Tarım Bakanlığı'nın popülist mevzuatlarıyla ilgili olduğunu söyledi. Bakanlığın geçmişte 500 baş üzeri hayvana destek vermemek için kendilerine işletmelerini kağıt üzerinde ikiye böldürdüğünü belirten Solakoğlu, süreçteki çelişkiyi şu sözlerle anlattı: \"Kendi ahırlarımız arasında hayvan aktardığımız için karantina kuralına uymadığımızı iddia ettiler. Bursa genelinde yapılan küpe denetiminde tek hatasız çıkan işletme bizdik. Yan komşumuzda yanlış işlenen küpeler yüzünden adamın ariliğini sildiler. Hastalık bulamayınca teknik bahanelere sarıldılar.\"\n\nAnkara'dan Gelen Ekibe Ağır Suçlama: \"Hayvanımızı Ezerek Öldürdüler\"\n\nArilik testlerini kendileri yapmak üzere Ankara'dan 14 kişilik bir ekibin adeta çiftliğe \"baskın\" yaptığını ifade eden Solakoğlu, kızının İsviçre'deki lise mezuniyetinde olduğu sırada yaşanan acı anları paylaştı. Çiftlik personelinin uyarılarına rağmen Ankara'dan gelen ekibin baskıcı bir tavırla hayvanları aşırı sıkıştırdığını belirten Solakoğlu, \"Hayvanları açtığımızda bir tanesinin diğerlerinin altında ezilerek öldüğünü gördük. Telefonu açıp zehir zembelek kızdım. Tarsim sigortacısının ve Ankara'dan gelen adamların kendi imzalarının olduğu resmi ölüm tutanağını da kamuoyuyla paylaştım. Buna rağmen sosyal medyada bunu sorgulayan hıyarlar, kendi hıyarlıklarıyla baş başa kalsın\" diyerek sert tepki gösterdi.\n\nHalk Sağlığı Tehdit Altında: Sütün %17'si Sokak Sütçülerine Gidiyor\n\nAvrupa Birliği müktesebatının Türkiye gerçeklerine uymadan, bir gecede tercüme edilerek dayatılmasının üreticiyi hastalıkları gizlemeye ittiğini belirten Solakoğlu, halk sağlığı konusunda ürkütücü veriler paylaştı. TÜİK verilerine göre Türkiye'de üretilen sütün %17’sinin denetimsiz şekilde sokak sütçülerine gittiğini vurgulayan Solakoğlu, \"Hastanelerde en çok Brucella vakası görülen dünyadaki ilk 6 ülkeden biriyiz. Hiç mi vicdani sorumluluğunuz yok? Çocuklarınızın bilinçsizce kaynatılmamış sütten veya çiğ peynirden Brucella kapmasını ister misiniz? Bakanlık Türkiye'de Brucella yok diye çıkıp sakın konuşmasın\" uyarısında bulundu.\n\n\"Yönetmeliklerin Çöpe Atılması Lazım; Tehdit Değil Hizmet Edilmeli\"\n\nSektörün geleceğinde bu kronik sorunların nasıl çözülmesi gerektiğini de açıklayan Sencer Solakoğlu, sahadan teoriye uzanan bir tarım kurgusuna ihtiyaç olduğunu vurguladı: \"Mevcut Tarım Bakanı İbrahim Yumaklı, iyi niyetli uyarılarımızı sorgulatmayarak adeta beni zorla siyasete ve bu mücadeleye soktu. Gelecekte bu baskıcı yönetmeliklerin hepsinin çöpe atılması lazım. Tarım il müdürlükleri üreticiye polislik, hükümdarlık yapmak için değil, hizmet etmek için var. Çiftçiyi tehdit ederek, sütünü engelleyecek, etini kavurmaya gönderecek kurallarla hastalık çözülmez. İşletmesinde Brucella olan adamın başımızın üstünde yeri olmalı. Parasını değil; gerekirse kesilen tek bir nitelikli hayvanının yerine devlet eliyle iki tane gebe düve vereceksiniz. Çiftçiyle takım ruhu kuracaksınız"
+    },
+    {
+      "title": "NOAA: Süper El Niño küresel gıda fiyatlarını artırabilir",
+      "url": "https://www.tarimpusulasi.com/haber/noaa-super-el-nino-kuresel-gida-fiyatlarini-artirabilir-47051",
+      "source": "Tarım Pusulası",
+      "date": "2026-07-13",
+      "summary": "ABD Ulusal Okyanus ve Atmosfer İdaresi (NOAA), Pasifik Okyanusu'nda El Niño koşullarının güçlendiğini doğruladı. Uluslararası finans kuruluşları ve iklim uzmanları, güçlü bir El Niño'nun 2028'e kadar küresel gıda fiyatlarında yeni artışlara yol açabileceği uyarısında bulunuyor.",
+      "content": "WASHINGTON — ABD Ulusal Okyanus ve Atmosfer İdaresi (NOAA), Pasifik Okyanusu'nda El Niño koşullarının oluşmaya başladığını doğrularken, uluslararası finans kuruluşları ve iklim uzmanları olası \"Süper El Niño\"nun küresel gıda piyasalarında yeni fiyat artışlarına neden olabileceği uyarısında bulundu.\n\nThe Guardian'ın haberine göre, dünyanın önde gelen bankalarının ekonomistleri ve analistleri, iklim olayının etkilerinin 2028 yılına kadar sürebileceğini değerlendiriyor. Uzmanlar, Orta Doğu'da devam eden jeopolitik gerilimlerin neden olduğu mevcut fiyat baskılarının da bu süreçte artabileceğine dikkat çekiyor.\n\nNOAA verilerine göre, Pasifik Okyanusu'nda deniz yüzeyi sıcaklığının mevsim normallerinin 2 santigrat derecenin üzerine çıkma olasılığı yüzde 63 olarak hesaplanıyor. Bilim insanları, 2026-2027 El Niño döngüsünün \"çok güçlü\" bir El Niño olayına dönüşme ihtimalinin tarihsel olarak oldukça yüksek olduğunu belirtiyor.\n\nGoldman Sachs analistleri, güçlü bir El Niño senaryosunda küresel gıda fiyatlarının yüzde 15,8'e kadar yükselebileceğini öngörüyor. Euro Bölgesi'nde ise gıda fiyatlarında yüzde 1,3 seviyesinde artış bekleniyor.\n\nUzmanlar, iklim olayının tarımsal üretim üzerindeki etkilerinin ürünlerin ekim ve hasat dönemleri nedeniyle kademeli olarak hissedileceğini, küresel tedarik zincirlerindeki tam etkinin ise 2028 yılının ikinci yarısında ortaya çıkabileceğini ifade ediyor.\n\nUniCredit analistleri; pirinç, buğday, şeker kamışı, kahve, kakao ve palm yağı üretiminin en yüksek risk grubunda bulunduğunu belirtirken, bazı tarım ürünlerinde fiyat şoklarının yüzde 10-50, en hassas ürünlerde ise yüzde 50-100 seviyelerine ulaşabileceği uyarısında bulundu.\n\nDünya Meteoroloji Örgütü (WMO) da tropikal Pasifik'te El Niño oluşumunun başladığını doğruladı. Kurum, Temmuz-Eylül 2026 döneminde iklim olayının güçlü evreye geçebileceğini bildirdi.\n\nTARIM PUSULASI HABER MERKEZİ"
+    },
     {
       "title": "USDA raporu sonrası kritik soru: Bugün marketler, yarın tarlalar mı?",
       "url": "https://www.tarimdanhaber.com/usda-raporu-sonrasi-kritik-soru-bugun-marketler-yarin-tarlalar-mi",
@@ -117,22 +133,6 @@
       "date": "2026-07-12",
       "summary": "Tarım Kredi Kooperatifleri'nin Erzurum Bölge Birliği'ne ait hizmet binasının satış ihalesinde dikkat çeken bir süreç yaşandı. İhaleyi 207 milyon liralık teklifle kazanan Kristal Güneş Enerji, daha sonra satın alma işleminden vazgeçti. Böylece ihale, 205 milyon lira teklif veren Buhara Hastanesi'ne k",
       "content": "Haber Merkezi / Tarım Kredi Kooperatifleri, Erzurum Bölge Birliği'ne ait hizmet binasını satışa çıkardı. Buhara Hastanesi'nin önünde bulunan taşınmaz, yaklaşık 2 bin metrekarelik arsa üzerinde yer alıyor. Bina içerisinde 16 daire ile 2 dükkan bulunuyor.\n\nYaklaşık 200 milyon lira muhammen bedelle gerçekleştirilen ihaleye Buhara Hastanesi ile Kristal Güneş Enerji katıldı.\n\nİhalede Buhara Hastanesi 205 milyon lira teklif verirken, Kristal Güneş Enerji 207 milyon liralık teklifiyle ihaleyi kazandı.\n\nAncak ihale sonrasında Kristal Güneş Enerji satın alma işleminden vazgeçti. Firmanın ihale kapsamında yatırdığı yaklaşık 6 milyon liralık geçici teminatı geri almak için girişimlerde bulunduğu öğrenildi.\n\nKristal Güneş Enerji'nin ihaleden çekilmesiyle birlikte taşınmaz, ikinci en yüksek teklifi veren Buhara Hastanesi'ne kaldı. Buhara Hastanesi yöneticilerinin zaten uzun dönemdir, mevcut araziyi almak istidiği kaydediliyor. Kristal Güneş Enerjisi'nin ihaleden çekilmesi ile Buhara Hastanesi yöneticileri de amacına ulaşmış olduğu vurgulanıyor.\n\nTarım Kredi'nin şehir merkezindeki en değerli taşınmazlarından biri olan Erzurum Bölge Birliği binasının el değiştirmesiyle birlikte kurumun bölge biriminin bundan sonraki süreçte hangi binada hizmet vereceği ise merak konusu oldu.\n\nSon dönemde gayrimenkul satışlarını hızlandıran Tarım Kredi Kooperatifleri'nin, sahip olduğu taşınmazları elden çıkararak kaynak oluşturma politikası dikkat çekiyor. Erzurum Bölge Birliği binasının satışı da bu sürecin son halkalarından biri olarak değerlendiriliyor."
-    },
-    {
-      "title": "Diyarbakır Büyükşehir Belediyesi Mevsimlik Tarım İşçilerini Ziyaret Etti",
-      "url": "https://www.tarimpusulasi.com/haber/diyarbakir-buyuksehir-belediyesi-mevsimlik-tarim-iscilerini-ziyaret-etti-47045",
-      "source": "Tarım Pusulası",
-      "date": "2026-07-12",
-      "summary": "Diyarbakır Büyükşehir Belediyesi, kent genelinde mevsimlik tarım işçilerini ziyaret ederek çalışma koşullarını yerinde inceledi, talep ve önerileri dinledi. Dayanışma ziyaretleri kapsamında güneş altında çalışan tarım emekçilerine şapka dağıtıldı.",
-      "content": "DİYARBAKIR — Diyarbakır Büyükşehir Belediyesi, mevsimlik tarım işçilerinin çalışma koşullarını yerinde incelemek, talep ve önerilerini dinlemek amacıyla kent genelinde dayanışma ziyaretleri gerçekleştirdi.\n\nBasın Yayın ve Halkla İlişkiler Dairesi Başkanlığı Halkla İlişkiler Şube Müdürlüğü ekipleri tarafından yürütülen saha çalışmaları kapsamında, Çınar ilçesine bağlı Başaklı, Sur ilçesine bağlı Sarılar, Bozdemir ve Kozan, Yenişehir ilçesine bağlı Çelikevler ile Güvendere, Bağlar ilçesine bağlı Ağaçgeçit ve Batıçanakçı, Kayapınar ilçesine bağlı Kuyusırtı mahallelerinde çalışan mevsimlik tarım işçileri ziyaret edildi.\n\nEkipler, özellikle yaz aylarında yüksek sıcaklık altında çalışan tarım emekçileriyle bir araya gelerek günlük çalışma koşulları, karşılaşılan sorunlar ve ihtiyaçlar hakkında bilgi aldı. İşçilerin dile getirdiği talep ve öneriler kayıt altına alınarak ilgili belediye birimlerine iletilmek üzere değerlendirildi.\n\nBelediye tarafından yapılan çalışmayla, mevsimlik tarım işçilerinin tarımsal üretime sunduğu katkının görünür kılınması, sahadaki ihtiyaçların doğrudan tespit edilmesi ve ilgili birimler arasındaki koordinasyonun güçlendirilmesi amaçlanıyor.\n\nDayanışma ziyaretleri kapsamında güneş altında çalışan tarım işçilerine şapka dağıtımı da gerçekleştirildi. Diyarbakır Büyükşehir Belediyesi, yurttaşlarla doğrudan temas kurduğu saha çalışmalarını sürdüreceğini bildirdi.\n\nTARIM PUSULASI HABER MERKEZİ"
-    },
-    {
-      "title": "İthal hayvanda kritik soru: ESK piyasayı mı düzenliyor, bütçeye gelir mi üretiyor?",
-      "url": "https://www.tarimdanhaber.com/ithal-hayvanda-kritik-soru-esk-piyasayi-mi-duzenliyor-butceye-gelir-mi-uretiyor",
-      "source": "Tarımdan Haber",
-      "date": "2026-07-12",
-      "summary": "İthal hayvan dosyamızın final bölümünde tarım politikaları uzmanı Ergin Kahveci, Et ve Süt Kurumu'nun (ESK) ithalat modeli üzerinden dikkat çeken değerlendirmelerde bulundu. Kahveci, ESK'nın ithal besilik hayvan satışlarından elde ettiği gelirlerin amacının kamuoyu tarafından sorgulanması gerektiğin",
-      "content": "İthal Hayvan Dosyası-8 / İthal hayvan dosyamızın önceki bölümlerinde, Brezilya'dan ithal edilen besilik hayvanların Türkiye'ye geliş maliyetini, ESK'nın satış fiyatlarını, kurumun uyguladığı fiyat politikasını ve ithalat sürecinde oluşan mali tabloyu rakamlarla ortaya koymuştuk.\n\nDosyanın son bölümünde ise tarım politikaları uzmanı Ergin Kahveci, tüm bu veriler üzerinden hayvancılık politikalarına ilişkin dikkat çekici bir değerlendirme yaptı.\n\nKahveci'ye göre tartışılması gereken temel konu, ESK'nın ithalat yapıp yapmaması değil, ithalat üzerinden oluşan mali yapının hangi amaca hizmet ettiği.\n\n\"Bu karların mantığı nedir?\"\n\nErgin Kahveci, analizinde ithal besilik hayvan satışlarından elde edilen gelirlerin kamuoyu açısından açıklığa kavuşturulması gerektiğini belirterek şu soruları yöneltti:\n\n\"Bu karlar bütçe gelirleri için mi yapılıyor? Bu karlar, çiftçi ve tarım sektörü üzerinden bilinçli bir kamu maliyesi düzeltme unsuru olarak mı görülüyor? Bu karların mantığı nedir?\"\n\nKahveci, bu soruların yalnızca ESK'nın mali yapısıyla ilgili olmadığını, aynı zamanda Türkiye'nin hayvancılık politikasının hangi anlayış üzerine kurulduğunu da ortaya koyacağını ifade etti.\n\n\"Bu regülasyon değil\"\n\nKahveci, mevcut uygulamanın klasik anlamda bir piyasa regülasyonu olarak değerlendirilemeyeceğini savundu.\n\n\"Eğer mantığı regülasyon ise bana göre bu, çiftçi için bir regülasyon değil. Bu dengeleme değil, düzenleme değil, denetleme hiç değil. Bu başka bir şey\" değerlendirmesinde bulunan Kahveci, bu yaklaşımın siyaset ve ekonomi açısından da tartışılması gerektiğini ifade etti.\n\n\"İthalat gemilerinin gölgesinde sürdürülemez model\"\n\nAnalizinin sonuç bölümünde ise Ergin Kahveci, mevcut ithalat modelinin uzun vadede sürdürülebilir olmadığı görüşünü dile getirdi.\n\nKahveci'ye göre Türkiye, canlı hayvan dahil ithal girdilere dayalı sistemi terk ederek yerli üretim maliyetlerini esas alan bütüncül bir hayvancılık politikasına yönelmediği sürece, piyasa düzenleme amacıyla kurulan kamu kurumlarının ithalat üzerinden gelir üreten ticari yapılara dönüşme riski artacak.\n\n\"Konu yalnızca ESK değil\"\n\nKahveci, tartışmanın yalnızca Et ve Süt Kurumu üzerinden yürütülmesinin eksik kalacağını belirterek, ithalattan elde edilen gelirlerin kamu maliyesindeki yerine de dikkat çekti.\n\nAnalize göre, ortaya çıkan mali yapının yalnızca Tarım ve Orman Bakanlığı politikaları çerçevesinde değil, Hazine ve Maliye Bakanlığı'nın bütçe politikaları açısından da değerlendirilmesi gerekiyor.\n\n\"Kolay ithalat mı, yerli üretim mi?\"\n\nKahveci, düşük maliyetli ithalat sayesinde hem enflasyonun kontrol altında tutulması hem de kamuya gelir sağlanmasının kısa vadede ekonomik avantaj olarak görülebileceğini, ancak bunun yerli üretimin güçlendirilmesini ikinci plana itme riski taşıdığını belirtti.\n\nBu nedenle, hayvancılık politikalarının ithalata bağımlılığı azaltacak, üreticinin maliyetlerini düşürecek ve yerli üretimi güçlendirecek şekilde yeniden yapılandırılması gerektiğini ifade etti.\n\nŞeffaflık çağrısı\n\nAnalizinin sonunda kamuoyuna da mesaj veren Ergin Kahveci, ithalat modeliyle ilgili tartışmalarda görünen tabloyla ortaya çıkan sonuçlar arasındaki ilişkinin daha şeffaf şekilde değerlendirilmesi gerektiğini belirtti.\n\nKahveci, \"Görünen ile sonuç bağlantısını kurcalamak, şeffaflık aramak lazım\" ifadelerini kullanarak, ithalat politikalarının yalnızca fiyatlar üzerinden değil, kamu maliyesi ve üretici üzerindeki etkileriyle birlikte ele alınması gerektiğini vurguladı.\n\nİTHAL HAYVAN DOSYASI\n\nBölüm 1 → 53 bin liraya mal olan ithal besilik hayvan neden 82 bin liraya satılıyor?\n\nBölüm 2 → Brezilya'dan çıkan ithal besilik hayvan Türkiye'ye kaça geliyor?\n\nBölüm 3 → ESK'nın 420 TL ve 310 TL'lik satış tarifesi nasıl hesaplandı?\n\nBölüm 4 → ESK'nın görevi kar etmek mi, piyasayı düzenlemek mi?\n\nBölüm 5 → Görev zararı nedir? ESK zarar ederse parayı kim ödüyor?\n\nBölüm 6 → ESK’nın elde ettiği kar nereye gidiyor?\n\nBölüm 7 → ESK piyasayı düzenliyor mu, ithalatı mı yönetiyor?\n\nBölüm 8 → İthalat modeli analizi: 'İthalat gemilerinin gölgesinde sürdürülemez bir sistem oluştu'\n\nKaynak analiz\n\nBu haber, tarım politikaları uzmanı Ergin Kahveci'nin, Et ve Süt Kurumu'nun 2026 yılı besilik sığır ithalatına ilişkin hazırladığı kapsamlı maliyet analizinden yararlanılarak hazırlanmıştır.\n\nAnalizin tamamını okumak için tıklayın → [ESK kar etme kuruluşu olursa!]"
     }
   ],
   "commoditiesByBorsa": {
