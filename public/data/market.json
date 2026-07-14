@@ -1,43 +1,59 @@
 {
-  "updatedAt": "2026-07-14T13:52:07.595Z",
+  "updatedAt": "2026-07-14T15:25:10.868Z",
   "fx": [
     {
       "code": "USD",
       "name": "Dolar",
-      "buy": 47.03,
-      "sell": 47.04,
-      "change": 0.09
+      "buy": 470284,
+      "sell": 470393,
+      "change": 9
     },
     {
       "code": "EUR",
       "name": "Euro",
-      "buy": 53.66,
-      "sell": 53.67,
-      "change": 0.13
+      "buy": 538214,
+      "sell": 538276,
+      "change": 43
     },
     {
       "code": "GRA",
       "name": "Gram Altın",
-      "buy": 6093.36,
-      "sell": 6094.16,
-      "change": 0.79
+      "buy": 618141,
+      "sell": 618227,
+      "change": 224
     },
     {
       "code": "CEYREKALTIN",
       "name": "Çeyrek Altın",
-      "buy": 9731.63,
-      "sell": 9956.46,
-      "change": -0.44
+      "buy": 984151,
+      "sell": 1007652,
+      "change": 76
     },
     {
       "code": "CUMHURIYETALTINI",
       "name": "Cumhuriyet Altını",
-      "buy": 40275,
-      "sell": 40896,
-      "change": -0.78
+      "buy": 40825,
+      "sell": 41446,
+      "change": 56
     }
   ],
   "news": [
+    {
+      "title": "Samsun İl Tarım: Kırsal kalkınma başvuruları %62 arttı",
+      "url": "https://www.tarimpusulasi.com/haber/samsun-il-tarim-kirsal-kalkinma-basvurulari-62-artti-47061",
+      "source": "Tarım Pusulası",
+      "date": "2026-07-14",
+      "summary": "Samsun'da Tarım ve Orman Bakanlığınca yürütülen Kırsal Kalkınma Yatırımları Programı'nın 17. etap başvurularında önemli artış yaşandı. Samsun İl Tarım ve Orman Müdürlüğü, başvuru sayısının geçen yıla göre %62 artarak 177'ye yükseldiğini, yatırım projeleri için talep edilen hibe tutarının ise 691 mil",
+      "content": "SAMSUN — Samsun'da Tarım ve Orman Bakanlığı tarafından yürütülen Kırsal Kalkınma Yatırımları Programı'nın (KKYDP) 17. etap başvurularında geçen yıla göre %62 artış yaşandı. Samsun İl Tarım ve Orman Müdürlüğü, 2025-2026 döneminde programa 177 proje başvurusu yapıldığını ve yatırım projeleri için talep edilen toplam hibe tutarının 691 milyon liraya ulaştığını bildirdi.\n\nİl Müdürlüğünün açıklamasına göre, bir önceki uygulama dönemi olan 2024-2025 yıllarını kapsayan 16. etapta 109 proje başvurusu alınırken, bunlardan 71'i tamamlandı. Tamamlanan projeler kapsamında yaklaşık 25 milyon lira hibe desteği sağlanırken, 190 kişiye istihdam oluşturuldu.\n\n2025-2026 dönemini kapsayan 17. etapta ise başvuruların tüm yatırım başlıklarında artış gösterdiği belirtildi. Buna göre altyapı yatırımları başvurusu 93'ten 114'e, ekonomik yatırım ve aile işletmeciliği yatırımları 12'den 52'ye, sulama yatırımları ise 4'ten 11'e yükseldi.\n\nProgram kapsamında destek almaya hak kazanan projelere yatırım konusuna göre %50 ile %70 arasında hibe desteği sağlanacak.\n\nİl Tarım ve Orman Müdürlüğü, özellikle ekonomik yatırımlar ile sulama yatırımlarındaki artışın üreticilerin modern üretim tekniklerine ve katma değer oluşturan yatırımlara yöneldiğini gösterdiğini değerlendirdi.\n\nBaşvuruların İl Proje Değerlendirme Komisyonu tarafından ilgili mevzuat çerçevesinde incelenerek Tarım ve Orman Bakanlığına gönderileceği belirtilirken, uygun bulunan projelerin desteklenmesiyle birlikte il genelinde kırsal kalkınma yatırımlarının artırılması ve yaklaşık 350 kişiye yeni istihdam sağlanmasının hedeflendiği ifade edildi.\n\nAçıklamada ayrıca programın, tarımsal üretimin modernizasyonu, kırsal alanda gelir seviyesinin yükseltilmesi, istihdamın artırılması ve katma değeri yüksek üretimin yaygınlaştırılmasına katkı sağlamayı amaçladığı vurgulandı. Samsun İl Tarım ve Orman Müdürlüğü, üretici ve yetiştiricilerin hibe desteklerinden en üst düzeyde yararlanabilmesi için çalışmaların sürdüğünü bildirdi.\n\nTARIM PUSULASI HABER MERKEZİ"
+    },
+    {
+      "title": "Samsun İl Tarım: Fındıkta rekolte tespit çalışmaları sürüyor",
+      "url": "https://www.tarimpusulasi.com/haber/samsun-il-tarim-findikta-rekolte-tespit-calismalari-suruyor-47060",
+      "source": "Tarım Pusulası",
+      "date": "2026-07-14",
+      "summary": "Samsun İl Tarım ve Orman Müdürlüğü koordinasyonunda, 2026 yılı fındık hasadı öncesinde rekolte tespit çalışmaları 13 ilçede devam ediyor. Bilimsel yöntemlerle yürütülen çalışmalarda 86 örnek bahçede çotanak sayımı ve sağlam dane analizleri yapılarak hasat öncesi gerçeğe en yakın üretim tahmininin be",
+      "content": "SAMSUN — Samsun İl Tarım ve Orman Müdürlüğü koordinasyonunda, 2026 yılı fındık hasat sezonu öncesinde yürütülen rekolte tespit çalışmaları il genelinde devam ediyor. Tarım ve Orman Bakanlığı koordinasyonunda gerçekleştirilen çalışmalarda, 13 ilçede belirlenen 86 örnek bahçede çotanak sayımı ve sağlam dane analizleri yapılarak hasat öncesi üretim tahmini oluşturuluyor.\n\nRekolte tespit çalışmaları kapsamında Salıpazarı ilçesi Alanyaykın Mahallesi'ndeki bir fındık bahçesinde incelemeler gerçekleştirildi. Çalışmalara Samsun İl Tarım ve Orman Müdürü Kemal Yılmaz'ın yanı sıra Karadeniz Tarımsal Araştırma Enstitüsü, ziraat odaları, mahalle muhtarları ve teknik ekipler katıldı.\n\nİl Tarım ve Orman Müdürü Kemal Yılmaz, rekolte çalışmalarının Tarım ve Orman Bakanlığının talimatları doğrultusunda, ilgili paydaş kurumların katılımıyla sürdürüldüğünü belirtti. Sahil, orta ve yüksek rakımlı bölgeleri temsil eden bahçelerde yapılan sayımlarda, rastgele seçilen örneklerden 100 fındığın kırılarak sağlam dane oranının da tespit edildiğini ifade etti.\n\nYılmaz, Samsun'da yaklaşık 125 bin hektar alanda 50 bin üreticinin fındık yetiştiriciliği yaptığını belirterek, 14 kişilik komisyonun il genelindeki 86 bahçede incelemelerini sürdürdüğünü söyledi. Çalışmaların yaklaşık 20 gün içinde tamamlanmasının ardından hesaplamaların yapılarak 2026 yılı Samsun fındık rekoltesinin Tarım ve Orman Bakanlığına bildirileceğini kaydetti.\n\nFındığın Samsun'un bitkisel üretimi ve ülkemizin tarımsal ihracatı açısından stratejik öneme sahip olduğunu vurgulayan Yılmaz, rekolte tespit çalışmalarının üretim planlaması ve sektörün sağlıklı veriyle yönlendirilmesi açısından her yıl düzenli olarak gerçekleştirildiğini ifade etti.\n\nGeçen yıl yüksek rakımlı bölgelerde yaşanan zirai don olaylarının üretimi olumsuz etkilediğini hatırlatan Yılmaz, bu sezon ise üreticiler açısından daha verimli bir hasat dönemi beklediklerini belirterek tüm üreticilere bereketli bir sezon temennisinde bulundu.\n\nTARIM PUSULASI HABER MERKEZİ"
+    },
     {
       "title": "CHP'li Aygun: Dolu zararında sigortasız çiftçi desteklensin",
       "url": "https://www.tarimpusulasi.com/haber/chpli-aygun-dolu-zararinda-sigortasiz-ciftci-desteklensin-47059",
@@ -101,22 +117,6 @@
       "date": "2026-07-13",
       "summary": "Tekirdağ İl Tarım ve Orman Müdürlüğü, karantina zararlısı kahverengi kokarca ile biyolojik mücadele kapsamında Ergene, Saray ve Süleymanpaşa ilçelerinde Japon arıcığı (Trissolcus japonicus) salımı gerçekleştirdi. Müdürlük, bitkisel üretimde sürdürülebilirlik amacıyla biyolojik ve biyoteknik mücadele",
       "content": "TEKİRDAĞ — Tekirdağ İl Tarım ve Orman Müdürlüğü, karantina zararlısı kahverengi kokarca (Halyomorpha halys) ile biyolojik mücadele çalışmaları kapsamında Ergene, Saray ve Süleymanpaşa ilçelerinde belirlenen farklı noktalarda Japon arıcığı (Trissolcus japonicus) salımları gerçekleştirdi. Müdürlük, uygulamanın zararlının doğal yollarla baskılanmasını amaçlayan biyolojik mücadele programının bir parçası olduğunu açıkladı.\n\nKurumun açıklamasına göre kahverengi kokarca; başta elma, armut, şeftali, kiraz, fındık, mısır ve soya olmak üzere 300'den fazla tek yıllık ve çok yıllık bitki türünde ekonomik kayıplara neden olan istilacı bir zararlı olarak değerlendiriliyor. Zararlı, ürünlerde verim ve kalite kaybına yol açmasının yanı sıra sonbahar ve kış aylarında ev, depo ve ahır gibi kapalı alanlarda toplu halde barınarak çevresel rahatsızlığa da neden oluyor.\n\nBiyolojik mücadelede kullanılan Japon arıcığı (Samuray arısı) yaklaşık 1–2 milimetre uzunluğunda faydalı bir parazitoit yaban arısı olarak biliniyor. Arıcık, kahverengi kokarcanın yumurtalarına kendi yumurtalarını bırakarak zararlının daha yumurta dönemindeyken gelişimini durduruyor ve popülasyonunun doğal yollarla azalmasına katkı sağlıyor.\n\nTekirdağ İl Tarım ve Orman Müdürlüğü, bitkisel üretimde sürdürülebilirliği sağlamak amacıyla önceliğin biyolojik, biyoteknik ve kültürel mücadele yöntemlerinde olduğunu, kimyasal mücadelenin ise yalnızca gerekli görülen durumlarda son seçenek olarak değerlendirildiğini bildirdi.\n\nSahayı anlatan ziraat mühendisi ise Saray ilçesi Safaalan Mahallesi'nde bulunan kiraz ve elma bahçelerinde Samuray arıcığı salımlarının gerçekleştirildiğini belirterek, arıcıkların çıkış yaptığı yumurta paketlerinin belirlenen koordinatlar doğrultusunda ağaç yapraklarına sabitlendiğini söyledi. Bu uygulamayla doğaya bırakılan faydalı böceklerin çıkışlarının takip edilmesi ve biyolojik mücadelenin etkinliğinin izlenmesi hedefleniyor.\n\nTARIM PUSULASI HABER MERKEZİ"
-    },
-    {
-      "title": "Vahap Seçer: Lavanta üretiminde katma değerli ürünlere odaklanıyoruz",
-      "url": "https://www.tarimpusulasi.com/haber/vahap-secer-lavanta-uretiminde-katma-degerli-urunlere-odaklaniyoruz-47053",
-      "source": "Tarım Pusulası",
-      "date": "2026-07-13",
-      "summary": "Mersin Büyükşehir Belediye Başkanı Vahap Seçer, Silifke'nin Çaltıbozkır Mahallesi'nde düzenlenen 8. Lavanta Hasat Şenliği'nde kırsal kalkınma projelerini değerlendirdi. Seçer, lavanta üretiminin katma değerli ürünlerle desteklendiğini, kooperatifleşmenin güçlendirildiğini ve ilçede su ile altyapı ya",
-      "content": "MERSİN — Mersin Büyükşehir Belediyesi, Silifke Belediyesi ile Çaltıbozkır Üretim ve Pazarlama Kooperatifi iş birliğinde bu yıl sekizincisi düzenlenen Lavanta Hasat Şenliği'ni gerçekleştirdi. \"En Güzel Mor Mersin'de Kokuyor\" sloganıyla düzenlenen etkinliğe Türkiye Belediyeler Birliği ve Mersin Büyükşehir Belediye Başkanı Vahap Seçer, Mersinden Kadın Kooperatifi Yönetim Kurulu Başkanı Meral Seçer, milletvekilleri, belediye başkanları, kooperatif temsilcileri ve üreticiler katıldı.\n\nŞenlik kapsamında üreticilerle birlikte lavanta hasadı yapan Seçer, lavanta üretiminin yalnızca tarımsal üretim olarak değerlendirilmemesi gerektiğini belirterek, işleme ve markalaşmanın üreticinin gelirini artıracağını söyledi. Seçer, 2019 yılında başlatılan Köyümüz Atölye Projesi kapsamında Çaltıbozkır'da lavanta üretiminin desteklendiğini, 2021 yılında kurulan distilasyon ünitesiyle aromatik bitkilerden katma değerli ürünlerin elde edilmeye başlandığını ifade etti.\n\nKatma değer oluşturmanın kırsal kalkınmanın temel unsurlarından biri olduğunu vurgulayan Seçer, ham ürünün işlenmesiyle ekonomik değerinin önemli ölçüde artırılabileceğini belirterek, tarımsal üretimde markalaşmanın önemine dikkat çekti. Köyümüz Atölye Projesi'nin farklı mahallelerde de uygulanacağını söyleyen Seçer, alternatif ürünlerin yaygınlaştırılması çalışmalarının süreceğini kaydetti.\n\nKonuşmasında Mersin'de düzenlenen festival ve kültürel etkinliklerin toplumsal birlikteliğe katkı sağladığını dile getiren Seçer, belediyecilik anlayışlarının ayrım gözetmeden hizmet üretmek olduğunu ifade etti. Seçer ayrıca, Türkiye'de hukuk, adalet ve \"masumiyet karinesi\" ilkesine ilişkin değerlendirmelerde bulunarak Silifke Belediye Başkanı Mustafa Turgut'un yargı sürecinin hukuk çerçevesinde yürütülmesi gerektiğini söyledi. Bu açıklamalar, konuşmasının siyasi değerlendirme bölümlerini oluşturdu.\n\nŞenlikte ayrıca Silifke'ye yönelik devam eden altyapı yatırımları da paylaşıldı. Seçer, MESKİ tarafından yürütülen Göklerderesi Grup İçme Suyu Hattı sayesinde 22 mahallenin içme suyu ihtiyacının karşılandığını, Atakent, Atayurt ve Arkum Atıksu Arıtma Tesisi ile Derin Deniz Deşarjı Projesi'nin ihale sürecinin devam ettiğini açıkladı. Silifke Atıksu Arıtma Tesisi'nin ikinci etap yatırımının da kısa süre içinde başlayacağını ifade etti.\n\nŞenlikte konuşan Çaltıbozkır Üretim ve Pazarlama Kooperatifi Başkanı Hatice Gülcan Yüksel ise lavanta üretiminin bölgede kırsal kalkınma açısından önemli bir örnek oluşturduğunu belirterek, kooperatifçilik anlayışıyla üretimi sürdürmeye devam edeceklerini söyledi.\n\nMersin Büyükşehir Belediyesi'nin verdiği bilgilere göre Çaltıbozkır'da yürütülen proje, 2020 yılında 5 bin lavanta fidesi desteğiyle başladı. Ardından kurulan distilasyon ünitesi sayesinde lavanta yağı ve farklı aromatik ürünlerin üretimine geçildi. Belediye, kooperatifleşme, makine-ekipman desteği ve atölye çalışmalarıyla projenin kırsal kalkınma modeli olarak sürdürülmesini hedefliyor. Haberde yer alan sayısal bilgiler belediyenin paylaştığı resmi proje bilgilerine dayanıyor.\n\nTARIM PUSULASI HABER MERKEZİ"
-    },
-    {
-      "title": "Sencer Solakoğlu: Tarım Bakanlığı ne yaptığını bilmiyor",
-      "url": "https://www.tarimpusulasi.com/haber/sencer-solakoglu-tarim-bakanligi-ne-yaptigini-bilmiyor-47052",
-      "source": "Tarım Pusulası",
-      "date": "2026-07-13",
-      "summary": "Feyz Çiftliği Sahibi Sencer Solakoğlu, katıldığı canlı yayında hayvancılıktaki salgın hastalıklardan markalaşma eksikliğine, bürokratik zafiyetlerden ari çiftlik denetimlerindeki baskılara kadar tarım sektörünü sarsacak çarpıcı açıklamalarda bulundu. Bursa'da kendi işletmesinde yaşanan ari belge ipt",
-      "content": "BURSA — Feyz Çiftliği Sahibi Sencer Solakoğlu, AGRO TV ekranlarında yayınlanan “AGRO TV İle Günaydın” programında moderatör Taner Öztürk’ün konuğu oldu. Programın ikinci bölümünde tarım ve hayvancılıkta yaşanan yapısal krizleri, salgın hastalıkları ve bürokratik engelleri sert bir dille eleştirmeye devam eden Solakoğlu, sektörün küresel pazardaki markalaşma zafiyetlerinden Tarım ve Orman Bakanlığı'nın sahada uyguladığı baskıcı politikalara kadar çok konuşulacak iddialarda bulundu.\n\n\"Kendi Markamızı Oluşturmazsak Fındığı Bu Fiyata Kimse Almaz\"\n\nTürkiye'nin tarımsal ürünlerde kendi küresel markalarını yaratamaması halinde dünya piyasalarında ezilmeye mahkum olduğunu belirten Solakoğlu, geçmişte Fisko Birlik’in ortadan kaldırılmasını örnek gösterdi. Üreticilere seslenen Solakoğlu, \"Ağzınızla kuş tutsanız bile kendi markalarımızı oluşturmazsak fındığınızı bu fiyattan kimse almayacaktır. Dünyadaki fiyatlar ortada. Biz niye beyaz peynirimizi doğru düzgün markalaştıramıyoruz da Yunanlılar bunu 'Feta cheese' adıyla dünyaya pazarlıyor? Neden geleneksel Türk yoğurdu değil de Yunan yoğurdu olarak satılıyor?\" diyerek tarımdaki vizyonsuzluğa dikkat çekti.\n\nŞap Hastalığı Rezaleti: \"Savcıları Göreve Çağırıyorum\"\n\nÜlkeyi kasıp kavuran şap salgını karşısında üretici birliklerinin ve bürokratların \"kör, sağır ve dilsizi\" oynadığını ifade eden Solakoğlu, yerel düzeyde skandal niteliğinde kararlar alındığını iddia etti. Kendi bölgesindeki yüzlerce hayvanın şap yüzünden gömüldüğünü ve mezbahaya gönderildiğini belirten ünlü üretici, \"Eğer bu ülkede yürekli bir savcı varsa gitsin Karacabey İlçe Tarım Müdürlüğü’nü ve Bursa Tarım İl Müdürlüğü’nü soruştursun. Şap çıkan işletmelerde kanuni olarak neden 'burada şap çıkmıştır' ilanı yapmadılar, neden gizlediler? Doğruları konuşmadan bir yere varmamız mümkün değil\" dedi.\n\n\"Bursa'da Hatasız Çıkan Tek İşletmeydik, Teknik Bahane ve Baskıyla Ariliğimizi İptal Ettiler\"\n\nBursa'da kendisiyle birlikte 19 çiftliğin \"hastalıktan ari işletme\" sertifikasının iptal edilmesinin ardındaki teknik gerçeği açıklayan Solakoğlu, konunun hastalıkla değil, tamamen Tarım Bakanlığı'nın popülist mevzuatlarıyla ilgili olduğunu söyledi. Bakanlığın geçmişte 500 baş üzeri hayvana destek vermemek için kendilerine işletmelerini kağıt üzerinde ikiye böldürdüğünü belirten Solakoğlu, süreçteki çelişkiyi şu sözlerle anlattı: \"Kendi ahırlarımız arasında hayvan aktardığımız için karantina kuralına uymadığımızı iddia ettiler. Bursa genelinde yapılan küpe denetiminde tek hatasız çıkan işletme bizdik. Yan komşumuzda yanlış işlenen küpeler yüzünden adamın ariliğini sildiler. Hastalık bulamayınca teknik bahanelere sarıldılar.\"\n\nAnkara'dan Gelen Ekibe Ağır Suçlama: \"Hayvanımızı Ezerek Öldürdüler\"\n\nArilik testlerini kendileri yapmak üzere Ankara'dan 14 kişilik bir ekibin adeta çiftliğe \"baskın\" yaptığını ifade eden Solakoğlu, kızının İsviçre'deki lise mezuniyetinde olduğu sırada yaşanan acı anları paylaştı. Çiftlik personelinin uyarılarına rağmen Ankara'dan gelen ekibin baskıcı bir tavırla hayvanları aşırı sıkıştırdığını belirten Solakoğlu, \"Hayvanları açtığımızda bir tanesinin diğerlerinin altında ezilerek öldüğünü gördük. Telefonu açıp zehir zembelek kızdım. Tarsim sigortacısının ve Ankara'dan gelen adamların kendi imzalarının olduğu resmi ölüm tutanağını da kamuoyuyla paylaştım. Buna rağmen sosyal medyada bunu sorgulayan hıyarlar, kendi hıyarlıklarıyla baş başa kalsın\" diyerek sert tepki gösterdi.\n\nHalk Sağlığı Tehdit Altında: Sütün %17'si Sokak Sütçülerine Gidiyor\n\nAvrupa Birliği müktesebatının Türkiye gerçeklerine uymadan, bir gecede tercüme edilerek dayatılmasının üreticiyi hastalıkları gizlemeye ittiğini belirten Solakoğlu, halk sağlığı konusunda ürkütücü veriler paylaştı. TÜİK verilerine göre Türkiye'de üretilen sütün %17’sinin denetimsiz şekilde sokak sütçülerine gittiğini vurgulayan Solakoğlu, \"Hastanelerde en çok Brucella vakası görülen dünyadaki ilk 6 ülkeden biriyiz. Hiç mi vicdani sorumluluğunuz yok? Çocuklarınızın bilinçsizce kaynatılmamış sütten veya çiğ peynirden Brucella kapmasını ister misiniz? Bakanlık Türkiye'de Brucella yok diye çıkıp sakın konuşmasın\" uyarısında bulundu.\n\n\"Yönetmeliklerin Çöpe Atılması Lazım; Tehdit Değil Hizmet Edilmeli\"\n\nSektörün geleceğinde bu kronik sorunların nasıl çözülmesi gerektiğini de açıklayan Sencer Solakoğlu, sahadan teoriye uzanan bir tarım kurgusuna ihtiyaç olduğunu vurguladı: \"Mevcut Tarım Bakanı İbrahim Yumaklı, iyi niyetli uyarılarımızı sorgulatmayarak adeta beni zorla siyasete ve bu mücadeleye soktu. Gelecekte bu baskıcı yönetmeliklerin hepsinin çöpe atılması lazım. Tarım il müdürlükleri üreticiye polislik, hükümdarlık yapmak için değil, hizmet etmek için var. Çiftçiyi tehdit ederek, sütünü engelleyecek, etini kavurmaya gönderecek kurallarla hastalık çözülmez. İşletmesinde Brucella olan adamın başımızın üstünde yeri olmalı. Parasını değil; gerekirse kesilen tek bir nitelikli hayvanının yerine devlet eliyle iki tane gebe düve vereceksiniz. Çiftçiyle takım ruhu kuracaksınız"
     },
     {
       "title": "USDA raporu sonrası kritik soru: Bugün marketler, yarın tarlalar mı?",
@@ -330,6 +330,15 @@
   "note": "Fiyatlar TOBB ticaret borsasından (borsa seçilebilir). Kanola manuel (Trakya 2025).",
   "inputsNote": "Mazot: akaryakıt bayi fiyatı, günlük (şehir seçilebilir). Gübre: manuel (yaklaşık).",
   "errors": [
-    "fx: fetch failed"
+    "mazot ANKARA: fetch failed",
+    "mazot ISTANBUL: fetch failed",
+    "mazot IZMIR: fetch failed",
+    "mazot KONYA: fetch failed",
+    "mazot ADANA: fetch failed",
+    "mazot BURSA: fetch failed",
+    "mazot ANTALYA: fetch failed",
+    "mazot SAMSUN: fetch failed",
+    "mazot TEKIRDAG: fetch failed",
+    "mazot CANAKKALE: fetch failed"
   ]
 }
