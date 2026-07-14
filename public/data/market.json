@@ -1,43 +1,51 @@
 {
-  "updatedAt": "2026-07-14T20:15:26.876Z",
+  "updatedAt": "2026-07-14T21:15:47.099Z",
   "fx": [
     {
       "code": "USD",
       "name": "Dolar",
-      "buy": 470233,
-      "sell": 470386,
-      "change": 8
+      "buy": 47,
+      "sell": 47.04,
+      "change": -0.03
     },
     {
       "code": "EUR",
       "name": "Euro",
-      "buy": 537059,
-      "sell": 537167,
-      "change": 22
+      "buy": 53.68,
+      "sell": 53.85,
+      "change": 0.1
     },
     {
       "code": "GRA",
       "name": "Gram Altın",
-      "buy": 612999,
-      "sell": 613068,
-      "change": 139
+      "buy": 6125.66,
+      "sell": 6126.68,
+      "change": -0.01
     },
     {
       "code": "CEYREKALTIN",
       "name": "Çeyrek Altın",
-      "buy": 984151,
-      "sell": 1007652,
-      "change": 76
+      "buy": 9841.51,
+      "sell": 10076.52,
+      "change": 0
     },
     {
       "code": "CUMHURIYETALTINI",
       "name": "Cumhuriyet Altını",
       "buy": 40825,
       "sell": 41446,
-      "change": 56
+      "change": 0.56
     }
   ],
   "news": [
+    {
+      "title": "Tarım Reformu GM, 12 ilde yapay zekâ destekli ürün izlemeyi değerlendirdi",
+      "url": "https://www.tarimpusulasi.com/haber/tarim-reformu-gm-12-ilde-yapay-zeka-destekli-urun-izlemeyi-degerlendirdi-47063",
+      "source": "Tarım Pusulası",
+      "date": "2026-07-14",
+      "summary": "Tarım ve Orman Bakanlığı Tarım Reformu Genel Müdürlüğü, tarımda dijital dönüşüm kapsamında yürütülen Yapay Zekâ Destekli Ürün İzleme ve Uydu Takip Sistemi çalışmalarını değerlendirmek amacıyla 12 bölgede teknik toplantılar gerçekleştirdi. Toplantılarda 2026 üretim yılı planlamaları, uzaktan algılama",
+      "content": "ANKARA — Tarım ve Orman Bakanlığı Tarım Reformu Genel Müdürlüğü, tarımda dijital dönüşüm çalışmaları kapsamında yürütülen Yapay Zekâ Destekli Ürün İzleme ve Uydu Takip Sistemlerine ilişkin bölgesel teknik değerlendirme toplantılarını tamamladı. Diyarbakır, Kahramanmaraş, Bursa, Manisa, Çorum, Van, Erzurum, Trabzon, Kastamonu, Tekirdağ, Afyonkarahisar ve Aksaray'da düzenlenen 12 bölge toplantısında, 2026 üretim yılı hazırlıkları ile dijital ürün izleme altyapısı değerlendirildi.\n\nToplantılara Genel Müdür Yardımcısı, ilgili daire başkanları ve teknik personelin yanı sıra koordinatör il müdür yardımcıları, tarımsal altyapı ve arazi değerlendirme şube müdürleri, bitkisel üretim ve bitki sağlığı şube müdürleri ile Çiftçi Kayıt Sistemi (ÇKS) ve Coğrafi Bilgi Sistemi (CBS) il sistem sorumluları katıldı.\n\nTeknik değerlendirmelerde mobil ürün izleme uygulaması, uydu takip programı, yapay zekâ destekli ürün tespit süreçleri, referans parsel yönetimi, saha doğrulama çalışmaları ve 2026 üretim yılı uygulama planlamaları ayrıntılı olarak ele alındı.\n\nGenel Müdürlüğün açıklamasına göre, 2025 üretim yılında ilk kez uygulamaya alınan Uzaktan Algılama ile Ürün Belirleme Çalışmaları, tarımsal üretimin dijital teknolojilerle izlenmesi ve yönetilmesinde yeni bir uygulama sürecini başlattı.\n\nSistem kapsamında uydu görüntüleri, coğrafi bilgi sistemleri, mobil uygulamalar ve yapay zekâ teknolojileri birlikte kullanılıyor. Sahadan toplanan referans parseller ile uydu verileri birlikte değerlendirilerek makine öğrenmesi algoritmaları çalıştırılıyor. Böylece ekili ürünlerin tespiti, sınıflandırılması ve üretim desenlerinin belirlenmesine yönelik analizler gerçekleştiriliyor.\n\nToplantılarda, özellikle güvenilir referans verisinin yapay zekâ destekli ürün tespitinde kritik öneme sahip olduğu vurgulandı. Kışlık ürünlerde referans parsellerin hasat öncesinde yeterli yoğunlukta ve doğru şekilde toplanmasının sistem başarısını doğrudan etkilediği belirtilirken, yazlık ürünlerde de sezon boyunca veri toplama çalışmalarının sürdürülmesinin önemine dikkat çekildi.\n\nAyrıca uydu verilerinin işlenmesi, ürün desen analizleri, veri doğrulama mekanizmaları, CBS entegrasyonları, saha kontrol planlamaları ve ÇKS beyan doğruluk kontrolleri de toplantı gündeminde yer aldı. Bu çalışmalarla iller arasındaki koordinasyonun güçlendirilmesine yönelik teknik yol haritası oluşturuldu.\n\nTarım Reformu Genel Müdürlüğü, yapay zekâ ve uzaktan algılama teknolojilerinin tarımsal üretime entegrasyonuyla veriye dayalı karar alma süreçlerini güçlendirmeyi ve dijital tarım altyapısını geliştirmeyi hedeflediğini bildirdi.\n\nTARIM PUSULASI HABER MERKEZİ"
+    },
     {
       "title": "ÖZEL HABER | Söke Ziraat Odası Başkanı: Pamukta ekim alanı yüzde 60 düştü",
       "url": "https://www.tarimpusulasi.com/haber/ozel-haber-soke-ziraat-odasi-baskani-pamukta-ekim-alani-yuzde-60-dustu-47062",
@@ -117,14 +125,6 @@
       "date": "2026-07-14",
       "summary": "Tarım ve Orman Bakanlığı bünyesinde faaliyet gösteren Avrupa Birliği ve Dış İlişkiler Genel Müdürlüğü, yalnızca yurt dışı ilişkilerini yürüten bir birim değil. Avrupa Birliği ile yürütülen tarım müzakerelerinden uluslararası hibe programlarına, gıda güvenliği standartlarından ihracatı ilgilendiren t",
       "content": "Haber Merkezi / Tarım sektöründe zaman zaman Avrupa Birliği uyum süreci, IPARD destekleri, ihracat kriterleri veya uluslararası tarım projeleri gündeme geliyor. Ancak bu süreçlerin arkasında hangi kurumun bulunduğu pek bilinmiyor. Tarım ve Orman Bakanlığı Avrupa Birliği ve Dış İlişkiler Genel Müdürlüğü, Türkiye'nin uluslararası tarım politikalarının koordinasyonunu sağlayan en önemli birimlerden biri olarak görev yapıyor.\n\nAvrupa Birliği ile tarım müzakerelerini yürütüyor\n\nGenel müdürlüğün en önemli görevlerinden biri, Tarım ve Orman Bakanlığının görev alanına giren konularda Avrupa Birliği ile yürütülen müzakere sürecini koordine etmek.\n\nBu kapsamda Avrupa Birliği'nin tarım, gıda, hayvancılık ve kırsal kalkınma alanındaki düzenlemeleri takip edilirken, Türkiye'nin uyum sürecine ilişkin çalışmalar da ilgili bakanlık birimleriyle birlikte yürütülüyor.\n\nAyrıca Avrupa Birliği-Türkiye ortaklık organlarında alınan kararların uygulanmasına yönelik koordinasyon da bu genel müdürlük tarafından sağlanıyor.\n\nAvrupa Birliği standartları üreticiyi doğrudan etkiliyor\n\nBugün üreticilerin karşılaştığı birçok teknik düzenleme, yalnızca iç mevzuattan değil, Avrupa Birliği ile yürütülen uyum çalışmalarından da etkileniyor.\n\nGıda güvenliği, bitki sağlığı, hayvan sağlığı, pestisit kalıntıları, izlenebilirlik, organik tarım ve sürdürülebilir üretim gibi alanlarda yapılan düzenlemeler, Türk tarımının uluslararası standartlara uyumunu amaçlıyor.\n\nBu nedenle Avrupa Birliği ve Dış İlişkiler Genel Müdürlüğünün yürüttüğü çalışmalar, çiftçinin üretim biçiminden ihracat yapabilme kapasitesine kadar geniş bir alanı dolaylı olarak etkiliyor.\n\nUluslararası projeler ve hibeler bu birimin koordinasyonunda yürütülüyor\n\nGenel müdürlük, Avrupa Birliği, yabancı ülkeler ve uluslararası kuruluşlarla yürütülen proje ve programların hazırlanması, koordinasyonu ve takibinden de sorumlu.\n\nTarımın modernizasyonu, kırsal kalkınma, iklim değişikliğiyle mücadele, dijital tarım uygulamaları ve sürdürülebilir üretim gibi birçok alanda yürütülen uluslararası projelerde bu birim koordinasyon görevi üstleniyor.\n\nBu projeler kapsamında üreticilere yönelik eğitim programları, teknik destekler ve çeşitli hibe mekanizmaları da geliştirilebiliyor.\n\nUluslararası iş birliklerinin koordinasyonunu sağlıyor\n\nAvrupa Birliği ve Dış İlişkiler Genel Müdürlüğü yalnızca Avrupa Birliği ile değil, yabancı ülkeler ve uluslararası kuruluşlarla yürütülen ilişkileri de koordine ediyor.\n\nİkili ve çok taraflı bilimsel, teknik ve sektörel iş birliği anlaşmalarının hazırlanmasına katkı sağlayan genel müdürlük, uluslararası kongre, konferans ve teknik toplantıların organizasyonunda da görev alıyor.\n\nBu çalışmalar sayesinde Türkiye'nin tarım alanındaki uluslararası iş birliklerinin geliştirilmesi hedefleniyor.\n\nTürk üreticisinin rekabet gücünü artırmayı hedefliyor\n\nGenel müdürlüğün vizyonunda yalnızca uluslararası ilişkiler değil, Türk tarımının rekabet gücünün artırılması da önemli bir yer tutuyor.\n\nBirim, Türkiye'de tüketicilerin güvenilir gıdaya erişimine katkı sağlamayı, Türk üreticisinin değişen dünya pazarlarının taleplerine uyum sağlayabilecek rekabetçi bir yapıya kavuşmasını desteklemeyi ve uluslararası iş birliklerini geliştirmeyi amaçlıyor.\n\nBu yönüyle Avrupa Birliği ve Dış İlişkiler Genel Müdürlüğü, sadece kamu kurumları arasında koordinasyon sağlayan bir yapı değil, aynı zamanda Türk tarımının uluslararası pazarlara entegrasyonunda önemli rol üstlenen stratejik bir birim olarak öne çıkıyor.\n\nÇiftçi bu genel müdürlüğü neden bilmeli?\n\nHer üretici bu genel müdürlükle doğrudan temas kurmasa da, tarım sektörünü ilgilendiren birçok önemli gelişmenin hazırlık aşamasında bu birim yer alıyor.\n\nÖzellikle;\n\nAvrupa Birliği ile yürütülen tarım müzakereleri,\n\nTarım ve gıda mevzuatına ilişkin uyum çalışmaları,\n\nUluslararası hibe ve proje programları,\n\nTarım alanındaki teknik iş birliği anlaşmaları,\n\nUluslararası tarım organizasyonları,\n\nAvrupa Birliği ve Dış İlişkiler Genel Müdürlüğünün koordinasyonunda yürütülüyor.\n\nBu nedenle üretici açısından bakıldığında, bu genel müdürlüğün çalışmaları yalnızca dış ilişkilerle sınırlı değil; üretim standartlarından ihracat imkanlarına, uluslararası fonlardan tarım politikalarının şekillenmesine kadar birçok alanda dolaylı etki oluşturuyor.\n\nBilgi kutusu\n\nAvrupa Birliği ve Dış İlişkiler Genel Müdürlüğünün temel görevleri\n\nAvrupa Birliği ile tarım müzakerelerini yürütmek ve koordine etmek.\n\nAB mevzuatına uyum çalışmalarını takip etmek.\n\nBakanlık birimleri arasında koordinasyonu sağlamak.\n\nUluslararası tarım proje ve programlarını hazırlamak ve yürütmek.\n\nYabancı ülkeler ve uluslararası kuruluşlarla ilişkileri koordine etmek.\n\nTarım alanındaki uluslararası toplantı ve organizasyonları düzenlemek."
-    },
-    {
-      "title": "Kocaeli Büyükşehir, 4 yavru leyleği Ormanya'da korumaya aldı",
-      "url": "https://www.tarimpusulasi.com/haber/kocaeli-buyuksehir-4-yavru-leylegi-ormanyada-korumaya-aldi-47055",
-      "source": "Tarım Pusulası",
-      "date": "2026-07-13",
-      "summary": "Kocaeli Büyükşehir Belediyesi'ne bağlı Ormanya Yaban Hayatı Kurtarma ve Rehabilitasyon Merkezi, Derince'de ebeveynleri tarafından terk edilen 4 yavru leyleği koruma altına aldı. Sağlık kontrolleri tamamlanan ve halkalanan yavru leyleklerin göç dönemine kadar merkezde bakım ve gözlem altında tutulaca",
-      "content": "KOCAELİ — Kocaeli Büyükşehir Belediyesi'ne bağlı Ormanya Yaban Hayatı Kurtarma ve Rehabilitasyon Merkezi, Derince ilçesinde ebeveynleri tarafından terk edildiği belirlenen 4 yavru leyleği koruma altına aldı. Doğa Koruma ve Milli Parklar ekiplerince yuvalarından alınan yavrular, sağlık kontrolleri ve rehabilitasyon süreci için Ormanya Doğal Yaşam Parkı'na teslim edildi.\n\nUzman veteriner hekimler ve biyologlar tarafından muayene edilen yavru leyleklerin genel sağlık durumlarının iyi olduğu bildirildi. Göç yolları ile davranışlarının takip edilebilmesi amacıyla halkalanan leyleklerde uçuşlarını engelleyecek herhangi bir sağlık sorunu tespit edilmedi.\n\nKontrollerin ardından yavrular, Ormanya bünyesindeki Düşkün Leylekler Evi'ne alınarak bakım ve gözlem sürecine geçirildi. Yetkililer, gelişimlerini sağlıklı şekilde tamamlamaları halinde leyleklerin göç döneminde doğal yaşamlarına dönebileceklerini belirtti.\n\nKocaeli Büyükşehir Belediyesi'nin açıklamasına göre Ormanya Yaban Hayatı Kurtarma ve Rehabilitasyon Merkezi yalnızca Kocaeli'ne değil, İstanbul, Sakarya ve Yalova başta olmak üzere çevre illere de hizmet veriyor. Merkezde yaralı, hasta veya güçten düşmüş yaban hayvanlarının radyolojik görüntüleme, yara bakımı ve enfeksiyon tedavileri gerçekleştirilirken, rehabilitasyon sürecinin ardından doğal yaşamlarına kazandırılmaları hedefleniyor.\n\nPaylaşılan verilere göre merkezde 2026 yılının ilk 6 ayında 600'ün üzerinde yaban hayvanı tedavi edildi. Bu kapsamda 41 memeli ile 560 kanatlı hayvan rehabilite edilerek yeniden doğaya bırakıldı. Açıklamaya göre tedavi edilen hayvanlar arasında karaca, tilki, çakal ve kurt gibi memeliler ile şahin, atmaca, doğan ve güvercin gibi kanatlı türleri de yer aldı.\n\nResmî veriler dikkate alındığında, ilk altı ayda tedavi edilen hayvan sayısı 600'ün üzerinde olarak açıklanırken, bunun 41'ini memeliler, 560'ını ise kanatlı hayvanlar oluşturdu. Ayrıca Derince'de kurtarılan 4 yavru leyleğin göç dönemine kadar rehabilitasyon merkezinde bakım altında tutulacağı bildirildi.\n\nTARIM PUSULASI HABER MERKEZİ"
     },
     {
       "title": "USDA raporu sonrası kritik soru: Bugün marketler, yarın tarlalar mı?",
@@ -277,24 +277,24 @@
     }
   ],
   "dieselByCity": {
-    "ANKARA": 70.98,
-    "ISTANBUL": 69.81,
-    "IZMIR": 71.25,
-    "KONYA": 72.13,
-    "ADANA": 71.81,
-    "BURSA": 70.86,
-    "ANTALYA": 72.3,
-    "SAMSUN": 71.55,
-    "TEKIRDAG": 70.7,
-    "CANAKKALE": 71.61
+    "ANKARA": 71.06,
+    "ISTANBUL": 69.89,
+    "IZMIR": 71.33,
+    "KONYA": 72.21,
+    "ADANA": 71.89,
+    "BURSA": 70.94,
+    "ANTALYA": 72.38,
+    "SAMSUN": 71.63,
+    "TEKIRDAG": 70.78,
+    "CANAKKALE": 71.69
   },
   "inputs": [
     {
       "key": "motorin",
       "name": "Motorin (mazot)",
       "unit": "₺/lt",
-      "price": 71.61,
-      "change": 0,
+      "price": 71.69,
+      "change": 0.11,
       "source": "CANAKKALE ort."
     },
     {
