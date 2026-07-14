@@ -1,43 +1,51 @@
 {
-  "updatedAt": "2026-07-14T08:36:37.695Z",
+  "updatedAt": "2026-07-14T10:25:21.004Z",
   "fx": [
     {
       "code": "USD",
       "name": "Dolar",
-      "buy": 47.03,
-      "sell": 47.04,
-      "change": 0.09
+      "buy": 470358,
+      "sell": 470399,
+      "change": 9
     },
     {
       "code": "EUR",
       "name": "Euro",
-      "buy": 53.62,
-      "sell": 53.62,
-      "change": 0.04
+      "buy": 536009,
+      "sell": 536058,
+      "change": 2
     },
     {
       "code": "GRA",
       "name": "Gram Altın",
-      "buy": 6078.56,
-      "sell": 6079.41,
-      "change": 0.54
+      "buy": 607581,
+      "sell": 607672,
+      "change": 5
     },
     {
       "code": "CEYREKALTIN",
       "name": "Çeyrek Altın",
-      "buy": 9776.92,
-      "sell": 10000.64,
-      "change": 0
+      "buy": 972687,
+      "sell": 994949,
+      "change": -51
     },
     {
       "code": "CUMHURIYETALTINI",
       "name": "Cumhuriyet Altını",
       "buy": 40595,
       "sell": 41216,
-      "change": -1.2
+      "change": -12
     }
   ],
   "news": [
+    {
+      "title": "TÜİK: Mayısta tavuk eti üretimi %16,3 geriledi",
+      "url": "https://www.tarimpusulasi.com/haber/tuik-mayista-tavuk-eti-uretimi-163-geriledi-47056",
+      "source": "Tarım Pusulası",
+      "date": "2026-07-14",
+      "summary": "Türkiye İstatistik Kurumu (TÜİK), Mayıs 2026 Kümes Hayvancılığı Üretim İstatistikleri'ni yayımladı. Verilere göre tavuk eti üretimi geçen yılın aynı ayına göre %16,3 azalarak 202 bin 336 tona gerilerken, tavuk yumurtası üretimi %21,6 artışla 1 milyar 857 milyon 150 bin adede ulaştı.",
+      "content": "ANKARA — Türkiye İstatistik Kurumu (TÜİK), Mayıs 2026 dönemine ilişkin Kümes Hayvancılığı Üretim İstatistikleri'ni yayımladı. Verilere göre tavuk eti üretimi 202 bin 336 ton, tavuk yumurtası üretimi 1,86 milyar adet olarak gerçekleşti.\n\nMayıs ayında bir önceki yılın aynı ayına göre, tavuk yumurtası üretimi %21,6 arttı, kesilen tavuk sayısı %16,8 azaldı, tavuk eti üretimi %16,3 azaldı. Ocak-Mayıs döneminde bir önceki yılın aynı dönemine göre, tavuk yumurtası üretimi %18,1 arttı, kesilen tavuk sayısı %1,1 azaldı, tavuk eti üretimi %2,2 azaldı.\n\nKümes hayvancılığı üretim miktarı, Mayıs 2026\n\nMayıs\n\nOcak-Mayıs\n\n2025\n\n2026\n\nDeğişim (%)\n\n2025\n\n2026\n\nDeğişim (%)\n\nTavuk eti (Ton)\n\n241 782\n\n202 336\n\n-16,3\n\n1 162 428\n\n1 137 296\n\n-2,2\n\nKesilen tavuk (Bin adet)\n\n129 851\n\n108 065\n\n-16,8\n\n618 797\n\n612 262\n\n-1,1\n\nTavuk yumurtası (Bin adet)\n\n1 527 425\n\n1 857 150\n\n21,6\n\n7 912 021\n\n9 345 629\n\n18,1\n\nTablodaki oranlar yuvarlanmış rakamlar üzerinden hesaplanmıştır.\n\nBir önceki ay 236 bin 310 ton olan tavuk eti üretimi Mayıs ayında %14,4 oranında azalarak 202 bin 336 ton oldu.\n\nTavuk eti üretim miktarı, Mayıs 2026 (Bin ton)\n\nBir önceki ay 1 milyar 844 milyon 973 bin adet olan tavuk yumurtası üretimi Mayıs ayında %0,7 oranında artarak 1 milyar 857 milyon 150 bin adet oldu.\n\nTavuk yumurtası üretim miktarı, Mayıs 2026 (Milyar adet)"
+    },
     {
       "title": "Razi Petrokimya kara geçti, Genel Müdür Uğur Özyiğit Gübretaş yönetimine transfer edildi",
       "url": "https://www.tarimdanhaber.com/razi-petrokimya-kara-gecti-genel-mudur-ugur-ozyigit-gubretas-yonetimine-transfer-edildi",
@@ -125,14 +133,6 @@
       "date": "2026-07-13",
       "summary": "Türk kuru meyve sektörü, 2026 yılının ilk altı ayında 752 milyon dolarlık ihracata ulaştı. İhracatın 465 milyon dolarlık bölümünü Ege Kuru Meyve ve Mamulleri İhracatçıları Birliği gerçekleştirirken sektör yıl sonunda 2 milyar dolar ihracat hedefini koruyor.",
       "content": "İZMİR — Türk kuru meyve sektörü, 2026 yılının ilk yarısında 752 milyon dolarlık ihracata ulaştı. Bu ihracatın 465 milyon dolarlık kısmını Ege Kuru Meyve ve Mamulleri İhracatçıları Birliği (EKMİB) gerçekleştirirken sektör, yıl sonunda 2 milyar dolar ihracat hedefine ulaşmayı amaçlıyor.\n\nDünya çekirdeksiz kuru üzüm, kuru incir ve kuru kayısı üretiminde lider konumda bulunan Türkiye'nin, kalite, gıda güvenliği ve sürdürülebilir üretim alanındaki çalışmalarıyla uluslararası pazarlardaki rekabet gücünü koruduğu belirtildi.\n\nEge İhracatçı Birlikleri Sürdürülebilirlik ve Organik Ürünler Koordinatörü ve EKMİB Başkanı Yusuf Gabay, uluslararası pazarlarda yalnızca kaliteli üretimin yeterli olmadığını, karbon ayak izi, pestisit kalıntısı, izlenebilirlik ve sürdürülebilir üretim kriterlerinin giderek daha belirleyici hale geldiğini söyledi.\n\nGabay, Tarım ve Orman Bakanlığı, üreticiler, ihracatçılar, üniversiteler ve araştırma enstitülerinin uzun yıllardır yürüttüğü ortak çalışmalar sayesinde Türk kuru meyvelerinin küresel pazarlarda güvenilir bir tedarikçi olarak öne çıktığını ifade etti.\n\nHindistan pazarı hedefte\n\nTürk kuru meyvelerinin küresel marka değerini artırmaya yönelik çalışmaların sürdüğünü belirten Gabay, TURQUALITY Projesi kapsamında Hindistan pazarında büyümeyi hedeflediklerini söyledi.\n\nAvrupa Birliği ve Amerika Birleşik Devletleri'nin geleneksel pazarlar olduğunu belirten Gabay, Uzak Doğu ve Güney Asya'da ihracatın artırılmasına yönelik tanıtım faaliyetlerinin devam ettiğini kaydetti.\n\nKalite ve sürdürülebilirlik vurgusu\n\nGabay, aflatoksin ve okratoksin oluşumunun önlenmesine yönelik olarak Tarım ve Orman Bakanlığı ile iş birliği içinde üreticilere eğitimler verildiğini, ekipman destekleriyle güvenilir üretimin yaygınlaştırıldığını belirtti.\n\nKalite zincirinin tüm halkalarının aynı sorumluluğu taşıması gerektiğini ifade eden Gabay, sektörün bugünkü başarısında üreticiden ihracatçıya kadar tüm paydaşların ortak çalışmalarının önemli rol oynadığını söyledi.\n\nÜniversitelerle ortak projeler\n\nÜniversiteler, TÜBİTAK ve araştırma enstitüleriyle iklim değişikliğine uyum ve sürdürülebilir üretim alanlarında ortak projeler yürüttüklerini aktaran Gabay, bilim ve teknoloji odaklı üretimin sektörün gelecekteki rekabet gücünü belirleyeceğini ifade etti.\n\nDon olayı ihracat sıralamasını değiştirdi\n\n2026 yılının ocak-haziran döneminde çekirdeksiz kuru üzüm ihracatı 215 milyon dolarla ilk sırada yer aldı.\n\nKuru incir ihracatı 136 milyon dolara ulaşırken, ilkbaharda yaşanan don olayının etkisiyle kuru kayısı ihracatı 60 milyon dolarda kaldı. Böylece kuru incir, ihracatta ikinci sıraya yükseldi.\n\nYıl sonu hedefi 2 milyar dolar\n\nGabay, yılın ikinci yarısında rekoltedeki artışla birlikte ihracatta toparlanma beklediklerini belirterek Türkiye genelinde 2 milyar dolar, Ege Bölgesi'nde ise 1,2 milyar dolarlık ihracat hacmine ulaşmayı hedeflediklerini açıkladı.\n\nİngiltere ilk sırada\n\nEKMİB, yılın ilk yarısında 94 ülkeye 465 milyon dolarlık ihracat gerçekleştirdi.\n\nİngiltere 81 milyon dolarla ilk sırada yer alırken, Almanya 55,2 milyon dolarla ikinci, Amerika Birleşik Devletleri ise 54,8 milyon dolarla üçüncü sırada yer aldı. Fransa'ya 40,7 milyon dolar, İtalya'ya ise 30,5 milyon dolarlık ihracat yapıldı.\n\nBirliğin ilk beş pazara gerçekleştirdiği ihracat 262 milyon dolara ulaşırken, bu ülkeler toplam ihracatın yüzde 56'sını oluşturdu.\n\nTARIM PUSULASI HABER MERKEZİ"
-    },
-    {
-      "title": "Kan örneği alınmadan mı arilik belgesi iptal edildi? TÜSEDAD'dan çarpıcı açıklama",
-      "url": "https://www.tarimdanhaber.com/kan-ornegi-alinmadan-mi-arilik-belgesi-iptal-edildi-tusedaddan-carpici-aciklama",
-      "source": "Tarımdan Haber",
-      "date": "2026-07-13",
-      "summary": "Bursa'da 24 hastalıktan ari işletmenin sertifikasının iptal edilmesi tartışmaları da beraberinde getirdi. TÜSEDAD, yalnızca bir işletmede kan örneği alındığını, buna rağmen 24 işletmenin arilik belgesinin iptal edildiğini belirterek, mevzuata göre önce askıya alma uygulanması gerekirken doğrudan ipt",
-      "content": "Haber Merkezi / Bursa'da hastalıktan ari işletmelere yönelik gerçekleştirilen denetimlerin ardından 24 işletmenin ari işletme sertifikasının iptal edilmesi, hayvancılık sektöründe tartışmalara neden oldu. TÜSEDAD (Tüm Süt, Et ve Damızlık Sığır Yetiştiricileri Derneği), yaptığı yazılı açıklamayla uygulamaya tepki göstererek, sertifika iptallerinin ilgili mevzuata aykırı şekilde gerçekleştirildiğini ileri sürdü.\n\nDernek açıklamasında, hastalıktan ari işletme statüsünün yalnızca sığır tüberkülozu ve bruselloz gibi hastalıklardan arilik değil, aynı zamanda biyogüvenlik tedbirleri ve kayıt sistemine ilişkin kriterlerin yerine getirilmesiyle kazanıldığı hatırlatıldı.\n\n\"24 işletmenin sertifikası iptal edildi\"\n\nTÜSEDAD'ın açıklamasına göre, 25-27 Haziran 2026 tarihlerinde Bursa'da yapılan denetimlerde 24 işletmenin ari işletme sertifikası iptal edildi. Dernek, rutin denetim zamanı gelen yalnızca bir işletme dışında hiçbir çiftlikte hayvanlardan kan örneği alınmadığını belirterek, iptallerin sağlık kriterlerinden ziyade diğer mevzuat şartlarından kaynaklandığını ifade etti.\n\n\"Eksiklikler küçük müdahalelerle giderilebilirdi\"\n\nAçıklamada, bazı işletmelerde tespit edilen eksikliklerin bir gün içerisinde giderilebilecek mekanik arızalar veya küçük düzenlemelerden ibaret olduğu savunuldu.\n\nTÜSEDAD, bu tür eksiklikler nedeniyle doğrudan sertifika iptal edilmesi yerine işletmelere eksiklerini tamamlamaları için süre verilmesi gerektiğini belirterek, doğrudan iptal kararının üreticileri mağdur ettiğini dile getirdi.\n\n\"Mevzuatta önce askıya alma öngörülüyor\"\n\nDernek, hem Hastalıktan Arilikte Bölümlendirme Yönetmeliği hem de Tarım ve Orman Bakanlığı'nın 2024/8 sayılı Hastalıktan Ari İşletmeler Yönergesi hükümlerine dikkat çekti.\n\nAçıklamada, ilgili düzenlemelere göre;\n\nDenetimlerde eksiklik tespit edilmesi halinde işletmenin sertifikasının öncelikle askıya alınması,\n\nİşletmeye eksikliklerini gidermesi için 15 ila 30 gün arasında süre verilmesi,\n\nSağlık dışındaki uygunsuzluklarda ise askı süresinin en fazla dört aya kadar uzatılabilmesi,\n\ngerektiği ifade edildi.\n\nTÜSEDAD, hatta tüberküloz veya bruselloz gibi sağlık sorunlarının tespit edilmesi halinde dahi belirli şartlarda arilik statüsünün askıya alınarak daha sonra yeniden kazanılmasının mümkün olduğunu belirtti.\n\n\"Doğrudan iptal yapıldı\"\n\nDernek, Bursa'daki uygulamada işletmelerin sertifikalarının önce askıya alınması yerine doğrudan iptal edildiğini ve iptal gerekçelerinin de resmi olarak işletmelere bildirilmediğini öne sürdü.\n\nBu durumun ari işletmeler arasında ciddi endişe oluşturduğu belirtilen açıklamada, uygulamanın gerekçesinin Tarım ve Orman Bakanlığı tarafından kamuoyuna açıklanması gerektiği ifade edildi.\n\nTÜSEDAD: \"Şeffaflığın sağlanması önemli\"\n\nAçıklamanın sonunda TÜSEDAD, kurallara uygun üretim yapan işletmelerin yanında olduklarını vurgulayarak, halk sağlığının korunması, kamu kaynaklarının etkin kullanımı ve hayvancılık sektörünün sürdürülebilirliği açısından denetimlerin önemini desteklediklerini belirtti.\n\nAncak dernek, denetim süreçlerinin ilgili mevzuata uygun, şeffaf ve öngörülebilir şekilde yürütülmesinin hem üreticilerin hem de sektörün güveni açısından büyük önem taşıdığı değerlendirmesinde bulundu."
     }
   ],
   "commoditiesByBorsa": {
@@ -328,5 +328,17 @@
   "defaultBorsa": "5ED10",
   "defaultCity": "CANAKKALE",
   "note": "Fiyatlar TOBB ticaret borsasından (borsa seçilebilir). Kanola manuel (Trakya 2025).",
-  "inputsNote": "Mazot: akaryakıt bayi fiyatı, günlük (şehir seçilebilir). Gübre: manuel (yaklaşık)."
+  "inputsNote": "Mazot: akaryakıt bayi fiyatı, günlük (şehir seçilebilir). Gübre: manuel (yaklaşık).",
+  "errors": [
+    "mazot ANKARA: fetch failed",
+    "mazot ISTANBUL: fetch failed",
+    "mazot IZMIR: fetch failed",
+    "mazot KONYA: fetch failed",
+    "mazot ADANA: fetch failed",
+    "mazot BURSA: fetch failed",
+    "mazot ANTALYA: fetch failed",
+    "mazot SAMSUN: fetch failed",
+    "mazot TEKIRDAG: fetch failed",
+    "mazot CANAKKALE: fetch failed"
+  ]
 }
