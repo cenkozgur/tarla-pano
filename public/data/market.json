@@ -1,26 +1,26 @@
 {
-  "updatedAt": "2026-07-15T18:10:54.697Z",
+  "updatedAt": "2026-07-15T19:37:02.384Z",
   "fx": [
     {
       "code": "USD",
       "name": "Dolar",
-      "buy": 47.02,
+      "buy": 47.03,
       "sell": 47.04,
       "change": 0
     },
     {
       "code": "EUR",
       "name": "Euro",
-      "buy": 53.99,
-      "sell": 54.01,
-      "change": 0.54
+      "buy": 53.95,
+      "sell": 53.97,
+      "change": 0.46
     },
     {
       "code": "GRA",
       "name": "Gram Altın",
-      "buy": 6149.26,
-      "sell": 6150.15,
-      "change": 0.37
+      "buy": 6125.25,
+      "sell": 6126.1,
+      "change": -0.02
     },
     {
       "code": "CEYREKALTIN",
@@ -60,7 +60,7 @@
       "source": "Tarımdan Haber",
       "date": "2026-07-15",
       "summary": "Türkiye'de soğan fiyatlarındaki yükseliş nedeniyle ithalat vergisi düşürülerek dış alımın önü açılırken, İspanya'nın Sevilla kentinde bir çiftçi ürününü kilogramı 13 euro sente satamadığı için 200 tondan fazla soğanı ücretsiz dağıtmaya başladı. Üretici, hasat maliyetini bile karşılayamayınca tarlası",
-      "content": "Haber Merkezi / Türkiye'de soğan fiyatlarının yükselmesi üzerine hükümet ithalat vergisini düşürerek dış alımı kolaylaştırırken, Avrupa'dan gelen bir haber tarım piyasalarındaki çarpıcı fiyat farkını gözler önüne serdi.\n\nİspanya'nın Sevilla kentindeki Lebrija bölgesinde üretim yapan çiftçi Juan Manuel Romero, yetiştirdiği 200 tondan fazla soğanı satacak karlı bir pazar bulamayınca ürünlerini ücretsiz dağıtmaya başladı.\n\nKilogramı 13 euro sente alıcı bulamadı\n\n3,25 hektarlık alanda soğan üretimi yapan Romero, hasat döneminde ürününe teklif edilen fiyatın kilogram başına sadece 13 euro sent olduğunu belirtti.\n\nBu fiyatın hasat, işçilik ve nakliye maliyetlerini dahi karşılamadığını ifade eden çiftçi, ürünleri toprağa gömmek yerine sosyal medya üzerinden çağrı yaparak vatandaşları tarlasına davet etti.\n\nBölgede yaşayan vatandaşlar günlerdir tarlaya giderek istedikleri kadar soğanı ücretsiz alabiliyor.\n\n\"Hasat masrafını bile karşılamıyor\"\n\nRomero, yalnızca bir hektarlık alanın hasadı için yaklaşık 25 işçinin birkaç gün çalışması gerektiğini belirterek, kilogramı 13 euro sentten satış yapmanın ekonomik olarak mümkün olmadığını söyledi.\n\nVatandaşlardan tek isteğinin ise tarlayı temiz bırakmaları ve plastik gibi atıkları araziye bırakmamaları olduğunu ifade etti.\n\nMarkette 60 sent, üreticide 13 sent\n\nCOAG Andalucía İşlenmiş Ürünler Bölümü Başkanı Diego Bellido da bu yıl yaşanan olumsuz hava koşullarının üreticileri zor durumda bıraktığını söyledi.\n\nBellido, marketlerde soğanın kilogramının yaklaşık 60 euro sente satıldığını, buna karşın üreticinin sadece 13 euro sent alabildiğini belirterek, aradaki fiyat farkının çiftçiye hiçbir şekilde yansımadığını ifade etti.\n\n\"Sonuçta kaybeden hem maliyetinin altında satış yapmak zorunda kalan üretici hem de yüksek fiyat ödeyen tüketici oluyor.\" diyen Bellido, tarımsal pazarlama zincirindeki dengesizliğe dikkat çekti.\n\nTürkiye'de ithalat kararı\n\nTürkiye'de ise son dönemde soğan fiyatlarında yaşanan yükseliş gerekçe gösterilerek ithalat vergisi düşürüldü ve dış alımın önü açıldı. İspanya'da üreticinin ürününü maliyetinin altında satamayıp ücretsiz dağıtmak zorunda kalması, tarım piyasalarında üretici fiyatı ile tüketici fiyatı arasındaki makasın yalnızca Türkiye'de değil Avrupa'da da önemli bir sorun olmaya devam ettiğini ortaya koydu."
+      "content": "Haber Merkezi / Türkiye'de soğan fiyatlarının yükselmesi üzerine hükümet ithalat vergisini düşürerek dış alımı kolaylaştırırken, Avrupa'dan gelen bir haber tarım piyasalarındaki çarpıcı fiyat farkını gözler önüne serdi.\n\nİspanya'nın Sevilla kentindeki Lebrija bölgesinde üretim yapan çiftçi Juan Manuel Romero, yetiştirdiği 200 tondan fazla soğanı satacak karlı bir pazar bulamayınca ürünlerini ücretsiz dağıtmaya başladı.\n\nKilogramı 13 euro sente alıcı bulamadı\n\n3,25 hektarlık alanda soğan üretimi yapan Romero, hasat döneminde ürününe teklif edilen fiyatın kilogram başına sadece 13 euro sent olduğunu belirtti.\n\nBu fiyatın hasat, işçilik ve nakliye maliyetlerini dahi karşılamadığını ifade eden çiftçi, ürünleri toprağa gömmek yerine sosyal medya üzerinden çağrı yaparak vatandaşları tarlasına davet etti.\n\nBölgede yaşayan vatandaşlar günlerdir tarlaya giderek istedikleri kadar soğanı ücretsiz alabiliyor.\n\n\"Hasat masrafını bile karşılamıyor\"\n\nRomero, yalnızca bir hektarlık alanın hasadı için yaklaşık 25 işçinin birkaç gün çalışması gerektiğini belirterek, kilogramı 13 euro sentten satış yapmanın ekonomik olarak mümkün olmadığını söyledi.\n\nVatandaşlardan tek isteğinin ise tarlayı temiz bırakmaları ve plastik gibi atıkları araziye bırakmamaları olduğunu ifade etti.\n\nMarkette 60 sent, üreticide 13 sent\n\nCOAG Andalucía İşlenmiş Ürünler Bölümü Başkanı Diego Bellido da bu yıl yaşanan olumsuz hava koşullarının üreticileri zor durumda bıraktığını söyledi.\n\nBellido, marketlerde soğanın kilogramının yaklaşık 60 euro sente satıldığını, buna karşın üreticinin sadece 13 euro sent alabildiğini belirterek, aradaki fiyat farkının çiftçiye hiçbir şekilde yansımadığını ifade etti.\n\n\"Sonuçta kaybeden hem maliyetinin altında satış yapmak zorunda kalan üretici hem de yüksek fiyat ödeyen tüketici oluyor.\" diyen Bellido, tarımsal pazarlama zincirindeki dengesizliğe dikkat çekti.\n\nTürkiye'de ithalat kararı\n\nTürkiye'de ise son dönemde soğan fiyatlarında yaşanan yükseliş gerekçe gösterilerek ithalat vergisi düşürüldü ve dış alımın önü açıldı. İspanya'da üreticinin ürününü maliyetinin altında satamayıp ücretsiz dağıtmak zorunda kalması, tarım piyasalarında üretici fiyatı ile tüketici fiyatı arasındaki makasın yalnızca Türkiye'de değil Avrupa'da da önemli bir sorun olmaya devam ettiğini ortaya koydu.\n\nKaynak: https://agroinformacion.com/"
     },
     {
       "title": "Fire bitti, kesim ücreti başladı! Üretici beklediğini bulamadı",
