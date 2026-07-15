@@ -1,33 +1,33 @@
 {
-  "updatedAt": "2026-07-15T20:42:34.788Z",
+  "updatedAt": "2026-07-15T21:40:17.313Z",
   "fx": [
     {
       "code": "USD",
       "name": "Dolar",
-      "buy": 47.02,
-      "sell": 47.04,
+      "buy": 46.96,
+      "sell": 47.13,
       "change": 0
     },
     {
       "code": "EUR",
       "name": "Euro",
-      "buy": 53.93,
-      "sell": 53.95,
-      "change": 0.43
+      "buy": 53.95,
+      "sell": 54.15,
+      "change": 0.19
     },
     {
       "code": "GRA",
       "name": "Gram Altın",
-      "buy": 6143.34,
-      "sell": 6144.19,
-      "change": 0.28
+      "buy": 6140.47,
+      "sell": 6141.41,
+      "change": 0
     },
     {
       "code": "CEYREKALTIN",
       "name": "Çeyrek Altın",
       "buy": 9831,
       "sell": 10058.05,
-      "change": -0.18
+      "change": 0
     },
     {
       "code": "CUMHURIYETALTINI",
@@ -38,6 +38,14 @@
     }
   ],
   "news": [
+    {
+      "title": "Soğanda ithalat kararı, Ulusal Tarım Master Planı tartışmasını yeniden gündeme taşıdı",
+      "url": "https://www.tarimdanhaber.com/soganda-ithalat-karari-ulusal-tarim-master-plani-tartismasini-yeniden-gundeme-tasidi",
+      "source": "Tarımdan Haber",
+      "date": "2026-07-15",
+      "summary": "Tarım ve Orman Bakanlığı'nın 1 Eylül 2024'te uygulamaya aldığı planlı üretim modeli, soğan ve patates gibi stratejik ürünlerde arz açığını önlemeyi hedefliyordu. Ancak iki yıl geçmeden soğanda ithalat vergisinin düşürülmesi, sistemin başarısını yeniden tartışmaya açtı. Tarım politikaları uzmanı Ergi",
+      "content": "Haber Merkezi / Tarım ve Orman Bakanlığı, bitkisel üretimde arz fazlası ve arz açığını önlemek amacıyla planlı üretim sistemini 1 Eylül 2024 tarihinde yürürlüğe koydu.\n\nPlanlama kapsamına alınan 13 stratejik ürün arasında kuru soğan ve patates de yer aldı. Bakanlık ayrıca bu ürünlere planlı üretim desteği vermeye başladı.\n\nAncak yaklaşık iki yıl sonra bu kez soğanda fiyat artışı gerekçesiyle ithalat vergisinin düşürülmesi, planlı üretim modelinin hedefleriyle uygulama arasındaki uyumu yeniden tartışmaya açtı.\n\nBakanlık neyi hedefliyordu?\n\nBakanlığın yayımladığı Tarımsal Üretim Planlaması dokümanında sistemin amacı açık şekilde ortaya konuluyor.\n\nBuna göre;\n\nhangi havzada hangi ürünün üretileceği belirlenecek,\n\nülke bazında asgari ve azami üretim miktarları planlanacak,\n\narz açığı ve arz fazlası önlenecek,\n\nfiyat dalgalanmalarının azaltılması hedeflenecekti.\n\nAncak bugün gelinen noktada soğan için yeniden ithalat kapısının açılması, bu hedeflerin ne ölçüde gerçekleştiği sorusunu beraberinde getirdi.\n\n\"Makro plan olmadan bu sistem işlemez\"\n\nTarım politikaları uzmanı Ergin Kahveci ise planlı üretim uygulaması başlamadan önce yaptığı değerlendirmede, asıl eksikliğin ürün bazlı planlama değil, ülkenin tamamını kapsayan bir Ulusal Tarım Master Planı olduğunu savunmuştu.\n\nİlgili Makale → Arazi yönetmeliği mi araziye uyma mı?\n\nKahveci, Ağustos 2024'te kaleme aldığı değerlendirmede şu görüşlere yer vermişti:\n\n\"Neyi planlayacaklarını planlamadıkları için, yani ülkenin makro düzeyli Ulusal Tarım Master Planı olmadığı için bu yönetmelik uygulamada ölü doğacaktır.\"\n\n\"Makro planı olmayan bir işin politikası da olmaz.\"\n\n\"Ülkenin sorunu üretim planlaması değil, tarımın bütününü kapsayan katma değer planlamasının olmamasıdır.\"\n\nKahveci'ye göre yalnızca bitkisel üretimi düzenleyen dar kapsamlı planlamalar yerine;\n\nbitkisel üretim,\n\nhayvancılık,\n\ntarımsal sanayi,\n\nkırsal kalkınma,\n\npazarlama,\n\nkatma değer zinciri\n\nbir bütün olarak ele alınmalıydı.\n\n\"Çiftçi zaten planlamayı yapar\"\n\nKahveci'nin dikkat çeken değerlendirmelerinden biri de üretici davranışına ilişkin oldu.\n\nTarım politikalarının doğru oluşturulması halinde çiftçinin zaten üretimini piyasa koşullarına göre planlayacağını belirten Kahveci, şu değerlendirmeyi yapmıştı:\n\n\"Siz çiftçi faaliyetlerini doğru şekilde regüle ettiğinizde çiftçiler hem üretim verimliliğini hem de üretim planlamasını zaten kendileri yaparlar.\"\n\nBugünkü tablo eleştirileri yeniden gündeme taşıdı\n\nSoğanda ithalat vergisinin düşürülmesiyle birlikte üreticiler de planlı üretim modelini sorgulamaya başladı.\n\nSahadaki üreticiler, geçen yıl zarar ettiklerini, bu yıl ilk kez para kazanabilecekleri bir dönemde ithalat kapılarının açıldığını belirterek kararın market fiyatından çok tarladaki fiyatı düşüreceğini savunuyor.\n\nPlanlı üretim sistemi tam da bu tür arz dengesizliklerini önlemek amacıyla hayata geçirilmişti.\n\nBu nedenle bugün yaşanan gelişmeler, yaklaşık iki yıl önce dile getirilen \"Ulusal Tarım Master Planı olmadan dar kapsamlı üretim planlamaları beklenen sonucu vermez\" eleştirisini yeniden gündeme taşıdı."
+    },
     {
       "title": "Planlı üretim vardı, soğanda ithalat neden geldi? Bakanlığın hedefiyle uygulama çelişti!",
       "url": "https://www.tarimdanhaber.com/planli-uretim-vardi-soganda-ithalat-neden-geldi-bakanligin-hedefiyle-uygulama-celisti",
@@ -93,14 +101,6 @@
       "date": "2026-07-15",
       "summary": "Çiftçinin ektiği üründen kullandığı tohuma, üretim planlamasından gübre ve bitki koruma uygulamalarına kadar birçok konuda kararların alındığı adreslerden biri Bitkisel Üretim Genel Müdürlüğü. Tarım ve Orman Bakanlığı bünyesinde faaliyet gösteren bu genel müdürlük, Türkiye'de bitkisel üretimin planl",
       "content": "Haber Merkezi / Türkiye'de hububat, ayçiçeği, mısır, pamuk, sebze ve meyve başta olmak üzere bitkisel üretime ilişkin birçok politika, Tarım ve Orman Bakanlığı Bitkisel Üretim Genel Müdürlüğü tarafından hazırlanıyor. Üretim planlamasından tarım havzalarına, sertifikalı tohum kullanımından sürdürülebilir üretim modellerine kadar geniş bir görev alanına sahip olan genel müdürlük, milyonlarca üreticiyi yakından ilgilendiren çalışmalara imza atıyor.\n\nÜretim planlamasının merkezinde yer alıyor\n\nSon yıllarda uygulamaya alınan üretim planlaması modeli, Bitkisel Üretim Genel Müdürlüğünün en önemli çalışma alanlarından biri haline geldi.\n\nHangi ürünün hangi bölgede destekleneceği, üretimin arz-talep dengesi gözetilerek yönlendirilmesi ve tarım havzalarının etkin kullanılması gibi çalışmalar bu genel müdürlüğün koordinasyonunda yürütülüyor.\n\nÇiftçinin kullandığı tohum ve üretim teknolojilerini yakından ilgilendiriyor\n\nBitkisel üretimde verimliliğin artırılması amacıyla kullanılan tohumlar, üretim teknikleri ve bazı tarımsal girdilere ilişkin standartların belirlenmesi de genel müdürlüğün görevleri arasında bulunuyor.\n\nBu kapsamda üretimde kaliteyi ve verimliliği artıracak uygulamaların yaygınlaştırılması hedefleniyor.\n\nTarım havzalarının planlanmasını yürütüyor\n\nBitkisel Üretim Genel Müdürlüğü, Türkiye'de uygulanan tarım havzaları modelinin işleyişini de koordine ediyor.\n\nHavza bazlı üretim modeliyle, iklim, toprak yapısı ve su kaynakları dikkate alınarak belirli ürünlerin uygun bölgelerde yetiştirilmesi amaçlanıyor. Bu sistem aynı zamanda tarımsal destekleme politikalarının şekillenmesinde de önemli rol oynuyor.\n\nÇayır ve meraların korunmasında da görev alıyor\n\nGenel müdürlüğün görev alanı yalnızca tarla bitkileriyle sınırlı değil.\n\nÇayır, mera, yaylak ve kışlakların korunması, ıslah edilmesi ve sürdürülebilir şekilde kullanılması için yürütülen çalışmalar da bu birimin sorumluluğunda bulunuyor.\n\nBu çalışmalar, özellikle hayvancılık yapan üreticiler açısından önem taşıyor.\n\nÇevreyi gözeten üretim modellerini geliştiriyor\n\nBitkisel Üretim Genel Müdürlüğü, insan sağlığını ve ekolojik dengeyi gözeten üretim modellerinin geliştirilmesi ve yaygınlaştırılması için de çalışmalar yürütüyor.\n\nAyrıca tarımsal faaliyetlerden kaynaklanabilecek çevresel etkilerin azaltılması amacıyla ilgili kurumlarla koordinasyon sağlıyor.\n\nÇiftçi bu genel müdürlüğü neden bilmeli?\n\nBitkisel Üretim Genel Müdürlüğünün aldığı veya hazırladığı birçok düzenleme, üreticinin tarladaki faaliyetlerini doğrudan etkiliyor.\n\nÖzellikle;\n\nüretim planlaması,\n\ntarım havzaları modeli,\n\nbitkisel üretim politikaları,\n\nsertifikalı tohum uygulamaları,\n\nverimliliği artırmaya yönelik projeler,\n\nsürdürülebilir üretim çalışmaları\n\nbu genel müdürlüğün görev alanında yer alıyor.\n\nBu nedenle ekim yapan her üretici, farkında olmasa da Bitkisel Üretim Genel Müdürlüğünün hazırladığı politika ve uygulamalardan doğrudan etkileniyor."
-    },
-    {
-      "title": "Lisanslı depoculuk desteği alan çiftçilere kritik uyarı! İtiraz süresi devam ediyor",
-      "url": "https://www.tarimdanhaber.com/lisansli-depoculuk-destegi-alan-ciftcilere-kritik-uyari-itiraz-suresi-devam-ediyor",
-      "source": "Tarımdan Haber",
-      "date": "2026-07-15",
-      "summary": "Kırklareli İl Tarım ve Orman Müdürlüğü, 2025 yılı Lisanslı Depoculuk Desteği 2. ödeme icmallerini askıya çıkardı. Üreticiler, destekleme listelerine ilişkin itirazlarını 17 Temmuz Cuma günü mesai bitimine kadar İl ve İlçe Tarım ve Orman Müdürlüklerine yapabilecek.",
-      "content": "Haber Merkezi / Kırklareli İl Tarım ve Orman Müdürlüğü tarafından yapılan duyuruya göre, 2025 yılı Lisanslı Depoculuk Desteği 2. Ödeme İcmalleri 8-12 Temmuz 2026 tarihleri arasında askıya çıkarıldı.\n\nAskı sürecinin tamamlanmasının ardından üreticiler için itiraz dönemi başladı.\n\nİtirazlar 17 Temmuz'a kadar yapılabilecek\n\nDestekleme icmallerinde ürün miktarı, hak ediş tutarı veya diğer bilgilerde hata olduğunu düşünen üreticiler, 13-17 Temmuz 2026 tarihleri arasında İl ve İlçe Tarım ve Orman Müdürlüklerine başvurarak itirazda bulunabilecek.\n\nYetkililer, üreticilerin hak kaybı yaşamamaları için askı icmallerini dikkatle incelemeleri gerektiğini belirtiyor.\n\nÇiftçiler hangi bilgileri kontrol etmeli?\n\nİtiraz süresi içerisinde üreticilerin özellikle şu bilgileri kontrol etmesi önem taşıyor:\n\nLisanslı depoya teslim edilen ürün miktarı,\n\nDestekleme kapsamındaki ürün bilgileri,\n\nHak ediş tutarı,\n\nKimlik ve işletme kayıtları,\n\nÖdeme hesaplamalarında hata bulunup bulunmadığı.\n\nHak kaybı yaşanmaması için son gün beklenmemeli\n\nDestekleme ödemelerinde yapılacak düzeltmeler açısından itiraz süreci büyük önem taşıyor. Üreticilerin olası eksiklik veya hatalara ilişkin başvurularını 17 Temmuz Cuma günü mesai bitimine kadar tamamlamaları gerekiyor.\n\nKırklareli İl Tarım ve Orman Müdürlüğü, itirazların ilgili İl ve İlçe Tarım ve Orman Müdürlüklerine yapılacağını bildirdi."
     },
     {
       "title": "Tarım Reformu GM, 12 ilde yapay zekâ destekli ürün izlemeyi değerlendirdi",
