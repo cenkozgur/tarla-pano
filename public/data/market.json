@@ -1,32 +1,32 @@
 {
-  "updatedAt": "2026-07-15T05:59:23.233Z",
+  "updatedAt": "2026-07-15T08:20:19.712Z",
   "fx": [
     {
       "code": "USD",
       "name": "Dolar",
-      "buy": 470166,
-      "sell": 470413,
-      "change": -1
+      "buy": 47.03,
+      "sell": 47.04,
+      "change": 0
     },
     {
       "code": "EUR",
       "name": "Euro",
-      "buy": 538295,
-      "sell": 538737,
-      "change": 26
+      "buy": 53.76,
+      "sell": 53.77,
+      "change": 0.09
     },
     {
       "code": "GRA",
       "name": "Gram Altın",
-      "buy": 609899,
-      "sell": 609987,
-      "change": -45
+      "buy": 6084.65,
+      "sell": 6085.56,
+      "change": -0.68
     },
     {
       "code": "CEYREKALTIN",
       "name": "Çeyrek Altın",
-      "buy": 984151,
-      "sell": 1007652,
+      "buy": 9841.51,
+      "sell": 10076.52,
       "change": 0
     },
     {
@@ -34,10 +34,34 @@
       "name": "Cumhuriyet Altını",
       "buy": 40825,
       "sell": 41446,
-      "change": 56
+      "change": 0.56
     }
   ],
   "news": [
+    {
+      "title": "ÇKS'ye kayıtlı arazi ve çiftçi bilgileri askıya çıktı! Üreticilere kayıt kontrolü uyarısı",
+      "url": "https://www.tarimdanhaber.com/cksye-kayitli-arazi-ve-ciftci-bilgileri-askiya-cikti-ureticilere-kayit-kontrolu-uyarisi",
+      "source": "Tarımdan Haber",
+      "date": "2026-07-15",
+      "summary": "İstanbul İl Tarım ve Orman Müdürlüğü, 2026 üretim yılı Çiftçi Kayıt Sistemi (ÇKS) kapsamında kayıtlı arazi ve çiftçi bilgilerini askıya çıkardı. Üreticiler, 15-30 Temmuz tarihleri arasında kayıtlarını inceleyerek varsa hataların düzeltilmesini talep edebilecek.",
+      "content": "Haber Merkezi / İstanbul İl Tarım ve Orman Müdürlüğü tarafından yapılan duyuruda, 2026 üretim yılı Çiftçi Kayıt Sistemi'ne (ÇKS) kayıtlı arazi ve çiftçi bilgileri 15 Temmuz itibarıyla askıya çıkarıldı.\n\nAskı listeleri 30 Temmuz 2026 tarihine kadar İl ve İlçe Tarım ve Orman Müdürlüklerinde, arazilerin bulunduğu mahalle ve köy muhtarlıklarında ile müdürlüğün internet sayfasında üreticilerin incelemesine açık olacak.\n\nÜreticiler hangi bilgileri kontrol etmeli?\n\nAskı süresi boyunca çiftçilerin özellikle şu bilgileri kontrol etmeleri gerekiyor:\n\nÇKS'ye kayıtlı arazi bilgileri,\n\nParsel bilgileri,\n\nHissedarlık kayıtları,\n\nÇiftçi kimlik bilgileri,\n\nİşlenen tarım alanlarının doğruluğu.\n\nHatalar itiraz yoluyla düzeltilebilecek\n\nAskı süresi içerisinde tespit edilen eksiklik veya yanlışlıklara ilişkin başvurular İl ve İlçe Tarım ve Orman Müdürlüklerine yapılabilecek. Süre içerisinde yapılacak itirazlar değerlendirilerek gerekli düzeltmeler gerçekleştirilecek.\n\nÇKS kayıtları neden önemli?\n\nÇiftçi Kayıt Sistemi, tarımsal desteklemelerin yanı sıra üretim planlaması, tarımsal envanter çalışmaları, tarım sigortaları ve birçok resmi işlem için esas alınan kayıt sistemi niteliği taşıyor.\n\nBu nedenle üreticilerin arazi, parsel ve hissedarlık bilgilerinin doğru olması, ileride yaşanabilecek idari sorunların önüne geçilmesi açısından önem taşıyor."
+    },
+    {
+      "title": "Tarım Bakanlığı'ndan yüzde 75 hibeli süt sağım makinesi desteği! Başvurular başladı",
+      "url": "https://www.tarimdanhaber.com/tarim-bakanligindan-yuzde-75-hibeli-sut-sagim-makinesi-destegi-basvurular-basladi",
+      "source": "Tarımdan Haber",
+      "date": "2026-07-15",
+      "summary": "Tarım ve Orman Bakanlığı Hayvancılık Genel Müdürlüğü (HAYGEM) tarafından yürütülen proje kapsamında üreticilere yüzde 75 hibe desteğiyle süt sağım makinesi verilecek. İlk etapta 100 yetiştiriciyi kapsayan proje için başvurular alınmaya başlandı.",
+      "content": "Haber Merkezi / Tarım ve Orman Bakanlığı Hayvancılık Genel Müdürlüğü (HAYGEM), süt üretiminde hijyen ve verimliliği artırmak amacıyla yeni bir hibe projesini hayata geçirdi.\n\n\"Modern Sağım, Güçlü Üretici: Büyükbaş Hayvancılıkta Süt Hijyeni Projesi\" kapsamında üreticilere yüzde 75 hibe desteğiyle çift sağım özellikli seyyar süt sağım makinesi dağıtılacak.\n\nİlk etapta proje kapsamında 100 adet süt sağım makinesi üreticilere teslim edilecek.\n\nAmaç süt kalitesini ve üretici gelirini artırmak\n\nProjeyle;\n\nSüt sağımının modernleştirilmesi,\n\nSüt hijyeninin artırılması,\n\nHayvan sağlığının korunması,\n\nİş gücü maliyetlerinin azaltılması,\n\nÜreticinin gelir seviyesinin yükseltilmesi\n\nhedefleniyor.\n\nKimler başvurabilecek?\n\nProjeye başvuracak üreticilerde şu şartlar aranıyor:\n\nTürkiye Cumhuriyeti vatandaşı olmak,\n\nZonguldak'ta ikamet etmek,\n\nS.S. Nebioğlu ve Çevre Köyleri Tarımsal Kalkınma Kooperatifi ortağı olmak.\n\nEn az 12 aydır S.S. Nebioğlu ve Çevre Köyleri Tarımsal Kalkınma Kooperatifi’ne süt veriyor olmak.\n\nDaha önce Bakanlık destekleri kapsamında süt sağım makinesi almamış olmak,\n\nAdli sicil kaydında yüz kızartıcı suçlardan kesinleşmiş mahkûmiyet bulunmamak.\n\nBaşvurular, Çaycuma İlçe Tarım ve Orman Müdürlüğü aracılığıyla kabul ediliyor.\n\nBaşvurular 22 Temmuz'a kadar sürecek\n\nBaşvurular 13-22 Temmuz 2026 tarihleri arasında yapılacak.\n\nBaşvuruların ardından oluşturulacak komisyon tarafından puanlama yapılacak ve en yüksek puanı alan 100 yetiştirici hibe desteğinden yararlanacak.\n\nAsil liste 3 Ağustos'ta ilan edilirken, kesin hak sahipleri 7 Ağustos'ta açıklanacak.\n\nMakineler Eylül ayında teslim edilecek\n\nProjeden yararlanmaya hak kazanan yetiştiricilere süt sağım makinelerinin Eylül ayında teslim edilmesi planlanıyor.\n\nDestek alan üreticiler ise teslim aldıkları makineleri iki yıl boyunca satmayacaklarına ilişkin taahhütname imzalayacak.\n\nDiğer illerde de benzer projeler uygulanabiliyor\n\nHAYGEM tarafından yürütülen bu tür projeler zaman zaman farklı illerde de uygulanabiliyor. Yetkililer, büyükbaş hayvancılık yapan üreticilerin İl ve İlçe Tarım ve Orman Müdürlükleri tarafından yayımlanan hibe ve proje duyurularını düzenli takip etmelerini öneriyor."
+    },
+    {
+      "title": "Çiftçinin tarlasını etkileyen kararlar burada alınıyor! Bitkisel Üretim Genel Müdürlüğü ne yapıyor?",
+      "url": "https://www.tarimdanhaber.com/ciftcinin-tarlasini-etkileyen-kararlar-burada-aliniyor-bitkisel-uretim-genel-mudurlugu-ne-yapiyor",
+      "source": "Tarımdan Haber",
+      "date": "2026-07-15",
+      "summary": "Çiftçinin ektiği üründen kullandığı tohuma, üretim planlamasından gübre ve bitki koruma uygulamalarına kadar birçok konuda kararların alındığı adreslerden biri Bitkisel Üretim Genel Müdürlüğü. Tarım ve Orman Bakanlığı bünyesinde faaliyet gösteren bu genel müdürlük, Türkiye'de bitkisel üretimin planl",
+      "content": "Haber Merkezi / Türkiye'de hububat, ayçiçeği, mısır, pamuk, sebze ve meyve başta olmak üzere bitkisel üretime ilişkin birçok politika, Tarım ve Orman Bakanlığı Bitkisel Üretim Genel Müdürlüğü tarafından hazırlanıyor. Üretim planlamasından tarım havzalarına, sertifikalı tohum kullanımından sürdürülebilir üretim modellerine kadar geniş bir görev alanına sahip olan genel müdürlük, milyonlarca üreticiyi yakından ilgilendiren çalışmalara imza atıyor.\n\nÜretim planlamasının merkezinde yer alıyor\n\nSon yıllarda uygulamaya alınan üretim planlaması modeli, Bitkisel Üretim Genel Müdürlüğünün en önemli çalışma alanlarından biri haline geldi.\n\nHangi ürünün hangi bölgede destekleneceği, üretimin arz-talep dengesi gözetilerek yönlendirilmesi ve tarım havzalarının etkin kullanılması gibi çalışmalar bu genel müdürlüğün koordinasyonunda yürütülüyor.\n\nÇiftçinin kullandığı tohum ve üretim teknolojilerini yakından ilgilendiriyor\n\nBitkisel üretimde verimliliğin artırılması amacıyla kullanılan tohumlar, üretim teknikleri ve bazı tarımsal girdilere ilişkin standartların belirlenmesi de genel müdürlüğün görevleri arasında bulunuyor.\n\nBu kapsamda üretimde kaliteyi ve verimliliği artıracak uygulamaların yaygınlaştırılması hedefleniyor.\n\nTarım havzalarının planlanmasını yürütüyor\n\nBitkisel Üretim Genel Müdürlüğü, Türkiye'de uygulanan tarım havzaları modelinin işleyişini de koordine ediyor.\n\nHavza bazlı üretim modeliyle, iklim, toprak yapısı ve su kaynakları dikkate alınarak belirli ürünlerin uygun bölgelerde yetiştirilmesi amaçlanıyor. Bu sistem aynı zamanda tarımsal destekleme politikalarının şekillenmesinde de önemli rol oynuyor.\n\nÇayır ve meraların korunmasında da görev alıyor\n\nGenel müdürlüğün görev alanı yalnızca tarla bitkileriyle sınırlı değil.\n\nÇayır, mera, yaylak ve kışlakların korunması, ıslah edilmesi ve sürdürülebilir şekilde kullanılması için yürütülen çalışmalar da bu birimin sorumluluğunda bulunuyor.\n\nBu çalışmalar, özellikle hayvancılık yapan üreticiler açısından önem taşıyor.\n\nÇevreyi gözeten üretim modellerini geliştiriyor\n\nBitkisel Üretim Genel Müdürlüğü, insan sağlığını ve ekolojik dengeyi gözeten üretim modellerinin geliştirilmesi ve yaygınlaştırılması için de çalışmalar yürütüyor.\n\nAyrıca tarımsal faaliyetlerden kaynaklanabilecek çevresel etkilerin azaltılması amacıyla ilgili kurumlarla koordinasyon sağlıyor.\n\nÇiftçi bu genel müdürlüğü neden bilmeli?\n\nBitkisel Üretim Genel Müdürlüğünün aldığı veya hazırladığı birçok düzenleme, üreticinin tarladaki faaliyetlerini doğrudan etkiliyor.\n\nÖzellikle;\n\nüretim planlaması,\n\ntarım havzaları modeli,\n\nbitkisel üretim politikaları,\n\nsertifikalı tohum uygulamaları,\n\nverimliliği artırmaya yönelik projeler,\n\nsürdürülebilir üretim çalışmaları\n\nbu genel müdürlüğün görev alanında yer alıyor.\n\nBu nedenle ekim yapan her üretici, farkında olmasa da Bitkisel Üretim Genel Müdürlüğünün hazırladığı politika ve uygulamalardan doğrudan etkileniyor."
+    },
     {
       "title": "Lisanslı depoculuk desteği alan çiftçilere kritik uyarı! İtiraz süresi devam ediyor",
       "url": "https://www.tarimdanhaber.com/lisansli-depoculuk-destegi-alan-ciftcilere-kritik-uyari-itiraz-suresi-devam-ediyor",
@@ -109,30 +133,6 @@
       "date": "2026-07-14",
       "summary": "Türkiye İstatistik Kurumu (TÜİK), Mayıs 2026 dönemine ilişkin Süt ve Süt Ürünleri Üretim İstatistikleri'ni yayımladı. Ticari süt işletmelerince toplanan inek sütü miktarı geçen yılın aynı ayına göre %2,3 artarak 1 milyon 22 bin 587 tona ulaştı. Aynı dönemde içme sütü üretimi %19,7 artarken, tereyağı",
       "content": "ANKARA — Türkiye İstatistik Kurumu (TÜİK), Mayıs 2026 dönemine ilişkin Süt ve Süt Ürünleri Üretim İstatistikleri'ni yayımladı. Buna göre ticari süt işletmelerince 1 milyon 22 bin 587 ton inek sütü toplandı\n\nTicari süt işletmeleri tarafından toplanan inek sütü miktarı, Mayıs ayında bir önceki yılın aynı ayına göre %2,3 arttı, Ocak-Mayıs döneminde ise bir önceki yılın aynı dönemine göre %0,5 arttı.\n\nMayıs ayında bir önceki yılın aynı ayına göre, inek peyniri üretimi %2,4 arttı, ayran ve kefir üretimi %2,0 arttı, yoğurt üretimi %1,2 azaldı, içme sütü üretimi %19,7 arttı, tereyağı ve sadeyağ üretimi %12,0 azaldı. Ocak-Mayıs döneminde ise bir önceki yılın aynı dönemine göre, inek peyniri üretimi %2,8 arttı, ayran ve kefir üretimi %8,9 arttı, yoğurt üretimi %8,4 arttı, içme sütü üretimi %9,2 arttı, tereyağı ve sadeyağ üretimi %5,0 azaldı.\n\nToplanan inek sütü ve üretilen süt ürünleri miktarı, Mayıs 2026 (Ton)\n\nMayıs\n\nOcak-Mayıs\n\n2025\n\n2026\n\nDeğişim\n\n(%)\n\n2025\n\n2026\n\nDeğişim\n\n(%)\n\nToplanan inek sütü\n\n999 267\n\n1 022 587\n\n2,3\n\n4 834 553\n\n4 858 029\n\n0,5\n\nİçme sütü\n\n131 495\n\n157 453\n\n19,7\n\n707 087\n\n771 820\n\n9,2\n\nYoğurt\n\n121 651\n\n120 224\n\n-1,2\n\n545 438\n\n591 052\n\n8,4\n\nAyran ve kefir\n\n93 544\n\n95 439\n\n2,0\n\n398 348\n\n433 952\n\n8,9\n\nİnek peyniri\n\n70 480\n\n72 146\n\n2,4\n\n348 127\n\n357 882\n\n2,8\n\nTereyağı ve sadeyağ\n\n10 985\n\n9 671\n\n-12,0\n\n49 448\n\n46 995\n\n-5,0\n\nTablodaki oranlar yuvarlanmış rakamlar üzerinden hesaplanmıştır.\n\nBir önceki ay 994 bin 312 ton olan ticari süt işletmelerince toplanan inek sütü miktarı Mayıs ayında %2,8 oranında artarak 1 milyon 22 bin 587 ton oldu.\n\nToplanan inek sütü miktarı, Mayıs 2026 (Bin ton)\n\nBir önceki ay 154 bin 447 ton olan içme sütü üretimi Mayıs ayında %1,9 oranında artarak 157 bin 453 ton olarak gerçekleşti.\n\nİçme sütü üretim miktarı, Mayıs 2026 (Bin ton)"
-    },
-    {
-      "title": "TÜİK: Mayısta tavuk eti üretimi %16,3 geriledi",
-      "url": "https://www.tarimpusulasi.com/haber/tuik-mayista-tavuk-eti-uretimi-163-geriledi-47056",
-      "source": "Tarım Pusulası",
-      "date": "2026-07-14",
-      "summary": "Türkiye İstatistik Kurumu (TÜİK), Mayıs 2026 Kümes Hayvancılığı Üretim İstatistikleri'ni yayımladı. Verilere göre tavuk eti üretimi geçen yılın aynı ayına göre %16,3 azalarak 202 bin 336 tona gerilerken, tavuk yumurtası üretimi %21,6 artışla 1 milyar 857 milyon 150 bin adede ulaştı.",
-      "content": "ANKARA — Türkiye İstatistik Kurumu (TÜİK), Mayıs 2026 dönemine ilişkin Kümes Hayvancılığı Üretim İstatistikleri'ni yayımladı. Verilere göre tavuk eti üretimi 202 bin 336 ton, tavuk yumurtası üretimi 1,86 milyar adet olarak gerçekleşti.\n\nMayıs ayında bir önceki yılın aynı ayına göre, tavuk yumurtası üretimi %21,6 arttı, kesilen tavuk sayısı %16,8 azaldı, tavuk eti üretimi %16,3 azaldı. Ocak-Mayıs döneminde bir önceki yılın aynı dönemine göre, tavuk yumurtası üretimi %18,1 arttı, kesilen tavuk sayısı %1,1 azaldı, tavuk eti üretimi %2,2 azaldı.\n\nKümes hayvancılığı üretim miktarı, Mayıs 2026\n\nMayıs\n\nOcak-Mayıs\n\n2025\n\n2026\n\nDeğişim (%)\n\n2025\n\n2026\n\nDeğişim (%)\n\nTavuk eti (Ton)\n\n241 782\n\n202 336\n\n-16,3\n\n1 162 428\n\n1 137 296\n\n-2,2\n\nKesilen tavuk (Bin adet)\n\n129 851\n\n108 065\n\n-16,8\n\n618 797\n\n612 262\n\n-1,1\n\nTavuk yumurtası (Bin adet)\n\n1 527 425\n\n1 857 150\n\n21,6\n\n7 912 021\n\n9 345 629\n\n18,1\n\nTablodaki oranlar yuvarlanmış rakamlar üzerinden hesaplanmıştır.\n\nBir önceki ay 236 bin 310 ton olan tavuk eti üretimi Mayıs ayında %14,4 oranında azalarak 202 bin 336 ton oldu.\n\nTavuk eti üretim miktarı, Mayıs 2026 (Bin ton)\n\nBir önceki ay 1 milyar 844 milyon 973 bin adet olan tavuk yumurtası üretimi Mayıs ayında %0,7 oranında artarak 1 milyar 857 milyon 150 bin adet oldu.\n\nTavuk yumurtası üretim miktarı, Mayıs 2026 (Milyar adet)"
-    },
-    {
-      "title": "Razi Petrokimya kara geçti, Genel Müdür Uğur Özyiğit Gübretaş yönetimine transfer edildi",
-      "url": "https://www.tarimdanhaber.com/razi-petrokimya-kara-gecti-genel-mudur-ugur-ozyigit-gubretas-yonetimine-transfer-edildi",
-      "source": "Tarımdan Haber",
-      "date": "2026-07-14",
-      "summary": "Gübretaş'ın İran'daki iştiraki Razi Petrokimya, 2026 yılının ilk çeyreğinde yaklaşık 1,2 milyar lira dönem karı açıkladı. Bu finansal sonucun ardından Razi Petrokimya Genel Müdürü Uğur Özyiğit, Gübretaş Yönetim Kurulu üyeliğine ve Yönetim Kurulu Başkan Vekilliği görevine getirildi. Başkan vekilliğin",
-      "content": "Haber Merkezi / Gübre Fabrikaları T.A.Ş. (Gübretaş) yönetim kurulunda dikkat çeken bir görev değişikliği yaşandı. Şirketin Kamuyu Aydınlatma Platformu'na (KAP) yaptığı açıklamaya göre, Gübretaş'ın İran'daki iştiraki Razi Petrokimya'nın Genel Müdürü Uğur Özyiğit, yönetim kurulu üyeliğine seçildi. Özyiğit ayrıca yönetim kurulu başkan vekili olarak görevlendirildi.\n\nŞirkette yönetim kurulu başkan vekilliği görevini yürüten Temel Tayyar Yeşil ise yönetim kurulu üyeliğinden ayrıldı.\n\nDikkat çeken görevlendirme\n\nUğur Özyiğit'in kariyer geçmişi ve Razi Petrokimya'daki görev süreci, yapılan atamayı tartışmaya açtı.\n\nBankacılık sektöründen gelen Özyiğit'in, Ziraat Bankası'nda şube müdürlüğü yaptıktan sonra Gübretaş'ın İran'daki en büyük yatırımlarından biri olan Razi Petrokimya'nın genel müdürlüğüne atanması kamuoyunda da dikkat çekmişti.\n\nÖzyiğit'in göreve başlamasıyla birlikte uzun bir dönemdir zarar açıklayan Razi Petrokimya 2026 yılı ilk çeyrek finansal tablolarında 1 milyar 204 milyon lira kar açıkladı. Şirket aynı dönemde 3,56 milyar TL satış gerçekleştirirken, 969 milyon TL brüt kar ve 1,15 milyar TL esas faaliyet karı açıkladı.\n\nDiğer yandan uzun bir süredir satışı gündemde olan ancak 28 Kasım 2025'de KAP'a yapılan açıklama ile satış süreci durdurulan Razi Petrokimya'nın 2026'nın ilk çeyrek finansal tablolarda 1 milyar 204 milyon lira kar açıklaması dikkat çekti. Aynı dönemde Gübretaş, sadece 126 milyon lira kar açıkladı."
-    },
-    {
-      "title": "Tarım Bakanlığının görünmeyen gücü! Avrupa Birliği ve Dış İlişkiler Genel Müdürlüğü çiftçiyi neden ilgilendiriyor?",
-      "url": "https://www.tarimdanhaber.com/tarim-bakanliginin-gorunmeyen-gucu-avrupa-birligi-ve-dis-iliskiler-genel-mudurlugu-ciftciyi-neden-ilgilendiriyor",
-      "source": "Tarımdan Haber",
-      "date": "2026-07-14",
-      "summary": "Tarım ve Orman Bakanlığı bünyesinde faaliyet gösteren Avrupa Birliği ve Dış İlişkiler Genel Müdürlüğü, yalnızca yurt dışı ilişkilerini yürüten bir birim değil. Avrupa Birliği ile yürütülen tarım müzakerelerinden uluslararası hibe programlarına, gıda güvenliği standartlarından ihracatı ilgilendiren t",
-      "content": "Haber Merkezi / Tarım sektöründe zaman zaman Avrupa Birliği uyum süreci, IPARD destekleri, ihracat kriterleri veya uluslararası tarım projeleri gündeme geliyor. Ancak bu süreçlerin arkasında hangi kurumun bulunduğu pek bilinmiyor. Tarım ve Orman Bakanlığı Avrupa Birliği ve Dış İlişkiler Genel Müdürlüğü, Türkiye'nin uluslararası tarım politikalarının koordinasyonunu sağlayan en önemli birimlerden biri olarak görev yapıyor.\n\nAvrupa Birliği ile tarım müzakerelerini yürütüyor\n\nGenel müdürlüğün en önemli görevlerinden biri, Tarım ve Orman Bakanlığının görev alanına giren konularda Avrupa Birliği ile yürütülen müzakere sürecini koordine etmek.\n\nBu kapsamda Avrupa Birliği'nin tarım, gıda, hayvancılık ve kırsal kalkınma alanındaki düzenlemeleri takip edilirken, Türkiye'nin uyum sürecine ilişkin çalışmalar da ilgili bakanlık birimleriyle birlikte yürütülüyor.\n\nAyrıca Avrupa Birliği-Türkiye ortaklık organlarında alınan kararların uygulanmasına yönelik koordinasyon da bu genel müdürlük tarafından sağlanıyor.\n\nAvrupa Birliği standartları üreticiyi doğrudan etkiliyor\n\nBugün üreticilerin karşılaştığı birçok teknik düzenleme, yalnızca iç mevzuattan değil, Avrupa Birliği ile yürütülen uyum çalışmalarından da etkileniyor.\n\nGıda güvenliği, bitki sağlığı, hayvan sağlığı, pestisit kalıntıları, izlenebilirlik, organik tarım ve sürdürülebilir üretim gibi alanlarda yapılan düzenlemeler, Türk tarımının uluslararası standartlara uyumunu amaçlıyor.\n\nBu nedenle Avrupa Birliği ve Dış İlişkiler Genel Müdürlüğünün yürüttüğü çalışmalar, çiftçinin üretim biçiminden ihracat yapabilme kapasitesine kadar geniş bir alanı dolaylı olarak etkiliyor.\n\nUluslararası projeler ve hibeler bu birimin koordinasyonunda yürütülüyor\n\nGenel müdürlük, Avrupa Birliği, yabancı ülkeler ve uluslararası kuruluşlarla yürütülen proje ve programların hazırlanması, koordinasyonu ve takibinden de sorumlu.\n\nTarımın modernizasyonu, kırsal kalkınma, iklim değişikliğiyle mücadele, dijital tarım uygulamaları ve sürdürülebilir üretim gibi birçok alanda yürütülen uluslararası projelerde bu birim koordinasyon görevi üstleniyor.\n\nBu projeler kapsamında üreticilere yönelik eğitim programları, teknik destekler ve çeşitli hibe mekanizmaları da geliştirilebiliyor.\n\nUluslararası iş birliklerinin koordinasyonunu sağlıyor\n\nAvrupa Birliği ve Dış İlişkiler Genel Müdürlüğü yalnızca Avrupa Birliği ile değil, yabancı ülkeler ve uluslararası kuruluşlarla yürütülen ilişkileri de koordine ediyor.\n\nİkili ve çok taraflı bilimsel, teknik ve sektörel iş birliği anlaşmalarının hazırlanmasına katkı sağlayan genel müdürlük, uluslararası kongre, konferans ve teknik toplantıların organizasyonunda da görev alıyor.\n\nBu çalışmalar sayesinde Türkiye'nin tarım alanındaki uluslararası iş birliklerinin geliştirilmesi hedefleniyor.\n\nTürk üreticisinin rekabet gücünü artırmayı hedefliyor\n\nGenel müdürlüğün vizyonunda yalnızca uluslararası ilişkiler değil, Türk tarımının rekabet gücünün artırılması da önemli bir yer tutuyor.\n\nBirim, Türkiye'de tüketicilerin güvenilir gıdaya erişimine katkı sağlamayı, Türk üreticisinin değişen dünya pazarlarının taleplerine uyum sağlayabilecek rekabetçi bir yapıya kavuşmasını desteklemeyi ve uluslararası iş birliklerini geliştirmeyi amaçlıyor.\n\nBu yönüyle Avrupa Birliği ve Dış İlişkiler Genel Müdürlüğü, sadece kamu kurumları arasında koordinasyon sağlayan bir yapı değil, aynı zamanda Türk tarımının uluslararası pazarlara entegrasyonunda önemli rol üstlenen stratejik bir birim olarak öne çıkıyor.\n\nÇiftçi bu genel müdürlüğü neden bilmeli?\n\nHer üretici bu genel müdürlükle doğrudan temas kurmasa da, tarım sektörünü ilgilendiren birçok önemli gelişmenin hazırlık aşamasında bu birim yer alıyor.\n\nÖzellikle;\n\nAvrupa Birliği ile yürütülen tarım müzakereleri,\n\nTarım ve gıda mevzuatına ilişkin uyum çalışmaları,\n\nUluslararası hibe ve proje programları,\n\nTarım alanındaki teknik iş birliği anlaşmaları,\n\nUluslararası tarım organizasyonları,\n\nAvrupa Birliği ve Dış İlişkiler Genel Müdürlüğünün koordinasyonunda yürütülüyor.\n\nBu nedenle üretici açısından bakıldığında, bu genel müdürlüğün çalışmaları yalnızca dış ilişkilerle sınırlı değil; üretim standartlarından ihracat imkanlarına, uluslararası fonlardan tarım politikalarının şekillenmesine kadar birçok alanda dolaylı etki oluşturuyor.\n\nBilgi kutusu\n\nAvrupa Birliği ve Dış İlişkiler Genel Müdürlüğünün temel görevleri\n\nAvrupa Birliği ile tarım müzakerelerini yürütmek ve koordine etmek.\n\nAB mevzuatına uyum çalışmalarını takip etmek.\n\nBakanlık birimleri arasında koordinasyonu sağlamak.\n\nUluslararası tarım proje ve programlarını hazırlamak ve yürütmek.\n\nYabancı ülkeler ve uluslararası kuruluşlarla ilişkileri koordine etmek.\n\nTarım alanındaki uluslararası toplantı ve organizasyonları düzenlemek."
     }
   ],
   "commoditiesByBorsa": {
