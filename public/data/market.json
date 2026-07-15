@@ -1,43 +1,67 @@
 {
-  "updatedAt": "2026-07-15T12:01:04.343Z",
+  "updatedAt": "2026-07-15T13:55:39.673Z",
   "fx": [
     {
       "code": "USD",
       "name": "Dolar",
-      "buy": 47.03,
+      "buy": 47.02,
       "sell": 47.04,
-      "change": 0
+      "change": -0.01
     },
     {
       "code": "EUR",
       "name": "Euro",
-      "buy": 53.76,
-      "sell": 53.77,
-      "change": 0.09
+      "buy": 53.79,
+      "sell": 53.79,
+      "change": 0.15
     },
     {
       "code": "GRA",
       "name": "Gram Altın",
-      "buy": 6084.65,
-      "sell": 6085.56,
-      "change": -0.68
+      "buy": 6133.43,
+      "sell": 6134.38,
+      "change": 0.12
     },
     {
       "code": "CEYREKALTIN",
       "name": "Çeyrek Altın",
-      "buy": 9841.51,
-      "sell": 10076.52,
-      "change": 0
+      "buy": 9831,
+      "sell": 10058.05,
+      "change": -0.18
     },
     {
       "code": "CUMHURIYETALTINI",
       "name": "Cumhuriyet Altını",
-      "buy": 40825,
-      "sell": 41446,
-      "change": 0.56
+      "buy": 40803,
+      "sell": 41420,
+      "change": -0.06
     }
   ],
   "news": [
+    {
+      "title": "Planlı üretim vardı, soğanda ithalat neden geldi? Bakanlığın hedefiyle uygulama çelişti!",
+      "url": "https://www.tarimdanhaber.com/planli-uretim-vardi-soganda-ithalat-neden-geldi-bakanligin-hedefiyle-uygulama-celisti",
+      "source": "Tarımdan Haber",
+      "date": "2026-07-15",
+      "summary": "Tarım ve Orman Bakanlığı, planlı üretim modelini \"arz açığı ve arz fazlasını önlemek, üretimi planlamak\" amacıyla 1 Eylül 2024'te uygulamaya aldı. Planlama kapsamındaki ürünlerden biri de kuru soğandı. Ancak iki yıl geçmeden soğanda fiyat artışı gerekçe gösterilerek ithalat vergisi düşürüldü. Bu gel",
+      "content": "Haber Merkezi / Tarım ve Orman Bakanlığı, bitkisel üretimde yıllardır yaşanan \"bir yıl para eden ürünün ertesi yıl aşırı ekilmesi, sonraki yıl ise üretimin düşmesi\" döngüsünü sona erdirmek amacıyla planlı üretim sistemini devreye aldı.\n\nBitkisel Üretim Planlaması, 1 Eylül 2024 tarihinde uygulanmaya başlarken, sistem kapsamında ülke genelinde planlanacak ürünler arasına kuru soğan ve patates de dahil edildi.\n\nBakanlık ayrıca planlama kapsamındaki ürünler için üretim havzalarını belirledi, üretim izinlerini bu havzalara bağladı ve planlı üretim desteği vermeye başladı. Kuru soğan ve patates için 2026 yılında dekar başına 620 lira destek öngörüldü.\n\nPlanlı üretimin temel amacı neydi?\n\nBakanlığın yayımladığı Tarımsal Üretim Planlaması dokümanında planlı üretimin amacı açık şekilde ortaya konuluyor.\n\nBuna göre;\n\nürünlerin hangi havzalarda üretileceği belirlenecek,\n\nülke bazında asgari ve azami üretim miktarları planlanacak,\n\narz açığı ve arz fazlası önlenecek,\n\nfiyat dalgalanmalarının azaltılması hedeflenecekti.\n\nPeki bugün ne oldu?\n\nAradan yaklaşık iki yıl geçmeden bu kez soğanda fiyat artışı gerekçesiyle ithalat vergisi düşürüldü.\n\nÜstelik sektör temsilcileri, Türkiye'de üretimin ülke ihtiyacını karşılayabilecek seviyede olduğunu, ithalatın market fiyatlarından çok tarladaki üretici fiyatını aşağı çekeceğini savunuyor.\n\nBu tablo ister istemez şu soruları gündeme getirdi:\n\nPlanlı üretim sistemi üretimdeki olası düşüşü önceden öngöremedi mi?\n\nEğer arz açığı oluştuysa, planlama mekanizması neden devreye girmedi?\n\nEğer arz açığı yoksa, ithalat kararı hangi veriye dayanılarak alındı?\n\nÇiftçi de aynı soruyu soruyor\n\nSahada üreticilerin ortak tepkisi ise dikkat çekiyor.\n\nGeçen yıl zarar ettiklerini, ihracatta kolaylık sağlanmadığını belirten üreticiler, bu yıl ilk kez para kazanabilecekleri bir dönemde ithalat kapılarının açıldığını ifade ediyor.\n\nÜreticilere göre ithalatın market fiyatlarına sınırlı etkisi olacak ancak tarladaki alım fiyatını aşağı çekecek.\n\nTartışmanın odağı değişti\n\nAsıl tartışma artık yalnızca ithalat kararı değil.\n\nYaklaşık iki yıldır uygulanan planlı üretim modeli, tam da fiyat dalgalanmalarını ve arz sorunlarını önlemek amacıyla hayata geçirilmişti.\n\nBugün soğanda yeniden ithalat kararının gündeme gelmesi ise sistemin uygulamadaki etkinliğinin sektör tarafından yeniden sorgulanmasına neden oldu."
+    },
+    {
+      "title": "Çiftçinin isyanı: Bir kez para kazanacağız dedik, ithalat kapıları açıldı!",
+      "url": "https://www.tarimdanhaber.com/ciftcinin-isyani-bir-kez-para-kazanacagiz-dedik-ithalat-kapilari-acildi",
+      "source": "Tarımdan Haber",
+      "date": "2026-07-15",
+      "summary": "Soğan üreticileri, ithalat vergisinin düşürülmesine tepki gösterdi. Geçen yıl hem üreticinin hem tüccarın zarar ettiğini belirten çiftçiler, \"Zarar ederken yanımızda kimse yoktu. Bu yıl ilk kez para kazanacağız derken ithalat kapıları açıldı. Bu karar market fiyatını değil, tarladaki üretici fiyatın",
+      "content": "Haber Merkezi / Soğanda ithalat vergisinin düşürülmesi üreticilerin tepkisini çekti. Sahada konuşulan en büyük eleştiri, geçen yıl büyük zarar eden üreticinin yalnız bırakıldığı, bu yıl ise fiyatların yükselmesiyle birlikte ithalatın devreye sokulduğu yönünde.\n\nÜreticiler, geçen yıl hem soğan üreticisinin hem de tüccarın ciddi zarar ettiğini hatırlatarak, o dönemde ihracat konusunda da herhangi bir kolaylık sağlanmadığını dile getiriyor.\n\n\"Geçen yıl zarar ederken Bakanlık yanımızda değildi. Şimdi ilk kez para kazanacağımız bir sezon oluştu, hemen ithalat kapıları açıldı.\" diyen üreticiler, alınan kararın en fazla tarladaki fiyatları baskılayacağını savunuyor.\n\n\"1 kilo soğan iki ekmek parası etmesin mi?\"\n\nÜreticiler, bugün tarlada soğanın kilogramının 30-35 lira seviyesinde satıldığını belirterek bu fiyatın abartıldığı kadar yüksek olmadığını ifade ediyor.\n\n\"Bir kilo soğan iki ekmek parası etmesin mi?\" diye soran üreticiler, yıllardır zarar ettiklerini, bir sezon para kazanacakları dönemde ise ithalat kararıyla karşı karşıya kaldıklarını dile getiriyor.\n\n\"Market fiyatı düşmeyecek\"\n\nÇiftçilere göre ithalatın tüketiciye önemli bir katkısı olmayacak.\n\nÜreticiler, \"İthalat yapınca marketteki fiyatlar ciddi şekilde düşmeyecek. Asıl düşecek olan tarladaki üretici fiyatı olacak. Kazanan yine aracılar olacak.\" değerlendirmesinde bulunuyor.\n\n\"Türkiye'de arz sorunu yok\"\n\nÜreticiler, bu yıl bazı bölgelerde ekim alanında bir azalma olsa da Türkiye'nin soğan ihtiyacını karşılayacak üretim potansiyeline sahip olduğunu belirtiyor.\n\nGeçen yıl ekim alanlarının genişlediğini, bu yıl ise belirli ölçüde daralma yaşandığını ifade eden üreticiler, mevcut üretimin ülkenin ihtiyacını karşılayabilecek seviyede olduğunu savunuyor.\n\nÜreticilerin ortak mesajı ise dikkat çekti: \"Kendine yeterli üretime sahip bir ülkede, bırakın bu yıl da çiftçi bir kez olsun kazansın.\""
+    },
+    {
+      "title": "Türkiye ithalata yöneldi, İspanyol çiftçi 200 ton soğanı bedava dağıttı!",
+      "url": "https://www.tarimdanhaber.com/turkiye-ithalata-yoneldi-ispanyol-ciftci-200-ton-sogani-bedava-dagitti",
+      "source": "Tarımdan Haber",
+      "date": "2026-07-15",
+      "summary": "Türkiye'de soğan fiyatlarındaki yükseliş nedeniyle ithalat vergisi düşürülerek dış alımın önü açılırken, İspanya'nın Sevilla kentinde bir çiftçi ürününü kilogramı 13 euro sente satamadığı için 200 tondan fazla soğanı ücretsiz dağıtmaya başladı. Üretici, hasat maliyetini bile karşılayamayınca tarlası",
+      "content": "Haber Merkezi / Türkiye'de soğan fiyatlarının yükselmesi üzerine hükümet ithalat vergisini düşürerek dış alımı kolaylaştırırken, Avrupa'dan gelen bir haber tarım piyasalarındaki çarpıcı fiyat farkını gözler önüne serdi.\n\nİspanya'nın Sevilla kentindeki Lebrija bölgesinde üretim yapan çiftçi Juan Manuel Romero, yetiştirdiği 200 tondan fazla soğanı satacak karlı bir pazar bulamayınca ürünlerini ücretsiz dağıtmaya başladı.\n\nKilogramı 13 euro sente alıcı bulamadı\n\n3,25 hektarlık alanda soğan üretimi yapan Romero, hasat döneminde ürününe teklif edilen fiyatın kilogram başına sadece 13 euro sent olduğunu belirtti.\n\nBu fiyatın hasat, işçilik ve nakliye maliyetlerini dahi karşılamadığını ifade eden çiftçi, ürünleri toprağa gömmek yerine sosyal medya üzerinden çağrı yaparak vatandaşları tarlasına davet etti.\n\nBölgede yaşayan vatandaşlar günlerdir tarlaya giderek istedikleri kadar soğanı ücretsiz alabiliyor.\n\n\"Hasat masrafını bile karşılamıyor\"\n\nRomero, yalnızca bir hektarlık alanın hasadı için yaklaşık 25 işçinin birkaç gün çalışması gerektiğini belirterek, kilogramı 13 euro sentten satış yapmanın ekonomik olarak mümkün olmadığını söyledi.\n\nVatandaşlardan tek isteğinin ise tarlayı temiz bırakmaları ve plastik gibi atıkları araziye bırakmamaları olduğunu ifade etti.\n\nMarkette 60 sent, üreticide 13 sent\n\nCOAG Andalucía İşlenmiş Ürünler Bölümü Başkanı Diego Bellido da bu yıl yaşanan olumsuz hava koşullarının üreticileri zor durumda bıraktığını söyledi.\n\nBellido, marketlerde soğanın kilogramının yaklaşık 60 euro sente satıldığını, buna karşın üreticinin sadece 13 euro sent alabildiğini belirterek, aradaki fiyat farkının çiftçiye hiçbir şekilde yansımadığını ifade etti.\n\n\"Sonuçta kaybeden hem maliyetinin altında satış yapmak zorunda kalan üretici hem de yüksek fiyat ödeyen tüketici oluyor.\" diyen Bellido, tarımsal pazarlama zincirindeki dengesizliğe dikkat çekti.\n\nTürkiye'de ithalat kararı\n\nTürkiye'de ise son dönemde soğan fiyatlarında yaşanan yükseliş gerekçe gösterilerek ithalat vergisi düşürüldü ve dış alımın önü açıldı. İspanya'da üreticinin ürününü maliyetinin altında satamayıp ücretsiz dağıtmak zorunda kalması, tarım piyasalarında üretici fiyatı ile tüketici fiyatı arasındaki makasın yalnızca Türkiye'de değil Avrupa'da da önemli bir sorun olmaya devam ettiğini ortaya koydu."
+    },
     {
       "title": "Fire bitti, kesim ücreti başladı! Üretici beklediğini bulamadı",
       "url": "https://www.tarimdanhaber.com/fire-bitti-kesim-ucreti-basladi-uretici-bekledigini-bulamadi",
@@ -95,14 +119,6 @@
       "content": "AYDIN / SÖKE — Söke Ziraat Odası Başkanı Mustafa Tanyeri, Söke Ovası'nda tarımsal üretimin artan maliyetler, krediye erişim güçlüğü, ithalat politikaları ve bölgesel sorunlar nedeniyle önemli baskı altında olduğunu belirtti. Pamuk üretim alanlarında yaşanan daralma, buğday üreticisinin satış sürecinde karşılaştığı sorunlar ve kiracı üreticilerin maliyet yükü, bölgedeki tarımsal üretimin temel gündem başlıkları arasında yer aldı.\n\nToprağın Hekimleri programında tarım gazetecisi Harun Göksel'in sorularını yanıtlayan Tanyeri, Söke Ovası'nın ülkemizin önemli üretim merkezlerinden biri olmasına rağmen üreticinin son yıllarda ciddi ekonomik zorluklarla karşı karşıya kaldığını söyledi.\n\nPamuk ekim alanlarında önemli düşüş\n\nTanyeri'nin paylaştığı verilere göre Söke'de pamuk ekim alanları yaklaşık 325 bin dekardan 130 bin dekara geriledi. Bu durum yaklaşık 195 bin dekarlık ve yaklaşık yüzde 60 seviyesinde bir alan kaybına işaret ediyor.\n\nPamuk fiyatlarının son yıllarda kilogram başına 21-22 lira bandında kaldığını belirten Tanyeri, buna karşın üretim girdilerindeki artışın üreticinin kârlılığını olumsuz etkilediğini ifade etti. Yağlı tohum desteğinin kaldırılmasının da üretici üzerinde ilave baskı oluşturduğunu dile getirdi.\n\nKrediye erişim sorunu üreticiyi zorluyor\n\nMustafa Tanyeri, üreticilerin hasat sonunda borçlarını kapatmakta zorlandığını belirterek, Ziraat Bankası ve Tarım Kredi Kooperatiflerinin kredi limitlerinin yetersiz kalması nedeniyle bazı üreticilerin özel bankalara yönelmek durumunda kaldığını söyledi.\n\nTanyeri, tarımsal kredilerin uzun vadeli ve düşük faizli şekilde yeniden yapılandırılması ile geri ödeme planlarının hasat dönemine göre düzenlenmesinin üretici açısından önem taşıdığını ifade etti.\n\nBuğday üreticisinde maliyet-satış farkı\n\nTanyeri'nin verdiği bilgiye göre buğdayın kilogram maliyeti yaklaşık 16,50 lira olurken, küçük üreticilerin önemli bir bölümü ürününü 13,50 liradan satmak zorunda kaldı.\n\nBu durumda kilogram başına yaklaşık 3 lira, ton başına ise yaklaşık 3 bin lira gelir kaybı oluştuğunu ifade eden Tanyeri, bu farkın özellikle depolama imkânı bulunmayan küçük üreticileri etkilediğini söyledi.\n\nTMO'nun randevu yoğunluğu ve depolama kapasitesinin artırılmasının üretici açısından önemli olacağını dile getirdi.\n\nKiracı üreticilerin maliyet yükü arttı\n\nSöke Ovası'nda işlenen tarım arazilerinin yüzde 60'tan fazlasının kiralık olduğunu belirten Tanyeri, kira giderlerinin yanı sıra denize yakın alanlarda görülen tuzluluk nedeniyle yapılan yıkama sulamalarının su ve enerji maliyetlerini artırdığını ifade etti.\n\nBu nedenle kiracı üreticilere yönelik özel destek mekanizmalarının geliştirilmesini ve tuzlulukla mücadelede sulama ile enerji giderlerine ilave teşvik verilmesini önerdi.\n\nAyçiçeğinde ithalat zamanlaması uyarısı\n\nSöke'de 200 bin dekarın üzerinde ikinci ürün ayçiçeği ekimi bulunduğunu belirten Tanyeri, hasat dönemine yakın alınan ithalat kararlarının iç piyasa fiyatlarını etkileyebileceğini söyledi.\n\nBununla birlikte, ithalatçının iç piyasadan aldığı miktarı belgelemesi şartıyla aynı miktarda ithalat yapabilmesine yönelik düzenlemeyi olumlu bulduklarını da ifade etti.\n\nBölgesel destek çağrısı\n\nTanyeri, tarımın stratejik bir sektör olduğunu belirterek, yalnızca borç ertelemeleriyle üretimin sürdürülebilir olmayacağını söyledi.\n\nSöke'nin üretim yapısına uygun bölgesel destekleme modellerinin geliştirilmesi gerektiğini ifade eden Tanyeri, üretimin devamlılığı için maliyetleri azaltacak ve üreticiyi teşvik edecek uygulamaların önem taşıdığını dile getirdi.\n\nTARIM PUSULASI HABER MERKEZİ"
     },
     {
-      "title": "Çiftçiye yatırım yaptılar, tarımda 57 milyar dolarlık ihracata ulaştılar!",
-      "url": "https://www.tarimdanhaber.com/ciftciye-yatirim-yaptilar-tarimda-57-milyar-dolarlik-ihracata-ulastilar",
-      "source": "Tarımdan Haber",
-      "date": "2026-07-14",
-      "summary": "Tarım politikaları uzmanı Ergin Kahveci, Avustralya'nın tarımsal dış ticaret verilerini analiz ederek güçlü tarım politikalarının üreticiye ve ihracata sağladığı katkıya dikkat çekti. Kahveci, Türkiye'nin de üretim gücü ve çiftçi potansiyeliyle benzer bir başarıyı yakalayabilecek kapasitede olduğunu",
-      "content": "Haber Merkezi / Avustralya'nın 2021-2025 döneminde tarımsal ihracatını yüzde 37,2 artırarak 41,7 milyar dolardan 57,2 milyar dolara çıkardığını belirten Ergin Kahveci, ülkenin tarımsal üretim planlaması ve ihracat odaklı politikalarının dikkat çekici sonuçlar verdiğini ifade etti.\n\n2024-2025 döneminde ise ihracatın yüzde 12,1 artış gösterdiğini aktaran Kahveci, en büyük ihracat pazarının Çin olduğunu, ABD ve Japonya'nın ise ilk üçte yer aldığını kaydetti.\n\nÇiftçinin ürettiği katma değer ihracata yansıyor\n\nAnalize göre Avustralya'nın en önemli tarımsal ihraç ürünü sığır eti olurken, bunu buğday ve koyun eti izledi. Bu üç ürün tek başına ülkenin toplam tarımsal ihracatının yüzde 42'sini oluşturdu.\n\nKahveci, bu tablonun üretim planlamasının ve üretici odaklı politikaların ihracata doğrudan yansımasının önemli bir örneği olduğunu değerlendirdi.\n\nTürkiye ile ticarette badem ilk sırada\n\nAnalizde Türkiye ile Avustralya arasındaki tarımsal ticarete de yer verildi.\n\nBuna göre Türkiye'nin Avustralya'dan yaptığı tarımsal ithalatta ilk sırayı badem aldı. Pamuk türleri, buğday ve canlı sığır ise öne çıkan diğer ürünler arasında yer aldı.\n\nÖzellikle canlı sığır ithalatında 2026'nın ilk yarısında gerçekleşen ithalatın, 2025 yılının tamamındaki seviyeyi yüzde 50'den fazla aşmasının dikkat çekici olduğu ifade edildi.\n\nTürkiye Avustralya'ya tarım ürünlerinde dış ticaret fazlası veriyor\n\nKahveci'nin analizine göre Türkiye'nin Avustralya'ya tarımsal ihracatı 2025 yılında yaklaşık 187,4 milyon dolara ulaştı. Aynı dönemde Avustralya'dan yapılan tarımsal ithalat ise 113,3 milyon dolar seviyesinde gerçekleşti.\n\nBöylece Türkiye, Avustralya ile tarımsal ticarette yaklaşık 74 milyon dolarlık dış ticaret fazlası verdi.\n\nTürkiye'nin Avustralya'ya en fazla ihraç ettiği ürün ise fındık olurken, kuru üzüm ile konserve edilmiş meyve ve kuru yemiş ürünleri de ihracatta öne çıktı.\n\n\"Çiftçinin önünü açacak güçlü tarım politikaları gerekiyor\"\n\nErgin Kahveci, Türkiye'nin sahip olduğu üretim potansiyeline dikkat çekerek şu değerlendirmede bulundu:\n\n\"Bizim enerjimiz ve üretim gücümüz orta vadeli avantajlarla yeniden planlanırsa tarım sektörümüz dünyanın en büyük ticaret ortaklarından biri olabilir. Çiftçilerimizin ve sanayicilerimizin gücüne inanıp onların önünü açacak güçlü tarım politika aktörleriyle bu başarı sağlanabilir.\"\n\nKahveci, tarım politikalarının günlük tartışmalar yerine bilgi, uzmanlık ve uzun vadeli planlama anlayışıyla şekillendirilmesi gerektiğini belirterek, sürdürülebilir üretimin ancak bu şekilde mümkün olacağını ifade etti."
-    },
-    {
       "title": "Samsun İl Tarım: Kırsal kalkınma başvuruları %62 arttı",
       "url": "https://www.tarimpusulasi.com/haber/samsun-il-tarim-kirsal-kalkinma-basvurulari-62-artti-47061",
       "source": "Tarım Pusulası",
@@ -117,22 +133,6 @@
       "date": "2026-07-14",
       "summary": "Samsun İl Tarım ve Orman Müdürlüğü koordinasyonunda, 2026 yılı fındık hasadı öncesinde rekolte tespit çalışmaları 13 ilçede devam ediyor. Bilimsel yöntemlerle yürütülen çalışmalarda 86 örnek bahçede çotanak sayımı ve sağlam dane analizleri yapılarak hasat öncesi gerçeğe en yakın üretim tahmininin be",
       "content": "SAMSUN — Samsun İl Tarım ve Orman Müdürlüğü koordinasyonunda, 2026 yılı fındık hasat sezonu öncesinde yürütülen rekolte tespit çalışmaları il genelinde devam ediyor. Tarım ve Orman Bakanlığı koordinasyonunda gerçekleştirilen çalışmalarda, 13 ilçede belirlenen 86 örnek bahçede çotanak sayımı ve sağlam dane analizleri yapılarak hasat öncesi üretim tahmini oluşturuluyor.\n\nRekolte tespit çalışmaları kapsamında Salıpazarı ilçesi Alanyaykın Mahallesi'ndeki bir fındık bahçesinde incelemeler gerçekleştirildi. Çalışmalara Samsun İl Tarım ve Orman Müdürü Kemal Yılmaz'ın yanı sıra Karadeniz Tarımsal Araştırma Enstitüsü, ziraat odaları, mahalle muhtarları ve teknik ekipler katıldı.\n\nİl Tarım ve Orman Müdürü Kemal Yılmaz, rekolte çalışmalarının Tarım ve Orman Bakanlığının talimatları doğrultusunda, ilgili paydaş kurumların katılımıyla sürdürüldüğünü belirtti. Sahil, orta ve yüksek rakımlı bölgeleri temsil eden bahçelerde yapılan sayımlarda, rastgele seçilen örneklerden 100 fındığın kırılarak sağlam dane oranının da tespit edildiğini ifade etti.\n\nYılmaz, Samsun'da yaklaşık 125 bin hektar alanda 50 bin üreticinin fındık yetiştiriciliği yaptığını belirterek, 14 kişilik komisyonun il genelindeki 86 bahçede incelemelerini sürdürdüğünü söyledi. Çalışmaların yaklaşık 20 gün içinde tamamlanmasının ardından hesaplamaların yapılarak 2026 yılı Samsun fındık rekoltesinin Tarım ve Orman Bakanlığına bildirileceğini kaydetti.\n\nFındığın Samsun'un bitkisel üretimi ve ülkemizin tarımsal ihracatı açısından stratejik öneme sahip olduğunu vurgulayan Yılmaz, rekolte tespit çalışmalarının üretim planlaması ve sektörün sağlıklı veriyle yönlendirilmesi açısından her yıl düzenli olarak gerçekleştirildiğini ifade etti.\n\nGeçen yıl yüksek rakımlı bölgelerde yaşanan zirai don olaylarının üretimi olumsuz etkilediğini hatırlatan Yılmaz, bu sezon ise üreticiler açısından daha verimli bir hasat dönemi beklediklerini belirterek tüm üreticilere bereketli bir sezon temennisinde bulundu.\n\nTARIM PUSULASI HABER MERKEZİ"
-    },
-    {
-      "title": "CHP'li Aygun: Dolu zararında sigortasız çiftçi desteklensin",
-      "url": "https://www.tarimpusulasi.com/haber/chpli-aygun-dolu-zararinda-sigortasiz-ciftci-desteklensin-47059",
-      "source": "Tarım Pusulası",
-      "date": "2026-07-14",
-      "summary": "CHP Tekirdağ Milletvekili Dr. İlhami Özcan Aygun, Süleymanpaşa ilçesinde etkili olan dolunun ardından zarar gören tarım alanlarını ziyaret etti. Aygun, TARSİM kapsamında olmayan üreticilerin zararlarının da devlet tarafından karşılanması çağrısında bulundu.",
-      "content": "TEKİRDAĞ — CHP Tekirdağ Milletvekili Dr. İlhami Özcan Aygun, Tekirdağ'ın Süleymanpaşa ilçesinde etkili olan dolu yağışının ardından Ferhadanlı, Ahmedikli, Hacıköy ve Seymenli mahallelerinde zarar gören tarım alanlarında incelemelerde bulundu. Aygun, TARSİM kapsamında olmayan üreticilerin zararlarının da devlet tarafından karşılanması gerektiğini söyledi.\n\nDolu yağışından etkilenen üreticilerle bir araya gelen Aygun, özellikle Ferhadanlı Mahallesi'nde karpuz, kavun, ayçiçeği ve domates ekili alanlarda ciddi hasar oluştuğunu belirtti. Karpuz tarlalarında bitkilerin yeşil aksamının büyük ölçüde zarar gördüğünü ifade eden Aygun, ürünlerde yoğun kayıp yaşandığını dile getirdi.\n\nÇiftçilerin son dönemde artan üretim maliyetleri nedeniyle zaten ekonomik zorluk yaşadığını belirten Aygun, dolu afetinin üreticilerin yükünü daha da artırdığını söyledi.\n\nAygun, yaptığı açıklamada TARSİM Genel Müdürü ile görüştüğünü belirterek, sigortalı üreticilerin zararlarının karşılanması için gerekli çalışmaların yürütüldüğünü ifade etti. Tarım sigortası bulunmayan üreticilerin de mağdur edilmemesi gerektiğini vurgulayan Aygun, Cumhurbaşkanlığının bu konuda devreye girerek destek sağlaması çağrısında bulundu.\n\nFerhadanlı Mahallesi'nde üretim yapan çiftçi Ferhat Kara da dolu yağışının ardından tarlalarda önemli zarar oluştuğunu belirtti. Kara, hasarın kesin boyutunun arazi incelemelerinin tamamlanmasının ardından netleşeceğini söyledi.\n\nBölgede hasar tespit çalışmalarının sürmesi beklenirken, üreticiler zarar gören ürünler için destek talebinde bulunuyor.\n\nTARIM PUSULASI HABER MERKEZİ"
-    },
-    {
-      "title": "EİB: Balık yemi ihracatı ilk yarıda %31 arttı",
-      "url": "https://www.tarimpusulasi.com/haber/eib-balik-yemi-ihracati-ilk-yarida-31-artti-47058",
-      "source": "Tarım Pusulası",
-      "date": "2026-07-14",
-      "summary": "Ege İhracatçı Birlikleri (EİB), Türkiye'nin balık yemi ihracatının 2026 yılının ilk yarısında geçen yılın aynı dönemine göre %31 artarak 27 milyon dolardan 35,4 milyon dolara yükseldiğini açıkladı. Ege Hububat Bakliyat Yağlı Tohumlar ve Mamulleri İhracatçıları Birliği, 30,5 milyon dolarlık ihracatla",
-      "content": "İZMİR — Ege İhracatçı Birlikleri (EİB), Türkiye'nin balık yemi ihracatının 2026 yılının ilk altı ayında geçen yılın aynı dönemine göre %31 artarak 27 milyon dolardan 35,4 milyon dolara yükseldiğini bildirdi. Ege Hububat Bakliyat Yağlı Tohumlar ve Mamulleri İhracatçıları Birliği ise 30,5 milyon dolarlık ihracatla Türkiye'nin balık yemi ihracatının %86'sını tek başına gerçekleştirdi.\n\nEge İhracatçı Birlikleri Koordinatör Başkanı ve Ege Hububat Bakliyat Yağlı Tohumlar ve Mamulleri İhracatçıları Birliği Başkanı Muhammet Öztürk, Türk balık yeminin yüksek üretim kapasitesi, kaliteli hammadde kullanımı ve uluslararası standartlara uygun üretim anlayışı sayesinde dünya pazarlarında giderek daha fazla tercih edildiğini belirtti.\n\nTürkiye'nin su ürünleri yetiştiriciliğinde kaydettiği büyümenin balık yemi üretimi ve ihracatına da olumlu yansıdığını ifade eden Öztürk, sektörün yıllık 626,5 bin ton su ürünleri yetiştiriciliği ve 2,4 milyar dolarlık su ürünleri ihracatına stratejik katkı sağladığını söyledi.\n\nÖztürk, sürdürülebilir üretim anlayışı, teknoloji yatırımları ve Ar-Ge çalışmalarının ihracat performansını desteklediğini belirterek, mevcut büyüme ivmesinin korunması halinde balık yemi ihracatında 2027 yılında 100 milyon dolar seviyesinin aşılabileceğini ve Türkiye'nin dünya ihracatında ilk 10 ülke arasına girebileceğini ifade etti.\n\n2026 yılının ilk yarısında balık yemi ihracatında en büyük pazar 21,2 milyon dolarla Rusya Federasyonu oldu. Rusya'yı 3,5 milyon dolarla Tunus, 2,4 milyon dolarla Özbekistan, 1,3 milyon dolarla Arnavutluk ve 1,2 milyon dolarla Kırgızistan izledi. Türkiye'nin balık yemi ihracatı yaptığı ülke sayısı ise 41'e ulaştı.\n\nYetkililer, özellikle Akdeniz havzası, Orta Doğu, Kuzey Afrika ve Avrupa pazarlarından gelen talebin ihracattaki artışta önemli rol oynadığını değerlendirdi.\n\nTARIM PUSULASI HABER MERKEZİ"
     }
   ],
   "commoditiesByBorsa": {
@@ -328,8 +328,5 @@
   "defaultBorsa": "5ED10",
   "defaultCity": "CANAKKALE",
   "note": "Fiyatlar TOBB ticaret borsasından (borsa seçilebilir). Kanola manuel (Trakya 2025).",
-  "inputsNote": "Mazot: akaryakıt bayi fiyatı, günlük (şehir seçilebilir). Gübre: manuel (yaklaşık).",
-  "errors": [
-    "fx: fetch failed"
-  ]
+  "inputsNote": "Mazot: akaryakıt bayi fiyatı, günlük (şehir seçilebilir). Gübre: manuel (yaklaşık)."
 }
