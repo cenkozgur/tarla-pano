@@ -1,26 +1,26 @@
 {
-  "updatedAt": "2026-07-16T19:17:20.219Z",
+  "updatedAt": "2026-07-16T20:13:15.379Z",
   "fx": [
     {
       "code": "USD",
       "name": "Dolar",
-      "buy": 470488,
-      "sell": 470569,
+      "buy": 47045,
+      "sell": 470578,
       "change": 2
     },
     {
       "code": "EUR",
       "name": "Euro",
-      "buy": 539077,
-      "sell": 539534,
-      "change": -3
+      "buy": 539327,
+      "sell": 539664,
+      "change": 0
     },
     {
       "code": "GRA",
       "name": "Gram Altın",
-      "buy": 602132,
-      "sell": 602215,
-      "change": -194
+      "buy": 601342,
+      "sell": 601439,
+      "change": -207
     },
     {
       "code": "CEYREKALTIN",
@@ -38,6 +38,14 @@
     }
   ],
   "news": [
+    {
+      "title": "Devletin verdiği destek geri mi alınıyor? Arıcılardan 100 TL isyanı Meclis'te",
+      "url": "https://www.tarimdanhaber.com/devletin-verdigi-destek-geri-mi-aliniyor-aricilardan-100-tl-isyani-mecliste",
+      "source": "Tarımdan Haber",
+      "date": "2026-07-16",
+      "summary": "İYİ Parti Manisa Milletvekili Şenol Sunat, Orman Genel Müdürlüğü'nün bal ormanlarında konaklayan arıcılardan kovan başına 100 TL \"Arı Konaklatma Ekosistem Hizmet Bedeli\" alınmasına ilişkin uygulamayı TBMM gündemine taşıdı. Sunat, Tarım ve Orman Bakanı İbrahim Yumaklı'nın yanıtlaması istemiyle verdiğ",
+      "content": "Haber Merkezi / İYİ Parti Manisa Milletvekili Şenol Sunat, Orman Genel Müdürlüğü'nün bal ormanları ve devlet ormanlarında konaklayan arıcılardan kovan başına 100 TL \"Arı Konaklatma Ekosistem Hizmet Bedeli\" alınmasına yönelik düzenlemeyi Türkiye Büyük Millet Meclisi gündemine taşıdı.\n\nTarım ve Orman Bakanı İbrahim Yumaklı'nın yanıtlaması istemiyle soru önergesi veren Sunat, uygulamanın ekonomik gerekçesini, sektöre etkilerini ve arıcılara sağlanacak hizmetleri sorguladı.\n\n\"Dünya lideriyiz ama arıcı zor durumda\"\n\nSosyal medya hesabından da açıklama yapan Sunat, Türkiye'nin çam balı üretiminde dünya lideri olduğunu hatırlatarak, arıcıların artan akaryakıt, nakliye, şeker, işçilik, ilaç ve ekipman maliyetleri nedeniyle zaten ağır ekonomik koşullarla mücadele ettiğini belirtti.\n\nSunat, bu şartlarda Orman Genel Müdürlüğü tarafından kovan başına 100 TL ücret alınmasının üreticiyi daha da zorlayacağını ifade etti.\n\n\"Sektörün görüşü alındı mı?\"\n\nSunat, uygulama hazırlanırken Türkiye Arı Yetiştiricileri Merkez Birliği ile Bal Üreticileri Merkez Birliği'nin görüşlerinin alınıp alınmadığını da sorguladı.\n\n\"Kim, hangi gerekçeyle böyle bir uygulamayı önerdi? Arıcılardan talep edilen bu ücret hangi hizmetin karşılığıdır?\" diye soran Sunat, kararın bilimsel ve ekonomik analizlere dayanıp dayanmadığının açıklanmasını istedi.\n\n\"2025'te verilen destek kadar ücret alınıyor\"\n\nSunat, 2025 yılında arıcılara verilen kovan başına 100 TL temel hayvancılık desteğini hatırlatarak, 2026 yılında aynı tutarın bu kez ücret olarak alınmasının destek politikalarıyla çeliştiğini savundu.\n\nBakanlığa 11 soru\n\nSunat'ın önergesinde öne çıkan sorular arasında şu başlıklar yer aldı:\n\nKovan başına 100 TL hangi ekonomik analizlere göre belirlendi?\n\nBu uygulamadan kaç kovan etkilenecek ve ne kadar gelir elde edilmesi bekleniyor?\n\nTahsil edilen bedeller hangi harcamalarda kullanılacak?\n\nArıcılara bu ücret karşılığında hangi somut hizmetler sunulacak?\n\nÇam balı üretimi ve ihracatı üzerindeki etkiler analiz edildi mi?\n\nUygulamanın kaldırılması yönünde yeni bir çalışma yapılacak mı?\n\n\"Bal ormanları ticari gelir için mi kuruldu?\"\n\nSunat, paylaşımında şu ifadeleri kullandı: \"100 bin kayıtlı arıcı, 9 milyon kovan ve milyonlarca arı cevap bekliyor. Tarım Bakanlığı; 918 adet bal ormanını arıcılardan ticari kazanç elde etmek için mi kurdu? Yoksa Türk arıcılığına üretim desteği vermek için mi?\""
+    },
     {
       "title": "Hububatta rekor, pamukta alarm! Ergin Kahveci Türkiye tarımındaki büyük değişimi analiz etti",
       "url": "https://www.tarimdanhaber.com/hububatta-rekor-pamukta-alarm-ergin-kahveci-turkiye-tarimindaki-buyuk-degisimi-analiz-etti",
@@ -125,14 +133,6 @@
       "date": "2026-07-16",
       "summary": "USDA'nın Temmuz 2026 pamuk raporu, küresel üretimde toparlanmaya işaret ederken Türkiye dikkat çekici bir başarıya imza attı. Ekim alanları daralmasına rağmen hektar başına 1.861 kilogram verimle dünyanın en yüksek verimlilik performanslarından birini yakalayan Türkiye, buna karşın güçlü tekstil san",
       "content": "Haber Merkezi / Tarım politikaları uzmanı Ergin Kahveci'nin değerlendirmesine göre, USDA'nın Temmuz 2026 Dünya Pamuk Arz ve Talep Raporu küresel pamuk piyasasında önemli değişimlere işaret ediyor.\n\nRapora göre dünya pamuk üretimi Brezilya, ABD ve Türkiye'deki üretim artışlarının etkisiyle 117,3 milyon balyaya (25,53 milyon ton) yükseltildi.\n\nBu artışta Türkiye'nin özel bir yeri bulunduğunu belirten Kahveci, ekim alanları küçülmesine rağmen hektar başına 1.861 kilogram verim elde edilmesinin önemli bir başarı olduğunu vurguladı.\n\nAlan küçüldü, verim arttı\n\nKahveci'ye göre Türkiye'nin başarısı üretim alanlarını genişletmekten değil, birim alandan daha fazla ürün almaktan kaynaklanıyor.\n\nSon yıllarda artan üretim maliyetleri nedeniyle pamuk ekim alanlarında daralma yaşanırken, yüksek verim sayesinde üretimde önemli bir kayıp yaşanmadı.\n\nBu durum Türkiye'nin küresel arz artışına katkı sağlayan ülkeler arasında yer almasını sağladı.\n\nVerimlilik rekoru ithalatı durdurmaya yetmiyor\n\nAncak Kahveci'ye göre raporun en dikkat çekici yönü üretimdeki başarıya rağmen ithalat ihtiyacının devam etmesi.\n\nTürkiye'nin tekstil ve hazır giyim sanayisinin yıllık yaklaşık 6,8 milyon balyalık (1,48 milyon ton) pamuk tüketimi, yerli üretimin oldukça üzerinde bulunuyor.\n\nBu nedenle Türkiye'nin pamuk ithalatının 4,8 milyon balyaya (1,04 milyon ton) ulaşması bekleniyor.\n\nBu rakam, küresel pamuk ticaretinin yüzde 11'inden fazlasının tek başına Türkiye tarafından gerçekleştirileceğini ortaya koyuyor.\n\nTekstil sektörü üretimin önünde gidiyor\n\nKahveci, bunun aslında Türkiye açısından bir üretim başarısızlığı değil, sanayi kapasitesinin tarımsal üretimin önünde büyümesinin sonucu olduğunu belirtiyor.\n\nTürkiye, dünyanın en önemli tekstil üreticileri arasında yer alırken, sanayinin ihtiyaç duyduğu lif pamuğun tamamını yerli üretimle karşılayamıyor.\n\nDolayısıyla yüksek verimliliğe rağmen ithalat zorunluluğu devam ediyor.\n\nKüresel dengeler değişiyor\n\nUSDA verilerine göre Brezilya ve ABD küresel ihracatta lider konumlarını koruyor.\n\nİki ülkenin toplam ihracat kapasitesi 27,3 milyon balyaya (5,95 milyon ton) ulaşırken, küresel talebin önemli bölümü ise Vietnam ve Bangladeş gibi Asya ülkelerinden geliyor.\n\nDünya pamuk stoklarının 71,2 milyon balyaya (15,51 milyon ton) yükselmesi ise kısa vadede arz güvenliğinin güçlendiğine işaret ediyor."
-    },
-    {
-      "title": "Tarım Kredi'de mobbing ve yönetici karakteri tartışması! Eski yöneticiden dikkat çeken değerlendirmeler",
-      "url": "https://www.tarimdanhaber.com/tarim-kredide-mobbing-ve-yonetici-karakteri-tartismasi-eski-yoneticiden-dikkat-ceken-degerlendirmeler",
-      "source": "Tarımdan Haber",
-      "date": "2026-07-15",
-      "summary": "Tarım Kredi Kooperatiflerinde uzun yıllar çeşitli kademelerde görev yapan eski yönetici Hasan Yakup Cangüven, antalyasonhaber'de yayımlanan \"Tarım Kredi Kooperatifleri, Mobbing ve Yönetici Karakteri\" başlıklı yazısında, kurumlarda yönetim anlayışı, mobbing ve kurumsal kültüre ilişkin dikkat çeken de",
-      "content": "Haber Merkezi / Hasan Yakup Cangüven, yazısında Tarım Kredi Kooperatifleri'nde zaman zaman mobbing ve yönetim anlayışına ilişkin çeşitli iddiaların kamuoyuna yansıdığını belirterek, değerlendirmelerinde Tarımdan Haber'de yayımlanan haberlerin altındaki okuyucu yorumlarına da yer verdi.\n\nTarımdan Haber'deki yorumlarda \"korku ile yönetim\", \"baskıcı yönetim anlayışı\" ve kurum içindeki çalışma ortamına ilişkin çok sayıda eleştiriyle karşılaşıldığını ifade eden Cangüven, bu değerlendirmelerin kurum içinde farklı bakış açılarını ve çeşitli rahatsızlıkları yansıttığını dile getirdi.\n\n\"Tek başına delil değil, önemli bir geri bildirim\"\n\nCangüven, söz konusu yorumların tek başına hukuken ispatlanmış vakıalar olarak değerlendirilemeyeceğini özellikle vurguladı.\n\nBuna rağmen birbirinden bağımsız kişiler tarafından dile getirilen benzer içerikli değerlendirmelerin kurumsal kültür ve yönetim anlayışı açısından önemli geri bildirimler niteliği taşıdığını belirten Cangüven, güçlü kurumların eleştirileri bastırmak yerine şeffaflık, adalet ve hesap verebilirlik ilkeleri doğrultusunda değerlendirmesi gerektiğini ifade etti.\n\n\"Aidiyet baskıyla değil, güvenle oluşur\"\n\nCangüven'e göre, çalışanlardan gelen değerlendirmeler baskıcı yönetim anlayışının kurumsal aidiyet duygusunu zayıflattığını ortaya koyuyor.\n\nPsikolojik baskı altında çalışan personelin yöneticilerine karşı güven geliştiremeyeceğini belirten Cangüven, korku temelli yönetim anlayışlarının kısa vadede sessizlik oluşturabileceğini ancak uzun vadede kurum kültürünü zayıflatacağını savundu.\n\n\"Mobbing yöneticilik değildir\"\n\nYazısında mobbing konusuna da değinen Cangüven, çalışanlar üzerinde baskı kurmanın, yıldırmanın ve psikolojik baskıyı yönetim aracı olarak kullanmanın yöneticilik anlayışıyla bağdaşmadığını ifade etti.\n\nMobbingin yalnızca çalışan motivasyonunu değil, kurumsal verimliliği de olumsuz etkilediğini belirten Cangüven, bu tür uygulamaların hukuki sorumluluk doğurabileceğine dikkat çekti.\n\n\"Yönetici karakteri kurumun kaderini belirler\"\n\nCangüven, kurumsal başarının yalnızca mevzuatla değil, yöneticilerin karakteri ve yönetim anlayışıyla şekillendiğini belirtti.\n\nLiyakat, adalet, iletişim ve güven veren bir yönetim anlayışının kurumların en önemli sermayesi olduğunu ifade eden Cangüven, baskı ve korkuya dayalı yönetim anlayışlarının ise çalışan bağlılığını zayıflattığını ve kurumsal performansı olumsuz etkilediğini dile getirdi.\n\nAnonim okuyucu yorumlarında da benzer eleştirilerin yer aldığına dikkat çeken Cangüven, bazı yöneticilerin kurumu ortakların emaneti yerine kişisel nüfuz alanı olarak gördüğüne yönelik değerlendirmelerin bulunduğunu aktararak, bu tür yaklaşımların kurum kültürünü aşındırdığı yönündeki kaygıları paylaştı.\n\n\"Yöneticilik makam değil, güven oluşturabilmektir\"\n\nGeçmiş görevlerinden örnekler de paylaşan Cangüven, yöneticiliğin makamın sağladığı yetkiden çok çalışanların güvenini kazanabilme becerisi olduğunu ifade etti.\n\nÇalışanlara saygının, sağlıklı iletişimin ve ekip ruhunun başarılı kurumların temelini oluşturduğunu belirten Cangüven, yazısını şu mesajla tamamladı:\n\n\"Güçlü kurumlar güçlü yöneticilerle değil, güçlü kurum kültürüyle ayakta kalır.\"\n\nHasan Yakup Cangüven'in makalesinin tamamına ulaşmak için → Tarım Kredi Kooperatifleri, mobbing ve yönetici karakteri"
     }
   ],
   "commoditiesByBorsa": {
@@ -330,15 +330,8 @@
   "note": "Fiyatlar TOBB ticaret borsasından (borsa seçilebilir). Kanola manuel (Trakya 2025).",
   "inputsNote": "Mazot: akaryakıt bayi fiyatı, günlük (şehir seçilebilir). Gübre: manuel (yaklaşık).",
   "errors": [
-    "mazot ANKARA: fetch failed",
-    "mazot ISTANBUL: fetch failed",
-    "mazot IZMIR: fetch failed",
-    "mazot KONYA: fetch failed",
-    "mazot ADANA: fetch failed",
-    "mazot BURSA: fetch failed",
-    "mazot ANTALYA: fetch failed",
-    "mazot SAMSUN: fetch failed",
-    "mazot TEKIRDAG: fetch failed",
-    "mazot CANAKKALE: fetch failed"
+    "borsa 5ED10: fetch failed",
+    "borsa 5KO10: fetch failed",
+    "borsa 5ES10: fetch failed"
   ]
 }
