@@ -1,43 +1,51 @@
 {
-  "updatedAt": "2026-07-16T12:52:13.741Z",
+  "updatedAt": "2026-07-16T15:05:07.900Z",
   "fx": [
     {
       "code": "USD",
       "name": "Dolar",
-      "buy": 47.05,
-      "sell": 47.06,
-      "change": 0.03
+      "buy": 470493,
+      "sell": 470616,
+      "change": 3
     },
     {
       "code": "EUR",
       "name": "Euro",
-      "buy": 54.01,
-      "sell": 54.02,
-      "change": 0.13
+      "buy": 539289,
+      "sell": 539433,
+      "change": -2
     },
     {
       "code": "GRA",
       "name": "Gram Altın",
-      "buy": 6049.69,
-      "sell": 6050.66,
-      "change": -1.48
+      "buy": 604047,
+      "sell": 604141,
+      "change": -163
     },
     {
       "code": "CEYREKALTIN",
       "name": "Çeyrek Altın",
-      "buy": 9698.71,
-      "sell": 9920.7,
-      "change": -1.37
+      "buy": 968977,
+      "sell": 991157,
+      "change": -146
     },
     {
       "code": "CUMHURIYETALTINI",
       "name": "Cumhuriyet Altını",
-      "buy": 40453,
-      "sell": 41070,
-      "change": -0.85
+      "buy": 40473,
+      "sell": 41090,
+      "change": -8
     }
   ],
   "news": [
+    {
+      "title": "TÜİK: Tarım-ÜFE haziranda yıllık yüzde 9,55 arttı",
+      "url": "https://www.tarimpusulasi.com/haber/tuik-tarim-ufe-haziranda-yillik-yuzde-955-artti-47069",
+      "source": "Tarım Pusulası",
+      "date": "2026-07-16",
+      "summary": "Türkiye İstatistik Kurumu (TÜİK), Haziran 2026 dönemine ilişkin Tarım Ürünleri Üretici Fiyat Endeksi (Tarım-ÜFE) verilerini açıkladı. Tarım-ÜFE haziranda aylık bazda yüzde 9,02 gerilerken, yıllık bazda yüzde 9,55, on iki aylık ortalamalara göre ise yüzde 37,44 artış gösterdi.",
+      "content": "ANKARA — Türkiye İstatistik Kurumu (TÜİK), Haziran 2026 dönemine ilişkin Tarım Ürünleri Üretici Fiyat Endeksi (Tarım-ÜFE) verilerini açıkladı. Tarım ürünleri üretici fiyat endeksi (Tarım-ÜFE) yıllık %9,55 arttı, aylık %9,02 azaldı\n\nTarım-ÜFE'de (2020=100), 2026 yılı Haziran ayında bir önceki aya göre %9,02 azalış, bir önceki yılın Aralık ayına göre %7,73 artış, bir önceki yılın aynı ayına göre %9,55 artış ve on iki aylık ortalamalara göre %37,44 artış gerçekleşti.\n\nSektörlerde bir önceki aya göre, tarım ve avcılık ürünleri ve ilgili hizmetlerde %9,57 azalış, ormancılık ürünleri ve ilgili hizmetlerde %2,14 azalış ve balık ve diğer balıkçılık ürünleri; su ürünleri; balıkçılık için destekleyici hizmetlerde %0,18 azalış gerçekleşti. Ana gruplarda bir önceki aya göre, tek yıllık (uzun ömürlü olmayan) bitkisel ürünlerde %15,55 azalış, çok yıllık (uzun ömürlü) bitkisel ürünlerde %10,30 azalış ve canlı hayvanlar ve hayvansal ürünlerde %1,49 artış gerçekleşti.\n\nSektör ve ana gruplara göre Tarım-ÜFE ve değişim oranları (%), Haziran 2026\n\nEndeks\n\nBir önceki aya göre değişim oranı (%)\n\nBir önceki yılın Aralık ayına göre değişim oranı (%)\n\nBir önceki yılın aynı ayına göre değişim oranı (%)\n\nOn iki aylık ortalamalara göre değişim oranı (%)\n\nTarım-ÜFE\n\n1 099,96\n\n-9,02\n\n7,73\n\n9,55\n\n37,44\n\nTarım ve avcılık ürünleri ve ilgili hizmetler\n\n1 078,00\n\n-9,57\n\n6,73\n\n8,07\n\n36,96\n\nTek yıllık (uzun ömürlü olmayan) bitkisel ürünler\n\n1 021,51\n\n-15,55\n\n18,92\n\n43,66\n\n33,37\n\nÇok yıllık (uzun ömürlü) bitkisel ürünler\n\n1 032,69\n\n-10,30\n\n-19,09\n\n-31,08\n\n51,89\n\nCanlı hayvanlar ve hayvansal ürünler\n\n1 212,86\n\n1,49\n\n20,17\n\n36,62\n\n29,51\n\nOrman ürünleri ve ilgili hizmetler\n\n1 527,16\n\n-2,14\n\n29,42\n\n35,27\n\n42,10\n\nBalık ve diğer balıkçılık ürünleri; su ürünleri; balıkçılık için destekleyici hizmetler\n\n1 468,65\n\n-0,18\n\n16,62\n\n31,43\n\n47,84\n\nTarım-ÜFE yıllık değişim oranı (%), Haziran 2026\n\nYıllık değişimin en yüksek olduğu alt grup %60,71 artış ile sebze ve kavun-karpuz, kök ve yumrular, aylık değişimin en yüksek olduğu alt grup %27,64 azalış ile tropikal ve subtropikal meyveler oldu.\n\nAlt gruplara göre Tarım-ÜFE yıllık değişim oranları (%), Haziran 2026\n\nAlt gruplara göre Tarım-ÜFE aylık değişim oranları (%), Haziran 2026"
+    },
     {
       "title": "Bakan Yumaklı: Tarım ve Orman Bakanlığı 1.874 personel alacak",
       "url": "https://www.tarimpusulasi.com/haber/bakan-yumakli-tarim-ve-orman-bakanligi-1874-personel-alacak-47068",
@@ -125,14 +133,6 @@
       "date": "2026-07-15",
       "summary": "Soğan üreticileri, ithalat vergisinin düşürülmesine tepki gösterdi. Geçen yıl hem üreticinin hem tüccarın zarar ettiğini belirten çiftçiler, \"Zarar ederken yanımızda kimse yoktu. Bu yıl ilk kez para kazanacağız derken ithalat kapıları açıldı. Bu karar market fiyatını değil, tarladaki üretici fiyatın",
       "content": "Haber Merkezi / Soğanda ithalat vergisinin düşürülmesi üreticilerin tepkisini çekti. Sahada konuşulan en büyük eleştiri, geçen yıl büyük zarar eden üreticinin yalnız bırakıldığı, bu yıl ise fiyatların yükselmesiyle birlikte ithalatın devreye sokulduğu yönünde.\n\nÜreticiler, geçen yıl hem soğan üreticisinin hem de tüccarın ciddi zarar ettiğini hatırlatarak, o dönemde ihracat konusunda da herhangi bir kolaylık sağlanmadığını dile getiriyor.\n\n\"Geçen yıl zarar ederken Bakanlık yanımızda değildi. Şimdi ilk kez para kazanacağımız bir sezon oluştu, hemen ithalat kapıları açıldı.\" diyen üreticiler, alınan kararın en fazla tarladaki fiyatları baskılayacağını savunuyor.\n\n\"1 kilo soğan iki ekmek parası etmesin mi?\"\n\nÜreticiler, bugün tarlada soğanın kilogramının 30-35 lira seviyesinde satıldığını belirterek bu fiyatın abartıldığı kadar yüksek olmadığını ifade ediyor.\n\n\"Bir kilo soğan iki ekmek parası etmesin mi?\" diye soran üreticiler, yıllardır zarar ettiklerini, bir sezon para kazanacakları dönemde ise ithalat kararıyla karşı karşıya kaldıklarını dile getiriyor.\n\n\"Market fiyatı düşmeyecek\"\n\nÇiftçilere göre ithalatın tüketiciye önemli bir katkısı olmayacak.\n\nÜreticiler, \"İthalat yapınca marketteki fiyatlar ciddi şekilde düşmeyecek. Asıl düşecek olan tarladaki üretici fiyatı olacak. Kazanan yine aracılar olacak.\" değerlendirmesinde bulunuyor.\n\n\"Türkiye'de arz sorunu yok\"\n\nÜreticiler, bu yıl bazı bölgelerde ekim alanında bir azalma olsa da Türkiye'nin soğan ihtiyacını karşılayacak üretim potansiyeline sahip olduğunu belirtiyor.\n\nGeçen yıl ekim alanlarının genişlediğini, bu yıl ise belirli ölçüde daralma yaşandığını ifade eden üreticiler, mevcut üretimin ülkenin ihtiyacını karşılayabilecek seviyede olduğunu savunuyor.\n\nÜreticilerin ortak mesajı ise dikkat çekti: \"Kendine yeterli üretime sahip bir ülkede, bırakın bu yıl da çiftçi bir kez olsun kazansın.\""
-    },
-    {
-      "title": "Türkiye ithalata yöneldi, İspanyol çiftçi 200 ton soğanı bedava dağıttı!",
-      "url": "https://www.tarimdanhaber.com/turkiye-ithalata-yoneldi-ispanyol-ciftci-200-ton-sogani-bedava-dagitti",
-      "source": "Tarımdan Haber",
-      "date": "2026-07-15",
-      "summary": "Türkiye'de soğan fiyatlarındaki yükseliş nedeniyle ithalat vergisi düşürülerek dış alımın önü açılırken, İspanya'nın Sevilla kentinde bir çiftçi ürününü kilogramı 13 euro sente satamadığı için 200 tondan fazla soğanı ücretsiz dağıtmaya başladı. Üretici, hasat maliyetini bile karşılayamayınca tarlası",
-      "content": "Haber Merkezi / Türkiye'de soğan fiyatlarının yükselmesi üzerine hükümet ithalat vergisini düşürerek dış alımı kolaylaştırırken, Avrupa'dan gelen bir haber tarım piyasalarındaki çarpıcı fiyat farkını gözler önüne serdi.\n\nİspanya'nın Sevilla kentindeki Lebrija bölgesinde üretim yapan çiftçi Juan Manuel Romero, yetiştirdiği 200 tondan fazla soğanı satacak karlı bir pazar bulamayınca ürünlerini ücretsiz dağıtmaya başladı.\n\nKilogramı 13 euro sente alıcı bulamadı\n\n3,25 hektarlık alanda soğan üretimi yapan Romero, hasat döneminde ürününe teklif edilen fiyatın kilogram başına sadece 13 euro sent olduğunu belirtti.\n\nBu fiyatın hasat, işçilik ve nakliye maliyetlerini dahi karşılamadığını ifade eden çiftçi, ürünleri toprağa gömmek yerine sosyal medya üzerinden çağrı yaparak vatandaşları tarlasına davet etti.\n\nBölgede yaşayan vatandaşlar günlerdir tarlaya giderek istedikleri kadar soğanı ücretsiz alabiliyor.\n\n\"Hasat masrafını bile karşılamıyor\"\n\nRomero, yalnızca bir hektarlık alanın hasadı için yaklaşık 25 işçinin birkaç gün çalışması gerektiğini belirterek, kilogramı 13 euro sentten satış yapmanın ekonomik olarak mümkün olmadığını söyledi.\n\nVatandaşlardan tek isteğinin ise tarlayı temiz bırakmaları ve plastik gibi atıkları araziye bırakmamaları olduğunu ifade etti.\n\nMarkette 60 sent, üreticide 13 sent\n\nCOAG Andalucía İşlenmiş Ürünler Bölümü Başkanı Diego Bellido da bu yıl yaşanan olumsuz hava koşullarının üreticileri zor durumda bıraktığını söyledi.\n\nBellido, marketlerde soğanın kilogramının yaklaşık 60 euro sente satıldığını, buna karşın üreticinin sadece 13 euro sent alabildiğini belirterek, aradaki fiyat farkının çiftçiye hiçbir şekilde yansımadığını ifade etti.\n\n\"Sonuçta kaybeden hem maliyetinin altında satış yapmak zorunda kalan üretici hem de yüksek fiyat ödeyen tüketici oluyor.\" diyen Bellido, tarımsal pazarlama zincirindeki dengesizliğe dikkat çekti.\n\nTürkiye'de ithalat kararı\n\nTürkiye'de ise son dönemde soğan fiyatlarında yaşanan yükseliş gerekçe gösterilerek ithalat vergisi düşürüldü ve dış alımın önü açıldı. İspanya'da üreticinin ürününü maliyetinin altında satamayıp ücretsiz dağıtmak zorunda kalması, tarım piyasalarında üretici fiyatı ile tüketici fiyatı arasındaki makasın yalnızca Türkiye'de değil Avrupa'da da önemli bir sorun olmaya devam ettiğini ortaya koydu.\n\nKaynak: https://agroinformacion.com/"
     }
   ],
   "commoditiesByBorsa": {
@@ -328,17 +328,5 @@
   "defaultBorsa": "5ED10",
   "defaultCity": "CANAKKALE",
   "note": "Fiyatlar TOBB ticaret borsasından (borsa seçilebilir). Kanola manuel (Trakya 2025).",
-  "inputsNote": "Mazot: akaryakıt bayi fiyatı, günlük (şehir seçilebilir). Gübre: manuel (yaklaşık).",
-  "errors": [
-    "mazot ANKARA: fetch failed",
-    "mazot ISTANBUL: fetch failed",
-    "mazot IZMIR: fetch failed",
-    "mazot KONYA: fetch failed",
-    "mazot ADANA: fetch failed",
-    "mazot BURSA: fetch failed",
-    "mazot ANTALYA: fetch failed",
-    "mazot SAMSUN: fetch failed",
-    "mazot TEKIRDAG: fetch failed",
-    "mazot CANAKKALE: fetch failed"
-  ]
+  "inputsNote": "Mazot: akaryakıt bayi fiyatı, günlük (şehir seçilebilir). Gübre: manuel (yaklaşık)."
 }
