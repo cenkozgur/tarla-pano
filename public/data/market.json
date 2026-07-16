@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-07-16T11:13:54.904Z",
+  "updatedAt": "2026-07-16T12:52:13.741Z",
   "fx": [
     {
       "code": "USD",
@@ -11,33 +11,41 @@
     {
       "code": "EUR",
       "name": "Euro",
-      "buy": 54.06,
-      "sell": 54.07,
-      "change": 0.22
+      "buy": 54.01,
+      "sell": 54.02,
+      "change": 0.13
     },
     {
       "code": "GRA",
       "name": "Gram Altın",
-      "buy": 6106.01,
-      "sell": 6106.92,
-      "change": -0.56
+      "buy": 6049.69,
+      "sell": 6050.66,
+      "change": -1.48
     },
     {
       "code": "CEYREKALTIN",
       "name": "Çeyrek Altın",
-      "buy": 9764.66,
-      "sell": 9988.11,
-      "change": -0.7
+      "buy": 9698.71,
+      "sell": 9920.7,
+      "change": -1.37
     },
     {
       "code": "CUMHURIYETALTINI",
       "name": "Cumhuriyet Altını",
-      "buy": 40803,
-      "sell": 41420,
-      "change": -0.06
+      "buy": 40453,
+      "sell": 41070,
+      "change": -0.85
     }
   ],
   "news": [
+    {
+      "title": "Bakan Yumaklı: Tarım ve Orman Bakanlığı 1.874 personel alacak",
+      "url": "https://www.tarimpusulasi.com/haber/bakan-yumakli-tarim-ve-orman-bakanligi-1874-personel-alacak-47068",
+      "source": "Tarım Pusulası",
+      "date": "2026-07-16",
+      "summary": "Tarım ve Orman Bakanı İbrahim Yumaklı, Bakanlığın taşra teşkilatında görevlendirilmek üzere 657 sayılı Devlet Memurları Kanunu'nun 4/B maddesi kapsamında 1.874 sözleşmeli personel alımı sürecinin başlatıldığını açıkladı. Alımların en büyük bölümünü veteriner hekim ve ziraat mühendisi kadroları oluşt",
+      "content": "ANKARA — Tarım ve Orman Bakanı İbrahim Yumaklı, Tarım ve Orman Bakanlığının taşra teşkilatında görevlendirilmek üzere 657 sayılı Devlet Memurları Kanunu'nun 4/B maddesi kapsamında toplam 1.874 sözleşmeli personel alımı sürecinin başlatıldığını duyurdu.\n\nSosyal medya hesabından açıklama yapan Bakan Yumaklı, \"Tarım ve Orman Bakanlığı ailemizi büyütmeye devam ediyoruz. Bakanlığımızın gücüne güç katacak 1.874 personel alımı sürecini başlatıyoruz. Ülkemizin dört bir yanında üretime ve üreticiye hizmet edecek yeni çalışma arkadaşlarımıza şimdiden başarılar diliyorum. Hayırlı olsun.\" ifadelerini kullandı.\n\nBakanlığın paylaştığı görsele göre personel alımı, Bakanlığın taşra teşkilatında istihdam edilmek üzere gerçekleştirilecek.\n\nAlım yapılacak kadrolar arasında en yüksek kontenjan 645 veteriner hekim için ayrıldı. Bunu 515 ziraat mühendisi ile 239 destek personeli izledi.\n\nKontenjan dağılımında ayrıca;\n\n185 gıda mühendisi\n\n73 koruma ve güvenlik görevlisi\n\n60 büro personeli\n\n49 su ürünleri mühendisi\n\n45 harita (alan) mühendisi\n\n23 gemi adamı\n\n13 avukat\n\n9 laborant\n\n7 biyolog\n\n6 balıkçılık teknolojisi mühendisi\n\n5 kimyager\n\nkadroları yer aldı.\n\nToplam kontenjanın yaklaşık yüzde 34,4'ünü veteriner hekimler, yüzde 27,5'ini ziraat mühendisleri, yüzde 12,2'sini ise destek personeli oluşturdu. Veteriner hekim ve ziraat mühendisi kadroları birlikte değerlendirildiğinde, toplam alımların yaklaşık yüzde 62'si bu iki meslek grubuna ayrıldı.\n\nPersonel alımının başvuru takvimi, başvuru şartları ve tercih sürecine ilişkin ayrıntıların ilgili resmi duyurularla ilan edilmesi bekleniyor.\n\nTARIM PUSULASI HABER MERKEZİ"
+    },
     {
       "title": "Giresun İl Tarım: Kırsal Kalkınma başvuruları yüzde 232 arttı",
       "url": "https://www.tarimpusulasi.com/haber/giresun-il-tarim-kirsal-kalkinma-basvurulari-yuzde-232-artti-47067",
@@ -91,7 +99,7 @@
       "url": "https://www.tarimdanhaber.com/tarim-kredide-mobbing-ve-yonetici-karakteri-tartismasi-eski-yoneticiden-dikkat-ceken-degerlendirmeler",
       "source": "Tarımdan Haber",
       "date": "2026-07-15",
-      "summary": "Tarım Kredi Kooperatiflerinde uzun yıllar çeşitli kademelerde görev yapan eski yönetici Hasan Yakup Cangüven, antalyasonhaber.com'da yayımlanan \"Tarım Kredi Kooperatifleri, Mobbing ve Yönetici Karakteri\" başlıklı yazısında, kurumlarda yönetim anlayışı, mobbing ve kurumsal kültüre ilişkin dikkat çeke",
+      "summary": "Tarım Kredi Kooperatiflerinde uzun yıllar çeşitli kademelerde görev yapan eski yönetici Hasan Yakup Cangüven, antalyasonhaber'de yayımlanan \"Tarım Kredi Kooperatifleri, Mobbing ve Yönetici Karakteri\" başlıklı yazısında, kurumlarda yönetim anlayışı, mobbing ve kurumsal kültüre ilişkin dikkat çeken de",
       "content": "Haber Merkezi / Hasan Yakup Cangüven, yazısında Tarım Kredi Kooperatifleri'nde zaman zaman mobbing ve yönetim anlayışına ilişkin çeşitli iddiaların kamuoyuna yansıdığını belirterek, değerlendirmelerinde Tarımdan Haber'de yayımlanan haberlerin altındaki okuyucu yorumlarına da yer verdi.\n\nTarımdan Haber'deki yorumlarda \"korku ile yönetim\", \"baskıcı yönetim anlayışı\" ve kurum içindeki çalışma ortamına ilişkin çok sayıda eleştiriyle karşılaşıldığını ifade eden Cangüven, bu değerlendirmelerin kurum içinde farklı bakış açılarını ve çeşitli rahatsızlıkları yansıttığını dile getirdi.\n\n\"Tek başına delil değil, önemli bir geri bildirim\"\n\nCangüven, söz konusu yorumların tek başına hukuken ispatlanmış vakıalar olarak değerlendirilemeyeceğini özellikle vurguladı.\n\nBuna rağmen birbirinden bağımsız kişiler tarafından dile getirilen benzer içerikli değerlendirmelerin kurumsal kültür ve yönetim anlayışı açısından önemli geri bildirimler niteliği taşıdığını belirten Cangüven, güçlü kurumların eleştirileri bastırmak yerine şeffaflık, adalet ve hesap verebilirlik ilkeleri doğrultusunda değerlendirmesi gerektiğini ifade etti.\n\n\"Aidiyet baskıyla değil, güvenle oluşur\"\n\nCangüven'e göre, çalışanlardan gelen değerlendirmeler baskıcı yönetim anlayışının kurumsal aidiyet duygusunu zayıflattığını ortaya koyuyor.\n\nPsikolojik baskı altında çalışan personelin yöneticilerine karşı güven geliştiremeyeceğini belirten Cangüven, korku temelli yönetim anlayışlarının kısa vadede sessizlik oluşturabileceğini ancak uzun vadede kurum kültürünü zayıflatacağını savundu.\n\n\"Mobbing yöneticilik değildir\"\n\nYazısında mobbing konusuna da değinen Cangüven, çalışanlar üzerinde baskı kurmanın, yıldırmanın ve psikolojik baskıyı yönetim aracı olarak kullanmanın yöneticilik anlayışıyla bağdaşmadığını ifade etti.\n\nMobbingin yalnızca çalışan motivasyonunu değil, kurumsal verimliliği de olumsuz etkilediğini belirten Cangüven, bu tür uygulamaların hukuki sorumluluk doğurabileceğine dikkat çekti.\n\n\"Yönetici karakteri kurumun kaderini belirler\"\n\nCangüven, kurumsal başarının yalnızca mevzuatla değil, yöneticilerin karakteri ve yönetim anlayışıyla şekillendiğini belirtti.\n\nLiyakat, adalet, iletişim ve güven veren bir yönetim anlayışının kurumların en önemli sermayesi olduğunu ifade eden Cangüven, baskı ve korkuya dayalı yönetim anlayışlarının ise çalışan bağlılığını zayıflattığını ve kurumsal performansı olumsuz etkilediğini dile getirdi.\n\nAnonim okuyucu yorumlarında da benzer eleştirilerin yer aldığına dikkat çeken Cangüven, bazı yöneticilerin kurumu ortakların emaneti yerine kişisel nüfuz alanı olarak gördüğüne yönelik değerlendirmelerin bulunduğunu aktararak, bu tür yaklaşımların kurum kültürünü aşındırdığı yönündeki kaygıları paylaştı.\n\n\"Yöneticilik makam değil, güven oluşturabilmektir\"\n\nGeçmiş görevlerinden örnekler de paylaşan Cangüven, yöneticiliğin makamın sağladığı yetkiden çok çalışanların güvenini kazanabilme becerisi olduğunu ifade etti.\n\nÇalışanlara saygının, sağlıklı iletişimin ve ekip ruhunun başarılı kurumların temelini oluşturduğunu belirten Cangüven, yazısını şu mesajla tamamladı:\n\n\"Güçlü kurumlar güçlü yöneticilerle değil, güçlü kurum kültürüyle ayakta kalır.\"\n\nHasan Yakup Cangüven'in makalesinin tamamına ulaşmak için → Tarım Kredi Kooperatifleri, mobbing ve yönetici karakteri"
     },
     {
@@ -125,14 +133,6 @@
       "date": "2026-07-15",
       "summary": "Türkiye'de soğan fiyatlarındaki yükseliş nedeniyle ithalat vergisi düşürülerek dış alımın önü açılırken, İspanya'nın Sevilla kentinde bir çiftçi ürününü kilogramı 13 euro sente satamadığı için 200 tondan fazla soğanı ücretsiz dağıtmaya başladı. Üretici, hasat maliyetini bile karşılayamayınca tarlası",
       "content": "Haber Merkezi / Türkiye'de soğan fiyatlarının yükselmesi üzerine hükümet ithalat vergisini düşürerek dış alımı kolaylaştırırken, Avrupa'dan gelen bir haber tarım piyasalarındaki çarpıcı fiyat farkını gözler önüne serdi.\n\nİspanya'nın Sevilla kentindeki Lebrija bölgesinde üretim yapan çiftçi Juan Manuel Romero, yetiştirdiği 200 tondan fazla soğanı satacak karlı bir pazar bulamayınca ürünlerini ücretsiz dağıtmaya başladı.\n\nKilogramı 13 euro sente alıcı bulamadı\n\n3,25 hektarlık alanda soğan üretimi yapan Romero, hasat döneminde ürününe teklif edilen fiyatın kilogram başına sadece 13 euro sent olduğunu belirtti.\n\nBu fiyatın hasat, işçilik ve nakliye maliyetlerini dahi karşılamadığını ifade eden çiftçi, ürünleri toprağa gömmek yerine sosyal medya üzerinden çağrı yaparak vatandaşları tarlasına davet etti.\n\nBölgede yaşayan vatandaşlar günlerdir tarlaya giderek istedikleri kadar soğanı ücretsiz alabiliyor.\n\n\"Hasat masrafını bile karşılamıyor\"\n\nRomero, yalnızca bir hektarlık alanın hasadı için yaklaşık 25 işçinin birkaç gün çalışması gerektiğini belirterek, kilogramı 13 euro sentten satış yapmanın ekonomik olarak mümkün olmadığını söyledi.\n\nVatandaşlardan tek isteğinin ise tarlayı temiz bırakmaları ve plastik gibi atıkları araziye bırakmamaları olduğunu ifade etti.\n\nMarkette 60 sent, üreticide 13 sent\n\nCOAG Andalucía İşlenmiş Ürünler Bölümü Başkanı Diego Bellido da bu yıl yaşanan olumsuz hava koşullarının üreticileri zor durumda bıraktığını söyledi.\n\nBellido, marketlerde soğanın kilogramının yaklaşık 60 euro sente satıldığını, buna karşın üreticinin sadece 13 euro sent alabildiğini belirterek, aradaki fiyat farkının çiftçiye hiçbir şekilde yansımadığını ifade etti.\n\n\"Sonuçta kaybeden hem maliyetinin altında satış yapmak zorunda kalan üretici hem de yüksek fiyat ödeyen tüketici oluyor.\" diyen Bellido, tarımsal pazarlama zincirindeki dengesizliğe dikkat çekti.\n\nTürkiye'de ithalat kararı\n\nTürkiye'de ise son dönemde soğan fiyatlarında yaşanan yükseliş gerekçe gösterilerek ithalat vergisi düşürüldü ve dış alımın önü açıldı. İspanya'da üreticinin ürününü maliyetinin altında satamayıp ücretsiz dağıtmak zorunda kalması, tarım piyasalarında üretici fiyatı ile tüketici fiyatı arasındaki makasın yalnızca Türkiye'de değil Avrupa'da da önemli bir sorun olmaya devam ettiğini ortaya koydu.\n\nKaynak: https://agroinformacion.com/"
-    },
-    {
-      "title": "Fire bitti, kesim ücreti başladı! Üretici beklediğini bulamadı",
-      "url": "https://www.tarimdanhaber.com/fire-bitti-kesim-ucreti-basladi-uretici-bekledigini-bulamadi",
-      "source": "Tarımdan Haber",
-      "date": "2026-07-15",
-      "summary": "Tarım ve Orman Bakanlığının mezbahalarda uygulanan yüzde 2 fire kesintisini kaldırma kararı, üreticinin gelirini artırmadı. HAYKOOP Başkanı Faruk Özen, birçok mezbaha ve kasabın kaldırılan fireyi bu kez kesim ücretlerine kilo bazında yansıttığını belirterek, \"Üreticinin eline geçen para değişmedi\" d",
-      "content": "Haber Merkezi / Tarım ve Orman Bakanlığının mezbahalarda uygulanan yüzde 2 fire kesintisini kaldırmasına rağmen, üreticinin beklediği gelir artışı gerçekleşmedi.\n\nBalıkesir Bölgesi Hayvancılık Kooperatifleri Birliği (HAYKOOP) Başkanı Faruk Özen, sosyal medya hesabından yaptığı açıklamada, uygulamanın sahada farklı bir şekilde hayata geçirildiğini belirterek, kaldırılan fire kesintisinin bu kez kesim ücretlerine yansıtıldığını ifade etti.\n\n\"Fire kaldırıldı, kesim ücretine eklendi\"\n\nÖzen, mezbahalarda kantar üzerinden uygulanan yüzde 2 fire kesintisinin kaldırıldığını ancak birçok mezbaha ve kasabın bu farkı kesim ücretlerine kilo bazında eklediğini söyledi.\n\nUygulamanın üretici lehine bir sonuç doğurmadığını belirten Özen, şu değerlendirmeyi yaptı:\n\n\"Kantarda yüzde 2 fire kaldırıldı ancak fiyat yüzde 2 geri geldi. Uygulama üreticiye yaramadı. Fire kesintisi kaldırılmış olsa da bunun bedeli farklı şekilde üreticiye yansıtıldı. Sonuçta üreticinin eline geçen gelir değişmedi.\"\n\nESK'nin fiyat politikası için uyarı\n\nÖzen, açıklamasında Et ve Süt Kurumunun (ESK) piyasaya yönelik regülasyon politikasına da değinerek, mevcut ekonomik koşullarda sabit fiyat uygulamasının uzun süre sürdürülmesinin üretici açısından risk oluşturabileceğini dile getirdi.\n\nYem, işçilik ve diğer üretim maliyetlerinin her ay yükseldiğine dikkat çeken Özen, regülasyon politikalarının piyasa gerçekleri dikkate alınarak güncellenmesi gerektiğini söyledi.\n\n\"Mevcut ekonomik şartlarda fiyat çizgisini çok fazla uzatmanın faydadan çok zarar getireceğini düşünüyoruz. Yem, işçilik ve diğer üretim maliyetleri sürekli yükseliyor. Bu nedenle regülasyon ayarlarının piyasa gerçekleri dikkate alınarak dengeli şekilde yürütülmesi gerekiyor.\"\n\nBakanlık yeniden harekete geçti\n\nEdinilen bilgilere göre, Faruk Özen'in piyasada ticaretin yeniden canlandırılması ve mezbahalardaki uygulamalara ilişkin yaptığı değerlendirmelerin ardından Tarım ve Orman Bakanlığı konuyu yeniden gündemine aldı.\n\nSektör kaynaklarından edinilen bilgilere göre Bakanlığın, mezbahalarda üretici aleyhine oluşan yeni fiyatlama uygulamalarını değerlendirdiği ve kesim ücretlerine ilişkin düzenlemeler konusunda yeniden çalışma başlattığı ifade ediliyor."
     }
   ],
   "commoditiesByBorsa": {
@@ -330,7 +330,6 @@
   "note": "Fiyatlar TOBB ticaret borsasından (borsa seçilebilir). Kanola manuel (Trakya 2025).",
   "inputsNote": "Mazot: akaryakıt bayi fiyatı, günlük (şehir seçilebilir). Gübre: manuel (yaklaşık).",
   "errors": [
-    "fx: fetch failed",
     "mazot ANKARA: fetch failed",
     "mazot ISTANBUL: fetch failed",
     "mazot IZMIR: fetch failed",
