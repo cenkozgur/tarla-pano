@@ -1,26 +1,26 @@
 {
-  "updatedAt": "2026-07-16T04:26:48.338Z",
+  "updatedAt": "2026-07-16T07:01:18.468Z",
   "fx": [
     {
       "code": "USD",
       "name": "Dolar",
-      "buy": 47.04,
-      "sell": 47.05,
-      "change": 0
+      "buy": 47.05,
+      "sell": 47.06,
+      "change": 0.03
     },
     {
       "code": "EUR",
       "name": "Euro",
-      "buy": 54,
-      "sell": 54.08,
-      "change": 0.17
+      "buy": 54.07,
+      "sell": 54.09,
+      "change": 0.25
     },
     {
       "code": "GRA",
       "name": "Gram Altın",
-      "buy": 6100.35,
-      "sell": 6101.23,
-      "change": -0.65
+      "buy": 6098,
+      "sell": 6098.97,
+      "change": -0.69
     },
     {
       "code": "CEYREKALTIN",
@@ -38,6 +38,14 @@
     }
   ],
   "news": [
+    {
+      "title": "Pamukta Türkiye'nin son durumu: Verimlilik rekoru, ithalat gerçeği",
+      "url": "https://www.tarimdanhaber.com/pamukta-turkiyenin-son-durumu-verimlilik-rekoru-ithalat-gercegi",
+      "source": "Tarımdan Haber",
+      "date": "2026-07-16",
+      "summary": "USDA'nın Temmuz 2026 pamuk raporu, küresel üretimde toparlanmaya işaret ederken Türkiye dikkat çekici bir başarıya imza attı. Ekim alanları daralmasına rağmen hektar başına 1.861 kilogram verimle dünyanın en yüksek verimlilik performanslarından birini yakalayan Türkiye, buna karşın güçlü tekstil san",
+      "content": "Haber Merkezi / Tarım politikaları uzmanı Ergin Kahveci'nin değerlendirmesine göre, USDA'nın Temmuz 2026 Dünya Pamuk Arz ve Talep Raporu küresel pamuk piyasasında önemli değişimlere işaret ediyor.\n\nRapora göre dünya pamuk üretimi Brezilya, ABD ve Türkiye'deki üretim artışlarının etkisiyle 117,3 milyon balyaya (25,53 milyon ton) yükseltildi.\n\nBu artışta Türkiye'nin özel bir yeri bulunduğunu belirten Kahveci, ekim alanları küçülmesine rağmen hektar başına 1.861 kilogram verim elde edilmesinin önemli bir başarı olduğunu vurguladı.\n\nAlan küçüldü, verim arttı\n\nKahveci'ye göre Türkiye'nin başarısı üretim alanlarını genişletmekten değil, birim alandan daha fazla ürün almaktan kaynaklanıyor.\n\nSon yıllarda artan üretim maliyetleri nedeniyle pamuk ekim alanlarında daralma yaşanırken, yüksek verim sayesinde üretimde önemli bir kayıp yaşanmadı.\n\nBu durum Türkiye'nin küresel arz artışına katkı sağlayan ülkeler arasında yer almasını sağladı.\n\nVerimlilik rekoru ithalatı durdurmaya yetmiyor\n\nAncak Kahveci'ye göre raporun en dikkat çekici yönü üretimdeki başarıya rağmen ithalat ihtiyacının devam etmesi.\n\nTürkiye'nin tekstil ve hazır giyim sanayisinin yıllık yaklaşık 6,8 milyon balyalık (1,48 milyon ton) pamuk tüketimi, yerli üretimin oldukça üzerinde bulunuyor.\n\nBu nedenle Türkiye'nin pamuk ithalatının 4,8 milyon balyaya (1,04 milyon ton) ulaşması bekleniyor.\n\nBu rakam, küresel pamuk ticaretinin yüzde 11'inden fazlasının tek başına Türkiye tarafından gerçekleştirileceğini ortaya koyuyor.\n\nTekstil sektörü üretimin önünde gidiyor\n\nKahveci, bunun aslında Türkiye açısından bir üretim başarısızlığı değil, sanayi kapasitesinin tarımsal üretimin önünde büyümesinin sonucu olduğunu belirtiyor.\n\nTürkiye, dünyanın en önemli tekstil üreticileri arasında yer alırken, sanayinin ihtiyaç duyduğu lif pamuğun tamamını yerli üretimle karşılayamıyor.\n\nDolayısıyla yüksek verimliliğe rağmen ithalat zorunluluğu devam ediyor.\n\nKüresel dengeler değişiyor\n\nUSDA verilerine göre Brezilya ve ABD küresel ihracatta lider konumlarını koruyor.\n\nİki ülkenin toplam ihracat kapasitesi 27,3 milyon balyaya (5,95 milyon ton) ulaşırken, küresel talebin önemli bölümü ise Vietnam ve Bangladeş gibi Asya ülkelerinden geliyor.\n\nDünya pamuk stoklarının 71,2 milyon balyaya (15,51 milyon ton) yükselmesi ise kısa vadede arz güvenliğinin güçlendiğine işaret ediyor."
+    },
     {
       "title": "Soğanda ithalat kararı, Ulusal Tarım Master Planı tartışmasını yeniden gündeme taşıdı",
       "url": "https://www.tarimdanhaber.com/soganda-ithalat-karari-ulusal-tarim-master-plani-tartismasini-yeniden-gundeme-tasidi",
@@ -93,14 +101,6 @@
       "date": "2026-07-15",
       "summary": "Tarım ve Orman Bakanlığı Hayvancılık Genel Müdürlüğü (HAYGEM) tarafından yürütülen proje kapsamında üreticilere yüzde 75 hibe desteğiyle süt sağım makinesi verilecek. İlk etapta 100 yetiştiriciyi kapsayan proje için başvurular alınmaya başlandı.",
       "content": "Haber Merkezi / Tarım ve Orman Bakanlığı Hayvancılık Genel Müdürlüğü (HAYGEM), süt üretiminde hijyen ve verimliliği artırmak amacıyla yeni bir hibe projesini hayata geçirdi.\n\n\"Modern Sağım, Güçlü Üretici: Büyükbaş Hayvancılıkta Süt Hijyeni Projesi\" kapsamında üreticilere yüzde 75 hibe desteğiyle çift sağım özellikli seyyar süt sağım makinesi dağıtılacak.\n\nİlk etapta proje kapsamında 100 adet süt sağım makinesi üreticilere teslim edilecek.\n\nAmaç süt kalitesini ve üretici gelirini artırmak\n\nProjeyle;\n\nSüt sağımının modernleştirilmesi,\n\nSüt hijyeninin artırılması,\n\nHayvan sağlığının korunması,\n\nİş gücü maliyetlerinin azaltılması,\n\nÜreticinin gelir seviyesinin yükseltilmesi\n\nhedefleniyor.\n\nKimler başvurabilecek?\n\nProjeye başvuracak üreticilerde şu şartlar aranıyor:\n\nTürkiye Cumhuriyeti vatandaşı olmak,\n\nZonguldak'ta ikamet etmek,\n\nS.S. Nebioğlu ve Çevre Köyleri Tarımsal Kalkınma Kooperatifi ortağı olmak.\n\nEn az 12 aydır S.S. Nebioğlu ve Çevre Köyleri Tarımsal Kalkınma Kooperatifi’ne süt veriyor olmak.\n\nDaha önce Bakanlık destekleri kapsamında süt sağım makinesi almamış olmak,\n\nAdli sicil kaydında yüz kızartıcı suçlardan kesinleşmiş mahkûmiyet bulunmamak.\n\nBaşvurular, Çaycuma İlçe Tarım ve Orman Müdürlüğü aracılığıyla kabul ediliyor.\n\nBaşvurular 22 Temmuz'a kadar sürecek\n\nBaşvurular 13-22 Temmuz 2026 tarihleri arasında yapılacak.\n\nBaşvuruların ardından oluşturulacak komisyon tarafından puanlama yapılacak ve en yüksek puanı alan 100 yetiştirici hibe desteğinden yararlanacak.\n\nAsil liste 3 Ağustos'ta ilan edilirken, kesin hak sahipleri 7 Ağustos'ta açıklanacak.\n\nMakineler Eylül ayında teslim edilecek\n\nProjeden yararlanmaya hak kazanan yetiştiricilere süt sağım makinelerinin Eylül ayında teslim edilmesi planlanıyor.\n\nDestek alan üreticiler ise teslim aldıkları makineleri iki yıl boyunca satmayacaklarına ilişkin taahhütname imzalayacak.\n\nDiğer illerde de benzer projeler uygulanabiliyor\n\nHAYGEM tarafından yürütülen bu tür projeler zaman zaman farklı illerde de uygulanabiliyor. Yetkililer, büyükbaş hayvancılık yapan üreticilerin İl ve İlçe Tarım ve Orman Müdürlükleri tarafından yayımlanan hibe ve proje duyurularını düzenli takip etmelerini öneriyor."
-    },
-    {
-      "title": "Çiftçinin tarlasını etkileyen kararlar burada alınıyor! Bitkisel Üretim Genel Müdürlüğü ne yapıyor?",
-      "url": "https://www.tarimdanhaber.com/ciftcinin-tarlasini-etkileyen-kararlar-burada-aliniyor-bitkisel-uretim-genel-mudurlugu-ne-yapiyor",
-      "source": "Tarımdan Haber",
-      "date": "2026-07-15",
-      "summary": "Çiftçinin ektiği üründen kullandığı tohuma, üretim planlamasından gübre ve bitki koruma uygulamalarına kadar birçok konuda kararların alındığı adreslerden biri Bitkisel Üretim Genel Müdürlüğü. Tarım ve Orman Bakanlığı bünyesinde faaliyet gösteren bu genel müdürlük, Türkiye'de bitkisel üretimin planl",
-      "content": "Haber Merkezi / Türkiye'de hububat, ayçiçeği, mısır, pamuk, sebze ve meyve başta olmak üzere bitkisel üretime ilişkin birçok politika, Tarım ve Orman Bakanlığı Bitkisel Üretim Genel Müdürlüğü tarafından hazırlanıyor. Üretim planlamasından tarım havzalarına, sertifikalı tohum kullanımından sürdürülebilir üretim modellerine kadar geniş bir görev alanına sahip olan genel müdürlük, milyonlarca üreticiyi yakından ilgilendiren çalışmalara imza atıyor.\n\nÜretim planlamasının merkezinde yer alıyor\n\nSon yıllarda uygulamaya alınan üretim planlaması modeli, Bitkisel Üretim Genel Müdürlüğünün en önemli çalışma alanlarından biri haline geldi.\n\nHangi ürünün hangi bölgede destekleneceği, üretimin arz-talep dengesi gözetilerek yönlendirilmesi ve tarım havzalarının etkin kullanılması gibi çalışmalar bu genel müdürlüğün koordinasyonunda yürütülüyor.\n\nÇiftçinin kullandığı tohum ve üretim teknolojilerini yakından ilgilendiriyor\n\nBitkisel üretimde verimliliğin artırılması amacıyla kullanılan tohumlar, üretim teknikleri ve bazı tarımsal girdilere ilişkin standartların belirlenmesi de genel müdürlüğün görevleri arasında bulunuyor.\n\nBu kapsamda üretimde kaliteyi ve verimliliği artıracak uygulamaların yaygınlaştırılması hedefleniyor.\n\nTarım havzalarının planlanmasını yürütüyor\n\nBitkisel Üretim Genel Müdürlüğü, Türkiye'de uygulanan tarım havzaları modelinin işleyişini de koordine ediyor.\n\nHavza bazlı üretim modeliyle, iklim, toprak yapısı ve su kaynakları dikkate alınarak belirli ürünlerin uygun bölgelerde yetiştirilmesi amaçlanıyor. Bu sistem aynı zamanda tarımsal destekleme politikalarının şekillenmesinde de önemli rol oynuyor.\n\nÇayır ve meraların korunmasında da görev alıyor\n\nGenel müdürlüğün görev alanı yalnızca tarla bitkileriyle sınırlı değil.\n\nÇayır, mera, yaylak ve kışlakların korunması, ıslah edilmesi ve sürdürülebilir şekilde kullanılması için yürütülen çalışmalar da bu birimin sorumluluğunda bulunuyor.\n\nBu çalışmalar, özellikle hayvancılık yapan üreticiler açısından önem taşıyor.\n\nÇevreyi gözeten üretim modellerini geliştiriyor\n\nBitkisel Üretim Genel Müdürlüğü, insan sağlığını ve ekolojik dengeyi gözeten üretim modellerinin geliştirilmesi ve yaygınlaştırılması için de çalışmalar yürütüyor.\n\nAyrıca tarımsal faaliyetlerden kaynaklanabilecek çevresel etkilerin azaltılması amacıyla ilgili kurumlarla koordinasyon sağlıyor.\n\nÇiftçi bu genel müdürlüğü neden bilmeli?\n\nBitkisel Üretim Genel Müdürlüğünün aldığı veya hazırladığı birçok düzenleme, üreticinin tarladaki faaliyetlerini doğrudan etkiliyor.\n\nÖzellikle;\n\nüretim planlaması,\n\ntarım havzaları modeli,\n\nbitkisel üretim politikaları,\n\nsertifikalı tohum uygulamaları,\n\nverimliliği artırmaya yönelik projeler,\n\nsürdürülebilir üretim çalışmaları\n\nbu genel müdürlüğün görev alanında yer alıyor.\n\nBu nedenle ekim yapan her üretici, farkında olmasa da Bitkisel Üretim Genel Müdürlüğünün hazırladığı politika ve uygulamalardan doğrudan etkileniyor."
     },
     {
       "title": "Tarım Reformu GM, 12 ilde yapay zekâ destekli ürün izlemeyi değerlendirdi",
