@@ -1,32 +1,32 @@
 {
-  "updatedAt": "2026-07-17T06:04:48.656Z",
+  "updatedAt": "2026-07-17T08:23:49.126Z",
   "fx": [
     {
       "code": "USD",
       "name": "Dolar",
-      "buy": 47.16,
-      "sell": 47.17,
-      "change": 0.14
+      "buy": 471593,
+      "sell": 471704,
+      "change": 14
     },
     {
       "code": "EUR",
       "name": "Euro",
-      "buy": 53.99,
-      "sell": 54.02,
-      "change": -0.03
+      "buy": 539827,
+      "sell": 539917,
+      "change": -6
     },
     {
       "code": "GRA",
       "name": "Gram Altın",
-      "buy": 6048.96,
-      "sell": 6049.82,
-      "change": 0.47
+      "buy": 605429,
+      "sell": 605521,
+      "change": 56
     },
     {
       "code": "CEYREKALTIN",
       "name": "Çeyrek Altın",
-      "buy": 9689.77,
-      "sell": 9911.57,
+      "buy": 968977,
+      "sell": 991157,
       "change": 0
     },
     {
@@ -34,10 +34,18 @@
       "name": "Cumhuriyet Altını",
       "buy": 40473,
       "sell": 41090,
-      "change": -0.8
+      "change": -8
     }
   ],
   "news": [
+    {
+      "title": "CHP'li Gürer: Borç Nedeniyle 18 Bin 557 Çiftçinin Elektriği Kesildi",
+      "url": "https://www.tarimpusulasi.com/haber/chpli-gurer-borc-nedeniyle-18-bin-557-ciftcinin-elektrigi-kesildi-47081",
+      "source": "Tarım Pusulası",
+      "date": "2026-07-17",
+      "summary": "CHP Niğde Milletvekili Ömer Fethi Gürer, Enerji ve Tabii Kaynaklar Bakanı Alparslan Bayraktar'ın TBMM'de verdiği yanıtı değerlendirerek, Bakanlığın paylaştığı verilere göre 2025 yılında borcu nedeniyle elektriği kesilen tarımsal sulama abonelerinin yaklaşık 18 bin 557'ye ulaştığını söyledi. Gürer, s",
+      "content": "ANKARA — CHP Niğde Milletvekili ve TBMM Tarım, Orman ve Köyişleri Komisyonu Üyesi Ömer Fethi Gürer, Enerji ve Tabii Kaynaklar Bakanı Alparslan Bayraktar'ın tarımsal sulamada kullanılan elektrik ve çiftçilerin elektrik borçlarına ilişkin TBMM'de verdiği yanıtı değerlendirdi. Gürer, Bakanlığın açıkladığı verilerin üreticilerin karşı karşıya olduğu ekonomik tabloyu ortaya koyduğunu belirtti.\n\nBakanlığın verdiği bilgilere göre, 2025 yılında tarımsal sulama abone sayısı 796 bin 391 olarak kaydedildi. Aynı yanıtta, borcu nedeniyle elektriği kesilen tarımsal sulama abonelerinin oranının yüzde 2,33 olduğu bildirildi.\n\nBu oran esas alındığında hesaplanan yaklaşık 18 bin 557 tarımsal sulama abonesinin elektriğinin borç nedeniyle kesildiğine dikkat çeken Gürer, söz konusu rakamın yalnızca istatistikten ibaret olmadığını, sulama yapamayan ve üretim süreci aksayan üreticileri temsil ettiğini ifade etti.\n\nGürer, tarımsal üretimde gübre, mazot, ilaç, tohum, işçilik ve sulama giderlerinin son yıllarda önemli ölçüde arttığını belirterek özellikle yeraltı suyuyla sulama yapan üreticiler açısından elektrik maliyetlerinin temel üretim girdileri arasında yer aldığını söyledi. Elektrik borcu nedeniyle yapılan kesintilerin üretim üzerinde olumsuz etkiler oluşturduğunu savundu.\n\nMilletvekili Gürer, TBMM soru önergesinde Enerji ve Tabii Kaynaklar Bakanlığına; tarımsal faaliyetlerde kullanılan elektrik faturalarında indirim planı bulunup bulunmadığını, çiftçilerin toplam elektrik borcu tutarını, borç nedeniyle yapılan elektrik kesintilerinin sayısını ve Tarım ve Orman Bakanlığı ile ortak bir destek çalışmasının planlanıp planlanmadığını sordu.\n\nEnerji ve Tabii Kaynaklar Bakanı Alparslan Bayraktar ise yanıtında, tarımsal faaliyetler abone grubunda uygulanan elektrik tarifesinin son yıllarda piyasa maliyetinin altında olduğunu ve 2026 yılında da düşük tarife uygulamasının sürdüğünü belirtti. Bakan ayrıca alçak gerilim seviyesinde tarımsal faaliyetler abone grubuna uygulanan nihai elektrik fiyatının 493,66 kuruş/kWh olduğunu ifade etti. Yanıtta, ihtiyaç duyulması halinde 6446 sayılı Elektrik Piyasası Kanunu kapsamında Cumhurbaşkanı kararıyla ilgili tüketici gruplarına bütçeden sübvansiyon sağlanabileceği de aktarıldı.\n\nGürer ise Bakanlığın elektrik tarifesinin piyasa maliyetinin altında uygulandığı yönündeki değerlendirmesinin üreticilerin ödeme güçlüğünü ortadan kaldırmadığını ileri sürdü. Elektrik borçlarının yapılandırılması, üretim döneminde kesintilerin önlenmesi ve tarımsal sulamada kullanılan elektriğe doğrudan destek verilmesi gerektiğini savunan Gürer, sulama sezonunda yaşanabilecek elektrik kesintilerinin üretim ve gıda arzı açısından risk oluşturabileceğini ifade etti.\n\nHaberde yer alan sayısal veriler, Enerji ve Tabii Kaynaklar Bakanlığı'nın TBMM soru önergesine verdiği resmi yanıtta belirtilen 796 bin 391 tarımsal sulama abonesi ile yüzde 2,33 kesinti oranı esas alınarak karşılaştırmalı biçimde değerlendirilmiştir. Bu hesaplamaya göre borç nedeniyle elektriği kesilen abone sayısı yaklaşık 18 bin 557 olarak ortaya çıkmaktadır.\n\nTARIM PUSULASI HABER MERKEZİ"
+    },
     {
       "title": "İYİ Partili Sunat'tan bal ormanlarındaki ücrete tepki",
       "url": "https://www.tarimpusulasi.com/haber/iyi-partili-sunattan-bal-ormanlarindaki-ucrete-tepki-47080",
@@ -119,14 +127,6 @@
       "content": "İSTANBUL — işletmelerin sertifikalarının iptal edilmesine ilişkin açıklamasında, kararın sağlık gerekçesiyle değil, ari işletme mevzuatında yer alan kriterlere uyulmaması nedeniyle alındığını bildirdi.\n\nAGRO TV'de yayınlanan AGRO TV ile Günaydın programında sunucu Taner Öztürk tarafından paylaşılan Bakan Yardımcısı Ahmet Gümen'in mesajında, Tarım ve Orman Bakanlığının rutin denetimler gerçekleştirdiği ve denetimler sonucunda bazı işletmelerde ari işletme mevzuatına aykırı uygulamalar tespit edildiği ifade edildi.\n\nMesajda, ari işletme içinde bulunmaması gereken hayvanların tespit edilmesi ve aynı ari işletme sınırları içerisinde ikinci bir işletme oluşturulması gibi nedenlerle bazı işletmelerin hastalıktan ari işletme sertifikalarının iptal edildiği belirtildi.\n\nAhmet Gümen'in açıklamasında, kamuoyunda oluşan yanlış algıya da dikkat çekildi. Mesajda, hastalıktan ari işletme sertifikasına sahip olmayan işletmelerin hastalıklı işletmeler olarak değerlendirilmesinin doğru olmadığı vurgulanırken, ari işletme statüsünün belirli biyogüvenlik ve idari kriterleri yerine getiren işletmelere verilen bir sertifikasyon sistemi olduğu hatırlatıldı.\n\nAçıklamada ayrıca, yürürlükteki mevzuat gereği hastalıktan ari işletme statüsüne sahip olmayan işletmelerin çiğ süt satışına ilişkin özel haklardan yararlanamadığı bilgisi de paylaşıldı.\n\nProgramın konuğu TÜSEDAD Yönetim Kurulu Başkanı Müslüm Doğru ise Ahmet Gümen'in açıklamasına ilişkin değerlendirmesinde, denetimlerde tespit edilen eksikliklerin giderilmesi için işletmelere önce süre verilmesi ve sertifikaların doğrudan iptal edilmesi yerine askıya alınmasının daha uygun olacağını ifade etti. Doğru, eksikliklerin tamamlanmasının ardından yeniden değerlendirme yapılmasının üreticilerin mağduriyetini azaltabileceğini dile getirdi. Bu değerlendirme Müslüm Doğru'nun kişisel görüşü olarak programda yer aldı.\n\nProgramda aktarılan bilgiler çerçevesinde, Bakanlığın açıklaması ile TÜSEDAD'ın değerlendirmesi arasında denetimlerin gerekliliği konusunda ortak yaklaşım bulunurken, görüş ayrılığı sertifikanın doğrudan iptal edilmesi yerine askıya alınması uygulaması üzerinde yoğunlaştı.\n\nTARIM PUSULASI HABER MERKEZİ"
     },
     {
-      "title": "TÜSEDAD Başkanı Ari İşletmelere Sağlanan Destekleri Açıkladı",
-      "url": "https://www.tarimpusulasi.com/haber/tusedad-baskani-ari-isletmelere-saglanan-destekleri-acikladi-47073",
-      "source": "Tarım Pusulası",
-      "date": "2026-07-16",
-      "summary": "TÜSEDAD Yönetim Kurulu Başkanı Müslüm Doğru, hastalıktan ari işletme sertifikasının yalnızca biyogüvenlik açısından değil, üreticilere sağlanan destekler bakımından da önemli avantajlar sunduğunu söyledi. Süt primi, buzağı desteği, çiğ süt satışı, Ziraat Bankası kredi imkanları ve TARSİM indirimleri",
-      "content": "İSTANBUL — TÜSEDAD Yönetim Kurulu Başkanı Müslüm Doğru, hastalıktan ari işletme sertifikasının üreticilere yalnızca biyogüvenlik ve kalite standartları kazandırmadığını, aynı zamanda çeşitli kamu desteklerinden daha avantajlı şekilde yararlanma imkânı sunduğunu belirtti. Doğru, sertifika sisteminin temel amacının işletmelerde düzenli üretim, hayvan sağlığı ve gıda güvenliğini teşvik etmek olduğunu söyledi.\n\nDesteklerin artırılmasının hedefi, ari işletme sayısını yükseltmek\n\nDoğru, hastalıktan ari işletmelere yönelik desteklerin özellikle Tarım ve Orman Bakanı İbrahim Yumaklı döneminde sadeleştirildiğini ve bu sayede daha fazla işletmenin sisteme dahil edilmesinin hedeflendiğini ifade etti. Konuşmasına göre, 2026 yılı sonuna kadar hastalıktan ari işletme sayısının 1.400-1.500 seviyesine çıkarılması amaçlanıyor. Bu hedef, programda dile getirilen bilgi olup resmi hedeflerin Bakanlık tarafından açıklanması esas kabul edilmelidir.\n\nSüt priminde dört kat avantaj\n\nProgramda verilen bilgilere göre, normal şartlarda litre başına 20 kuruş olan baz süt desteği, hastalıktan ari işletmeler için 80 kuruşa kadar çıkabiliyor. Doğru, bunun üreticiler açısından önemli bir ekonomik avantaj oluşturduğunu söyledi. Bu rakamlar konuşmada aktarılan bilgiler olup, yürürlükteki destekleme kararları dönemsel olarak değişebilmektedir.\n\nÇiğ süt satışı hakkı\n\nDoğru, geçmişte çiğ süt satışının genel olarak yasak olduğunu, ancak hastalıktan ari işletme sertifikasına sahip işletmelere belirli kurallar çerçevesinde çiğ süt satışı izni verildiğini anlattı.\n\nBuna göre çiğ sütün;\n\nsoğuk zincirde taşınması,\n\nambalajlı olması,\n\nsağım tarihi ve saatinin belirtilmesi,\n\nson tüketim bilgisinin yer alması,\n\nbelirlenen kurallara uygun şekilde pazarlanması\n\ngerekiyor. Doğru, uygulamanın temel amacının tüketicinin güvenli gıdaya erişimini sağlamak olduğunu ifade etti.\n\nBuzağı desteklerinde önemli fark\n\nProgramda paylaşılan bilgilere göre hastalıktan ari işletmelerde doğan dişi buzağılara yönelik destekler de standart uygulamaya göre daha yüksek seviyede bulunuyor.\n\nDoğru, geçmiş yıllarda uygulanan kademeli sistemde desteklerin hayvan sayısına göre sınırlandığını, sonraki düzenlemelerle bu yapının değiştirildiğini anlattı. Destek miktarlarının ise ilgili yılın resmi destekleme kararlarına göre belirlendiğini hatırlattı.\n\nZiraat Bankası kredilerinde avantaj\n\nHastalıktan ari işletmelerin Ziraat Bankası tarafından kullandırılan hayvancılık kredilerinde de avantajlı konumda olduğunu belirten Doğru, bu işletmelere kredi faizlerinde yüzde 10 indirim uygulandığını söyledi.\n\nAyrıca yatırım ve işletme kredilerinde kredi üst limitlerinin de hastalıktan ari işletmeler lehine daha yüksek olduğunu ifade etti. Bu avantajın özellikle büyük ölçekli süt sığırcılığı işletmeleri açısından önemli finansman kolaylığı sağladığını dile getirdi.\n\nTARSİM primlerinde indirim\n\nDoğru, hayvanlarını geniş kapsamlı sigorta kapsamına alan hastalıktan ari işletmelerin TARSİM uygulamalarında da çeşitli prim avantajlarından yararlanabildiğini belirtti.\n\nBu uygulamanın hem üreticiyi teşvik ettiğini hem de risk yönetimini güçlendirdiğini ifade etti.\n\n\"Desteklerin amacı yalnızca ödeme yapmak değil\"\n\nDoğru, tüm bu desteklerin yalnızca üreticiye ilave gelir sağlamak amacı taşımadığını, asıl hedefin biyogüvenlik standartlarını yükseltmek, kayıt sistemini güçlendirmek ve güvenilir süt üretimini yaygınlaştırmak olduğunu söyledi.\n\nHastalıktan ari işletme sisteminin hem üreticinin rekabet gücünü artırdığını hem de tüketiciye güvenli gıda sunulmasına katkı sağladığını vurguladı.\n\nTARIM PUSULASI HABER MERKEZİ"
-    },
-    {
       "title": "Tarım Bakanlığına 1.874 personel alınacak! En fazla kontenjan veteriner hekim ve ziraat mühendisine",
       "url": "https://www.tarimdanhaber.com/tarim-bakanligina-1874-personel-alinacak-en-fazla-kontenjan-veteriner-hekim-ve-ziraat-muhendisine",
       "source": "Tarımdan Haber",
@@ -143,19 +143,19 @@
           "key": "bugday",
           "name": "Buğday (ekmeklik)",
           "unit": "₺/kg",
-          "price": 13.85,
-          "change": 0,
+          "price": 14.1,
+          "change": 1.81,
           "source": "Edirne TB",
-          "date": "2026-07-08"
+          "date": "2026-07-17"
         },
         {
           "key": "arpa",
           "name": "Arpa",
           "unit": "₺/kg",
-          "price": 11.36,
-          "change": 0,
+          "price": 11.72,
+          "change": 3.17,
           "source": "Edirne TB",
-          "date": "2026-06-23"
+          "date": "2026-07-17"
         },
         {
           "key": "aycicegi",
@@ -244,19 +244,19 @@
       "key": "bugday",
       "name": "Buğday (ekmeklik)",
       "unit": "₺/kg",
-      "price": 13.85,
-      "change": 0,
+      "price": 14.1,
+      "change": 1.81,
       "source": "Edirne TB",
-      "date": "2026-07-08"
+      "date": "2026-07-17"
     },
     {
       "key": "arpa",
       "name": "Arpa",
       "unit": "₺/kg",
-      "price": 11.36,
-      "change": 0,
+      "price": 11.72,
+      "change": 3.17,
       "source": "Edirne TB",
-      "date": "2026-06-23"
+      "date": "2026-07-17"
     },
     {
       "key": "aycicegi",
