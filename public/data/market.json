@@ -1,26 +1,26 @@
 {
-  "updatedAt": "2026-07-17T20:14:15.580Z",
+  "updatedAt": "2026-07-17T21:08:12.068Z",
   "fx": [
     {
       "code": "USD",
       "name": "Dolar",
-      "buy": 471592,
-      "sell": 471668,
+      "buy": 471346,
+      "sell": 471901,
       "change": 13
     },
     {
       "code": "EUR",
       "name": "Euro",
-      "buy": 539679,
-      "sell": 539811,
-      "change": -8
+      "buy": 539345,
+      "sell": 540262,
+      "change": -7
     },
     {
       "code": "GRA",
       "name": "Gram Altın",
-      "buy": 607255,
-      "sell": 607343,
-      "change": 86
+      "buy": 609219,
+      "sell": 609303,
+      "change": 119
     },
     {
       "code": "CEYREKALTIN",
@@ -277,24 +277,24 @@
     }
   ],
   "dieselByCity": {
-    "ANKARA": 74.17,
-    "ISTANBUL": 73,
-    "IZMIR": 74.44,
-    "KONYA": 75.32,
-    "ADANA": 75,
-    "BURSA": 74.05,
-    "ANTALYA": 75.49,
-    "SAMSUN": 74.74,
-    "TEKIRDAG": 73.89,
-    "CANAKKALE": 74.8
+    "ANKARA": 74.24,
+    "ISTANBUL": 73.07,
+    "IZMIR": 74.51,
+    "KONYA": 75.39,
+    "ADANA": 75.07,
+    "BURSA": 74.12,
+    "ANTALYA": 75.56,
+    "SAMSUN": 74.81,
+    "TEKIRDAG": 73.96,
+    "CANAKKALE": 74.87
   },
   "inputs": [
     {
       "key": "motorin",
       "name": "Motorin (mazot)",
       "unit": "₺/lt",
-      "price": 74.8,
-      "change": 0,
+      "price": 74.87,
+      "change": 0.09,
       "source": "CANAKKALE ort."
     },
     {
@@ -328,8 +328,5 @@
   "defaultBorsa": "5ED10",
   "defaultCity": "CANAKKALE",
   "note": "Fiyatlar TOBB ticaret borsasından (borsa seçilebilir). Kanola manuel (Trakya 2025).",
-  "inputsNote": "Mazot: akaryakıt bayi fiyatı, günlük (şehir seçilebilir). Gübre: manuel (yaklaşık).",
-  "errors": [
-    "fx: fetch failed"
-  ]
+  "inputsNote": "Mazot: akaryakıt bayi fiyatı, günlük (şehir seçilebilir). Gübre: manuel (yaklaşık)."
 }
