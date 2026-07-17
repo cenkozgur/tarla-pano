@@ -1,43 +1,51 @@
 {
-  "updatedAt": "2026-07-17T08:23:49.126Z",
+  "updatedAt": "2026-07-17T10:18:28.247Z",
   "fx": [
     {
       "code": "USD",
       "name": "Dolar",
-      "buy": 471593,
-      "sell": 471704,
+      "buy": 471632,
+      "sell": 471666,
       "change": 14
     },
     {
       "code": "EUR",
       "name": "Euro",
       "buy": 539827,
-      "sell": 539917,
+      "sell": 539933,
       "change": -6
     },
     {
       "code": "GRA",
       "name": "Gram Altın",
-      "buy": 605429,
-      "sell": 605521,
-      "change": 56
+      "buy": 605935,
+      "sell": 606027,
+      "change": 64
     },
     {
       "code": "CEYREKALTIN",
       "name": "Çeyrek Altın",
-      "buy": 968977,
-      "sell": 991157,
-      "change": 0
+      "buy": 969422,
+      "sell": 991823,
+      "change": 7
     },
     {
       "code": "CUMHURIYETALTINI",
       "name": "Cumhuriyet Altını",
-      "buy": 40473,
-      "sell": 41090,
-      "change": -8
+      "buy": 40163,
+      "sell": 40780,
+      "change": -75
     }
   ],
   "news": [
+    {
+      "title": "Manisa'nın 150 Yıllık Ata Tohumu Emcelli Biberi Üreticiye Kazandırıyor",
+      "url": "https://www.tarimpusulasi.com/haber/manisanin-150-yillik-ata-tohumu-emcelli-biberi-ureticiye-kazandiriyor-47082",
+      "source": "Tarım Pusulası",
+      "date": "2026-07-17",
+      "summary": "Manisa İl Tarım ve Orman Müdürü Mehmet Karayılan, Sarıgöl ilçesindeki coğrafi işaret tescilli Emcelli Biberi üretim alanlarını ziyaret ederek hasat çalışmalarını yerinde inceledi. Ata tohumundan yetiştirilen ürünün üretim süreci, verim durumu ve pazarlama koşulları hakkında üreticilerden bilgi alan ",
+      "content": "MANİSA — Manisa İl Tarım ve Orman Müdürü Mehmet Karayılan, Sarıgöl ilçesi programı kapsamında Türk Patent ve Marka Kurumu tarafından coğrafi işaretle tescillenen Emcelli Biberi'nin üretim alanlarını ziyaret ederek hasat çalışmalarını yerinde inceledi. Karayılan, üreticilerden yetiştiricilik süreci, verim durumu ve pazarlama hakkında bilgi aldı.\n\nKarayılan'a inceleme ziyaretinde İl Müdür Yardımcısı Serdar Mersinli ile Sarıgöl İlçe Tarım ve Orman Müdürü Ahmet Akar da eşlik etti. Heyet, Emcelli Mahallesi'ndeki seralarda yürütülen hasat çalışmalarını üreticilerle birlikte değerlendirdi.\n\nÜretici, yaklaşık 150 yıllık geçmişe sahip olduğunu belirttiği Emcelli Biberi'nin ata tohumuyla yetiştirilmeye devam edildiğini ifade ederek, yerel genetik mirasın korunmasına önem verdiklerini söyledi. Üretici, ata tohumunun gelecek kuşaklara aktarılması amacıyla üretime aynı tohum materyaliyle devam ettiklerini dile getirdi.\n\nZiyaret sırasında yapılan açıklamalara göre üretici, 2026 yılı üretim sezonunda ilk fidelerin 21 Ocak'ta yaşanan soğuk hava nedeniyle zarar gördüğünü, ardından yeniden dikim yapıldığını ve ürünün Mayıs ayı başında pazara sunulduğunu belirtti.\n\nÜretici, Emcelli Biberi'nin sezonun ilk satışlarında kilogram fiyatının 400 lira olduğunu, ziyaret tarihi itibarıyla ise 200 lira seviyesinde işlem gördüğünü ifade etti. Böylece sezon başına göre ürün fiyatında yaklaşık yüzde 50'lik bir gerileme yaşandığı görüldü.\n\nVerim konusunda da bilgi veren üretici, serasında yaklaşık 1.500 kilogram ürün elde ettiğini söyledi. Ancak bu miktarın hangi üretim alanına veya sera büyüklüğüne ait olduğu paylaşılmadığından resmi verim ortalaması olarak değerlendirilmiyor.\n\nKarayılan ise ziyaret sırasında yaptığı değerlendirmede, İl ve İlçe Tarım ve Orman Müdürlüklerinin sahadaki çalışmalarını yerinde görmek amacıyla üreticileri ziyaret ettiklerini belirterek Tarım ve Orman Bakanı'nın selamlarını da üreticilere iletti. Resmî tatil olmasına rağmen Alaşehir ve Sarıgöl'de üzüm bağları ile biber üretim alanlarını ziyaret ettiklerini ifade eden Karayılan, üreticilere emekleri dolayısıyla teşekkür etti.\n\nManisa İl Tarım ve Orman Müdürlüğü tarafından yapılan açıklamada da Emcelli Biberi'nin yetiştiği mahalleden adını aldığı, kendine özgü acılığı, parlak rengi ve lezzetiyle Manisa ve çevresinde tanındığı belirtildi. Açıklamada, coğrafi işaret tescilinin ürünün katma değerini artırdığı, yerel genetik kaynakların korunmasına katkı sunduğu ve bölge üreticilerine ekonomik değer sağladığı vurgulandı.\n\nİl Müdürlüğü, coğrafi işaretli ürünlerin korunması, ata tohumlarının gelecek nesillere aktarılması ve sürdürülebilir tarımsal üretimin desteklenmesine yönelik çalışmaların kararlılıkla sürdürüldüğünü bildirdi.\n\nTARIM PUSULASI HABER MERKEZİ"
+    },
     {
       "title": "CHP'li Gürer: Borç Nedeniyle 18 Bin 557 Çiftçinin Elektriği Kesildi",
       "url": "https://www.tarimpusulasi.com/haber/chpli-gurer-borc-nedeniyle-18-bin-557-ciftcinin-elektrigi-kesildi-47081",
@@ -119,14 +127,6 @@
       "content": "İSTANBUL — TÜSEDAD Yönetim Kurulu Başkanı Müslüm Doğru, bazı hayvancılık işletmelerinde aynı çiftlik içerisinde birden fazla işletme oluşturulmasının geçmişte uygulanan destekleme sistemiyle bağlantılı olduğunu belirterek, bu yöntemin doğru bir uygulama olmadığını söyledi.\n\nAGRO TV'de yayınlanan AGRO TV ile Günaydın programında konuşan Doğru, geçmiş yıllarda buzağı desteklerinin belirli hayvan sayısına kadar tam, bu sınırın üzerinde ise kademeli olarak ödendiğini hatırlattı. Bu nedenle bazı üreticilerin aynı çiftlik içinde iki ayrı işletme kaydı oluşturarak desteklerden daha fazla yararlanmayı tercih ettiğini ifade etti.\n\nDoğru, farklı yerlerde bulunan işletmelerin ayrı işletme olarak değerlendirilmesinin doğal olduğunu ancak aynı çiftlik sınırları içerisinde ikinci bir işletme oluşturulmasının destek sisteminin ruhuna uygun olmadığını dile getirdi.\n\nUygulamanın yalnızca üreticiler açısından değerlendirilmemesi gerektiğini belirten Doğru, yıllardır bu işletmeleri denetleyen kamu görevlilerinin de bu yapıyı bildiğini ifade etti. Bazı üreticilerin, işletmelerini ilgili il veya ilçe müdürlüklerinin yönlendirmesi doğrultusunda bu şekilde kayıt altına aldıklarını söylediklerini aktaran Doğru, bu iddiaların da araştırılması gerektiğini kaydetti.\n\nDoğru, devlet desteklerinin kamu kaynaklarından karşılandığını hatırlatarak, destekleme sisteminin mevzuata uygun şekilde uygulanmasının hem üreticiler hem de kamu yönetimi açısından önemli olduğunu vurguladı. Destekleme kurallarının açık ve eşit biçimde uygulanmasının sektörde güveni artıracağını ifade etti.\n\nKonuşmasında, söz konusu uygulamanın geçmişte yaşanmış olmasının bugünkü denetimlerin önemini artırdığını belirten Doğru, bundan sonraki süreçte kayıt sistemlerinin daha şeffaf ve denetlenebilir hale gelmesinin hem sektör hem de kamu açısından olumlu sonuçlar doğuracağını söyledi.\n\nTARIM PUSULASI HABER MERKEZİ"
     },
     {
-      "title": "Bakan Yardımcısı Ahmet Gümen: Ari İşletme İptallerinin Gerekçesini Açıkladı",
-      "url": "https://www.tarimpusulasi.com/haber/bakan-yardimcisi-ahmet-gumen-ari-isletme-iptallerinin-gerekcesini-acikladi-47074",
-      "source": "Tarım Pusulası",
-      "date": "2026-07-16",
-      "summary": "Tarım ve Orman Bakan Yardımcısı Ahmet Gümen, Bursa'da hastalıktan ari işletme sertifikalarının iptal edilmesine ilişkin değerlendirmesinde, kararın mevzuatta yer alan ari işletme kriterlerine uyulmaması nedeniyle alındığını belirtti. Gümen, ari işletme belgesi bulunmayan işletmelerin hastalıklı olar",
-      "content": "İSTANBUL — işletmelerin sertifikalarının iptal edilmesine ilişkin açıklamasında, kararın sağlık gerekçesiyle değil, ari işletme mevzuatında yer alan kriterlere uyulmaması nedeniyle alındığını bildirdi.\n\nAGRO TV'de yayınlanan AGRO TV ile Günaydın programında sunucu Taner Öztürk tarafından paylaşılan Bakan Yardımcısı Ahmet Gümen'in mesajında, Tarım ve Orman Bakanlığının rutin denetimler gerçekleştirdiği ve denetimler sonucunda bazı işletmelerde ari işletme mevzuatına aykırı uygulamalar tespit edildiği ifade edildi.\n\nMesajda, ari işletme içinde bulunmaması gereken hayvanların tespit edilmesi ve aynı ari işletme sınırları içerisinde ikinci bir işletme oluşturulması gibi nedenlerle bazı işletmelerin hastalıktan ari işletme sertifikalarının iptal edildiği belirtildi.\n\nAhmet Gümen'in açıklamasında, kamuoyunda oluşan yanlış algıya da dikkat çekildi. Mesajda, hastalıktan ari işletme sertifikasına sahip olmayan işletmelerin hastalıklı işletmeler olarak değerlendirilmesinin doğru olmadığı vurgulanırken, ari işletme statüsünün belirli biyogüvenlik ve idari kriterleri yerine getiren işletmelere verilen bir sertifikasyon sistemi olduğu hatırlatıldı.\n\nAçıklamada ayrıca, yürürlükteki mevzuat gereği hastalıktan ari işletme statüsüne sahip olmayan işletmelerin çiğ süt satışına ilişkin özel haklardan yararlanamadığı bilgisi de paylaşıldı.\n\nProgramın konuğu TÜSEDAD Yönetim Kurulu Başkanı Müslüm Doğru ise Ahmet Gümen'in açıklamasına ilişkin değerlendirmesinde, denetimlerde tespit edilen eksikliklerin giderilmesi için işletmelere önce süre verilmesi ve sertifikaların doğrudan iptal edilmesi yerine askıya alınmasının daha uygun olacağını ifade etti. Doğru, eksikliklerin tamamlanmasının ardından yeniden değerlendirme yapılmasının üreticilerin mağduriyetini azaltabileceğini dile getirdi. Bu değerlendirme Müslüm Doğru'nun kişisel görüşü olarak programda yer aldı.\n\nProgramda aktarılan bilgiler çerçevesinde, Bakanlığın açıklaması ile TÜSEDAD'ın değerlendirmesi arasında denetimlerin gerekliliği konusunda ortak yaklaşım bulunurken, görüş ayrılığı sertifikanın doğrudan iptal edilmesi yerine askıya alınması uygulaması üzerinde yoğunlaştı.\n\nTARIM PUSULASI HABER MERKEZİ"
-    },
-    {
       "title": "Tarım Bakanlığına 1.874 personel alınacak! En fazla kontenjan veteriner hekim ve ziraat mühendisine",
       "url": "https://www.tarimdanhaber.com/tarim-bakanligina-1874-personel-alinacak-en-fazla-kontenjan-veteriner-hekim-ve-ziraat-muhendisine",
       "source": "Tarımdan Haber",
@@ -144,7 +144,7 @@
           "name": "Buğday (ekmeklik)",
           "unit": "₺/kg",
           "price": 14.1,
-          "change": 1.81,
+          "change": 0,
           "source": "Edirne TB",
           "date": "2026-07-17"
         },
@@ -153,7 +153,7 @@
           "name": "Arpa",
           "unit": "₺/kg",
           "price": 11.72,
-          "change": 3.17,
+          "change": 0,
           "source": "Edirne TB",
           "date": "2026-07-17"
         },
@@ -245,7 +245,7 @@
       "name": "Buğday (ekmeklik)",
       "unit": "₺/kg",
       "price": 14.1,
-      "change": 1.81,
+      "change": 0,
       "source": "Edirne TB",
       "date": "2026-07-17"
     },
@@ -254,7 +254,7 @@
       "name": "Arpa",
       "unit": "₺/kg",
       "price": 11.72,
-      "change": 3.17,
+      "change": 0,
       "source": "Edirne TB",
       "date": "2026-07-17"
     },
