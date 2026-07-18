@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-07-18T12:27:47.110Z",
+  "updatedAt": "2026-07-18T13:57:37.929Z",
   "fx": [
     {
       "code": "USD",
@@ -38,6 +38,22 @@
     }
   ],
   "news": [
+    {
+      "title": "Üretici TMO'ya seslendi: Bugün daha iyi fiyat bekliyoruz",
+      "url": "https://www.tarimpusulasi.com/haber/uretici-tmoya-seslendi-bugun-daha-iyi-fiyat-bekliyoruz-47090",
+      "source": "Tarım Pusulası",
+      "date": "2026-07-18",
+      "summary": "Toprak Mahsulleri Ofisi (TMO) Genel Müdürü Ahmet Güldal, Balıkesir Başmüdürlüğüne bağlı Susurluk Geçici Alım Merkezi'nde hububat alım çalışmalarını yerinde inceledi. Üreticilerle görüşen Güldal, ürün teslim süreci, verim ve alım fiyatlarına ilişkin değerlendirmeleri dinledi.",
+      "content": "BALIKESİR — Toprak Mahsulleri Ofisi (TMO) Genel Müdürü Ahmet Güldal, Balıkesir Başmüdürlüğüne bağlı Susurluk Ticaret Borsası sahasında bulunan Susurluk Geçici Alım Merkezi'ni ziyaret ederek hububat alım çalışmalarını yerinde inceledi.\n\nPrograma Susurluk Kaymakamı Turgut Gülen, Susurluk Ticaret Borsası Yönetim Kurulu Başkanı Sefer Göçer, siyasi parti temsilcileri, üreticiler ve sektör temsilcileri de katıldı.\n\nZiyaret kapsamında üretici Hüseyin Sargut ile sohbet eden Güldal, hasat dönemi, ürün teslim süreci, verim ve alım fiyatlarına ilişkin bilgi aldı.\n\nGüldal üreticinin görüşlerini dinledi\n\nÜretici Hüseyin Sargut, bu sezon şimdiye kadar yaklaşık 20 ton ürün teslim ettiğini belirterek kalan ürününü de TMO'ya getirdiğini söyledi.\n\nSargut, ürününün ilk bölümünü 14,40 TL alım fiyatıyla teslim ettiğini ifade ederken, yeni teslim edeceği ürünlerde fiyatın daha yüksek olmasını beklediğini dile getirdi.\n\nVerim durumuna ilişkin bilgi veren Sargut, arazilerinde dekara 500-550 kilogram arasında ürün aldıklarını, eğimli alanlarda ise sıcak hava nedeniyle verim kaybı yaşandığını söyledi.\n\nGüldal: \"Bereketli olsun\"\n\nÜreticinin değerlendirmelerini dinleyen TMO Genel Müdürü Ahmet Güldal, üretime ilişkin şu ifadeleri kullandı:\n\n\"İyi, bereketli olsun arkadaşım. Var mı bir isteğin?\"\n\nÜretici Hüseyin Sargut ise herhangi bir talebinin olmadığını belirterek TMO yetkililerine teşekkür etti.\n\nTARIM PUSULASI HABER MERKEZİ"
+    },
+    {
+      "title": "TMO, 14,9 milyar liralık hububat alım ödemesini tamamladı",
+      "url": "https://www.tarimpusulasi.com/haber/tmo-149-milyar-liralik-hububat-alim-odemesini-tamamladi-47089",
+      "source": "Tarım Pusulası",
+      "date": "2026-07-18",
+      "summary": "Toprak Mahsulleri Ofisi (TMO), 18-26 Haziran 2026 tarihleri arasında teslim edilen hububat ürünlerine ilişkin 14 milyar 942 milyon liralık alım bedelinin üreticilerin hesaplarına aktarıldığını açıkladı. Ödemesi tamamlanan üreticilere SMS ile bilgilendirme yapılırken, ödemelerin periyodik olarak süre",
+      "content": "ANKARA — Toprak Mahsulleri Ofisi (TMO), 2026 yılı hububat alım kampanyası kapsamında 18-26 Haziran 2026 tarihleri arasında teslim edilen ürünlere ilişkin alım bedellerinin ödenmeye devam ettiğini açıkladı.\n\nTMO'nun açıklamasına göre, söz konusu dönemde teslim edilen hububat ürünleri için 14 milyar 942 milyon lira üreticilerin hesaplarına aktarıldı.\n\nKurum, ödemesi tamamlanan üreticilere kısa mesaj (SMS) yoluyla bilgilendirme yapıldığını belirtirken, alım bedellerinin belirlenen takvim doğrultusunda periyodik olarak ödenmeye devam edeceğini bildirdi.\n\nHububat alım kampanyasında üreticilerin ürün teslim tarihine göre ödeme süreci aşamalı olarak yürütülüyor. TMO, önceki dönemlerde olduğu gibi ödemelerin belirlenen periyotlar halinde üreticilerin hesaplarına aktarılacağını duyurdu.\n\nTARIM PUSULASI HABER MERKEZİ"
+    },
     {
       "title": "Güldal: \"İthalata gerek yok, kendimize fazlasıyla yeteriz\"",
       "url": "https://www.tarimpusulasi.com/haber/guldal-ithalata-gerek-yok-kendimize-fazlasiyla-yeteriz-47088",
@@ -117,22 +133,6 @@
       "date": "2026-07-18",
       "summary": "Orman Genel Müdürlüğü'nün bal ormanlarında konaklayan arıcılardan kovan başına 100 TL “Arı Konaklatma Ekosistem Hizmet Bedeli” alınmasına yönelik düzenlemesi, gelen tepkiler üzerine ikinci bir talimata kadar ertelendi.",
       "content": "Haber Merkezi / Türkiye Arı Yetiştiricileri Merkez Birliği (TAB), konuyla ilgili yazılı açıklama yaparak, Orman Genel Müdürlüğü tarafından yayımlanan son talimat doğrultusunda, arıcılardan alınması öngörülen konaklama ücretine ilişkin “Bedeller” başlıklı hükümlerin uygulanmasının ikinci bir talimata kadar ertelendiği belirtildi.\n\nİYİ Partili Sunat Soru Önergesi Vermişti\n\nİYİ Parti Manisa Milletvekili Şenol Sunat, Orman Genel Müdürlüğü'nün bal ormanlarında konaklayan arıcılardan kovan başına 100 TL \"Arı Konaklatma Ekosistem Hizmet Bedeli\" alınmasına ilişkin uygulamayı verdiği soru önergesi ile TBMM gündemine taşımıştı.\n\nTAB: Uygulama ertelendi\n\nBirlik tarafından yapılan açıklamada şu ifadelere yer verildi:\n\n“Orman Genel Müdürlüğümüz tarafından yayımlanan son talimat doğrultusunda, arıcılarımızdan alınması öngörülen konaklama ücretine ilişkin ‘Bedeller’ başlıklı hükümlerin uygulanması, ikinci bir talimata kadar ertelenmiştir.”\n\nAçıklamada ayrıca, üreticilerin taleplerine gösterilen hassasiyet ve çözüm odaklı yaklaşım nedeniyle\n\nTarım ve Orman Bakanı İbrahim Yumaklı ile Orman Genel Müdürü Bekir Karacabey ’e teşekkür edildi.\n\nKovan başına 100 TL alınacaktı\n\nOrman Genel Müdürlüğü'nün yayımladığı talimat kapsamında, bal ormanlarında konaklayan arıcılardan kovan başına 100 TL “Arı Konaklatma Ekosistem Hizmet Bedeli” alınması öngörülüyordu.\n\nDüzenleme, özellikle gezginci arıcılık yapan üreticiler tarafından ek maliyet oluşturacağı gerekçesiyle eleştirilmişti. Sektör temsilcileri, arıcılığın zaten yüksek yem, nakliye, işçilik ve bakım maliyetleriyle mücadele ettiğini belirterek uygulamanın yeniden değerlendirilmesini talep etmişti.\n\nSüreç takip edilecek\n\nTürkiye Arı Yetiştiricileri Merkez Birliği, ilgili kurumlarla iş birliği ve diyalog içinde sürecin yakından takip edileceğini açıkladı.\n\nAçıklamada, üreticilerin görüş ve taleplerinin ilgili kurumlarla istişare edilerek değerlendirileceği ve çözüm odaklı çalışmaların sürdürüleceği ifade edildi.\n\nArıcılar için geçici rahatlama\n\nKararla birlikte, bal ormanlarında konaklayan arıcılardan kovan başına 100 TL ekosistem hizmet bedeli şimdilik alınmayacak.\n\nAncak uygulama tamamen kaldırılmış değil. Birlik açıklamasında, hükümlerin “ikinci bir talimata kadar ertelendiği” vurgulanırken, yeni bir düzenleme yapılıp yapılmayacağı ilerleyen süreçte netlik kazanacak."
-    },
-    {
-      "title": "Ormanlarda koyun ve keçi otlatmasına AB'den dikkat çeken karar",
-      "url": "https://www.tarimdanhaber.com/ormanlarda-koyun-ve-keci-otlatmasina-abden-dikkat-ceken-karar",
-      "source": "Tarımdan Haber",
-      "date": "2026-07-18",
-      "summary": "Avrupa Komisyonu, koyun ve keçi yetiştiriciliğine ilişkin yeni hayvancılık stratejisinde dikkat çeken bir değişikliğe imza attı. Komisyon, yıllardır çevresel baskı unsuru olarak değerlendirilen otlatmanın ekosistemlerin korunması, orman yangınlarının önlenmesi ve kırsal alanların sürdürülebilirliği ",
-      "content": "Haber Merkezi / Türkiye'de özellikle ormanlık alanlarda keçi otlatılmasına yönelik kısıtlamalar zaman zaman tartışma konusu olurken, Avrupa Birliği'nin yeni yaklaşımı dikkat çekti. Tarım politikaları uzmanı Ergin Kahveci de Avrupa Komisyonu'nun kararını sosyal medya hesabından paylaşarak gelişmeyi kamuoyuna duyurdu.\n\n\"Sürüler sadece üretim yapmıyor, çevreyi de koruyor\"\n\nAvrupa Komisyonu'nun yayımladığı Avrupa Birliği Hayvancılık Stratejisi, et ve süt üretiminin ötesinde, koyun ve keçi yetiştiriciliğinin çevresel ve toplumsal katkılarını da resmen tanıyor.\n\nBelgede, uzun yıllardır sektörün dile getirdiği \"sürülerin yaptığı işin toplum için bir çevre hizmeti olduğu\" görüşüne yer veriliyor. Böylece yaygın otlatmanın yalnızca hayvancılık faaliyeti değil, doğal alanların yönetiminde önemli bir araç olduğu vurgulanıyor.\n\n35 milyon hektarlık alan otlatmaya bağlı\n\nKomisyonun değerlendirmesine göre, Avrupa'da koruma altındaki yaklaşık 35 milyon hektarlık yaşam alanının sağlıklı şekilde korunabilmesi büyük ölçüde kontrollü otlatmaya bağlı.\n\nBelgede, hayvancılığın ortadan kalkması halinde otlak ve açık alanların zamanla çalılıklarla kaplanacağı, bunun da biyolojik çeşitliliği azaltırken orman yangınlarını besleyen yanıcı bitki örtüsünü artıracağı ifade ediliyor.\n\nKoyun ve keçi sürülerinin otları, çalıları ve genç sürgünleri tüketmesi sayesinde doğal yakıt yükünün azaldığı, bunun da yangın riskinin düşürülmesine katkı sağladığı belirtiliyor.\n\nKoyun ve keçi varlığı hızla azalıyor\n\nStrateji belgesi, Avrupa'daki küçükbaş hayvancılığın yaşadığı gerilemeyi de ortaya koyuyor.\n\nSon 20 yılda Avrupa Birliği'nde koyun ve keçi varlığının yüzde 26 azaldığı, toplam sayının bugün yaklaşık 54 milyon koyun ve 10 milyon keçiye gerilediği kaydediliyor.\n\nKomisyon, bu gerilemenin yalnızca hayvansal üretimi değil, doğal ekosistemlerin yönetimini de olumsuz etkileyebileceğine dikkat çekiyor.\n\nErgin Kahveci: \"Yıllardır savunduğumuz görüş doğrulandı\"\n\nTarım Politikaları Uzmanı Ergin Kahveci de sosyal medya hesabından yaptığı paylaşımda, Avrupa Komisyonu'nun kararının küçükbaş hayvancılık sektörü açısından önemli bir dönüm noktası olduğunu belirtti.\n\nKahveci, \"Koyun ve keçi yetiştiriciliği sektörü için bu tanınma, yıllardır savunduğumuz bir gerçeği doğruluyor. Sürüler sadece kaliteli gıda üretmiyor, aynı zamanda çevre temizliği yaparak yangın riskini azaltıyor.\" değerlendirmesinde bulundu.\n\nBu yeni yaklaşımın, koyun ve keçi yetiştiriciliğinin yalnızca ekonomik değil, ekolojik açıdan da stratejik bir faaliyet olarak görülmesi bakımından önemli bir politika değişikliğine işaret ettiği değerlendiriliyor."
-    },
-    {
-      "title": "AB, gübre ve enerji krizi için çiftçiye 540 milyon avroluk destek açıkladı",
-      "url": "https://www.tarimdanhaber.com/ab-gubre-ve-enerji-krizi-icin-ciftciye-540-milyon-avroluk-destek-acikladi",
-      "source": "Tarımdan Haber",
-      "date": "2026-07-18",
-      "summary": "Avrupa Birliği (AB), Orta Doğu'da yaşanan gerilim nedeniyle artan gübre ve enerji maliyetlerinden etkilenen çiftçileri desteklemek amacıyla 540 milyon avroluk olağanüstü yardım paketini onayladı. Destek, en fazla maliyet artışı yaşayan sektörlere yönlendirilecek ve üye ülkeler isterlerse bu kaynağı ",
-      "content": "Haber Merkezi / Avrupa Komisyonu'nun teklifinin üye ülkeler tarafından kabul edilmesiyle birlikte, AB tarım rezervinden toplam 540 milyon avro kaynak ayrıldı. Yardımın amacı, özellikle gübre ve enerji fiyatlarındaki yükseliş nedeniyle gelir kaybı yaşayan çiftçilerin nakit ihtiyacını karşılamak ve üretimin devamını sağlamak olarak açıklandı.\n\nEn büyük pay Fransa, Polonya ve Almanya'nın\n\nDağıtılacak destekten en yüksek payı Fransa 107,1 milyon avro, Polonya 66,6 milyon avro, Almanya 60,3 milyon avro, İspanya 50,2 milyon avro ve İtalya 45,6 milyon avro alacak.\n\nDiğer ülkeler için ayrılan destek tutarları ise üretim büyüklüğü ve krizden etkilenme düzeyine göre belirlendi.\n\nDestekler ulusal bütçeyle artırılabilecek\n\nKomisyon, üye ülkelere AB tarafından sağlanan kaynağın üzerine yüzde 200'e kadar ilave ulusal destek verme imkanı da tanıdı. Böylece bazı ülkelerde çiftçiye sağlanacak toplam yardım, AB katkısının üç katına kadar çıkabilecek.\n\nMali desteklerin 28 Şubat 2027 tarihine kadar çiftçilere ulaştırılması gerekiyor.\n\nAmaç üretimin devamını sağlamak\n\nKomisyon, Orta Doğu krizinin özellikle enerji ve gübre piyasalarında oluşturduğu maliyet baskısının Avrupa'daki çiftçileri ciddi bir likidite sorunuyla karşı karşıya bıraktığını belirtti.\n\nAçıklamada, çiftçilerin 2027 üretim sezonu öncesinde ekim kararlarını vereceği kritik dönemde finansman sıkıntısı yaşamalarının tarımsal üretimi riske atabileceği vurgulandı. Bu nedenle olağanüstü destek paketinin üretimin sürdürülebilirliği açısından gerekli olduğu ifade edildi.\n\nSöz konusu yardım paketinin, Avrupa Komisyonu'nun mayıs ayında açıkladığı Gübre Eylem Planı kapsamında hayata geçirilen acil önlemlerden biri olduğu bildirildi.\n\nAvrupa'nın mesajı: Üretim maliyeti artarsa devlet devreye giriyor\n\nAB'nin açıkladığı paket, Orta Doğu krizinin tarımsal üretim üzerindeki etkilerini azaltmayı hedefleyen ilk büyük mali desteklerden biri olarak dikkat çekiyor. Özellikle gübre ve enerji gibi temel girdilerde yaşanan maliyet artışlarının çiftçinin üretimden çekilmesine yol açmaması için doğrudan gelir desteği sağlanması, Avrupa'nın tarımsal üretimi koruma yaklaşımını bir kez daha ortaya koydu.\n\nKaynak: https://commission.europa.eu/index_en"
     }
   ],
   "commoditiesByBorsa": {
@@ -330,15 +330,8 @@
   "note": "Fiyatlar TOBB ticaret borsasından (borsa seçilebilir). Kanola manuel (Trakya 2025).",
   "inputsNote": "Mazot: akaryakıt bayi fiyatı, günlük (şehir seçilebilir). Gübre: manuel (yaklaşık).",
   "errors": [
-    "mazot ANKARA: fetch failed",
-    "mazot ISTANBUL: fetch failed",
-    "mazot IZMIR: fetch failed",
-    "mazot KONYA: fetch failed",
-    "mazot ADANA: fetch failed",
-    "mazot BURSA: fetch failed",
-    "mazot ANTALYA: fetch failed",
-    "mazot SAMSUN: fetch failed",
-    "mazot TEKIRDAG: fetch failed",
-    "mazot CANAKKALE: fetch failed"
+    "borsa 5ED10: fetch failed",
+    "borsa 5KO10: fetch failed",
+    "borsa 5ES10: fetch failed"
   ]
 }
