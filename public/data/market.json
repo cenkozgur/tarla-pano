@@ -1,43 +1,59 @@
 {
-  "updatedAt": "2026-07-20T13:17:30.071Z",
+  "updatedAt": "2026-07-20T15:22:04.878Z",
   "fx": [
     {
       "code": "USD",
       "name": "Dolar",
-      "buy": 471806,
-      "sell": 471838,
+      "buy": 471775,
+      "sell": 471868,
       "change": 4
     },
     {
       "code": "EUR",
       "name": "Euro",
-      "buy": 539169,
-      "sell": 539224,
-      "change": -11
+      "buy": 538479,
+      "sell": 53865,
+      "change": -23
     },
     {
       "code": "GRA",
       "name": "Gram Altın",
-      "buy": 608092,
-      "sell": 608176,
-      "change": -18
+      "buy": 608506,
+      "sell": 608603,
+      "change": -11
     },
     {
       "code": "CEYREKALTIN",
       "name": "Çeyrek Altın",
-      "buy": 972586,
-      "sell": 994847,
-      "change": -34
+      "buy": 971037,
+      "sell": 993263,
+      "change": -5
     },
     {
       "code": "CUMHURIYETALTINI",
       "name": "Cumhuriyet Altını",
-      "buy": 40364,
-      "sell": 40974,
-      "change": -33
+      "buy": 40284,
+      "sell": 40894,
+      "change": -53
     }
   ],
   "news": [
+    {
+      "title": "TMO fiyatı piyasada karşılık bulmadı! Hububatta makas büyümeye devam ediyor",
+      "url": "https://www.tarimdanhaber.com/tmo-fiyati-piyasada-karsilik-bulmadi-hububatta-makas-buyumeye-devam-ediyor",
+      "source": "Tarımdan Haber",
+      "date": "2026-07-20",
+      "summary": "Serbest piyasada hububat fiyatları TMO'nun açıkladığı alım fiyatlarının altında işlem görmeye devam ediyor. 13-17 Temmuz haftasında ekmeklik ve makarnalık buğdayda sınırlı yükseliş yaşanırken, arpa fiyatları düşüşünü sürdürdü. Arpa, TMO alım fiyatının 1.454 lira altında işlem görürken, ekmeklik buğd",
+      "content": "Haber Merkezi / Hasat döneminin devam ettiği Türkiye'de serbest piyasadaki hububat fiyatları, Toprak Mahsulleri Ofisi'nin (TMO) açıkladığı alım fiyatlarının altında seyretmeyi sürdürüyor.\n\n13-17 Temmuz haftasında ticaret borsalarında oluşan fiyatlar, özellikle arpa üreticisinin gelir kaybının devam ettiğini ortaya koydu.\n\nHaftanın son işlem günü olan 17 Temmuz Cuma günü ticaret borsalarında oluşan ortalama fiyatlar şöyle gerçekleşti:\n\nÜrün Fiyat (TL/Ton)\n\nEkmeklik buğday 14.149 TL\n\nMakarnalık buğday 15.109 TL\n\nArpa 11.296 TL\n\nMısır 12.649 TL\n\nHaftalık ortalama fiyatlar\n\n13-17 Temmuz haftasında oluşan ortalama fiyatlar ise şu şekilde kaydedildi:\n\nÜrün Haftalık Ortalama\n\nEkmeklik buğday 14.158 TL\n\nMakarnalık buğday 15.115 TL\n\nArpa 11.384 TL\n\nMısır 12.891 TL\n\nBuğday yükseldi, arpa geriledi\n\nÖnceki haftayla karşılaştırıldığında;\n\nEkmeklik buğday fiyatı yaklaşık 100 TL/ton arttı.\n\nMakarnalık buğday fiyatı yaklaşık 250 TL/ton yükseldi.\n\nArpa fiyatı ise yaklaşık 100 TL/ton geriledi.\n\nMısır fiyatı yatay seyrini korudu.\n\nBu tablo, buğdayda sınırlı bir toparlanmaya işaret ederken arpadaki baskının sürdüğünü gösteriyor.\n\nTMO ile piyasa arasındaki fark büyüyor\n\nTMO, 2026 alım döneminde;\n\nEkmeklik buğday için 16.500 TL\n\nMakarnalık buğday için 16.500 TL\n\nArpa için 12.750 TL\n\nalım fiyatı açıklamıştı.\n\nBuna rağmen serbest piyasada oluşan haftalık ortalama fiyatlar, TMO fiyatlarının oldukça gerisinde kaldı.\n\nÜrün TMO Fiyatı Piyasa Fark\n\nEkmeklik buğday 16.500 TL 14.158 TL -2.342 TL\n\nMakarnalık buğday 16.500 TL 15.115 TL -1.385 TL\n\nArpa 12.750 TL 11.384 TL -1.366 TL\n\nCuma günü oluşan fiyatlar dikkate alındığında ise arpa fiyatı 11.296 TL seviyesinde gerçekleşirken, TMO alım fiyatıyla arasındaki fark 1.454 TL'ye çıktı.\n\nÇiftçi neden ürününü TMO'ya veremiyor?\n\nÜreticiler, TMO'nun açıkladığı fiyatları dahi düşük bulurken, birçok bölgede ürününü bu fiyatlardan bile satamıyor.\n\nBunun en önemli nedenlerinden biri, TMO'nun ürün bedellerini yaklaşık 21 gün sonra ödemesi. Nakit ihtiyacı bulunan üreticiler ise beklemek yerine ürünlerini tüccara satmak zorunda kalıyor.\n\nDiğer önemli neden ise alım kotası uygulaması. Rekoltedeki artış nedeniyle TMO bazı bölgelerde kotaları yükseltse de, birçok üretici kotasının üzerinde kalan ürününü kuruma teslim edemiyor.\n\nBu durum serbest piyasaya yönelen ürün miktarını artırırken, tüccarlar da oluşan arz fazlasını kullanarak alım fiyatlarını aşağı çekebiliyor.\n\nSonuçta üretici, TMO'nun açıkladığı fiyatın da altında satış yapmak zorunda kalırken, hasat döneminde oluşan fiyat baskısı gelir kaybını büyütüyor.\n\nSıkça Sorulan Sorular (SSS)\n\nArpa fiyatı TMO'nun kaç lira altında?\n\nHaftalık ortalamaya göre arpa 11.384 TL seviyesinde bulunuyor. Bu fiyat, TMO'nun 12.750 TL alım fiyatının 1.366 TL altında. Cuma günü oluşan fiyat dikkate alındığında fark 1.454 TL'ye ulaşıyor.\n\nEkmeklik buğday fiyatı TMO'nun ne kadar altında?\n\nHaftalık ortalama fiyat 14.158 TL olurken, TMO fiyatıyla arasındaki fark 2.342 TL.\n\nMakarnalık buğday fiyatı TMO'nun ne kadar altında?\n\nMakarnalık buğdayın haftalık ortalama fiyatı 15.115 TL. TMO fiyatına göre üretici ton başına yaklaşık 1.385 TL daha düşük fiyata satış yapıyor.\n\nHububat fiyatları neden TMO'nun altında oluşuyor?\n\nÜrün bedellerinin geç ödenmesi, alım kotası nedeniyle tüm ürünün TMO'ya teslim edilememesi, hasat dönemindeki arz yoğunluğu ve tüccarın alım gücü fiyatların TMO seviyesinin altında oluşmasına neden oluyor.\n\nArpa fiyatları düşmeye devam ediyor mu?\n\nEvet. Son haftalık verilere göre arpa fiyatları önceki haftaya göre yaklaşık 100 TL/ton daha geriledi ve düşüş eğilimini sürdürdü.\n\nMısır fiyatı ne kadar oldu?\n\n13-17 Temmuz haftasında mısırın haftalık ortalama fiyatı 12.891 TL, haftanın son işlem günündeki fiyatı ise 12.649 TL olarak gerçekleşti."
+    },
+    {
+      "title": "Buzağı desteğinde kritik süreç başladı! Askı listelerini mutlaka kontrol edin",
+      "url": "https://www.tarimdanhaber.com/buzagi-desteginde-kritik-surec-basladi-aski-listelerini-mutlaka-kontrol-edin",
+      "source": "Tarımdan Haber",
+      "date": "2026-07-20",
+      "summary": "Hayvancılıkta en önemli destek kalemlerinden biri olan 2025 yılı 2. dönem buzağı desteği için askı süreci başladı. Destekten yararlanacak yetiştiricilerin, askı listelerini 24 Temmuz 2026 tarihine kadar kontrol ederek varsa itirazlarını Tarım ve Orman Bakanlığı il ve ilçe müdürlüklerine süresi içind",
+      "content": "Haber Merkezi / Hayvancılık sektörünün en önemli destek kalemlerinden biri olan buzağı desteğinde 2025 yılı ikinci dönem askı süreci başladı. Üreticilerin destekten yararlanabilmeleri için askı listelerini kontrol etmeleri ve varsa itirazlarını süresi içinde yapmaları gerekiyor.\n\nİzmir İli Damızlık Sığır Yetiştiricileri Birliği tarafından yapılan duyuruda, 2025 yılı 2. dönem buzağı desteklemesine ait askı listelerinin Tarım ve Orman Bakanlığı il ve ilçe müdürlüklerinde 24 Temmuz 2026 tarihine kadar askıda kalacağı bildirildi.\n\nDestekten yararlanacak yetiştiricilerin, askı listelerinde yer alan bilgilerini dikkatle incelemeleri istenirken, herhangi bir hata veya eksiklik tespit edilmesi halinde 24 Temmuz 2026 tarihine kadar Tarım ve Orman Bakanlığı il veya ilçe müdürlüklerine itiraz edilmesi gerektiği hatırlatıldı.\n\nYapılan açıklamada, süresi içerisinde yapılmayan itirazların değerlendirmeye alınmayacağı vurgulandı.\n\nBuzağı desteği, hayvancılık işletmelerinin gelirlerinde önemli yer tutan desteklerden biri olarak öne çıkarken, askı sürecinde yapılacak kontrollerin olası hak kayıplarının önüne geçmesi açısından büyük önem taşıyor."
+    },
     {
       "title": "S&P Global Platts: Asya yem sanayisi mısıra yöneliyor",
       "url": "https://www.tarimpusulasi.com/haber/sp-global-platts-asya-yem-sanayisi-misira-yoneliyor-47113",
@@ -117,22 +133,6 @@
       "date": "2026-07-19",
       "summary": "Et ve Süt Kurumu'nun (ESK) ithal ettiği besilik sığırlarda gübre tartışması yeniden gündeme geldi. Taşucu Limanı'nda çekilen görüntülerde, ithal hayvanların üzerindeki gübre dikkat çekerken, üreticiler bu nedenle hayvan başına 6 ila 8 bin lira fazla ödeme yaptıklarını kaydetti. Benzer bir tartışma 2",
       "content": "Özel Haber/ Et ve Süt Kurumu'nun (ESK) ithal ettiği besilik sığırlar, bu kez de hayvanların üzerindeki gübre nedeniyle tartışma konusu oldu.\n\n5 Temmuz 2026 tarihinde Taşucu Limanı'na yanaşan Anna Marra isimli gemiden indirilen besilik sığırlara ait olduğu belirtilen görüntülerde, hayvanların üzerlerinde önemli miktarda gübre bulunduğu görülüyor.\n\nÜreticiler, hayvanların üzerinde yaklaşık 10 ila 15 kilogram arasında gübre bulunduğunu ifade ederken, canlı kilogram fiyatının yaklaşık 420 lira olduğu dikkate alındığında, bu durumun hayvan başına 4 bin 200 lira ile 6 bin 300 lira arasında ilave maliyet oluşturduğunu savundu.\n\n[youtube-video]https://www.youtube.com/shorts/OPyPiGP4le4[/youtube-video]\n\nBesiciler, ithal hayvanların canlı ağırlığı üzerinden ödeme yapıldığı için üzerindeki gübrenin de fiilen ücretlendirilmiş olduğunu belirterek, bu durumun haksız maliyet oluşturduğunu dile getirdi.\n\n2024 yılında da benzer olay yaşanmıştı\n\nİthal besilik hayvanlarda gübre nedeniyle yaşanan tartışma yeni değil. 2024 yılında da benzer görüntüler kamuoyuna yansımış, üreticilerden gelen yoğun tepkiler üzerine Et ve Süt Kurumu, yapılan değerlendirmelerin ardından üreticilere ortalama bir geri ödeme gerçekleştirmişti.\n\nBu nedenle besiciler, bu yıl yaşanan benzer durum için de ESK'nın inceleme yapmasını ve oluştuğu iddia edilen ilave maliyetin telafi edilmesini bekliyor.\n\n2024 yılında neler olmuştu?\n\nİthal besilik danada gübre vurgunu! Hayvan başı 5-6 bin lirayı cebe indiriyorlar!\n\nESK Uruguay'dan yine gübreli hayvan ithal etti!\n\nBesilik hayvan ithalatında gübre vurgunu teyit edildi! ESK üreticiye 8 kilo gübre parası ödeyecek!"
-    },
-    {
-      "title": "Kırmızı et fiyatları (19 Temmuz 2026)",
-      "url": "https://www.tarimdanhaber.com/sigir-kesim-fiyatlari",
-      "source": "Tarımdan Haber",
-      "date": "2026-07-19",
-      "summary": "UKON'un haftalık (19 Temmuz) dana ve kuzu kesim fiyatları ile Bursa Damızlık Sığır Yetiştiricileri Birliği'nin üreticilere yönelik açıkladığı inek, dana ve düve kesim fiyatları bu hafta geriledi. Türkiye ortalamasında dana kesim fiyatı 570 liraya kadar düşerken, Ankara Ticaret Borsası'nda ise diğer ",
-      "content": "Haber Merkezi - Kırmızı et piyasasında haftanın fiyatları belli oldu. Ulusal Kırmızı Et Konseyi (UKON) tarafından yayımlanan haftalık kesim fiyatları listesine göre, Türkiye ortalamasında dana kesim fiyatı 7 lira düşerek 570 liraya, kuzu kesim fiyatı ise 9 liralık gerilemeyle 593 liraya indi. Bursa Damızlık Sığır Yetiştiricileri Birliği'nin üyelerine yönelik düzenlediği kesim organizasyonunda da inek, dana ve düve kesim fiyatları 10 lira düşürüldü. Buna karşın Ankara Ticaret Borsası'nın güncel kırmızı et fiyatları listesinde dana ve kuzu eti fiyatlarının bu hafta yükseliş göstermesi dikkat çekti.\n\nUKON – Güncel Dana ve Kuzu Kesim Fiyatları (16 Temmuz 2026)\n\nUkon tarafından yayınlanan dana ve kuzu kesim fiyatları haftalık olarak güncellenmektedir. En güncel fiyatlar aşağıdaki tabloda yer almaktadır.\n\nTarih\n\nDana Kesim Fiyatı (TL)\n\nKuzu Kesim Fiyatı (TL)\n\n16 Temmuz 2026\n\n570,56\n\n593,69\n\nBursa Damızlık Sığır Yetiştiricileri Birliği (17-24 Temmuz 2026) İnek, Dana ve Düve Kesim Fiyatları\n\nBursa Damızlık Sığır Yetiştiricileri Birliği, 17-24 Temmuz tarihleri arasında üyelerine yönelik kesim organizasyonu yapacağını duyurdu. Kesim yaptırmak isteyen üyelerin şubelere başvurup, kayıt yaptırması istendi. Damızlık Birliği'nin 17-24 Temmuz tarihleri arasında yapacağı kesim organizasyonunda; inek, düve ve dana kesim fiyatları, bir önceki haftaya göre 10 lira düştü.\n\nTarih: 17 Temmuz - 24 Temmuz 2026\n\nİnek Kesim Fiyatı: 400 TL (199 kg altı)\n\nDana Kesim Fiyatı: (Holstein) 480 TL (250 kg altı)\n\nDana Kesim Fiyatı: (Diğer Irklar) 510 TL (250 kg altı)\n\nDüve Kesim Fiyatı: 420 TL (199 kg altı)\n\n/* Kart/Stack Tasarımı */\n\n.price-cards {\n\ndisplay: flex;\n\nflex-direction: column;\n\ngap: 15px; /* Kartlar arası boşluk */\n\n}\n\n.price-card {\n\nborder: 1px solid #ccc;\n\nborder-radius: 8px;\n\npadding: 12px 16px;\n\nbackground-color: #fafafa;\n\nbox-shadow: 0 2px 5px rgba(0,0,0,0.05);\n\n}\n\n.card-row {\n\nmargin-bottom: 6px;\n\nfont-size: 1em;\n\n}\n\n.card-row strong {\n\ncolor: #2a6ebb; /* Başlık rengi */\n\n}\n\n19 Temmuz 2026 Ankara Ticaret Borsası Kırmızı Et Fiyatları\n\nAnkara Ticaret Borsası'nın güncel kırmızı et fiyatları listesine göre kuzu eti but fiyatı bir önceki haftaya göre 45 lira yükselirken dana ve kuzu karkas kesim fiyatları da Türkiye ortalaması fiyatlarının aksine yükseldi. Dana karkas kesim fiyatı 618 liradan, 630 liraya yükselirken, kuzu karkas kesim fiyatı da 734 liradan, 746 liraya çıktı. İşte Ankara Ticaret Borsasında güncel kırmızı et fiyatları listesi...\n\n2026 yılı et kesim fiyatları (Arşiv)\n\nUKON tarafından Türkiye genelinde yayınlanan dana ve kuzu kesim fiyatları, haftalık olarak aşağıdaki tabloda kronolojik şekilde listelenmektedir.\n\nTarih\n\nDana Kesim Fiyatı (TL)\n\nKuzu Kesim Fiyatı (TL)\n\n16 Temmuz 2026\n\n570,56\n\n593,69\n\n9 Temmuz 2026\n\n576,77\n\n602,14\n\n2 Temmuz 2026\n\n584,76\n\n608,57\n\n25 Haziran 2026\n\n591,36\n\n612,14\n\n18 Haziran 2026\n\n594,61\n\n615,00\n\n11 Haziran 2026\n\n593,21\n\n610,71\n\n4 Haziran 2026\n\n593,73\n\n609,17\n\n21 Mayıs 2026\n\n595,11\n\n617,31\n\n14 Mayıs 2026\n\n592,17\n\n611,43\n\n7 Mayıs 2026\n\n592,73\n\n609,61\n\n30 Nisan 2026\n\n597,73\n\n603,93\n\n24 Nisan 2026\n\n595,36\n\n600,71\n\n16 Nisan 2026\n\n590,90\n\n595,61\n\n9 Nisan 2026\n\n595,39\n\n590,16\n\n2 Nisan 2026\n\n607,17\n\n595,71\n\n26 Mart 2026\n\n612,10\n\n591,00\n\n12 Mart 2026\n\n607,30\n\n587,71\n\n5 Mart 2026\n\n604,45\n\n572,56\n\n26 Şubat 2026\n\n601,86\n\n573,27\n\n12 Şubat 2026\n\n606,24\n\n571,50\n\n5 Şubat 2026\n\n584,20\n\n565,44\n\n29 Ocak 2026\n\n579,64\n\n566,87\n\n22 Ocak 2026\n\n588,46\n\n562,20\n\n15 Ocak 2026\n\n601,24\n\n566,79\n\n8 Ocak 2026\n\n587,19\n\n552,57\n\n/* Kart/Stack Tasarımı */\n\n.price-cards {\n\ndisplay: flex;\n\nflex-direction: column;\n\ngap: 15px; /* Kartlar arası boşluk */\n\n}\n\n.price-card {\n\nborder: 1px solid #ccc;\n\nborder-radius: 8px;\n\npadding: 12px 16px;\n\nbackground-color: #fafafa;\n\nbox-shadow: 0 2px 5px rgba(0,0,0,0.05);\n\n}\n\n.card-row {\n\nmargin-bottom: 6px;\n\nfont-size: 1em;\n\n}\n\n.card-row strong {\n\ncolor: #2a6ebb; /* Başlık rengi */\n\n}\n\n.et-fiyat-baslik {\n\nfont-size: 18px;\n\nfont-weight: 600;\n\nmargin-bottom: 12px;\n\n}\n\n.et-fiyatlari {\n\nwidth: 100%;\n\nborder-collapse: collapse;\n\nfont-size: 15px;\n\n}\n\n.et-fiyatlari thead {\n\nbackground: rgba(0,0,0,0.04);\n\n}\n\n.et-fiyatlari th,\n\n.et-fiyatlari td {\n\npadding: 10px;\n\nborder-bottom: 1px solid #eee;\n\ntext-align: left;\n\n}\n\n.fiyat {\n\nfont-weight: 700;\n\ncolor: #1a7f37;\n\n}\n\n/* Mobil Kart Tasarımı */\n\n@media (max-width: 768px) {\n\n.et-fiyatlari thead {\n\ndisplay: none;\n\n}\n\n.et-fiyatlari,\n\n.et-fiyatlari tbody,\n\n.et-fiyatlari tr,\n\n.et-fiyatlari td {\n\ndisplay: block;\n\nwidth: 100%;\n\n}\n\n.et-fiyatlari tr {\n\nbackground: #fff;\n\nborder: 1px solid #eee;\n\nborder-radius: 10px;\n\npadding: 14px;\n\nmargin-bottom: 12px;\n\nbox-shadow: 0 2px 8px rgba(0,0,0,0.04);\n\n}\n\n.et-fiyatlari td {\n\nborder: none;\n\npadding: 6px 0;\n\n}\n\n.et-fiyatlari td::before {\n\ncontent: attr(data-label);\n\nfont-weight: 600;\n\ndisplay: block;\n\ncolor: #666;\n\nfont-size: 13px;\n\nmargin-bottom: 2px;\n\n}\n\n.fiyat {\n\nfont-size: 16px;\n\n}\n\n}"
-    },
-    {
-      "title": "Besici şokta! Dana kesim fiyatı bu yıl ilk kez 570 lirayı gördü",
-      "url": "https://www.tarimdanhaber.com/besici-sokta-dana-kesim-fiyati-bu-yil-ilk-kez-570-lirayi-gordu",
-      "source": "Tarımdan Haber",
-      "date": "2026-07-19",
-      "summary": "Et ve Süt Kurumu'nun yoğun et ithalatı, iç piyasada kesim fiyatlarını baskılamayı sürdürüyor. Dana kesim fiyatı ocak ayından bu yana ilk kez 570 liraya kadar gerilerken, kuzu kesim fiyatı da 593 liraya düştü. Artan maliyetlere rağmen fiyatların gerilemesi üreticiyi çıkmaza sürüklerken, kesim fiyatla",
-      "content": "Haber Merkezi / Kırmızı et piyasasında üreticilerin yakından takip ettiği genel sığır kesim fiyatları yeniden gündeme geldi. Türkiye'nin farklı bölgelerinden besicilerin paylaştığı verilere göre dana kesim fiyatları illere göre önemli farklılık gösterirken, son günlerde fiyatlarda aşağı yönlü hareket dikkat çekiyor.\n\nÜreticiler özellikle son haftalarda piyasaya giren ithal hayvanların kesim fiyatlarını baskıladığını belirtirken, yem, mazot ve diğer üretim maliyetlerinin hızla artmasına rağmen karkas fiyatlarının aynı seviyelerde kalmasının sürdürülebilir olmadığını ifade ediyor.\n\nÜreticiler ne diyor?\n\nÜreticilerin yorumlarında ortak görüş, ithal hayvan politikasının piyasayı baskıladığı yönünde oldu.\n\nBazı besiciler, \"Kesim 650 lira ancak ithal hayvan nedeniyle piyasa aşağı çekiliyor.\" değerlendirmesini yaparken, bazı üreticiler de yem, ekipman ve yatırım maliyetlerinin son bir yılda iki katına çıkmasına rağmen karkas fiyatlarının yerinde saydığını dile getirdi.\n\nDiğer taraftan bazı üreticiler ise 15 Ağustos sonrasında kesim fiyatlarının yeniden yükselişe geçebileceğini savunuyor.\n\nMarket fiyatları düşmüyor\n\nÜreticilerin en fazla dikkat çektiği konulardan biri ise karkas et fiyatlarındaki gerilemenin market raflarına yansımaması oldu.\n\nBesiciler, kesim fiyatları düşmesine rağmen kıyma ve kuşbaşı başta olmak üzere perakende et fiyatlarında kayda değer bir indirim görülmediğini belirterek üretici ile tüketici arasındaki fiyat makasının açıldığını ifade ediyor.\n\nBesicinin maliyet baskısı devam ediyor\n\nÜreticiler, yem, mazot, beton, demir, ekipman ve işçilik maliyetlerinin sürekli arttığını belirterek mevcut karkas fiyatlarının birçok işletmede kârlılığı ortadan kaldırdığını söylüyor.\n\nGüncel et kesim fiyatları bu sayfada\n\nGüncel kırmızı et fiyatları sayfasında; UKON'un haftalık dana ve kuzu kesim fiyatları, Bursa Damızlık Sığır Yetiştiricileri Birliği'nin inek, dana ve düve kesim fiyatları, Ankara Ticaret Borsası'nın güncel kırmızı et fiyatları ile Ocak 2026'dan itibaren tüm haftalara ait fiyat arşivini incelemek için → Kırmızı et fiyatları (19 Temmuz 2026)"
     }
   ],
   "commoditiesByBorsa": {
@@ -328,17 +328,5 @@
   "defaultBorsa": "5ED10",
   "defaultCity": "CANAKKALE",
   "note": "Fiyatlar TOBB ticaret borsasından (borsa seçilebilir). Kanola manuel (Trakya 2025).",
-  "inputsNote": "Mazot: akaryakıt bayi fiyatı, günlük (şehir seçilebilir). Gübre: manuel (yaklaşık).",
-  "errors": [
-    "mazot ANKARA: fetch failed",
-    "mazot ISTANBUL: fetch failed",
-    "mazot IZMIR: fetch failed",
-    "mazot KONYA: fetch failed",
-    "mazot ADANA: fetch failed",
-    "mazot BURSA: fetch failed",
-    "mazot ANTALYA: fetch failed",
-    "mazot SAMSUN: fetch failed",
-    "mazot TEKIRDAG: fetch failed",
-    "mazot CANAKKALE: fetch failed"
-  ]
+  "inputsNote": "Mazot: akaryakıt bayi fiyatı, günlük (şehir seçilebilir). Gübre: manuel (yaklaşık)."
 }
