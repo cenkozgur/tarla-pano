@@ -1,43 +1,51 @@
 {
-  "updatedAt": "2026-07-20T08:08:37.760Z",
+  "updatedAt": "2026-07-20T11:14:06.086Z",
   "fx": [
     {
       "code": "USD",
       "name": "Dolar",
-      "buy": 47.15,
-      "sell": 47.19,
-      "change": 0.01
+      "buy": 47.18,
+      "sell": 47.18,
+      "change": 0.04
     },
     {
       "code": "EUR",
       "name": "Euro",
-      "buy": 53.92,
-      "sell": 54.04,
-      "change": -0.01
+      "buy": 53.96,
+      "sell": 53.97,
+      "change": -0.02
     },
     {
       "code": "GRA",
       "name": "Gram Altın",
-      "buy": 6088.23,
-      "sell": 6089.2,
-      "change": -0.06
+      "buy": 6098.12,
+      "sell": 6099.06,
+      "change": 0.1
     },
     {
       "code": "CEYREKALTIN",
       "name": "Çeyrek Altın",
-      "buy": 9759.99,
-      "sell": 9982.72,
-      "change": 0
+      "buy": 9767.57,
+      "sell": 9991.1,
+      "change": 0.08
     },
     {
       "code": "CUMHURIYETALTINI",
       "name": "Cumhuriyet Altını",
-      "buy": 40500,
-      "sell": 41110,
-      "change": 0.69
+      "buy": 40467,
+      "sell": 41078,
+      "change": -0.08
     }
   ],
   "news": [
+    {
+      "title": "S&P Global Platts: Asya yem sanayisi mısıra yöneliyor",
+      "url": "https://www.tarimpusulasi.com/haber/sp-global-platts-asya-yem-sanayisi-misira-yoneliyor-47113",
+      "source": "Tarım Pusulası",
+      "date": "2026-07-20",
+      "summary": "Karadeniz'de artan gerilim nedeniyle navlun ve CFR fiyatlarının yükselmesi, Asya'daki yem üreticilerini yemlik buğday yerine daha fazla yemlik mısır kullanmaya yöneltiyor. Özellikle Vietnam'da yem sanayisi, yükselen maliyetler nedeniyle formüllerini yeniden düzenlemeye başladı.",
+      "content": "SİNGAPUR — Karadeniz'de artan gerilim ve buna bağlı olarak navlun ile CFR fiyatlarının yükselmesi, Asya'daki karma yem üreticilerini yem formüllerinde yemlik buğday yerine daha fazla yemlik mısır kullanmaya yöneltiyor.\n\nS&P Global Platts'a konuşan Vietnamlı yemlik tahıl ithalatçısı bir kaynak, ülkedeki yem fabrikalarının maliyetleri düşürmek amacıyla yemlik buğday kullanımını azaltmaya başladığını söyledi.\n\nKaynağa göre, Karadeniz'den Vietnam'a yapılan sevkiyatların maliyetindeki artış ve yemlik buğday fiyatlarının yükselmesi, yemlik mısırı daha cazip hale getirdi.\n\nVietnam'daki iki farklı yem fabrikası yetkilisi de bu değerlendirmeyi doğruladı. Yetkililerden biri, yemlik buğdayın kilogram başına 300-400 Vietnam dongu (yaklaşık 10-15 ABD doları/ton) daha pahalı hale geldiğini, bu nedenle yem formüllerinde mısır kullanımının artırıldığını ifade etti.\n\nBir başka yem üreticisi ise Vietnam'ın aylık 400 bin-500 bin ton seviyesinde olan yemlik buğday ithalatının, fiyatlardaki hızlı yükseliş nedeniyle 200 bin tona kadar gerileyebileceğini öngördü.\n\nPlatts daha önce, Güneydoğu Asya'ya yönelik Karadeniz çıkışlı ekmeklik buğdayın CFR tekliflerinin, Ağustos-Eylül teslimatları için bir hafta içinde ton başına yaklaşık 10 ABD doları arttığını bildirmişti.\n\nVietnamlı ithalatçı kaynaklara göre, Ukrayna'dan Vietnam'a yapılan sevkiyatlarda navlun ücreti, 10 Temmuz'da Ağustos yüklemeleri için 46 ABD doları/ton seviyesindeyken, 14 Temmuz itibarıyla 55-56 ABD doları/tona yükseldi. Aynı dönemde Rusya çıkışlı sevkiyatların navlun ücretleri de ton başına yaklaşık 10 ABD doları arttı.\n\nBuna karşın Güney Kore'deki yem üreticilerinin mevcut gelişmelerden önemli ölçüde etkilenmesi beklenmiyor.\n\nGüney Koreli bir yemlik tahıl alım grubunun temsilcisi, şirketlerinin Rusya ve Ukrayna limanlarından yüklenen kargoları daha önce tedarik programlarından çıkardığını, bu nedenle son gelişmelerin doğrudan satın alma faaliyetlerini etkilemediğini söyledi.\n\nBir Güney Koreli ticaret temsilcisi de son dönemde Karadeniz yemlik buğdayı alımlarının yalnızca Romanya'nın Köstence (Constanța) Limanı üzerinden gerçekleştirildiğini, bu limanın son çatışmalardan etkilenmediğini belirtti.\n\nPiyasa katılımcıları ise yemlik tahıl piyasasına ilişkin genel görünüm konusunda iyimserliğini koruyor.\n\nHindistanlı bir tahıl tüccarı, Kerç Boğazı'nda yaşanan sorunların bir süre daha devam edebileceğini, bunun da sezon boyunca fiyatları destekleyebileceğini söyledi. Tüccara göre üreticiler yüksek fiyat seviyelerini gördükten sonra daha düşük fiyatlardan satış yapmak istemeyecek. Ayrıca Arjantin ve Avustralya'da üretimin önemli ölçüde azalmasının da fiyatları destekleyen unsurlar arasında yer alabileceği değerlendiriliyor.\n\nAvustralya ve Asya'daki tüccarlar ise Karadeniz'deki lojistik sorunların, Avustralya buğdayına olan talebi artırabileceğini öngörüyor.\n\nÖte yandan S&P Global Energy bünyesinde faaliyet gösteren Platts, 13 Temmuz tarihinde Kuzeydoğu Asya CFR yemlik mısır fiyatını, 11 Ekim-10 Kasım varışlı yüklemeler için ton başına 3 ABD doları artırarak 264 ABD dolarına yükseltti.\n\nTARIM PUSULASI HABER MERKEZİ"
+    },
     {
       "title": "IKAR ve SovEcon Rusya'nın buğday ihracat tahminini düşürdü",
       "url": "https://www.tarimpusulasi.com/haber/ikar-ve-sovecon-rusyanin-bugday-ihracat-tahminini-dusurdu-47112",
@@ -101,14 +109,6 @@
       "date": "2026-07-20",
       "summary": "Tarım ve Orman Bakanlığı, Şubat 2026'da yayımladığı talimatla kesimhanelerde yağlı kesim uygulamasını sona erdirerek ülke genelinde yağsız kesim standardını yürürlüğe koydu. Ancak Tarım Bakanlığı'na bağlı Et ve Süt Kurumu'nun (ESK), talimatta karkastan alınması öngörülmeyen sırt ve döş yağlarını da ",
       "content": "Özel Haber / Tarım ve Orman Bakanlığı, Şubat 2026'da yayımladığı talimatla kesimhanelerde uzun yıllardır tartışma konusu olan farklı karkas kesim uygulamalarını sona erdirerek ülke genelinde yağsız kesim standardını yürürlüğe koydu.\n\nYeni düzenlemeyle, karkastan hangi yağların ve fasciaların uzaklaştırılacağı tek tek belirlenirken, üreticilerin farklı kesimhanelerde farklı uygulamalar nedeniyle yaşadığı hak kayıplarının önüne geçilmesi amaçlandı.\n\nBakanlık talimatına göre karkastan yalnızca belirlenen iç yağlar ve ilgili dokuların uzaklaştırılması öngörülüyor.\n\nSırt ve döş yağı listede yer almıyor\n\nTalimatta karkastan uzaklaştırılacak;\n\ninguinal yağlar,\n\npelvis (çanak) yağları,\n\nsalkım yağları,\n\nkavram yağları,\n\nböbrek yağları,\n\ntranç üzerindeki yağlar\n\nve bunlara ilişkin fascialar\n\nayrıntılı şekilde sıralanıyor.\n\nAncak talimatta sırt ve döş yağlarının alınacağına ilişkin herhangi bir hüküm bulunmadığı görülüyor. Ancak ESK'nın Bakanlığın karkas kesim talimatına uymadığı ortaya çıktı.\n\nESK düşen kesim fiyatlarından dolayı devreye girdi!\n\nDüşen et kesim fiyatlarından dolayı regülasyon kapsamında devreye giren ESK'nın üreticinin hayvanını yağlı kesim kapsamında sırt ve döş yağlarını alarak kesmesi, et sektöründe büyük bir tartışmanın fitili ateşledi.\n\nBir tarafta üreticiyi korumak amacıyla yağlı kesimi yasaklayan Tarım Bakanlığı, diğer tarafta aynı Bakanlığa bağlı Et ve Süt Kurumu'nun bu talimatın dışında uygulama yapması, kesim standartları konusunda dikkat çeken bir çelişkiyi ortaya çıkardı.\n\nÖzel kesimhaneler: Bakanlığın talimatına ESK uymuyorsa biz niye uyacağız?\n\nESK'nın yağlı kesim esasına göre kesim yapması, özel kesimhanelerinin de Bakanlık talimatına uymamalarının kapısını araladı. ESK'nın, kesimlerde sırt ve döş yağlarını düştüğünü öğrenen özel kesimhaneler, \"Bakanlığın talimatına ESK uymuyorsa biz niye uyacağız?\" diyerek buralarda da eski sisteme dönüleceğinin işaretini verdi."
-    },
-    {
-      "title": "Meksika, çiftçilere ücretsiz gübre desteğinde rekor kırdı",
-      "url": "https://www.tarimpusulasi.com/haber/meksika-ciftcilere-ucretsiz-gubre-desteginde-rekor-kirdi-47105",
-      "source": "Tarım Pusulası",
-      "date": "2026-07-20",
-      "summary": "Meksika, 2026'nın ilk yarısında 1,92 milyondan fazla küçük ve orta ölçekli üreticiye ücretsiz gübre desteği sağlayarak program tarihinin en yüksek seviyesine ulaştı. Tarım Bakanlığı verilerine göre yıllık hedefin %89'u ilk altı ayda tamamlandı.",
-      "content": "MEKSİKO — Çiftçilere yönelik destek politikalarıyla dikkat çeken Meksika, 2026 yılının ilk yarısında 1 milyon 920 binden fazla küçük ve orta ölçekli üreticiye ücretsiz gübre dağıtarak program tarihinin en yüksek destek seviyesine ulaştı.\n\nMeksika Tarım ve Kırsal Kalkınma Bakanlığı tarafından açıklanan verilere göre, \"Gübre ile Refah\" (Fertilizantes para el Bienestar) programı kapsamında yıl sonu için belirlenen hedefin %89'u Temmuz ayının ilk haftası itibarıyla tamamlandı.\n\nBakanlık verilerine göre dağıtım merkezlerine yaklaşık 970 bin ton gübre sevk edildi. Bu miktar, planlanan toplam gübre arzının %92'sine karşılık geliyor. Bunun 900 bin tondan fazlası ise doğrudan üreticilere teslim edildi.\n\nProgram kapsamında bugüne kadar yaklaşık 3 milyon hektar tarım alanı desteklenirken, bu rakam 2026 yılı için hedeflenen 3,5 milyon hektarın %86'sına ulaştı.\n\nDestek programında kadın üreticilere de özel önem verildi. Tarımsal üretimin yoğun olduğu Guerrero eyaletinde planlanan gübre miktarının %89'u dağıtılırken, 154 binden fazla kadın çiftçi destekten yararlandı.\n\nMeksika hükümeti, Devlet Başkanı Claudia Sheinbaum döneminde sürdürülen bu programın, tarımsal üretimin artırılması ve küçük üreticilerin üretim maliyetlerinin azaltılması açısından bugüne kadar uygulanan en başarılı destek modellerinden biri olduğunu belirtti.\n\nTürkiye açısından ne ifade ediyor?\n\nMeksika'nın ücretsiz gübre programı, tarımsal üretim maliyetlerinin azaltılmasına yönelik uygulanan destek modellerine dikkat çekiyor. Gübre maliyetlerinin üretici gelirleri üzerinde önemli baskı oluşturduğu birçok ülkede olduğu gibi Ülkemizde de gübre destekleri ve üretim maliyetleri tarım sektörünün en önemli gündem başlıkları arasında yer alıyor.\n\nBu nedenle Meksika'nın uyguladığı model, tarım politikaları açısından uluslararası bir örnek olarak değerlendirilebilir.\n\nTARIM PUSULASI HABER MERKEZİ"
     },
     {
       "title": "İthal besilik hayvanlarda gübre tartışması yeniden alevlendi",
@@ -328,21 +328,5 @@
   "defaultBorsa": "5ED10",
   "defaultCity": "CANAKKALE",
   "note": "Fiyatlar TOBB ticaret borsasından (borsa seçilebilir). Kanola manuel (Trakya 2025).",
-  "inputsNote": "Mazot: akaryakıt bayi fiyatı, günlük (şehir seçilebilir). Gübre: manuel (yaklaşık).",
-  "errors": [
-    "fx: fetch failed",
-    "borsa 5ED10: fetch failed",
-    "borsa 5KO10: fetch failed",
-    "borsa 5ES10: fetch failed",
-    "mazot ANKARA: fetch failed",
-    "mazot ISTANBUL: fetch failed",
-    "mazot IZMIR: fetch failed",
-    "mazot KONYA: fetch failed",
-    "mazot ADANA: fetch failed",
-    "mazot BURSA: fetch failed",
-    "mazot ANTALYA: fetch failed",
-    "mazot SAMSUN: fetch failed",
-    "mazot TEKIRDAG: fetch failed",
-    "mazot CANAKKALE: fetch failed"
-  ]
+  "inputsNote": "Mazot: akaryakıt bayi fiyatı, günlük (şehir seçilebilir). Gübre: manuel (yaklaşık)."
 }
