@@ -1,26 +1,26 @@
 {
-  "updatedAt": "2026-07-20T15:22:04.878Z",
+  "updatedAt": "2026-07-20T16:57:04.264Z",
   "fx": [
     {
       "code": "USD",
       "name": "Dolar",
-      "buy": 471775,
-      "sell": 471868,
+      "buy": 471728,
+      "sell": 471903,
       "change": 4
     },
     {
       "code": "EUR",
       "name": "Euro",
-      "buy": 538479,
-      "sell": 53865,
-      "change": -23
+      "buy": 538715,
+      "sell": 538837,
+      "change": -19
     },
     {
       "code": "GRA",
       "name": "Gram Altın",
-      "buy": 608506,
-      "sell": 608603,
-      "change": -11
+      "buy": 608083,
+      "sell": 608162,
+      "change": -19
     },
     {
       "code": "CEYREKALTIN",
@@ -38,6 +38,14 @@
     }
   ],
   "news": [
+    {
+      "title": "TÜİK: Tarım-GFE Mayıs'ta Yıllık Yüzde 36,65 Arttı",
+      "url": "https://www.tarimpusulasi.com/haber/tuik-tarim-gfe-mayista-yillik-yuzde-3665-artti-47114",
+      "source": "Tarım Pusulası",
+      "date": "2026-07-20",
+      "summary": "Türkiye İstatistik Kurumu (TÜİK), Mayıs 2026 dönemine ilişkin Tarımsal Girdi Fiyat Endeksi (Tarım-GFE) verilerini açıkladı. Endeks mayısta aylık yüzde 0,44, yıllık bazda ise yüzde 36,65 yükselirken, en yüksek yıllık artış yüzde 63,56 ile gübre ve toprak geliştiriciler grubunda gerçekleşti.",
+      "content": "ANKARA — Türkiye İstatistik Kurumu (TÜİK), Mayıs 2026 dönemine ilişkin Tarımsal Girdi Fiyat Endeksi (Tarım-GFE) verilerini yayımladı. Açıklanan verilere göre; tarımsal girdi fiyat endeksi (Tarım-GFE) yıllık %36,65 arttı, aylık %0,44 arttı\n\nTarım-GFE'de (2020=100), 2026 yılı Mayıs ayında bir önceki aya göre %0,44 artış, bir önceki yılın Aralık ayına göre %18,01 artış, bir önceki yılın aynı ayına göre %36,65 artış ve on iki aylık ortalamalara göre %34,20 artış gerçekleşti.\n\nAna gruplarda bir önceki aya göre, tarımda kullanılan mal ve hizmetler endeksinde %0,35 artış, tarımsal yatırıma katkı sağlayan mal ve hizmetler endeksinde %1,04 artış gerçekleşti. Bir önceki yılın aynı ayına göre tarımda kullanılan mal ve hizmetler endeksinde %39,29 artış, tarımsal yatırıma katkı sağlayan mal ve hizmetler endeksinde %21,52 artış gerçekleşti.\n\nAna gruplara göre Tarım-GFE ve değişim oranları (%), Mayıs 2026\n\nEndeks\n\nBir önceki aya göre değişim oranı (%)\n\nBir önceki yılın Aralık ayına göre değişim oranı (%)\n\nBir önceki yılın aynı ayına göre değişim oranı (%)\n\nOn iki aylık ortalamalara göre değişim oranı (%)\n\nTarım-GFE\n\n1 008,08\n\n0,44\n\n18,01\n\n36,65\n\n34,20\n\nTarımda kullanılan mal ve hizmetler\n\n984,20\n\n0,35\n\n19,20\n\n39,29\n\n35,54\n\nTarımsal yatırıma katkı sağlayan mal ve hizmetler\n\n1 198,88\n\n1,04\n\n10,76\n\n21,52\n\n26,46\n\nTarım-GFE yıllık değişim oranı (%), Mayıs 2026\n\nYıllık değişimin en yüksek olduğu alt grup %63,56 artış ile gübre ve toprak geliştiriciler, aylık değişimin en yüksek olduğu alt grup %4,39 azalış ile enerji ve yağlayıcılar oldu.\n\nAlt gruplara göre Tarım-GFE yıllık değişim oranları (%), Mayıs 2026\n\nAlt gruplara göre Tarım-GFE aylık değişim oranları (%), Mayıs 2026"
+    },
     {
       "title": "TMO fiyatı piyasada karşılık bulmadı! Hububatta makas büyümeye devam ediyor",
       "url": "https://www.tarimdanhaber.com/tmo-fiyati-piyasada-karsilik-bulmadi-hububatta-makas-buyumeye-devam-ediyor",
@@ -109,14 +117,6 @@
       "date": "2026-07-20",
       "summary": "Mısır, 2026 yılında 10 milyon tonu aşan rekor buğday hasadı gerçekleştirerek ülke tarihinde ilk kez bu seviyeye ulaştı. Tarım Bakanı Alaa Faruk, artan üretim sayesinde buğday ithalatı ihtiyacının 13,2 milyon tondan 12,5 milyon tona gerilediğini açıkladı.",
       "content": "KAHİRE — Dünyanın en büyük buğday ithalatçıları arasında yer alan Mısır, 2026 yılında tarihinin en yüksek buğday üretimine ulaştı. Mısır Tarım Bakanı Alaa Faruk, ülkenin bu yıl ilk kez 10 milyon tonun üzerinde buğday hasadı gerçekleştirdiğini açıkladı.\n\nBakan Faruk'un açıklamasına göre üretim, geçen yıla göre %6,5 arttı. Artan yerli üretim sayesinde Mısır'ın buğday ithalatı ihtiyacı 13,2 milyon tondan 12,5 milyon tona geriledi.\n\nHükümet ayrıca çiftçilerden yapılacak buğday alımlarında da tarihi seviyeye yaklaştı. Sezon sonuna kadar 5 milyon ton buğdayın kamu tarafından satın alınması hedefleniyor. Bu rakam gerçekleşirse Mısır tarihindeki en yüksek kamu alımı olacak. Üreticileri teşvik etmek amacıyla devletin alım fiyatı da ardeb başına 2.500 Mısır lirasına yükseltildi. (Buğday için 1 ardeb = 150 kilogram.)\n\nÜretimdeki artışın en önemli nedenlerinden biri ekim alanlarının genişlemesi oldu. Buğday ekim alanı 3,76 milyon feddana (yaklaşık 15,8 milyon dekar) yükselirken, bu rakam geçen yıla göre 600 bin feddanlık (yaklaşık 2,52 milyon dekar) artış anlamına geliyor.\n\nVerimlilikte de önemli gelişmeler kaydedildi. Ortalama verim feddan başına 18-20 ardebe (yaklaşık 643-714 kilogram/dekar) yükselirken, modern üretim tekniklerini kullanan işletmelerde verim 28 ardeb/feddana (yaklaşık 1.000 kilogram/dekar) ulaştı.\n\nTarım Bakanı Alaa Faruk, son üç yılda Tarımsal Araştırmalar Merkezi tarafından geliştirilen yaklaşık 60 yeni çeşit ve hibritin üretim artışında önemli rol oynadığını belirtti. Yeni çeşitlerin yüksek verim, hastalıklara dayanıklılık ve iklim değişikliğine uyum özellikleriyle öne çıktığı ifade edildi.\n\nYaklaşık 2,8 milyon akr (yaklaşık 11,3 milyon dekar) alanda uygulanan modern tarım teknolojileri de üretimi destekledi. Lazerli arazi tesviyesi, derin toprak işleme ve su tasarrufu sağlayan uygulamalar sayesinde tarımsal verimliliğin yaklaşık %20 arttığı bildirildi.\n\nTürkiye açısından ne ifade ediyor?\n\nMısır, dünya buğday ticaretinin en büyük alıcılarından biri konumunda bulunuyor. Ülkenin yerli üretimini artırarak ithalat ihtiyacını azaltması, uluslararası buğday ticareti ve fiyat dengeleri açısından dikkatle izlenen bir gelişme olarak değerlendiriliyor.\n\nÜlkemiz hem önemli bir buğday üreticisi hem de un ve makarna ihracatında dünyanın önde gelen ülkeleri arasında yer alıyor. Bu nedenle Mısır gibi büyük ithalatçı ülkelerde üretimin artması ve ithalat ihtiyacının azalması, küresel tahıl piyasalarını ve ihracat dengelerini dolaylı olarak etkileyebilir.\n\nTARIM PUSULASI HABER MERKEZİ"
-    },
-    {
-      "title": "BAZA: Rus gübresine vergi AB'li çiftçiye pahalıya patladı",
-      "url": "https://www.tarimpusulasi.com/haber/baza-rus-gubresine-vergi-abli-ciftciye-pahaliya-patladi-47106",
-      "source": "Tarım Pusulası",
-      "date": "2026-07-20",
-      "summary": "Rus gübresine uygulanan ek ithalat vergileri, Avrupa Birliği'nde tarımsal üretim maliyetlerini artırdı. BAZA'nın analizine göre, AB'li üreticiler 2026'nın ilk yarısında alternatif tedarikçilerden gübre almak zorunda kaldıkları için 200-270 milyon avro ilave maliyet üstlendi.",
-      "content": "BRÜKSEL — Avrupa Birliği'nin Rus gübresine uyguladığı ilave ithalat vergileri, beklenenin aksine en büyük maliyet yükünü Avrupalı üreticilere getirdi. BAZA tarafından hazırlanan ve Agronomika'nın yayımladığı analize göre, AB'deki çiftçiler yalnızca 2026 yılının ilk altı ayında 200 ila 270 milyon avro arasında ek maliyetle karşı karşıya kaldı.\n\nAnalize göre Avrupa Birliği, Rusya'dan ithal edilen azotlu gübrelere Temmuz 2025'te ton başına 40 avro, Temmuz 2026'dan itibaren ise ton başına 60 avro ek gümrük vergisi uygulamaya başladı. Bu kararın ardından Rusya'dan yapılan gübre ithalatı 2026'nın ilk yarısında 664 bin tona geriledi.\n\nRus gübresi yerine Avrupa'nın ağırlıklı olarak Mısır, Cezayir ve ABD kaynaklı gübreye yöneldiği belirtilirken, bu alımların küresel üre fiyatlarının Orta Doğu'daki jeopolitik gelişmeler nedeniyle yükseldiği döneme denk gelmesi maliyetleri daha da artırdı.\n\nBAZA'nın hesaplamalarına göre, Avrupalı çiftçiler Rus gübresini almaya devam etseydi ve mevcut yüksek vergileri ödeseydi bile yıllık ek maliyet 190-220 milyon avro seviyesinde kalacaktı. Buna karşılık alternatif tedarikçilere yönelinmesi nedeniyle yalnızca altı ayda 200-270 milyon avroluk ilave maliyet oluştu.\n\nAnalizde dikkat çeken bir başka unsur ise Rus gübre üreticilerinin Avrupa pazarındaki kaybı kısa sürede telafi etmesi oldu. Avrupa pazarının daralması nedeniyle Rus üreticilerinin yıllık yaklaşık 1,7 milyar avro gelir kaybına uğradığı belirtilirken, sektörün yeni pazarlara yönelmesi sayesinde 2026'nın ilk çeyreğinde gübre ihracatından 3,6 milyar avro gelir elde edildi. Başlıca alıcılar arasında Brezilya, Hindistan ve diğer ülkeler yer aldı.\n\nRaporda ayrıca ABD'nin Rus üre ithalatını %60 artırdığı, ithal edilen ürünün bir bölümünün daha sonra ABD üzerinden yeniden Avrupa pazarına satıldığı iddia edildi.\n\nÖte yandan Avrupa tarımı yalnızca gübre maliyetleriyle mücadele etmiyor. Tahıl ticaret kuruluşu COCERAL, aşırı sıcak hava nedeniyle Avrupa Birliği ve Birleşik Krallık'ın tahıl üretim tahminini 16 milyon ton aşağı yönlü revize etti. Bunun üreticiler açısından yaklaşık 3 milyar avroluk gelir kaybına yol açabileceği öngörülüyor.\n\nTARIM PUSULASI HABER MERKEZİ"
     },
     {
       "title": "ESK'dan Tarım Bakanlığının talimatına aykırı kesim! Yağlı kesim talimatı yok sayıldı",
@@ -328,5 +328,17 @@
   "defaultBorsa": "5ED10",
   "defaultCity": "CANAKKALE",
   "note": "Fiyatlar TOBB ticaret borsasından (borsa seçilebilir). Kanola manuel (Trakya 2025).",
-  "inputsNote": "Mazot: akaryakıt bayi fiyatı, günlük (şehir seçilebilir). Gübre: manuel (yaklaşık)."
+  "inputsNote": "Mazot: akaryakıt bayi fiyatı, günlük (şehir seçilebilir). Gübre: manuel (yaklaşık).",
+  "errors": [
+    "mazot ANKARA: fetch failed",
+    "mazot ISTANBUL: fetch failed",
+    "mazot IZMIR: fetch failed",
+    "mazot KONYA: fetch failed",
+    "mazot ADANA: fetch failed",
+    "mazot BURSA: fetch failed",
+    "mazot ANTALYA: fetch failed",
+    "mazot SAMSUN: fetch failed",
+    "mazot TEKIRDAG: fetch failed",
+    "mazot CANAKKALE: fetch failed"
+  ]
 }
