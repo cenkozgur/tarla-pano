@@ -1,43 +1,51 @@
 {
-  "updatedAt": "2026-07-21T11:29:48.277Z",
+  "updatedAt": "2026-07-21T12:55:17.584Z",
   "fx": [
     {
       "code": "USD",
       "name": "Dolar",
-      "buy": 47.19,
-      "sell": 47.21,
+      "buy": 47.2,
+      "sell": 47.2,
       "change": 0.06
     },
     {
       "code": "EUR",
       "name": "Euro",
-      "buy": 53.94,
-      "sell": 53.95,
-      "change": 0.07
+      "buy": 53.92,
+      "sell": 53.93,
+      "change": 0.03
     },
     {
       "code": "GRA",
       "name": "Gram Altın",
-      "buy": 6159.46,
-      "sell": 6160.37,
-      "change": 1.34
+      "buy": 6155.19,
+      "sell": 6156.18,
+      "change": 1.27
     },
     {
       "code": "CEYREKALTIN",
       "name": "Çeyrek Altın",
-      "buy": 9832.03,
-      "sell": 10056.99,
-      "change": 1.25
+      "buy": 9830.32,
+      "sell": 10057.37,
+      "change": 1.26
     },
     {
       "code": "CUMHURIYETALTINI",
       "name": "Cumhuriyet Altını",
-      "buy": 40804,
-      "sell": 41414,
-      "change": 1.27
+      "buy": 40749,
+      "sell": 41365,
+      "change": 1.15
     }
   ],
   "news": [
+    {
+      "title": "Tarım ve Orman Bakanlığı: Marmara'da çekirge istilası yok",
+      "url": "https://www.tarimpusulasi.com/haber/tarim-ve-orman-bakanligi-marmarada-cekirge-istilasi-yok-47119",
+      "source": "Tarım Pusulası",
+      "date": "2026-07-21",
+      "summary": "Tarım ve Orman Bakanlığı, İstanbul ve Tekirdağ başta olmak üzere Marmara Bölgesi'nde \"çekirge istilası\" yaşandığı yönündeki paylaşımların gerçeği yansıtmadığını açıkladı. Bakanlık, bölgede tarımsal üretimi tehdit eden veya ekonomik zarar oluşturan herhangi bir çekirge popülasyonu tespit edilmediğini",
+      "content": "ANKARA — Tarım ve Orman Bakanlığı, son günlerde bazı basın yayın organları ile sosyal medya platformlarında İstanbul ve çevre illerde \"çekirge istilası\" yaşandığı yönünde paylaşılan görüntüler üzerine açıklama yaptı. Bakanlık, İstanbul ve Tekirdağ başta olmak üzere Marmara Bölgesi'nde tarımsal üretimi tehdit eden herhangi bir çekirge istilası ya da ekonomik zarar oluşturan bir çekirge popülasyonunun tespit edilmediğini bildirdi.\n\nBakanlığın teknik ekipleri tarafından yürütülen inceleme ve takip çalışmalarına göre kamuoyuna yansıyan görüntülerde bulunan çekirgelerin tamamının ülkemizde doğal olarak yaşayan yerli türlere ait olduğu belirlendi. Böylece Balkanlar, Afrika veya başka bir bölgeden sürü halinde çekirge istilası yaşandığı yönündeki iddiaların gerçeği yansıtmadığı ifade edildi.\n\nAçıklamada, İstanbul'da tespit edilen türün Beyaz yüzlü çalı çekirgesi (Decticus albifrons) olduğu ve bu türün tarımsal üretime zarar veren çekirgeler arasında yer almadığı belirtildi. Bakanlık, söz konusu türün aksine tarımsal zararlılarla beslenerek biyolojik dengeye katkı sağladığını vurguladı.\n\nTürkiye'de çok sayıda çekirge türünün doğal yaşamın bir parçası olduğu belirtilen açıklamada, iklim koşulları ile özellikle yumurtlama dönemlerinde bazı türlerin popülasyonlarında dönemsel artışlar görülebileceği kaydedildi. Rüzgârın etkisiyle yerleşim alanlarına taşınabilen çekirgelerin sıcak havalarda ışığa yönelmeleri nedeniyle vatandaşlar tarafından daha sık görülebildiği ifade edildi. Bakanlık, bu durumun doğal bir süreç olduğunu ve istila anlamına gelmediğini bildirdi.\n\nTarım ve Orman Bakanlığı, çekirge popülasyonlarının Yıllık Bitki Sağlığı Mücadele Programı kapsamında 81 ilde görev yapan teknik ekipler tarafından düzenli olarak izlendiğini açıkladı. Son günlerde yapılan ihbarlar nedeniyle İstanbul ve Tekirdağ'daki incelemelerin ayrıca yoğunlaştırıldığı belirtilirken, tarımsal üretime zarar verebilecek türlerin ekonomik zarar eşiğine ulaşması halinde gerekli mücadelenin vakit kaybetmeden uygulanacağı ifade edildi. Mevcut durumda ise böyle bir mücadeleyi gerektirecek herhangi bir durumun bulunmadığı kaydedildi.\n\nBakanlık, bitkisel üretimin korunmasına yönelik izleme, sürvey ve mücadele çalışmalarının bilimsel esaslar doğrultusunda sürdürüleceğini bildirdi.\n\nTARIM PUSULASI HABER MERKEZİ"
+    },
     {
       "title": "CHP'li Barut: Çiğ süt fiyatı üreticiyi mağdur ediyor",
       "url": "https://www.tarimpusulasi.com/haber/chpli-barut-cig-sut-fiyati-ureticiyi-magdur-ediyor-47118",
@@ -109,14 +117,6 @@
       "date": "2026-07-20",
       "summary": "Rusya'da hasadın gecikmesi, dizel yakıt teminindeki sıkıntılar ve Azak Limanı'ndaki lojistik kısıtlamalar nedeniyle temmuz ayı buğday ihracatı tahminleri aşağı yönlü revize edildi. Analistler, ihracattaki yavaşlamanın iç piyasada arz baskısını artırabileceğini belirtiyor.",
       "content": "MOSKOVA — Rusya'da buğday hasadının iklim koşulları nedeniyle gecikmesi, dizel yakıt tedarikindeki sorunlar ve Azak Limanı'ndaki lojistik kısıtlamalar, temmuz ayına ilişkin buğday ihracatı beklentilerinin aşağı yönlü revize edilmesine neden oldu.\n\nTarım Piyasaları Konjonktür Enstitüsü (IKAR), Rusya'nın temmuz ayındaki buğday ihracatının 2 milyon tonun altında kalabileceğini açıkladı. Enstitü daha önce temmuz ayı için 2,5 milyon ton ihracat öngörüyordu. Böylece beklenti yaklaşık %20 aşağı çekilmiş oldu.\n\nTarım danışmanlık şirketi SovEcon da tahminini aşağı yönlü revize etti. Kuruluş, temmuz ayı ihracat beklentisini %13 azaltarak 2 milyon tona indirdi.\n\nAnalistlere göre bu tahminlerin gerçekleşmesi halinde Rusya'nın temmuz ayı buğday ihracatı geçen yılın aynı dönemine göre %4,8, uzun yıllar ortalamasına göre ise %35,5 daha düşük gerçekleşecek.\n\nIKAR Genel Direktörü Dmitriy Rılko, temmuz ayında ihracatı sınırlandırabilecek başlıca nedenler arasında geciken hasat, önemli ithalatçı ülkelerden gelen talebin zayıf seyretmesi ve lojistikte yaşanan aksaklıkları gösterdi.\n\nBu yıl Rusya'da hasat çalışmaları geçen yılın aynı dönemine göre 7 ila 14 gün geriden geliyor. Analistler, gecikmenin geç ekim yapılması ve dizel yakıt arzındaki sıkıntılardan kaynaklandığını belirtiyor.\n\nStrategy Partners şirketinde Tüketici ve Tarım Sektörü Projeleri Direktörü Artyom Suvorov, temmuz ayının hasat sezonunda geçiş dönemi olduğunu belirterek ihracat tahminindeki düşüşün hem mevsimsel etkilerden hem de lojistik sorunlardan kaynaklandığını ifade etti.\n\nSovEcon raporunda ise Kerç Boğazı'ndaki gemi trafiğinde yaşanabilecek kısıtlamaların önemli risk oluşturduğu vurgulandı. Rapora göre 10 Temmuz 2026 tarihinden itibaren Azak-Don Kanalı'nda gemi hareketlerine sınırlamalar getirildi. Bu durum Azak Limanı'ndaki tahıl terminallerinin faaliyetlerini de etkiliyor.\n\nUlaştırma sektöründen Kommersant'a konuşan kaynaklar ise resmi bir seyrüsefer yasağı bulunmadığını, ancak taşımacılık şirketlerinin güvenlik koşullarına göre kendi operasyonlarını sınırlandırabildiğini belirtti.\n\nRusya Ulaştırma Bakanlığı, Azak Denizi'nde sivil gemilere yönelik saldırıların artması nedeniyle yük taşımacılığının sürdürülebilmesi için gerekli önlemlerin alındığını açıkladı. Bakanlık, liman başkanlıklarının gemi trafiğini hızlandırmaya yönelik çalışmalar yürüttüğünü, ihtiyaç halinde tahıl dahil dökme yüklerin diğer ulaşım türlerine yönlendirilebileceğini bildirdi.\n\nSovEcon verilerine göre Kerç Boğazı'nın gerisindeki sığ limanlardan, Rusya'nın toplam tahıl ve ayçiçek yağı ihracatının yaklaşık %25'i gerçekleştiriliyor. Bu limanlar ağırlıklı olarak Orta Doğu ülkeleriyle, özellikle de Rus buğdayının önemli alıcılarından biri olan Türkiye ile yapılan ticarette kullanılıyor.\n\nPiyasa uzmanlarına göre Karadeniz'deki derin su limanları ise daha çok Asya pazarına yönelik ihracata hizmet veriyor.\n\nSovEcon Direktörü Andrey Sizov, Kerç Boğazı'ndaki kısıtlamaların Volga Nehri üzerindeki tahıl terminallerini de etkileyebileceğini belirtti. Volga üzerinden taşınan ürünlerin önemli bölümü Volga-Don su yolu aracılığıyla Kerç Boğazı üzerinden ihraç ediliyor. Bir kısmı ise Hazar Denizi limanlarına yönlendirilerek İran'a gönderiliyor. Ancak Sizov'a göre İran, Rus buğdayında büyük bir pazar değil; bu hatta daha çok arpa ve mısır ihracatı yapılıyor.\n\nTarım şirketi Bio-Ton Yönetim Kurulu Başkanı Eduard Zernin, hasat döneminin başında yaşanan seyrüsefer kısıtlamalarının \"rahatsız edici ancak olağanüstü bir durum olmadığını\" söyledi. Zernin, Rusya'nın Karadeniz ve Kuzeybatı'daki derin su limanlarının faaliyetlerini sürdürdüğünü, şirketin ihracatını demiryolu taşımacılığıyla artırmayı planladığını ifade etti.\n\nAndrey Sizov, Rusya'nın derin su limanlarının aylık 4 ila 4,5 milyon ton tahıl ihraç edebilecek kapasiteye sahip olduğunu belirtti. Bu kapasitenin temmuz ayında yeterli olabileceğini ancak hasadın yoğunlaştığı Ağustos-Ekim döneminde aylık ihracatın 5 ila 6,5 milyon tona ulaşabildiğini söyledi. Bu nedenle lojistik kısıtlamaların etkisinin, seyrüseferdeki sınırlamaların ne kadar süreceğine bağlı olacağı ifade edildi.\n\nPiyasa temsilcileri, lojistikte yaşanan yeniden yapılanmanın özellikle hasat döneminde kolay olmayacağını, yakıt arzındaki sıkıntılar nedeniyle taşıma maliyetlerinin de artabileceğini belirtiyor. Bazı üreticilerin ürünlerini geçici olarak depolamak zorunda kalabileceği, bunun da iç piyasada arz fazlası oluşturarak fiyatlar üzerinde baskı yaratabileceği değerlendiriliyor.\n\nKSM Analitik Ajansı'nın verilerine göre, 13 Temmuz 2026 itibarıyla Rusya'nın güney bölgelerinde 3. sınıf buğdayın ortalama fiyatı ton başına 15 bin ruble seviyesinde bulunuyor. Geçen yıl aynı tarihte fiyat 15 bin 500 ruble/ton düzeyindeydi. Analistler, artan üretim maliyetlerine rağmen fiyatların yükselmemesinin üreticilerin kârlılığını olumsuz etkilediğine dikkat çekiyor.\n\nTARIM PUSULASI HABER MERKEZİ"
-    },
-    {
-      "title": "StoneX: Küresel gübre piyasasında belirsizlik azalabilir",
-      "url": "https://www.tarimpusulasi.com/haber/stonex-kuresel-gubre-piyasasinda-belirsizlik-azalabilir-47111",
-      "source": "Tarım Pusulası",
-      "date": "2026-07-20",
-      "summary": "StoneX'in yayımladığı 36. Çeyreklik Emtia Piyasaları Görünüm Raporu, Orta Doğu'daki çatışmaların ardından küresel gübre piyasasında görülen yüksek oynaklığın 2026 yılının üçüncü çeyreğinde azalabileceğini ortaya koydu. Rapora göre ABD-İran görüşmelerindeki ilerleme ve Hürmüz Boğazı'nda deniz taşımac",
-      "content": "CHICAGO — Tarım ve emtia analiz şirketi StoneX, yayımladığı 36. Çeyreklik Emtia Piyasaları Görünüm Raporu'nda, 2026 yılının üçüncü çeyreğinde küresel gübre piyasasının, Orta Doğu'daki çatışmaların başlamasının ardından görülen yüksek oynaklık dönemine kıyasla daha öngörülebilir bir yapıya kavuşabileceğini bildirdi.\n\nRapora göre, ABD ile İran arasında yürütülen diplomatik görüşmelerde kaydedilen ilerleme, küresel gübre piyasasındaki belirsizliği azaltabilecek önemli gelişmeler arasında gösteriliyor. StoneX, Hürmüz Boğazı'nda deniz taşımacılığının yeniden normalleşmesi ve Çin'in üre ihracatını kademeli olarak artırmasının, son aylarda fiyatları yukarı yönlü baskılayan arz sıkışıklığını hafifletebileceğini değerlendirdi.\n\nStoneX analisti Thomas Pernias, diplomatik sürecin olumlu ilerlemesinin küresel gübre piyasasındaki riskleri azalttığını belirterek, bunun yılın ikinci yarısında ticaret akışlarının normalleşeceğine yönelik beklentileri güçlendirdiğini ifade etti. Ancak analist, bunun yeni jeopolitik risklerin tamamen ortadan kalktığı anlamına gelmediğinin de altını çizdi.\n\nRaporda, normalleşme sürecinin tüm gübre gruplarını aynı şekilde etkilemeyeceği vurgulandı. Azotlu gübre piyasasında fiyatların sert düzeltme yaşadığı ve yeniden toparlanma potansiyeli bulunduğu belirtilirken, fosfatlı gübre piyasasında yapısal arz sorunlarının fiyatların hızlı gerilemesini engellemeye devam ettiği kaydedildi.\n\nStoneX'e göre, Orta Doğu'daki çatışmaların en yoğun döneminde tarihi zirvelere çıkan üre fiyatları, son aylarda önemli ölçüde geriledi. Raporda örnek olarak Brezilya'da üre fiyatlarının Nisan ayında ton başına yaklaşık 800 ABD dolarına ulaştığı, ancak yalnızca dokuz hafta içinde yaklaşık %50 düştüğü belirtildi.\n\nAnalistler, lojistikte yaşanan iyileşmenin tek başına piyasanın çatışma öncesi koşullara döneceği anlamına gelmediğini ifade etti. Özellikle kükürt arzındaki belirsizliğin, fosfatlı gübre üretimi açısından kritik önemini koruduğu ve bu nedenle fiyatlardaki olası düşüşlerin daha yavaş gerçekleşebileceği değerlendirildi.\n\nRaporda ayrıca Çin'in monoamonyum fosfat (MAP) ve diamonyum fosfat (DAP) ihracatında güçlü bir toparlanma ihtimalinin düşük olduğu belirtilirken, bunun fosfatlı gübre fiyatlarının uzun süre yüksek seviyelerde kalmasına neden olabileceği ifade edildi.\n\nPotasyumlu gübre piyasasında ise daha dengeli bir görünüm öne çıkıyor. StoneX, alıcıların fiyat artışlarını kabul etmekte temkinli davrandığını ve küresel arzda önemli bir daralma işareti bulunmadığını bildirdi.\n\nThomas Pernias, potasyum piyasasında arz ve talep dengesinin görece istikrarlı olduğunu belirterek, mevcut koşullarda fiyatlarda sert yükseliş ya da sert düşüşü destekleyecek temel bir unsur bulunmadığını söyledi.\n\nTARIM PUSULASI HABER MERKEZİ"
     },
     {
       "title": "ESK'dan Tarım Bakanlığının talimatına aykırı kesim! Yağlı kesim talimatı yok sayıldı",
