@@ -1,26 +1,26 @@
 {
-  "updatedAt": "2026-07-21T01:10:34.287Z",
+  "updatedAt": "2026-07-21T04:33:00.955Z",
   "fx": [
     {
       "code": "USD",
       "name": "Dolar",
-      "buy": 471827,
-      "sell": 472032,
-      "change": 5
+      "buy": 471969,
+      "sell": 472094,
+      "change": 7
     },
     {
       "code": "EUR",
       "name": "Euro",
-      "buy": 538987,
-      "sell": 539281,
-      "change": 2
+      "buy": 539157,
+      "sell": 539266,
+      "change": 3
     },
     {
       "code": "GRA",
       "name": "Gram Altın",
-      "buy": 611194,
-      "sell": 611281,
-      "change": 56
+      "buy": 613959,
+      "sell": 614052,
+      "change": 101
     },
     {
       "code": "CEYREKALTIN",
@@ -38,6 +38,14 @@
     }
   ],
   "news": [
+    {
+      "title": "Dicle Elektrik: Şanlıurfa'da kaçak kullanım yüzde 94'e ulaştı",
+      "url": "https://www.tarimpusulasi.com/haber/dicle-elektrik-sanliurfada-kacak-kullanim-yuzde-94e-ulasti-47116",
+      "source": "Tarım Pusulası",
+      "date": "2026-07-21",
+      "summary": "Dicle Elektrik, Şanlıurfa'da tarımsal sulama sezonunda bazı bölgelerde kaçak elektrik tüketiminin yüzde 94'e ulaştığını açıkladı. Şirket verilerine göre 28 mahallede ortalama kaçak tüketim oranı yüzde 90 olurken, 17 bin 143 tarımsal sulama abonesinin yaklaşık yüzde 70'inin elektrik borcu bulunduğu b",
+      "content": "ŞANLIURFA — Dicle Elektrik, tarımsal sulama sezonunda Şanlıurfa'nın bazı bölgelerinde kaçak elektrik tüketiminin yüzde 94'e ulaştığını açıkladı. Şirket, kaçak kullanımın yoğun olduğu alanlarda enerji şebekesinin aşırı yüklendiğini ve bunun kesinti riskini artırdığını bildirirken, bazı mahallelerde elektrik faturalarının tahsilat oranının yalnızca yüzde 5 seviyesinde kaldığını duyurdu.\n\nŞirket tarafından paylaşılan verilere göre kaçak elektrik kullanımının en yüksek olduğu bölgeler, Harran ilçesine bağlı Damlasu Mahallesi ile Eyyübiye ilçesine bağlı Yolbaşı ve Keskin mahalleleri oldu. Bu mahallelerde tarımsal sulama döneminde kaçak elektrik tüketim oranının yüzde 94'e ulaştığı belirtildi. Ayrıca 28 mahallede ortalama kaçak tüketim oranının yüzde 90 olarak ölçüldüğü açıklandı. Buna göre söz konusu mahallelerdeki kaçak kullanım oranı, en yüksek seviyenin yalnızca 4 puan altında bulunuyor.\n\nDicle Elektrik verilerine göre Eyyübiye, Harran, Akçakale ve Ceylanpınar ilçelerinde Damlasu, Türkoğlu ve Demirli enerji hatlarından elektrik alan 591 tarımsal sulama abonesinin 554'ünün vadesi geçmiş elektrik borcu bulunuyor. Bu sayı, toplam abonelerin yaklaşık yüzde 93,7'sine karşılık geliyor. Aynı bölgelerde elektrik tüketim bedelini düzenli ödeyen üreticilerin oranının ise yüzde 5 seviyesinde olduğu bildirildi.\n\nŞirket, bazı abonelerin yaklaşık 10 yıldır elektrik borçlarını ödemediğini ve harici bağlantılarla kaçak elektrik kullanmaya devam ettiğini ileri sürdü.\n\nİl genelindeki verilere göre Şanlıurfa'da toplam 17 bin 143 tarımsal sulama abonesi bulunuyor. Dicle Elektrik, bu abonelerin yaklaşık yüzde 70'inin elektrik borcu bulunduğunu açıkladı. Şirket, tarımsal sulamadan kaynaklanan ödenmemiş elektrik borcunun ise milyarlarca lira seviyesine ulaştığını bildirdi. Açıklamada kesin borç tutarı paylaşılmadığı için toplam miktara ilişkin sayısal bir değer verilmedi.\n\nDicle Elektrik, kaçak tüketim ve tahsilat sorunlarının mevcut düzeyde sürmesi halinde enerji şebekesi üzerindeki yükün daha da artabileceğini belirtti. Şirket, bunun yalnızca kaçak elektrik kullanan aboneleri değil, borcunu düzenli ödeyen üreticiler ile diğer aboneleri de etkileyebileceğini ifade etti.\n\nAçıklamada ayrıca, elektrik bedelini düzenli ödeyen üreticilerin olası kesintilerden etkilenmemesi amacıyla jeneratör desteği sağlandığı belirtildi. Şirket, jeneratörlerin yakıt maliyetlerinin de karşılandığını ve bu uygulamayla üretimde aksama yaşanmamasının hedeflendiğini bildirdi.\n\nHaberde yer alan kaçak tüketim, tahsilat ve borç bilgileri Dicle Elektrik'in kamuoyuyla paylaştığı verilere dayanıyor.\n\nTARIM PUSULASI HABER MERKEZİ"
+    },
     {
       "title": "Rabobank: El Niño Küresel Avokado Arzını Zorlayabilir",
       "url": "https://www.tarimpusulasi.com/haber/rabobank-el-nino-kuresel-avokado-arzini-zorlayabilir-47115",
@@ -109,14 +117,6 @@
       "date": "2026-07-20",
       "summary": "Avrupa Komisyonu, Avrupa Birliği'nin (AB) 2026/27 sezonuna ilişkin tarım piyasaları görünümünü yayımladı. Rapora göre tahıl üretiminin 273,7 milyon tona ulaşması beklenirken, yağlı tohum üretiminin artacağı, şeker üretiminin ise düşebileceği öngörülüyor. Raporda, bu gelişmelerin Ülkemizin tahıl ve y",
       "content": "BRÜKSEL — Avrupa Komisyonu, Avrupa Birliği'nin (AB) 2026 yılı tarım piyasalarına ilişkin kısa vadeli görünüm raporunu yayımladı. Raporda, Orta Doğu'daki çatışmaların etkilerine, olumsuz hava koşullarına ve ticarette devam eden belirsizliklere rağmen AB tarım piyasalarının kısa vadede olumlu görünümünü koruduğu belirtildi.\n\nRapora göre üreticilerin artan girdi maliyetleri kârlılığı baskılamaya devam ederken, bunun tarım sektöründe belirsizlik oluşturan temel unsurlardan biri olduğu ifade edildi.\n\nAvrupa Komisyonu, AB genelinde birçok tarla bitkisinin gelişiminin olumlu seyrettiğini bildirdi. Kışlık ürünlerde verimin uzun yıllar ortalamasının üzerine çıkması beklenirken, ilkbahar ve yazlık ürünlerde özellikle kurak bölgelerde yüksek sıcaklık ve su yetersizliği riskinin devam ettiği kaydedildi.\n\nKomisyonun tahminlerine göre AB'nin 2026/27 sezonu tahıl üretimi 273,7 milyon ton olacak. Bu miktar, önceki sezonun sıra dışı seviyelerinin ardından uzun yıllar ortalamasına dönüş anlamına geliyor.\n\nRaporda ayrıca yağlı tohum üretiminin %3,1 artmasının beklendiği belirtilirken, protein bitkileri üretiminin bir miktar gerilemesine rağmen uzun yıllar ortalamasının üzerinde kalacağı öngörüldü.\n\nŞeker sektöründe ise farklı bir tablo dikkat çekiyor. Avrupa Komisyonu, şeker pancarı ekim alanlarının daralması nedeniyle şeker üretiminin düşebileceğini tahmin ediyor.\n\nTürkiye açısından ne anlama geliyor?\n\nAvrupa Birliği, Ülkemizin en önemli tarım ticareti ortaklarından biri konumunda bulunuyor. AB'de tahıl ve yağlı tohum üretimindeki değişimler; hububat, ayçiçeği, kanola ve bitkisel yağ piyasalarının yanı sıra dış ticaret fiyatlarını da etkileyebiliyor. Bu nedenle Avrupa Komisyonu'nun üretim tahminleri, Türkiye'deki üreticiler, ihracatçılar ve ithalatçılar açısından yakından takip edilen göstergeler arasında yer alıyor.\n\nTARIM PUSULASI HABER MERKEZİ"
-    },
-    {
-      "title": "Oil World: AB ayçiçeği üretimi artarken Türkiye'nin ithalatı azalabilir",
-      "url": "https://www.tarimpusulasi.com/haber/oil-world-ab-aycicegi-uretimi-artarken-turkiyenin-ithalati-azalabilir-47108",
-      "source": "Tarım Pusulası",
-      "date": "2026-07-20",
-      "summary": "Almanya merkezli Oil World, Avrupa Birliği'nin 2026/27 sezonunda ayçiçeği üretiminin 9,8 milyon tona ulaşacağını öngördü. Rapora göre Ülkemizde beklenen rekor ayçiçeği hasadı, Avrupa Birliği'nden yapılacak ayçiçeği ithalatını önemli ölçüde azaltabilir.",
-      "content": "HAMBURG — Almanya merkezli tarım piyasaları analiz kuruluşu Oil World, Avrupa Birliği'nin (AB) 2026/27 pazarlama yılında 9,8 milyon ton ayçiçeği üretimi gerçekleştirebileceğini öngördü. Bu miktar, geçen sezona göre 1,1 milyon ton daha yüksek üretime işaret ediyor.\n\nRapora göre üretimde beklenen artışın temel nedenleri, geçen sezon yaşanan kuraklığın ardından topraktaki nem rezervlerinin iyileşmesi ve ekim alanlarının genişlemesi olarak gösterildi.\n\nAyçiçeği ekim alanını en fazla artıran ülkeler Macaristan, Fransa, Bulgaristan, Romanya ve İspanya oldu. Haziran ayı sonunda görülen yüksek sıcaklıklara rağmen birçok bölgede etkili olan yağışlar, ekili alanların gelişimini olumlu yönde etkiledi.\n\nOil World, bu gelişmeler sayesinde AB genelinde ortalama ayçiçeği veriminin geçen sezona göre yaklaşık %6 artabileceğini tahmin ediyor. Ancak raporda, yağ işleme tesislerinin sınırlı kapasitesi ile kanola ve soya fasulyesi üretiminin oluşturduğu rekabetin üretim artışını sınırlandırabilecek unsurlar arasında yer aldığı belirtildi.\n\nRaporda ticarette de önemli değişiklikler yaşanabileceğine dikkat çekildi. Ülkemizde beklenen rekor ayçiçeği hasadının gerçekleşmesi halinde, ayçiçeği ithalatı ihtiyacının önemli ölçüde azalabileceği ifade edildi. Bu durumun özellikle Romanya ve Bulgaristan'ın Türkiye'ye yönelik ayçiçeği ihracatını azaltabileceği değerlendiriliyor.\n\nAnalize göre AB de artan kendi üretimi ve ihracattaki yavaşlama nedeniyle ithal ayçiçeğine daha az ihtiyaç duyacak. 2026/27 sezonunda AB'nin ayçiçeği ithalatının yaklaşık yarı yarıya azalarak 0,9 milyon tona gerilemesi bekleniyor. Bu gelişmenin Avrupa pazarına önemli miktarda ürün satan Arjantinli ihracatçıları olumsuz etkileyebileceği ifade edildi.\n\nOleoScope'un haziran sonu verilerine göre AB'de ayçiçeği ekim alanı 12,8 milyon hektara (yaklaşık 128 milyon dekar) ulaştı. Bu rakam, Haziran 2025'e göre 1,4 milyon hektar (yaklaşık 14 milyon dekar) artışa işaret ediyor. Böylece ekim alanları geçen sezon gerçekleşen nihai seviyenin de yaklaşık %4 üzerine çıktı.\n\nTürkiye açısından ne anlama geliyor?\n\nAB'nin üretimini artırması ve Ülkemizde beklenen yüksek ayçiçeği üretimi, Türkiye'nin ithalat ihtiyacını azaltabilir. Bunun gerçekleşmesi halinde Romanya ve Bulgaristan başta olmak üzere Türkiye'ye ayçiçeği ihraç eden AB ülkelerinin satışlarında düşüş yaşanabilir. Aynı zamanda uluslararası ayçiçeği ticareti ve fiyat dengelerinde de değişiklikler görülebilir.\n\nTARIM PUSULASI HABER MERKEZİ"
     },
     {
       "title": "ESK'dan Tarım Bakanlığının talimatına aykırı kesim! Yağlı kesim talimatı yok sayıldı",
@@ -328,5 +328,17 @@
   "defaultBorsa": "5ED10",
   "defaultCity": "CANAKKALE",
   "note": "Fiyatlar TOBB ticaret borsasından (borsa seçilebilir). Kanola manuel (Trakya 2025).",
-  "inputsNote": "Mazot: akaryakıt bayi fiyatı, günlük (şehir seçilebilir). Gübre: manuel (yaklaşık)."
+  "inputsNote": "Mazot: akaryakıt bayi fiyatı, günlük (şehir seçilebilir). Gübre: manuel (yaklaşık).",
+  "errors": [
+    "mazot ANKARA: fetch failed",
+    "mazot ISTANBUL: fetch failed",
+    "mazot IZMIR: fetch failed",
+    "mazot KONYA: fetch failed",
+    "mazot ADANA: fetch failed",
+    "mazot BURSA: fetch failed",
+    "mazot ANTALYA: fetch failed",
+    "mazot SAMSUN: fetch failed",
+    "mazot TEKIRDAG: fetch failed",
+    "mazot CANAKKALE: fetch failed"
+  ]
 }
