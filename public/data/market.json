@@ -1,32 +1,32 @@
 {
-  "updatedAt": "2026-07-21T04:33:00.955Z",
+  "updatedAt": "2026-07-21T07:13:56.306Z",
   "fx": [
     {
       "code": "USD",
       "name": "Dolar",
-      "buy": 471969,
-      "sell": 472094,
-      "change": 7
+      "buy": 47.2,
+      "sell": 47.2,
+      "change": 0.06
     },
     {
       "code": "EUR",
       "name": "Euro",
-      "buy": 539157,
-      "sell": 539266,
-      "change": 3
+      "buy": 53.95,
+      "sell": 53.96,
+      "change": 0.1
     },
     {
       "code": "GRA",
       "name": "Gram Altın",
-      "buy": 613959,
-      "sell": 614052,
-      "change": 101
+      "buy": 6179.97,
+      "sell": 6180.85,
+      "change": 1.68
     },
     {
       "code": "CEYREKALTIN",
       "name": "Çeyrek Altın",
-      "buy": 971037,
-      "sell": 993263,
+      "buy": 9710.37,
+      "sell": 9932.63,
       "change": 0
     },
     {
@@ -34,10 +34,26 @@
       "name": "Cumhuriyet Altını",
       "buy": 40284,
       "sell": 40894,
-      "change": -53
+      "change": -0.53
     }
   ],
   "news": [
+    {
+      "title": "CHP'li Barut: Çiğ süt fiyatı üreticiyi mağdur ediyor",
+      "url": "https://www.tarimpusulasi.com/haber/chpli-barut-cig-sut-fiyati-ureticiyi-magdur-ediyor-47118",
+      "source": "Tarım Pusulası",
+      "date": "2026-07-21",
+      "summary": "Cumhuriyet Halk Partisi (CHP) Adana Milletvekili Ayhan Barut, Ulusal Süt Konseyi'nin çiğ inek sütü tavsiye satış fiyatını litre başına 24,30 TL olarak sürdürme kararına tepki gösterdi. Üretim maliyetlerinin arttığını belirten Barut, çiftçi borcunun 1 trilyon 400 milyar lirayı aştığını, bir çuval yem",
+      "content": "ADANA — Cumhuriyet Halk Partisi (CHP) Adana Milletvekili ve TBMM Tarım, Orman ve Köyişleri Komisyonu Üyesi Ayhan Barut, Ulusal Süt Konseyi'nin (USK) çiğ inek sütü tavsiye satış fiyatını litre başına net 24,30 TL olarak uygulamaya devam etme kararını eleştirdi. Barut, artan üretim maliyetleri karşısında mevcut fiyatın üreticinin giderlerini karşılamadığını savundu.\n\nBarut, yaptığı açıklamada üretim maliyetlerinin yükselmeye devam ettiğini, buna karşın çiğ süt tavsiye fiyatında artış yapılmadığını belirtti. Çiftçi borcunun 1 trilyon 400 milyar lirayı aştığını, bir çuval yemin ise 1.000 liranın üzerine çıktığını ifade eden Barut, mevcut fiyat politikasının süt üreticilerini zor durumda bıraktığını ileri sürdü.\n\nUlusal Süt Konseyi'nin maliyetlerde gerileme olduğu gerekçesiyle tavsiye satış fiyatını değiştirmeme kararına tepki gösteren Barut, üretimin sürdürülebilirliği açısından üreticinin emeğinin karşılığını alabileceği bir fiyat mekanizmasının oluşturulması gerektiğini söyledi.\n\nBarut, yem-süt paritesine göre üreticinin sattığı 1 litre sütle en az 1,5 kilogram yem alabilmesi gerektiğini belirterek mevcut fiyat ve maliyet yapısında bu dengenin sağlanamadığını savundu.\n\nÜreticilerin yalnızca yem değil; enerji, işçilik, veterinerlik hizmetleri, bakım ve diğer üretim girdilerindeki artışlardan da olumsuz etkilendiğini dile getiren Barut, birçok süt üreticisinin zararına üretim yaptığını, bazı işletmelerin ise süt hayvanlarını kesime göndermek zorunda kaldığını ifade etti.\n\nDamızlık hayvan varlığındaki olası azalmanın yalnızca bugünkü süt üretimini değil, gelecekte et ve süt arzını da etkileyebileceğini belirten Barut, bunun sektör açısından önemli bir risk oluşturduğunu kaydetti.\n\nSüt sektöründe geçici çözümler yerine kalıcı politikaların uygulanması gerektiğini ifade eden Barut, üretim maliyetlerini esas alan adil bir fiyatlandırma sistemi kurulmasını, yem başta olmak üzere temel üretim girdilerinde desteklerin artırılmasını ve küçük ile orta ölçekli işletmelerin üretimde kalmasını sağlayacak teşvik mekanizmalarının güçlendirilmesini istedi.\n\nBarut, üreticinin desteklenmesinin tüketicinin korunması açısından da önem taşıdığını belirterek gıda arz güvenliği ve süt sektörünün sürdürülebilirliği için üretim odaklı tarım politikalarının hayata geçirilmesi gerektiğini ifade etti.\n\nTARIM PUSULASI HABER MERKEZİ"
+    },
+    {
+      "title": "SuperFresh: Hasat edilen ürünler IQF teknolojisiyle işleniyor",
+      "url": "https://www.tarimpusulasi.com/haber/superfresh-hasat-edilen-urunler-iqf-teknolojisiyle-isleniyor-47117",
+      "source": "Tarım Pusulası",
+      "date": "2026-07-21",
+      "summary": "SuperFresh, hasat döneminde sözleşmeli çiftçiler ve ziraat mühendisleriyle yürüttüğü üretim modelini paylaştı. Şirket, yıllık yaklaşık 150 bin ton üretim gerçekleştirdiğini, Türkiye dondurulmuş gıda pazarında perakende kanalında yüzde 34 payla lider konumda bulunduğunu ve IQF teknolojisiyle ürünleri",
+      "content": "İSTANBUL — SuperFresh, hasat döneminde sözleşmeli çiftçiler ve uzman ziraat mühendisleriyle yürüttüğü üretim modelini kamuoyuyla paylaştı. Şirket, hasat edilen ürünlerin bekletilmeden üretim tesislerine ulaştırıldığını ve IQF (Hızlı Bireysel Dondurma) teknolojisiyle işlenerek mevsimindeki lezzet ve besin değerinin korunmasının hedeflendiğini açıkladı.\n\nŞirket açıklamasına göre SuperFresh, Türkiye dondurulmuş gıda pazarında perakende kanalında yüzde 34 pazar payıyla dondurulmuş sebze kategorisinde lider konumda bulunuyor. Yaklaşık 150 bin ton yıllık üretim hacmi ve 300'e yakın sözleşmeli çiftçi ile faaliyetlerini sürdüren şirket, entegre üretim modeliyle yerli tarımsal üretimi desteklediğini belirtti.\n\nHasat döneminde ürünlerin ideal olgunluk seviyesine ulaştıktan sonra toplandığı belirtilirken, ekim planlaması, hasat zamanı, kalite kontrol ve üretim süreçlerinin ziraat mühendisleri ile üreticiler tarafından birlikte yürütüldüğü ifade edildi. Ispanak, bezelye ve mısır gibi ürünlerin hasat planlamasının mevsimsel olgunluk esas alınarak gerçekleştirildiği aktarıldı.\n\nŞirket açıklamasında, hasat edilen ürünlerin fabrikaya ulaştırıldıktan sonra -40 dereceye kadar üretim koşullarında IQF teknolojisiyle tek tek dondurulduğu bildirildi. Bu yöntemin ürünlerin birbirine yapışmasını önlediği, doku, lezzet ve besin değerinin korunmasına katkı sağladığı ifade edildi.\n\nSuperFresh ayrıca, dondurulmuş ürünlerin yalnızca ihtiyaç kadar kullanılabilmesinin gıda israfının azaltılmasına katkı sunduğunu belirtti. Ön hazırlığı yapılmış ürünlerin tüketicilere pratik kullanım imkânı sağladığı da vurgulandı.\n\nBesler Pazarlama ve Sürdürülebilirlikten Sorumlu Başkan Yardımcısı Gülizar Doğan, şirketin üretim modeline ilişkin değerlendirmesinde, ürün yolculuğunun tarlada başladığını ve çiftçilerle uzun vadeli iş birlikleri yürüttüklerini belirtti. Doğan, IQF teknolojisi sayesinde ürünlerin mevsimindeki kalitesini yıl boyunca korumayı hedeflediklerini ifade etti.\n\nDoğan, \"Döngüsel Bereket\" yaklaşımıyla kaliteli ürün sunmanın yanı sıra tarımsal üretimin değerini korumayı, gıda israfıyla mücadeleye katkı sağlamayı ve sürdürülebilir bir gıda sistemi oluşturmayı öncelikleri arasında gördüklerini kaydetti.\n\nAçıklamada, SuperFresh'in sözleşmeli tarım modeli, ileri üretim teknolojileri ve sürdürülebilirlik odaklı uygulamalarıyla yerli tarımsal üretimi desteklemeye ve gıda israfının azaltılmasına yönelik çalışmalarını sürdürdüğü bildirildi.\n\nTARIM PUSULASI HABER MERKEZİ"
+    },
     {
       "title": "Dicle Elektrik: Şanlıurfa'da kaçak kullanım yüzde 94'e ulaştı",
       "url": "https://www.tarimpusulasi.com/haber/dicle-elektrik-sanliurfada-kacak-kullanim-yuzde-94e-ulasti-47116",
@@ -101,22 +117,6 @@
       "date": "2026-07-20",
       "summary": "StoneX'in yayımladığı 36. Çeyreklik Emtia Piyasaları Görünüm Raporu, Orta Doğu'daki çatışmaların ardından küresel gübre piyasasında görülen yüksek oynaklığın 2026 yılının üçüncü çeyreğinde azalabileceğini ortaya koydu. Rapora göre ABD-İran görüşmelerindeki ilerleme ve Hürmüz Boğazı'nda deniz taşımac",
       "content": "CHICAGO — Tarım ve emtia analiz şirketi StoneX, yayımladığı 36. Çeyreklik Emtia Piyasaları Görünüm Raporu'nda, 2026 yılının üçüncü çeyreğinde küresel gübre piyasasının, Orta Doğu'daki çatışmaların başlamasının ardından görülen yüksek oynaklık dönemine kıyasla daha öngörülebilir bir yapıya kavuşabileceğini bildirdi.\n\nRapora göre, ABD ile İran arasında yürütülen diplomatik görüşmelerde kaydedilen ilerleme, küresel gübre piyasasındaki belirsizliği azaltabilecek önemli gelişmeler arasında gösteriliyor. StoneX, Hürmüz Boğazı'nda deniz taşımacılığının yeniden normalleşmesi ve Çin'in üre ihracatını kademeli olarak artırmasının, son aylarda fiyatları yukarı yönlü baskılayan arz sıkışıklığını hafifletebileceğini değerlendirdi.\n\nStoneX analisti Thomas Pernias, diplomatik sürecin olumlu ilerlemesinin küresel gübre piyasasındaki riskleri azalttığını belirterek, bunun yılın ikinci yarısında ticaret akışlarının normalleşeceğine yönelik beklentileri güçlendirdiğini ifade etti. Ancak analist, bunun yeni jeopolitik risklerin tamamen ortadan kalktığı anlamına gelmediğinin de altını çizdi.\n\nRaporda, normalleşme sürecinin tüm gübre gruplarını aynı şekilde etkilemeyeceği vurgulandı. Azotlu gübre piyasasında fiyatların sert düzeltme yaşadığı ve yeniden toparlanma potansiyeli bulunduğu belirtilirken, fosfatlı gübre piyasasında yapısal arz sorunlarının fiyatların hızlı gerilemesini engellemeye devam ettiği kaydedildi.\n\nStoneX'e göre, Orta Doğu'daki çatışmaların en yoğun döneminde tarihi zirvelere çıkan üre fiyatları, son aylarda önemli ölçüde geriledi. Raporda örnek olarak Brezilya'da üre fiyatlarının Nisan ayında ton başına yaklaşık 800 ABD dolarına ulaştığı, ancak yalnızca dokuz hafta içinde yaklaşık %50 düştüğü belirtildi.\n\nAnalistler, lojistikte yaşanan iyileşmenin tek başına piyasanın çatışma öncesi koşullara döneceği anlamına gelmediğini ifade etti. Özellikle kükürt arzındaki belirsizliğin, fosfatlı gübre üretimi açısından kritik önemini koruduğu ve bu nedenle fiyatlardaki olası düşüşlerin daha yavaş gerçekleşebileceği değerlendirildi.\n\nRaporda ayrıca Çin'in monoamonyum fosfat (MAP) ve diamonyum fosfat (DAP) ihracatında güçlü bir toparlanma ihtimalinin düşük olduğu belirtilirken, bunun fosfatlı gübre fiyatlarının uzun süre yüksek seviyelerde kalmasına neden olabileceği ifade edildi.\n\nPotasyumlu gübre piyasasında ise daha dengeli bir görünüm öne çıkıyor. StoneX, alıcıların fiyat artışlarını kabul etmekte temkinli davrandığını ve küresel arzda önemli bir daralma işareti bulunmadığını bildirdi.\n\nThomas Pernias, potasyum piyasasında arz ve talep dengesinin görece istikrarlı olduğunu belirterek, mevcut koşullarda fiyatlarda sert yükseliş ya da sert düşüşü destekleyecek temel bir unsur bulunmadığını söyledi.\n\nTARIM PUSULASI HABER MERKEZİ"
-    },
-    {
-      "title": "Oil World: Küresel soya ihracatında Türkiye öne çıkan alıcılar arasında",
-      "url": "https://www.tarimpusulasi.com/haber/oil-world-kuresel-soya-ihracatinda-turkiye-one-cikan-alicilar-arasinda-47110",
-      "source": "Tarım Pusulası",
-      "date": "2026-07-20",
-      "summary": "Oil World verilerine göre 2026 yılının ikinci çeyreğinde küresel soya ihracatı geçen yılın aynı dönemine göre %10 artarak 57 milyon tona ulaştı. Raporda, ihracatın büyük bölümünün Çin'e yapılırken, Türkiye'nin de en önemli alıcı ülkeler arasında yer aldığı belirtildi.",
-      "content": "HAMBURG — Tarım piyasaları analiz kuruluşu Oil World, 2026 yılının ikinci çeyreğinde küresel soya ihracatının rekor seviyeye ulaştığını açıkladı. Rapora göre dünya soya ihracatı Nisan-Haziran 2026 döneminde 57 milyon ton olarak gerçekleşti. Bu miktar, geçen yılın aynı dönemine göre %10'luk artışa işaret ediyor.\n\nHaziran ayında dünyanın en büyük beş soya ihracatçısı olan ABD, Kanada, Brezilya, Arjantin ve Ukrayna, toplam 17,49 milyon ton soya sevkiyatı gerçekleştirdi. Bu rakam, geçen yılın aynı ayına göre 1 milyon ton daha yüksek oldu.\n\nÜlkelere göre ihracatta Brezilya 14,5 milyon ton ile ilk sırada yer aldı. Brezilya'nın geçen yıl haziran ayındaki ihracatı 13,4 milyon ton seviyesindeydi. ABD'nin ihracatı ise 1,87 milyon tona yükselirken, geçen yıl aynı ay 1,5 milyon ton olarak kaydedildi.\n\nOil World'e göre, 57 milyon tonluk küresel soya ihracatının yaklaşık %70'i Çin'e gönderildi. Kalan ihracat ise ağırlıklı olarak Türkiye, Pakistan, Bangladeş, Tayland, Vietnam, Mısır ve Cezayir pazarlarına yöneldi.\n\nRaporda, Çin'in haziran ayındaki soya ithalatının beklentilerin altında kaldığı belirtildi. Çin, Haziran 2026'da 11,54 milyon ton soya ithal etti. Bu rakam, Haziran 2025'teki 11,27 milyon tonun üzerinde olsa da beklentilerin gerisinde kaldı. Analistler, Çin'in ithalat artış hızındaki yavaşlamanın Haziran-Ağustos 2026 dönemindeki küresel alımları etkileyebileceğini değerlendiriyor.\n\nAvrupa Birliği'nde de soya talebinde zayıflama dikkat çekiyor. Rapora göre, 2026 yılının başından bu yana birlik ülkelerinde soya ve soya küspesi tüketimi geriledi. Beş büyük ihracatçıdan Avrupa Birliği'ne yapılan sevkiyat ise Ocak-Mart 2026 döneminde 2,96 milyon ton ile geçen yılın aynı dönemine göre değişmedi.\n\nTürkiye açısından değerlendirme\n\nOil World raporunda Türkiye, Çin'in ardından küresel soya ticaretinde öne çıkan alıcı ülkeler arasında gösteriliyor. Türkiye'nin yem sanayi, kanatlı sektörü ve bitkisel yağ üretimi için büyük ölçüde ithal soyaya ve soya küspesine ihtiyaç duyması nedeniyle, küresel arz ve talepte yaşanan değişimler iç piyasadaki hammadde maliyetleri ile yem sektörünü doğrudan etkileyebiliyor.\n\nTARIM PUSULASI HABER MERKEZİ"
-    },
-    {
-      "title": "Avrupa Komisyonu: AB tahıl üretimi 273,7 milyon ton olacak",
-      "url": "https://www.tarimpusulasi.com/haber/avrupa-komisyonu-ab-tahil-uretimi-2737-milyon-ton-olacak-47109",
-      "source": "Tarım Pusulası",
-      "date": "2026-07-20",
-      "summary": "Avrupa Komisyonu, Avrupa Birliği'nin (AB) 2026/27 sezonuna ilişkin tarım piyasaları görünümünü yayımladı. Rapora göre tahıl üretiminin 273,7 milyon tona ulaşması beklenirken, yağlı tohum üretiminin artacağı, şeker üretiminin ise düşebileceği öngörülüyor. Raporda, bu gelişmelerin Ülkemizin tahıl ve y",
-      "content": "BRÜKSEL — Avrupa Komisyonu, Avrupa Birliği'nin (AB) 2026 yılı tarım piyasalarına ilişkin kısa vadeli görünüm raporunu yayımladı. Raporda, Orta Doğu'daki çatışmaların etkilerine, olumsuz hava koşullarına ve ticarette devam eden belirsizliklere rağmen AB tarım piyasalarının kısa vadede olumlu görünümünü koruduğu belirtildi.\n\nRapora göre üreticilerin artan girdi maliyetleri kârlılığı baskılamaya devam ederken, bunun tarım sektöründe belirsizlik oluşturan temel unsurlardan biri olduğu ifade edildi.\n\nAvrupa Komisyonu, AB genelinde birçok tarla bitkisinin gelişiminin olumlu seyrettiğini bildirdi. Kışlık ürünlerde verimin uzun yıllar ortalamasının üzerine çıkması beklenirken, ilkbahar ve yazlık ürünlerde özellikle kurak bölgelerde yüksek sıcaklık ve su yetersizliği riskinin devam ettiği kaydedildi.\n\nKomisyonun tahminlerine göre AB'nin 2026/27 sezonu tahıl üretimi 273,7 milyon ton olacak. Bu miktar, önceki sezonun sıra dışı seviyelerinin ardından uzun yıllar ortalamasına dönüş anlamına geliyor.\n\nRaporda ayrıca yağlı tohum üretiminin %3,1 artmasının beklendiği belirtilirken, protein bitkileri üretiminin bir miktar gerilemesine rağmen uzun yıllar ortalamasının üzerinde kalacağı öngörüldü.\n\nŞeker sektöründe ise farklı bir tablo dikkat çekiyor. Avrupa Komisyonu, şeker pancarı ekim alanlarının daralması nedeniyle şeker üretiminin düşebileceğini tahmin ediyor.\n\nTürkiye açısından ne anlama geliyor?\n\nAvrupa Birliği, Ülkemizin en önemli tarım ticareti ortaklarından biri konumunda bulunuyor. AB'de tahıl ve yağlı tohum üretimindeki değişimler; hububat, ayçiçeği, kanola ve bitkisel yağ piyasalarının yanı sıra dış ticaret fiyatlarını da etkileyebiliyor. Bu nedenle Avrupa Komisyonu'nun üretim tahminleri, Türkiye'deki üreticiler, ihracatçılar ve ithalatçılar açısından yakından takip edilen göstergeler arasında yer alıyor.\n\nTARIM PUSULASI HABER MERKEZİ"
     },
     {
       "title": "ESK'dan Tarım Bakanlığının talimatına aykırı kesim! Yağlı kesim talimatı yok sayıldı",
@@ -328,17 +328,5 @@
   "defaultBorsa": "5ED10",
   "defaultCity": "CANAKKALE",
   "note": "Fiyatlar TOBB ticaret borsasından (borsa seçilebilir). Kanola manuel (Trakya 2025).",
-  "inputsNote": "Mazot: akaryakıt bayi fiyatı, günlük (şehir seçilebilir). Gübre: manuel (yaklaşık).",
-  "errors": [
-    "mazot ANKARA: fetch failed",
-    "mazot ISTANBUL: fetch failed",
-    "mazot IZMIR: fetch failed",
-    "mazot KONYA: fetch failed",
-    "mazot ADANA: fetch failed",
-    "mazot BURSA: fetch failed",
-    "mazot ANTALYA: fetch failed",
-    "mazot SAMSUN: fetch failed",
-    "mazot TEKIRDAG: fetch failed",
-    "mazot CANAKKALE: fetch failed"
-  ]
+  "inputsNote": "Mazot: akaryakıt bayi fiyatı, günlük (şehir seçilebilir). Gübre: manuel (yaklaşık)."
 }
