@@ -1,43 +1,59 @@
 {
-  "updatedAt": "2026-07-22T13:00:17.798Z",
+  "updatedAt": "2026-07-22T15:07:16.494Z",
   "fx": [
     {
       "code": "USD",
       "name": "Dolar",
-      "buy": 47.22,
+      "buy": 47.21,
       "sell": 47.22,
-      "change": 0.07
+      "change": 0.06
     },
     {
       "code": "EUR",
       "name": "Euro",
-      "buy": 53.9,
+      "buy": 53.91,
       "sell": 53.92,
-      "change": 0.15
+      "change": 0.17
     },
     {
       "code": "GRA",
       "name": "Gram Altın",
-      "buy": 6244.73,
-      "sell": 6245.46,
-      "change": 0.95
+      "buy": 6307.45,
+      "sell": 6308.38,
+      "change": 1.97
     },
     {
       "code": "CEYREKALTIN",
       "name": "Çeyrek Altın",
-      "buy": 9967.72,
-      "sell": 10195.68,
-      "change": 1.45
+      "buy": 10079.82,
+      "sell": 10308.19,
+      "change": 2.57
     },
     {
       "code": "CUMHURIYETALTINI",
       "name": "Cumhuriyet Altını",
-      "buy": 41444,
-      "sell": 42071,
-      "change": 1.76
+      "buy": 41664,
+      "sell": 42291,
+      "change": 2.29
     }
   ],
   "news": [
+    {
+      "title": "ESK kesime başladı! Yerli Simental, Alaca ve Angus kaç liradan kesiliyor?",
+      "url": "https://www.tarimdanhaber.com/esk-kesime-basladi-yerli-simental-alaca-ve-angus-kac-liradan-kesiliyor",
+      "source": "Tarımdan Haber",
+      "date": "2026-07-22",
+      "summary": "Kırmızı et piyasasında kesim fiyatlarının hızla gerilemesinin ardından Et ve Süt Kurumu (ESK), aylar sonra ilk kez üreticiden hayvan kesimine başladı. Üreticilere SMS ile yeni kesim fiyatlarını bildiren kurum, fiyatları resmi internet sitesinde ise yayımlamadı. Yeni uygulamada yerli Simental için 58",
+      "content": "Tarımdan Haber Özel / Kırmızı et sektöründe son haftalarda yaşanan fiyat düşüşü üreticiyi zor durumda bırakırken, Et ve Süt Kurumu (ESK) aylar sonra ilk kez kesim fiyatı açıklayarak, üreticinin hayvanı kesmeye başladı.\n\nSığır kesim fiyatları için → Kırmızı et fiyatları\n\nESK, üreticilere gönderdiği mesajla uygulanacak karkas kesim fiyatlarını duyurdu. Kurumun bu adımı, piyasadaki fiyat düşüşünü frenlemeye yönelik bir regülasyon hamlesi olarak değerlendiriliyor.\n\nESK'nın kesim fiyatı kaç lira?\n\nÜreticilere gönderilen bilgilendirmeye göre uygulanacak karkas kesim fiyatları şöyle:\n\nYerli Simental: 580 TL/kg\n\nYerli Alaca: 560 TL/kg\n\nİthal Angus: 550 TL/kg\n\nBelirlenen fiyatlarla birlikte ESK, uzun bir aradan sonra yeniden üreticiden hayvan alımına başlamış oldu.\n\nFiyatlar üreticiye bildirildi, internet sitesinde yayımlanmadı\n\nDikkat çeken ayrıntı ise ESK'nın yeni kesim fiyatlarını yalnızca üreticilere gönderdiği mesajlarla duyurması oldu.\n\nKurum, yeni fiyatları uygulamaya almasına rağmen resmi internet sitesindeki kesim fiyatlarını güncellemedi. Bu nedenle kamuoyu ve üreticiler, güncel fiyat bilgisine kurumun internet sitesi üzerinden ulaşamıyor. Bu da üreticiler tarafından gönderilen kesim fiyatlarının geçici bir müdahale olarak değerlendirilmesine neden oldu.\n\nKesim fiyatlarındaki düşüşün ardından geldi\n\nSon dönemde özel sektörde karkas kesim fiyatlarında yaşanan gerileme, besicilerin maliyet baskısını artırmıştı.\n\nESK'nın aylar sonra ilk kez kesime başlaması, en azından fiyatların bu seviyede kalarak fazla düşmesini durdurması yönünde bir hamle olarak değerlendiriliyor."
+    },
+    {
+      "title": "İSO: Efor Gübre ilk kez Türkiye'nin İkinci 500'ünde",
+      "url": "https://www.tarimpusulasi.com/haber/iso-efor-gubre-ilk-kez-turkiyenin-ikinci-500unde-47123",
+      "source": "Tarım Pusulası",
+      "date": "2026-07-22",
+      "summary": "İstanbul Sanayi Odası'nın (İSO) açıkladığı Türkiye'nin İkinci 500 Büyük Sanayi Kuruluşu-2025 araştırmasında Efor Yatırım geçen yıla göre 173 basamak yükselerek 284'üncü sıraya çıktı. Bağlı ortaklığı Efor Gübre ise listeye ilk kez girerek şirket grubunun üretim ve sanayi alanındaki büyümesini ortaya ",
+      "content": "İSTANBUL — İstanbul Sanayi Odası'nın (İSO) açıkladığı \"Türkiye'nin İkinci 500 Büyük Sanayi Kuruluşu-2025\" araştırmasında, tarımsal üretimin temel girdilerinden biri olan gübre sektöründe faaliyet gösteren Efor Gübre, listeye ilk kez girdi. Şirket, kimyasalların ve kimyasal ürünlerin imalatı sektöründe 34'üncü sırada yer alırken, bağlı ortaklığı Efor Yatırım ise geçen yıla göre 173 basamak yükselerek 284'üncü sıraya çıktı.\n\nEnerji, tarım, gıda ve sanayi alanlarında faaliyet gösteren Efor Yatırım ile bağlı ortaklığı Efor Gübre'nin İSO araştırmasında elde ettiği sonuçlar, grubun üretim kapasitesi, tedarik altyapısı ve sanayi performansındaki büyümesini ortaya koydu.\n\nEfor Gübre ilk kez İSO İkinci 500 listesinde\n\nBu yıl ilk kez İSO'nun Türkiye'nin İkinci 500 Büyük Sanayi Kuruluşu araştırmasına giren Efor Gübre, gübre sektöründe verimlilik, sürdürülebilirlik ve etkin tedarik anlayışıyla faaliyetlerini sürdürüyor.\n\nŞirket, kimyasalların ve kimyasal ürünlerin imalatı sektör kategorisinde 34'üncü sırada yer aldı. Efor Gübre, artan tarımsal üretim ihtiyacının gündemde olduğu bir dönemde, çiftçilerin ihtiyaçlarına yönelik ürün ve hizmetleriyle tarımsal değer zincirine katkı sağlamayı hedeflediğini belirtti.\n\nEfor Yatırım 173 basamak yükseldi\n\nİSO araştırmasına göre Efor Yatırım, geçen yıla kıyasla 173 basamak yükselerek 284'üncü sıraya yerleşti. Şirket ayrıca gıda ürünleri imalatı sektör kategorisinde 66'ncı sırada yer aldı.\n\nŞirket açıklamasına göre bu sonuçlar, üretim, yatırım, lojistik altyapısı ve katma değerli ürün yaklaşımına dayalı entegre büyüme modelinin sanayi performansına yansıması olarak değerlendiriliyor.\n\nAkkuş: \"Üretim gücümüzü katma değere dönüştürmeye devam edeceğiz\"\n\nEfor Yatırım Yönetim Kurulu Başkanı İbrahim Akkuş, İSO araştırmasına ilişkin değerlendirmesinde şirketin büyümesini yalnızca finansal göstergelerle değil, üretim, istihdam, yatırım ve ülke ekonomisine sağlanan katma değer üzerinden değerlendirdiklerini ifade etti.\n\nAkkuş, Efor Yatırım'ın İSO İkinci 500 listesinde yükselişini sürdürmesinin ve Efor Gübre'nin ilk kez listeye girmesinin şirketin uzun vadeli büyüme stratejisinin bir göstergesi olduğunu belirtti.\n\nTarımdan sanayiye, gıdadan enerjiye uzanan faaliyet alanlarında daha verimli ve sürdürülebilir bir yapı oluşturmayı hedeflediklerini kaydeden Akkuş, önümüzdeki dönemde de üretim odaklı yatırımları sürdürmeyi planladıklarını ifade etti.\n\nTarımsal üretimde gübre sektörünün önemi arttı\n\nGübre, bitkisel üretimde verimlilik ve kaliteyi doğrudan etkileyen temel tarımsal girdiler arasında yer alıyor. Tarımsal üretim maliyetleri içerisinde önemli paya sahip olan gübre sektöründeki yatırımlar ve üretim kapasitesindeki gelişmeler hem üreticilerin girdi temini hem de sürdürülebilir tarımsal üretim açısından önem taşıyor.\n\nİSO'nun açıkladığı araştırmada Efor Gübre'nin listeye ilk kez girmesi, şirket açısından olduğu kadar gübre sektörünün sanayi içindeki büyüme performansını göstermesi bakımından da dikkat çekici bir gelişme olarak öne çıktı.\n\nTARIM PUSULASI HABER MERKEZİ"
+    },
     {
       "title": "TÜGİS ve Marmara Üniversitesi Ar-Ge iş birliği protokolü imzaladı",
       "url": "https://www.tarimpusulasi.com/haber/tugis-ve-marmara-universitesi-ar-ge-is-birligi-protokolu-imzaladi-47122",
@@ -111,28 +127,12 @@
       "content": "ŞANLIURFA — Dicle Elektrik, tarımsal sulama sezonunda Şanlıurfa'nın bazı bölgelerinde kaçak elektrik tüketiminin yüzde 94'e ulaştığını açıkladı. Şirket, kaçak kullanımın yoğun olduğu alanlarda enerji şebekesinin aşırı yüklendiğini ve bunun kesinti riskini artırdığını bildirirken, bazı mahallelerde elektrik faturalarının tahsilat oranının yalnızca yüzde 5 seviyesinde kaldığını duyurdu.\n\nŞirket tarafından paylaşılan verilere göre kaçak elektrik kullanımının en yüksek olduğu bölgeler, Harran ilçesine bağlı Damlasu Mahallesi ile Eyyübiye ilçesine bağlı Yolbaşı ve Keskin mahalleleri oldu. Bu mahallelerde tarımsal sulama döneminde kaçak elektrik tüketim oranının yüzde 94'e ulaştığı belirtildi. Ayrıca 28 mahallede ortalama kaçak tüketim oranının yüzde 90 olarak ölçüldüğü açıklandı. Buna göre söz konusu mahallelerdeki kaçak kullanım oranı, en yüksek seviyenin yalnızca 4 puan altında bulunuyor.\n\nDicle Elektrik verilerine göre Eyyübiye, Harran, Akçakale ve Ceylanpınar ilçelerinde Damlasu, Türkoğlu ve Demirli enerji hatlarından elektrik alan 591 tarımsal sulama abonesinin 554'ünün vadesi geçmiş elektrik borcu bulunuyor. Bu sayı, toplam abonelerin yaklaşık yüzde 93,7'sine karşılık geliyor. Aynı bölgelerde elektrik tüketim bedelini düzenli ödeyen üreticilerin oranının ise yüzde 5 seviyesinde olduğu bildirildi.\n\nŞirket, bazı abonelerin yaklaşık 10 yıldır elektrik borçlarını ödemediğini ve harici bağlantılarla kaçak elektrik kullanmaya devam ettiğini ileri sürdü.\n\nİl genelindeki verilere göre Şanlıurfa'da toplam 17 bin 143 tarımsal sulama abonesi bulunuyor. Dicle Elektrik, bu abonelerin yaklaşık yüzde 70'inin elektrik borcu bulunduğunu açıkladı. Şirket, tarımsal sulamadan kaynaklanan ödenmemiş elektrik borcunun ise milyarlarca lira seviyesine ulaştığını bildirdi. Açıklamada kesin borç tutarı paylaşılmadığı için toplam miktara ilişkin sayısal bir değer verilmedi.\n\nDicle Elektrik, kaçak tüketim ve tahsilat sorunlarının mevcut düzeyde sürmesi halinde enerji şebekesi üzerindeki yükün daha da artabileceğini belirtti. Şirket, bunun yalnızca kaçak elektrik kullanan aboneleri değil, borcunu düzenli ödeyen üreticiler ile diğer aboneleri de etkileyebileceğini ifade etti.\n\nAçıklamada ayrıca, elektrik bedelini düzenli ödeyen üreticilerin olası kesintilerden etkilenmemesi amacıyla jeneratör desteği sağlandığı belirtildi. Şirket, jeneratörlerin yakıt maliyetlerinin de karşılandığını ve bu uygulamayla üretimde aksama yaşanmamasının hedeflendiğini bildirdi.\n\nHaberde yer alan kaçak tüketim, tahsilat ve borç bilgileri Dicle Elektrik'in kamuoyuyla paylaştığı verilere dayanıyor.\n\nTARIM PUSULASI HABER MERKEZİ"
     },
     {
-      "title": "Rabobank: El Niño Küresel Avokado Arzını Zorlayabilir",
-      "url": "https://www.tarimpusulasi.com/haber/rabobank-el-nino-kuresel-avokado-arzini-zorlayabilir-47115",
-      "source": "Tarım Pusulası",
-      "date": "2026-07-20",
-      "summary": "Rabobank'ın yayımladığı yeni analiz, 2026/27 sezonunda El Niño hava olayının küresel avokado üretimi ve arzında dengesizliklere yol açabileceği uyarısında bulundu. Rapora göre ABD'de rekor seviyeye ulaşan arz fiyatları dengelerken, Güney Amerika'nın ihracatı ilk kez 1 milyon tonu aştı. Avrupa Birliğ",
-      "content": "MOSKOVA — Rabobank'ın yayımladığı değerlendirmeye göre, 2026/27 sezonunda etkili olması beklenen El Niño hava olayının küresel avokado arzında bölgesel dengesizliklere neden olabileceği bildirildi. Raporda, küresel avokado ticaretinin büyümeyi sürdürmesine rağmen iklim kaynaklı risklerin üretim üzerinde belirsizlik oluşturduğu vurgulandı.\n\nABD'de 2025/26 sezonunda avokado arzı tarihi seviyelere ulaştı. Bunun en önemli nedenleri arasında Meksika'dan yapılan yüksek ihracat ile Kaliforniya'daki güçlü hasat gösterildi. Artan arz sayesinde avokado fiyatlarının normalleştiği, farklı meyve boyutları arasındaki fiyat farkının da azaldığı ifade edildi.\n\nGüney Amerika'da ise avokado ihracatı 2025 yılında ilk kez 1 milyon ton sınırını aştı. Bu büyümede en büyük payı Peru, Kolombiya ve Şili aldı.\n\nRaporda, El Niño'nun oluşturabileceği sıcaklık ve yağış değişikliklerinin verim üzerinde belirsizlik yarattığı belirtilirken, önümüzdeki sezon üretim miktarlarının ülkeler arasında farklılık gösterebileceği değerlendirildi.\n\nÖte yandan Avrupa Birliği'nin avokado ithalatı artışını sürdürüyor. Rabobank verilerine göre AB'nin avokado ithalat hacmi 2010 yılından bu yana yaklaşık beş katına çıktı.\n\nTARIM PUSULASI HABER MERKEZİ"
-    },
-    {
       "title": "TMO fiyatı piyasada karşılık bulmadı! Hububatta makas büyümeye devam ediyor",
       "url": "https://www.tarimdanhaber.com/tmo-fiyati-piyasada-karsilik-bulmadi-hububatta-makas-buyumeye-devam-ediyor",
       "source": "Tarımdan Haber",
       "date": "2026-07-20",
       "summary": "Serbest piyasada hububat fiyatları TMO'nun açıkladığı alım fiyatlarının altında işlem görmeye devam ediyor. 13-17 Temmuz haftasında ekmeklik ve makarnalık buğdayda sınırlı yükseliş yaşanırken, arpa fiyatları düşüşünü sürdürdü. Arpa, TMO alım fiyatının 1.454 lira altında işlem görürken, ekmeklik buğd",
       "content": "Haber Merkezi / Hasat döneminin devam ettiği Türkiye'de serbest piyasadaki hububat fiyatları, Toprak Mahsulleri Ofisi'nin (TMO) açıkladığı alım fiyatlarının altında seyretmeyi sürdürüyor.\n\n13-17 Temmuz haftasında ticaret borsalarında oluşan fiyatlar, özellikle arpa üreticisinin gelir kaybının devam ettiğini ortaya koydu.\n\nHaftanın son işlem günü olan 17 Temmuz Cuma günü ticaret borsalarında oluşan ortalama fiyatlar şöyle gerçekleşti:\n\nÜrün Fiyat (TL/Ton)\n\nEkmeklik buğday 14.149 TL\n\nMakarnalık buğday 15.109 TL\n\nArpa 11.296 TL\n\nMısır 12.649 TL\n\nHaftalık ortalama fiyatlar\n\n13-17 Temmuz haftasında oluşan ortalama fiyatlar ise şu şekilde kaydedildi:\n\nÜrün Haftalık Ortalama\n\nEkmeklik buğday 14.158 TL\n\nMakarnalık buğday 15.115 TL\n\nArpa 11.384 TL\n\nMısır 12.891 TL\n\nBuğday yükseldi, arpa geriledi\n\nÖnceki haftayla karşılaştırıldığında;\n\nEkmeklik buğday fiyatı yaklaşık 100 TL/ton arttı.\n\nMakarnalık buğday fiyatı yaklaşık 250 TL/ton yükseldi.\n\nArpa fiyatı ise yaklaşık 100 TL/ton geriledi.\n\nMısır fiyatı yatay seyrini korudu.\n\nBu tablo, buğdayda sınırlı bir toparlanmaya işaret ederken arpadaki baskının sürdüğünü gösteriyor.\n\nTMO ile piyasa arasındaki fark büyüyor\n\nTMO, 2026 alım döneminde;\n\nEkmeklik buğday için 16.500 TL\n\nMakarnalık buğday için 16.500 TL\n\nArpa için 12.750 TL\n\nalım fiyatı açıklamıştı.\n\nBuna rağmen serbest piyasada oluşan haftalık ortalama fiyatlar, TMO fiyatlarının oldukça gerisinde kaldı.\n\nÜrün TMO Fiyatı Piyasa Fark\n\nEkmeklik buğday 16.500 TL 14.158 TL -2.342 TL\n\nMakarnalık buğday 16.500 TL 15.115 TL -1.385 TL\n\nArpa 12.750 TL 11.384 TL -1.366 TL\n\nCuma günü oluşan fiyatlar dikkate alındığında ise arpa fiyatı 11.296 TL seviyesinde gerçekleşirken, TMO alım fiyatıyla arasındaki fark 1.454 TL'ye çıktı.\n\nÇiftçi neden ürününü TMO'ya veremiyor?\n\nÜreticiler, TMO'nun açıkladığı fiyatları dahi düşük bulurken, birçok bölgede ürününü bu fiyatlardan bile satamıyor.\n\nBunun en önemli nedenlerinden biri, TMO'nun ürün bedellerini yaklaşık 21 gün sonra ödemesi. Nakit ihtiyacı bulunan üreticiler ise beklemek yerine ürünlerini tüccara satmak zorunda kalıyor.\n\nDiğer önemli neden ise alım kotası uygulaması. Rekoltedeki artış nedeniyle TMO bazı bölgelerde kotaları yükseltse de, birçok üretici kotasının üzerinde kalan ürününü kuruma teslim edemiyor.\n\nBu durum serbest piyasaya yönelen ürün miktarını artırırken, tüccarlar da oluşan arz fazlasını kullanarak alım fiyatlarını aşağı çekebiliyor.\n\nSonuçta üretici, TMO'nun açıkladığı fiyatın da altında satış yapmak zorunda kalırken, hasat döneminde oluşan fiyat baskısı gelir kaybını büyütüyor.\n\nSıkça Sorulan Sorular (SSS)\n\nArpa fiyatı TMO'nun kaç lira altında?\n\nHaftalık ortalamaya göre arpa 11.384 TL seviyesinde bulunuyor. Bu fiyat, TMO'nun 12.750 TL alım fiyatının 1.366 TL altında. Cuma günü oluşan fiyat dikkate alındığında fark 1.454 TL'ye ulaşıyor.\n\nEkmeklik buğday fiyatı TMO'nun ne kadar altında?\n\nHaftalık ortalama fiyat 14.158 TL olurken, TMO fiyatıyla arasındaki fark 2.342 TL.\n\nMakarnalık buğday fiyatı TMO'nun ne kadar altında?\n\nMakarnalık buğdayın haftalık ortalama fiyatı 15.115 TL. TMO fiyatına göre üretici ton başına yaklaşık 1.385 TL daha düşük fiyata satış yapıyor.\n\nHububat fiyatları neden TMO'nun altında oluşuyor?\n\nÜrün bedellerinin geç ödenmesi, alım kotası nedeniyle tüm ürünün TMO'ya teslim edilememesi, hasat dönemindeki arz yoğunluğu ve tüccarın alım gücü fiyatların TMO seviyesinin altında oluşmasına neden oluyor.\n\nArpa fiyatları düşmeye devam ediyor mu?\n\nEvet. Son haftalık verilere göre arpa fiyatları önceki haftaya göre yaklaşık 100 TL/ton daha geriledi ve düşüş eğilimini sürdürdü.\n\nMısır fiyatı ne kadar oldu?\n\n13-17 Temmuz haftasında mısırın haftalık ortalama fiyatı 12.891 TL, haftanın son işlem günündeki fiyatı ise 12.649 TL olarak gerçekleşti."
-    },
-    {
-      "title": "Buzağı desteğinde kritik süreç başladı! Askı listelerini mutlaka kontrol edin",
-      "url": "https://www.tarimdanhaber.com/buzagi-desteginde-kritik-surec-basladi-aski-listelerini-mutlaka-kontrol-edin",
-      "source": "Tarımdan Haber",
-      "date": "2026-07-20",
-      "summary": "Hayvancılıkta en önemli destek kalemlerinden biri olan 2025 yılı 2. dönem buzağı desteği için askı süreci başladı. Destekten yararlanacak yetiştiricilerin, askı listelerini 24 Temmuz 2026 tarihine kadar kontrol ederek varsa itirazlarını Tarım ve Orman Bakanlığı il ve ilçe müdürlüklerine süresi içind",
-      "content": "Haber Merkezi / Hayvancılık sektörünün en önemli destek kalemlerinden biri olan buzağı desteğinde 2025 yılı ikinci dönem askı süreci başladı. Üreticilerin destekten yararlanabilmeleri için askı listelerini kontrol etmeleri ve varsa itirazlarını süresi içinde yapmaları gerekiyor.\n\nİzmir İli Damızlık Sığır Yetiştiricileri Birliği tarafından yapılan duyuruda, 2025 yılı 2. dönem buzağı desteklemesine ait askı listelerinin Tarım ve Orman Bakanlığı il ve ilçe müdürlüklerinde 24 Temmuz 2026 tarihine kadar askıda kalacağı bildirildi.\n\nDestekten yararlanacak yetiştiricilerin, askı listelerinde yer alan bilgilerini dikkatle incelemeleri istenirken, herhangi bir hata veya eksiklik tespit edilmesi halinde 24 Temmuz 2026 tarihine kadar Tarım ve Orman Bakanlığı il veya ilçe müdürlüklerine itiraz edilmesi gerektiği hatırlatıldı.\n\nYapılan açıklamada, süresi içerisinde yapılmayan itirazların değerlendirmeye alınmayacağı vurgulandı.\n\nBuzağı desteği, hayvancılık işletmelerinin gelirlerinde önemli yer tutan desteklerden biri olarak öne çıkarken, askı sürecinde yapılacak kontrollerin olası hak kayıplarının önüne geçmesi açısından büyük önem taşıyor."
     }
   ],
   "commoditiesByBorsa": {
