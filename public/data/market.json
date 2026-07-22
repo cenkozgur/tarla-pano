@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-07-22T11:30:21.592Z",
+  "updatedAt": "2026-07-22T13:00:17.798Z",
   "fx": [
     {
       "code": "USD",
@@ -11,33 +11,41 @@
     {
       "code": "EUR",
       "name": "Euro",
-      "buy": 53.88,
-      "sell": 53.89,
-      "change": 0.11
+      "buy": 53.9,
+      "sell": 53.92,
+      "change": 0.15
     },
     {
       "code": "GRA",
       "name": "Gram Altın",
-      "buy": 6251.98,
-      "sell": 6252.92,
-      "change": 1.07
+      "buy": 6244.73,
+      "sell": 6245.46,
+      "change": 0.95
     },
     {
       "code": "CEYREKALTIN",
       "name": "Çeyrek Altın",
-      "buy": 9982.9,
-      "sell": 10211.19,
-      "change": 1.61
+      "buy": 9967.72,
+      "sell": 10195.68,
+      "change": 1.45
     },
     {
       "code": "CUMHURIYETALTINI",
       "name": "Cumhuriyet Altını",
-      "buy": 41354,
-      "sell": 41980,
-      "change": 1.54
+      "buy": 41444,
+      "sell": 42071,
+      "change": 1.76
     }
   ],
   "news": [
+    {
+      "title": "TÜGİS ve Marmara Üniversitesi Ar-Ge iş birliği protokolü imzaladı",
+      "url": "https://www.tarimpusulasi.com/haber/tugis-ve-marmara-universitesi-ar-ge-is-birligi-protokolu-imzaladi-47122",
+      "source": "Tarım Pusulası",
+      "date": "2026-07-22",
+      "summary": "Türkiye Gıda Sanayii İşverenleri Sendikası (TÜGİS) ile Marmara Üniversitesi, üniversite-sanayi iş birliğini güçlendirmek amacıyla beş yıl süreyle geçerli olacak akademik ve Ar-Ge iş birliği protokolü imzaladı. Protokol; ortak Ar-Ge projeleri, eğitim programları, laboratuvar ve altyapı paylaşımı, pat",
+      "content": "İSTANBUL — Türkiye Gıda Sanayii İşverenleri Sendikası (TÜGİS) ile Marmara Üniversitesi, üniversite-sanayi iş birliğini güçlendirmek amacıyla akademik ve Ar-Ge iş birliği protokolü imzaladı. Beş yıl süreyle geçerli olacak protokol kapsamında ortak Ar-Ge projeleri, eğitim programları, laboratuvar ve altyapı paylaşımı, proje ve patent geliştirme çalışmaları ile TÜGİS üyelerine yönelik tezsiz yüksek lisans kontenjanı gibi birçok alanda ortak çalışma yürütülecek.\n\nProtokol, TÜGİS Yönetim Kurulu Başkanı Kaan Sidar ile Marmara Üniversitesi Rektörü Prof. Dr. Mehmet Emin Okur tarafından imzalandı. İş birliğiyle gıda sanayisinin bilimsel araştırma altyapısı ve nitelikli insan kaynağıyla bağının güçlendirilmesi hedefleniyor.\n\nOrtak Ar-Ge ve eğitim çalışmaları yürütülecek\n\nProtokol kapsamında TÜGİS ile Marmara Üniversitesi; ortak Ar-Ge projeleri geliştirilmesi, eğitim programlarının hazırlanması ve gıda sektörünün akademik bilgi birikiminden daha etkin yararlanmasına yönelik çalışmalar gerçekleştirecek.\n\nTaraflar ayrıca Marmara Üniversitesi akademisyenleri ile TÜGİS üyesi firmalar arasında doğrudan iletişimin artırılmasını, sektörün ihtiyaç duyduğu araştırma konularında ortak projeler hazırlanmasını ve bu projelerin ulusal ya da uluslararası destek programlarından yararlanmasını amaçlıyor.\n\nLaboratuvar ve altyapı imkânları paylaşılacak\n\nİş birliği kapsamında öğrenciler için staj imkânları oluşturulması, teknik geziler düzenlenmesi, TÜGİS üyelerine yönelik eğitim programları hazırlanması ile ortak konferans ve seminerlerin gerçekleştirilmesi planlanıyor.\n\nProtokol ayrıca Marmara Üniversitesi ile TÜGİS üyesi sanayi kuruluşları arasında laboratuvar ve teknik altyapının ortak kullanımına da imkân sağlayacak. Taraflar, analiz hizmetleri, ürün geliştirme çalışmaları ve veri paylaşımı gibi alanlarda da birlikte çalışacak.\n\nBu kapsamda proje, bilimsel makale, patent ve ticari ürün geliştirme süreçlerinin desteklenmesi hedefleniyor.\n\nOrtak Bilim Komisyonu kurulacak\n\nProtokol doğrultusunda TÜGİS ve Marmara Üniversitesi temsilcilerinden oluşacak Ortak Bilim Komisyonu, yılda en az iki kez toplanarak ortak proje önerilerini değerlendirecek ve uygulanabilecek çalışma başlıklarını ele alacak.\n\nÜniversite bünyesinde açılan tezsiz yüksek lisans programlarında, başvuru şartlarını sağlayan TÜGİS üyeleri için kontenjan ayrılması da iş birliğinin önemli başlıkları arasında yer aldı.\n\nBunun yanında TÜGİS, Marmara Üniversitesi'nin eğitim ve uygulama faaliyetlerine eğitmen ve teknik altyapı desteği sağlayabilecek. Akademik yeterliliğe sahip TÜGİS üyeleri ise ihtiyaç duyulması halinde üniversitede ders verebilecek.\n\nKaan Sidar: \"Bilimsel altyapıyla daha güçlü bağ kurulacak\"\n\nTÜGİS Yönetim Kurulu Başkanı Kaan Sidar, üniversite-sanayi iş birliklerinin gıda sektörünün gelişimi açısından stratejik öneme sahip olduğunu belirtti.\n\nSidar, sanayinin yalnızca üretim kapasitesiyle değil; bilgiye erişim, araştırma altyapısı ve nitelikli insan kaynağıyla da güç kazandığını ifade ederek, Marmara Üniversitesi ile imzalanan protokolün sektörün bilimsel altyapıyla daha güçlü bağ kurmasına katkı sağlayacağını söyledi.\n\nOrtak Ar-Ge çalışmaları, eğitim programları, staj olanakları ve uygulamalı projeler sayesinde öğrencilerin sektörü daha yakından tanıyacağını belirten Sidar, sanayicilerin de akademik bilgi birikiminden daha etkin yararlanmasının hedeflendiğini kaydetti.\n\nProtokol beş yıl yürürlükte kalacak\n\nTaraflar arasında imzalanan protokol, imza tarihinden itibaren beş yıl süreyle yürürlükte olacak. Tarafların ortak mutabakat sağlaması halinde protokolün birer yıllık sürelerle uzatılabilmesi öngörülüyor.\n\nProtokol kapsamında gerçekleştirilecek eğitimler, araştırma projeleri ve diğer uygulamalar ise taraflar arasında yapılacak ek sözleşmeler ve ortak kararlar doğrultusunda hayata geçirilecek.\n\nTARIM PUSULASI HABER MERKEZİ"
+    },
     {
       "title": "Sencer Solakoğlu: Soğanda plansız üretim fiyatları yükseltti",
       "url": "https://www.tarimpusulasi.com/haber/sencer-solakoglu-soganda-plansiz-uretim-fiyatlari-yukseltti-47121",
@@ -109,14 +117,6 @@
       "date": "2026-07-20",
       "summary": "Rabobank'ın yayımladığı yeni analiz, 2026/27 sezonunda El Niño hava olayının küresel avokado üretimi ve arzında dengesizliklere yol açabileceği uyarısında bulundu. Rapora göre ABD'de rekor seviyeye ulaşan arz fiyatları dengelerken, Güney Amerika'nın ihracatı ilk kez 1 milyon tonu aştı. Avrupa Birliğ",
       "content": "MOSKOVA — Rabobank'ın yayımladığı değerlendirmeye göre, 2026/27 sezonunda etkili olması beklenen El Niño hava olayının küresel avokado arzında bölgesel dengesizliklere neden olabileceği bildirildi. Raporda, küresel avokado ticaretinin büyümeyi sürdürmesine rağmen iklim kaynaklı risklerin üretim üzerinde belirsizlik oluşturduğu vurgulandı.\n\nABD'de 2025/26 sezonunda avokado arzı tarihi seviyelere ulaştı. Bunun en önemli nedenleri arasında Meksika'dan yapılan yüksek ihracat ile Kaliforniya'daki güçlü hasat gösterildi. Artan arz sayesinde avokado fiyatlarının normalleştiği, farklı meyve boyutları arasındaki fiyat farkının da azaldığı ifade edildi.\n\nGüney Amerika'da ise avokado ihracatı 2025 yılında ilk kez 1 milyon ton sınırını aştı. Bu büyümede en büyük payı Peru, Kolombiya ve Şili aldı.\n\nRaporda, El Niño'nun oluşturabileceği sıcaklık ve yağış değişikliklerinin verim üzerinde belirsizlik yarattığı belirtilirken, önümüzdeki sezon üretim miktarlarının ülkeler arasında farklılık gösterebileceği değerlendirildi.\n\nÖte yandan Avrupa Birliği'nin avokado ithalatı artışını sürdürüyor. Rabobank verilerine göre AB'nin avokado ithalat hacmi 2010 yılından bu yana yaklaşık beş katına çıktı.\n\nTARIM PUSULASI HABER MERKEZİ"
-    },
-    {
-      "title": "TÜİK: Tarım-GFE Mayıs'ta Yıllık Yüzde 36,65 Arttı",
-      "url": "https://www.tarimpusulasi.com/haber/tuik-tarim-gfe-mayista-yillik-yuzde-3665-artti-47114",
-      "source": "Tarım Pusulası",
-      "date": "2026-07-20",
-      "summary": "Türkiye İstatistik Kurumu (TÜİK), Mayıs 2026 dönemine ilişkin Tarımsal Girdi Fiyat Endeksi (Tarım-GFE) verilerini açıkladı. Endeks mayısta aylık yüzde 0,44, yıllık bazda ise yüzde 36,65 yükselirken, en yüksek yıllık artış yüzde 63,56 ile gübre ve toprak geliştiriciler grubunda gerçekleşti.",
-      "content": "ANKARA — Türkiye İstatistik Kurumu (TÜİK), Mayıs 2026 dönemine ilişkin Tarımsal Girdi Fiyat Endeksi (Tarım-GFE) verilerini yayımladı. Açıklanan verilere göre; tarımsal girdi fiyat endeksi (Tarım-GFE) yıllık %36,65 arttı, aylık %0,44 arttı\n\nTarım-GFE'de (2020=100), 2026 yılı Mayıs ayında bir önceki aya göre %0,44 artış, bir önceki yılın Aralık ayına göre %18,01 artış, bir önceki yılın aynı ayına göre %36,65 artış ve on iki aylık ortalamalara göre %34,20 artış gerçekleşti.\n\nAna gruplarda bir önceki aya göre, tarımda kullanılan mal ve hizmetler endeksinde %0,35 artış, tarımsal yatırıma katkı sağlayan mal ve hizmetler endeksinde %1,04 artış gerçekleşti. Bir önceki yılın aynı ayına göre tarımda kullanılan mal ve hizmetler endeksinde %39,29 artış, tarımsal yatırıma katkı sağlayan mal ve hizmetler endeksinde %21,52 artış gerçekleşti.\n\nAna gruplara göre Tarım-GFE ve değişim oranları (%), Mayıs 2026\n\nEndeks\n\nBir önceki aya göre değişim oranı (%)\n\nBir önceki yılın Aralık ayına göre değişim oranı (%)\n\nBir önceki yılın aynı ayına göre değişim oranı (%)\n\nOn iki aylık ortalamalara göre değişim oranı (%)\n\nTarım-GFE\n\n1 008,08\n\n0,44\n\n18,01\n\n36,65\n\n34,20\n\nTarımda kullanılan mal ve hizmetler\n\n984,20\n\n0,35\n\n19,20\n\n39,29\n\n35,54\n\nTarımsal yatırıma katkı sağlayan mal ve hizmetler\n\n1 198,88\n\n1,04\n\n10,76\n\n21,52\n\n26,46\n\nTarım-GFE yıllık değişim oranı (%), Mayıs 2026\n\nYıllık değişimin en yüksek olduğu alt grup %63,56 artış ile gübre ve toprak geliştiriciler, aylık değişimin en yüksek olduğu alt grup %4,39 azalış ile enerji ve yağlayıcılar oldu.\n\nAlt gruplara göre Tarım-GFE yıllık değişim oranları (%), Mayıs 2026\n\nAlt gruplara göre Tarım-GFE aylık değişim oranları (%), Mayıs 2026"
     },
     {
       "title": "TMO fiyatı piyasada karşılık bulmadı! Hububatta makas büyümeye devam ediyor",
@@ -328,5 +328,17 @@
   "defaultBorsa": "5ED10",
   "defaultCity": "CANAKKALE",
   "note": "Fiyatlar TOBB ticaret borsasından (borsa seçilebilir). Kanola manuel (Trakya 2025).",
-  "inputsNote": "Mazot: akaryakıt bayi fiyatı, günlük (şehir seçilebilir). Gübre: manuel (yaklaşık)."
+  "inputsNote": "Mazot: akaryakıt bayi fiyatı, günlük (şehir seçilebilir). Gübre: manuel (yaklaşık).",
+  "errors": [
+    "mazot ANKARA: fetch failed",
+    "mazot ISTANBUL: fetch failed",
+    "mazot IZMIR: fetch failed",
+    "mazot KONYA: fetch failed",
+    "mazot ADANA: fetch failed",
+    "mazot BURSA: fetch failed",
+    "mazot ANTALYA: fetch failed",
+    "mazot SAMSUN: fetch failed",
+    "mazot TEKIRDAG: fetch failed",
+    "mazot CANAKKALE: fetch failed"
+  ]
 }
