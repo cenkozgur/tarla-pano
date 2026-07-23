@@ -1,43 +1,51 @@
 {
-  "updatedAt": "2026-07-23T15:25:25.113Z",
+  "updatedAt": "2026-07-23T16:58:55.949Z",
   "fx": [
     {
       "code": "USD",
       "name": "Dolar",
-      "buy": 472313,
-      "sell": 472389,
-      "change": 4
+      "buy": 47.22,
+      "sell": 47.24,
+      "change": 0.04
     },
     {
       "code": "EUR",
       "name": "Euro",
-      "buy": 538346,
-      "sell": 538474,
-      "change": -15
+      "buy": 53.87,
+      "sell": 53.89,
+      "change": -0.08
     },
     {
       "code": "GRA",
       "name": "Gram Altın",
-      "buy": 614869,
-      "sell": 614961,
-      "change": -193
+      "buy": 6150.67,
+      "sell": 6151.49,
+      "change": -1.9
     },
     {
       "code": "CEYREKALTIN",
       "name": "Çeyrek Altın",
-      "buy": 981478,
-      "sell": 1003936,
-      "change": -261
+      "buy": 9814.78,
+      "sell": 10039.36,
+      "change": -2.61
     },
     {
       "code": "CUMHURIYETALTINI",
       "name": "Cumhuriyet Altını",
       "buy": 40841,
       "sell": 41448,
-      "change": -199
+      "change": -1.99
     }
   ],
   "news": [
+    {
+      "title": "Kırmızı et fiyatları (23 Temmuz 2026)",
+      "url": "https://www.tarimdanhaber.com/sigir-kesim-fiyatlari",
+      "source": "Tarımdan Haber",
+      "date": "2026-07-23",
+      "summary": "Et ve Süt Kurumu'nun (ESK) kesim fiyatlarını regüle etmek amacıyla piyasaya girmesinin ardından dana kesim fiyatlarında sınırlı bir toparlanma yaşandı. UKON'un 23 Temmuz 2026 haftasına ait verilerine göre dana kesim fiyatı 5 lira, kuzu kesim fiyatı ise 7 lira yükseldi. Buna karşın Ankara Ticaret Bor",
+      "content": "Haber Merkezi - Et ve Süt Kurumu'nun (ESK), kesim fiyatlarındaki düşüşü durdurmak amacıyla regülasyon kapsamında üreticiden hayvan kesimine başlamasının ardından piyasada ilk fiyat hareketleri görülmeye başladı. Ulusal Kırmızı Et Konseyi'nin (UKON) 23 Temmuz 2026 haftasına ilişkin açıkladığı verilere göre dana kesim fiyatı bir önceki haftaya göre 5 lira artarak 575,57 liraya, kuzu kesim fiyatı ise yaklaşık 7 lira yükselerek 600,14 liraya çıktı. Buna karşılık Ankara Ticaret Borsası'nda aynı hafta yalnızca kuzu karkas kesim fiyatı işlem gördü ve fiyat 746 liradan 683 liraya gerileyerek piyasalardaki bölgesel farklılığı ortaya koydu. Bursa Damızlık Sığır Yetiştiricileri Birliği'nin açıkladığı kesim fiyatları ise haftaya ilişkin referans veriler arasında yer aldı.\n\nİşte et kesim fiyatları ile ilgili güncel fiyatlar...\n\nUKON – Güncel Dana ve Kuzu Kesim Fiyatları (23 Temmuz 2026)\n\nUkon tarafından yayınlanan dana ve kuzu kesim fiyatları haftalık olarak güncellenmektedir. En güncel fiyatlar aşağıdaki tabloda yer almaktadır.\n\nTarih\n\nDana Kesim Fiyatı (TL)\n\nKuzu Kesim Fiyatı (TL)\n\n23 Temmuz 2026\n\n575,57\n\n600,14\n\nBursa Damızlık Sığır Yetiştiricileri Birliği (17-24 Temmuz 2026) İnek, Dana ve Düve Kesim Fiyatları\n\nBursa Damızlık Sığır Yetiştiricileri Birliği, 17-24 Temmuz tarihleri arasında üyelerine yönelik kesim organizasyonu yapacağını duyurdu. Kesim yaptırmak isteyen üyelerin şubelere başvurup, kayıt yaptırması istendi. Damızlık Birliği'nin 17-24 Temmuz tarihleri arasında yapacağı kesim organizasyonunda; inek, düve ve dana kesim fiyatları, bir önceki haftaya göre 10 lira düştü.\n\nTarih: 17 Temmuz - 24 Temmuz 2026\n\nİnek Kesim Fiyatı: 400 TL (199 kg altı)\n\nDana Kesim Fiyatı: (Holstein) 480 TL (250 kg altı)\n\nDana Kesim Fiyatı: (Diğer Irklar) 510 TL (250 kg altı)\n\nDüve Kesim Fiyatı: 420 TL (199 kg altı)\n\n/* Kart/Stack Tasarımı */\n\n.price-cards {\n\ndisplay: flex;\n\nflex-direction: column;\n\ngap: 15px; /* Kartlar arası boşluk */\n\n}\n\n.price-card {\n\nborder: 1px solid #ccc;\n\nborder-radius: 8px;\n\npadding: 12px 16px;\n\nbackground-color: #fafafa;\n\nbox-shadow: 0 2px 5px rgba(0,0,0,0.05);\n\n}\n\n.card-row {\n\nmargin-bottom: 6px;\n\nfont-size: 1em;\n\n}\n\n.card-row strong {\n\ncolor: #2a6ebb; /* Başlık rengi */\n\n}\n\n23 Temmuz 2026 Ankara Ticaret Borsası Kırmızı Et Fiyatları\n\nAnkara Ticaret Borsası'nın güncel kırmızı et fiyatları listesinde bugün sadece kuzu karkas kesim fiyatı işlem gördü. 19 Temmuz'da yayınlanan listede kuzu karkas kesim fiyatı en düşük 700 lira, en yüksek 800 lirayı görürken ortalama 746 lira olmuştu. Ancak son yayınlanan listede kuzu karkas kesim fiyatı ortalama 683 liradan işlem gördü.\n\n2026 yılı et kesim fiyatları (Arşiv)\n\nUKON tarafından Türkiye genelinde yayınlanan dana ve kuzu kesim fiyatları, haftalık olarak aşağıdaki tabloda kronolojik şekilde listelenmektedir.\n\nTarih\n\nDana Kesim Fiyatı (TL)\n\nKuzu Kesim Fiyatı (TL)\n\n23 Temmuz 2026\n\n575,57\n\n600,14\n\n16 Temmuz 2026\n\n570,56\n\n593,69\n\n9 Temmuz 2026\n\n576,77\n\n602,14\n\n2 Temmuz 2026\n\n584,76\n\n608,57\n\n25 Haziran 2026\n\n591,36\n\n612,14\n\n18 Haziran 2026\n\n594,61\n\n615,00\n\n11 Haziran 2026\n\n593,21\n\n610,71\n\n4 Haziran 2026\n\n593,73\n\n609,17\n\n21 Mayıs 2026\n\n595,11\n\n617,31\n\n14 Mayıs 2026\n\n592,17\n\n611,43\n\n7 Mayıs 2026\n\n592,73\n\n609,61\n\n30 Nisan 2026\n\n597,73\n\n603,93\n\n24 Nisan 2026\n\n595,36\n\n600,71\n\n16 Nisan 2026\n\n590,90\n\n595,61\n\n9 Nisan 2026\n\n595,39\n\n590,16\n\n2 Nisan 2026\n\n607,17\n\n595,71\n\n26 Mart 2026\n\n612,10\n\n591,00\n\n12 Mart 2026\n\n607,30\n\n587,71\n\n5 Mart 2026\n\n604,45\n\n572,56\n\n26 Şubat 2026\n\n601,86\n\n573,27\n\n12 Şubat 2026\n\n606,24\n\n571,50\n\n5 Şubat 2026\n\n584,20\n\n565,44\n\n29 Ocak 2026\n\n579,64\n\n566,87\n\n22 Ocak 2026\n\n588,46\n\n562,20\n\n15 Ocak 2026\n\n601,24\n\n566,79\n\n8 Ocak 2026\n\n587,19\n\n552,57\n\n/* Kart/Stack Tasarımı */\n\n.price-cards {\n\ndisplay: flex;\n\nflex-direction: column;\n\ngap: 15px; /* Kartlar arası boşluk */\n\n}\n\n.price-card {\n\nborder: 1px solid #ccc;\n\nborder-radius: 8px;\n\npadding: 12px 16px;\n\nbackground-color: #fafafa;\n\nbox-shadow: 0 2px 5px rgba(0,0,0,0.05);\n\n}\n\n.card-row {\n\nmargin-bottom: 6px;\n\nfont-size: 1em;\n\n}\n\n.card-row strong {\n\ncolor: #2a6ebb; /* Başlık rengi */\n\n}\n\n.et-fiyat-baslik {\n\nfont-size: 18px;\n\nfont-weight: 600;\n\nmargin-bottom: 12px;\n\n}\n\n.et-fiyatlari {\n\nwidth: 100%;\n\nborder-collapse: collapse;\n\nfont-size: 15px;\n\n}\n\n.et-fiyatlari thead {\n\nbackground: rgba(0,0,0,0.04);\n\n}\n\n.et-fiyatlari th,\n\n.et-fiyatlari td {\n\npadding: 10px;\n\nborder-bottom: 1px solid #eee;\n\ntext-align: left;\n\n}\n\n.fiyat {\n\nfont-weight: 700;\n\ncolor: #1a7f37;\n\n}\n\n/* Mobil Kart Tasarımı */\n\n@media (max-width: 768px) {\n\n.et-fiyatlari thead {\n\ndisplay: none;\n\n}\n\n.et-fiyatlari,\n\n.et-fiyatlari tbody,\n\n.et-fiyatlari tr,\n\n.et-fiyatlari td {\n\ndisplay: block;\n\nwidth: 100%;\n\n}\n\n.et-fiyatlari tr {\n\nbackground: #fff;\n\nborder: 1px solid #eee;\n\nborder-radius: 10px;\n\npadding: 14px;\n\nmargin-bottom: 12px;\n\nbox-shadow: 0 2px 8px rgba(0,0,0,0.04);\n\n}\n\n.et-fiyatlari td {\n\nborder: none;\n\npadding: 6px 0;\n\n}\n\n.et-fiyatlari td::before {\n\ncontent: attr(data-label);\n\nfont-weight: 600;\n\ndisplay: block;\n\ncolor: #666;\n\nfont-size: 13px;\n\nmargin-bottom: 2px"
+    },
     {
       "title": "Karadeniz'deki saldırılar yem hammaddesi fiyatlarını artırdı! Kepek ve küspeye zam geldi",
       "url": "https://www.tarimdanhaber.com/karadenizdeki-saldirilar-yem-hammaddesi-fiyatlarini-artirdi-kepek-ve-kuspeye-zam-geldi",
@@ -125,14 +133,6 @@
       "date": "2026-07-23",
       "summary": "2026 üretim yılı sertifikalı tohum ve sertifikalı fidan kullanım desteği başvurularında geri sayım başladı. Tarım ve Orman Bakanlığı'nın destekleme programı kapsamında başvurular 31 Temmuz 2026 Cuma günü mesai bitiminde sona erecek.",
       "content": "Haber Merkezi / Sertifikalı tohum ve sertifikalı fidan kullanım desteğinden yararlanmak isteyen üreticiler için başvuru sürecinde sona yaklaşıldı.\n\n5488 sayılı Tarım Kanunu ile 2025-2027 yıllarında uygulanacak bitkisel üretim desteklemelerine ilişkin Tebliğ kapsamında yürütülen destekleme programında, 2026 üretim yılı başvuruları 31 Temmuz 2026 Cuma günü mesai bitiminde tamamlanacak.\n\nBaşvurular için son tarih 31 Temmuz\n\nİl Tarım ve Orman Müdürlüklerinin yaptığı duyurularla üreticilere hatırlatma yapılırken, başvurusunu henüz tamamlamayan çiftçilerin işlemlerini son güne bırakmamaları istendi.\n\nBaşvuruların süresinde yapılmaması halinde üreticiler, 2026 üretim yılı için sertifikalı tohum ve sertifikalı fidan kullanım desteklerinden yararlanamayacak.\n\nDestek neden önemli?\n\nSertifikalı tohum ve sertifikalı fidan kullanım desteği, üreticilerin sertifikalı materyal kullanımını yaygınlaştırmayı, verim ve kaliteyi artırmayı, hastalıklardan ari ve kayıtlı üretim materyallerinin kullanımını teşvik etmeyi amaçlıyor.\n\nYetkililer, destekten yararlanmak isteyen üreticilerin il ve ilçe tarım müdürlüklerinden başvuru şartları hakkında bilgi alarak işlemlerini 31 Temmuz 2026 mesai bitimine kadar tamamlamaları gerektiğini hatırlatıyor."
-    },
-    {
-      "title": "Taahhütnameyle ÇKS'ye kayıt yaptıran çiftçiler dikkat! Askı süreci başladı",
-      "url": "https://www.tarimdanhaber.com/taahhutnameyle-cksye-kayit-yaptiran-ciftciler-dikkat-aski-sureci-basladi",
-      "source": "Tarımdan Haber",
-      "date": "2026-07-23",
-      "summary": "2026 üretim yılı için taahhütnameyle Çiftçi Kayıt Sistemi'ne (ÇKS) kaydedilen parsellere ait askı icmalleri yayımlandı. Çiftçilerin kayıtlarını kontrol ederek varsa hatalara 31 Temmuz 2026 tarihine kadar itiraz etmeleri gerekiyor.",
-      "content": "Haber Merkezi / 2026 üretim yılı kapsamında taahhütnameyle Çiftçi Kayıt Sistemi'ne (ÇKS) kaydedilen parsellere ilişkin askı icmalleri yayımlanmaya başladı.\n\nBatman İl Tarım ve Orman Müdürlüğü tarafından yapılan duyuruya göre, askı icmalleri 16 Temmuz 2026 tarihinde askıya çıkarıldı. Listeler, 15 gün süreyle İl Tarım ve Orman Müdürlüğü Bitkisel Üretim ve Bitki Sağlığı Şube Müdürlüğü ile köy muhtarlıklarında ilan edilecek.\n\nİtiraz için son tarih 31 Temmuz\n\nAskı süreci 31 Temmuz 2026 tarihinde sona erecek. Bu tarihe kadar kayıtlarını inceleyen üreticiler, parsel bilgileri veya kayıtlarında hata tespit etmeleri halinde itirazda bulunabilecek.\n\nİl Müdürlüğü, 31 Temmuz 2026 tarihinden sonra yapılacak itirazların dikkate alınmayacağını hatırlatarak, üreticilerin askı süresi içinde kayıtlarını mutlaka kontrol etmeleri gerektiğini bildirdi.\n\nDestek ödemeleri açısından önem taşıyor\n\nÇKS kayıtlarının doğru olması, tarımsal desteklerden yararlanılması ve üretici bilgilerinin güncel tutulması açısından büyük önem taşıyor. Bu nedenle taahhütnameyle ÇKS kaydı yaptıran çiftçilerin askı icmallerini inceleyerek olası hataları süresi içinde düzelttirmeleri gerekiyor."
     }
   ],
   "commoditiesByBorsa": {
@@ -328,5 +328,17 @@
   "defaultBorsa": "5ED10",
   "defaultCity": "CANAKKALE",
   "note": "Fiyatlar TOBB ticaret borsasından (borsa seçilebilir). Kanola manuel (Trakya 2025).",
-  "inputsNote": "Mazot: akaryakıt bayi fiyatı, günlük (şehir seçilebilir). Gübre: manuel (yaklaşık)."
+  "inputsNote": "Mazot: akaryakıt bayi fiyatı, günlük (şehir seçilebilir). Gübre: manuel (yaklaşık).",
+  "errors": [
+    "mazot ANKARA: fetch failed",
+    "mazot ISTANBUL: fetch failed",
+    "mazot IZMIR: fetch failed",
+    "mazot KONYA: fetch failed",
+    "mazot ADANA: fetch failed",
+    "mazot BURSA: fetch failed",
+    "mazot ANTALYA: fetch failed",
+    "mazot SAMSUN: fetch failed",
+    "mazot TEKIRDAG: fetch failed",
+    "mazot CANAKKALE: fetch failed"
+  ]
 }
