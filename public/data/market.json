@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-07-23T07:19:56.524Z",
+  "updatedAt": "2026-07-23T09:41:26.050Z",
   "fx": [
     {
       "code": "USD",
@@ -11,33 +11,41 @@
     {
       "code": "EUR",
       "name": "Euro",
-      "buy": 54.1,
-      "sell": 54.1,
-      "change": 0.33
+      "buy": 54.02,
+      "sell": 54.03,
+      "change": 0.19
     },
     {
       "code": "GRA",
       "name": "Gram Altın",
-      "buy": 6240.48,
-      "sell": 6241.41,
-      "change": -0.46
+      "buy": 6213.98,
+      "sell": 6214.94,
+      "change": -0.89
     },
     {
       "code": "CEYREKALTIN",
       "name": "Çeyrek Altın",
-      "buy": 10079.82,
-      "sell": 10308.19,
-      "change": 0
+      "buy": 9923.86,
+      "sell": 10150.85,
+      "change": -1.53
     },
     {
       "code": "CUMHURIYETALTINI",
       "name": "Cumhuriyet Altını",
-      "buy": 41664,
-      "sell": 42291,
-      "change": 2.29
+      "buy": 41154,
+      "sell": 41781,
+      "change": -1.21
     }
   ],
   "news": [
+    {
+      "title": "Ege İhracatçıları: İlk yarıda yaş meyve sebze ihracatı arttı",
+      "url": "https://www.tarimpusulasi.com/haber/ege-ihracatcilari-ilk-yarida-yas-meyve-sebze-ihracati-artti-47133",
+      "source": "Tarım Pusulası",
+      "date": "2026-07-23",
+      "summary": "Ege Yaş Meyve Sebze İhracatçıları Birliği'nin 2026 yılı Ocak-Haziran dönemi ihracatı geçen yılın aynı dönemine göre yüzde 2 artarak 572 milyon dolara ulaştı. Birlik, Japonya ve Güney Kore'ye düzenleyeceği ticaret heyetiyle Uzak Doğu pazarındaki varlığını güçlendirmeyi hedeflerken, Çin pazarının Türk",
+      "content": "İZMİR — Ege Yaş Meyve Sebze İhracatçıları Birliği (EYMSİB), 2026 yılının ilk altı ayında yaş meyve, sebze ve mamulleri ihracatını geçen yılın aynı dönemine göre yüzde 2 artırarak 559 milyon dolardan 572 milyon dolara yükseltti. Birlik, yılın ikinci yarısında Japonya ve Güney Kore'ye düzenleyeceği ticaret heyetiyle Uzak Doğu pazarındaki etkinliğini artırmayı hedeflerken, Çin pazarının Türk kirazına yeniden açılmasını da önemli bir fırsat olarak değerlendiriyor.\n\nBirlik Başkanı Cengiz Balık, küresel ekonomideki belirsizlikler ve lojistik zorluklara rağmen elde edilen ihracat artışının sektörün dayanıklılığını ortaya koyduğunu belirtti. Balık, 2025 yılında 128 ülkeye toplam 1 milyar 231 milyon dolarlık yaş meyve, sebze ve mamulleri ihracatı gerçekleştirildiğini, bu performansla Birliğin Ege Bölgesi bitkisel ürün ihracatındaki liderliğini koruduğunu ifade etti. Türkiye'nin toplam yaş meyve sebze ve mamulleri ihracatının yaklaşık beşte birinin Birlik üyeleri tarafından gerçekleştirildiğini kaydetti.\n\nBalık, 2026'nın ilk yarısında yaş meyve ve sebze grubunda en fazla ihraç edilen ürünlerin kiraz, domates, mandalina ve şeftali olduğunu söyledi. Meyve sebze mamullerinde ise kuru domates, kornişon turşusu, biber turşusu, sebze konserveleri ve elma suyu ihracatın lokomotif ürünleri arasında yer aldı.\n\nİhracatta ülke sıralamasında Almanya, Amerika Birleşik Devletleri, Rusya, İngiltere ve Hollanda ilk beş pazarı oluşturdu. Balık, geleneksel pazarlardaki güçlü konumun korunduğunu, okyanus ötesi pazarlarda ise kalıcı bir varlık oluşturulması amacıyla fuar ve ticaret heyetlerine ağırlık verdiklerini belirtti. UR-GE projeleri kapsamında İngiltere, Norveç ve Kanada'ya ticaret heyetleri düzenlendiğini, Turkish Tastes Turquality projesiyle de ürünlerin Amerika Birleşik Devletleri'nde tanıtım çalışmalarının sürdürüldüğünü ifade etti.\n\nBirliğin yeni hedefinin Uzak Doğu pazarı olduğunu açıklayan Balık, 20-29 Kasım 2026 tarihlerinde Japonya ve Güney Kore'ye sektörel ticaret heyeti düzenleneceğini bildirdi. Heyetin, yüksek alım gücüne sahip pazarlarda yeni iş bağlantıları kurulmasına ve Türk ürünlerinin tanıtımına katkı sağlaması hedefleniyor.\n\nBalık ayrıca, Türkiye'den Çin Halk Cumhuriyeti'ne kiraz ihracatının yeniden başlamasına yönelik sürecin de yakından takip edildiğini söyledi. Çin Gümrükler Genel İdaresi teknik heyetinin 22-28 Haziran 2026 tarihlerinde kiraz bahçeleri, paketleme tesisleri ile soğuk işlem ve fumigasyon merkezlerinde incelemelerde bulunduğunu belirten Balık, hazırlanacak raporun ardından Çin makamlarının Türk kirazı ithalatına yeniden izin vermesini beklediklerini ifade etti.\n\nDünyanın yıllık yaklaşık 600 bin ton kiraz ithal eden en büyük pazarı konumundaki Çin'in yeniden açılmasının, Türk kirazı başta olmak üzere sektörün ihracatına önemli katkı sağlayacağı değerlendiriliyor.\n\nBalık, elde edilen başarının üreticiden ihracatçıya kadar zincirin tüm halkalarının ortak emeğinin sonucu olduğunu belirterek, Ticaret Bakanlığı, Tarım ve Orman Bakanlığı ile sektöre katkı sağlayan tüm kurumlara teşekkür etti.\n\nTARIM PUSULASI HABER MERKEZİ"
+    },
     {
       "title": "Meteoroloji: Kuzey ve iç kesimlerde sağanak bekleniyor",
       "url": "https://www.tarimpusulasi.com/haber/meteoroloji-kuzey-ve-ic-kesimlerde-saganak-bekleniyor-47132",
@@ -125,14 +133,6 @@
       "date": "2026-07-22",
       "summary": "Denizli Büyükşehir Belediyesi, üreticilerin üretim maliyetlerini azaltmak ve sera üretimini desteklemek amacıyla başlattığı Sera Naylonu Desteği Projesi kapsamında ilk dağıtımı Kale ilçesinde gerçekleştirdi. Programın ilk etabında 485 üreticiye iklim koşullarına dayanıklı sera naylonu teslim edilirk",
       "content": "DENİZLİ — Denizli Büyükşehir Belediyesi, üreticilerin maliyetlerini düşürmek ve sera üretiminde verimliliği artırmak amacıyla uygulamaya aldığı Sera Naylonu Desteği Projesi kapsamında ilk dağıtımı Kale ilçesinde gerçekleştirdi. Programın ilk etabında 485 üreticiye yüksek kaliteli sera naylonu teslim edildi.\n\nDağıtım törenine Denizli Büyükşehir Belediye Başkanı Bülent Nuri Çavuşoğlu, Kale Belediye Başkanı Erkan Hayla, Denizli Büyükşehir Belediyesi Kırsal Hizmetler Dairesi Başkanı Yücel Arazsu, ilçe protokolü ve üreticiler katıldı.\n\nBaşkan Bülent Nuri Çavuşoğlu, törende yaptığı konuşmada belediyenin üreticilere yönelik desteklerinin süreceğini belirterek, tarımsal üretimin sürdürülebilirliği ve üreticilerin maliyet yükünün azaltılmasının öncelikli hedefleri arasında yer aldığını ifade etti.\n\nKale Belediye Başkanı Erkan Hayla da sera naylonu desteğinin ilçe üreticileri açısından ekonomik ve moral yönüyle önemli katkı sağlayacağını belirterek Denizli Büyükşehir Belediyesine teşekkür etti.\n\nKonuşmaların ardından hak sahibi üreticilere sera naylonları teslim edildi.\n\nDağıtımlar diğer ilçelerde sürecek\n\nBelediyenin açıkladığı takvime göre proje kapsamında dağıtımlar hafta boyunca farklı ilçelerde devam edecek.\n\nPlanlamaya göre;\n\nKale: 485 üretici\n\nBeyağaç: 519 adet sera naylonu\n\nGüney: 165 adet\n\nBuldan: 344 adet\n\nTavas: 226 adet\n\nAcıpayam: 165 adet\n\nBöylece program kapsamında farklı ilçelerde yüzlerce üretici destekten yararlanacak.\n\nÜreticilere 36 ay dayanıklı sera naylonu\n\nProje kapsamında dağıtılan sera naylonları;\n\n8 metre genişliğinde\n\n30 metre uzunluğunda\n\n240 metrekare kullanım alanına sahip\n\n36 ay dayanıklılık garantili\n\nolarak üreticilere teslim ediliyor.\n\nBelediye, bu destekle sera üretiminde kullanılan örtü malzemelerinin yenilenmesini, ürün kalitesinin artırılmasını ve iklim koşullarından kaynaklanan üretim kayıplarının azaltılmasını hedefliyor.\n\nTARIM PUSULASI HABER MERKEZİ"
-    },
-    {
-      "title": "AB'de dikkat çeken tablo! Sığır varlığı düştü, canlı hayvan ihracatı arttı",
-      "url": "https://www.tarimdanhaber.com/abde-dikkat-ceken-tablo-sigir-varligi-dustu-canli-hayvan-ihracati-artti",
-      "source": "Tarımdan Haber",
-      "date": "2026-07-22",
-      "summary": "Tarım politikaları uzmanı Ergin Kahveci, Avrupa Birliği'nin 2014-2024 dönemine ilişkin canlı sığır verilerini paylaştı. Verilere göre AB-23 ülkelerinde toplam sığır varlığı yüzde 8,6 azalmasına rağmen canlı sığır ihracatının değeri yüzde 58, ihracat hacmi ise yüzde 15,8 arttı.",
-      "content": "Haber Merkezi / Tarım politikaları uzmanı Ergin Kahveci, sosyal medya hesabından yaptığı paylaşımda Avrupa Birliği'nin 2014-2024 dönemine ilişkin canlı sığır ihracatı ve hayvan varlığı verilerini değerlendirdi.\n\nKahveci'nin paylaştığı verilere göre, İsveç, Finlandiya, Malta ve Güney Kıbrıs Rum Yönetimi hariç AB-23 ülkelerinde son 10 yılda sığır varlığı azalırken canlı hayvan ihracatı hem değer hem de miktar açısından artış gösterdi.\n\nSığır sayısı yüzde 8,6 azaldı\n\nPaylaşılan verilere göre AB-23 ülkelerinde toplam canlı sığır popülasyonu 2014 yılında 76,2 milyon baş seviyesindeyken, 2024 yılında 69,7 milyon başa geriledi.\n\nBöylece son 10 yılda sığır varlığında yüzde 8,6'lık bir azalma yaşandı.\n\nCanlı sığır ihracatının değeri yüzde 58 arttı\n\nHayvan sayısındaki düşüşe rağmen canlı sığır ihracatında dikkat çekici bir artış yaşandı.\n\nBuna göre:\n\nCanlı sığır ihracatının değeri 2,262 milyar Euro'dan 3,575 milyar Euro'ya yükselerek yüzde 58 arttı.\n\nİhracat hacmi ise yüzde 15,77 artış gösterdi.\n\nKahveci, ihracat değerindeki artışın, ihracat hacmindeki artıştan daha yüksek olmasının hayvan başına ihracat değerinin yükseldiğine veya daha yüksek değerli hayvanların ihraç edildiğine işaret ettiğini belirtti.\n\nÜretim anlayışı değişiyor\n\nPaylaşımda, AB hayvancılık sektöründeki bu gelişmenin yalnızca üretim artışından kaynaklanmadığına dikkat çekildi.\n\nBuna göre sektör, hayvan sayısını artırmaya dayalı üretim modelinden verimlilik, üretkenlik ve modernizasyon odaklı bir yapıya geçiş sürecini yaşıyor.\n\n2035'e kadar ihracatta düşüş bekleniyor\n\nKahveci'nin aktardığı Avrupa Komisyonu tahminlerine göre ise AB'nin canlı hayvan ihracatının 2022-2035 döneminde yıllık ortalama yüzde 3,2 azalması bekleniyor.\n\nBu gerilemede, hayvan arzındaki daralma ile jeopolitik gelişmeler nedeniyle bazı pazarlara erişimin zorlaşmasının etkili olacağı öngörülüyor.\n\nFransa ilk sırada, Çekya hayvan başına değerde zirvede\n\nPaylaşılan verilere göre;\n\nHayvan başına en yüksek ihracat değeri 123,36 Euro ile Çekya'da gerçekleşti.\n\nOrtalama ihracat değeri 1,344 milyar Euro ile Fransa ilk sırada yer aldı.\n\nEn yüksek ortalama ihracat miktarı ise 434 bin 881 tonla yine Fransa'nın olurken, Hollanda 101 bin 161 tonla ikinci sırada yer aldı."
     }
   ],
   "commoditiesByBorsa": {
@@ -328,17 +328,5 @@
   "defaultBorsa": "5ED10",
   "defaultCity": "CANAKKALE",
   "note": "Fiyatlar TOBB ticaret borsasından (borsa seçilebilir). Kanola manuel (Trakya 2025).",
-  "inputsNote": "Mazot: akaryakıt bayi fiyatı, günlük (şehir seçilebilir). Gübre: manuel (yaklaşık).",
-  "errors": [
-    "mazot ANKARA: fetch failed",
-    "mazot ISTANBUL: fetch failed",
-    "mazot IZMIR: fetch failed",
-    "mazot KONYA: fetch failed",
-    "mazot ADANA: fetch failed",
-    "mazot BURSA: fetch failed",
-    "mazot ANTALYA: fetch failed",
-    "mazot SAMSUN: fetch failed",
-    "mazot TEKIRDAG: fetch failed",
-    "mazot CANAKKALE: fetch failed"
-  ]
+  "inputsNote": "Mazot: akaryakıt bayi fiyatı, günlük (şehir seçilebilir). Gübre: manuel (yaklaşık)."
 }
