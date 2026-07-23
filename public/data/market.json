@@ -1,43 +1,51 @@
 {
-  "updatedAt": "2026-07-23T16:58:55.949Z",
+  "updatedAt": "2026-07-23T18:15:18.778Z",
   "fx": [
     {
       "code": "USD",
       "name": "Dolar",
-      "buy": 47.22,
-      "sell": 47.24,
-      "change": 0.04
+      "buy": 47231,
+      "sell": 472351,
+      "change": 4
     },
     {
       "code": "EUR",
       "name": "Euro",
-      "buy": 53.87,
-      "sell": 53.89,
-      "change": -0.08
+      "buy": 538402,
+      "sell": 538729,
+      "change": -12
     },
     {
       "code": "GRA",
       "name": "Gram Altın",
-      "buy": 6150.67,
-      "sell": 6151.49,
-      "change": -1.9
+      "buy": 613901,
+      "sell": 613989,
+      "change": -208
     },
     {
       "code": "CEYREKALTIN",
       "name": "Çeyrek Altın",
-      "buy": 9814.78,
-      "sell": 10039.36,
-      "change": -2.61
+      "buy": 981478,
+      "sell": 1003936,
+      "change": -261
     },
     {
       "code": "CUMHURIYETALTINI",
       "name": "Cumhuriyet Altını",
       "buy": 40841,
       "sell": 41448,
-      "change": -1.99
+      "change": -199
     }
   ],
   "news": [
+    {
+      "title": "2025'in hayvanını 2026'da teslim eden ESK'dan üreticiye: 'Bedava mal alıyorsunuz'",
+      "url": "https://www.tarimdanhaber.com/2025in-hayvanini-2026da-teslim-eden-eskdan-ureticiye-bedava-mal-aliyorsunuz",
+      "source": "Tarımdan Haber",
+      "date": "2026-07-23",
+      "summary": "Et ve Süt Kurumu (ESK), 2025 yılı kapsamında üreticiye teslim etmesi gereken ithal besilik danaları ancak 1 Temmuz 2026'da teslim edebildi. İskenderun Limanı'nda teslim alınan hayvanların üstündeki gübreye itiraz eden üreticiler ise, ESK yetkililerinden \"Bedava mal alıyorsunuz, bir de itiraz mı ediy",
+      "content": "Tarımdan Haber Özel / Et ve Süt Kurumu'nun (ESK) besilik dana tedarik programında yaşanan gecikme, üreticilerin tepkisini çekti. Kurumun 2025 yılı kapsamında üreticiye teslim etmesi gereken ithal besilik danalar ancak 1 Temmuz 2026 tarihinde İskenderun ve Taşucu limanlarına gelen gemilerle üreticilere teslim edildi.\n\nHayvancılık sektöründe besilik materyal sıkıntısının yaşandığı, üreticilerin işletmelerine hayvan bulmakta zorlandığı bir dönemde, 2025 yılı programının ancak bir yıl sonra tamamlanabilmesi, ESK'nın besilik hayvan organizasyonunu yeniden tartışmaya açtı.\n\nBu haber de dikkatinizi çekebilir → İthal besilik hayvanlarda gübre tartışması yeniden alevlendi\n\n2026 programı hala başlamadı\n\nDikkat çeken bir başka gelişme ise 2026 yılı ithal besilik dana programında yaşandı. Temmuz ayının sonuna gelinmesine rağmen, bu yıl ithal edilecek besilik danaların üreticiye teslimatı henüz başlamadı.\n\nBöylece üreticiler bir yandan geçen yılın hayvanlarını teslim alırken, diğer yandan 2026 programının ne zaman başlayacağını bekliyor.\n\nESK'dan üreticiye: 'Bedava mal alıyorsunuz'\n\nİskenderun Limanına yanaşan Goodness gemisinden inen ithal besilik sığırların gübreli olması dikkat çekerken, üreticiler hayvanlaarın üzerinde en az 7-8 kg gübre bulunduğunu ve bunu ESK yetkililerine itiraz ettiklerini kaydetti. Ancak beklenmedik bir tepkiyle karşılaştıklarını dile getiren üreticiler, \"Bedavadan mal alıyorsunuz bir de itiraz mı ediyorsunuz\" diyerek itirazlarının kabul edilmediğini kaydetti.\n\nBilindiği üzere ithal besilik sığırlar üreticiye 2025 yılında canlı kg 228 liradan satılmıştı. Bu fiyat, 2026'da 420 liraya çıkarıldı. ESK yetkilileri de 2026 yılı fiyatına göre fiyatı çok düşük kalan 2025 yılı hayvanların tesliminde üreticinin gübre tepkisine 'Bedavadan mal alıyorsunuz' şeklinde karşılık vermesi dikkat çekti. Üreticiler, \"2025 yılı hayvanını 2026 yılında teslim eden bir kurum, üreticiye \"Bedava mal alıyorsunuz\" diyebilir mi?\" diyerek duruma tepki gösterdiler.\n\nBilindiği üzere aynı dönemde Mersin/Taşucu limanına gelen gemiden indirilen hayvanların üstünde de yine ciddi bir gübre sorunu vardı. Üretici, canlı kiloya göre hayvanları teslim aldığı için, hayvanların üstündeki gübre miktarına göre ESK'ya ekstra bir ödeme yapıyor."
+    },
     {
       "title": "Kırmızı et fiyatları (23 Temmuz 2026)",
       "url": "https://www.tarimdanhaber.com/sigir-kesim-fiyatlari",
@@ -125,14 +133,6 @@
       "date": "2026-07-23",
       "summary": "Tarım ve Orman Bakanlığının aynı Genel Müdürlük bünyesinde yürütülen iki ithalat dosyasında izlenen farklı süreç, dikkat çekici bir tartışmayı beraberinde getirdi. Bakanlık, limit aşımı tespit edilen Cargill'e ait ürüne \"özel işlem izni\" verirken, benzer uygulamayı talep eden susam ithalatçısı firma",
       "content": "Sadettin İnan / Tarım ve Orman Bakanlığı Gıda ve Kontrol Genel Müdürlüğünün 2026 yılı içinde yürüttüğü iki farklı ithalat dosyası, Bakanlığın uygulamalarına ilişkin yeni bir tartışmayı beraberinde getirdi.\n\nTarımdan Haber'in ulaştığı resmi yazışmalara göre, Cargill Tarım ve Gıda Sanayi A.Ş. tarafından ithal edilmek istenen yaklaşık 1 milyon kilogram Hindistan cevizi yağında, Türk Gıda Kodeksi Bulaşanlar Yönetmeliğinde belirlenen 3-MCPD limitinin üzerinde değer tespit edildi.\n\nMevzuata aykırılık tespit edilmesine rağmen Cargill, ürünün rafinasyon işlemine tabi tutulması ve limit değerlerin uygun seviyeye indirilmesinin ardından yeniden analiz edilmesi için Gıda ve Kontrol Genel Müdürlüğüne \"özel işlem\" başvurusunda bulundu.\n\nBakanlık özel işlem talebini uygun buldu\n\nGıda ve Kontrol Genel Müdürlüğü, Cargill'in talebini uygun bularak Kocaeli ve Balıkesir Tarım ve Orman İl Müdürlüklerine talimat gönderdi.\n\nGönderilen talimatta ürünün Bakanlık gözetiminde rafinasyon işlemine alınması, tesisin denetlenmesi, işlem sürecinin kayıt altına alınması ve rafinasyon sonrasında yeniden analiz yapılması istendi. Analiz sonuçlarının mevzuata uygun çıkması halinde ise ithalat işlemlerinin tamamlanabileceği belirtildi.\n\nBunun üzerine ürünün yaklaşık 978 tonluk bölümünün özel işlem kapsamında firmanın tesisine sevk edilmesine izin verildi.\n\nSusam ithalatında özel işlem talebi karşılık bulmadı\n\nGıda ve Kontrol Genel Müdürlüğünün önüne gelen bir diğer ithalat dosyası ise Napas Global Gıda Sanayi ve Ticaret A.Ş.'nin Tanzanya'dan gerçekleştirdiği susam ithalatı oldu. Bu dosyada ise Cargill örneğinden farklı bir uygulama izlendi.\n\nNapas Global Gıda Sanayi ve Ticaret A.Ş, Tanzanya'dan ithal ettiği yaklaşık 56 ton ham kabuklu susamın, analizlerde \"yabancı madde\" tespit edilmesi nedeniyle ithalata uygun bulunmaması üzerine Bursa İl Tarım ve Orman Müdürlüğü nezdinde girişimlerde bulundu.\n\nŞirket, muayene ve analiz raporunda \"yabancı madde\" olarak değerlendirilen unsurların insan sağlığını tehdit eden bakteri, pestisit veya kimyasal kalıntılardan değil, hasat sırasında ürüne doğal olarak karışabilen taş, toprak ve bozuk danelerden oluştuğunu belirterek, ürünün kendi tesisinde temizleme ve ayıklama işlemine tabi tutulmasına izin verilmesini talep etti.\n\nBaşvuru kapsamında, ayıklama işleminin yapılabileceğine ilişkin kapasite raporu ve teknik belgeler de Bursa İl Tarım ve Orman Müdürlüğüne sunuldu. Ancak şirketin bu talebi uygun görülmedi ve ithalat işlemi ilerletilmedi.\n\nDosya yargıya ve Teftiş Kuruluna taşındı\n\nİthalatçı firma, işlemin iptali ve yürütmenin durdurulması istemiyle idari yargıya başvururken, hazırladığı kapsamlı şikayet dosyasını da Tarım ve Orman Bakanlığı Rehberlik ve Teftiş Başkanlığına sundu.\n\nŞirket, yalnızca özel işlem talebinin reddedilmesi değil, ithalat sürecinde resmi GGBS sistemi yerine BURKA isimli özel bir yazılım üzerinden işlem yapılmasının istendiğine de dikkat çekerek, bu uygulamanın hukuki dayanağının araştırılmasını talep etmesi de dikkat çekti.\n\nBelgeler hangi soruyu gündeme getiriyor?\n\nTarımdan Haber'in ulaştığı resmi belgeler, Gıda ve Kontrol Genel Müdürlüğünün limit aşımı bulunan bir ithal ürünle ilgili Cargill'e \"özel işlem\" uygulanmasına izin verdiğini ortaya koyarken, susam ithalatçısı firmaya ise ayıklama işlemi sonrasında yeniden analiz yapılması yönündeki benzer talebinin kabul edilmediğini ortaya koyuyor.\n\nYargıya ve Rehberlik ve Teftiş Başkanlığına taşınan dosya, Gıda ve Kontrol Genel Müdürlüğünün benzer nitelikteki ithalat dosyalarında hangi kriterlerle karar verdiği ve \"özel işlem\" uygulamasının hangi esaslara göre işletildiği sorularını da beraberinde getirdi."
-    },
-    {
-      "title": "Sertifikalı tohum ve fidan desteğinde son 10 gün! Başvurular 31 Temmuz'da sona erecek",
-      "url": "https://www.tarimdanhaber.com/sertifikali-tohum-ve-fidan-desteginde-son-10-gun-basvurular-31-temmuzda-sona-erecek",
-      "source": "Tarımdan Haber",
-      "date": "2026-07-23",
-      "summary": "2026 üretim yılı sertifikalı tohum ve sertifikalı fidan kullanım desteği başvurularında geri sayım başladı. Tarım ve Orman Bakanlığı'nın destekleme programı kapsamında başvurular 31 Temmuz 2026 Cuma günü mesai bitiminde sona erecek.",
-      "content": "Haber Merkezi / Sertifikalı tohum ve sertifikalı fidan kullanım desteğinden yararlanmak isteyen üreticiler için başvuru sürecinde sona yaklaşıldı.\n\n5488 sayılı Tarım Kanunu ile 2025-2027 yıllarında uygulanacak bitkisel üretim desteklemelerine ilişkin Tebliğ kapsamında yürütülen destekleme programında, 2026 üretim yılı başvuruları 31 Temmuz 2026 Cuma günü mesai bitiminde tamamlanacak.\n\nBaşvurular için son tarih 31 Temmuz\n\nİl Tarım ve Orman Müdürlüklerinin yaptığı duyurularla üreticilere hatırlatma yapılırken, başvurusunu henüz tamamlamayan çiftçilerin işlemlerini son güne bırakmamaları istendi.\n\nBaşvuruların süresinde yapılmaması halinde üreticiler, 2026 üretim yılı için sertifikalı tohum ve sertifikalı fidan kullanım desteklerinden yararlanamayacak.\n\nDestek neden önemli?\n\nSertifikalı tohum ve sertifikalı fidan kullanım desteği, üreticilerin sertifikalı materyal kullanımını yaygınlaştırmayı, verim ve kaliteyi artırmayı, hastalıklardan ari ve kayıtlı üretim materyallerinin kullanımını teşvik etmeyi amaçlıyor.\n\nYetkililer, destekten yararlanmak isteyen üreticilerin il ve ilçe tarım müdürlüklerinden başvuru şartları hakkında bilgi alarak işlemlerini 31 Temmuz 2026 mesai bitimine kadar tamamlamaları gerektiğini hatırlatıyor."
     }
   ],
   "commoditiesByBorsa": {
@@ -328,17 +328,5 @@
   "defaultBorsa": "5ED10",
   "defaultCity": "CANAKKALE",
   "note": "Fiyatlar TOBB ticaret borsasından (borsa seçilebilir). Kanola manuel (Trakya 2025).",
-  "inputsNote": "Mazot: akaryakıt bayi fiyatı, günlük (şehir seçilebilir). Gübre: manuel (yaklaşık).",
-  "errors": [
-    "mazot ANKARA: fetch failed",
-    "mazot ISTANBUL: fetch failed",
-    "mazot IZMIR: fetch failed",
-    "mazot KONYA: fetch failed",
-    "mazot ADANA: fetch failed",
-    "mazot BURSA: fetch failed",
-    "mazot ANTALYA: fetch failed",
-    "mazot SAMSUN: fetch failed",
-    "mazot TEKIRDAG: fetch failed",
-    "mazot CANAKKALE: fetch failed"
-  ]
+  "inputsNote": "Mazot: akaryakıt bayi fiyatı, günlük (şehir seçilebilir). Gübre: manuel (yaklaşık)."
 }
