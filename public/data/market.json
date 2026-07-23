@@ -1,43 +1,51 @@
 {
-  "updatedAt": "2026-07-23T18:15:18.778Z",
+  "updatedAt": "2026-07-23T19:46:38.397Z",
   "fx": [
     {
       "code": "USD",
       "name": "Dolar",
-      "buy": 47231,
-      "sell": 472351,
-      "change": 4
+      "buy": 47.22,
+      "sell": 47.24,
+      "change": 0.03
     },
     {
       "code": "EUR",
       "name": "Euro",
-      "buy": 538402,
-      "sell": 538729,
-      "change": -12
+      "buy": 53.84,
+      "sell": 53.89,
+      "change": -0.11
     },
     {
       "code": "GRA",
       "name": "Gram Altın",
-      "buy": 613901,
-      "sell": 613989,
-      "change": -208
+      "buy": 6143.7,
+      "sell": 6144.64,
+      "change": -2.01
     },
     {
       "code": "CEYREKALTIN",
       "name": "Çeyrek Altın",
-      "buy": 981478,
-      "sell": 1003936,
-      "change": -261
+      "buy": 9814.78,
+      "sell": 10039.36,
+      "change": -2.61
     },
     {
       "code": "CUMHURIYETALTINI",
       "name": "Cumhuriyet Altını",
       "buy": 40841,
       "sell": 41448,
-      "change": -199
+      "change": -1.99
     }
   ],
   "news": [
+    {
+      "title": "ÖZEL RÖPORTAJ | “Vurulan gemileri almaya gidemiyoruz”",
+      "url": "https://www.tarimpusulasi.com/haber/ozel-roportaj-vurulan-gemileri-almaya-gidemiyoruz-47142",
+      "source": "Tarım Pusulası",
+      "date": "2026-07-23",
+      "summary": "Ukrayna ve Rusya karasularında saldırıya uğrayan ticari gemilerin kurtarılması güvenlik riskleri nedeniyle büyük ölçüde durdu. Türk römorkör firmaları, devletin güvenlik politikaları doğrultusunda savaş bölgesine gidemediklerini belirtirken, bölgede vurulan gemi sayısının sektör temsilcilerine göre ",
+      "content": "Hasan Basri ÖZAYDIN / YALOVA — Ukrayna ve Rusya karasularında vurulan ticari gemiler bulundukları yerde kaderine terk edildiler. Bu gemileri kurtarmaya giden römorkörlerden bazıları da hedef alınınca, kurtarma faaliyetleri sınırlı imkanlarla gerçekleştirilebiliyor. Şimdi bu gemilerin akıbeti hakkında karar verilmesi için ateşkesin sağlanması bekleniyor.\n\nHasarlı gemilerin akıbeti merak ediliyor\n\nAzak Denizi, Ukrayna limanları ve Karadeniz’de hedef alan ticaret gemilerinin kurtarılması, denizcilikteki ismiyle tugboat yani römorkor gemilerle ile çekilerek yapılıyor. Dronlara hedef olan ticari gemilerin çoğunlukla; yaşam mahalli, köprü üstü ve makine dairesi hedef alınarak hareketi kısıtlanıyor. Bu saldırılar çoğunlukla gemileri batırmaya yönelik değil, hareketinin kısıtlanması yoluyla ticari faaliyetlerinin sekteye uğratılması olarak görülüyor. Dronların isabet ettiği gemilerde yaşam mahallinde çıkan yangınla gemileri kontrol eden elektronik cihazlar ile GPS ve AIS sistemleri devre dışı kalıyor. Kendi başına hareket edemeyen gemiler, mutlaka tugboat yani römorkörler yardımıyla çekilerek tersanelere taşınabiliyor.\n\nBayrak ayırmaksızın vuruyorlar\n\nEn son Ukrayna’da vurulan Türk firmasına ait ANT gemisini içindeki mürettebat ile birlikte Yalova’daki tersaneye getiren Haktan 1 römorkör armatörü Selim Haktan yaşanan son gelişmeleri kendi cephelerinden değerlendirdi.\n\nHaktan, son 10 gündür Rusya ve Ukrayna’da vurulan gemilerin armatörleri ve sigorta şirketleri tarafından yoğun bir şekilde aranmaya başlandıklarını ancak Türkiye devletinin güvenlik gerekçeleriyle buna izin vermediği için şu an bölgedeki gemileri kurtarmaya gidemediklerini söyledi. Selim Haktan, daha önce savaşın ilk yıllarında Ukrayna ve Rusya’nın Türk gemilerine dokunmadıklarını, ancak şu an bayrak gözetmeksizin her gemiye saldırı düzenlediklerini belirterek şunları söyledi:\n\n“Ukrayna’da ve Rusya’da şu ana kadar kayda geçmiş vurulan gemisi sayısı 170 olarak raporlandı. Bu gemilerin çoğunluğu içindeki hayatta kalan mürettebat kurtarıldıktan sonra bulundukları yerde demirleyerek terk edildiler. Ağır hasar almamış ve kendi imkanlarıyla yüzebilenler de en yakın limanlara sığındılar. Türkiye olarak her iki ülkeyle savaşın başından bu yana görüşebilen ülkeydik. Biz ilk başlarda iki ülkeden bugüne kadar vurulan 14 gemiyi kurtarıp ülkemize getirdik. Ancak son gelinen noktada artık ne Ukrayna ne de Rusya bayrak tanımıyor ve her gemiyi vuruyor. Bu yüzden devlet politikası gereği olarak biz ikinci bir emre kadar bu ülkelere gemi kurtarmaya gitmiyoruz. Bunun için ateşkesin sağlanmasını bekliyoruz.”\n\nHasarlı gemilerin tamiri en iyi Türk tersanelerinde yapılır\n\nKendilerini arayan armatörlerin bazılarının Türk, bazıların da farklı ülkelerden olduğunu belirten Selim Haktan, savaş bölgelerinden gelen kurtarma çağrılarına cevap veremediklerini, ancak bu uyarıları dikkate almadan gidebilen bazı römorkör firmaların ciddi cezalar alabileceğini ve bu şekilde kurtarma personelinin hayatının da tehlikeye atılabileceğinin altını çizdi. Selim Haktan, kendilerinin en son Ukrayna’da vurulan ANT gemisini Türkiye Ulaştırma Bakanlığı’nın onayı ve izinleriyle, sadece gemi personelini kurtarma amacıyla getirdiklerini belirtti.\n\nSelim Haktan, vurulan gemilerin savaş sigortası var ise sigorta şirketleri üzerinden, yoksa kiracısıyla birlikte müşterek avarya atayarak ya da kendi aralarında anlaşarak birlikte çekici masraflarını karşıladıklarını anlatarak şunları söyledi: “Bu hasar gören gemilerin, Ukrayna ya da Rusya karasularından Türkiye’deki tersanelere çekilmesi en mantıklısı. Mesafeler uzadıkça masraflar artıyor. Römorkör çekici hizmetlerinin dışında, İstanbul ve Gelibolu boğaz geçiş ücretleri de buna ekleniyor. Hasar almış bir geminin, Rusya ya da Ukrayna’dan Türk karasularına getirilmesi masrafı geminin büyüklüğüne ve gidilen mesafeye göre, 200 bin dolar ile 300 bin dolar arasında gerçekleşiyor. Bu gemiler vurulduğu ülkelerde de tamir görebilir. Ancak Ukrayna’daki tersenelerde imkanlar kısıtlı. Ukrayna’nın Tuna nehri içindeki İzmail limanında bulunan tersanede çalışacak eleman bulunamıyor. Çoğu cephede savaşıyor ve Avrupa’ya gidebilenler de oradaki tersanelerde çalışıyor. Rusya’daki tersanelerde de imkanlar oldukça kısıtlı. Bu hasar gören gemiler en doğru şekilde Türkiye’deki tersanelerde tamir edilebilir. Yalova ve Tuzla tersaneleri bunun için uygun, eğer gemi çok hasar almışsa Aliağa’daki tersanede hurdaya ayrılıyor.”\n\nDirekt gemi personeli hedef alınıyor\n\nPGE TUGS and Salvage gemi kurtarma firması da 6 adet römorkör ile bölgede yoğun bir şekilde hizmet veren firmalardan biri. Bugüne kadar 10’dan fazla gemiyi bölgeden kurtaran PGE’nin Genel Müdürü ve kurucu ortaklarından Serhat Baysal, Ukrayna ve Rusya’da son dönemde vurulduğu rapor edilen ticari gemilerin sayısının Ukrayna kaynaklarının paylaştığı bilgilere göre 170’e ulaştığını söyledi. Baysal bu gemilerin personelleri kurtarıldıktan sonra vuruldukları yerde terk edildiklerini, süreç uzarsa vurulan gemilerin tahıl ve gıda yü"
+    },
     {
       "title": "2025'in hayvanını 2026'da teslim eden ESK'dan üreticiye: 'Bedava mal alıyorsunuz'",
       "url": "https://www.tarimdanhaber.com/2025in-hayvanini-2026da-teslim-eden-eskdan-ureticiye-bedava-mal-aliyorsunuz",
@@ -117,14 +125,6 @@
       "date": "2026-07-23",
       "summary": "Çin'in 2026 yılının ilk yarısındaki ithalat verilerine göre Rusya'dan yapılan buğday, arpa ve mısır alımları geçen yılın aynı dönemine göre arttı. Buna karşın Rusya'nın Çin'e yalnızca yazlık buğday ve yazlık arpa ihraç edebilmesi, ülkenin ihracat potansiyelini sınırlandırmaya devam ediyor.",
       "content": "PEKİN — Çin'in 2026 yılının ilk yarısına ilişkin ithalat verileri, Rusya'dan yapılan buğday, arpa ve mısır alımlarında artış yaşandığını ortaya koydu. Ancak artan ticarete rağmen Rusya'nın Çin tahıl pazarındaki payı, başlıca rakip ülkelerin gerisinde kalmayı sürdürdü. Uzmanlara göre bunun en önemli nedeni, Çin pazarının Rusya'nın kışlık buğday ve kışlık arpa ihracatına hâlâ kapalı olması.\n\nVerilere göre Rusya'nın Çin'e buğday ihracatı geçen yılın aynı dönemine göre 3,5 kat artmasına rağmen toplam ihracat değeri 8,7 milyon dolar seviyesinde kaldı. Aynı dönemde Kanada'nın Çin'e buğday ihracatı 416 milyon dolar, Avustralya'nın 259 milyon dolar, Amerika Birleşik Devletleri'nin ise yaklaşık 100 milyon dolar olarak gerçekleşti. Bu rakamlarla Rusya, Çin'in en büyük buğday tedarikçileri arasında beşinci sırada yer aldı.\n\nArpa ihracatında da Rusya'nın satışları ilk altı ayda iki katına çıkarak 84,5 milyon dolara yükseldi. Buna rağmen Rusya, tedarikçi sıralamasında üçüncülükten dördüncülüğe gerilerken, Arjantin önüne geçti. Çin'in en büyük arpa tedarikçisi ise 1,6 milyar doların üzerindeki ihracatıyla Avustralya oldu.\n\nRusya açısından en dikkat çekici gelişme mısır ihracatında yaşandı. Çin'e yapılan mısır sevkiyatının değeri ilk yarıda geçen yılın aynı dönemine göre yüzde 40 artarak yaklaşık 70 milyon dolara ulaştı. Böylece Rusya, Brezilya'nın ardından Çin'in ikinci büyük mısır tedarikçisi olmayı sürdürdü.\n\nSektör değerlendirmelerine göre mevcut ihracat rakamlarından daha önemli konu ise Rusya'nın Çin'e yalnızca yazlık buğday ve yazlık arpa ihraç edebilmesi. Ülkenin ihracat potansiyelinin önemli bölümünü oluşturan kışlık buğday ve kışlık arpa için Çin pazarı henüz açılmış değil.\n\nUzmanlar, Çin'in ilerleyen dönemde Rusya'nın kışlık buğday ve kışlık arpa ihracatına da izin vermesi halinde iki ülke arasındaki tahıl ticaretinin yalnızca milyonlarca dolarlık artışlarla sınırlı kalmayacağını, ticaret hacminde çok daha büyük bir büyüme potansiyeli oluşabileceğini değerlendiriyor.\n\nTürkiye açısından bakıldığında ise Çin'in tahıl ithalatındaki değişim ve Rusya'nın pazardaki konumu, küresel buğday, arpa ve mısır ticaretindeki rekabeti yakından ilgilendiriyor. Dünyanın en büyük tahıl ithalatçılarından biri olan Çin'in alım politikalarındaki değişiklikler, uluslararası fiyatlar ve ihracatçı ülkelerin pazar payları üzerinde etkili olmaya devam ediyor.\n\nTARIM PUSULASI HABER MERKEZİ"
-    },
-    {
-      "title": "Rusya, çeltik ihracatındaki tarife kotasını kaldırdı",
-      "url": "https://www.tarimpusulasi.com/haber/rusya-celtik-ihracatindaki-tarife-kotasini-kaldirdi-47134",
-      "source": "Tarım Pusulası",
-      "date": "2026-07-23",
-      "summary": "Rusya Hükümeti, Avrasya Ekonomik Birliği (AEB) üyesi olmayan ülkelere yönelik kabuklu çeltik (çeltik/ham pirinç) ihracatında uygulanan 200 bin tonluk tarife kotasını 21 Temmuz itibarıyla kaldırdı. Yeni düzenleme ile tek seferlik ihracat lisansları da iptal edilirken, kararın ihracatı artırması bekle",
-      "content": "MOSKOVA — Rusya Hükümeti, Avrasya Ekonomik Birliği (AEB) üyesi olmayan ülkelere yönelik kabuklu çeltik (ham pirinç) ihracatında uygulanan tarife kotasını kaldırdı. 15 Temmuz 2026 tarihli ve 892 sayılı hükümet kararı kapsamında düzenleme 21 Temmuz 2026 tarihinde yürürlüğe girerken, daha önce verilen tek seferlik ihracat lisanslarının da geçerliliğinin sona erdirileceği bildirildi.\n\nYeni düzenleme öncesinde 2026 yılı için 200 bin tonluk ihracat kotası uygulanıyordu. Kota kapsamında gerçekleştirilen ihracatta gümrük vergisi uygulanmazken ihracatçılar tek seferlik lisans almak zorundaydı. Kotanın aşılması durumunda ise ihracat, ürünün gümrük değerinin yüzde 50'si oranında vergiye tabi tutuluyordu.\n\nResmî Gazete'de yayımlanan kararla birlikte bu uygulama tamamen kaldırıldı. Ayrıca Rusya Sanayi ve Ticaret Bakanlığı'na daha önce düzenlenen tek seferlik ihracat lisanslarının iptal edilmesi talimatı verildi.\n\nKararın özellikle üreticiler ve ihracatçılar açısından ihracat süreçlerini kolaylaştırması, bürokratik yükü azaltması ve dış pazarlara erişimde daha esnek bir yapı oluşturması bekleniyor. Hasat döneminde alınan kararın çeltik talebi ile üretici alım fiyatlarını destekleyebileceği değerlendiriliyor.\n\nBununla birlikte piyasa uzmanları, ihracattaki olası artışın Rusya'daki pirinç işleme sanayisinin hammadde temininde rekabeti artırabileceğine dikkat çekiyor. Önümüzdeki dönemde iç piyasa fiyatları, yeni sezon rekoltesi ve ihracat hacmindeki gelişmeler sektör açısından belirleyici göstergeler olacak.\n\nKararın yalnızca GTİP (TN VED EAEU) 1006 10 kodunda yer alan kabuklu çeltik (ham pirinç) ihracatını kapsadığı, diğer pirinç ürünlerine uygulanmadığı belirtildi.\n\nRusya, 1 Temmuz 2022 tarihinden 2025 yılı sonuna kadar çeltik ihracatını yasaklamıştı. Daha sonra 2025 yılında pirinç ve işlenmiş pirinç ihracatında tarife kotası uygulamasına geçilmiş, 2026 yılı itibarıyla ise kabuklu çeltik ihracatına 200 bin tonluk kota kapsamında yeniden izin verilmişti. Son kararla birlikte bu kota uygulaması tamamen kaldırılmış oldu.\n\nTürkiye açısından değerlendirildiğinde, Rusya'nın ihracatını artırabilecek bu adımı dünya çeltik ve pirinç ticaretinde arzı etkileyebilecek gelişmeler arasında yer alıyor. Kararın uluslararası fiyatlara olası etkisi ise ihracat hacmi, Rusya'nın yeni sezon üretimi ve ithalatçı ülkelerin talebine bağlı olarak şekillenecek.\n\nTARIM PUSULASI HABER MERKEZİ"
     },
     {
       "title": "Tarım Bakanlığında ithalat krizi! Cargill'e verilen özel işlem izni neden susam ithalatçısına verilmedi?",
@@ -328,5 +328,17 @@
   "defaultBorsa": "5ED10",
   "defaultCity": "CANAKKALE",
   "note": "Fiyatlar TOBB ticaret borsasından (borsa seçilebilir). Kanola manuel (Trakya 2025).",
-  "inputsNote": "Mazot: akaryakıt bayi fiyatı, günlük (şehir seçilebilir). Gübre: manuel (yaklaşık)."
+  "inputsNote": "Mazot: akaryakıt bayi fiyatı, günlük (şehir seçilebilir). Gübre: manuel (yaklaşık).",
+  "errors": [
+    "mazot ANKARA: fetch failed",
+    "mazot ISTANBUL: fetch failed",
+    "mazot IZMIR: fetch failed",
+    "mazot KONYA: fetch failed",
+    "mazot ADANA: fetch failed",
+    "mazot BURSA: fetch failed",
+    "mazot ANTALYA: fetch failed",
+    "mazot SAMSUN: fetch failed",
+    "mazot TEKIRDAG: fetch failed",
+    "mazot CANAKKALE: fetch failed"
+  ]
 }
