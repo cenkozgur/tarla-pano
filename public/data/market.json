@@ -1,32 +1,32 @@
 {
-  "updatedAt": "2026-07-24T04:33:52.700Z",
+  "updatedAt": "2026-07-24T07:12:38.919Z",
   "fx": [
     {
       "code": "USD",
       "name": "Dolar",
-      "buy": 473291,
-      "sell": 473495,
-      "change": 15
+      "buy": 47.34,
+      "sell": 47.35,
+      "change": 0.16
     },
     {
       "code": "EUR",
       "name": "Euro",
-      "buy": 538941,
-      "sell": 53937,
-      "change": 2
+      "buy": 53.98,
+      "sell": 53.99,
+      "change": 0.15
     },
     {
       "code": "GRA",
       "name": "Gram Altın",
-      "buy": 613257,
-      "sell": 613332,
-      "change": -35
+      "buy": 6159.17,
+      "sell": 6160.02,
+      "change": 0.08
     },
     {
       "code": "CEYREKALTIN",
       "name": "Çeyrek Altın",
-      "buy": 981478,
-      "sell": 1003936,
+      "buy": 9814.78,
+      "sell": 10039.36,
       "change": 0
     },
     {
@@ -34,10 +34,18 @@
       "name": "Cumhuriyet Altını",
       "buy": 40841,
       "sell": 41448,
-      "change": -199
+      "change": -1.99
     }
   ],
   "news": [
+    {
+      "title": "Erkunt Traktör CEO’su: Çiftçi Güveni Başarının Temelidir",
+      "url": "https://www.tarimpusulasi.com/haber/erkunt-traktor-ceosu-ciftci-guveni-basarinin-temelidir-47143",
+      "source": "Tarım Pusulası",
+      "date": "2026-07-24",
+      "summary": "Erkunt Traktör CEO'su Tolga Saylan, tarım sektöründe kalıcı başarının temelinde çiftçiye verilen sözün tutulmasının bulunduğunu belirterek, ürün geliştirmeden satış sonrası hizmetlere kadar tüm süreçlerde çiftçi memnuniyetini merkeze aldıklarını söyledi. Saylan, traktörlerde 3 yıl, yerli eCapra moto",
+      "content": "ANKARA — Erkunt Traktör CEO'su Tolga Saylan, tarım sektöründe sürdürülebilir başarının yalnızca kaliteli ürün geliştirmekle değil, çiftçiye verilen sözün tutulmasıyla mümkün olduğunu belirterek, şirketin tüm kararlarında çiftçilerin ihtiyaçlarını ve memnuniyetini ön planda tuttuklarını söyledi.\n\nSaylan, bir traktörün gerçek değerinin satış anında değil, yıllar boyunca tarlada güvenle çalışmaya devam ettiği süreçte ortaya çıktığını ifade etti. Ürün geliştirme çalışmalarında performansın yanı sıra dayanıklılık, yakıt verimliliği, bakım maliyetleri ve satış sonrası hizmetlerin de aynı önemde değerlendirildiğini vurguladı.\n\nErkunt Traktör'ün traktör modellerinde 3 yıl, yerli olarak geliştirilen eCapra motorunda ise 5 yıl garanti sunduğunu belirten Saylan, bu uygulamanın şirketin ürünlerine duyduğu güvenin bir göstergesi olduğunu söyledi. Saylan, \"Bir ürünün arkasında durabiliyorsanız, aslında verdiğiniz sözün de arkasında duruyorsunuz demektir.\" ifadelerini kullandı.\n\nTarımın yalnızca traktör üretiminden ibaret olmadığını belirten Saylan, Hisarlar Tarım Makineleri ile ekipman alanında da çiftçilerin ihtiyaçlarına çözüm sunduklarını dile getirdi. Yerli mühendislik kabiliyetini uluslararası bilgi birikimiyle birleştirerek geliştirdikleri ürünleri ArmaTrac markasıyla farklı ülkelere ihraç ettiklerini aktaran Saylan, şirket açısından en önemli başarının yalnızca ihracat rakamları olmadığını kaydetti.\n\nSaylan, esas hedeflerinin faaliyet gösterdikleri her ülkede güvenilir bir marka olmak olduğunu belirterek, ürünleri kullanan çiftçilerin aynı kalite, aynı hizmet anlayışı ve aynı güven duygusunu yaşayabilmesini önemsediklerini ifade etti.\n\nŞirketin bugün ulaştığı noktada çalışanların, bayi ve servis ağının, tedarikçilerin ve çiftçilerin katkısının büyük olduğunu vurgulayan Saylan, bu güveni koruyarak uzun vadeli yatırımlarını sürdürmeye devam edeceklerini söyledi.\n\nTarım sektörünün uzun vadeli bir anlayış gerektirdiğine dikkat çeken Saylan, mühendislik, insan kaynağı, iş ortakları ve satış sonrası hizmetlere yapılan yatırımların temel hedefinin, gelecek yıllarda da tercih edilen ve güven duyulan bir marka olmayı sürdürmek olduğunu belirtti.\n\nTARIM PUSULASI HABER MERKEZİ"
+    },
     {
       "title": "Tarım Kredi'de denetim çöktü! Mağaza müdürü kendi kurduğu şirket üzerinden marketi dolandırdı",
       "url": "https://www.tarimdanhaber.com/tarim-kredide-denetim-coktu-magaza-muduru-kendi-kurdugu-sirket-uzerinden-marketi-dolandirdi",
@@ -125,14 +133,6 @@
       "date": "2026-07-23",
       "summary": "Rusya'da 2026 sezonunda kolza (kanola) üretiminin tarihi seviyeye ulaşması bekleniyor. RUSEED Analitik Merkezi, ortalama verim gerçekleşmesi halinde üretimin 7,3-7,7 milyon tona ulaşacağını, uygun iklim koşullarında ise 8 milyon tonu aşarak yeni bir rekor kırabileceğini açıkladı.",
       "content": "MOSKOVA — Rusya'nın 2026 yılında tarihinin en yüksek kolza (kanola) üretimine ulaşabileceği öngörülüyor. RUSEED Analitik Merkezi'nin değerlendirmesine göre ortalama hektar veriminin 19-20 sentner/hektar (1,9-2,0 ton/hektar) seviyesinde gerçekleşmesi halinde ülkenin toplam kolza üretimi 7,3-7,7 milyon ton arasında olacak. Daha elverişli iklim ve üretim koşullarında ise üretimin 8 milyon tonu aşarak yeni tarihi rekor kırabileceği tahmin ediliyor.\n\nBu beklentinin en önemli nedeni ekim alanlarındaki hızlı büyüme olarak gösteriliyor. Verilere göre Rusya'da kolza ekim alanı son altı yılda 2,5 kattan fazla arttı. 2020 yılında 1,5 milyon hektarın altında bulunan ekim alanı, 2026 yılında yaklaşık 3,9 milyon hektara yükseldi.\n\nUzmanlara göre üreticilerin kolzaya yönelmesinde üç temel unsur etkili oluyor. Bunlar; kolza yağı ve küspesine yönelik güçlü ihracat talebi, ülke içinde işleme sanayisinin gelişmesi ve bazı tahıl ürünlerine kıyasla daha yüksek kârlılık sağlaması olarak sıralanıyor.\n\nÜretimin coğrafi dağılımı ise kolza çeşitlerine göre farklılık gösteriyor. İlkbaharda ekilen yazlık kolzanın ekim alanlarının yüzde 60'tan fazlası Sibirya'da bulunuyor. Altay Krayı, Novosibirsk ve Omsk bölgeleri üretimde öne çıkıyor.\n\nKışlık kolza ise daha ılıman iklim koşullarına sahip Rusya'nın Avrupa kesiminde yetiştiriliyor. Oryol ve Bryansk bölgeleri ile Krasnodar Krayı, bu üretimde başlıca merkezler arasında yer alıyor.\n\nÖte yandan, Birleşmiş Milletler Gıda ve Tarım Örgütü (FAO) ile Ekonomik İşbirliği ve Kalkınma Örgütü (OECD) daha önce yayımladıkları uzun vadeli projeksiyonlarda Rusya'yı dünya kolza üretimindeki büyümenin temel ülkelerinden biri olarak göstermişti. Her iki kuruluş da ülkede hem ekim alanlarının hem de toplam üretimin önümüzdeki yıllarda artmaya devam edeceğini öngörüyor.\n\nTARIM PUSULASI HABER MERKEZİ"
-    },
-    {
-      "title": "Çin'in Rusya'dan buğday, arpa ve mısır ithalatı yükseldi",
-      "url": "https://www.tarimpusulasi.com/haber/cinin-rusyadan-bugday-arpa-ve-misir-ithalati-yukseldi-47135",
-      "source": "Tarım Pusulası",
-      "date": "2026-07-23",
-      "summary": "Çin'in 2026 yılının ilk yarısındaki ithalat verilerine göre Rusya'dan yapılan buğday, arpa ve mısır alımları geçen yılın aynı dönemine göre arttı. Buna karşın Rusya'nın Çin'e yalnızca yazlık buğday ve yazlık arpa ihraç edebilmesi, ülkenin ihracat potansiyelini sınırlandırmaya devam ediyor.",
-      "content": "PEKİN — Çin'in 2026 yılının ilk yarısına ilişkin ithalat verileri, Rusya'dan yapılan buğday, arpa ve mısır alımlarında artış yaşandığını ortaya koydu. Ancak artan ticarete rağmen Rusya'nın Çin tahıl pazarındaki payı, başlıca rakip ülkelerin gerisinde kalmayı sürdürdü. Uzmanlara göre bunun en önemli nedeni, Çin pazarının Rusya'nın kışlık buğday ve kışlık arpa ihracatına hâlâ kapalı olması.\n\nVerilere göre Rusya'nın Çin'e buğday ihracatı geçen yılın aynı dönemine göre 3,5 kat artmasına rağmen toplam ihracat değeri 8,7 milyon dolar seviyesinde kaldı. Aynı dönemde Kanada'nın Çin'e buğday ihracatı 416 milyon dolar, Avustralya'nın 259 milyon dolar, Amerika Birleşik Devletleri'nin ise yaklaşık 100 milyon dolar olarak gerçekleşti. Bu rakamlarla Rusya, Çin'in en büyük buğday tedarikçileri arasında beşinci sırada yer aldı.\n\nArpa ihracatında da Rusya'nın satışları ilk altı ayda iki katına çıkarak 84,5 milyon dolara yükseldi. Buna rağmen Rusya, tedarikçi sıralamasında üçüncülükten dördüncülüğe gerilerken, Arjantin önüne geçti. Çin'in en büyük arpa tedarikçisi ise 1,6 milyar doların üzerindeki ihracatıyla Avustralya oldu.\n\nRusya açısından en dikkat çekici gelişme mısır ihracatında yaşandı. Çin'e yapılan mısır sevkiyatının değeri ilk yarıda geçen yılın aynı dönemine göre yüzde 40 artarak yaklaşık 70 milyon dolara ulaştı. Böylece Rusya, Brezilya'nın ardından Çin'in ikinci büyük mısır tedarikçisi olmayı sürdürdü.\n\nSektör değerlendirmelerine göre mevcut ihracat rakamlarından daha önemli konu ise Rusya'nın Çin'e yalnızca yazlık buğday ve yazlık arpa ihraç edebilmesi. Ülkenin ihracat potansiyelinin önemli bölümünü oluşturan kışlık buğday ve kışlık arpa için Çin pazarı henüz açılmış değil.\n\nUzmanlar, Çin'in ilerleyen dönemde Rusya'nın kışlık buğday ve kışlık arpa ihracatına da izin vermesi halinde iki ülke arasındaki tahıl ticaretinin yalnızca milyonlarca dolarlık artışlarla sınırlı kalmayacağını, ticaret hacminde çok daha büyük bir büyüme potansiyeli oluşabileceğini değerlendiriyor.\n\nTürkiye açısından bakıldığında ise Çin'in tahıl ithalatındaki değişim ve Rusya'nın pazardaki konumu, küresel buğday, arpa ve mısır ticaretindeki rekabeti yakından ilgilendiriyor. Dünyanın en büyük tahıl ithalatçılarından biri olan Çin'in alım politikalarındaki değişiklikler, uluslararası fiyatlar ve ihracatçı ülkelerin pazar payları üzerinde etkili olmaya devam ediyor.\n\nTARIM PUSULASI HABER MERKEZİ"
     }
   ],
   "commoditiesByBorsa": {
