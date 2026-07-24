@@ -1,26 +1,26 @@
 {
-  "updatedAt": "2026-07-24T19:04:26.426Z",
+  "updatedAt": "2026-07-24T20:36:33.148Z",
   "fx": [
     {
       "code": "USD",
       "name": "Dolar",
-      "buy": 47.33,
-      "sell": 47.35,
-      "change": 0.15
+      "buy": 47.29,
+      "sell": 47.37,
+      "change": 0.13
     },
     {
       "code": "EUR",
       "name": "Euro",
-      "buy": 53.85,
-      "sell": 53.89,
-      "change": -0.06
+      "buy": 53.72,
+      "sell": 53.91,
+      "change": -0.17
     },
     {
       "code": "GRA",
       "name": "Gram Altın",
-      "buy": 6172.24,
-      "sell": 6173.11,
-      "change": 0.3
+      "buy": 6165.38,
+      "sell": 6166.77,
+      "change": 0.19
     },
     {
       "code": "CEYREKALTIN",
@@ -38,6 +38,30 @@
     }
   ],
   "news": [
+    {
+      "title": "EBRD'den Uludağ İçecek'e 45 milyon Euro kredi! Malatya'ya yeni üretim tesisi kurulacak",
+      "url": "https://www.tarimdanhaber.com/ebrdden-uludag-iceceke-45-milyon-euro-kredi-malatyaya-yeni-uretim-tesisi-kurulacak",
+      "source": "Tarımdan Haber",
+      "date": "2026-07-24",
+      "summary": "Avrupa Yeniden Yapılanma ve Kalkınma Bankası (EBRD), Türkiye'nin köklü içecek üreticilerinden Uludağ İçecek'e, Malatya'da kurulacak yeni maden suyu ve alkolsüz içecek üretim tesisi için 45 milyon Euro'ya kadar finansman sağlayacağını açıkladı. Deprem bölgesinde hayata geçirilecek yatırımın üretim ka",
+      "content": "Haber Merkezi / Avrupa Yeniden Yapılanma ve Kalkınma Bankası (EBRD), Türkiye'nin en köklü içecek üreticilerinden Uludağ İçecek'in Malatya'da gerçekleştireceği yeni yatırım için 45 milyon Euro'ya kadar kredi sağlayacağını duyurdu.\n\nFinansman kapsamında şirket, 2023 Kahramanmaraş merkezli depremlerden etkilenen Malatya'da yeni bir maden suyu ve alkolsüz içecek üretim tesisi kuracak. Kaynak, tesisin inşasının yanı sıra üretimde kullanılacak makine ve ekipmanların temininde de kullanılacak.\n\nÜretim kapasitesi ve ihracat artacak\n\n1912 yılında Bursa'da kurulan Uludağ İçecek, maden suyu, aromalı maden suyu, limonata, gazlı içecekler, doğal kaynak suyu ve enerji içeceği üretimi gerçekleştiriyor.\n\nYeni yatırım sayesinde şirketin üretim kapasitesini artırması ve başta çevre ülkeler olmak üzere ihracat pazarlarına daha güçlü hizmet vermesi hedefleniyor.\n\nGüneş enerjisi kullanılacak\n\nMalatya'da kurulacak tesisin çevreci üretim anlayışıyla tasarlandığı belirtildi.\n\nTesiste;\n\nKaynak verimliliği yüksek üretim ekipmanları kullanılacak.\n\nÇatıya güneş enerji sistemi kurulacak.\n\nYeşil bina standartlarına uygun tasarım uygulanacak.\n\nBirim üretim başına karbon emisyonunun azaltılması hedeflenecek.\n\nDeprem bölgesinde istihdama katkı sağlayacak\n\nYatırımın yalnızca üretim kapasitesini artırması değil, depremden etkilenen bölgede ekonomik canlanmaya da katkı sunması bekleniyor.\n\nYeni tesisle birlikte doğrudan ve dolaylı istihdamın artması, tedarik zincirinin güçlenmesi ve lojistik başta olmak üzere birçok sektörde ekonomik hareketlilik oluşturulması amaçlanıyor.\n\nGençlere mesleki eğitim desteği\n\nProje kapsamında yerel eğitim kurumlarıyla iş birliği yapılarak gençlere yönelik mesleki eğitim programları da hayata geçirilecek.\n\nBu programlarla gençlerin sektörün ihtiyaç duyduğu teknik becerileri kazanması ve istihdama daha kolay erişmesi hedefleniyor.\n\nEBRD: Yeşil dönüşüm ve bölgesel kalkınmaya katkı sağlayacak\n\nEBRD Gıda ve Tarım İşletmeleri Direktör Yardımcısı Burcu İslam Fani, finansmanın hem sürdürülebilir üretimi hem de deprem bölgesindeki ekonomik toparlanmayı destekleyeceğini belirterek, yatırımın yeşil dönüşüm, özel sektörün güçlendirilmesi ve kapsayıcı kalkınma hedefleriyle uyumlu olduğunu ifade etti.\n\nUludağ İçecek Grup Finans Müdürü Doğan Güneş Susuz ise EBRD'den sağlanan uzun vadeli yatırım finansmanının hem şirketin sürdürülebilir büyüme stratejisine hem de Türkiye ekonomisine duyulan uluslararası güvenin önemli bir göstergesi olduğunu söyledi."
+    },
+    {
+      "title": "ABD'nin yeni gümrük vergisi kararı Türkiye'nin ihracatını nasıl etkileyecek?",
+      "url": "https://www.tarimdanhaber.com/abdnin-yeni-gumruk-vergisi-karari-turkiyenin-ihracatini-nasil-etkileyecek",
+      "source": "Tarımdan Haber",
+      "date": "2026-07-24",
+      "summary": "ABD Başkanı Donald Trump'ın 60 ülkeye yönelik yeni ek gümrük vergisi kararı yürürlüğe girdi. Türkiye yüzde 12,5 ek gümrük vergisi uygulanacak ülkeler arasında yer alırken, tarım politikaları uzmanı Ergin Kahveci kararın özellikle ihracatçı sektörler açısından rekabet gücünü etkileyebileceğine dikkat",
+      "content": "Haber Merkezi / ABD Başkanı Donald Trump'ın, yaklaşık bir asırlık bir yasaya dayanarak 60 ülkeye yönelik açıkladığı yeni ek gümrük vergileri yürürlüğe girdi. Karar kapsamında Türkiye de yüzde 12,5 ek tarife uygulanacak ülkeler arasında yer aldı.\n\nTarım politikaları uzmanı Ergin Kahveci, sosyal medya hesabından yaptığı değerlendirmede, yeni uygulamanın Türkiye'nin ABD pazarındaki rekabet gücü üzerinde etkiler oluşturabileceğini belirtti.\n\nTürkiye yüzde 12,5'lik tarife grubunda\n\nKahveci'nin aktardığı bilgilere göre, yeni uygulamada ülkeler \"zorla çalıştırma\" uygulamalarına yönelik mevzuatlarına göre farklı tarife gruplarında değerlendirildi.\n\nBuna göre;\n\nZorla çalıştırma ithalat yasağı getiren veya bu yönde taahhütte bulunan ülkelere yüzde 10,\n\nBu yönde düzenlemesi bulunmayan ülkelere ise yüzde 12,5 ek gümrük vergisi uygulanacak.\n\nTürkiye ikinci grupta yer alıyor.\n\nHangi sektörler etkilenebilir?\n\nKahveci, Türkiye'nin ABD'ye yıllık yaklaşık 16-16,5 milyar dolar seviyesinde mal ihracatı gerçekleştirdiğini belirterek, yeni tarifenin özellikle şu sektörlerde rekabet baskısı oluşturabileceğini ifade etti:\n\nTekstil ve hazır giyim\n\nHalı ve yer kaplamaları\n\nMücevher\n\nOtomotiv yan sanayi\n\nMakine\n\nElektrik-elektronik\n\nDoğal taş ve inşaat malzemeleri\n\n\"Küresel ticarette güç dengesi değişiyor\"\n\nPaylaşımında küresel ticarette yalnızca üretim gücünün yeterli olmadığını vurgulayan Kahveci, ülkelerin pazarlık gücü ve stratejik konumlarının giderek daha belirleyici hale geldiğini ifade etti.\n\nKahveci, \"Arz her zaman avantaj olmuyor. Talep her zaman dezavantaj olmuyor. Güç ve kuvvet dengesini doğru kullanma dönemindeyiz.\" değerlendirmesinde bulundu.\n\n\"Fındık gibi stratejik ürünleri tartışmaya açıyoruz\"\n\nTürkiye'nin sahip olduğu stratejik ürünlerde daha güçlü bir politika izlemesi gerektiğini savunan Kahveci, dünya fındık üretimindeki lider konuma rağmen ürünün değerinin yeterince korunamadığını dile getirdi.\n\nKahveci, küresel ticaret savaşlarının giderek sertleştiği bir dönemde Türkiye'nin stratejik ürünlerde pazarlık gücünü daha etkin kullanması gerektiğini ifade etti."
+    },
+    {
+      "title": "Kuru üzümde beklenti 180 lira! Üreticiden Bakanlığa çağrı",
+      "url": "https://www.tarimdanhaber.com/kuru-uzumde-beklenti-180-lira-ureticiden-bakanliga-cagri",
+      "source": "Tarımdan Haber",
+      "date": "2026-07-24",
+      "summary": "İYİ Parti Genel Başkan Yardımcısı ve Manisa Milletvekili Şenol Sunat, TBMM Genel Kurulu'nda Manisalı üzüm üreticilerinin yaşadığı sorunları gündeme taşıdı. Sunat, artan maliyetler nedeniyle kuru üzüm alım fiyatının en az 180 TL olması gerektiğini belirterek, Tarım ve Orman Bakanlığına fiyatın gecikm",
+      "content": "Haber Merkezi / İYİ Parti Genel Başkan Yardımcısı ve Manisa Milletvekili Şenol Sunat, Türkiye Büyük Millet Meclisi Genel Kurulu'nda yaptığı konuşmada, Manisa'da üzüm üreticilerinin ciddi ekonomik sıkıntılar yaşadığını söyledi.\n\nKuru üzüm fiyatlarının üretim maliyetlerinin gerisinde kaldığını belirten Sunat, üreticinin emeğinin karşılığını alabilmesi için kuru üzüm alım fiyatının en az 180 lira olarak açıklanması gerektiğini ifade etti.\n\n\"Üretici önünü göremiyor\"\n\nSunat, maliyetlerde yaşanan hızlı artışa dikkat çekerek, kuru üzüm fiyatlarının son yıllarda aynı oranda yükselmediğini söyledi.\n\n2023 yılında 100 lira olan kuru üzüm fiyatının 2024'te 110 liraya, 2025'te ise 120 liraya yükseldiğini hatırlatan Sunat, buna karşın gübre, ilaç, mazot, işçilik ve diğer üretim giderlerinde çok daha yüksek artışlar yaşandığını belirtti.\n\nBu nedenle üreticinin yeni sezon fiyatını beklediğini ifade eden Sunat, Tarım ve Orman Bakanlığının fiyatı gecikmeden açıklaması gerektiğini söyledi.\n\n\"Aynı hata bu yıl yapılmamalı\"\n\nGeçtiğimiz yıl kuru üzüm alım fiyatının hasadın başlamasından yaklaşık üç hafta sonra açıklandığını hatırlatan Sunat, bu durumun üreticiyi belirsizlik içinde bıraktığını dile getirdi.\n\nBu yıl aynı tablonun yaşanmaması gerektiğini belirten Sunat, fiyatın hasat öncesinde açıklanmasının üretici açısından büyük önem taşıdığını vurguladı.\n\n\"Üzüm sektörü küçülüyor\"\n\nYanlış planlama ve öngörüsüz tarım politikalarının üzüm sektörünü olumsuz etkilediğini savunan Sunat, son beş yılda ekim alanlarının yüzde 7, üretim miktarının yüzde 17 ve verimin yüzde 11 azaldığını söyledi.\n\nKuru üzüm ihracat miktarının da gerilediğini belirten Sunat, 2025 yılında son 25 yılın en düşük ihracat seviyelerinden birinin görüldüğünü ifade etti.\n\n\"Yaş üzümde fiyat 20 liraya kadar düştü\"\n\nYaş üzüm fiyatlarının da üreticiyi memnun etmediğini belirten Sunat, bazı bölgelerde kilogram fiyatının 20 liraya kadar düştüğünü, mevcut fiyatlarla üreticinin maliyetini dahi karşılayamadığını dile getirdi.\n\nİç tüketimin artırılması çağrısı\n\nŞenol Sunat, üzüm sektörünün yalnızca ihracata bağımlı kalmaması gerektiğini belirterek iç tüketimi artıracak politikaların hayata geçirilmesini istedi.\n\nOkullarda öğrencilere kuru üzüm dağıtılması ve Türk Hava Yolları'nın ikramlarında kuru üzüme yer verilmesi önerisinde bulunan Sunat, üzümün sağlıklı beslenme açısından önemine dikkat çekti.\n\nAyrıca kuru üzüm tüketiminin teşvik edilmesi amacıyla kapsamlı bir devlet politikasının oluşturulması gerektiğini ifade etti."
+    },
     {
       "title": "Anahtar Parti'nden yeni model: \"Girdiyi verip mahsulü alacağız\"",
       "url": "https://www.tarimpusulasi.com/haber/anahtar-partinden-yeni-model-girdiyi-verip-mahsulu-alacagiz-47157",
@@ -109,30 +133,6 @@
       "date": "2026-07-24",
       "summary": "Tarım ve Orman Bakanlığı Gıda ve Kontrol Genel Müdürlüğü, Alo 174 hattına gelen ihbar üzerine yapılan denetimde Türk Gıda Kodeksi’ne uygun olmadığı belirlenen peynir partisini piyasadan toplatma ve imha kararı aldı.",
       "content": "ANKARA — T.C. Tarım ve Orman Bakanlığına bağlı Gıda ve Kontrol Genel Müdürlüğü, sosyal medya ve bazı yayın kuruluşlarında yer alan iddialar üzerine kamuoyuna yazılı bir bilgilendirme açıklaması yaptı. Yapılan resmi duyuruya göre, vatandaş tarafından Alo 174 Gıda Hattı'na iletilen şikayet üzerine başlatılan denetim süreci, gıda mevzuatına aykırılığı ortaya çıkardı.\n\n1 Saatte Resmî İşlem, 24 Saatte Saha Denetimi\n\nKamuoyuna yansıyan bilgilere göre, 16 Haziran 2026 tarihinde saat 21.15’te Alo 174 Gıda Hattı’na yapılan başvurunun hemen ardından, ertesi gün (17 Haziran 2026) şikayete konu perakende satış işletmesinde resmi denetim gerçekleştirildi. Denetim esnasında, şikayete konu olan Tahsildaroğlu markasına ait 290625 parti numaralı Olgunlaştırılmış Klasik Kırık Beyaz Peynir ürününden numuneler alınarak ivedilikle Gıda Kontrol Laboratuvar Müdürlüğüne sevk edildi.\n\nAnaliz Sonucu: Mevzuata Aykırı Çıktı, İdari Ceza Kesildi\n\nLaboratuvarda gerçekleştirilen ayrıntılı incelemeler sonucunda, söz konusu ürünün Türk Gıda Kodeksi Mikrobiyolojik Kriterler Yönetmeliği'ne uygun olmadığı tespit edildi. Tespiti takiben bakanlık yetkilileri şu adımları attı:\n\nİdari Para Cezası: Üretici firmaya mevzuat kapsamında idari para cezası uygulandı.\n\nPiyasadan Toplatma ve İmha: 290625 parti numaralı ürünlerin imha edilmek üzere piyasadan toplatılması süreci başlatıldı.\n\nDenetim Sıklığı Artırıldı: İlgili işletmenin denetim periyodu sıklaştırıldı ve üretilen diğer benzer ürünlerden de analiz için yeni numuneler alındı.\n\nGıda ve Kontrol Genel Müdürlüğü, benzer ürünlerdeki analiz süreçlerinin devam ettiğini ve yeni bir uygunsuzluk saptanması halinde yasal işlemlerin kararlılıkla uygulanacağını bildirerek, tüketici sağlığının korunması adına denetimlerin kesintisiz süreceğini vurguladı.\n\nTARIM PUSULASI HABER MERKEZİ"
-    },
-    {
-      "title": "TMO’dan hububat alım rekoru: 176 bin üreticiden 8,3 milyon ton alım yapıldı",
-      "url": "https://www.tarimdanhaber.com/tmodan-hububat-alim-rekoru-176-bin-ureticiden-83-milyon-ton-alim-yapildi",
-      "source": "Tarımdan Haber",
-      "date": "2026-07-24",
-      "summary": "Tarım ve Orman Bakanı İbrahim Yumaklı, Toprak Mahsulleri Ofisi’nin (TMO) 21 Mayıs’tan bu yana 176 bin üreticiden 8,3 milyon ton hububat alımı gerçekleştirdiğini açıkladı. Yumaklı, üreticilere şimdiye kadar 34,3 milyar lira ödeme yapıldığını ve ödemelerin düzenli olarak sürdüğünü belirtti.",
-      "content": "Haber Merkezi / Tarım ve Orman Bakanı İbrahim Yumaklı, 2026 hububat alım sezonuna ilişkin yaptığı açıklamada TMO’nun rekor seviyede alım gerçekleştirdiğini duyurdu. 21 Mayıs’tan itibaren başlayan alımlarda toplam 176 bin üreticiden 8,3 milyon ton buğday ve arpa alındı.\n\nBakan Yumaklı, günlük alım miktarının hasadın yoğunlaşmasıyla birlikte 370 bin tona ulaştığını belirterek, “Kışın bir ayda sattığımız hububat miktarını bugün bir günde alıyoruz” dedi.\n\n2023’e göre alım hacmi iki katından fazla arttı\n\nYumaklı’nın verdiği bilgilere göre, TMO’nun 2026 sezonundaki alım hacmi 2023 yılına kıyasla önemli ölçüde yükseldi.\n\n2023’te aynı dönemde: 3,4 milyon ton hububat alımı yapıldı.\n\n2026’da aynı dönemde: 8,3 milyon ton hububat alımı gerçekleştirildi.\n\nArtış: Alım miktarı iki katından fazla yükseldi.\n\nGünlük ortalama alım miktarı sezon başında 200 bin ton seviyesindeyken, son günlerde 370 bin tona ulaştı.\n\nKonya ilk sırada yer aldı\n\nTMO’nun alımları ülke genelinde yaklaşık 650 alım noktasında sürüyor. Bölgesel bazda en fazla alım İç Anadolu Bölgesi’nde gerçekleşirken, il bazında Konya ilk sırada yer aldı.\n\nKonya’daki alım miktarı: 1,3 milyon tonun üzerinde\n\nEn yoğun bölge: İç Anadolu Bölgesi\n\nToplam alım noktası: Yaklaşık 650\n\nTMO alımları durduracak iddialarına yanıt\n\nBakan Yumaklı, TMO depolarının dolduğu gerekçesiyle alımların durdurulacağı yönündeki iddiaların gerçeği yansıtmadığını söyledi.\n\nYumaklı, lisanslı depoların yanı sıra silo, depo, hangar ve uygun açık yığın sahalarının kullanıldığını belirterek, depo doluluk oranlarının yüzde 65-70 seviyesinde olduğunu açıkladı.\n\n“TMO’nun depolarının dolması nedeniyle alımı durduracağı yönündeki iddialar gerçeği yansıtmıyor. Son ürün gelene kadar alımlar sürecek.”\n\nRandevu sisteminde yüzde 87 gerçekleşme oranı\n\nÜreticilerin ürünlerini düzenli teslim edebilmesi için uygulanan randevu sistemi kapsamında:\n\n12,6 milyon ton ürün için randevu verildi.\n\n272 bin üreticiye 450 bin randevu oluşturuldu.\n\nRandevu gerçekleşme oranı yüzde 87 oldu.\n\nToplam randevu kapasitesi 17,8 milyon ton olarak açıklandı.\n\nKapasite doluluk oranı yüzde 72 seviyesinde gerçekleşti.\n\n34,3 milyar lira üreticilerin hesaplarına aktarıldı\n\nBakan Yumaklı, ürün bedellerinin kanuni esaslar doğrultusunda 21’inci günden itibaren üreticilerin hesaplarına yatırıldığını belirtti.\n\n“Şu ana kadar 34,3 milyar lira üreticilerin hesaplarına aktarıldı, ödemeler düzenli olarak sürüyor.”\n\nTMO satış fiyatları açıklandı\n\nYumaklı ayrıca, TMO’nun hububat satışlarına 1 Ekim itibarıyla başlayacağını duyurdu. Açıklanan satış fiyatları şöyle:\n\n1. Grup makarnalık buğday: 18.500 TL\n\n1. Grup ekmeklik buğday: 18.500 TL\n\n1. Grup arpa: 14.000 TL\n\nBakan Yumaklı: Alımlar son ürün gelene kadar sürecek\n\nTarım ve Orman Bakanı İbrahim Yumaklı, TMO’nun 2026 hububat alım sezonunda üreticilerin mağduriyet yaşamaması için tüm depolama imkanlarının kullanıldığını belirtti.\n\nYumaklı, “Çiftçimizin emeğinin karşılığını eksiksiz alması ve piyasada istikrarın korunması için alımlar son ürün gelene kadar devam edecek” dedi."
-    },
-    {
-      "title": "Tarım Kredi'de denetim çöktü! Mağaza müdürü kendi kurduğu şirket üzerinden marketi dolandırdı",
-      "url": "https://www.tarimdanhaber.com/tarim-kredide-denetim-coktu-magaza-muduru-kendi-kurdugu-sirket-uzerinden-marketi-dolandirdi",
-      "source": "Tarımdan Haber",
-      "date": "2026-07-23",
-      "summary": "Tarım Kredi Market'te denetim sistemini tartışmaya açacak büyük bir usulsüzlük ortaya çıktı. İzmir Çiğli'nde görev yapan bir mağaza müdürünün, kendi kurduğu şirket üzerinden Tarım Kredi Market ürünlerini piyasaya sattığı belirlendi. Depodan sipariş edilen ürünlerin market satış sistemine girmeden dı",
-      "content": "Sadettin İnan / Tarım Kredi Kooperatifleri Merkez Birliği ve iştiraklerde uzun süredir dile getirilen denetim zafiyetini gözler önüne seren büyük bir usulsüzlük ortaya çıktı.\n\nEdinilen bilgilere göre Tarım Kredi Marketlerin İzmir Çiğli'nde görev yapan bir mağaza müdürü, kendi adına kurduğu şirket üzerinden Tarım Kredi Market'in ürünlerini usulsüz şekilde piyasaya sattı.\n\nSistem nasıl işledi?\n\nMağaza müdürünün, market deposu üzerinden ürün siparişi verdiği, depoya gelen ürünleri ise market satış sistemine girmeden kendi şirketi aracılığıyla üçüncü kişilere sattığı öğrenildi.\n\nÜrün almak isteyen kişilerden kamyon bazında sipariş aldığı, ödemeleri elden topladığı, \"Parayı verin, ürününüz iki gün içinde gelir\" diyerek sevkiyat organize ettiği belirtildi.\n\nBu yöntemle depodan çıkan ürünlerin market stoklarından düştüğü ancak market kasasında bu ürünlere ilişkin herhangi bir satış kaydının bulunmadığı öğrenildi.\n\nMilyonlarca liralık zarar\n\nİlk tespitlere göre olay nedeniyle oluşan zararın 10 milyon ile 30 milyon lira arasında olduğu değerlendiriliyor.\n\nUsulsüzlüğün ortaya çıkmasının ardından mağaza müdürünün ortadan kaybolduğu, olaydan sorumlu olduğu değerlendirilen bölge müdürünün ise iş akdinin feshedildiği öğrenildi.\n\nDenetim sistemi yeniden tartışılıyor\n\nOrtaya çıkan olay, Tarım Kredi Kooperatifleri Merkez Birliği ve iştiraklerde denetim mekanizmalarını yeniden gündeme taşıdı.\n\nBir mağaza müdürünün uzun süre boyunca depodan ürün sipariş edip bunları resmi satış kayıtlarına girmeden dışarıya satabilmiş olması, kurumun stok kontrolü, sevkiyat takibi ve iç denetim süreçlerine ilişkin ciddi soru işaretleri doğurdu.\n\nTarım Kredi Market'in olayla ilgili başlattığı incelemenin sürdüğü öğrenilirken, soruşturmanın derinleşmesiyle birlikte yeni görev değişikliklerinin yaşanabileceği belirtiliyor."
-    },
-    {
-      "title": "2025'in hayvanını 2026'da teslim eden ESK'dan üreticiye: 'Bedava mal alıyorsunuz'",
-      "url": "https://www.tarimdanhaber.com/2025in-hayvanini-2026da-teslim-eden-eskdan-ureticiye-bedava-mal-aliyorsunuz",
-      "source": "Tarımdan Haber",
-      "date": "2026-07-23",
-      "summary": "Et ve Süt Kurumu (ESK), 2025 yılı kapsamında üreticiye teslim etmesi gereken ithal besilik danaları ancak 1 Temmuz 2026'da teslim edebildi. İskenderun Limanı'nda teslim alınan hayvanların üstündeki gübreye itiraz eden üreticiler ise, ESK yetkililerinden \"Bedava mal alıyorsunuz, bir de itiraz mı ediy",
-      "content": "Tarımdan Haber Özel / Et ve Süt Kurumu'nun (ESK) besilik dana tedarik programında yaşanan gecikme, üreticilerin tepkisini çekti. Kurumun 2025 yılı kapsamında üreticiye teslim etmesi gereken ithal besilik danalar ancak 1 Temmuz 2026 tarihinde İskenderun ve Taşucu limanlarına gelen gemilerle üreticilere teslim edildi.\n\nHayvancılık sektöründe besilik materyal sıkıntısının yaşandığı, üreticilerin işletmelerine hayvan bulmakta zorlandığı bir dönemde, 2025 yılı programının ancak bir yıl sonra tamamlanabilmesi, ESK'nın besilik hayvan organizasyonunu yeniden tartışmaya açtı.\n\nBu haber de dikkatinizi çekebilir → İthal besilik hayvanlarda gübre tartışması yeniden alevlendi\n\n2026 programı hala başlamadı\n\nDikkat çeken bir başka gelişme ise 2026 yılı ithal besilik dana programında yaşandı. Temmuz ayının sonuna gelinmesine rağmen, bu yıl ithal edilecek besilik danaların üreticiye teslimatı henüz başlamadı.\n\nBöylece üreticiler bir yandan geçen yılın hayvanlarını teslim alırken, diğer yandan 2026 programının ne zaman başlayacağını bekliyor.\n\nESK'dan üreticiye: 'Bedava mal alıyorsunuz'\n\nİskenderun Limanına yanaşan Goodness gemisinden inen ithal besilik sığırların gübreli olması dikkat çekerken, üreticiler hayvanlaarın üzerinde en az 7-8 kg gübre bulunduğunu ve bunu ESK yetkililerine itiraz ettiklerini kaydetti. Ancak beklenmedik bir tepkiyle karşılaştıklarını dile getiren üreticiler, \"Bedavadan mal alıyorsunuz bir de itiraz mı ediyorsunuz\" diyerek itirazlarının kabul edilmediğini kaydetti.\n\nBilindiği üzere ithal besilik sığırlar üreticiye 2025 yılında canlı kg 228 liradan satılmıştı. Bu fiyat, 2026'da 420 liraya çıkarıldı. ESK yetkilileri de 2026 yılı fiyatına göre fiyatı çok düşük kalan 2025 yılı hayvanların tesliminde üreticinin gübre tepkisine 'Bedavadan mal alıyorsunuz' şeklinde karşılık vermesi dikkat çekti. Üreticiler, \"2025 yılı hayvanını 2026 yılında teslim eden bir kurum, üreticiye \"Bedava mal alıyorsunuz\" diyebilir mi?\" diyerek duruma tepki gösterdiler.\n\nBilindiği üzere aynı dönemde Mersin/Taşucu limanına gelen gemiden indirilen hayvanların üstünde de yine ciddi bir gübre sorunu vardı. Üretici, canlı kiloya göre hayvanları teslim aldığı için, hayvanların üstündeki gübre miktarına göre ESK'ya ekstra bir ödeme yapıyor."
     }
   ],
   "commoditiesByBorsa": {
@@ -332,6 +332,16 @@
   "errors": [
     "borsa 5ED10: fetch failed",
     "borsa 5KO10: fetch failed",
-    "borsa 5ES10: fetch failed"
+    "borsa 5ES10: fetch failed",
+    "mazot ANKARA: fetch failed",
+    "mazot ISTANBUL: fetch failed",
+    "mazot IZMIR: fetch failed",
+    "mazot KONYA: fetch failed",
+    "mazot ADANA: fetch failed",
+    "mazot BURSA: fetch failed",
+    "mazot ANTALYA: fetch failed",
+    "mazot SAMSUN: fetch failed",
+    "mazot TEKIRDAG: fetch failed",
+    "mazot CANAKKALE: fetch failed"
   ]
 }
