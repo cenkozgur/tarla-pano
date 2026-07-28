@@ -1,33 +1,33 @@
 {
-  "updatedAt": "2026-07-28T07:15:30.800Z",
+  "updatedAt": "2026-07-28T09:48:22.400Z",
   "fx": [
     {
       "code": "USD",
       "name": "Dolar",
       "buy": 47.37,
-      "sell": 47.39,
+      "sell": 47.38,
       "change": 0.07
     },
     {
       "code": "EUR",
       "name": "Euro",
-      "buy": 53.91,
-      "sell": 53.92,
-      "change": 0.1
+      "buy": 53.87,
+      "sell": 53.88,
+      "change": 0.02
     },
     {
       "code": "GRA",
       "name": "Gram Altın",
-      "buy": 6168.28,
-      "sell": 6169.06,
-      "change": -0.6
+      "buy": 6144.78,
+      "sell": 6145.76,
+      "change": -0.97
     },
     {
       "code": "CEYREKALTIN",
       "name": "Çeyrek Altın",
-      "buy": 9882.51,
-      "sell": 10108.59,
-      "change": 0
+      "buy": 9812.12,
+      "sell": 10036.66,
+      "change": -0.71
     },
     {
       "code": "CUMHURIYETALTINI",
@@ -38,6 +38,14 @@
     }
   ],
   "news": [
+    {
+      "title": "Bakan Yumaklı: Fransa'ya iki yangın söndürme uçağı gönderildi",
+      "url": "https://www.tarimpusulasi.com/haber/bakan-yumakli-fransaya-iki-yangin-sondurme-ucagi-gonderildi-47192",
+      "source": "Tarım Pusulası",
+      "date": "2026-07-28",
+      "summary": "Tarım ve Orman Bakanı İbrahim Yumaklı, Avrupa'da devam eden orman yangınları nedeniyle Fransa'nın destek talebi üzerine iki yangın söndürme uçağının görevlendirildiğini açıkladı. Yumaklı, daha önce İspanya'ya gönderilen iki uçağın ardından Türkiye'nin uluslararası dayanışma kapsamında desteğini sürd",
+      "content": "ANKARA — Tarım ve Orman Bakanı İbrahim Yumaklı, Avrupa'da etkisini sürdüren orman yangınlarıyla mücadele kapsamında, Fransa'nın destek talebi üzerine iki yangın söndürme uçağının görevlendirildiğini açıkladı.\n\nBakan Yumaklı, daha önce İspanya'ya gönderilen iki yangın söndürme uçağının ardından Fransa'ya da aynı kapsamda destek sağlandığını belirterek, Türkiye'nin sahip olduğu hava gücü ve tecrübeyle ihtiyaç duyulan ülkelere destek vermeyi sürdürdüğünü ifade etti.\n\nYumaklı, açıklamasında şu değerlendirmelerde bulundu:\n\n\"Cumhurbaşkanımız Sayın Recep Tayyip Erdoğan'ın talimatları doğrultusunda İspanya'ya gönderdiğimiz iki yangın söndürme uçağımızın ardından, Fransa'nın da destek talebi üzerine iki yangın söndürme uçağımızı görevlendirdik.\"\n\nBakan Yumaklı, Türkiye'nin yalnızca kendi ormanlarını korumakla kalmadığını, ihtiyaç duyulduğunda farklı ülkelerde çıkan orman yangınlarıyla mücadeleye de katkı sunduğunu vurguladı.\n\nGörev için yola çıkan hava ekiplerine başarı dileğinde bulunan Yumaklı, ormanların gelecek nesillere bırakılacak en önemli doğal miraslardan biri olduğunu belirterek uluslararası dayanışmanın önemine dikkat çekti.\n\nAçıklamasında, \"Ormanlar bizlere emanet değil, gelecek nesillere bırakacağımız en kıymetli mirastır. Bu bilinçle sınırları aşan dayanışmayı ve mücadelemizi kararlılıkla sürdüreceğiz.\" ifadelerine yer verdi.\n\nTARIM PUSULASI HABER MERKEZİ"
+    },
     {
       "title": "USDA: Arjantin'de buğday üretimi 21,6 milyon tona düşecek",
       "url": "https://www.tarimpusulasi.com/haber/usda-arjantinde-bugday-uretimi-216-milyon-tona-dusecek-47191",
@@ -93,14 +101,6 @@
       "date": "2026-07-27",
       "summary": "ABD Tarım Bakanlığı (USDA), 16 Temmuz'da sona eren haftaya ilişkin ihracat denetim verilerini yayımladı. Verilere göre mısır ihracatı, 2025/26 pazarlama yılı hedefinin üzerinde ilerlemeye devam ederken, sorgum ve soya fasulyesi ihracatı da sezon hedeflerini aşan performans sergiledi.",
       "content": "WASHINGTON (ABD) — ABD Tarım Bakanlığı (USDA), 16 Temmuz'da sona eren haftaya ilişkin tahıl ve yağlı tohum ihracat denetim verilerini açıkladı. Verilere göre, mısır ihracatı pazarlama yılının sonuna yaklaşılırken hedeflenen seviyenin üzerinde ilerlemeyi sürdürdü. Sorgum ve soya fasulyesi ihracatı da mevcut sezon hedeflerini aşan performans gösterdi.\n\nUSDA, küresel tahıl ve yağlı tohum ticaretinin iç piyasa fiyatları ile arz-talep dengesindeki mevsimsel değişimlerden etkilendiğini belirtti. Bakanlığın bir sonraki küresel arz-talep tahmin raporunun 12 Ağustos tarihinde yayımlanacağı bildirildi.\n\nMısır ihracatı güçlü seyrini koruyor\n\nHaftalık verilere göre ABD'den ihraç edilen mısır miktarı 1 milyon 549 bin 849 ton olarak gerçekleşti.\n\nBu miktar;\n\nBir önceki haftaya göre 4 bin 771 ton daha düşük,\n\nGeçen yılın aynı haftasına göre ise 564 bin 948 ton daha yüksek oldu.\n\nEn büyük alıcı ülkeler Meksika ve Japonya olarak kaydedildi.\n\n2025/26 pazarlama yılının son ayına girilirken toplam mısır ihracat denetimleri 73 milyon 772 bin 659 tona ulaştı. Geçen yılın aynı döneminde bu miktar 58 milyon 818 bin 344 ton seviyesindeydi.\n\nBu da yıllık bazda yaklaşık 14,95 milyon tonluk artışa işaret ediyor.\n\nBuğday ihracatı geriledi\n\nHaftalık buğday ihracatı 213 bin 993 ton olarak açıklandı.\n\nBu miktar;\n\nÖnceki haftaya göre 182 bin 353 ton,\n\nGeçen yılın aynı haftasına göre ise 518 bin 297 ton daha düşük gerçekleşti.\n\nBaşlıca alıcı ülkeler Meksika ve Şili oldu.\n\n2026/27 pazarlama yılının ilk çeyreğinin ortalarına yaklaşılırken toplam buğday ihracat denetimleri 2 milyon 131 bin 555 ton seviyesinde gerçekleşti. Geçen sezon aynı dönemde bu rakam 3 milyon 21 bin 403 ton olarak kaydedilmişti.\n\nSoya fasulyesinde düşüş\n\nHaftalık soya fasulyesi ihracatı 296 bin 972 ton olarak gerçekleşti.\n\nBu miktar;\n\nÖnceki haftaya göre 151 bin 18 ton,\n\nGeçen yılın aynı dönemine göre 80 bin 48 ton azaldı.\n\nEn büyük alıcılar Çin ve Almanya oldu.\n\n2025/26 sezonunda toplam ihracat denetimleri 38 milyon 615 bin 501 ton olarak hesaplandı. Geçen sezon aynı dönemde bu miktar 46 milyon 821 bin 752 ton seviyesindeydi.\n\nSorgum ihracatında dikkat çeken artış\n\nHaftalık sorgum ihracatı 59 bin 724 ton olarak açıklandı.\n\nBu miktar önceki haftaya göre 59 bin 88 ton artarken, ihracatın tamamı Çin'e gerçekleştirildi.\n\n2025/26 sezonunda toplam sorgum ihracatı 4 milyon 654 bin 956 tona ulaştı. Bu rakam geçen sezon aynı dönemde 1 milyon 956 bin 601 ton olarak kaydedilmişti.\n\nTARIM PUSULASI HABER MERKEZİ"
-    },
-    {
-      "title": "Burkina Faso domates üretimi için araştırma programı başlattı",
-      "url": "https://www.tarimpusulasi.com/haber/burkina-faso-domates-uretimi-icin-arastirma-programi-baslatti-47184",
-      "source": "Tarım Pusulası",
-      "date": "2026-07-27",
-      "summary": "Burkina Faso'da domates sektörünün verimliliğini ve rekabet gücünü artırmayı hedefleyen 2026-2031 Ulusal Domates Araştırma Programı, sektör temsilcilerinin katıldığı çalıştayda onaylandı. Programla üretim kayıplarının azaltılması, verimin artırılması ve domates değer zincirinin güçlendirilmesi amaçl",
-      "content": "OUAGADOUGOU (BURKİNA FASO) — Burkina Faso, domates sektöründe üretim, işleme ve pazarlama süreçlerini güçlendirmek amacıyla hazırlanan 2026-2031 Ulusal Domates Araştırma Programı'nı onayladı. Programın, ülkenin gıda güvenliğini desteklemesi, üretim kayıplarını azaltması ve domates sektörünün rekabet gücünü artırması hedefleniyor.\n\nDomates sektörünü temsil eden üreticiler, işleme sanayisi temsilcileri, tarımsal yayım hizmetleri ve araştırmacılar, 22 Temmuz 2026 tarihinde başkent Ouagadougou'da düzenlenen çalıştayda program taslağını değerlendirdi ve onayladı.\n\nAraştırma programı; üretim, işleme ve pazarlama alanlarında görev yapan araştırmacılar ile akademisyenlerden oluşan özel bir komisyon tarafından hazırlandı. Programın hazırlanma sürecinde sektör analizi yapıldı, paydaşların görüşleri alındı ve taslak metin tüm tarafların katılımıyla şekillendirildi.\n\nAmaç verimliliği ve katma değeri artırmak\n\n2026-2031 dönemini kapsayan programla;\n\nDomates üretiminde verim ve kaliteyi artırmak,\n\nİşleme kapasitesini geliştirmek,\n\nKatma değer oluşturmak,\n\nÜretici gelirlerini yükseltmek,\n\nDeğer zincirinin tüm halkalarını güçlendirmek\n\namaçlanıyor.\n\nDomates üretiminin ekonomik değeri 54,8 milyar CFA frangı\n\nÇalıştayda konuşan Tarım, Su, Hayvancılık ve Su Ürünleri Bakanlığı Genel Sekreterliği Araştırmalar Sorumlusu Estelle Zoungrana/Koita, domates sektörünün ülke ekonomisi açısından stratejik öneme sahip olduğunu belirtti.\n\nİkinci Genel Tarım Sayımı (RGA II) verilerine göre, 2022 yılında işlenen verilere göre Burkina Faso'nun yıllık domates üretimi 231 bin 764 ton olarak hesaplandı. Bu üretimin ekonomik değerinin ise yaklaşık 54,8 milyar CFA frangı olduğu bildirildi.\n\nÜretimin yüzde 30-40'ı kaybediliyor\n\nYetkililer, domates sektörünün önemli bir potansiyele sahip olmasına rağmen ciddi sorunlarla karşı karşıya bulunduğunu vurguladı.\n\nAçıklamada;\n\nİklim değişikliği,\n\nZararlı baskısı,\n\nBitki hastalıkları\n\nnedeniyle ülke genelindeki domates üretiminin yüzde 30 ila 40'ının kaybedildiği ifade edildi.\n\nAraştırma kritik rol üstlenecek\n\nAraştırma ve Yenilik Genel Müdürü Dr. Babou André Bationo, bilimsel araştırmaların tarım sektöründeki yapısal sorunların çözümünde temel araçlardan biri olduğunu belirterek, yeni programın domates sektöründeki darboğazların aşılmasına önemli katkı sağlayacağını söyledi.\n\nProgram, Araştırma ve Yenilik Genel Müdürlüğü (DGRI) ile Burkina Faso Tarım, Hayvancılık ve Su Ürünleri Sektörleri Konseyi (CBF) koordinasyonunda yürütülecek.\n\nÜreticiler, işleyiciler ve tüccarlar da hazırlık sürecine doğrudan dahil edilmelerinden duydukları memnuniyeti dile getirerek, katılımcı yaklaşımın sektörün gerçek ihtiyaçlarının programa yansımasını sağlayacağını ifade etti.\n\nBurkina Faso yönetimi, yeni araştırma programıyla üretimi artırmayı, hasat sonrası kayıpları azaltmayı, ürün kalitesini yükseltmeyi, işleme sanayisini geliştirmeyi ve domates sektörünün ülkenin gıda güvenliği ile beslenmesine katkısını güçlendirmeyi hedefliyor.\n\nTARIM PUSULASI HABER MERKEZİ"
     },
     {
       "title": "Karadeniz'de savaş buğday fiyatlarını yeniden yükseltti! Türkiye için kritik uyarı",
@@ -328,17 +328,5 @@
   "defaultBorsa": "5ED10",
   "defaultCity": "CANAKKALE",
   "note": "Fiyatlar TOBB ticaret borsasından (borsa seçilebilir). Kanola manuel (Trakya 2025).",
-  "inputsNote": "Mazot: akaryakıt bayi fiyatı, günlük (şehir seçilebilir). Gübre: manuel (yaklaşık).",
-  "errors": [
-    "mazot ANKARA: fetch failed",
-    "mazot ISTANBUL: fetch failed",
-    "mazot IZMIR: fetch failed",
-    "mazot KONYA: fetch failed",
-    "mazot ADANA: fetch failed",
-    "mazot BURSA: fetch failed",
-    "mazot ANTALYA: fetch failed",
-    "mazot SAMSUN: fetch failed",
-    "mazot TEKIRDAG: fetch failed",
-    "mazot CANAKKALE: fetch failed"
-  ]
+  "inputsNote": "Mazot: akaryakıt bayi fiyatı, günlük (şehir seçilebilir). Gübre: manuel (yaklaşık)."
 }
