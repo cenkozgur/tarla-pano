@@ -1,43 +1,51 @@
 {
-  "updatedAt": "2026-07-28T20:07:22.121Z",
+  "updatedAt": "2026-07-28T21:32:37.278Z",
   "fx": [
     {
       "code": "USD",
       "name": "Dolar",
-      "buy": 47371,
-      "sell": 473779,
-      "change": 6
+      "buy": 47.37,
+      "sell": 47.4,
+      "change": 0.02
     },
     {
       "code": "EUR",
       "name": "Euro",
-      "buy": 539765,
-      "sell": 539949,
-      "change": 23
+      "buy": 53.97,
+      "sell": 54.06,
+      "change": 0.02
     },
     {
       "code": "GRA",
       "name": "Gram Altın",
-      "buy": 612749,
-      "sell": 612838,
-      "change": -125
+      "buy": 6137.26,
+      "sell": 6138.13,
+      "change": 0.02
     },
     {
       "code": "CEYREKALTIN",
       "name": "Çeyrek Altın",
-      "buy": 979343,
-      "sell": 1001756,
-      "change": -9
+      "buy": 9793.43,
+      "sell": 10017.56,
+      "change": 0
     },
     {
       "code": "CUMHURIYETALTINI",
       "name": "Cumhuriyet Altını",
       "buy": 40581,
       "sell": 41194,
-      "change": -98
+      "change": -0.98
     }
   ],
   "news": [
+    {
+      "title": "Tarım Kredi'de market adeta boşaltılmış! Yönetim ancak ikinci sayımda fark etti",
+      "url": "https://www.tarimdanhaber.com/tarim-kredide-market-adeta-bosaltilmis-yonetim-ancak-ikinci-sayimda-fark-etti",
+      "source": "Tarımdan Haber",
+      "date": "2026-07-28",
+      "summary": "Tarımdan Haber'in gündeme getirdiği Tarım Kredi Market dosyasında dikkat çeken yeni ayrıntılar ortaya çıktı. İzmir Çiğli'deki markette kayıtlardan silinemeyen 3 milyon liralık ürün kaybının, mağaza müdürünün izinli olduğu dönemde yaşandığı belirlendi. İncelemelerde sayımlardaki açıkların farklı mark",
+      "content": "Tarımdan Haber Özel / Tarımdan Haber'in gündeme taşıdığı Tarım Kredi Market'teki usulsüzlük dosyasında yeni ayrıntılar ortaya çıktı.\n\nİzmir Çiğli'de bulunan Tarım Kredi Market'te yaklaşık 3 milyon liralık ürün kaybıyla ilgili yürütülen incelemelerde, olayın ilk değerlendirmelerden farklı bir boyutu olduğu belirlendi.\n\nMağaza müdürü olay döneminde izinliydi\n\nEdinilen bilgilere göre, ürün kayıplarının yaşandığı dönemde mağaza müdürü izinli bulunuyordu.\n\nYapılan incelemelerde, market sayımlarında depolarda oluşan ürün eksikliklerinin farklı Tarım Kredi Market şubelerinden yapılan ürün transferleriyle kapatıldığı tespit edildi. Ancak daha sonra gerçekleştirilen ikinci sayımda yaklaşık 3 milyon liralık ürünün market kayıtlarında bulunmadığı ortaya çıktı.\n\nBölge müdürü gözaltına alındı\n\nYaşanan gelişmeler üzerine bölge müdürü gözaltına alındı. Gözaltı işlemlerinin ardından serbest bırakılan bölge müdürünün yanı sıra, söz konusu markette görev yapan tüm çalışanların iş akitleri de feshedildi.\n\nÇalışma Bakanlığı ceza kesti\n\nDosyada dikkat çeken bir başka gelişme ise çalışma koşullarıyla ilgili yaşandı. Mağaza müdürü, iş sağlığı ve güvenliği kurallarına aykırı koşullarda çalıştırıldığı gerekçesiyle Çalışma ve Sosyal Güvenlik Bakanlığı'na başvuruda bulundu.\n\nBakanlık müfettişlerinin markette yaptığı incelemelerde iş sağlığı ve güvenliği mevzuatına aykırılıklar tespit edilirken, bu nedenle Tarım Kredi Marketlere idari para cezası uygulandı.\n\nTarım Kredi sessizliğini koruyor\n\nYaklaşık 3 milyon liralık ürün kaybının ortaya çıkmasına, gözaltı süreci yaşanmasına ve market çalışanlarının iş akitlerinin feshedilmesine rağmen Tarım Kredi Marketler'in konuya ilişkin kamuoyuna herhangi bir açıklama yapmaması dikkat çekiyor.\n\nÇiftçi ortakların kaynakları ile faaliyet gösteren Tarım Kredi Marketler'de, olayın boyutu ve ortaya çıkan zarar konusunda yaşanan sessizlik, çiftçi kuruluşunda denetim zaafiyetinin hangi boyutlara geldiğini gözler önüne serdi."
+    },
     {
       "title": "TMO'dan önemli karar! Ekmeklik buğday ihracatı yeniden serbest bırakıldı",
       "url": "https://www.tarimdanhaber.com/tmodan-onemli-karar-ekmeklik-bugday-ihracati-yeniden-serbest-birakildi",
@@ -125,14 +133,6 @@
       "date": "2026-07-26",
       "summary": "Kuzey Yarım Küre'de hasat döneminin başlamasıyla buğday fiyatlarının gerilemesi beklenirken, Karadeniz'de yeniden tırmanan savaş piyasaların yönünü değiştirdi. Rusya ve Ukrayna'da tahıl sevkiyatına ilişkin risklerin artmasıyla dünya buğday fiyatları yükselişe geçerken, gelişmeler Türkiye'nin buğday ",
       "content": "Haber Merkezi / Dünya buğday piyasasında dengeler yeniden değişmeye başladı. Hasat döneminin etkisiyle fiyatlarda düşüş beklenirken, Karadeniz'de artan jeopolitik riskler ve üretime ilişkin endişeler buğday fiyatlarını yeniden yükseliş eğilimine soktu.\n\nPiyasalarda artık yalnızca dünya genelinde ne kadar buğday üretileceği değil, üretilen ürünün uluslararası pazarlara güvenli ve kesintisiz ulaştırılıp ulaştırılamayacağı da fiyatları belirleyen temel unsurlar arasında yer alıyor.\n\nKaradeniz'deki savaş fiyatları yukarı çekiyor\n\nKüresel buğday ticaretinin en büyük ihracatçıları arasında yer alan Rusya ve Ukrayna'da yaşanan gelişmeler, dünya tahıl piyasasını doğrudan etkilemeye devam ediyor.\n\nKaradeniz'deki limanlara, tahıl terminallerine ve deniz taşımacılığına yönelik saldırılar, ihracatın aksayabileceği endişesini artırıyor. Özellikle Ukrayna'nın Karadeniz limanlarındaki ihracat kapasitesinin tehdit altında olması ve Rusya'nın en önemli tahıl ihracat merkezlerinden Novorossiysk Limanı'nda gemi trafiğinin zaman zaman aksaması, piyasalarda risk algısını yükseltiyor.\n\nBu gelişmeler, dünya buğday fiyatlarına \"savaş primi\" olarak yansıyor.\n\nABD'deki kuraklık endişesi de etkili oluyor\n\nKaradeniz'deki gelişmelerin yanı sıra ABD'de üretim beklentilerindeki düşüş ve bazı üretim bölgelerinde devam eden kuraklık endişeleri de fiyatları destekleyen bir diğer unsur olarak öne çıkıyor.\n\nChicago Ticaret Borsası'nda işlem gören buğday vadeli kontratlarının son dönemde iki yılın en yüksek seviyelerine yaklaşması, küresel piyasaların arz riskini yeniden fiyatlamaya başladığını gösteriyor.\n\nYükseliş kalıcı olacak mı?\n\nUzmanlara göre fiyatların seyri büyük ölçüde Karadeniz'deki gelişmelere bağlı olacak.\n\nEğer bölgedeki saldırılar kısa sürede sona erer ve tahıl sevkiyatı yeniden normal akışına dönerse, piyasalardaki savaş kaynaklı risk primi de hızla azalabilir.\n\nAncak limanlarda, deniz taşımacılığında ve ihracat koridorlarında yaşanabilecek uzun süreli aksaklıklar, dünya piyasasında arzın gecikmesine neden olarak buğday fiyatlarını daha da yukarı taşıyabilir.\n\nTürkiye açısından neden önemli?\n\nKaradeniz havzasındaki gelişmelerden en fazla etkilenen ülkelerden biri de Türkiye.\n\nTürkiye'nin buğday ithalatında Rusya ve Ukrayna önemli tedarikçiler arasında yer alırken, bu ülkelerde yaşanacak ihracat sorunları Türkiye'nin hammadde maliyetlerini de doğrudan etkileyebiliyor.\n\nBu durum yalnızca iç piyasayı değil, Türkiye'nin güçlü olduğu un, makarna ve diğer tahıl mamulleri ihracatını da yakından ilgilendiriyor.\n\nEn büyük güvence yerli üretim\n\nDünya buğday piyasasında jeopolitik risklerin yeniden arttığı bu dönemde, gıda güvenliğinin yalnızca dış piyasaya bağlı tedarikle sağlanamayacağı bir kez daha ortaya çıktı.\n\nUzmanlar, savaşlar, iklim değişikliği, enerji maliyetleri ve lojistik sorunlarının artık buğday piyasasının ayrılmaz parçaları haline geldiğine dikkat çekiyor.\n\nÇiftçiyi üretimden uzaklaştıran her gelişme, küresel kriz dönemlerinde Türkiye'nin buğdayı daha yüksek maliyetlerle temin etme riskini artırıyor. Karadeniz'de yaşanan son gelişmeler de gıda güvenliğinin temelinin yine tarlada atıldığını bir kez daha gözler önüne seriyor."
-    },
-    {
-      "title": "Ergin Kahveci'den dikkat çeken analiz! \"Türkiye'de kırsal sanıldığı gibi boşalmadı\"",
-      "url": "https://www.tarimdanhaber.com/ergin-kahveciden-dikkat-ceken-analiz-turkiyede-kirsal-sanildigi-gibi-bosalmadi",
-      "source": "Tarımdan Haber",
-      "date": "2026-07-26",
-      "summary": "Tarım politikaları uzmanı Ergin Kahveci, \"Türkiye'de Kır-Kent Geçişkenliği\" başlıklı analizinde, kırsalın yalnızca tarımsal üretim alanı olarak değil, sosyolojik ve ekonomik bir bütün olarak ele alınması gerektiğini belirtti. Kahveci, 6360 sayılı Büyükşehir Yasası sonrası kırsal nüfusun önemli bölüm",
-      "content": "Haber Merkezi / Tarım politikaları uzmanı Ergin Kahveci, yayımladığı kapsamlı analizde Türkiye'de kırsal kalkınma politikalarının yalnızca tarımsal üretim üzerinden okunmasının yetersiz olduğunu belirterek, kır ile kent arasındaki sosyal ve ekonomik ilişkinin yeniden değerlendirilmesi gerektiğini ifade etti.\n\nKahveci'ye göre kırsal alan sadece üretim yapılan bir coğrafya değil, insan, ekonomi ve sosyal yapının birlikte şekillendiği canlı bir organizma niteliği taşıyor.\n\n\"Köyler boşalmadı, istatistikler değişti\"\n\nAnalizde en dikkat çeken tespitlerden biri 2012 yılında yürürlüğe giren 6360 sayılı Büyükşehir Yasası oldu.\n\nKahveci, bu düzenleme ile binlerce köy ve beldenin mahalle statüsüne dönüştürüldüğünü, yaklaşık 10,5 milyon kişinin idari olarak kent nüfusu içinde gösterildiğini belirterek, bunun kırsal nüfusa ilişkin değerlendirmelerde önemli bir yanılgıya yol açtığını ifade etti.\n\n\"Gerçek kırsal nüfus yaklaşık 20 milyon\"\n\nKahveci, TÜİK'in idari kayıtlarının tek başına yeterli olmadığını belirterek FAO verileri ile TÜİK'in 1 kilometrekarelik fiziksel grid çalışmasının birlikte değerlendirilmesi gerektiğini söyledi.\n\nBu verilere göre Türkiye'nin gerçek kırsal nüfusunun yaklaşık 20 milyon kişi seviyesinde olduğunu belirten Kahveci, kırsal nüfusun sanıldığı kadar hızlı erimediğini, daha çok yavaş ve kontrollü bir çözülme süreci yaşandığını dile getirdi.\n\n\"Kırsal yaşlanıyor ama genç nüfus hala var\"\n\nAnalizde dikkat çekilen bir diğer konu ise yaş dağılımı oldu.\n\nKahveci, büyükşehir olmayan 51 ilde kırsal nüfusun yaşlandığını ancak buna rağmen 15-29 yaş grubunda önemli bir genç nüfusun bulunduğunu belirterek, bu kitlenin doğru politikalarla üretimde tutulabileceğini ifade etti.\n\nÇiftçilerin büyük bölümü gerçek maliyetini hesaplayamıyor\n\nKahveci'nin analizinde ekonomik tespitler de yer aldı.\n\nBuna göre çiftçilerin önemli bir bölümü aile işçiliği, makine amortismanı ve finansman maliyetlerini hesaplamadığı için üretim sonunda elde ettiği geliri kâr olarak değerlendirebiliyor. Bu durum ise işletmelerin öz sermayesini zamanla tüketmesine neden oluyor.\n\nÇözüm önerisi: Devlet yeniden kırsala dönmeli\n\nErgin Kahveci, kırsal kalkınmanın yalnızca tarımsal desteklerle sağlanamayacağını belirterek devletin eğitim, sağlık, tarım danışmanlığı ve sosyal hizmetlerle yeniden kırsalda güçlü şekilde yer alması gerektiğini savundu.\n\nAnalizde ayrıca kadın ve gençlerin üretime katılımının artırılması, finansal okuryazarlığın geliştirilmesi, kooperatiflerin güçlendirilmesi ve teknolojik tarım yatırımlarının teşvik edilmesi gerektiği vurgulandı.\n\nKahveci, önerdiği \"Kültür ve Sosyo-Ekonomi Kuşağı Projesi\" ile kırsalın sadece üretim alanı olarak değil, sosyal ve ekonomik kalkınmanın merkezi olarak yeniden yapılandırılmasını önerdi."
     }
   ],
   "commoditiesByBorsa": {
@@ -328,5 +328,17 @@
   "defaultBorsa": "5ED10",
   "defaultCity": "CANAKKALE",
   "note": "Fiyatlar TOBB ticaret borsasından (borsa seçilebilir). Kanola manuel (Trakya 2025).",
-  "inputsNote": "Mazot: akaryakıt bayi fiyatı, günlük (şehir seçilebilir). Gübre: manuel (yaklaşık)."
+  "inputsNote": "Mazot: akaryakıt bayi fiyatı, günlük (şehir seçilebilir). Gübre: manuel (yaklaşık).",
+  "errors": [
+    "mazot ANKARA: fetch failed",
+    "mazot ISTANBUL: fetch failed",
+    "mazot IZMIR: fetch failed",
+    "mazot KONYA: fetch failed",
+    "mazot ADANA: fetch failed",
+    "mazot BURSA: fetch failed",
+    "mazot ANTALYA: fetch failed",
+    "mazot SAMSUN: fetch failed",
+    "mazot TEKIRDAG: fetch failed",
+    "mazot CANAKKALE: fetch failed"
+  ]
 }
