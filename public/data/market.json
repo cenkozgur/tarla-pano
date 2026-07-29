@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-07-29T10:09:35.510Z",
+  "updatedAt": "2026-07-29T12:21:20.835Z",
   "fx": [
     {
       "code": "USD",
@@ -11,33 +11,49 @@
     {
       "code": "EUR",
       "name": "Euro",
-      "buy": 54.03,
-      "sell": 54.04,
-      "change": 0.06
+      "buy": 53.95,
+      "sell": 53.96,
+      "change": -0.08
     },
     {
       "code": "GRA",
       "name": "Gram Altın",
-      "buy": 6145.71,
-      "sell": 6146.63,
-      "change": 0.16
+      "buy": 6126.41,
+      "sell": 6127.32,
+      "change": -0.16
     },
     {
       "code": "CEYREKALTIN",
       "name": "Çeyrek Altın",
-      "buy": 9818.68,
-      "sell": 10043.37,
-      "change": 0.26
+      "buy": 9789.96,
+      "sell": 10014.01,
+      "change": -0.04
     },
     {
       "code": "CUMHURIYETALTINI",
       "name": "Cumhuriyet Altını",
-      "buy": 40708,
-      "sell": 41324,
-      "change": 0.32
+      "buy": 40678,
+      "sell": 41294,
+      "change": 0.24
     }
   ],
   "news": [
+    {
+      "title": "Ulusoy Un, Delice'de iyi tarım projesinin ilk hasadını yaptı",
+      "url": "https://www.tarimpusulasi.com/haber/ulusoy-un-delicede-iyi-tarim-projesinin-ilk-hasadini-yapti-47203",
+      "source": "Tarım Pusulası",
+      "date": "2026-07-29",
+      "summary": "Ulusoy Un, Kırıkkale'nin Delice ilçesinde ikinci yılına ulaşan sözleşmeli üretim modeli kapsamında yürüttüğü iyi tarım ve onarıcı tarım uygulamalarının ilk hasadını gerçekleştirdi. Şirket, proje kapsamında toprağın korunması, üretimin izlenebilir hâle getirilmesi ve çiftçilere teknik destek sağlanma",
+      "content": "KIRIKKALE — Ulusoy Un, Kırıkkale'nin Delice ilçesinde yürüttüğü iyi tarım ve onarıcı tarım uygulamalarının ilk hasadını gerçekleştirdi. Şirket, ikinci yılına ulaşan sözleşmeli üretim modeli kapsamında yürütülen projeyle toprağın korunması, tarımsal verimliliğin artırılması, üretimin izlenebilir hâle getirilmesi ve üreticilerin teknik olarak desteklenmesi yönünde önemli bir aşama kaydedildiğini açıkladı.\n\nŞirketten yapılan açıklamaya göre, üç fazdan oluşan projenin ilk aşaması 70 üreticinin katılımıyla 10 bin dekar alanda tamamlandı. Delice'de düzenlenen Hasat Şenliği ile ilk hasat gerçekleştirilirken, proje koordinasyonu Ulusoy Un Üretim Tesisleri Hammadde Temin Müdürü Mehmet Ekici tarafından yürütüldü. Saha uygulamaları ve üretici danışmanlığı süreçlerinde ise İyi Tarım ve Onarıcı Tarım Projeleri Danışmanı Veli Öz görev aldı.\n\nAçıklamada, sözleşmeli üretim projesine katılan 70 üreticiden 11'iyle, bu sezon 1.250 dekar alanda ilk kez İyi Tarım Uygulamaları Projesi'nin de uygulandığı belirtildi. Bu kapsamda 1.247 ton buğday hasat edildiği ve elde edilen ürünün bir bölümünün Söke Unlu Mamuller tesislerinde kurabiye ve tortilla üretiminde, diğer bölümünün ise çocuklara yönelik temiz içerikli Childgen oyun hamurlarının üretiminde değerlendirileceği bildirildi.\n\nUlusoy Un Yönetim Kurulu Başkanı Dr. Eren Günhan Ulusoy, Hasat Şenliği'nde yaptığı konuşmada sürdürülebilir tarımı yalnızca bir üretim modeli olarak değil, ülkemizin tarımsal geleceği açısından stratejik bir sorumluluk olarak gördüklerini ifade etti. Ulusoy, onarıcı tarımın gıda arzı ve sürdürülebilir tedarik zincirleri açısından da önemli olduğunu belirtti.\n\nAçıklamaya göre, \"Tarladan Çatala Sağlıklı ve Sürdürülebilir Tarım Uygulamaları Projesi\", T.C. Ticaret Bakanlığının Responsible® Programı kapsamında destekleniyor. Projede üretim süreci; toprak analizleri, teknik danışmanlık, uydu destekli tarla takip sistemleri ve meteorolojik gözlem istasyonlarıyla ekimden hasada kadar izleniyor. Şirket, ikinci ve üçüncü fazlarda hem üretici sayısını hem de uygulama alanını artırmayı hedeflediğini bildirdi.\n\nTARIM PUSULASI HABER MERKEZİ"
+    },
+    {
+      "title": "Tarım Reformu GM'den tarım sigortalarında uluslararası buluşma",
+      "url": "https://www.tarimpusulasi.com/haber/tarim-reformu-gmden-tarim-sigortalarinda-uluslararasi-bulusma-47202",
+      "source": "Tarım Pusulası",
+      "date": "2026-07-29",
+      "summary": "Tarım ve Orman Bakanlığı Tarım Reformu Genel Müdürlüğü, Arnavutluk ve Suriye'den gelen heyetlerle doğal afet yönetimi ve devlet destekli tarım sigortaları alanında bilgi paylaşımı ve eğitim programları gerçekleştirdi. Programlarda TARSİM modeli, Doğal Afet Takip Sistemi (DATS) ve tarımsal risk yönet",
+      "content": "ANKARA — Tarım ve Orman Bakanlığı Tarım Reformu Genel Müdürlüğü, Arnavutluk ve Suriye'den gelen heyetlerle doğal afet yönetimi, tarım sigortaları ve tarımsal risk yönetimi alanlarında bilgi paylaşımı ve eğitim programları gerçekleştirdi. Programlarda, ülkemizde uygulanan Devlet Destekli Tarım Sigortaları Sistemi (TARSİM) ile Doğal Afet Takip Sistemi (DATS) hakkında kapsamlı sunumlar yapıldı.\n\nGenel Müdürlükten yapılan açıklamaya göre, Arnavutluk ile ülkemiz arasında ikili ilişkilerin geliştirilmesi amacıyla imzalanan İyi Niyet Beyanı ve Yol Haritası kapsamında, Arnavutluk Tarım ve Kırsal Kalkınma Bakanlığı Heyeti, 20-22 Temmuz 2026 tarihlerinde ülkemizi ziyaret etti.\n\nZiyaret kapsamında, Bakan Yardımcısı Dr. Ahmet Bağcı başkanlığındaki Tarım Reformu Genel Müdürlüğü heyeti, TARSİM uzmanları ve Arnavutluk heyeti İstanbul'da bir araya geldi. Programda, Doğal Afet Takip Sistemi (DATS) ile Devlet Destekli Tarım Sigortaları Sistemi'nin işleyişi, uygulama esasları ve afet yönetimine katkıları hakkında heyete bilgi verildi.\n\nAçıklamaya göre, 21-23 Temmuz 2026 tarihlerinde ise Suriye Heyeti için Tarım Reformu Genel Müdürlüğünde eğitim programı düzenlendi. Eğitimlerde tarımsal riskler, risk yönetimi araçları, sigortanın tarımsal üretimdeki rolü, küresel iklim değişikliğinin üretime etkileri, tarım sigortalarının yasal altyapısı, TARSİM'in kurumsal yapısı, sistemin gelişim süreci ve sigorta branşları ele alındı.\n\nGenel Müdürlük, gerçekleştirilen görüşmelerde ülkemizin doğal afet yönetimi ve tarım sigortaları alanındaki deneyimlerinin paylaşıldığını, ülkeler arasında teknik iş birliği ile bilgi ve tecrübe paylaşımının geliştirilmesine yönelik değerlendirmelerde bulunulduğunu bildirdi.\n\nTARIM PUSULASI HABER MERKEZİ"
+    },
     {
       "title": "Gürer: Ayçiçeğinde üretici desteklenmeli",
       "url": "https://www.tarimpusulasi.com/haber/gurer-ayciceginde-uretici-desteklenmeli-47201",
@@ -85,22 +101,6 @@
       "date": "2026-07-29",
       "summary": "Ege Zeytin ve Zeytinyağı İhracatçıları Birliği (EZZİB), ihracatçıların finansmana erişimini kolaylaştırmak amacıyla düzenlediği toplantıda, Türkiye Cumhuriyet Merkez Bankası (TCMB), Türk Eximbank ve Türk Ticaret Bankası temsilcilerini sektörle buluşturdu. Toplantıda kredi, sigorta, reeskont krediler",
       "content": "İZMİR — Ege Zeytin ve Zeytinyağı İhracatçıları Birliği (EZZİB), ihracatçıların finansmana erişimini kolaylaştırmak ve güncel destek mekanizmaları hakkında sektör temsilcilerini bilgilendirmek amacıyla \"Finansmana Erişim Bilgilendirme Toplantısı\" düzenledi. Toplantıda, Türkiye Cumhuriyet Merkez Bankası (TCMB), Türk Eximbank ve Türk Ticaret Bankası temsilcileri, kredi, sigorta ve finansman imkânlarına ilişkin sunumlar yaptı.\n\nEge İhracatçı Birlikleri hizmet binasında gerçekleştirilen toplantının açılışında konuşan EZZİB Başkanı M. Emre Uygun, zeytin ve zeytinyağı sektörünün tamamen yerli girdilerle üretim yaptığını belirterek, özellikle ham madde alım dönemlerinde finansman ihtiyacının arttığını söyledi. Uygun, reeskont kredi limitlerinin üretim takvimine uygun şekilde artırılması ve kredi tahsis süreçlerinin hızlandırılmasının sektörün rekabet gücünü destekleyeceğini ifade etti.\n\nToplantıda, ihracat bedellerinin Türk lirasına dönüştürülmesini teşvik eden döviz dönüşüm desteği de ele alındı. Uygun, yüzde 100 yerli girdiyle üretim yapan sektörler için mevcut destek oranının artırılmasını ve ihracat gelirinin daha yüksek bölümünü Türk lirasına dönüştüren firmalara kademeli destek modeli uygulanmasını önerdi.\n\nTCMB Bankacılık Genel Müdür Yardımcısı Burhan Mert Angılı ise sektör bazında farklı destek oranları uygulanmasının kamu politikaları açısından çeşitli zorluklar içerdiğini, buna karşın katma değer ve verimliliği esas alan yeni destek modelleri üzerinde çalışmaların sürdüğünü belirtti.\n\nToplantıda ayrıca, TCMB'nin reeskont kredilerindeki güncel uygulamaları, Türk Eximbank'ın ihracatçılara yönelik alacak sigortası ve yeni teminat modelleri ile Dünya Bankası kaynaklı Yeşil İhracat Kredisi hakkında bilgi verildi. Sunumlarda, ihracatçıların finansmana erişimini kolaylaştıracak yeni uygulamalar ve yeşil dönüşüm yatırımlarına yönelik uzun vadeli kredi imkânları da değerlendirildi.\n\nProgramın sonunda ihracatçılar, finansmana erişimde karşılaştıkları sorunları ve çözüm önerilerini TCMB, Türk Eximbank ve Türk Ticaret Bankası temsilcilerine doğrudan iletme fırsatı buldu.\n\nTARIM PUSULASI HABER MERKEZİ"
-    },
-    {
-      "title": "TMO, ekmeklik buğday ihracatına yeniden izin verdi",
-      "url": "https://www.tarimpusulasi.com/haber/tmo-ekmeklik-bugday-ihracatina-yeniden-izin-verdi-47195",
-      "source": "Tarım Pusulası",
-      "date": "2026-07-29",
-      "summary": "Toprak Mahsulleri Ofisi (TMO), yurt içi üretim, stoklar ve iç tüketim ihtiyacını dikkate alarak 2025 Mart ayından bu yana kapalı olan ekmeklik buğday ve buğday kırıkları ihracatına 29 Temmuz 2026 itibarıyla yeniden izin verildiğini açıkladı. İhracat başvuruları, yurt içi arz durumu gözetilerek kontr",
-      "content": "ANKARA — Toprak Mahsulleri Ofisi (TMO), ekmeklik buğday ve buğday kırıkları ihracatına 29 Temmuz 2026 itibarıyla yeniden izin verildiğini açıkladı. Kurum, kararın yurt içi üretim, mevcut stoklar ve iç tüketim ihtiyacının değerlendirilmesi sonucunda alındığını bildirdi.\n\nTMO'nun açıklamasına göre, ekmeklik buğday ve buğday kırıkları, İhracı Kayda Bağlı Mallara İlişkin Tebliğ kapsamında yer alıyor ve bu ürünlerin ihracatı TMO'nun uygun görüşüne tabi bulunuyor. Kurum, 2025 Mart ayından bu yana kapalı olan ihracatın, arz güvenliğinin yeterli düzeyde olması nedeniyle yeniden açıldığını duyurdu.\n\nİhracat işlemleri, Orta Anadolu İhracatçı Birlikleri (OAİB) Genel Sekreterliği aracılığıyla yapılacak başvuruların TMO tarafından değerlendirilmesiyle yürütülecek. Başvuruların değerlendirilmesinde yurt içi arz durumu dikkate alınacak ve ihracat süreci kontrollü şekilde sürdürülecek.\n\nTMO, görev alanına giren ürünlerde piyasa istikrarını sağlamak, üretici ve tüketici menfaatlerini korumak, güvenilir ve dengeli bir piyasa yapısının oluşmasına katkı sunmak amacıyla çalışmalarını sürdürdüğünü belirtti. Kurum, bundan sonraki süreçte de gıda arz güvenliği, piyasa istikrarı ve üretici ile tüketici dengesini gözeten politikalarına devam edeceğini vurguladı.\n\nTARIM PUSULASI HABER MERKEZİ"
-    },
-    {
-      "title": "Ömer Fethi Gürer: Serik'te yeşil domates icradan satışta",
-      "url": "https://www.tarimpusulasi.com/haber/omer-fethi-gurer-serikte-yesil-domates-icradan-satista-47194",
-      "source": "Tarım Pusulası",
-      "date": "2026-07-29",
-      "summary": "CHP Niğde Milletvekili ve TBMM Tarım, Orman ve Köyişleri Komisyonu Üyesi Ömer Fethi Gürer, Antalya'nın Serik ilçesinde bir üreticinin henüz hasat edilmemiş domateslerinin icra sürecine konu edilmesine tepki gösterdi. Gürer, üreticilerin artan maliyetler ve borç yükü altında üretim yapmaya çalıştığın",
-      "content": "ANTALYA — CHP Niğde Milletvekili ve TBMM Tarım, Orman ve Köyişleri Komisyonu Üyesi Ömer Fethi Gürer, Antalya'nın Serik ilçesinde bir üreticinin henüz hasat edilmemiş domateslerinin icra sürecine konu edilmesine tepki gösterdi. Gürer, yaşanan olayın tarım kesiminde artan borç yükünü ve üreticilerin karşı karşıya kaldığı ekonomik sorunları ortaya koyduğunu belirtti.\n\nGürer'in açıklamasına göre, Serik'te 4,5 dekarlık serada üretim yapan bir çiftçinin şubat ayında dikimini yaptığı ve henüz hasat edilmemiş yaklaşık 36 ton domatesi için bilirkişi tespiti gerçekleştirildi. Gürer, ürünlerin olgunlaşma süreci tamamlanmadan icra işlemlerine konu edilmesini eleştirerek bunun üreticinin emeğini ve gelirini olumsuz etkileyebileceğini ifade etti.\n\nDaha önce Yozgat'ın Yerköy ilçesinde borç nedeniyle güvercinlere haciz uygulanmasını hatırlatan Gürer, benzer uygulamaların bugün tarımsal üretime kadar uzandığını savundu. Yaşanan gelişmenin üreticilerin içinde bulunduğu ekonomik tabloyu gösterdiğini belirten Gürer, çiftçilerin üretim sürecinde artan maliyetlerle mücadele ettiğini söyledi.\n\nGürer, tarım kesiminin bankalar ve finans kuruluşlarına olan borçlarının 1 trilyon 439 milyar lirayı aştığını ifade ederek, gübre, mazot, elektrik, ilaç, su ve diğer üretim girdilerindeki maliyet artışlarının üreticilerin borçlarını ödemesini zorlaştırdığını dile getirdi. Ürün fiyatlarında yaşanan dalgalanmaların da üreticilerin gelirlerini olumsuz etkilediğini kaydetti.\n\nHenüz hasat edilmemiş ürünlerin icra sürecine konu edilmesinin üreticiler açısından yeni mağduriyetler oluşturabileceğini belirten Gürer, tarımsal kredi borçlarının yeniden yapılandırılması, faiz yükünün hafifletilmesi ve üreticilere ilave destek sağlanması gerektiğini söyledi.\n\nÖmer Fethi Gürer, üreticilerin sürdürülebilir şekilde üretime devam edebilmesi için tarım kesimine yönelik destek politikalarının güçlendirilmesi çağrısında bulundu.\n\nTARIM PUSULASI HABER MERKEZİ"
     },
     {
       "title": "Tarım Kredi'de market adeta boşaltılmış! Yönetim ancak ikinci sayımda fark etti",
@@ -328,5 +328,17 @@
   "defaultBorsa": "5ED10",
   "defaultCity": "CANAKKALE",
   "note": "Fiyatlar TOBB ticaret borsasından (borsa seçilebilir). Kanola manuel (Trakya 2025).",
-  "inputsNote": "Mazot: akaryakıt bayi fiyatı, günlük (şehir seçilebilir). Gübre: manuel (yaklaşık)."
+  "inputsNote": "Mazot: akaryakıt bayi fiyatı, günlük (şehir seçilebilir). Gübre: manuel (yaklaşık).",
+  "errors": [
+    "mazot ANKARA: fetch failed",
+    "mazot ISTANBUL: fetch failed",
+    "mazot IZMIR: fetch failed",
+    "mazot KONYA: fetch failed",
+    "mazot ADANA: fetch failed",
+    "mazot BURSA: fetch failed",
+    "mazot ANTALYA: fetch failed",
+    "mazot SAMSUN: fetch failed",
+    "mazot TEKIRDAG: fetch failed",
+    "mazot CANAKKALE: fetch failed"
+  ]
 }
