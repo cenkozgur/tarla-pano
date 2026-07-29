@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-07-29T07:22:19.961Z",
+  "updatedAt": "2026-07-29T10:09:35.510Z",
   "fx": [
     {
       "code": "USD",
@@ -11,33 +11,49 @@
     {
       "code": "EUR",
       "name": "Euro",
-      "buy": 54.04,
-      "sell": 54.06,
-      "change": 0.09
+      "buy": 54.03,
+      "sell": 54.04,
+      "change": 0.06
     },
     {
       "code": "GRA",
       "name": "Gram Altın",
-      "buy": 6164.87,
-      "sell": 6165.75,
-      "change": 0.47
+      "buy": 6145.71,
+      "sell": 6146.63,
+      "change": 0.16
     },
     {
       "code": "CEYREKALTIN",
       "name": "Çeyrek Altın",
-      "buy": 9793.43,
-      "sell": 10017.56,
-      "change": 0
+      "buy": 9818.68,
+      "sell": 10043.37,
+      "change": 0.26
     },
     {
       "code": "CUMHURIYETALTINI",
       "name": "Cumhuriyet Altını",
-      "buy": 40581,
-      "sell": 41194,
-      "change": -0.98
+      "buy": 40708,
+      "sell": 41324,
+      "change": 0.32
     }
   ],
   "news": [
+    {
+      "title": "Gürer: Ayçiçeğinde üretici desteklenmeli",
+      "url": "https://www.tarimpusulasi.com/haber/gurer-ayciceginde-uretici-desteklenmeli-47201",
+      "source": "Tarım Pusulası",
+      "date": "2026-07-29",
+      "summary": "CHP Niğde Milletvekili ve TBMM Tarım, Orman ve Köyişleri Komisyonu Üyesi Ömer Fethi Gürer, TBMM Genel Kurulu'nda yaptığı konuşmada Çukurova'da ayçiçeği hasadının sürdüğünü belirterek, üreticinin gelir elde edebilmesi için gerçekçi ve zamanında desteklerin artırılması gerektiğini söyledi. Gürer, üret",
+      "content": "ANKARA — CHP Niğde Milletvekili ve TBMM Tarım, Orman ve Köyişleri Komisyonu Üyesi Ömer Fethi Gürer, TBMM Genel Kurulu'nda yaptığı konuşmada Çukurova'da kıraç arazilerde ayçiçeği hasadının devam ettiğini belirterek, üreticinin sürdürülebilir üretim yapabilmesi için zamanında ve gerçekçi destek politikalarının uygulanması gerektiğini söyledi.\n\nGürer, konuşmasında Çukobirlik'in %44 randımanlı yağlık ayçiçeği için alım fiyatını 35,5 lira olarak açıkladığını hatırlattı. Bir önceki yılın Eylül ayında açıklanan alım fiyatının ise 33 lira olduğunu ifade eden Gürer, bu sezon üretimin devam ettiğini kaydetti.\n\nTÜİK verilerine göre bu yıl ayçiçeği üretiminde geçen yıla kıyasla %16 artış beklendiğini belirten Gürer, buna rağmen ülkemizin ayçiçeği ihtiyacının yaklaşık %30'unun ithalatla karşılanmaya devam ettiğini söyledi.\n\nGürer, ayçiçeği tohumu ve ham yağ ithalatının azaltılmasının yolunun üreticinin desteklenmesinden geçtiğini ifade ederek, çiftçiye doğru, zamanında ve gerçekçi destekler verilmesi gerektiğini dile getirdi.\n\nÜreticinin emeğinin karşılığını alamadığı dönemlerde ürün desenini değiştirmek zorunda kaldığını belirten Gürer, bunun yeni ithalat kalemlerinin oluşmasına neden olduğunu savundu. Gürer'e göre üreticinin gelir elde edebildiği bir üretim modeli hem ayçiçeği üretiminin sürdürülebilirliğine hem de ithalatın azaltılmasına katkı sağlayacaktır.\n\nTARIM PUSULASI HABER MERKEZİ"
+    },
+    {
+      "title": "TEMA Vakfı gönüllüleri ve çalışanları serbest bırakıldı",
+      "url": "https://www.tarimpusulasi.com/haber/tema-vakfi-gonulluleri-ve-calisanlari-serbest-birakildi-47200",
+      "source": "Tarım Pusulası",
+      "date": "2026-07-29",
+      "summary": "TEMA Vakfı, Ankara'nın Nallıhan ilçesinde yürütülen soruşturma kapsamında tutuklanan gönüllüler ile Ankara İl Temsilciliği çalışanlarının tamamının özgürlüklerine kavuştuğunu açıkladı. Vakıf, soruşturmanın adli kontrol ve yurt dışına çıkış yasağı tedbirleriyle sürdüğünü bildirirken, hukuki sürecin t",
+      "content": "ANKARA — TEMA Vakfı, Ankara'nın Nallıhan ilçesinde yürütülen soruşturma kapsamında tutuklanan gönüllüler ile Ankara İl Temsilciliği çalışanlarının tamamının özgürlüklerine kavuştuğunu açıkladı. Vakıf, soruşturmanın adli kontrol tedbirleri ve yurt dışına çıkış yasağıyla devam ettiğini bildirdi.\n\nVakfın açıklamasına göre süreç, 3 Haziran'da Ankara'nın Nallıhan ilçesinde düzenlenen doğa gezisinin ardından başlatılan soruşturma kapsamında ilerledi. Bu kapsamda 23 Haziran'da gözaltına alınan gönüllüler ve temsilcilik çalışanlarından 13 kişi hakkında 25 Haziran'da tutuklama kararı verilirken, 14 kişi hakkında adli kontrol kapsamında konutu terk etmeme tedbiri uygulandı.\n\nAçıklamada, süreç içerisinde 3 TEMA Vakfı gönüllüsünün tahliye edildiği, yaklaşık bir aydır tutuklu bulunan diğer gönüllüler ile temsilcilik çalışanlarının ise 21 Temmuz'da adli kontrol ve yurt dışına çıkış yasağı şartıyla serbest bırakıldığı belirtildi. Konutu terk etmeme tedbiri uygulanan gönüllüler ve çalışanlar hakkındaki kısıtlamaların da 27 Temmuz'da kaldırıldığı ifade edildi.\n\nTEMA Vakfı Yönetim Kurulu Başkanı Deniz Ataç, açıklamasında gönüllüler ve çalışma arkadaşlarının yeniden ailelerine kavuşmasının memnuniyet verici olduğunu belirterek, vakfın hukuki süreç boyunca gönüllülerinin yanında olmaya devam edeceğini söyledi.\n\nAtaç ayrıca, Türkiye'nin farklı bölgelerinden gelen destek mesajlarının kendilerine güç verdiğini ifade ederek, hukuki süreç tamamen sonuçlanıncaya kadar gönüllülere gerekli desteği sağlamayı sürdüreceklerini kaydetti.\n\nVakıf açıklamasında, soruşturmanın adli kontrol tedbirleri ve yurt dışına çıkış yasağı kapsamında devam ettiği bilgisi de paylaşıldı.\n\nTARIM PUSULASI HABER MERKEZİ"
+    },
     {
       "title": "Antalya Büyükşehir Belediyesi Kaş yangınına müdahale ediyor",
       "url": "https://www.tarimpusulasi.com/haber/antalya-buyuksehir-belediyesi-kas-yanginina-mudahale-ediyor-47199",
@@ -109,22 +125,6 @@
       "date": "2026-07-28",
       "summary": "Oda TV yazarı Hürrem Elmasçı'nın aktardığı kabine kulislerinde, Tarım ve Orman Bakanlığı için konuşulan isim dikkat çekti. Kulislerde adı geçen Tarım ve Orman Bakan Yardımcısı Ahmet Bağcı'nın olası bir görev değişikliğinde, Tarım Kredi Kooperatifleri'ndeki dengelerin de değişebileceği değerlendirili",
       "content": "Tarımdan Haber Kulis / Ankara'da kabine değişikliği iddiaları yeniden siyaset kulislerinin en sıcak gündemlerinden biri haline geldi.\n\nOda TV yazarı Hürrem Elmasçı, bugünkü köşe yazısında Ankara kulislerinde üç bakanın değişeceğinin konuşulduğunu aktardı. Elmasçı'nın aktardığı kulis bilgilerine göre, Tarım ve Orman Bakanı İbrahim Yumaklı'nın yanı sıra Çalışma ve Sosyal Güvenlik Bakanı ile Gençlik ve Spor Bakanı'nın da görev değişikliği yaşayabileceği ifade ediliyor.\n\nBu köşe yazısını da okuyabilirsiniz → Bir kamu kurumu böyle mi dolandırılır? TİGEM dosyasında şok gelişme!\n\nAncak kulislerde asıl dikkat çeken nokta, Tarım ve Orman Bakanlığı için dile getirilen isim oldu.\n\nElmasçı, Tarım ve Orman Bakan Yardımcısı Ahmet Bağcı'nın bakanlık görevini çok istediğini, bu doğrultuda Ankara'da yoğun bir temas trafiği yürüttüğünün konuşulduğunu yazdı.\n\nBu kulis bilgisi, yalnızca olası bir bakan değişikliği iddiası olarak değil, son dönemde Tarım ve Orman Bakanlığı ile Tarım Kredi Kooperatifleri ekseninde yaşanan gelişmeler açısından da dikkat çekici bulunuyor.\n\nOlası bir Bakan değişimi için Ahmet Bağcı'nın ismi geçiyorsa, böyle bir değişimde Tarım Kredi Kooperatifleri Genel Müdür Yardımcısı Okan Ateş'i de birlikte düşünmemiz gerekiyor. Yani Bakanlık Ahmet Bağcı'ya teslim edilecekse Okan Ateş de Tarım Kredi'de daha etkili bir konuma gelecek demektir.\n\nBöyle bir tabloda Bakanlıktan ve Tarım Kredi'den ülke tarımı adına nasıl bir hizmet beklenir bilemiyorum.\n\nHürrem Elmasçı, \"Daha önce yazdığım kulislerin önemli bir bölümü gerçekleşti\" mesajını vererek, bu kez paylaştığı kulislerin de Ankara'da dikkatle izlenmesi gerektiğine işaret etti. Gözler şimdi Cumhurbaşkanı Erdoğan'ın olası kabine tasarruflarına çevrilmiş durumda."
-    },
-    {
-      "title": "TMO: Konyalı üretici randevu sisteminden memnun",
-      "url": "https://www.tarimpusulasi.com/haber/tmo-konyali-uretici-randevu-sisteminden-memnun-47193",
-      "source": "Tarım Pusulası",
-      "date": "2026-07-28",
-      "summary": "Toprak Mahsulleri Ofisi (TMO), \"Söz Çiftçimizde\" video serisinde Konya'nın Karapınar ilçesine bağlı Hotamış Mahallesi'nde üretim yapan çiftçi Samet Koçaker'in değerlendirmelerine yer verdi. Koçaker, randevu sistemi, analiz süreci ve ürün teslim işlemlerinin geçmiş yıllara göre daha hızlı ilerlediğin",
-      "content": "KONYA – KARAPINAR — Toprak Mahsulleri Ofisi (TMO), sosyal medya hesaplarında yayımladığı \"Söz Çiftçimizde\" video serisinde Konya'nın Karapınar ilçesine bağlı Hotamış Mahallesi'nde üretim yapan çiftçi Samet Koçaker'in değerlendirmelerine yer verdi. Koçaker, bu yıl verimlerin yağışlar ve zamanında yapılan tarımsal uygulamalar sayesinde yüksek seyrettiğini belirtirken, TMO'nun randevu sistemi ile ürün teslim süreçlerinin üreticilere önemli kolaylık sağladığını ifade etti.\n\n2010 yılından bu yana çiftçilik yaptığını belirten Koçaker, aile büyüklerinden devraldıkları tarımsal üretimi sürdürmeye çalıştıklarını söyledi.\n\nKoçaker, 2025 hasat sezonunda yağışların olumlu etkisi ve zamanında yapılan ilaçlama sayesinde verimlerin beklentilerin üzerinde gerçekleştiğini belirterek, \"Bereketli bir sezon yaşıyoruz.\" ifadelerini kullandı.\n\n\"Randevu aldığımız gün ürün teslim edebiliyoruz\"\n\nVideoda TMO'nun randevu sistemine ilişkin deneyimlerini paylaşan Koçaker, geçmişte ürün teslim süreçlerinin çok daha uzun sürdüğünü, bugün ise işlemlerin kısa sürede tamamlanabildiğini dile getirdi.\n\nKoçaker, TMO'dan randevu aldıktan sonra ürünün analiz işlemlerinin yapıldığını, sonuçların ardından ürün tesliminin gerçekleştirildiğini belirterek, süreçlerin hızlı ilerlemesinin hasat dönemindeki iş planlamasını kolaylaştırdığını söyledi.\n\nÜretici, özellikle;\n\nrandevu alınması,\n\nlaboratuvar analizleri,\n\nürün teslim işlemleri\n\naşamalarının kısa sürede tamamlanmasının üreticiler açısından önemli avantaj sağladığını ifade etti.\n\n\"Geçmişte günlerce sıra bekleniyordu\"\n\nSamet Koçaker, babasının aktardığı önceki yıllardaki uygulamalarla günümüzdeki sistemi karşılaştırarak, geçmişte üreticilerin TMO tesislerinde isim yazdırarak 10 ila 20 gün arasında sıra beklemek zorunda kaldığını anlattı.\n\nBugün ise randevu sisteminin devreye alınmasıyla birlikte ürün teslim işlemlerinin çok daha kısa sürede gerçekleştirilebildiğini belirtti.\n\nKoçaker, hasat, saman toplama, balyalama ve taşıma gibi yoğun sezon çalışmalarında zamanın büyük önem taşıdığına dikkat çekerek, işlemlerin hızlanmasının üreticilere önemli kolaylık sağladığını ifade etti.\n\n\"TMO hep yanımızdaydı\"\n\nVideonun sonunda TMO çalışanlarına teşekkür eden Koçaker, kurumun hem randevu sistemi hem de lisanslı depoculuk hizmetleriyle üreticilerin işlerini kolaylaştırdığını söyledi.\n\nKoçaker konuşmasını, \"TMO olmasaydı hiç düşünmedim. Çünkü TMO hep yanımızdaydı.\" sözleriyle tamamladı.\n\nTARIM PUSULASI HABER MERKEZİ"
-    },
-    {
-      "title": "Bakan Yumaklı: Fransa'ya iki yangın söndürme uçağı gönderildi",
-      "url": "https://www.tarimpusulasi.com/haber/bakan-yumakli-fransaya-iki-yangin-sondurme-ucagi-gonderildi-47192",
-      "source": "Tarım Pusulası",
-      "date": "2026-07-28",
-      "summary": "Tarım ve Orman Bakanı İbrahim Yumaklı, Avrupa'da devam eden orman yangınları nedeniyle Fransa'nın destek talebi üzerine iki yangın söndürme uçağının görevlendirildiğini açıkladı. Yumaklı, daha önce İspanya'ya gönderilen iki uçağın ardından Türkiye'nin uluslararası dayanışma kapsamında desteğini sürd",
-      "content": "ANKARA — Tarım ve Orman Bakanı İbrahim Yumaklı, Avrupa'da etkisini sürdüren orman yangınlarıyla mücadele kapsamında, Fransa'nın destek talebi üzerine iki yangın söndürme uçağının görevlendirildiğini açıkladı.\n\nBakan Yumaklı, daha önce İspanya'ya gönderilen iki yangın söndürme uçağının ardından Fransa'ya da aynı kapsamda destek sağlandığını belirterek, Türkiye'nin sahip olduğu hava gücü ve tecrübeyle ihtiyaç duyulan ülkelere destek vermeyi sürdürdüğünü ifade etti.\n\nYumaklı, açıklamasında şu değerlendirmelerde bulundu:\n\n\"Cumhurbaşkanımız Sayın Recep Tayyip Erdoğan'ın talimatları doğrultusunda İspanya'ya gönderdiğimiz iki yangın söndürme uçağımızın ardından, Fransa'nın da destek talebi üzerine iki yangın söndürme uçağımızı görevlendirdik.\"\n\nBakan Yumaklı, Türkiye'nin yalnızca kendi ormanlarını korumakla kalmadığını, ihtiyaç duyulduğunda farklı ülkelerde çıkan orman yangınlarıyla mücadeleye de katkı sunduğunu vurguladı.\n\nGörev için yola çıkan hava ekiplerine başarı dileğinde bulunan Yumaklı, ormanların gelecek nesillere bırakılacak en önemli doğal miraslardan biri olduğunu belirterek uluslararası dayanışmanın önemine dikkat çekti.\n\nAçıklamasında, \"Ormanlar bizlere emanet değil, gelecek nesillere bırakacağımız en kıymetli mirastır. Bu bilinçle sınırları aşan dayanışmayı ve mücadelemizi kararlılıkla sürdüreceğiz.\" ifadelerine yer verdi.\n\nTARIM PUSULASI HABER MERKEZİ"
     },
     {
       "title": "Karadeniz'de savaş buğday fiyatlarını yeniden yükseltti! Türkiye için kritik uyarı",
