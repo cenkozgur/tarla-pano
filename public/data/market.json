@@ -1,26 +1,26 @@
 {
-  "updatedAt": "2026-07-29T16:24:19.455Z",
+  "updatedAt": "2026-07-29T17:48:54.439Z",
   "fx": [
     {
       "code": "USD",
       "name": "Dolar",
-      "buy": 47.4,
-      "sell": 47.4,
-      "change": 0.04
+      "buy": 47.38,
+      "sell": 47.39,
+      "change": 0.01
     },
     {
       "code": "EUR",
       "name": "Euro",
-      "buy": 54.02,
-      "sell": 54.03,
-      "change": 0.04
+      "buy": 54.03,
+      "sell": 54.04,
+      "change": 0.06
     },
     {
       "code": "GRA",
       "name": "Gram Altın",
-      "buy": 6097.14,
-      "sell": 6098.07,
-      "change": -0.63
+      "buy": 6161.72,
+      "sell": 6162.69,
+      "change": 0.42
     },
     {
       "code": "CEYREKALTIN",
@@ -38,6 +38,14 @@
     }
   ],
   "news": [
+    {
+      "title": "Sarıbal'dan tarımda ithalat politikalarına ve maliyetlere tepki",
+      "url": "https://www.tarimpusulasi.com/haber/saribaldan-tarimda-ithalat-politikalarina-ve-maliyetlere-tepki-47206",
+      "source": "Tarım Pusulası",
+      "date": "2026-07-29",
+      "summary": "CHP Genel Başkan Yardımcısı ve Bursa Milletvekili Orhan Sarıbal, tarım ve gıda gündemine ilişkin değerlendirmelerinde artan üretim maliyetleri, ithalat politikaları, mazot giderleri, kayısı, kuru üzüm ve ayçiçeği üreticilerinin yaşadığı sorunlara dikkat çekti. Sarıbal, tarımsal üretimin sürdürülebil",
+      "content": "ANKARA — CHP Örgütlerden Sorumlu Genel Başkan Yardımcısı ve Bursa Milletvekili Orhan Sarıbal, düzenlediği basın toplantısında tarım ve gıda gündemine ilişkin değerlendirmelerde bulundu. Sarıbal, artan üretim maliyetleri ile düşük ürün fiyatları arasında kalan üreticilerin ekonomik açıdan zorlandığını belirterek, ithalat politikalarının tarımsal üretim üzerindeki etkilerine ilişkin eleştirilerini paylaştı.\n\nSarıbal, hükümetin gıda enflasyonuyla mücadelede uyguladığı yöntemlere ilişkin değerlendirmesinde, ithalatın üretici fiyatlarını baskıladığı görüşünü dile getirdi. Konuşmasında, \"İthalatı sopa olarak dayatıp fiyatları düşürerek enflasyonu indirmeye çalışan bir tutum içerisindeler. Bedelini çiftçiye ödetiyorlar.\" ifadelerini kullandı.\n\nBasın toplantısının başında Üsküdar Belediye Başkanı Sinem Dedetaş ve belediye çalışanlarının gözaltına alınmasına da değinen Sarıbal, yargı süreçlerinde masumiyet karinesinin gözetilmesi gerektiğini savundu. \"Arkadaşlarımız derhal serbest bırakılmalıdır.\" diyen Sarıbal, adil yargılanma hakkına vurgu yaptı.\n\n\"Mazotta yeni bir destekleme modeli zorunlu\"\n\nMotorin fiyatlarının birçok ilde 80 lirayı aştığını hatırlatan Sarıbal, mazot giderlerinin traktör kullanımından sulamaya, ürünlerin taşınmasından hasat sonrası lojistiğe kadar üretimin tüm aşamalarını etkilediğini söyledi. Yaklaşık 300 dönüm kuru tarım yapan bir işletmenin yılda 2 bin litre mazot tükettiğini belirten Sarıbal, yalnızca yakıt giderinin 160 bin liraya ulaştığını ifade etti.\n\nSarıbal, mevcut koşullarda yalnızca ÖTV ve KDV düzenlemelerinin yeterli olmayacağını belirterek, \"Mazotta yeni bir destekleme modeli zorunludur.\" değerlendirmesinde bulundu. Ayrıca 2026 yılı için öngörülen yaklaşık 168 milyar liralık tarımsal desteğe karşılık, çiftçilerin mazot harcamalarının 230 milyar liraya yaklaşabileceğini söyledi.\n\nTarımsal istihdama dikkat çekti\n\nSarıbal, TÜİK verilerine atıf yaparak 2002 yılında 7,5 milyon olan tarımsal istihdamın 4 milyon 560 bine gerilediğini, yaklaşık 2 milyon 940 bin kişinin sektörden ayrıldığını söyledi. Tarımın toplam istihdam içindeki payının da aynı dönemde yüzde 34,9'dan yüzde 14'e düştüğünü belirten Sarıbal, özellikle küçük aile işletmelerinin üretimden uzaklaştığını savundu.\n\nKayısı üretimindeki düşüşü değerlendirdi\n\nKayısı üretimine ilişkin değerlendirmelerde bulunan Sarıbal, 11 Nisan 2025'te yaşanan zirai donun ardından üretimde önemli kayıplar yaşandığını ifade etti. Konuşmasına göre, 2024 yılında 1 milyon 290 bin ton olan üretim, 331 bin tona geriledi. Sarıbal, üretimde yaklaşık yüzde 74'lük düşüş yaşandığını, Malatya'da ise ürün kaybının yüzde 100'e yaklaştığını söyledi.\n\nSarıbal ayrıca, \"Kayısı üreticisi perişan. Kayısıdan yüksek bir katma değer yaratılıyor ancak bu değer üreticiye yansımıyor.\" ifadelerini kullanarak Kayısıbirlik'in yeniden etkin hâle getirilmesi ve ilgili kamu kurumlarının üreticiye destek vermesi gerektiğini savundu.\n\nKuru üzüm ve ayçiçeği üreticilerine ilişkin değerlendirmeler\n\nKuru üzüm üreticilerinin yeni sezon öncesinde belirsizlik yaşadığını belirten Sarıbal, artan üretim maliyetleri nedeniyle kilogram başına en az 180 lira alım fiyatı beklendiğini ifade etti. TARİŞ ve ilgili kamu kurumlarının etkin alım politikaları uygulaması gerektiğini söyledi.\n\nAyçiçeğinde ise Çukobirlik tarafından açıklanan 2026 alım fiyatlarının üreticilerin beklentilerini karşılamadığını dile getiren Sarıbal, ithalat politikalarının yerli üreticinin pazarlık gücünü zayıflattığını savundu. Sarıbal, 2003-Mayıs 2026 döneminde ayçiçeği tohumu, küspe ve yağ ithalatına toplam 31,7 milyar dolar ödendiğini, aynı dönemde ayçiçeği yağı ihracatından 13,9 milyar dolar gelir elde edildiğini belirtti.\n\nKonuşmasının sonunda ithalatın tarımsal üretimin alternatifi olmaması gerektiğini dile getiren Sarıbal, \"Çiftçi korunmadan üretim sürdürülemez; üretim sürdürülemeden halkın gıda güvencesi sağlanamaz.\" ifadelerini kullandı.\n\nTARIM PUSULASI HABER MERKEZİ"
+    },
     {
       "title": "Barut: Çiftçi kazanırsa üretim artar",
       "url": "https://www.tarimpusulasi.com/haber/barut-ciftci-kazanirsa-uretim-artar-47205",
@@ -93,14 +101,6 @@
       "date": "2026-07-29",
       "summary": "Antalya'nın Kaş ilçesine bağlı Üzümlü Mahallesi'nde çıkan orman yangınına Antalya Büyükşehir Belediyesi İtfaiye Dairesi Başkanlığı ekipleri de müdahale ediyor. Orman Bölge Müdürlüğü başta olmak üzere ilgili kurumlarla koordinasyon içinde sürdürülen çalışmalarda yangının kontrol altına alınması hedef",
       "content": "ANTALYA — Antalya'nın Kaş ilçesine bağlı Üzümlü Mahallesi'nde çıkan orman yangınına Antalya Büyükşehir Belediyesi İtfaiye Dairesi Başkanlığı ekipleri de müdahale ediyor. Yangının kontrol altına alınması amacıyla bölgede Orman Bölge Müdürlüğü başta olmak üzere ilgili kurumların koordinasyonunda çalışmalar sürdürülüyor.\n\nSabaha karşı çıkan yangının ihbar edilmesinin ardından Antalya Büyükşehir Belediyesi itfaiye ekipleri hızla bölgeye sevk edildi. Ekipler, kara unsurlarıyla yangının yayılmasını önlemek ve alevleri kontrol altına almak için söndürme çalışmalarına destek veriyor.\n\nAntalya Büyükşehir Belediyesi'nden yapılan açıklamaya göre ekipler, yangın söndürme çalışmalarına araç, personel ve teknik ekipman desteği sağlıyor. Yangının kontrol altına alınması için ilgili kurumlarla koordineli şekilde yoğun çalışma yürütüldüğü bildirildi.\n\nAçıklamada, yangının kontrol altına alındığına ilişkin herhangi bir bilgi paylaşılmazken, ekiplerin sahadaki müdahalesinin aralıksız devam ettiği belirtildi.\n\nTARIM PUSULASI HABER MERKEZİ"
-    },
-    {
-      "title": "Orhan Sarıbal: Mevsimlik tarım işçileri destek bekliyor",
-      "url": "https://www.tarimpusulasi.com/haber/orhan-saribal-mevsimlik-tarim-iscileri-destek-bekliyor-47198",
-      "source": "Tarım Pusulası",
-      "date": "2026-07-29",
-      "summary": "CHP Genel Başkan Yardımcısı ve Bursa Milletvekili Orhan Sarıbal, mevsimlik tarım işçilerinin tarımsal üretimin sürdürülebilirliği açısından kritik rol üstlendiğini belirterek barınma, su, elektrik, sağlık, eğitim ve ücret gibi temel sorunların çözülmesi gerektiğini söyledi. Sarıbal, tarımda çalışan ",
-      "content": "ANKARA — CHP Genel Başkan Yardımcısı, Yurtiçi Örgütlenmeden Sorumlu Genel Başkan Yardımcısı ve Bursa Milletvekili Orhan Sarıbal, mevsimlik tarım işçilerinin tarımsal üretimin sürdürülebilirliğinde önemli rol üstlendiğini belirterek çalışma ve yaşam koşullarının iyileştirilmesi çağrısında bulundu.\n\nSarıbal, CHP Genel Başkanı Kemal Kılıçdaroğlu ile birlikte Ankara'nın Polatlı ilçesinde mevsimlik tarım işçilerini ziyaret ettiklerini belirterek, işçilerin barınma, temiz su, elektrik, sağlık, eğitim ve ücret gibi temel ihtiyaçlara erişimde çeşitli sorunlarla karşılaştığını ifade etti.\n\nAçıklamasında tarım sektöründeki istihdam verilerine de değinen Sarıbal, 2002 yılında yaklaşık 64 milyon olan Ülkemiz nüfusuna karşılık tarımda çalışan sayısının 7,5 milyon olduğunu, aradan geçen 23 yılda bu sayının 4,8 milyona gerilediğini söyledi. Mevsimlik tarım işçisi sayısına ilişkin kesin kayıt bulunmadığını belirten Sarıbal, bu sayının 1,4 ila 1,5 milyon arasında olduğunun tahmin edildiğini aktardı.\n\nMevsimlik tarım işçilerinin üretim sezonunda yüzlerce kilometre yol kat ederek tarımsal üretime katkı sunduğunu ifade eden Sarıbal, bu çalışanların \"geçici iş gücü\" olarak değerlendirilmemesi gerektiğini savundu. Tarımsal üretimin devamlılığı açısından işçilerin emeğinin önemli olduğunu belirten Sarıbal, çalışma ve yaşam koşullarının iyileştirilmesi gerektiğini dile getirdi.\n\nSarıbal ayrıca, mevsimlik tarım işçilerinin ulaşım, barınma ve sosyal yaşam koşullarına ilişkin düzenlemelerin mevzuatta yer aldığını ancak uygulamada çeşitli eksiklikler bulunduğunu öne sürdü. İlgili kamu kurumlarının mevcut düzenlemelerin hayata geçirilmesi konusunda daha etkin rol üstlenmesi gerektiğini ifade etti.\n\nTARIM PUSULASI HABER MERKEZİ"
     },
     {
       "title": "Tarım Kredi'de market adeta boşaltılmış! Yönetim ancak ikinci sayımda fark etti",
@@ -330,7 +330,6 @@
   "note": "Fiyatlar TOBB ticaret borsasından (borsa seçilebilir). Kanola manuel (Trakya 2025).",
   "inputsNote": "Mazot: akaryakıt bayi fiyatı, günlük (şehir seçilebilir). Gübre: manuel (yaklaşık).",
   "errors": [
-    "fx: fetch failed",
     "mazot ANKARA: fetch failed",
     "mazot ISTANBUL: fetch failed",
     "mazot IZMIR: fetch failed",
