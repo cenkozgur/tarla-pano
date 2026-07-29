@@ -1,26 +1,26 @@
 {
-  "updatedAt": "2026-07-29T18:42:29.211Z",
+  "updatedAt": "2026-07-29T20:01:58.423Z",
   "fx": [
     {
       "code": "USD",
       "name": "Dolar",
-      "buy": 47.38,
+      "buy": 47.37,
       "sell": 47.39,
-      "change": 0.02
+      "change": 0.01
     },
     {
       "code": "EUR",
       "name": "Euro",
-      "buy": 54.17,
-      "sell": 54.18,
-      "change": 0.32
+      "buy": 54.28,
+      "sell": 54.31,
+      "change": 0.54
     },
     {
       "code": "GRA",
       "name": "Gram Altın",
-      "buy": 6205.65,
-      "sell": 6206.62,
-      "change": 1.13
+      "buy": 6161.96,
+      "sell": 6162.93,
+      "change": 0.42
     },
     {
       "code": "CEYREKALTIN",
@@ -38,6 +38,22 @@
     }
   ],
   "news": [
+    {
+      "title": "Çiftçilerden TMO'ya ortak mesaj: Güvenle ürün teslim ediyoruz",
+      "url": "https://www.tarimpusulasi.com/haber/ciftcilerden-tmoya-ortak-mesaj-guvenle-urun-teslim-ediyoruz-47208",
+      "source": "Tarım Pusulası",
+      "date": "2026-07-29",
+      "summary": "Tarım ve Orman Bakanlığı'nın sosyal medya hesaplarından paylaşılan videoda, Diyarbakır, Kırıkkale, Konya, Mardin ve Şanlıurfa'da Toprak Mahsulleri Ofisi'ne ürün teslim eden üreticiler deneyimlerini anlattı. Çiftçiler, alım noktalarının artırılması, randevu sistemi ve TMO'nun ürün alım süreçlerine il",
+      "content": "ANKARA — Tarım ve Orman Bakanlığı'nın sosyal medya hesaplarında paylaşılan videoda, Diyarbakır, Kırıkkale, Konya, Mardin ve Şanlıurfa'da Toprak Mahsulleri Ofisi (TMO) alım noktalarına ürün teslim eden üreticiler, kurumun alım süreçlerine ilişkin deneyimlerini anlattı. Farklı illerden konuşan çiftçiler, TMO'nun alım uygulamaları, randevu sistemi ve alım noktalarındaki hizmetlere ilişkin değerlendirmelerini kendi ifadeleriyle paylaştı.\n\nDiyarbakır'ın Çınar ilçesinde üreticilik yapan Abbas Samircan, TMO'nun ürün teslim sürecindeki uygulamalarından memnun olduğunu belirterek, \"Getirdiğimiz gibi sondasını daldırıp numunesini alıp ona göre fiyatını değerlendiriyor. Gayet de memnunuz.\" dedi. Samircan, \"Devlet olmasa, Ofis olmasa çiftçiler perişan olur. İkinci bir yuvamız.\" ifadelerini kullandı.\n\nKırıkkale'nin Keskin ilçesinden Osman Pekgöz ise TMO ile çocukluk yıllarından bu yana bağlarının bulunduğunu belirterek, \"Bugün de aynı süreç devam ediyor ve burada kendimizi çok güvende hissediyoruz.\" dedi. Pekgöz, Toprak Mahsulleri Ofisi'nin gelecek nesillere aktarılması gereken önemli bir kurum olduğunu düşündüğünü ifade etti.\n\nKonya'nın Cihanbeyli ilçesinde üretim yapan Cihan Karakışla, geçmişte yoğunluk nedeniyle birçok üreticinin ürününü tüccara vermek zorunda kaldığını belirterek, \"Son 3-5 senedir TMO'nun alım noktalarını artırmasıyla Toprak Mahsulleri Ofisi ilk tercihimiz oluyor.\" değerlendirmesinde bulundu. Karakışla, \"Devletimize gelip sanki kendi evimize gelmiş gibi ürünümüzü teslim ediyoruz.\" sözleriyle memnuniyetini dile getirdi.\n\nMardin'in Kızıltepe ilçesinden Abdullah Günay da TMO'daki hizmet anlayışına dikkat çekerek, \"Sanki bir devlet kurumundan ziyade müşteri memnuniyetine odaklanmış bir özel şirket havasını sezdik.\" ifadelerini kullandı. Günay, kurumun uyguladığı sübvansiyon sistemi ve fiyat dengesi sayesinde üreticilerin önemli bir güvenceye sahip olduğunu düşündüğünü söyledi.\n\nŞanlıurfa'nın Ceylanpınar ilçesinden Ahmet Çakmak, \"TMO sayesinde alım yapılacağı için millet ekiyor.\" derken, Viranşehir ilçesinden Hasan Ekinci ise randevu sisteminin ürün teslim sürecini kolaylaştırdığını belirterek, \"Eskiden kuyruklar Ceylanpınar yoluna kadar çıkıyordu. Şimdi herkes kendi sırasını biliyor, ürününü döküyor, evine gidiyor.\" ifadelerini kullandı.\n\nTARIM PUSULASI HABER MERKEZİ"
+    },
+    {
+      "title": "Tekirdağ'dan ayçiçeğinde arıların verimine dikkat çeken uyarı",
+      "url": "https://www.tarimpusulasi.com/haber/tekirdagdan-ayciceginde-arilarin-verimine-dikkat-ceken-uyari-47207",
+      "source": "Tarım Pusulası",
+      "date": "2026-07-29",
+      "summary": "Tekirdağ İl Tarım ve Orman Müdürlüğü, ayçiçeğinde arıların tozlaşmadaki kritik rolüne dikkat çekti. Ziraat Mühendisi Mehmet Kızılkulak, arıların sağladığı tozlaşmanın ayçiçeğinde verimi en az yüzde 20 artırdığını belirterek, özellikle tohumluk üretiminde sistemik ilaç kullanımından kaçınılması gerek",
+      "content": "TEKİRDAĞ — Tekirdağ İl Tarım ve Orman Müdürlüğü, sosyal medya hesabından paylaştığı bilgilendirme videosunda ayçiçeği üretiminde arıların tozlaşmaya sağladığı katkıya dikkat çekti. Videoda açıklamalarda bulunan Ziraat Mühendisi Mehmet Kızılkulak, arıların ayçiçeğinde verim artışında önemli rol üstlendiğini belirterek, üreticilere özellikle tohumluk üretiminde sistemik ilaç kullanımına karşı uyarılarda bulundu.\n\nKızılkulak, ayçiçeğinin çiçeklenme döneminde dıştan içe doğru geliştiğini ve bu süreçte nektar salgıladığını belirterek, \"Arı, görüldüğü üzere bu nektarları alırken üzerine bulaşan polenleri de diğer çiçeklere bulaştırarak tozlaşmayı sağlamaktadır.\" ifadelerini kullandı.\n\nAyçiçeği balının özelliklerine de değinen Kızılkulak, arıların nektar toplarken polen taşıdığını belirterek, \"Ayçiçek balının çabuk kristalleşmesinin nedeni, içinde fazla miktarda bulunan polenler sayesindedir.\" dedi.\n\nÜreticilere sistemik ilaç uyarısı\n\nVideo açıklamasında özellikle ayçiçeği tohumluklarında kullanılan bazı bitki koruma ürünlerine dikkat çeken Kızılkulak, üreticilerin arı popülasyonunu koruyacak uygulamalara yönelmesi gerektiğini söyledi.\n\n\"Özellikle ayçiçeği tohumluklarında sistemik olan ilaçlardan kaçınalım ve arıların tozlaşmasına engel olmayalım.\" diyen Kızılkulak, arıların yalnızca bal üretimi açısından değil, tarımsal üretimin sürdürülebilirliği bakımından da önemli görev üstlendiğini vurguladı.\n\n\"Verim en az yüzde 20 artıyor\"\n\nArıların gerçekleştirdiği doğal tozlaşmanın ayçiçeği üretimine doğrudan katkı sağladığını belirten Kızılkulak, \"Arıların ayçiçeğiyle sağladığı tozlaşma sayesinde verimimiz en az yüzde 20 artmaktadır.\" ifadelerini kullandı.\n\nKonuşmasının sonunda üreticilere çağrıda bulunan Kızılkulak, \"Arıların farkına dikkat edelim, geleceğimizi karartmayalım.\" diyerek üreticilere bol ve bereketli bir üretim sezonu diledi.\n\nTARIM PUSULASI HABER MERKEZİ"
+    },
     {
       "title": "Fıstık vurgununda şok gelişme: TİGEM Genel Müdürü 'tanımıyorum' dediği firari patronla makamında 4 kez görüşmüş",
       "url": "https://www.tarimdanhaber.com/fistik-vurgununda-sok-gelisme-tigem-genel-muduru-tanimiyorum-dedigi-firari-patronla-makaminda-4-kez-gorusmus",
@@ -93,22 +109,6 @@
       "date": "2026-07-29",
       "summary": "CHP Niğde Milletvekili ve TBMM Tarım, Orman ve Köyişleri Komisyonu Üyesi Ömer Fethi Gürer, TBMM Genel Kurulu'nda yaptığı konuşmada Çukurova'da ayçiçeği hasadının sürdüğünü belirterek, üreticinin gelir elde edebilmesi için gerçekçi ve zamanında desteklerin artırılması gerektiğini söyledi. Gürer, üret",
       "content": "ANKARA — CHP Niğde Milletvekili ve TBMM Tarım, Orman ve Köyişleri Komisyonu Üyesi Ömer Fethi Gürer, TBMM Genel Kurulu'nda yaptığı konuşmada Çukurova'da kıraç arazilerde ayçiçeği hasadının devam ettiğini belirterek, üreticinin sürdürülebilir üretim yapabilmesi için zamanında ve gerçekçi destek politikalarının uygulanması gerektiğini söyledi.\n\nGürer, konuşmasında Çukobirlik'in %44 randımanlı yağlık ayçiçeği için alım fiyatını 35,5 lira olarak açıkladığını hatırlattı. Bir önceki yılın Eylül ayında açıklanan alım fiyatının ise 33 lira olduğunu ifade eden Gürer, bu sezon üretimin devam ettiğini kaydetti.\n\nTÜİK verilerine göre bu yıl ayçiçeği üretiminde geçen yıla kıyasla %16 artış beklendiğini belirten Gürer, buna rağmen ülkemizin ayçiçeği ihtiyacının yaklaşık %30'unun ithalatla karşılanmaya devam ettiğini söyledi.\n\nGürer, ayçiçeği tohumu ve ham yağ ithalatının azaltılmasının yolunun üreticinin desteklenmesinden geçtiğini ifade ederek, çiftçiye doğru, zamanında ve gerçekçi destekler verilmesi gerektiğini dile getirdi.\n\nÜreticinin emeğinin karşılığını alamadığı dönemlerde ürün desenini değiştirmek zorunda kaldığını belirten Gürer, bunun yeni ithalat kalemlerinin oluşmasına neden olduğunu savundu. Gürer'e göre üreticinin gelir elde edebildiği bir üretim modeli hem ayçiçeği üretiminin sürdürülebilirliğine hem de ithalatın azaltılmasına katkı sağlayacaktır.\n\nTARIM PUSULASI HABER MERKEZİ"
-    },
-    {
-      "title": "TEMA Vakfı gönüllüleri ve çalışanları serbest bırakıldı",
-      "url": "https://www.tarimpusulasi.com/haber/tema-vakfi-gonulluleri-ve-calisanlari-serbest-birakildi-47200",
-      "source": "Tarım Pusulası",
-      "date": "2026-07-29",
-      "summary": "TEMA Vakfı, Ankara'nın Nallıhan ilçesinde yürütülen soruşturma kapsamında tutuklanan gönüllüler ile Ankara İl Temsilciliği çalışanlarının tamamının özgürlüklerine kavuştuğunu açıkladı. Vakıf, soruşturmanın adli kontrol ve yurt dışına çıkış yasağı tedbirleriyle sürdüğünü bildirirken, hukuki sürecin t",
-      "content": "ANKARA — TEMA Vakfı, Ankara'nın Nallıhan ilçesinde yürütülen soruşturma kapsamında tutuklanan gönüllüler ile Ankara İl Temsilciliği çalışanlarının tamamının özgürlüklerine kavuştuğunu açıkladı. Vakıf, soruşturmanın adli kontrol tedbirleri ve yurt dışına çıkış yasağıyla devam ettiğini bildirdi.\n\nVakfın açıklamasına göre süreç, 3 Haziran'da Ankara'nın Nallıhan ilçesinde düzenlenen doğa gezisinin ardından başlatılan soruşturma kapsamında ilerledi. Bu kapsamda 23 Haziran'da gözaltına alınan gönüllüler ve temsilcilik çalışanlarından 13 kişi hakkında 25 Haziran'da tutuklama kararı verilirken, 14 kişi hakkında adli kontrol kapsamında konutu terk etmeme tedbiri uygulandı.\n\nAçıklamada, süreç içerisinde 3 TEMA Vakfı gönüllüsünün tahliye edildiği, yaklaşık bir aydır tutuklu bulunan diğer gönüllüler ile temsilcilik çalışanlarının ise 21 Temmuz'da adli kontrol ve yurt dışına çıkış yasağı şartıyla serbest bırakıldığı belirtildi. Konutu terk etmeme tedbiri uygulanan gönüllüler ve çalışanlar hakkındaki kısıtlamaların da 27 Temmuz'da kaldırıldığı ifade edildi.\n\nTEMA Vakfı Yönetim Kurulu Başkanı Deniz Ataç, açıklamasında gönüllüler ve çalışma arkadaşlarının yeniden ailelerine kavuşmasının memnuniyet verici olduğunu belirterek, vakfın hukuki süreç boyunca gönüllülerinin yanında olmaya devam edeceğini söyledi.\n\nAtaç ayrıca, Türkiye'nin farklı bölgelerinden gelen destek mesajlarının kendilerine güç verdiğini ifade ederek, hukuki süreç tamamen sonuçlanıncaya kadar gönüllülere gerekli desteği sağlamayı sürdüreceklerini kaydetti.\n\nVakıf açıklamasında, soruşturmanın adli kontrol tedbirleri ve yurt dışına çıkış yasağı kapsamında devam ettiği bilgisi de paylaşıldı.\n\nTARIM PUSULASI HABER MERKEZİ"
-    },
-    {
-      "title": "Antalya Büyükşehir Belediyesi Kaş yangınına müdahale ediyor",
-      "url": "https://www.tarimpusulasi.com/haber/antalya-buyuksehir-belediyesi-kas-yanginina-mudahale-ediyor-47199",
-      "source": "Tarım Pusulası",
-      "date": "2026-07-29",
-      "summary": "Antalya'nın Kaş ilçesine bağlı Üzümlü Mahallesi'nde çıkan orman yangınına Antalya Büyükşehir Belediyesi İtfaiye Dairesi Başkanlığı ekipleri de müdahale ediyor. Orman Bölge Müdürlüğü başta olmak üzere ilgili kurumlarla koordinasyon içinde sürdürülen çalışmalarda yangının kontrol altına alınması hedef",
-      "content": "ANTALYA — Antalya'nın Kaş ilçesine bağlı Üzümlü Mahallesi'nde çıkan orman yangınına Antalya Büyükşehir Belediyesi İtfaiye Dairesi Başkanlığı ekipleri de müdahale ediyor. Yangının kontrol altına alınması amacıyla bölgede Orman Bölge Müdürlüğü başta olmak üzere ilgili kurumların koordinasyonunda çalışmalar sürdürülüyor.\n\nSabaha karşı çıkan yangının ihbar edilmesinin ardından Antalya Büyükşehir Belediyesi itfaiye ekipleri hızla bölgeye sevk edildi. Ekipler, kara unsurlarıyla yangının yayılmasını önlemek ve alevleri kontrol altına almak için söndürme çalışmalarına destek veriyor.\n\nAntalya Büyükşehir Belediyesi'nden yapılan açıklamaya göre ekipler, yangın söndürme çalışmalarına araç, personel ve teknik ekipman desteği sağlıyor. Yangının kontrol altına alınması için ilgili kurumlarla koordineli şekilde yoğun çalışma yürütüldüğü bildirildi.\n\nAçıklamada, yangının kontrol altına alındığına ilişkin herhangi bir bilgi paylaşılmazken, ekiplerin sahadaki müdahalesinin aralıksız devam ettiği belirtildi.\n\nTARIM PUSULASI HABER MERKEZİ"
     },
     {
       "title": "Tarım Kredi'de market adeta boşaltılmış! Yönetim ancak ikinci sayımda fark etti",
@@ -328,5 +328,17 @@
   "defaultBorsa": "5ED10",
   "defaultCity": "CANAKKALE",
   "note": "Fiyatlar TOBB ticaret borsasından (borsa seçilebilir). Kanola manuel (Trakya 2025).",
-  "inputsNote": "Mazot: akaryakıt bayi fiyatı, günlük (şehir seçilebilir). Gübre: manuel (yaklaşık)."
+  "inputsNote": "Mazot: akaryakıt bayi fiyatı, günlük (şehir seçilebilir). Gübre: manuel (yaklaşık).",
+  "errors": [
+    "mazot ANKARA: fetch failed",
+    "mazot ISTANBUL: fetch failed",
+    "mazot IZMIR: fetch failed",
+    "mazot KONYA: fetch failed",
+    "mazot ADANA: fetch failed",
+    "mazot BURSA: fetch failed",
+    "mazot ANTALYA: fetch failed",
+    "mazot SAMSUN: fetch failed",
+    "mazot TEKIRDAG: fetch failed",
+    "mazot CANAKKALE: fetch failed"
+  ]
 }
