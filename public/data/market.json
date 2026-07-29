@@ -1,26 +1,26 @@
 {
-  "updatedAt": "2026-07-29T17:48:54.439Z",
+  "updatedAt": "2026-07-29T18:42:29.211Z",
   "fx": [
     {
       "code": "USD",
       "name": "Dolar",
       "buy": 47.38,
       "sell": 47.39,
-      "change": 0.01
+      "change": 0.02
     },
     {
       "code": "EUR",
       "name": "Euro",
-      "buy": 54.03,
-      "sell": 54.04,
-      "change": 0.06
+      "buy": 54.17,
+      "sell": 54.18,
+      "change": 0.32
     },
     {
       "code": "GRA",
       "name": "Gram Altın",
-      "buy": 6161.72,
-      "sell": 6162.69,
-      "change": 0.42
+      "buy": 6205.65,
+      "sell": 6206.62,
+      "change": 1.13
     },
     {
       "code": "CEYREKALTIN",
@@ -38,6 +38,14 @@
     }
   ],
   "news": [
+    {
+      "title": "Fıstık vurgununda şok gelişme: TİGEM Genel Müdürü 'tanımıyorum' dediği firari patronla makamında 4 kez görüşmüş",
+      "url": "https://www.tarimdanhaber.com/fistik-vurgununda-sok-gelisme-tigem-genel-muduru-tanimiyorum-dedigi-firari-patronla-makaminda-4-kez-gorusmus",
+      "source": "Tarımdan Haber",
+      "date": "2026-07-29",
+      "summary": "TİGEM'in 2023 yılında kefalet senedi karşılığında sattığı ancak bedelini tahsil edemediği 1.440 ton Antep fıstığı dosyasında dikkat çeken yeni bilgiler ortaya çıktı. Tarımdan Haber'in ulaştığı bilgilere göre, TİGEM Genel Müdürü Hasan Gezginç'in ihale öncesinde Crypto Carbon Energy firmasının sahibi ",
+      "content": "Sadettin İnan / TİGEM'in 2023 yılında ihale yoluyla sattığı ancak bedelini tahsil edemediği 1.440 ton Antep fıstığına ilişkin dosyada yeni gelişmeler yaşanıyor.\n\nCrypto Carbon Energy firmasına 2023 yılının parasal değeriyle 90 milyon lira Antep fıstığı, banka teminat mektubu yerine sigorta şirketinden alınan kefalet senedi karşılığında satılmış, daha sonra kefalet senedinin sahte olduğu ortaya çıkmıştı. TİGEM, satış bedelini tahsil edemezken, TBMM KİT Komisyonu'na verilen bilgiye göre firma sahibi Hasan Karaozan'ın yurt dışına kaçtığı bildirilmişti.\n\nDosyaya ilişkin şimdi ise dikkat çeken yeni gelişmeler ortaya çıktı.\n\nİhale öncesinde makamda 3-4 kez görüştü!\n\nTarımdan Haber'in ulaştığı bilgilere göre, TİGEM Genel Müdürü Hasan Gezginç ile Crypto Carbon Energy firmasının sahibi Hasan Karaozan, ihale sürecinden önce Genel Müdürlük makamında 3-4 kez bir araya geldi.\n\nEdinilen bilgilere göre Hasan Karaozan, Genel Müdürlük binasına geldiğinde özel kalemde bekletilmeden doğrudan Genel Müdür Hasan Gezginç'in makamına alındı ve görüşmeler gerçekleştirildi.\n\n\"Firma sahibini tanımıyorum\" demişti\n\nHasan Gezginç, Tarımdan Haber'in 2024 yılında konuyla ilgili yönelttiği sorular üzerine yaptığı açıklamada ise firma sahibini tanımadığını ifade etmişti.\n\nOrtaya çıkan yeni bilgiler, bu açıklamayla birlikte değerlendirildiğinde dosyadaki soru işaretlerini daha da artırdı.\n\nİhale yeniden tartışma konusu oldu\n\nÖzellikle banka teminat mektubu yerine kefalet senediyle satış yapılması ve daha sonra bu kefalet senedinin sahte olduğunun ortaya çıkması nedeniyle uzun süredir tartışılan ihale süreci, yeni iddialarla birlikte yeniden gündeme geldi.\n\nTİGEM'in, kamuoyunda büyük yankı uyandıran bu dosyaya ilişkin yeni iddialar hakkında açıklama yapıp yapmayacağı merak konusu olurken, ihale öncesinde yapılan görüşmelerin içeriği ve bu temasların ihale süreciyle bağlantısı konusunda da kamuoyunun aydınlatılması bekleniyor."
+    },
     {
       "title": "Sarıbal'dan tarımda ithalat politikalarına ve maliyetlere tepki",
       "url": "https://www.tarimpusulasi.com/haber/saribaldan-tarimda-ithalat-politikalarina-ve-maliyetlere-tepki-47206",
@@ -125,14 +133,6 @@
       "date": "2026-07-28",
       "summary": "Oda TV yazarı Hürrem Elmasçı'nın aktardığı kabine kulislerinde, Tarım ve Orman Bakanlığı için konuşulan isim dikkat çekti. Kulislerde adı geçen Tarım ve Orman Bakan Yardımcısı Ahmet Bağcı'nın olası bir görev değişikliğinde, Tarım Kredi Kooperatifleri'ndeki dengelerin de değişebileceği değerlendirili",
       "content": "Tarımdan Haber Kulis / Ankara'da kabine değişikliği iddiaları yeniden siyaset kulislerinin en sıcak gündemlerinden biri haline geldi.\n\nOda TV yazarı Hürrem Elmasçı, bugünkü köşe yazısında Ankara kulislerinde üç bakanın değişeceğinin konuşulduğunu aktardı. Elmasçı'nın aktardığı kulis bilgilerine göre, Tarım ve Orman Bakanı İbrahim Yumaklı'nın yanı sıra Çalışma ve Sosyal Güvenlik Bakanı ile Gençlik ve Spor Bakanı'nın da görev değişikliği yaşayabileceği ifade ediliyor.\n\nBu köşe yazısını da okuyabilirsiniz → Bir kamu kurumu böyle mi dolandırılır? TİGEM dosyasında şok gelişme!\n\nAncak kulislerde asıl dikkat çeken nokta, Tarım ve Orman Bakanlığı için dile getirilen isim oldu.\n\nElmasçı, Tarım ve Orman Bakan Yardımcısı Ahmet Bağcı'nın bakanlık görevini çok istediğini, bu doğrultuda Ankara'da yoğun bir temas trafiği yürüttüğünün konuşulduğunu yazdı.\n\nBu kulis bilgisi, yalnızca olası bir bakan değişikliği iddiası olarak değil, son dönemde Tarım ve Orman Bakanlığı ile Tarım Kredi Kooperatifleri ekseninde yaşanan gelişmeler açısından da dikkat çekici bulunuyor.\n\nOlası bir Bakan değişimi için Ahmet Bağcı'nın ismi geçiyorsa, böyle bir değişimde Tarım Kredi Kooperatifleri Genel Müdür Yardımcısı Okan Ateş'i de birlikte düşünmemiz gerekiyor. Yani Bakanlık Ahmet Bağcı'ya teslim edilecekse Okan Ateş de Tarım Kredi'de daha etkili bir konuma gelecek demektir.\n\nBöyle bir tabloda Bakanlıktan ve Tarım Kredi'den ülke tarımı adına nasıl bir hizmet beklenir bilemiyorum.\n\nHürrem Elmasçı, \"Daha önce yazdığım kulislerin önemli bir bölümü gerçekleşti\" mesajını vererek, bu kez paylaştığı kulislerin de Ankara'da dikkatle izlenmesi gerektiğine işaret etti. Gözler şimdi Cumhurbaşkanı Erdoğan'ın olası kabine tasarruflarına çevrilmiş durumda."
-    },
-    {
-      "title": "Karadeniz'de savaş buğday fiyatlarını yeniden yükseltti! Türkiye için kritik uyarı",
-      "url": "https://www.tarimdanhaber.com/karadenizde-savas-bugday-fiyatlarini-yeniden-yukseltti-turkiye-icin-kritik-uyari",
-      "source": "Tarımdan Haber",
-      "date": "2026-07-26",
-      "summary": "Kuzey Yarım Küre'de hasat döneminin başlamasıyla buğday fiyatlarının gerilemesi beklenirken, Karadeniz'de yeniden tırmanan savaş piyasaların yönünü değiştirdi. Rusya ve Ukrayna'da tahıl sevkiyatına ilişkin risklerin artmasıyla dünya buğday fiyatları yükselişe geçerken, gelişmeler Türkiye'nin buğday ",
-      "content": "Haber Merkezi / Dünya buğday piyasasında dengeler yeniden değişmeye başladı. Hasat döneminin etkisiyle fiyatlarda düşüş beklenirken, Karadeniz'de artan jeopolitik riskler ve üretime ilişkin endişeler buğday fiyatlarını yeniden yükseliş eğilimine soktu.\n\nPiyasalarda artık yalnızca dünya genelinde ne kadar buğday üretileceği değil, üretilen ürünün uluslararası pazarlara güvenli ve kesintisiz ulaştırılıp ulaştırılamayacağı da fiyatları belirleyen temel unsurlar arasında yer alıyor.\n\nKaradeniz'deki savaş fiyatları yukarı çekiyor\n\nKüresel buğday ticaretinin en büyük ihracatçıları arasında yer alan Rusya ve Ukrayna'da yaşanan gelişmeler, dünya tahıl piyasasını doğrudan etkilemeye devam ediyor.\n\nKaradeniz'deki limanlara, tahıl terminallerine ve deniz taşımacılığına yönelik saldırılar, ihracatın aksayabileceği endişesini artırıyor. Özellikle Ukrayna'nın Karadeniz limanlarındaki ihracat kapasitesinin tehdit altında olması ve Rusya'nın en önemli tahıl ihracat merkezlerinden Novorossiysk Limanı'nda gemi trafiğinin zaman zaman aksaması, piyasalarda risk algısını yükseltiyor.\n\nBu gelişmeler, dünya buğday fiyatlarına \"savaş primi\" olarak yansıyor.\n\nABD'deki kuraklık endişesi de etkili oluyor\n\nKaradeniz'deki gelişmelerin yanı sıra ABD'de üretim beklentilerindeki düşüş ve bazı üretim bölgelerinde devam eden kuraklık endişeleri de fiyatları destekleyen bir diğer unsur olarak öne çıkıyor.\n\nChicago Ticaret Borsası'nda işlem gören buğday vadeli kontratlarının son dönemde iki yılın en yüksek seviyelerine yaklaşması, küresel piyasaların arz riskini yeniden fiyatlamaya başladığını gösteriyor.\n\nYükseliş kalıcı olacak mı?\n\nUzmanlara göre fiyatların seyri büyük ölçüde Karadeniz'deki gelişmelere bağlı olacak.\n\nEğer bölgedeki saldırılar kısa sürede sona erer ve tahıl sevkiyatı yeniden normal akışına dönerse, piyasalardaki savaş kaynaklı risk primi de hızla azalabilir.\n\nAncak limanlarda, deniz taşımacılığında ve ihracat koridorlarında yaşanabilecek uzun süreli aksaklıklar, dünya piyasasında arzın gecikmesine neden olarak buğday fiyatlarını daha da yukarı taşıyabilir.\n\nTürkiye açısından neden önemli?\n\nKaradeniz havzasındaki gelişmelerden en fazla etkilenen ülkelerden biri de Türkiye.\n\nTürkiye'nin buğday ithalatında Rusya ve Ukrayna önemli tedarikçiler arasında yer alırken, bu ülkelerde yaşanacak ihracat sorunları Türkiye'nin hammadde maliyetlerini de doğrudan etkileyebiliyor.\n\nBu durum yalnızca iç piyasayı değil, Türkiye'nin güçlü olduğu un, makarna ve diğer tahıl mamulleri ihracatını da yakından ilgilendiriyor.\n\nEn büyük güvence yerli üretim\n\nDünya buğday piyasasında jeopolitik risklerin yeniden arttığı bu dönemde, gıda güvenliğinin yalnızca dış piyasaya bağlı tedarikle sağlanamayacağı bir kez daha ortaya çıktı.\n\nUzmanlar, savaşlar, iklim değişikliği, enerji maliyetleri ve lojistik sorunlarının artık buğday piyasasının ayrılmaz parçaları haline geldiğine dikkat çekiyor.\n\nÇiftçiyi üretimden uzaklaştıran her gelişme, küresel kriz dönemlerinde Türkiye'nin buğdayı daha yüksek maliyetlerle temin etme riskini artırıyor. Karadeniz'de yaşanan son gelişmeler de gıda güvenliğinin temelinin yine tarlada atıldığını bir kez daha gözler önüne seriyor."
     }
   ],
   "commoditiesByBorsa": {
@@ -328,17 +328,5 @@
   "defaultBorsa": "5ED10",
   "defaultCity": "CANAKKALE",
   "note": "Fiyatlar TOBB ticaret borsasından (borsa seçilebilir). Kanola manuel (Trakya 2025).",
-  "inputsNote": "Mazot: akaryakıt bayi fiyatı, günlük (şehir seçilebilir). Gübre: manuel (yaklaşık).",
-  "errors": [
-    "mazot ANKARA: fetch failed",
-    "mazot ISTANBUL: fetch failed",
-    "mazot IZMIR: fetch failed",
-    "mazot KONYA: fetch failed",
-    "mazot ADANA: fetch failed",
-    "mazot BURSA: fetch failed",
-    "mazot ANTALYA: fetch failed",
-    "mazot SAMSUN: fetch failed",
-    "mazot TEKIRDAG: fetch failed",
-    "mazot CANAKKALE: fetch failed"
-  ]
+  "inputsNote": "Mazot: akaryakıt bayi fiyatı, günlük (şehir seçilebilir). Gübre: manuel (yaklaşık)."
 }
