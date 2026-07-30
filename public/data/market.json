@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-07-30T21:49:19.688Z",
+  "updatedAt": "2026-07-30T22:48:31.077Z",
   "fx": [
     {
       "code": "USD",
@@ -330,6 +330,7 @@
   "note": "Fiyatlar TOBB ticaret borsasından (borsa seçilebilir). Kanola manuel (Trakya 2025).",
   "inputsNote": "Mazot: akaryakıt bayi fiyatı, günlük (şehir seçilebilir). Gübre: manuel (yaklaşık).",
   "errors": [
+    "fx: fetch failed",
     "mazot ANKARA: fetch failed",
     "mazot ISTANBUL: fetch failed",
     "mazot IZMIR: fetch failed",
