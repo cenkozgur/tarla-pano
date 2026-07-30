@@ -1,26 +1,26 @@
 {
-  "updatedAt": "2026-07-30T00:11:32.960Z",
+  "updatedAt": "2026-07-30T03:30:17.538Z",
   "fx": [
     {
       "code": "USD",
       "name": "Dolar",
-      "buy": 47.38,
-      "sell": 47.41,
-      "change": 0.02
+      "buy": 47.4,
+      "sell": 47.42,
+      "change": 0.05
     },
     {
       "code": "EUR",
       "name": "Euro",
-      "buy": 54.43,
-      "sell": 54.55,
-      "change": 0.15
+      "buy": 54.36,
+      "sell": 54.44,
+      "change": -0.01
     },
     {
       "code": "GRA",
       "name": "Gram Altın",
-      "buy": 6238.41,
-      "sell": 6239.29,
-      "change": 0.67
+      "buy": 6179.29,
+      "sell": 6180.19,
+      "change": -0.28
     },
     {
       "code": "CEYREKALTIN",
@@ -38,6 +38,30 @@
     }
   ],
   "news": [
+    {
+      "title": "Hayvancılık yatırımı yapacaklara önemli duyuru: TKDK başvuruları başladı",
+      "url": "https://www.tarimdanhaber.com/hayvancilik-yatirimi-yapacaklara-onemli-duyuru-tkdk-basvurulari-basladi",
+      "source": "Tarımdan Haber",
+      "date": "2026-07-30",
+      "summary": "Eskişehir Tarım ve Orman İl Müdürlüğü, üreticilere yönelik yaptığı duyuruda, Tarım ve Kırsal Kalkınmayı Destekleme Kurumu (TKDK) tarafından IPARD Programı kapsamında hayvancılık yatırımlarına yönelik hibe başvurularının başladığını bildirdi. Program kapsamında uygun projelere yüzde 60 ile yüzde 75 a",
+      "content": "Haber Merkezi / Eskişehir Tarım ve Orman İl Müdürlüğü, üreticilere yönelik yaptığı bilgilendirmede, Tarım ve Kırsal Kalkınmayı Destekleme Kurumu'nun (TKDK) IPARD Programı kapsamında hayvancılık yatırımlarına ilişkin hibe başvurularının başladığını duyurdu.\n\nDuyuruya göre program kapsamında tarımsal işletmelerin fiziki varlıklarına yönelik yatırımlar desteklenecek. Yapım işleri, makine-ekipman alımları, hizmet alımları ve görünürlük harcamaları için yüzde 60 ile yüzde 75 arasında hibe desteği verilecek.\n\nCanlı hayvan alımı destek kapsamında değil\n\nİl Müdürlüğü'nün paylaşımında, desteklerin yalnızca tesis kurulumu ve fiziki yatırımları kapsadığı belirtilirken, canlı hayvan alımı veya canlı hayvan kiralama giderlerinin destek kapsamı dışında olduğu özellikle vurgulandı.\n\nAyrıca yatırım harcamalarında KDV, ÖTV, gümrük vergisi ile gelir ve kurumlar vergisi gibi çeşitli vergi muafiyetlerinden de yararlanılabilecek.\n\nHangi yatırımlar desteklenecek?\n\nProgram kapsamında;\n\nSüt üretim işletmeleri,\n\nKırmızı et (besi) üretim işletmeleri,\n\nKanatlı eti üretim işletmeleri,\n\nYumurta üretim tesislerinde ise yalnızca modernizasyon veya taşıma yatırımları,\n\nhibe desteğinden yararlanabilecek.\n\nBaşvuru şartları açıklandı\n\nDestekten yararlanmak isteyen başvuru sahiplerinin;\n\n18 yaşını doldurmuş, 65 yaşını aşmamış gerçek veya tüzel kişi olması,\n\nÇKS veya Hayvan Kayıt Sistemi'ne (HKS) kayıtlı bulunması,\n\nVergi ve SGK açısından uygunluk şartlarını taşıması,\n\nMesleki yeterlilik kriterlerinden en az birini sağlaması gerekiyor.\n\nKamu tüzel kişileri ise programa başvuru yapamayacak.\n\nHibe üst limiti 750 bin avroya kadar çıkıyor\n\nIPARD Programı kapsamında uygun harcama tutarı en az 20 bin avro olarak belirlenirken, yatırım konusuna göre üst limit 125 bin avro ile 750 bin avro arasında değişiyor.\n\nBaşvurular 7 Eylül'e kadar sürecek\n\nEskişehir Tarım ve Orman İl Müdürlüğü'nün paylaştığı bilgilere göre, başvurular 28 Temmuz 2026 tarihinde alınmaya başlandı.\n\nOnline Proje Başvuru Sistemi 31 Ağustos 2026 saat 18.00'de kapanacak. Başvuru dosyalarının TKDK İl Koordinatörlükleri veya İl İrtibat Ofislerine teslim edilmesi için son tarih ise 7 Eylül 2026 saat 18.00 olarak açıklandı. Üreticiler, ayrıntılı bilgiye yatırımın uygulanacağı ildeki TKDK İl Koordinatörlükleri ve İl İrtibat Ofislerinden ulaşabilecek."
+    },
+    {
+      "title": "Aydın'da incir için sıkı tedbirler: Erken olgunlaştırıcı kullanımı yasaklandı",
+      "url": "https://www.tarimdanhaber.com/aydinda-incir-icin-siki-tedbirler-erken-olgunlastirici-kullanimi-yasaklandi",
+      "source": "Tarımdan Haber",
+      "date": "2026-07-30",
+      "summary": "Aydın Valiliği, incirde kaliteyi ve ihracat standartlarını korumak amacıyla yeni tedbirleri yürürlüğe koydu. Tebliğe göre incirde erken olgunlaşmayı teşvik eden Ethephon ve benzeri bitki gelişim düzenleyicilerinin kullanımı yasaklanırken, ilek ticaretine belge ve denetim şartı getirildi. Kurallara u",
+      "content": "Haber Merkezi / Aydın Valiliği tarafından yayımlanan tebliğle, Türkiye'nin en önemli ihracat ürünlerinden biri olan kuru incirde kaliteyi korumaya yönelik yeni uygulamalar hayata geçirildi.\n\nTebliğ kapsamında üreticilerden ilek satıcılarına, belediyelerden kolluk kuvvetlerine kadar birçok kurum ve paydaşa yeni görev ve sorumluluklar verildi.\n\nEthephon ve benzeri ürünler yasaklandı\n\nYeni düzenlemenin en dikkat çeken maddelerinden biri, incirde erken olgunlaşmayı teşvik eden kimyasallara yönelik yasak oldu.\n\nBuna göre, incirde erken olgunlaşmayı sağlamak amacıyla Ethephon ve benzeri bitki gelişim düzenleyicilerinin kullanılması yasaklandı. Ayrıca birincil üretim dışında gıda üretimi veya depoculuk faaliyeti yürüten işletmelerin Tarım ve Orman Bakanlığı'ndan kayıt belgesi alması zorunlu hale getirildi.\n\nİlek ticaretine belge zorunluluğu\n\nTebliğle birlikte ilek ticaretine de yeni kurallar getirildi.\n\nİl ve İlçe Tarım ve Orman Müdürlükleri, piyasaya sunulacak ilekleri makroskobik olarak kontrol edecek. Uygun bulunan ilekler için \"Bitki Sağlığı Kontrol Belgesi\" düzenlenecek, uygun olmayanların ise piyasaya arzına izin verilmeyecek. Ayrıca üreticilerden taahhütname alınacak ve sevk edilen ileklere ilişkin bilgiler elektronik ortamda ilgili müdürlüklere bildirilecek.\n\nBelediyeler ve kolluk kuvvetleri de görev alacak\n\nTebliğ kapsamında belediyelere de önemli sorumluluklar yüklendi.\n\nBuna göre belediyeler, ilek pazarlarının hijyen şartlarını sağlayacak, denetimlerde zabıta ekipleri görev alacak ve sağlıksız olduğu tespit edilen ileklerin toplanarak imha edilmesi için gerekli desteği sağlayacak.\n\nKolluk kuvvetleri ise yol kontrollerinde ilek taşıyan kişilerden Bitki Sağlığı Kontrol Belgesi isteyecek. Belgesi bulunmayanlar en yakın Tarım ve Orman Müdürlüğüne yönlendirilecek.\n\nKurallara uymayanlara para cezası uygulanacak\n\nTebliğde yer alan kurallara aykırı hareket edenlere çeşitli idari yaptırımlar uygulanacak.\n\nBelirlenen yasaklara uymayanlar hakkında Kabahatler Kanunu ile 5996 sayılı Veteriner Hizmetleri, Bitki Sağlığı, Gıda ve Yem Kanunu kapsamında idari para cezası uygulanacak. Kayıt yaptırmadan faaliyet gösteren işletmeler de cezai yaptırımla karşı karşıya kalacak.\n\nAmaç kaliteyi ve ihracatı korumak\n\nYeni düzenlemeyle, incirde kalite kayıplarının önlenmesi, sağlıklı ilek kullanımının yaygınlaştırılması, mikotoksin riskinin azaltılması ve Aydın incirinin ulusal ve uluslararası pazarlardaki kalite standardının korunması hedefleniyor. Tebliğin uygulanmasında kaymakamlıklar, Tarım ve Orman Müdürlükleri, belediyeler, emniyet, jandarma ve Çiftçi Malları Koruma Başkanlıkları görev alacak"
+    },
+    {
+      "title": "Karadeniz'deki savaş yem sektörünü vurdu: \"İkinci Tahıl Koridoru\" çağrısı",
+      "url": "https://www.tarimdanhaber.com/karadenizdeki-savas-yem-sektorunu-vurdu-ikinci-tahil-koridoru-cagrisi",
+      "source": "Tarımdan Haber",
+      "date": "2026-07-30",
+      "summary": "Türkiye'de buğday ve arpada rekor üretim beklenmesine rağmen Karadeniz'de tırmanan savaş, yem sektöründe ham madde maliyetlerini yeniden yükseltti. TÜRKİYEM-BİR Başkanı M. Ülkü Karakuş, son üç haftada kepek ve mısır başta olmak üzere yem ham maddelerinde sert fiyat artışları yaşandığını belirterek, ",
+      "content": "Haber Merkezi / Türkiye Yem Sanayicileri Birliği (TÜRKİYEM-BİR) Başkanı M. Ülkü Karakuş, Bloomberg HT'de katıldığı canlı yayında yem sektörünü yakından ilgilendiren önemli değerlendirmelerde bulundu.\n\nTürkiye'de bu yıl hububat üretiminde tarihi bir rekor beklendiğini belirten Karakuş, buna rağmen Karadeniz'de tırmanan savaş nedeniyle yem ham maddesi fiyatlarının yeniden yükselişe geçtiğini söyledi.\n\nRekor üretime rağmen piyasada endişe büyüyor\n\nKarakuş, Güneydoğu ve Güney bölgelerinde hasadın tamamlandığını, İç Anadolu'da ise hasadın büyük ölçüde sona yaklaştığını belirterek, bu yıl buğday üretiminin 24 milyon tonu, arpa üretiminin ise 10 milyon tonu aşmasının beklendiğini ifade etti.\n\nToplam hububat üretiminin geçen yılki 34 milyon ton seviyesinden yaklaşık 43 milyon tona ulaşacağını dile getiren Karakuş, asıl sorunun üretim değil, ürünün piyasaya sağlıklı şekilde aktarılması olduğunu söyledi.\n\nYüksek faiz özel sektörün alım gücünü düşürdü\n\nYüksek finansman maliyetleri nedeniyle özel sektörün yeterli stok yapamadığını belirten Karakuş, bu nedenle Toprak Mahsulleri Ofisi'nin (TMO) beklenenden daha fazla ürün almak zorunda kalacağını ifade etti.\n\nKarakuş, TMO'nun planlanan 10 milyon tonluk alımın 3-4 milyon ton üzerine çıkabileceğini, bunun da kurumun finansman yükünü önemli ölçüde artıracağını kaydetti.\n\n\"Meslek hayatımda bu kadar hızlı fiyat artışı görmedim\"\n\nKaradeniz'de savaşın yeniden şiddetlenmesiyle birlikte lojistik zincirinin ciddi şekilde etkilendiğini belirten Karakuş, yem ham maddesi fiyatlarında çok kısa sürede sert artışlar yaşandığını söyledi.\n\nKarakuş, \"Meslek hayatımda bu kadar kısa sürede böylesine hızlı bir fiyat artışına şahit olmadım. Odesa, İzmail, Rostov ve Azak başta olmak üzere Karadeniz'deki kritik limanlarda gemi trafiği büyük ölçüde durdu. Birkaç hafta önce 160-170 dolar seviyesinde bulunan kepek fiyatı 250 doların üzerine çıktı. Mısırda ton başına 30 dolar, diğer ürünlerde ise yaklaşık 40 dolarlık artış yaşandı.\" dedi.\n\nYem sektöründe kullanılan yan ürünlerin fiyatlarının da iki hafta içerisinde 7-8 bin lira seviyesinden 12 bin liraya kadar yükseldiğini belirten Karakuş, piyasadaki belirsizliğin sürdüğünü ifade etti.\n\n\"İkinci Tahıl Koridoru\" çağrısı\n\nKaradeniz'de yaşanan güvenlik sorunlarının yalnızca Türkiye'yi değil küresel gıda ticaretini de tehdit ettiğini belirten Karakuş, Türkiye'nin diplomatik girişim başlatması gerektiğini söyledi.\n\nCumhurbaşkanlığı başta olmak üzere ilgili bakanlıkların devreye girmesi çağrısında bulunan Karakuş, Karadeniz'de bekleyen gemilerin güvenli şekilde hareket edebilmesi için \"İkinci Tahıl Koridoru\" oluşturulmasının önemine dikkat çekti.\n\nKanatlı sektörü daha fazla etkileniyor\n\nYem maliyetlerindeki artışın en fazla tavukçuluk ve yumurta sektörünü etkilediğini belirten Karakuş, hayvancılıkta yem giderlerinin toplam maliyetlerin yüzde 45 ila 75'ini oluşturduğunu, kanatlı sektöründe ise bu oranın daha da yüksek seviyelere ulaştığını ifade etti.\n\nİhracattaki kısıtlamaların da sektör üzerindeki baskıyı artırdığını belirten Karakuş, un, makarna, tavuk eti ve yumurta ihracatının önündeki engellerin kaldırılmasının yem sektörüne de olumlu katkı sağlayacağını dile getirdi.\n\nİthalat faturası 6,5 milyar doları aşabilir\n\nTürkiye'nin yılda yaklaşık 30 milyon ton karma yem ürettiğini belirten Karakuş, yem ham maddesinin yaklaşık yarısının ithalatla karşılandığını söyledi.\n\nGeçen yıl yem ham maddesi ithalatı için yaklaşık 5 milyar dolar ödendiğini hatırlatan Karakuş, Karadeniz'deki krizin devam etmesi halinde bu yıl ithalat faturasının 6,5 milyar doların üzerine çıkabileceği uyarısında bulundu."
+    },
     {
       "title": "Selçuk Üniversitesi tarım arazileri ve çiftliklerini tek merkezden yönetecek",
       "url": "https://www.tarimdanhaber.com/selcuk-universitesi-tarim-arazileri-ve-ciftliklerini-tek-merkezden-yonetecek",
@@ -109,30 +133,6 @@
       "date": "2026-07-29",
       "summary": "Ulusoy Un, Kırıkkale'nin Delice ilçesinde ikinci yılına ulaşan sözleşmeli üretim modeli kapsamında yürüttüğü iyi tarım ve onarıcı tarım uygulamalarının ilk hasadını gerçekleştirdi. Şirket, proje kapsamında toprağın korunması, üretimin izlenebilir hâle getirilmesi ve çiftçilere teknik destek sağlanma",
       "content": "KIRIKKALE — Ulusoy Un, Kırıkkale'nin Delice ilçesinde yürüttüğü iyi tarım ve onarıcı tarım uygulamalarının ilk hasadını gerçekleştirdi. Şirket, ikinci yılına ulaşan sözleşmeli üretim modeli kapsamında yürütülen projeyle toprağın korunması, tarımsal verimliliğin artırılması, üretimin izlenebilir hâle getirilmesi ve üreticilerin teknik olarak desteklenmesi yönünde önemli bir aşama kaydedildiğini açıkladı.\n\nŞirketten yapılan açıklamaya göre, üç fazdan oluşan projenin ilk aşaması 70 üreticinin katılımıyla 10 bin dekar alanda tamamlandı. Delice'de düzenlenen Hasat Şenliği ile ilk hasat gerçekleştirilirken, proje koordinasyonu Ulusoy Un Üretim Tesisleri Hammadde Temin Müdürü Mehmet Ekici tarafından yürütüldü. Saha uygulamaları ve üretici danışmanlığı süreçlerinde ise İyi Tarım ve Onarıcı Tarım Projeleri Danışmanı Veli Öz görev aldı.\n\nAçıklamada, sözleşmeli üretim projesine katılan 70 üreticiden 11'iyle, bu sezon 1.250 dekar alanda ilk kez İyi Tarım Uygulamaları Projesi'nin de uygulandığı belirtildi. Bu kapsamda 1.247 ton buğday hasat edildiği ve elde edilen ürünün bir bölümünün Söke Unlu Mamuller tesislerinde kurabiye ve tortilla üretiminde, diğer bölümünün ise çocuklara yönelik temiz içerikli Childgen oyun hamurlarının üretiminde değerlendirileceği bildirildi.\n\nUlusoy Un Yönetim Kurulu Başkanı Dr. Eren Günhan Ulusoy, Hasat Şenliği'nde yaptığı konuşmada sürdürülebilir tarımı yalnızca bir üretim modeli olarak değil, ülkemizin tarımsal geleceği açısından stratejik bir sorumluluk olarak gördüklerini ifade etti. Ulusoy, onarıcı tarımın gıda arzı ve sürdürülebilir tedarik zincirleri açısından da önemli olduğunu belirtti.\n\nAçıklamaya göre, \"Tarladan Çatala Sağlıklı ve Sürdürülebilir Tarım Uygulamaları Projesi\", T.C. Ticaret Bakanlığının Responsible® Programı kapsamında destekleniyor. Projede üretim süreci; toprak analizleri, teknik danışmanlık, uydu destekli tarla takip sistemleri ve meteorolojik gözlem istasyonlarıyla ekimden hasada kadar izleniyor. Şirket, ikinci ve üçüncü fazlarda hem üretici sayısını hem de uygulama alanını artırmayı hedeflediğini bildirdi.\n\nTARIM PUSULASI HABER MERKEZİ"
-    },
-    {
-      "title": "Tarım Reformu GM'den tarım sigortalarında uluslararası buluşma",
-      "url": "https://www.tarimpusulasi.com/haber/tarim-reformu-gmden-tarim-sigortalarinda-uluslararasi-bulusma-47202",
-      "source": "Tarım Pusulası",
-      "date": "2026-07-29",
-      "summary": "Tarım ve Orman Bakanlığı Tarım Reformu Genel Müdürlüğü, Arnavutluk ve Suriye'den gelen heyetlerle doğal afet yönetimi ve devlet destekli tarım sigortaları alanında bilgi paylaşımı ve eğitim programları gerçekleştirdi. Programlarda TARSİM modeli, Doğal Afet Takip Sistemi (DATS) ve tarımsal risk yönet",
-      "content": "ANKARA — Tarım ve Orman Bakanlığı Tarım Reformu Genel Müdürlüğü, Arnavutluk ve Suriye'den gelen heyetlerle doğal afet yönetimi, tarım sigortaları ve tarımsal risk yönetimi alanlarında bilgi paylaşımı ve eğitim programları gerçekleştirdi. Programlarda, ülkemizde uygulanan Devlet Destekli Tarım Sigortaları Sistemi (TARSİM) ile Doğal Afet Takip Sistemi (DATS) hakkında kapsamlı sunumlar yapıldı.\n\nGenel Müdürlükten yapılan açıklamaya göre, Arnavutluk ile ülkemiz arasında ikili ilişkilerin geliştirilmesi amacıyla imzalanan İyi Niyet Beyanı ve Yol Haritası kapsamında, Arnavutluk Tarım ve Kırsal Kalkınma Bakanlığı Heyeti, 20-22 Temmuz 2026 tarihlerinde ülkemizi ziyaret etti.\n\nZiyaret kapsamında, Bakan Yardımcısı Dr. Ahmet Bağcı başkanlığındaki Tarım Reformu Genel Müdürlüğü heyeti, TARSİM uzmanları ve Arnavutluk heyeti İstanbul'da bir araya geldi. Programda, Doğal Afet Takip Sistemi (DATS) ile Devlet Destekli Tarım Sigortaları Sistemi'nin işleyişi, uygulama esasları ve afet yönetimine katkıları hakkında heyete bilgi verildi.\n\nAçıklamaya göre, 21-23 Temmuz 2026 tarihlerinde ise Suriye Heyeti için Tarım Reformu Genel Müdürlüğünde eğitim programı düzenlendi. Eğitimlerde tarımsal riskler, risk yönetimi araçları, sigortanın tarımsal üretimdeki rolü, küresel iklim değişikliğinin üretime etkileri, tarım sigortalarının yasal altyapısı, TARSİM'in kurumsal yapısı, sistemin gelişim süreci ve sigorta branşları ele alındı.\n\nGenel Müdürlük, gerçekleştirilen görüşmelerde ülkemizin doğal afet yönetimi ve tarım sigortaları alanındaki deneyimlerinin paylaşıldığını, ülkeler arasında teknik iş birliği ile bilgi ve tecrübe paylaşımının geliştirilmesine yönelik değerlendirmelerde bulunulduğunu bildirdi.\n\nTARIM PUSULASI HABER MERKEZİ"
-    },
-    {
-      "title": "Tarım Kredi'de market adeta boşaltılmış! Yönetim ancak ikinci sayımda fark etti",
-      "url": "https://www.tarimdanhaber.com/tarim-kredide-market-adeta-bosaltilmis-yonetim-ancak-ikinci-sayimda-fark-etti",
-      "source": "Tarımdan Haber",
-      "date": "2026-07-28",
-      "summary": "Tarımdan Haber'in gündeme getirdiği Tarım Kredi Market dosyasında dikkat çeken yeni ayrıntılar ortaya çıktı. İzmir Çiğli'deki markette kayıtlardan silinemeyen 3 milyon liralık ürün kaybının, mağaza müdürünün izinli olduğu dönemde yaşandığı belirlendi. İncelemelerde sayımlardaki açıkların farklı mark",
-      "content": "Tarımdan Haber Özel / Tarımdan Haber'in gündeme taşıdığı Tarım Kredi Market'teki usulsüzlük dosyasında yeni ayrıntılar ortaya çıktı.\n\nİzmir Çiğli'de bulunan Tarım Kredi Market'te yaklaşık 3 milyon liralık ürün kaybıyla ilgili yürütülen incelemelerde, olayın ilk değerlendirmelerden farklı bir boyutu olduğu belirlendi.\n\nMağaza müdürü olay döneminde izinliydi\n\nEdinilen bilgilere göre, ürün kayıplarının yaşandığı dönemde mağaza müdürü izinli bulunuyordu.\n\nYapılan incelemelerde, market sayımlarında depolarda oluşan ürün eksikliklerinin farklı Tarım Kredi Market şubelerinden yapılan ürün transferleriyle kapatıldığı tespit edildi. Ancak daha sonra gerçekleştirilen ikinci sayımda yaklaşık 3 milyon liralık ürünün market kayıtlarında bulunmadığı ortaya çıktı.\n\nBölge müdürü gözaltına alındı\n\nYaşanan gelişmeler üzerine bölge müdürü gözaltına alındı. Gözaltı işlemlerinin ardından serbest bırakılan bölge müdürünün yanı sıra, söz konusu markette görev yapan tüm çalışanların iş akitleri de feshedildi.\n\nÇalışma Bakanlığı ceza kesti\n\nDosyada dikkat çeken bir başka gelişme ise çalışma koşullarıyla ilgili yaşandı. Mağaza müdürü, iş sağlığı ve güvenliği kurallarına aykırı koşullarda çalıştırıldığı gerekçesiyle Çalışma ve Sosyal Güvenlik Bakanlığı'na başvuruda bulundu.\n\nBakanlık müfettişlerinin markette yaptığı incelemelerde iş sağlığı ve güvenliği mevzuatına aykırılıklar tespit edilirken, bu nedenle Tarım Kredi Marketlere idari para cezası uygulandı.\n\nTarım Kredi sessizliğini koruyor\n\nYaklaşık 3 milyon liralık ürün kaybının ortaya çıkmasına, gözaltı süreci yaşanmasına ve market çalışanlarının iş akitlerinin feshedilmesine rağmen Tarım Kredi Marketler'in konuya ilişkin kamuoyuna herhangi bir açıklama yapmaması dikkat çekiyor.\n\nÇiftçi ortakların kaynakları ile faaliyet gösteren Tarım Kredi Marketler'de, olayın boyutu ve ortaya çıkan zarar konusunda yaşanan sessizlik, çiftçi kuruluşunda denetim zaafiyetinin hangi boyutlara geldiğini gözler önüne serdi."
-    },
-    {
-      "title": "TMO'dan önemli karar! Ekmeklik buğday ihracatı yeniden serbest bırakıldı",
-      "url": "https://www.tarimdanhaber.com/tmodan-onemli-karar-ekmeklik-bugday-ihracati-yeniden-serbest-birakildi",
-      "source": "Tarımdan Haber",
-      "date": "2026-07-28",
-      "summary": "Toprak Mahsulleri Ofisi (TMO), 2025 yılı Mart ayından bu yana kapalı olan ekmeklik buğday ve buğday kırıkları ihracatına yeniden izin verildiğini açıkladı. Kararın, yurt içi üretim, mevcut stoklar ve iç tüketim ihtiyacının değerlendirilmesi sonucunda alındığı bildirildi.",
-      "content": "Haber Merkezi / TMO, ekmeklik buğday ve buğday kırıkları ihracatına ilişkin yeni bir karar aldı. Kurumdan yapılan açıklamada, 2025 yılı Mart ayından bu yana uygulanmakta olan ihracat kısıtlamasının kaldırıldığı ve 29 Temmuz 2026 tarihi itibarıyla ihracata yeniden izin verildiği duyuruldu.\n\nArz güvenliği gerekçesiyle izin verildi\n\nTMO açıklamasında, kararın yurt içi üretim, mevcut stoklar ve iç tüketim ihtiyacının birlikte değerlendirilmesi sonucunda alındığı belirtildi.\n\nAçıklamada, \"Yurt içi üretim, mevcut stoklar ve iç tüketim ihtiyacı dikkate alınarak, arz güvenliğinin yeterli düzeyde olması nedeniyle 2025 Mart ayından bu yana kapalı olan ekmeklik buğday ve buğday kırıkları ihracatına 29 Temmuz 2026 tarihi itibarıyla yeniden izin verilmesi kararlaştırılmıştır.\" denildi.\n\nBaşvurular OAİB üzerinden yapılacak\n\nTMO, ihracat işlemlerinin Orta Anadolu İhracatçı Birlikleri (OAİB) Genel Sekreterliği aracılığıyla yapılacak başvurular üzerinden yürütüleceğini bildirdi.\n\nBaşvuruların, TMO tarafından yurt içi arz durumu dikkate alınarak değerlendirileceği, ihracatın ise kontrollü ve dengeli şekilde gerçekleştirileceği ifade edildi.\n\nTMO: Piyasa istikrarı korunacak\n\nAçıklamanın sonunda TMO, bundan sonraki süreçte de üretici ve tüketici menfaatlerini gözeten, piyasa istikrarını destekleyen ve gıda arz güvenliğini esas alan politikalarını sürdüreceğini vurguladı."
     }
   ],
   "commoditiesByBorsa": {
@@ -330,6 +330,15 @@
   "note": "Fiyatlar TOBB ticaret borsasından (borsa seçilebilir). Kanola manuel (Trakya 2025).",
   "inputsNote": "Mazot: akaryakıt bayi fiyatı, günlük (şehir seçilebilir). Gübre: manuel (yaklaşık).",
   "errors": [
-    "fx: fetch failed"
+    "mazot ANKARA: fetch failed",
+    "mazot ISTANBUL: fetch failed",
+    "mazot IZMIR: fetch failed",
+    "mazot KONYA: fetch failed",
+    "mazot ADANA: fetch failed",
+    "mazot BURSA: fetch failed",
+    "mazot ANTALYA: fetch failed",
+    "mazot SAMSUN: fetch failed",
+    "mazot TEKIRDAG: fetch failed",
+    "mazot CANAKKALE: fetch failed"
   ]
 }
