@@ -1,43 +1,51 @@
 {
-  "updatedAt": "2026-07-31T07:36:02.518Z",
+  "updatedAt": "2026-07-31T10:17:49.912Z",
   "fx": [
     {
       "code": "USD",
       "name": "Dolar",
-      "buy": 474973,
-      "sell": 475276,
-      "change": 18
+      "buy": 47.52,
+      "sell": 47.53,
+      "change": 0.2
     },
     {
       "code": "EUR",
       "name": "Euro",
-      "buy": 547028,
-      "sell": 547413,
-      "change": -11
+      "buy": 54.72,
+      "sell": 54.73,
+      "change": -0.11
     },
     {
       "code": "GRA",
       "name": "Gram Altın",
-      "buy": 623262,
-      "sell": 623359,
-      "change": -38
+      "buy": 6196.7,
+      "sell": 6197.55,
+      "change": -0.96
     },
     {
       "code": "CEYREKALTIN",
       "name": "Çeyrek Altın",
-      "buy": 989229,
-      "sell": 1012073,
-      "change": 0
+      "buy": 9836.68,
+      "sell": 10063.88,
+      "change": -0.56
     },
     {
       "code": "CUMHURIYETALTINI",
       "name": "Cumhuriyet Altını",
-      "buy": 41042,
-      "sell": 41662,
-      "change": 151
+      "buy": 40792,
+      "sell": 41412,
+      "change": -0.6
     }
   ],
   "news": [
+    {
+      "title": "Orman yangınları nasıl önlenir? İYİ Parti'den dikkat çeken 17 maddelik eylem planı",
+      "url": "https://www.tarimdanhaber.com/orman-yanginlari-nasil-onlenir-iyi-partiden-dikkat-ceken-17-maddelik-eylem-plani",
+      "source": "Tarımdan Haber",
+      "date": "2026-07-31",
+      "summary": "İYİ Parti Tarım Politikaları Başkanı Kadir Ulusoy, Türkiye'de orman yangınlarının büyük bölümünün insan kaynaklı olduğunu belirterek, yangınlarla mücadelede mevcut uygulamaların gözden geçirilmesi gerektiğini söyledi. Ulusoy, elektrik hatlarından orman köylüsünün sürece dahil edilmesine, hava gücünü",
+      "content": "Haber Merkezi / İYİ Parti Tarım Politikaları Başkanı Kadir Ulusoy, son dönemde artan orman yangınlarına ilişkin basın toplantısı düzenleyerek, yangınların önlenmesi ve mücadele kapasitesinin artırılması için alınması gereken tedbirleri sıraladı.\n\nUlusoy, Türkiye'deki orman yangınlarının yaklaşık yüzde 70'inin doğrudan insan kaynaklı nedenlerle çıktığını, nedeni belirlenemeyen yaklaşık yüzde 29'luk kısmın da büyük ölçüde insan faaliyetleriyle bağlantılı olduğunun değerlendirildiğini ifade etti. Doğal nedenlerle çıkan yangınların ise yaklaşık yüzde 1 seviyesinde kaldığını belirten Ulusoy, \"Bu tablo, orman yangınlarının önlenmesinde insan faktörünün ne kadar belirleyici olduğunu ortaya koyuyor.\" dedi.\n\nRiskli bölgeler önceden belirlenmeli\n\nYangınlara hızlı müdahale edilebilmesi için riskli bölgelerin önceden belirlenmesi gerektiğini kaydeden Ulusoy, bu alanlarda yeterli ekip, ekipman ve müdahale kapasitesinin oluşturulmasının önemine dikkat çekti.\n\nElektrik dağıtım şirketlerine bakım çağrısı\n\nElektrik dağıtım şirketlerinin sorumluluklarını eksiksiz yerine getirmesi gerektiğini belirten Ulusoy, enerji nakil hatlarının altındaki yanıcı materyallerin düzenli temizlenmesi, dağıtım hatları ile trafoların periyodik bakımlarının aksatılmaması gerektiğini ifade etti.\n\nOrman köylüsü yangınla mücadeleye dahil edilmeli\n\nOrman yangınlarıyla mücadelede bölgeyi tanıyan orman köylülerinin daha aktif görev almasının önemine işaret eden Ulusoy, yangın riski yüksek dönemlerde geçici orman işçisi istihdam edilmesini, orman köylerinde yangın eğitimleri verilmesini ve gerekli ekipmanların sağlanmasını önerdi.\n\nHava gücü ve eğitim güçlendirilmeli\n\nYangın sezonu dışında personelin sürekli eğitime tabi tutulması gerektiğini belirten Ulusoy, hava gücünün artırılması, yangın ekiplerinin deneyimli yöneticiler tarafından yönetilmesi ve ilk müdahale araçlarının asli görevleri dışında kullanılmaması gerektiğini vurguladı.\n\nKontrollü otlatma önerisi\n\nUlusoy, kontrollü otlatmanın orman altındaki yanıcı örtünün azaltılmasına katkı sağlayabileceğini belirterek, mevzuatta yer almasına rağmen uygulamada yeterince kullanılmayan bu yöntemin teşvik edilmesini istedi.\n\nKadir Ulusoy'un öne çıkan önerileri\n\nYangına hassas bölgeler önceden belirlenerek ekip ve ekipman güçlendirilmeli.\n\nElektrik dağıtım şirketleri enerji hatları ve trafoların bakımını düzenli yapmalı.\n\nSilvikültürel bakım çalışmaları aksatılmamalı.\n\nOrman köylüleri yangınla mücadele sürecine aktif şekilde dahil edilmeli.\n\nYangın riski yüksek dönemlerde geçici orman işçileri istihdam edilmeli.\n\nOrman köylerinde yangın eğitimleri yaygınlaştırılmalı.\n\nHava gücü ve ilk müdahale kapasitesi artırılmalı.\n\nYangın ekipleri yıl boyunca teknik ve fiziksel eğitimlerden geçirilmeli.\n\nGönüllü ekipler tecrübelerine göre sahada veya lojistik destek hizmetlerinde görevlendirilmeli.\n\nYangın göletlerinin sayısı artırılmalı.\n\nOrman giriş yasaklarının denetimi etkin şekilde yapılmalı.\n\nKontrollü otlatma uygulamaları teşvik edilmeli."
+    },
     {
       "title": "Eskişehirli çiftçinin ürünü laboratuvarda değer kazanıyor! Bir yılda 365 bin analiz yapıldı",
       "url": "https://www.tarimdanhaber.com/eskisehirli-ciftcinin-urunu-laboratuvarda-deger-kazaniyor-bir-yilda-365-bin-analiz-yapildi",
@@ -125,14 +133,6 @@
       "date": "2026-07-30",
       "summary": "Manisa Büyükşehir Belediyesi, Yunusemre ilçesindeki Muslih, Örencik ve Pelitalan mahallelerinde hayvancılıkla uğraşan 94 üreticiye toplam 1.058 adet antiparaziter preparat dağıttı. Destekle büyükbaş ve küçükbaş hayvanların dış parazitlerden korunması, hayvan sağlığının güçlendirilmesi ve Kırım Kongo",
       "content": "MANİSA — Manisa Büyükşehir Belediyesi, kırsalda hayvancılığın sürdürülebilirliğini desteklemek ve Kırım Kongo Kanamalı Ateşi (KKKA) riskine karşı alınan önlemleri güçlendirmek amacıyla Yunusemre ilçesine bağlı Muslih, Örencik ve Pelitalan mahallelerinde 94 üreticiye toplam 1.058 adet antiparaziter preparat dağıttı.\n\nBelediyeden yapılan açıklamaya göre, Kırsal Hizmetler Dairesi Başkanlığı tarafından yürütülen Büyükbaş ve Küçükbaş Hayvanların Dış Parazitler Yönünden Korunması Projesi kapsamında gerçekleştirilen destekle büyükbaş ve küçükbaş hayvanların dış parazitlerden korunması, hayvan sağlığının güçlendirilmesi ve KKKA riskinin azaltılması hedefleniyor.\n\nDestek programı kapsamında Pelitalan Mahallesi'nde 72, Örencik Mahallesi'nde 16, Muslih Mahallesi'nde ise 6 üreticiye antiparaziter preparat teslim edildi. Üreticilere toplam 861 adet 100 mililitrelik ve 197 adet 500 mililitrelik olmak üzere 1.058 adet preparat ulaştırıldı.\n\nManisa Büyükşehir Belediyesi Kırsal Hizmetler Dairesi Başkanlığı Ziraat Mühendisi İsmail Kilimci, uygulamanın geçen yıl başlatıldığını ve üreticiler ile İl Tarım ve Orman Müdürlüğü'nden gelen talepler doğrultusunda bu yıl da sürdürüldüğünü belirterek, \"Kene kaynaklı Kırım Kongo Kanamalı Ateşi vakalarının görüldüğü Pelitalan, Muslih ve Örencik mahallelerinde yürüttüğümüz proje kapsamında üreticilerimize kene ve diğer dış parazitlere karşı kullanılabilecek antiparaziter preparatlar ulaştırıyoruz.\" dedi.\n\nKilimci, \"Amacımız hem hayvan sağlığını korumak hem de dış parazitlerin insan sağlığı üzerindeki olumsuz etkilerini en aza indirmek.\" ifadelerini kullandı.\n\nMuslih Mahalle Muhtarı Ramazan Dilek, proje sayesinde üreticilerin daha önce temin etmekte zorlandıkları ilaçlara ulaşabildiğini belirtirken, Örencik Mahalle Muhtarı Şinasi Bayrak da desteğin hayvancılıkla uğraşan üreticiler açısından önemli bir katkı sağladığını ifade etti.\n\nPelitalan Mahallesi üreticilerinden İsmail Uğurlu ise kırsalda kene, pire ve bit gibi dış parazitlerin önemli bir sorun olduğunu belirterek, dağıtılan preparatların hem hayvan sağlığının korunmasına hem de üreticilerin maliyetlerinin azaltılmasına katkı sunduğunu söyledi.\n\nBelediyeden yapılan açıklamada, kırsal kalkınmayı desteklemeye ve hayvan sağlığını korumaya yönelik çalışmaların il genelinde sürdürüleceği belirtildi.\n\nTARIM PUSULASI HABER MERKEZİ"
-    },
-    {
-      "title": "Hayvancılık yatırımı yapacaklara önemli duyuru: TKDK başvuruları başladı",
-      "url": "https://www.tarimdanhaber.com/hayvancilik-yatirimi-yapacaklara-onemli-duyuru-tkdk-basvurulari-basladi",
-      "source": "Tarımdan Haber",
-      "date": "2026-07-30",
-      "summary": "Eskişehir Tarım ve Orman İl Müdürlüğü, üreticilere yönelik yaptığı duyuruda, Tarım ve Kırsal Kalkınmayı Destekleme Kurumu (TKDK) tarafından IPARD Programı kapsamında hayvancılık yatırımlarına yönelik hibe başvurularının başladığını bildirdi. Program kapsamında uygun projelere yüzde 60 ile yüzde 75 a",
-      "content": "Haber Merkezi / Eskişehir Tarım ve Orman İl Müdürlüğü, üreticilere yönelik yaptığı bilgilendirmede, Tarım ve Kırsal Kalkınmayı Destekleme Kurumu'nun (TKDK) IPARD Programı kapsamında hayvancılık yatırımlarına ilişkin hibe başvurularının başladığını duyurdu.\n\nDuyuruya göre program kapsamında tarımsal işletmelerin fiziki varlıklarına yönelik yatırımlar desteklenecek. Yapım işleri, makine-ekipman alımları, hizmet alımları ve görünürlük harcamaları için yüzde 60 ile yüzde 75 arasında hibe desteği verilecek.\n\nCanlı hayvan alımı destek kapsamında değil\n\nİl Müdürlüğü'nün paylaşımında, desteklerin yalnızca tesis kurulumu ve fiziki yatırımları kapsadığı belirtilirken, canlı hayvan alımı veya canlı hayvan kiralama giderlerinin destek kapsamı dışında olduğu özellikle vurgulandı.\n\nAyrıca yatırım harcamalarında KDV, ÖTV, gümrük vergisi ile gelir ve kurumlar vergisi gibi çeşitli vergi muafiyetlerinden de yararlanılabilecek.\n\nHangi yatırımlar desteklenecek?\n\nProgram kapsamında;\n\nSüt üretim işletmeleri,\n\nKırmızı et (besi) üretim işletmeleri,\n\nKanatlı eti üretim işletmeleri,\n\nYumurta üretim tesislerinde ise yalnızca modernizasyon veya taşıma yatırımları,\n\nhibe desteğinden yararlanabilecek.\n\nBaşvuru şartları açıklandı\n\nDestekten yararlanmak isteyen başvuru sahiplerinin;\n\n18 yaşını doldurmuş, 65 yaşını aşmamış gerçek veya tüzel kişi olması,\n\nÇKS veya Hayvan Kayıt Sistemi'ne (HKS) kayıtlı bulunması,\n\nVergi ve SGK açısından uygunluk şartlarını taşıması,\n\nMesleki yeterlilik kriterlerinden en az birini sağlaması gerekiyor.\n\nKamu tüzel kişileri ise programa başvuru yapamayacak.\n\nHibe üst limiti 750 bin avroya kadar çıkıyor\n\nIPARD Programı kapsamında uygun harcama tutarı en az 20 bin avro olarak belirlenirken, yatırım konusuna göre üst limit 125 bin avro ile 750 bin avro arasında değişiyor.\n\nBaşvurular 7 Eylül'e kadar sürecek\n\nEskişehir Tarım ve Orman İl Müdürlüğü'nün paylaştığı bilgilere göre, başvurular 28 Temmuz 2026 tarihinde alınmaya başlandı.\n\nOnline Proje Başvuru Sistemi 31 Ağustos 2026 saat 18.00'de kapanacak. Başvuru dosyalarının TKDK İl Koordinatörlükleri veya İl İrtibat Ofislerine teslim edilmesi için son tarih ise 7 Eylül 2026 saat 18.00 olarak açıklandı. Üreticiler, ayrıntılı bilgiye yatırımın uygulanacağı ildeki TKDK İl Koordinatörlükleri ve İl İrtibat Ofislerinden ulaşabilecek."
     }
   ],
   "commoditiesByBorsa": {
@@ -330,7 +330,6 @@
   "note": "Fiyatlar TOBB ticaret borsasından (borsa seçilebilir). Kanola manuel (Trakya 2025).",
   "inputsNote": "Mazot: akaryakıt bayi fiyatı, günlük (şehir seçilebilir). Gübre: manuel (yaklaşık).",
   "errors": [
-    "fx: fetch failed",
     "mazot ANKARA: fetch failed",
     "mazot ISTANBUL: fetch failed",
     "mazot IZMIR: fetch failed",
