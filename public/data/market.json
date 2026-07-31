@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-07-31T16:24:48.975Z",
+  "updatedAt": "2026-07-31T18:04:29.005Z",
   "fx": [
     {
       "code": "USD",
@@ -11,16 +11,16 @@
     {
       "code": "EUR",
       "name": "Euro",
-      "buy": 54.76,
-      "sell": 54.77,
-      "change": -0.04
+      "buy": 54.84,
+      "sell": 54.86,
+      "change": 0.12
     },
     {
       "code": "GRA",
       "name": "Gram Altın",
-      "buy": 6182.49,
-      "sell": 6183.43,
-      "change": -1.18
+      "buy": 6193.06,
+      "sell": 6194,
+      "change": -1.02
     },
     {
       "code": "CEYREKALTIN",
@@ -38,6 +38,14 @@
     }
   ],
   "news": [
+    {
+      "title": "Settar Aslan: \"Yangının canı, ruhu, vicdanı yok; onu çıkaranların var\"",
+      "url": "https://www.tarimdanhaber.com/settar-aslan-yanginin-cani-ruhu-vicdani-yok-onu-cikaranlarin-var",
+      "source": "Tarımdan Haber",
+      "date": "2026-07-31",
+      "summary": "Öz Orman-İş Sendikası Genel Başkanı Settar Aslan, Tarımdan Haber'e yaptığı açıklamada orman yangınlarının neredeyse tamamının insan kaynaklı olduğuna dikkat çekti. \"En güçlü söndürme yöntemi yangının hiç çıkmamasıdır\" diyen Aslan, ihmalin sadece ormanları değil, insan hayatını ve milyarlarca liralık",
+      "content": "Haber Merkezi / Türkiye'nin birçok noktasında devam eden orman yangınlarını Tarımdan Haber'e değerlendiren Öz Orman-İş Sendikası Genel Başkanı Settar Aslan, yangınlarla mücadelede asıl başarının yangın çıktıktan sonra değil, çıkmadan önce alınacak tedbirlerle mümkün olacağını söyledi.\n\nYangınların artık yalnızca doğal afet olarak değerlendirilemeyeceğini belirten Aslan, yaşanan felaketlerin büyük bölümünün insan kaynaklı olduğunu ifade etti.\n\n\"Yangının canı yok, onu çıkaranların var\"\n\nAçıklamasında çarpıcı ifadeler kullanan Aslan, şu değerlendirmede bulundu:\n\n\"Yangının canı yok, ruhu yok, vicdanı yok. Ancak onu çıkaranların canı da var, ruhu da var, vicdanı da var. Bir izmariti ormana atan da, anız yakan da, piknik ateşini söndürmeden ayrılan da yaptığı davranışın bedelini sadece birkaç ağacın yanması olarak görmemelidir.\"\n\nHer yangında yalnızca ağaçların değil, toprağın, yaban hayatının ve ülkenin milli servetinin de yok olduğunu belirten Aslan, ihmalin bedelinin toplumun tamamı tarafından ödendiğini söyledi.\n\n\"Bugünkü tablo bilimin söylediğini doğruladı\"\n\nBu yıl yağışların fazla olması nedeniyle orman altı örtüsünde yoğun yanıcı madde oluştuğunu aylar öncesinden dile getirdiklerini hatırlatan Aslan, sıcaklığın 30 derecenin üzerine çıkması, bağıl nemin yüzde 30'un altına düşmesi ve rüzgar hızının saatte 30 kilometreyi aşmasıyla oluşan \"üç 30 kuralının\" büyük yangın riskini beraberinde getirdiğini belirtti.\n\n\"Bugün yaşadığımız tablo tam da budur. Bilimin söylediği gerçekleşmiştir.\" dedi.\n\n\"Teknoloji önemli ama ihmali telafi edemez\"\n\nDevletin yangınla mücadelede hava ve kara filosunu önemli ölçüde güçlendirdiğini belirten Aslan, uçak, helikopter, İHA ve termal kameraların büyük katkı sağladığını ancak hiçbir teknolojinin insan ihmali kadar büyük bir riski ortadan kaldıramayacağını söyledi.\n\n\"En güçlü söndürme yöntemi yangının hiç çıkmamasıdır. Bir kibriti söndürmek, binlerce hektarı söndürmekten çok daha kolaydır.\"\n\n\"Bu acıları canımızla ödedik\"\n\nGeçmiş yıllarda yaşanan büyük yangınlarda çok sayıda orman işçisinin hayatını kaybettiğini hatırlatan Aslan, bu acıları yakından yaşadıklarını belirterek, dikkatsizliğin yalnızca ağaçları değil insanların yaşamını da tehdit ettiğini ifade etti.\n\n\"Artık yangını söndürmeyi değil, önlemeyi konuşmalıyız\"\n\nVatandaşlara da çağrıda bulunan Aslan, ormanların korunmasının yalnızca kamu kurumlarının değil toplumun ortak sorumluluğu olduğunu belirterek daha güçlü denetim, caydırıcı cezalar, yaygın eğitim ve \"Yeşil Vatan bilinci\" oluşturulması gerektiğini söyledi.\n\nSözlerini gelecek nesillere dikkat çekerek tamamlayan Aslan, \"Bir ağacın büyümesi onlarca yıl sürüyor, onu yok etmek ise birkaç dakika. Her vatandaş Yeşil Vatan'ın gönüllü koruyucusu olmalıdır. Çünkü kaybettiğimiz her orman, geleceğimizden eksilen bir nefestir.\" dedi."
+    },
     {
       "title": "Gürer: TMO alım politikası üreticiyi zorluyor",
       "url": "https://www.tarimpusulasi.com/haber/gurer-tmo-alim-politikasi-ureticiyi-zorluyor-47227",
@@ -125,14 +133,6 @@
       "date": "2026-07-30",
       "summary": "Türkiye'de Manisa'da üretim faaliyetlerini sürdüren tarım makineleri üreticisi TAFE, Alman motor üreticisi DEUTZ ile stratejik iş birliği kapsamında Hindistan'da yeni motor üretim tesisini devreye aldı. Endüstri 4.0 teknolojileriyle donatılan tesis, yıllık 35 bin motor üretim kapasitesine sahip olac",
       "content": "Haber Merkezi / Türkiye'de Manisa'daki üretim tesisiyle faaliyet gösteren tarım makineleri üreticisi TAFE (Tractors and Farm Equipment Limited), küresel üretim kapasitesini artıracak önemli bir yatırımı hayata geçirdi. Şirket, Almanya'nın köklü motor üreticisi DEUTZ ile yürüttüğü stratejik iş birliği kapsamında Hindistan'ın Rajasthan eyaletindeki Alwar kentinde yeni DEUTZ motor üretim tesisini hizmete açtı.\n\nYeni tesis, TAFE ile DEUTZ arasındaki ilk üretim ortaklığı olma özelliğini taşırken, şirketin hem Hindistan hem de uluslararası pazarlara yönelik motor üretim kapasitesini önemli ölçüde artıracak.\n\nYıllık 35 bin motor üretim kapasitesi\n\nEndüstri 4.0 tabanlı üretim altyapısına sahip tesiste, tam entegre dijital üretim yönetim sistemi (MES), gelişmiş kalite kontrol süreçleri ve yüksek otomasyon teknolojileri kullanılacak.\n\nTesiste DEUTZ lisanslı 2,2 litre ve 2,9 litre motorlar üretilecek. Yıllık 35 bin motor ve 50 bin alt montaj üretim kapasitesi bulunan fabrikanın, küresel pazarlara yönelik üretimde önemli bir merkez olması hedefleniyor.\n\n2030 hedefi: 550 bin motor üretim kapasitesi\n\nTAFE Yönetim Kurulu Başkanı ve Genel Müdürü Mallika Srinivasan, yeni tesisin şirket açısından önemli bir dönüm noktası olduğunu belirterek, Amalgamations Group ile birlikte 2030 yılına kadar yıllık motor üretim kapasitesini 400 binden 550 bine çıkarmayı hedeflediklerini söyledi.\n\nSrinivasan, DEUTZ ile yapılan iş birliğinin Alman mühendisliğini Hindistan'ın güçlü üretim altyapısıyla buluşturduğunu ifade etti.\n\nKadın istihdamı dikkat çekti\n\nTAFE Yönetim Kurulu Başkan Yardımcısı Dr. Lakshmi Venu ise tesisin yalnızca ileri üretim teknolojileriyle değil, insan kaynağıyla da öne çıktığını belirterek çalışanların yaklaşık yüzde 40'ının kadınlardan oluştuğunu açıkladı.\n\nYüksek otomasyon ve dijital izlenebilirlik\n\nTAFE CEO'su Sandeep Sinha, üretim tesisinde robotlar, kolaboratif robotlar (cobot), görüntü işleme sistemleri ve tam dijital izlenebilirlik sağlayan motor test merkezi ile kalite laboratuvarlarının yer aldığını belirtti.\n\nDEUTZ: Önemli bir kilometre taşı\n\nDEUTZ CEO'su Dr. Sebastian Schulte ise Alwar'da açılan yeni üretim hattının iki şirket arasındaki stratejik ortaklık açısından önemli bir kilometre taşı olduğunu belirterek, yatırımın ortak vizyonun somut bir ürünü olduğunu ifade etti.\n\nYeni yatırımla birlikte TAFE, küresel üretim ağını genişletirken ileri mühendislik, dijital üretim teknolojileri ve uluslararası iş birlikleri alanındaki konumunu daha da güçlendirmeyi hedefliyor."
-    },
-    {
-      "title": "Tarım Bakanlığı koridorlarında mesai krizi! \"Benden önce kimse Bakanlıktan ayrılmayacak!\"",
-      "url": "https://www.tarimdanhaber.com/tarim-bakanligi-koridorlarinda-mesai-krizi-benden-once-kimse-bakanliktan-ayrilmayacak",
-      "source": "Tarımdan Haber",
-      "date": "2026-07-30",
-      "summary": "Tarım ve Orman Bakanlığı kulislerinde hareketli saatler! Bakan İbrahim Yumaklı’nın, kendisi bakanlıktayken hiçbir birim amirinin bakanlıktan ayrılamayacağına dair verdiği sözlü talimat başkentte merak uyandırdı. \"Genel kural zaten buyken bu uyarı neden yapıldı?\" sorusu kulislerin en sıcak gündemi ol",
-      "content": "Tarımdan Haber Kulis / Devlet geleneklerinde ve bakanlıklardaki unvan hiyerarşisinde yazılı olmayan ama titizlikle uygulanan bazı \"kurumsal alışkanlıklar\" bulunur. Bunlardan biri de bakanlık binasında üst yönetimin bulunduğu saatlerde, genel müdürler, daire başkanları ve bakan yardımcısının mesai bitse dahi bakanlıkta görev başında olması kuralıdır.\n\nAncak edinilen kulis bilgilerine göre, Tarım ve Orman Bakanı İbrahim Yumaklı’nın son günlerde bu konudaki hassasiyetini bir adım öteye taşıyarak net bir sözlü talimat verdiği konuşuluyor. Bakan Yumaklı’nın, kendisi bakanlıkta bulunduğu sürece hiçbir birim amirinin \"mesaim doldu\" diyerek bakanlıktan ayrılmaması gerektiği uyarısında bulunduğu kaydediliyor.\n\nKulisleri Sallayan Soru: \"Bakandan Önce Çıkan Kim?\"\n\nBakanlık içerisindeki bu genel teamülün zaten var olduğu bilinirken, Bakan Yumaklı’nın bu konuda ayrıca bir uyarıda bulunma gereği duyması başkent kulislerinde merak uyandırdı.\n\nKulislerde şu soru sesli bir şekilde sorulmaya başlandı: “Genel kural zaten buyken, Bakan Yumaklı neden böyle bir uyarı yapma ihtiyacı duydu? Acaba bakanlıkta mesai saatlerine uymayan, Bakandan önce binayı terk eden birim amirleri mi var?”\n\nGözler Bakanlık Bürokrasisinde\n\nYoğun bir tempoyla çalışan Bakan Yumaklı’nın bu uyarısının ardından, Tarım ve Orman Bakanlığı’ndaki genel müdürlükler ve daire başkanlıklarında mesai saatlerine riayet konusunda hareketliliğin arttığı, üst düzey bürokratların akşam saatlerinde bakanlıktaki mesailerini çok daha sıkı bir şekilde takip etmeye başladığı konuşuluyor.\n\nAnkara’nın sıcak kulislerinde, bu talimatın ardındaki \"sabır taşı\"nın ne zaman çatladığı ve hangi olayların bu uyarıyı tetiklediği şimdiden merak konusu olmuş durumda."
     }
   ],
   "commoditiesByBorsa": {
@@ -328,5 +328,17 @@
   "defaultBorsa": "5ED10",
   "defaultCity": "CANAKKALE",
   "note": "Fiyatlar TOBB ticaret borsasından (borsa seçilebilir). Kanola manuel (Trakya 2025).",
-  "inputsNote": "Mazot: akaryakıt bayi fiyatı, günlük (şehir seçilebilir). Gübre: manuel (yaklaşık)."
+  "inputsNote": "Mazot: akaryakıt bayi fiyatı, günlük (şehir seçilebilir). Gübre: manuel (yaklaşık).",
+  "errors": [
+    "mazot ANKARA: fetch failed",
+    "mazot ISTANBUL: fetch failed",
+    "mazot IZMIR: fetch failed",
+    "mazot KONYA: fetch failed",
+    "mazot ADANA: fetch failed",
+    "mazot BURSA: fetch failed",
+    "mazot ANTALYA: fetch failed",
+    "mazot SAMSUN: fetch failed",
+    "mazot TEKIRDAG: fetch failed",
+    "mazot CANAKKALE: fetch failed"
+  ]
 }
