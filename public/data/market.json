@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-07-31T10:17:49.912Z",
+  "updatedAt": "2026-07-31T12:19:55.355Z",
   "fx": [
     {
       "code": "USD",
@@ -11,23 +11,23 @@
     {
       "code": "EUR",
       "name": "Euro",
-      "buy": 54.72,
-      "sell": 54.73,
-      "change": -0.11
+      "buy": 54.63,
+      "sell": 54.64,
+      "change": -0.28
     },
     {
       "code": "GRA",
       "name": "Gram Altın",
-      "buy": 6196.7,
-      "sell": 6197.55,
-      "change": -0.96
+      "buy": 6197.87,
+      "sell": 6198.6,
+      "change": -0.94
     },
     {
       "code": "CEYREKALTIN",
       "name": "Çeyrek Altın",
-      "buy": 9836.68,
-      "sell": 10063.88,
-      "change": -0.56
+      "buy": 9841.19,
+      "sell": 10068.49,
+      "change": -0.52
     },
     {
       "code": "CUMHURIYETALTINI",
@@ -38,6 +38,22 @@
     }
   ],
   "news": [
+    {
+      "title": "Ömer Fethi Gürer TBMM'de mevsimlik tarım işçilerinin sorunlarını anlattı",
+      "url": "https://www.tarimpusulasi.com/haber/omer-fethi-gurer-tbmmde-mevsimlik-tarim-iscilerinin-sorunlarini-anlatti-47221",
+      "source": "Tarım Pusulası",
+      "date": "2026-07-31",
+      "summary": "CHP Niğde Milletvekili Ömer Fethi Gürer, TBMM Genel Kurulu'nda yaptığı konuşmada mevsimlik tarım işçilerinin barınma, temiz su, elektrik, eğitim, sağlık, ulaşım ve sosyal güvence sorunlarının sürdüğünü belirterek, çalışma ve yaşam koşullarının iyileştirilmesi amacıyla Meclis araştırması açılması çağ",
+      "content": "ANKARA — CHP Niğde Milletvekili Ömer Fethi Gürer, TBMM Genel Kurulu'nda yaptığı konuşmada mevsimlik tarım işçilerinin çalışma ve yaşam koşullarını gündeme taşıyarak, barınmadan sağlığa, eğitimden sosyal güvenceye kadar birçok alanda yaşanan sorunların çözümü için Meclis araştırması açılması çağrısında bulundu.\n\nGürer, tarımsal üretimde üreticilerin ve tüketicilerin yaşadığı ekonomik sorunların yanında mevsimlik tarım işçilerinin de ağır koşullar altında çalıştığını belirterek, \"Tarımda sorunlar derinleşiyor. Üreticinin, çiftçinin ürettiği üründen para kazanamaması yanında tüketici de pahalı ürün alarak sorunlu bir süreç yaşamaya devam ediyor.\" dedi.\n\nTürkiye'nin farklı iklim özellikleri nedeniyle tarımsal üretimin yıl boyunca sürdüğünü hatırlatan Gürer, bu nedenle binlerce mevsimlik tarım işçisinin farklı illere göç ederek geçimini sağlamaya çalıştığını söyledi. İşçilerin çoğunun düşük gelirle ve zorlu koşullarda çalıştığını ifade eden Gürer, \"Yoksulluk içinde olan bu kesim göç ederek farklı illere gidiyor ve kazandıklarıyla adeta karın tokluğuna çalışıyor.\" değerlendirmesinde bulundu.\n\nCumhurbaşkanlığı tarafından mevsimlik tarım işçilerinin çalışma ve yaşam koşullarının iyileştirilmesine yönelik yayımlanan genelgeyi hatırlatan Gürer, uygulamada önemli eksikliklerin sürdüğünü savundu. Sahada yaptığı incelemelerde çadırlarda yaşayan ailelerin temel ihtiyaçlara erişimde sorun yaşadığını belirterek, \"Temiz suya erişimden elektriğe, tuvaletinden diğer ihtiyaçlarını gidermeye kadar eksikliklerin devam ettiği bir süreç yaşanıyor.\" ifadelerini kullandı.\n\nÇocuk işçiliği ve eğitime erişim konusuna da değinen Gürer, \"Özellikle çocukların durumlarını gördüğünüz zaman içiniz acıyor. Okullarından uzaklaşmak zorunda kalan, aileleriyle birlikte yaşam mücadelesi veren çocuklar var.\" dedi.\n\nMevsimlik tarım işçilerinin ulaşım kazaları, iş güvenliği ve sosyal güvence sorunlarına dikkat çeken Gürer, kadın işçilerin daha düşük ücretlerle çalıştırıldığını, sağlık taramalarının yetersiz kaldığını ve iş kazalarına karşı yeterli önlemlerin alınmadığını ileri sürdü.\n\nKonuşmasında tarım sektöründeki istihdam verilerine de yer veren Gürer, son yıllarda tarımda çalışan ve sosyal güvenlik sistemine kayıtlı çiftçi sayısında önemli düşüş yaşandığını belirtti. Gürer, \"Son 8 yılda tarımda çalışan 841 bin kişi azaldı.\" derken, Tarım Bağ-Kur kapsamındaki sigortalı sayısının da resmi verilere göre son 17 yılda yaklaşık yarı yarıya gerilediğini söyledi.\n\nTarımın yalnızca ekonomik değil, stratejik bir alan olduğuna işaret eden Gürer, \"Tarım, gıda, milli güvenlik kadar önemli.\" ifadelerini kullanarak, üreticiden mevsimlik tarım işçilerine kadar sektörün tüm paydaşlarının sorunlarının bütüncül bir yaklaşımla ele alınması gerektiğini dile getirdi.\n\nKonuşmasının sonunda mevsimlik tarım işçilerinin çalışma ve yaşam koşullarının ülke genelinde araştırılması amacıyla TBMM'de araştırma açılması çağrısında bulunan Gürer, \"Mevsimlik tarım işçilerinin durumlarının ülke genelinde araştırılması ve sorunlarının çözümüne yönelik Meclis araştırmamızın desteklenmesini temenni ediyorum.\" dedi.\n\nTARIM PUSULASI HABER MERKEZİ"
+    },
+    {
+      "title": "Ömer Fethi Gürer: Gıdada denetim eksikliği sağlık riski oluşturuyor",
+      "url": "https://www.tarimpusulasi.com/haber/omer-fethi-gurer-gidada-denetim-eksikligi-saglik-riski-olusturuyor-47220",
+      "source": "Tarım Pusulası",
+      "date": "2026-07-31",
+      "summary": "CHP Niğde Milletvekili Ömer Fethi Gürer, TBMM Genel Kurulu'nda yaptığı konuşmada, vatandaş ihbarı sonrası bir peynir ürününde Türk Gıda Kodeksi Mikrobiyolojik Kriterler Yönetmeliği'ne aykırılık tespit edilmesini örnek göstererek gıda denetimlerinin artırılması, belediyelerin denetim yetkilerinin yen",
+      "content": "ANKARA — CHP Niğde Milletvekili Ömer Fethi Gürer, TBMM Genel Kurulu'nda yaptığı konuşmada gıda güvenliği denetimlerinin yetersiz olduğunu belirterek, denetim mekanizmasının güçlendirilmesi çağrısında bulundu.\n\nGürer, vatandaş ihbarı üzerine yapılan bir denetimde uzun yıllardır piyasada bulunan bir peynir ürününün Türk Gıda Kodeksi Mikrobiyolojik Kriterler Yönetmeliği'ne uygun bulunmadığını belirterek, \"Ne yediğimizi ne içtiğimizi bilmiyoruz. Sağlığımız da risk altında.\" dedi.\n\nSöz konusu uygunsuzluğun vatandaş ihbarı sonrasında ortaya çıkarıldığını ifade eden Gürer, \"Eğer vatandaş ihbarda bulunmasa biz o peyniri tüketiyoruz.\" sözleriyle mevcut denetim sistemini eleştirdi.\n\nGıda güvenliğinde yalnızca kayıt dışı üretimin değil, piyasada yaygın olarak satılan markalı ürünlerin de düzenli şekilde denetlenmesi gerektiğini savunan Gürer, Tarım ve Orman Bakanlığının denetimleri artıracağı yönündeki açıklamasını hatırlatarak uygulamanın daha etkin hâle getirilmesi gerektiğini söyledi.\n\nGürer, belediyelerin yeniden denetim sürecine dahil edilmesini önererek, \"Gıdada denetimlerin yaygınlaştırılmasının yolu belediyelerin yetkilerinin geri verilmesi, belediye laboratuvarlarının açılması ve yeterli denetim elemanının alınmasına ihtiyaç olduğunu gösteriyor.\" ifadelerini kullandı.\n\nKonuşmasının sonunda gıda denetimlerinde yaşanan eksikliklerin halk sağlığını doğrudan etkilediğini belirten Gürer, \"Ülkemizde bu konuda denetimlerde ortaya çıkan problemler sağlığımızı da olumsuz etkiliyor.\" dedi.\n\nTARIM PUSULASI HABER MERKEZİ"
+    },
     {
       "title": "Orman yangınları nasıl önlenir? İYİ Parti'den dikkat çeken 17 maddelik eylem planı",
       "url": "https://www.tarimdanhaber.com/orman-yanginlari-nasil-onlenir-iyi-partiden-dikkat-ceken-17-maddelik-eylem-plani",
@@ -117,22 +133,6 @@
       "date": "2026-07-30",
       "summary": "Mersin Büyükşehir Belediyesi, yaralı ve hasta sokak hayvanlarına yönelik 7 gün 24 saat sürdürdüğü veterinerlik hizmetleri kapsamında ileri cerrahi operasyonlarla tedavi ettiği can dostlarını yeniden yaşama kazandırırken, iyileşen hayvanların sahiplendirilmesi için de çalışmalarını sürdürüyor.",
       "content": "MERSİN — Mersin Büyükşehir Belediyesi, yaralı ve hasta sokak hayvanlarının tedavisi ile sahiplendirilmesine yönelik çalışmalarını sürdürüyor. Veteriner İşleri Dairesi Başkanlığı ekipleri, Alo 185 TEKSİN Çağrı Merkezi'ne gelen ihbarların ardından yaralı hayvanlara müdahale ederken, ileri cerrahi operasyonlarla tedavi edilen can dostlarının yeniden sağlığına kavuşmasını sağlıyor.\n\nBelediyeden yapılan açıklamaya göre, tedavi edilen hayvanlardan Kimyon, arka bacağındaki ciddi parçalı kırık nedeniyle amputasyon riski taşımasına rağmen gerçekleştirilen operasyonla bacağını kaybetmeden tedavi edildi. Badem ise kimyasal yanık nedeniyle bir bacağını kaybetmesine karşın diğer üç bacağı uygulanan tedaviyle kurtarılarak yaşamına devam edebildi.\n\nVeteriner İşleri Dairesi Başkanı Salim Serdar Gökçek, 5199 sayılı Hayvanları Koruma Kanunu kapsamında Toroslar, Silifke ve Bozyazı'nda bulunan 3 Geçici Hayvan Bakımevi ve Doğal Yaşam Alanında bakım, tedavi ve rehabilitasyon hizmeti verdiklerini belirtti. Gökçek, yaralı hayvanların tedavilerinin tamamlanmasının ardından kısırlaştırılıp aşılanarak ilgili ilçelere teslim edildiğini ifade etti.\n\nGökçek, Geçici Hayvan Bakımevi ve Doğal Yaşam Alanlarının hafta içi ve hafta sonu 13.00-16.00 saatleri arasında, bulaşıcı hastalık bölümleri ile ameliyathane ve yoğun bakım üniteleri dışında ziyaretçilere açık olduğunu belirterek, hayvanseverleri merkezleri ziyaret etmeye davet etti. Ayrıca yaralı veya hasta sokak hayvanlarının Alo 185 TEKSİN Çağrı Merkezi üzerinden bildirilebileceğini kaydetti.\n\nKaşlı Geçici Hayvan Bakımevi ve Doğal Yaşam Alanı'nda görev yapan Veteriner Hekim Ali Esirgenci, Kimyon'un ameliyatında amputasyon ihtimaline rağmen uygulanan cerrahi yöntemlerle bacağının kurtarıldığını ve tedavisinin tamamlanmasının ardından sahiplendirme sürecine alınacağını söyledi.\n\nVeteriner Hekim Bedran Ağacanoğlu ise kimyasal yanık şüphesiyle getirilen Badem'in dört bacağında da ağır hasar bulunduğunu, enfeksiyon riskini önlemek amacıyla bir bacağının ampute edildiğini, diğer üç bacağının ise tedaviyle kurtarıldığını ifade etti.\n\nBelediyeden yapılan açıklamada, sahiplendirmenin sokak hayvanlarının kalıcı yuvalara kavuşması açısından önem taşıdığı belirtilirken, vatandaşların geçici hayvan bakımevlerini ziyaret ederek sahiplenmeye uygun hayvanlar için başvuruda bulunabileceği bildirildi.\n\nTARIM PUSULASI HABER MERKEZİ"
-    },
-    {
-      "title": "Diyarbakır Büyükşehir ekolojik üretimi büyütme hazırlığında",
-      "url": "https://www.tarimpusulasi.com/haber/diyarbakir-buyuksehir-ekolojik-uretimi-buyutme-hazirliginda-47213",
-      "source": "Tarım Pusulası",
-      "date": "2026-07-30",
-      "summary": "Diyarbakır Büyükşehir Belediyesi Eşbaşkanı Serra Bucak, sürdürülebilir tarımı desteklemek amacıyla Kayapınar ilçesindeki Tıbbi Aromatik Bitki Üretim ve İşleme Tesisi, Agroekoloji İklim Okulu, kent bostanları ve Kadın Komün Kent Bostanı'nda yürütülen çalışmaları yerinde inceledi.",
-      "content": "DİYARBAKIR — Diyarbakır Büyükşehir Belediyesi, sürdürülebilir tarımı desteklemek, ekolojik üretimi yaygınlaştırmak ve doğa dostu uygulamaları geliştirmek amacıyla yürüttüğü çalışmalar kapsamında saha ziyaretlerini sürdürdü. Büyükşehir Belediyesi Eşbaşkanı Serra Bucak, Kayapınar ilçesindeki üretim, eğitim ve kent bostancılığı projelerini yerinde inceleyerek yürütülen çalışmalar hakkında teknik ekiplerden bilgi aldı.\n\nBelediyeden yapılan açıklamaya göre saha programına, Diyarbakır Büyükşehir Belediyesi Meclisi Eşsözcüsü Demet Ceylan ile Genel Sekreter Yardımcıları Zerin Türk ve Aziz Özdoğan da katıldı. Ziyaretlerde projelerin mevcut durumu, üretim süreçleri ve geliştirilmesine yönelik planlamalar değerlendirildi.\n\nProgramın ilk durağında Kayapınar ilçesinde 14 bin metrekarelik alan üzerine kurulan Tıbbi Aromatik Bitki Üretim ve İşleme Tesisi ziyaret edildi. Serra Bucak, tesiste yetiştirilen 14 farklı türde tıbbi ve aromatik bitkinin dikimden hasada ve işleme aşamasına kadar geçen üretim sürecini yerinde inceleyerek teknik ekiplerden tesisin kapasitesi ve yürütülen çalışmalar hakkında bilgi aldı. Ziyarette üretimin geliştirilmesi ve tesisin daha etkin kullanılmasına yönelik değerlendirmelerde bulunuldu.\n\nSaha programının ikinci durağında yer alan Agroekoloji İklim Okulunda yürütülen çalışmalar da incelendi. Teknik ekiplerden bilgi alan Serra Bucak, okulun mevcut kapasitesi ile iklim krizine karşı doğa dostu tarım uygulamalarını yaygınlaştırmaya yönelik faaliyetleri değerlendirdi. Görüşmelerde okulun kapasitesinin artırılması ve daha geniş kesimlere ulaşmasına yönelik planlamalar ele alındı.\n\nProgram kapsamında Kayapınar ilçesi Talaytepe Mahallesi'nde bulunan Kırsal Hizmetler Dairesi Başkanlığı yerleşkesindeki kent bostanları da ziyaret edildi. Teknik ekiplerden üretim süreçleri hakkında bilgi alan Serra Bucak, ekolojik yöntemlerle yürütülen tarımsal faaliyetler ile üretim alanlarının geliştirilmesine yönelik çalışmaları inceledi.\n\nSaha programının son bölümünde ise Kadın Komün Kent Bostanı ziyaret edildi. Burada kadınların ortak üretim süreçleri ve yürütülen tarımsal faaliyetler hakkında bilgi alan Serra Bucak, kadın emeğinin üretimde daha görünür hale getirilmesi ve kent bostanlarının yaygınlaştırılmasına yönelik değerlendirmelerde bulundu.\n\nBelediyeden yapılan açıklamada, sürdürülebilir tarımı destekleyen, ekolojik üretimi yaygınlaştıran ve doğa dostu uygulamaları geliştirmeye yönelik çalışmaların kent genelinde sürdürüleceği bildirildi.\n\nTARIM PUSULASI HABER MERKEZİ"
-    },
-    {
-      "title": "Manisa'da üreticilere KKKA riskine karşı parazit desteği",
-      "url": "https://www.tarimpusulasi.com/haber/manisada-ureticilere-kkka-riskine-karsi-parazit-destegi-47212",
-      "source": "Tarım Pusulası",
-      "date": "2026-07-30",
-      "summary": "Manisa Büyükşehir Belediyesi, Yunusemre ilçesindeki Muslih, Örencik ve Pelitalan mahallelerinde hayvancılıkla uğraşan 94 üreticiye toplam 1.058 adet antiparaziter preparat dağıttı. Destekle büyükbaş ve küçükbaş hayvanların dış parazitlerden korunması, hayvan sağlığının güçlendirilmesi ve Kırım Kongo",
-      "content": "MANİSA — Manisa Büyükşehir Belediyesi, kırsalda hayvancılığın sürdürülebilirliğini desteklemek ve Kırım Kongo Kanamalı Ateşi (KKKA) riskine karşı alınan önlemleri güçlendirmek amacıyla Yunusemre ilçesine bağlı Muslih, Örencik ve Pelitalan mahallelerinde 94 üreticiye toplam 1.058 adet antiparaziter preparat dağıttı.\n\nBelediyeden yapılan açıklamaya göre, Kırsal Hizmetler Dairesi Başkanlığı tarafından yürütülen Büyükbaş ve Küçükbaş Hayvanların Dış Parazitler Yönünden Korunması Projesi kapsamında gerçekleştirilen destekle büyükbaş ve küçükbaş hayvanların dış parazitlerden korunması, hayvan sağlığının güçlendirilmesi ve KKKA riskinin azaltılması hedefleniyor.\n\nDestek programı kapsamında Pelitalan Mahallesi'nde 72, Örencik Mahallesi'nde 16, Muslih Mahallesi'nde ise 6 üreticiye antiparaziter preparat teslim edildi. Üreticilere toplam 861 adet 100 mililitrelik ve 197 adet 500 mililitrelik olmak üzere 1.058 adet preparat ulaştırıldı.\n\nManisa Büyükşehir Belediyesi Kırsal Hizmetler Dairesi Başkanlığı Ziraat Mühendisi İsmail Kilimci, uygulamanın geçen yıl başlatıldığını ve üreticiler ile İl Tarım ve Orman Müdürlüğü'nden gelen talepler doğrultusunda bu yıl da sürdürüldüğünü belirterek, \"Kene kaynaklı Kırım Kongo Kanamalı Ateşi vakalarının görüldüğü Pelitalan, Muslih ve Örencik mahallelerinde yürüttüğümüz proje kapsamında üreticilerimize kene ve diğer dış parazitlere karşı kullanılabilecek antiparaziter preparatlar ulaştırıyoruz.\" dedi.\n\nKilimci, \"Amacımız hem hayvan sağlığını korumak hem de dış parazitlerin insan sağlığı üzerindeki olumsuz etkilerini en aza indirmek.\" ifadelerini kullandı.\n\nMuslih Mahalle Muhtarı Ramazan Dilek, proje sayesinde üreticilerin daha önce temin etmekte zorlandıkları ilaçlara ulaşabildiğini belirtirken, Örencik Mahalle Muhtarı Şinasi Bayrak da desteğin hayvancılıkla uğraşan üreticiler açısından önemli bir katkı sağladığını ifade etti.\n\nPelitalan Mahallesi üreticilerinden İsmail Uğurlu ise kırsalda kene, pire ve bit gibi dış parazitlerin önemli bir sorun olduğunu belirterek, dağıtılan preparatların hem hayvan sağlığının korunmasına hem de üreticilerin maliyetlerinin azaltılmasına katkı sunduğunu söyledi.\n\nBelediyeden yapılan açıklamada, kırsal kalkınmayı desteklemeye ve hayvan sağlığını korumaya yönelik çalışmaların il genelinde sürdürüleceği belirtildi.\n\nTARIM PUSULASI HABER MERKEZİ"
     }
   ],
   "commoditiesByBorsa": {
