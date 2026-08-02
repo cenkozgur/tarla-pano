@@ -1,43 +1,51 @@
 {
-  "updatedAt": "2026-08-02T12:42:19.151Z",
+  "updatedAt": "2026-08-02T14:14:59.661Z",
   "fx": [
     {
       "code": "USD",
       "name": "Dolar",
-      "buy": 474681,
-      "sell": 475574,
-      "change": 18
+      "buy": 47.47,
+      "sell": 47.56,
+      "change": 0.18
     },
     {
       "code": "EUR",
       "name": "Euro",
-      "buy": 547706,
-      "sell": 548602,
-      "change": 6
+      "buy": 54.77,
+      "sell": 54.86,
+      "change": 0.06
     },
     {
       "code": "GRA",
       "name": "Gram Altın",
-      "buy": 617446,
-      "sell": 617537,
-      "change": -131
+      "buy": 6174.46,
+      "sell": 6175.37,
+      "change": -1.31
     },
     {
       "code": "CEYREKALTIN",
       "name": "Çeyrek Altın",
-      "buy": 980268,
-      "sell": 1002702,
-      "change": -93
+      "buy": 9802.68,
+      "sell": 10027.02,
+      "change": -0.93
     },
     {
       "code": "CUMHURIYETALTINI",
       "name": "Cumhuriyet Altını",
       "buy": 40632,
       "sell": 41252,
-      "change": -98
+      "change": -0.98
     }
   ],
   "news": [
+    {
+      "title": "İngiltere'de çiftçilerin hükümete güveni dibe vurdu! İşte Defra raporunun çarpıcı sonuçları",
+      "url": "https://www.tarimdanhaber.com/ingilterede-ciftcilerin-hukumete-guveni-dibe-vurdu-iste-defra-raporunun-carpici-sonuclari",
+      "source": "Tarımdan Haber",
+      "date": "2026-08-02",
+      "summary": "Tarım Politikaları Uzmanı Ergin Kahveci, İngiltere Çevre, Gıda ve Köy İşleri Bakanlığı (Defra) tarafından yayımlanan Nisan 2026 tarihli \"Çiftçi Görüş Takibi\" raporunu değerlendirdi. Rapora göre İngiliz çiftçilerinin yüzde 71'i hükümetin tarım politikalarının başarılı olacağına güvenmezken, artan mal",
+      "content": "Haber Merkezi / İngiltere Çevre, Gıda ve Köy İşleri Bakanlığı (Defra) tarafından yayımlanan Nisan 2026 tarihli Çiftçi Görüş Takibi raporu, ülkedeki tarım sektöründe güven sorununun derinleştiğini ortaya koydu.\n\nTarım Politikaları Uzmanı Ergin Kahveci'nin değerlendirdiği rapora göre, çiftçilerin büyük bölümü hükümetin tarım politikalarının geleceğine güven duymuyor.\n\nÇiftçilerin yüzde 71'i hükümetin tarım vizyonuna güvenmiyor\n\nRapora göre araştırmaya katılan çiftçilerin yüzde 71'i, yeni tarım planlarının ve düzenlemelerin sektör için başarılı bir gelecek sağlayacağına inanmadığını ifade etti.\n\nÖte yandan Defra'nın ortaya koyduğu tarım vizyonunu tam olarak anladığını söyleyenlerin oranı yalnızca yüzde 7 oldu. Katılımcıların yarısı ise vizyonu ancak genel hatlarıyla anlayabildiğini belirtti.\n\nEn büyük sorun maliyetler\n\nRapor, çiftçilerin önümüzdeki yıllarda önemli değişiklikler yapmak zorunda kalacağını da gösteriyor.\n\nAraştırmaya göre çiftliklerin yüzde 82'si ya işletmesini değiştirmeye başlamış durumda ya da önümüzdeki beş yıl içinde bunu yapmak zorunda kalacağını düşünüyor.\n\nBu değişimin başlıca nedenleri ise şöyle sıralanıyor:\n\nGirdi maliyetlerindeki artış (%79)\n\nÜrün satış fiyatlarındaki belirsizlik (%61)\n\nHava koşulları ve iklim değişikliği (%56)\n\nÇiftçiler farklı gelir kaynaklarına yöneliyor\n\nRapora göre İngiliz çiftçilerinin yüzde 37'si tarım dışı faaliyetlerle gelir çeşitlendirmeyi planlarken, yüzde 23'ü ise işletmesini küçültmeyi düşünüyor.\n\nBu veriler, tarımsal üretimin ekonomik sürdürülebilirliğine ilişkin kaygıların giderek arttığını ortaya koyuyor.\n\nGelecek beklentisi de zayıflıyor\n\nAraştırmada kendi işletmesinin geleceği konusunda iyimser olduğunu söyleyen çiftçilerin oranı yüzde 35'te kalırken, İngiltere tarım sektörünün genel geleceğine olumlu bakanların oranı ise yüzde 26 olarak ölçüldü.\n\nErgin Kahveci: Çiftçinin sorunları dünyanın her yerinde benzer\n\nRaporu değerlendiren Tarım Politikaları Uzmanı Ergin Kahveci, açıklanan verilerin İngiltere'ye ait olduğuna özellikle dikkat çekerek, dünyanın birçok ülkesinde çiftçilerin benzer ekonomik sorunlarla karşı karşıya bulunduğunu belirtti.\n\nKahveci, dikkat çekici olan noktanın ise bu verilerin doğrudan İngiltere Çevre, Gıda ve Köy İşleri Bakanlığı tarafından kamuoyuyla paylaşılması olduğunu ifade etti.\n\n\"Dünyanın her yerinde çiftçilerin sorunları benzer. Farkı oluşturan ise uygulanan tarım politikaları, ekonomik tercihler ve yönetim anlayışıdır.\""
+    },
     {
       "title": "İsa Gök: TÜRK-İŞ 74 yıldır emeğin ortak sesi olmayı sürdürüyor",
       "url": "https://www.tarimpusulasi.com/haber/isa-gok-turk-is-74-yildir-emegin-ortak-sesi-olmayi-surduruyor-47238",
@@ -125,14 +133,6 @@
       "date": "2026-08-01",
       "summary": "Tarım Kredi Kooperatifleri Genel Müdürü Hüseyin Aydın'ın, Balıkesir Bölge Birliği Genel Kurulu kapsamında personelle yaptığı toplantıda Tarımdan Haber'e yönelik ifadeler kullandığı öğrenildi. Toplantıya katılanların aktardığına göre Aydın, konuşması sırasında \"Dikkatli konuşayım, Tarımdan Haber'e gö",
       "content": "Haber Merkezi / Tarım Kredi Kooperatifleri Genel Müdürü Hüseyin Aydın'ın Balıkesir Bölge Birliği Genel Kurulu kapsamında personelle gerçekleştirdiği toplantıda kullandığı ifadeler dikkat çekti.\n\nToplantıya katılanların Tarımdan Haber'e aktardığı bilgilere göre Aydın, konuşması sırasında basına ilişkin değerlendirmede bulunarak, \"Dikkatli konuşayım, Tarımdan Haber'e gönderirsiniz.\" ifadelerini kullandı.\n\nYine toplantıya katılanların aktardığına göre soru-cevap bölümünde personele hitaben \"Sorunuz var mı? Ama korkar bana soru soramazsınız.\" dediği belirtildi.\n\nGenel Müdür Aydın'ın bu sözleri, toplantıda bulunan personel arasında da dikkat çeken değerlendirmeler arasında yer aldı.\n\nTarımdan Haber göndermesi dikkat çekti\n\nTarımdan Haber'in, Tarım Kredi Kooperatifleri'nde yaşanan usulsüzlükler , yönetim uygulamaları ve liyakat tartışmalarına ilişkin yayımladığı haberler çiftçi kuruluşunda ve kamuoyunda geniş yankı uyandırırken, Genel Müdür Hüseyin Aydın'ın personel toplantısında Tarımdan Haber'i doğrudan anması dikkat çekti.\n\nYeri gelmişken; Aslında Genel Müdür Hüseyin Aydın'ın Tarımdan Haber'i yakından takip ettiğini biliyorduk. Balıkesir'deki personel toplantısında yaptığı gönderme ise bunun bir kez daha teyidi oldu. Doğrusu, bir yayıncı olarak bundan şikayet edecek değiliz. Tam tersine, haberlerimizin en çok muhatapları tarafından takip edilmesi, doğru konuları gündeme taşıdığımızın en önemli göstergelerinden biridir."
-    },
-    {
-      "title": "Gönen Baldo Pirinci için alarm! Coğrafi işaretli ürüne çevre kirliliği gölgesi",
-      "url": "https://www.tarimdanhaber.com/gonen-baldo-pirinci-icin-alarm-cografi-isaretli-urune-cevre-kirliligi-golgesi",
-      "source": "Tarımdan Haber",
-      "date": "2026-07-31",
-      "summary": "Balıkesir'in Gönen ilçesinde biyogaz ve biyokütle tesislerinden kaynaklanan atıkların dere yataklarına ve tarım alanlarına bırakıldığı iddiaları yeniden gündeme geldi. Gönen Çevre Platformu, coğrafi işaretli Gönen Baldo Pirinci'nin sulandığı su kaynaklarının kirlenmiş olabileceğini öne sürerek hem T",
-      "content": "Tarımdan Haber Özel / Türkiye'nin coğrafi işaretli pirinçlerinden biri olan Gönen Baldo Pirinci, bu kez üretim kalitesiyle değil, çevre kirliliği iddialarıyla gündemde.\n\nBalıkesir'in Gönen ilçesinde yaklaşık 80 bin dekarlık alanda gerçekleştirilen çeltik üretiminde en önemli ürünlerden biri olan Gönen Baldo Pirinci için çevre örgütleri dikkat çeken uyarılarda bulundu.\n\nGönen Çevre Platformu, Gönen Organize Sanayi Bölgesi'nde faaliyet gösteren bazı biyogaz ve biyokütle tesislerinden kaynaklanan sıvı atıkların Dededüzü Deresi'ne deşarj edildiğini, ayrıca İzmir'den getirilen arıtma çamurlarının tarım alanlarına kaçak şekilde döküldüğünü iddia etti.\n\nPlatform, söz konusu kirliliğin çeltik tarlalarının sulandığı su kaynaklarını etkileyebileceğini öne sürerek, coğrafi işaretli Gönen Baldo Pirinci'nin üretimi açısından ciddi risk oluştuğunu savundu.\n\n\"Pirinçler analiz edilmeli\"\n\nGönen Çevre Platformu üyesi Mustafa Şahin, bölgede yaşanan çevre kirliliğinin yalnızca Gönen'i değil, Türkiye genelindeki tüketicileri de ilgilendirdiğini ileri sürdü.\n\nŞahin, zincir marketlerde satılan Gönen menşeli pirinçlerin bağımsız analizlerden geçirilmesi gerektiğini belirterek, kamuoyundaki soru işaretlerinin ancak bilimsel incelemelerle giderilebileceğini söyledi.\n\nBakanlıklara inceleme çağrısı\n\nPlatform, Çevre, Şehircilik ve İklim Değişikliği Bakanlığı'nın çevre kirliliği iddialarını, Tarım ve Orman Bakanlığı'nın ise sulama suyu ile çeltik üretimi açısından oluştuğu öne sürülen riskleri incelemesini istedi.\n\nOSB yönetimi ve tesislerle ilgili iddialar\n\nMustafa Şahin, Gönen OSB bünyesindeki bazı tesislerin çevreyi kirlettiğini iddia ederek, özellikle biyogaz tesislerinden çıkan sıvı atıkların yağmur suyu kanalları üzerinden dereye ulaştığını öne sürdü."
     }
   ],
   "commoditiesByBorsa": {
@@ -328,8 +328,5 @@
   "defaultBorsa": "5ED10",
   "defaultCity": "CANAKKALE",
   "note": "Fiyatlar TOBB ticaret borsasından (borsa seçilebilir). Kanola manuel (Trakya 2025).",
-  "inputsNote": "Mazot: akaryakıt bayi fiyatı, günlük (şehir seçilebilir). Gübre: manuel (yaklaşık).",
-  "errors": [
-    "fx: fetch failed"
-  ]
+  "inputsNote": "Mazot: akaryakıt bayi fiyatı, günlük (şehir seçilebilir). Gübre: manuel (yaklaşık)."
 }
