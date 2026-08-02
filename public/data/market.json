@@ -1,43 +1,59 @@
 {
-  "updatedAt": "2026-08-02T08:37:02.655Z",
+  "updatedAt": "2026-08-02T10:20:38.142Z",
   "fx": [
     {
       "code": "USD",
       "name": "Dolar",
-      "buy": 474681,
-      "sell": 475574,
-      "change": 18
+      "buy": 47.47,
+      "sell": 47.56,
+      "change": 0.18
     },
     {
       "code": "EUR",
       "name": "Euro",
-      "buy": 547706,
-      "sell": 548602,
-      "change": 6
+      "buy": 54.77,
+      "sell": 54.86,
+      "change": 0.06
     },
     {
       "code": "GRA",
       "name": "Gram Altın",
-      "buy": 617446,
-      "sell": 617537,
-      "change": -131
+      "buy": 6174.46,
+      "sell": 6175.37,
+      "change": -1.31
     },
     {
       "code": "CEYREKALTIN",
       "name": "Çeyrek Altın",
-      "buy": 980268,
-      "sell": 1002702,
-      "change": -93
+      "buy": 9802.68,
+      "sell": 10027.02,
+      "change": -0.93
     },
     {
       "code": "CUMHURIYETALTINI",
       "name": "Cumhuriyet Altını",
       "buy": 40632,
       "sell": 41252,
-      "change": -98
+      "change": -0.98
     }
   ],
   "news": [
+    {
+      "title": "Canlı hayvan ithalatında dikkat çeken tablo! 6 ayda geçen yılın yüzde 75'ine ulaşıldı",
+      "url": "https://www.tarimdanhaber.com/canli-hayvan-ithalatinda-dikkat-ceken-tablo-6-ayda-gecen-yilin-yuzde-75ine-ulasildi",
+      "source": "Tarımdan Haber",
+      "date": "2026-08-02",
+      "summary": "Tarım Politikaları Uzmanı Ergin Kahveci, Brezilya ve Uruguay'dan yapılan canlı hayvan ithalatına ilişkin 2026 yılının ilk altı aylık verilerini değerlendirdi. Analize göre Türkiye, yılın ilk yarısında geçen yılın toplam ithalatının yaklaşık yüzde 75'ine ulaşırken, yalnızca Brezilya'ya ödenen döviz t",
+      "content": "Haber Merkezi / Tarım Politikaları Uzmanı Ergin Kahveci'nin değerlendirdiği dış ticaret verileri, Türkiye'nin 2026 yılının ilk altı ayında canlı hayvan ithalatını yüksek tempoda sürdürdüğünü ortaya koydu.\n\nKahveci'nin analizine göre Türkiye, geçen yıl Brezilya ve Uruguay'dan toplam 469 bin 667 baş canlı besilik dana ithal ederken, 2026'nın ilk altı ayında bu sayı 354 bin 469 başa ulaştı. Böylece geçen yılın toplam ithalatının yaklaşık yüzde 75'i yılın ilk yarısında gerçekleştirilmiş oldu.\n\nBrezilya'ya ödenen döviz geçen yılın seviyesine yaklaştı\n\nAnalize göre en dikkat çekici gelişme ithalat maliyetlerinde yaşandı.\n\nGeçen yıl Brezilya'dan ithal edilen 344 bin 342 baş canlı hayvan için 333,6 milyon dolar ödeme yapılırken, hayvan başına ortalama maliyet 968,94 dolar olarak gerçekleşmişti.\n\n2026 yılının ilk altı ayında ise 255 bin 965 baş canlı hayvan ithal edilmesine rağmen ödenen tutar 320,98 milyon dolara ulaştı. Hayvan başına ortalama ithalat bedeli 1.254 dolar, canlı kilogram başına ortalama fiyat ise 3,10 dolar oldu.\n\nKahveci, ithal edilen hayvan sayısı geçen yılın yaklaşık dörtte üçü seviyesinde olmasına rağmen ödenen döviz tutarının neredeyse geçen yılın toplamına ulaşmasının, küresel canlı hayvan ve kırmızı et fiyatlarındaki yükselişten kaynaklandığını belirtti.\n\nUruguay'da da benzer tablo\n\nUruguay'dan geçen yıl 125 bin 325 baş canlı besilik dana ithal edilirken, bu yılın ilk altı ayında ithalat 98 bin 504 başa ulaştı. Böylece geçen yılın toplam ithalatının yüzde 78,6'sı ilk altı ayda gerçekleştirilmiş oldu.\n\nUruguay veri sisteminde canlı ağırlık bilgileri bulunmadığı için birebir maliyet karşılaştırmasının yapılamadığını belirten Kahveci, buna rağmen 2026'nın ilk yarısında canlı kilogram fiyatlarının 3,10 ile 5,05 dolar arasında değiştiğini, ağırlıklı ortalama fiyatın ise 3,81 dolar/kg ile Brezilya'nın üzerinde gerçekleştiğini ifade etti.\n\nKüresel fiyat artışı ithalat maliyetini büyütüyor\n\nKahveci'nin değerlendirmesine göre veriler, Türkiye'nin ithalatı sürdürmesine rağmen uluslararası piyasalarda canlı hayvan fiyatlarının yükselmesi nedeniyle aynı miktarda hayvan için çok daha yüksek döviz ödemek zorunda kaldığını gösteriyor.\n\nÖzellikle Brezilya ve Uruguay gibi Türkiye'nin başlıca tedarikçi ülkelerinde yükselen fiyatların, önümüzdeki dönemde canlı hayvan ithalatının maliyetini artırmaya devam edebileceği değerlendiriliyor."
+    },
+    {
+      "title": "Dünya tarımında dengeler bozuldu! Bir ülkede ürün yok, diğerinde alıcı yok",
+      "url": "https://www.tarimdanhaber.com/dunya-tariminda-dengeler-bozuldu-bir-ulkede-urun-yok-digerinde-alici-yok",
+      "source": "Tarımdan Haber",
+      "date": "2026-08-02",
+      "summary": "Küresel tarım piyasaları son yılların en dalgalı dönemlerinden birini yaşıyor. Fransa'da mısır üretimi sert düşerken, Yunanistan'da buğday depolarda bekliyor. Çin'in artan soya alımları fiyatları yükseltirken, Kanada'daki üretim kaybı durum buğdayında yeni bir arz krizinin habercisi olarak görülüyor",
+      "content": "Haber Merkezi / Küresel tarım piyasalarında birbirinden tamamen farklı gelişmeler aynı anda yaşanıyor. Bir tarafta kuraklık ve olumsuz hava koşulları nedeniyle üretim gerilerken, diğer tarafta talep yetersizliği nedeniyle ürünler depolarda bekliyor. Buna Çin'in güçlü ithalatı ve Karadeniz'deki jeopolitik riskler de eklenince tarımsal emtia piyasalarında oynaklık giderek artıyor.\n\nUzmanlar, önümüzdeki aylarda hava koşulları ve jeopolitik gelişmelerin fiyatlar üzerinde belirleyici olmaya devam edeceğini değerlendiriyor.\n\nFransa'da mısır üretimi sert darbe aldı\n\nAvrupa'nın önemli üreticilerinden Fransa'da olumsuz hava koşulları mısır tarlalarını vurdu. Verimde yaşanan ciddi düşüş nedeniyle ülkenin son onlarca yılın en zayıf hasatlarından biriyle karşı karşıya olduğu belirtiliyor. Üretimdeki gerileme Avrupa yem piyasasını da yakından ilgilendiriyor.\n\nYunanistan'da buğday depolarda kaldı\n\nYunanistan'da ise farklı bir tablo yaşanıyor. Üreticiler ve kooperatifler, yeterli alıcı bulunamaması nedeniyle buğdaylarını depolarda tutmaya devam ediyor. Talepteki zayıflık, piyasanın normal işleyişini zorlaştırırken satışların yavaşlamasına neden oluyor.\n\nÇin'in alımları soya fiyatlarını yükseltti\n\nDünyanın en büyük tarımsal emtia alıcılarından Çin'in yeniden hız kazanan soya ithalatı, uluslararası piyasalarda fiyatları yukarı taşıdı. Şikago Ticaret Borsası'nda soya fasulyesi vadeli işlemleri son dönemin en güçlü yükselişlerinden birini yaşadı.\n\nKanolada arz endişesi büyüyor\n\nKanola piyasasında da yukarı yönlü baskı dikkat çekiyor. Almanya'daki zayıf hasat beklentisi ile Rusya-Ukrayna geriliminin Karadeniz ticaretine yönelik oluşturduğu riskler fiyatları destekliyor. Petrol fiyatlarındaki yükselişin biyodizel talebini artırması da kanolaya olan ilgiyi güçlendiriyor.\n\nDurum buğdayında yeni arz riski\n\nMakarnalık buğday piyasasında ise gözler Kanada'da. Dünyanın en büyük durum buğdayı ihracatçılarından biri olan ülkede ekim alanlarının daralması üretimi aşağı çekti. Üretimin geçen yıla göre yaklaşık yüzde 8 gerileyerek 6 milyon tona düşmesi, küresel arzın daha da sıkışabileceğine işaret ediyor.\n\nTürkiye açısından ne anlama geliyor?\n\nTürkiye, yem hammaddeleri, yağlı tohumlar ve bazı hububat ürünlerinde uluslararası piyasalardaki gelişmelerden doğrudan etkileniyor. Bu nedenle dünya piyasalarında yaşanabilecek yeni arz sorunları veya fiyat hareketleri, ithalat maliyetlerinden iç piyasa fiyatlarına kadar birçok alanda etkisini gösterebilir.\n\nÖzellikle mısır, soya ve durum buğdayındaki gelişmelerin önümüzdeki aylarda hem yem sanayisi hem de un ve makarna sektörünün maliyetlerini yakından etkilemesi bekleniyor."
+    },
     {
       "title": "TZOB: Mazot Fiyatı Bir Yılda Yüzde 43,6 Arttı",
       "url": "https://www.tarimpusulasi.com/haber/tzob-mazot-fiyati-bir-yilda-yuzde-436-artti-47236",
@@ -117,22 +133,6 @@
       "date": "2026-07-31",
       "summary": "Balıkesir'in Gönen ilçesinde biyogaz ve biyokütle tesislerinden kaynaklanan atıkların dere yataklarına ve tarım alanlarına bırakıldığı iddiaları yeniden gündeme geldi. Gönen Çevre Platformu, coğrafi işaretli Gönen Baldo Pirinci'nin sulandığı su kaynaklarının kirlenmiş olabileceğini öne sürerek hem T",
       "content": "Tarımdan Haber Özel / Türkiye'nin coğrafi işaretli pirinçlerinden biri olan Gönen Baldo Pirinci, bu kez üretim kalitesiyle değil, çevre kirliliği iddialarıyla gündemde.\n\nBalıkesir'in Gönen ilçesinde yaklaşık 80 bin dekarlık alanda gerçekleştirilen çeltik üretiminde en önemli ürünlerden biri olan Gönen Baldo Pirinci için çevre örgütleri dikkat çeken uyarılarda bulundu.\n\nGönen Çevre Platformu, Gönen Organize Sanayi Bölgesi'nde faaliyet gösteren bazı biyogaz ve biyokütle tesislerinden kaynaklanan sıvı atıkların Dededüzü Deresi'ne deşarj edildiğini, ayrıca İzmir'den getirilen arıtma çamurlarının tarım alanlarına kaçak şekilde döküldüğünü iddia etti.\n\nPlatform, söz konusu kirliliğin çeltik tarlalarının sulandığı su kaynaklarını etkileyebileceğini öne sürerek, coğrafi işaretli Gönen Baldo Pirinci'nin üretimi açısından ciddi risk oluştuğunu savundu.\n\n\"Pirinçler analiz edilmeli\"\n\nGönen Çevre Platformu üyesi Mustafa Şahin, bölgede yaşanan çevre kirliliğinin yalnızca Gönen'i değil, Türkiye genelindeki tüketicileri de ilgilendirdiğini ileri sürdü.\n\nŞahin, zincir marketlerde satılan Gönen menşeli pirinçlerin bağımsız analizlerden geçirilmesi gerektiğini belirterek, kamuoyundaki soru işaretlerinin ancak bilimsel incelemelerle giderilebileceğini söyledi.\n\nBakanlıklara inceleme çağrısı\n\nPlatform, Çevre, Şehircilik ve İklim Değişikliği Bakanlığı'nın çevre kirliliği iddialarını, Tarım ve Orman Bakanlığı'nın ise sulama suyu ile çeltik üretimi açısından oluştuğu öne sürülen riskleri incelemesini istedi.\n\nOSB yönetimi ve tesislerle ilgili iddialar\n\nMustafa Şahin, Gönen OSB bünyesindeki bazı tesislerin çevreyi kirlettiğini iddia ederek, özellikle biyogaz tesislerinden çıkan sıvı atıkların yağmur suyu kanalları üzerinden dereye ulaştığını öne sürdü."
-    },
-    {
-      "title": "Settar Aslan: \"Yangının canı, ruhu, vicdanı yok; onu çıkaranların var\"",
-      "url": "https://www.tarimdanhaber.com/settar-aslan-yanginin-cani-ruhu-vicdani-yok-onu-cikaranlarin-var",
-      "source": "Tarımdan Haber",
-      "date": "2026-07-31",
-      "summary": "Öz Orman-İş Sendikası Genel Başkanı Settar Aslan, Tarımdan Haber'e yaptığı açıklamada orman yangınlarının neredeyse tamamının insan kaynaklı olduğuna dikkat çekti. \"En güçlü söndürme yöntemi yangının hiç çıkmamasıdır\" diyen Aslan, ihmalin sadece ormanları değil, insan hayatını ve milyarlarca liralık",
-      "content": "Haber Merkezi / Türkiye'nin birçok noktasında devam eden orman yangınlarını Tarımdan Haber'e değerlendiren Öz Orman-İş Sendikası Genel Başkanı Settar Aslan, yangınlarla mücadelede asıl başarının yangın çıktıktan sonra değil, çıkmadan önce alınacak tedbirlerle mümkün olacağını söyledi.\n\nYangınların artık yalnızca doğal afet olarak değerlendirilemeyeceğini belirten Aslan, yaşanan felaketlerin büyük bölümünün insan kaynaklı olduğunu ifade etti.\n\n\"Yangının canı yok, onu çıkaranların var\"\n\nAçıklamasında çarpıcı ifadeler kullanan Aslan, şu değerlendirmede bulundu:\n\n\"Yangının canı yok, ruhu yok, vicdanı yok. Ancak onu çıkaranların canı da var, ruhu da var, vicdanı da var. Bir izmariti ormana atan da, anız yakan da, piknik ateşini söndürmeden ayrılan da yaptığı davranışın bedelini sadece birkaç ağacın yanması olarak görmemelidir.\"\n\nHer yangında yalnızca ağaçların değil, toprağın, yaban hayatının ve ülkenin milli servetinin de yok olduğunu belirten Aslan, ihmalin bedelinin toplumun tamamı tarafından ödendiğini söyledi.\n\n\"Bugünkü tablo bilimin söylediğini doğruladı\"\n\nBu yıl yağışların fazla olması nedeniyle orman altı örtüsünde yoğun yanıcı madde oluştuğunu aylar öncesinden dile getirdiklerini hatırlatan Aslan, sıcaklığın 30 derecenin üzerine çıkması, bağıl nemin yüzde 30'un altına düşmesi ve rüzgar hızının saatte 30 kilometreyi aşmasıyla oluşan \"üç 30 kuralının\" büyük yangın riskini beraberinde getirdiğini belirtti.\n\n\"Bugün yaşadığımız tablo tam da budur. Bilimin söylediği gerçekleşmiştir.\" dedi.\n\n\"Teknoloji önemli ama ihmali telafi edemez\"\n\nDevletin yangınla mücadelede hava ve kara filosunu önemli ölçüde güçlendirdiğini belirten Aslan, uçak, helikopter, İHA ve termal kameraların büyük katkı sağladığını ancak hiçbir teknolojinin insan ihmali kadar büyük bir riski ortadan kaldıramayacağını söyledi.\n\n\"En güçlü söndürme yöntemi yangının hiç çıkmamasıdır. Bir kibriti söndürmek, binlerce hektarı söndürmekten çok daha kolaydır.\"\n\n\"Bu acıları canımızla ödedik\"\n\nGeçmiş yıllarda yaşanan büyük yangınlarda çok sayıda orman işçisinin hayatını kaybettiğini hatırlatan Aslan, bu acıları yakından yaşadıklarını belirterek, dikkatsizliğin yalnızca ağaçları değil insanların yaşamını da tehdit ettiğini ifade etti.\n\n\"Artık yangını söndürmeyi değil, önlemeyi konuşmalıyız\"\n\nVatandaşlara da çağrıda bulunan Aslan, ormanların korunmasının yalnızca kamu kurumlarının değil toplumun ortak sorumluluğu olduğunu belirterek daha güçlü denetim, caydırıcı cezalar, yaygın eğitim ve \"Yeşil Vatan bilinci\" oluşturulması gerektiğini söyledi.\n\nSözlerini gelecek nesillere dikkat çekerek tamamlayan Aslan, \"Bir ağacın büyümesi onlarca yıl sürüyor, onu yok etmek ise birkaç dakika. Her vatandaş Yeşil Vatan'ın gönüllü koruyucusu olmalıdır. Çünkü kaybettiğimiz her orman, geleceğimizden eksilen bir nefestir.\" dedi."
-    },
-    {
-      "title": "Orman yangınları nasıl önlenir? İYİ Parti'den dikkat çeken 17 maddelik eylem planı",
-      "url": "https://www.tarimdanhaber.com/orman-yanginlari-nasil-onlenir-iyi-partiden-dikkat-ceken-17-maddelik-eylem-plani",
-      "source": "Tarımdan Haber",
-      "date": "2026-07-31",
-      "summary": "İYİ Parti Tarım Politikaları Başkanı Kadir Ulusoy, Türkiye'de orman yangınlarının büyük bölümünün insan kaynaklı olduğunu belirterek, yangınlarla mücadelede mevcut uygulamaların gözden geçirilmesi gerektiğini söyledi. Ulusoy, elektrik hatlarından orman köylüsünün sürece dahil edilmesine, hava gücünü",
-      "content": "Haber Merkezi / İYİ Parti Tarım Politikaları Başkanı Kadir Ulusoy, son dönemde artan orman yangınlarına ilişkin basın toplantısı düzenleyerek, yangınların önlenmesi ve mücadele kapasitesinin artırılması için alınması gereken tedbirleri sıraladı.\n\nUlusoy, Türkiye'deki orman yangınlarının yaklaşık yüzde 70'inin doğrudan insan kaynaklı nedenlerle çıktığını, nedeni belirlenemeyen yaklaşık yüzde 29'luk kısmın da büyük ölçüde insan faaliyetleriyle bağlantılı olduğunun değerlendirildiğini ifade etti. Doğal nedenlerle çıkan yangınların ise yaklaşık yüzde 1 seviyesinde kaldığını belirten Ulusoy, \"Bu tablo, orman yangınlarının önlenmesinde insan faktörünün ne kadar belirleyici olduğunu ortaya koyuyor.\" dedi.\n\nRiskli bölgeler önceden belirlenmeli\n\nYangınlara hızlı müdahale edilebilmesi için riskli bölgelerin önceden belirlenmesi gerektiğini kaydeden Ulusoy, bu alanlarda yeterli ekip, ekipman ve müdahale kapasitesinin oluşturulmasının önemine dikkat çekti.\n\nElektrik dağıtım şirketlerine bakım çağrısı\n\nElektrik dağıtım şirketlerinin sorumluluklarını eksiksiz yerine getirmesi gerektiğini belirten Ulusoy, enerji nakil hatlarının altındaki yanıcı materyallerin düzenli temizlenmesi, dağıtım hatları ile trafoların periyodik bakımlarının aksatılmaması gerektiğini ifade etti.\n\nOrman köylüsü yangınla mücadeleye dahil edilmeli\n\nOrman yangınlarıyla mücadelede bölgeyi tanıyan orman köylülerinin daha aktif görev almasının önemine işaret eden Ulusoy, yangın riski yüksek dönemlerde geçici orman işçisi istihdam edilmesini, orman köylerinde yangın eğitimleri verilmesini ve gerekli ekipmanların sağlanmasını önerdi.\n\nHava gücü ve eğitim güçlendirilmeli\n\nYangın sezonu dışında personelin sürekli eğitime tabi tutulması gerektiğini belirten Ulusoy, hava gücünün artırılması, yangın ekiplerinin deneyimli yöneticiler tarafından yönetilmesi ve ilk müdahale araçlarının asli görevleri dışında kullanılmaması gerektiğini vurguladı.\n\nKontrollü otlatma önerisi\n\nUlusoy, kontrollü otlatmanın orman altındaki yanıcı örtünün azaltılmasına katkı sağlayabileceğini belirterek, mevzuatta yer almasına rağmen uygulamada yeterince kullanılmayan bu yöntemin teşvik edilmesini istedi.\n\nKadir Ulusoy'un öne çıkan önerileri\n\nYangına hassas bölgeler önceden belirlenerek ekip ve ekipman güçlendirilmeli.\n\nElektrik dağıtım şirketleri enerji hatları ve trafoların bakımını düzenli yapmalı.\n\nSilvikültürel bakım çalışmaları aksatılmamalı.\n\nOrman köylüleri yangınla mücadele sürecine aktif şekilde dahil edilmeli.\n\nYangın riski yüksek dönemlerde geçici orman işçileri istihdam edilmeli.\n\nOrman köylerinde yangın eğitimleri yaygınlaştırılmalı.\n\nHava gücü ve ilk müdahale kapasitesi artırılmalı.\n\nYangın ekipleri yıl boyunca teknik ve fiziksel eğitimlerden geçirilmeli.\n\nGönüllü ekipler tecrübelerine göre sahada veya lojistik destek hizmetlerinde görevlendirilmeli.\n\nYangın göletlerinin sayısı artırılmalı.\n\nOrman giriş yasaklarının denetimi etkin şekilde yapılmalı.\n\nKontrollü otlatma uygulamaları teşvik edilmeli."
     }
   ],
   "commoditiesByBorsa": {
