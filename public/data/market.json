@@ -1,43 +1,59 @@
 {
-  "updatedAt": "2026-08-02T06:14:40.176Z",
+  "updatedAt": "2026-08-02T08:37:02.655Z",
   "fx": [
     {
       "code": "USD",
       "name": "Dolar",
-      "buy": 47.47,
-      "sell": 47.56,
-      "change": 0.18
+      "buy": 474681,
+      "sell": 475574,
+      "change": 18
     },
     {
       "code": "EUR",
       "name": "Euro",
-      "buy": 54.77,
-      "sell": 54.86,
-      "change": 0.06
+      "buy": 547706,
+      "sell": 548602,
+      "change": 6
     },
     {
       "code": "GRA",
       "name": "Gram Altın",
-      "buy": 6174.46,
-      "sell": 6175.37,
-      "change": -1.31
+      "buy": 617446,
+      "sell": 617537,
+      "change": -131
     },
     {
       "code": "CEYREKALTIN",
       "name": "Çeyrek Altın",
-      "buy": 9802.68,
-      "sell": 10027.02,
-      "change": -0.93
+      "buy": 980268,
+      "sell": 1002702,
+      "change": -93
     },
     {
       "code": "CUMHURIYETALTINI",
       "name": "Cumhuriyet Altını",
       "buy": 40632,
       "sell": 41252,
-      "change": -0.98
+      "change": -98
     }
   ],
   "news": [
+    {
+      "title": "TZOB: Mazot Fiyatı Bir Yılda Yüzde 43,6 Arttı",
+      "url": "https://www.tarimpusulasi.com/haber/tzob-mazot-fiyati-bir-yilda-yuzde-436-artti-47236",
+      "source": "Tarım Pusulası",
+      "date": "2026-08-02",
+      "summary": "Türkiye Ziraat Odaları Birliği (TZOB) Genel Başkanı Şemsi Bayraktar, Temmuz ayı tarımsal girdi fiyatlarını değerlendirdi. Bayraktar, son bir yılda amonyum nitrat gübresinin yüzde 71, mazotun yüzde 43,6, besi yeminin yüzde 29,6 ve elektriğin yüzde 25,1 oranında arttığını açıkladı.",
+      "content": "ANKARA — Türkiye Ziraat Odaları Birliği (TZOB) Genel Başkanı Şemsi Bayraktar, Temmuz ayına ilişkin tarımsal girdi fiyatlarını değerlendirdi. Bayraktar, Ziraat Odalarından derlenen verilere göre, son bir yılda birçok temel tarımsal girdide önemli fiyat artışları yaşandığını bildirdi.\n\nBayraktar'ın açıklamasına göre, Temmuz ayında Haziran ayına kıyasla 20.20.0 kompoze gübresi yüzde 0,1, amonyum nitrat gübresi ise yüzde 0,2 oranında arttı. Aynı dönemde ÜRE gübresi yüzde 10,9, amonyum sülfat gübresi yüzde 8,6 ve DAP gübresi yüzde 1,2 oranında geriledi.\n\nYıllık bazda ise en yüksek artış yüzde 71 ile amonyum nitrat gübresinde görüldü. Amonyum sülfat gübresi yüzde 59,4, 20.20.0 kompoze gübresi yüzde 35,4, DAP gübresi yüzde 25 ve ÜRE gübresi yüzde 1,5 oranında zamlandı.\n\nHayvancılıkta önemli maliyet kalemlerinden yem fiyatlarında ise aylık bazda sınırlı düşüşler yaşandı. Temmuz ayında besi yemi fiyatı yüzde 0,1, süt yemi fiyatı ise yüzde 0,4 gerilerken, son bir yılda besi yemi yüzde 29,6, süt yemi ise yüzde 27,8 oranında arttı.\n\nBayraktar, enerji ve akaryakıt maliyetlerindeki yükselişin de sürdüğünü belirterek, elektrik fiyatlarının son bir yılda yüzde 25,1, tarım ilacı fiyatlarının yüzde 27,8 arttığını ifade etti. Mazot fiyatının ise Temmuz ayında bir önceki aya göre yüzde 19,4, geçen yılın aynı ayına göre ise yüzde 43,6 yükseldiğini açıkladı.\n\nTZOB verilerine göre Temmuz 2026 itibarıyla amonyum nitrat gübresinin fiyatı 22 bin 963 lira, 20.20.0 kompoze gübresinin fiyatı 28 bin 89 lira, DAP gübresinin fiyatı 42 bin 88 lira, ÜRE gübresinin fiyatı 27 bin 178 lira, amonyum sülfat gübresinin fiyatı ise 19 bin 131 lira seviyesinde gerçekleşti.\n\nAynı dönemde mazotun litre fiyatı 78 lira 32 kuruşa yükselirken, besi yeminin tonu 17 bin 925 lira, süt yeminin tonu ise 19 bin 100 lira oldu. Tarım ilacı olarak takip edilen Deltametrin EC (25 g/L) ürününün fiyatı 1.150 lira, elektrik birim fiyatı ise 472,08 kuruş olarak kaydedildi.\n\nŞemsi Bayraktar, tarımsal üretimde temel girdi kalemlerinde yaşanan fiyat hareketlerinin üretim maliyetleri üzerinde belirleyici olmaya devam ettiğini belirtti.\n\nTARIM PUSULASI HABER MERKEZİ"
+    },
+    {
+      "title": "TZOB: Üretici ile Market Arasındaki Fark Havuçta Yüzde 461'i Aştı",
+      "url": "https://www.tarimpusulasi.com/haber/tzob-uretici-ile-market-arasindaki-fark-havucta-yuzde-461i-asti-47235",
+      "source": "Tarım Pusulası",
+      "date": "2026-08-02",
+      "summary": "Türkiye Ziraat Odaları Birliği Genel Başkanı Şemsi Bayraktar, Temmuz ayı üretici ve market fiyatlarını değerlendirdi. Bayraktar, üretici ile market arasındaki fiyat farkının en yüksek yüzde 461,2 ile havuçta gerçekleştiğini, markette en fazla fiyat artışının sivri biberde, üreticide ise kuru soğanda",
+      "content": "ANKARA — Türkiye Ziraat Odaları Birliği (TZOB) Genel Başkanı Şemsi Bayraktar, Temmuz ayına ilişkin üretici ve market fiyatlarını değerlendirdi. Bayraktar, üretici ile market arasındaki fiyat farkının en yüksek yüzde 461,2 ile havuçta görüldüğünü, havucu yüzde 444,4 ile elma, yüzde 236,6 ile yeşil mercimek, yüzde 231,6 ile kabak ve yüzde 219,5 ile maydanozun takip ettiğini açıkladı.\n\nBayraktar'ın verdiği bilgilere göre, üreticide 11 lira olan havuç markette 61 lira 73 kuruşa satılırken, üreticide 18 lira 75 kuruş olan elma 102 lira 7 kuruşa ulaştı. Yeşil mercimeğin üretici fiyatı 24 lira 21 kuruş iken markette 81 lira 50 kuruşa, kabağın üretici fiyatı 17 lira 64 kuruştan markette 58 lira 49 kuruşa, maydanoz ise üreticide 6 lira 82 kuruştan markette 21 lira 79 kuruşa satıldı.\n\nMarkette En Fazla Artış Sivri Biberde\n\nBayraktar, Temmuz ayında markette takip edilen 39 ürünün 19'unda fiyat artışı, 20'sinde ise fiyat düşüşü yaşandığını belirtti.\n\nMarkette fiyatı en fazla artan ürünün yüzde 86,2 ile sivri biber olduğunu ifade eden Bayraktar, bu ürünü yüzde 53,3 ile kuru soğan, yüzde 23,4 ile mısırözü yağı, yüzde 22,8 ile kuru üzüm ve yüzde 15,5 ile patatesin izlediğini kaydetti.\n\nMarket fiyatlarında en yüksek gerilemenin ise yüzde 49 ile karpuzda görüldüğünü bildiren Bayraktar, karpuzu yüzde 39,6 ile yeşil fasulye, yüzde 30,2 ile kiraz, yüzde 28,6 ile havuç ve yüzde 23,5 ile tavuk etinin takip ettiğini açıkladı.\n\nÜreticide Kuru Soğan Yükseldi, Havuç Geriledi\n\nTemmuz ayında üreticide takip edilen 31 ürünün 8'inde fiyat artışı, 16'sında fiyat düşüşü yaşandığını, 7 üründe ise fiyatların değişmediğini belirten Bayraktar, üreticide en fazla fiyat düşüşünün yüzde 51,1 ile havuçta gerçekleştiğini söyledi.\n\nHavuçtaki düşüşü yüzde 49 ile karpuz, yüzde 43,7 ile kabak, yüzde 38,6 ile yeşil mercimek ve yüzde 29,6 ile salatalığın takip ettiğini aktaran Bayraktar, üreticide en yüksek fiyat artışının ise yüzde 52,9 ile kuru soğanda görüldüğünü bildirdi.\n\nKuru soğanı yüzde 49,2 ile sivri biber, yüzde 31,8 ile çilek, yüzde 13,9 ile domates ve yüzde 13,7 ile patates izledi.\n\nFiyat Değişimlerinin Nedenleri\n\nBayraktar, fiyat hareketlerinin ürün arzındaki mevsimsel değişimlerden kaynaklandığını belirterek, Çukurova Bölgesi'nde yazlık kuru soğan hasadının tamamlanması, İç Anadolu Bölgesi'nde ise erkenci çeşitlerin hasadının yeni başlaması nedeniyle arzda geçici daralma yaşandığını ve bunun üretici fiyatlarını yükselttiğini ifade etti.\n\nKıyı bölgelerinde sera üretiminin sona ermesiyle sivri biber ve domates arzının azaldığını, çilekte ise sezon sonuna yaklaşılması nedeniyle üretimin gerilediğini belirten Bayraktar, buna bağlı olarak bu ürünlerde üretici fiyatlarının arttığını söyledi.\n\nBuna karşılık yayla bölgelerinde kabak, salatalık ve patlıcan üretiminin artmasıyla arzın yükseldiğini, talebin ise aynı düzeyde artmaması nedeniyle fiyatların gerilediğini ifade eden Bayraktar, ilkbaharda etkili olan uzun süreli yağışların yazlık patates üretiminde kayıplara yol açmasının da arzı daraltarak fiyat artışına neden olduğunu kaydetti.\n\nBayraktar ayrıca, havuç ve yeşil mercimekte mevsimsel arz artışı ile talepteki zayıflamanın fiyatları aşağı çektiğini, karpuzda ise depolama süresinin kısa olması ve talebin beklentilerin altında kalmasının üretici fiyatlarının gerilemesinde etkili olduğunu belirtti.\n\nTARIM PUSULASI HABER MERKEZİ"
+    },
     {
       "title": "Dondurulmuş Meyveler Yazın Pratik Tüketim Seçeneği Sunuyor",
       "url": "https://www.tarimpusulasi.com/haber/dondurulmus-meyveler-yazin-pratik-tuketim-secenegi-sunuyor-47234",
@@ -95,14 +111,6 @@
       "content": "ANKARA — Tarım ve Orman Bakanı İbrahim Yumaklı, toplam 301 milyon 345 bin liralık tarımsal destekleme ödemesinin çiftçilerin hesaplarına aktarılacağını açıkladı. Bakanlık tarafından yapılacak ödeme kapsamında kırsal kalkınma yatırımları ile sertifikalı tohum kullanımına yönelik destekler üreticilere ulaştırılacak.\n\nBakan Yumaklı, sosyal medya hesabından yaptığı açıklamada, tarımsal üretimde verimliliğin artırılması amacıyla üreticilere verilen desteklerin sürdüğünü belirtti. Yumaklı, \"Üretimde verimliliği artırmak amacıyla çiftçilerimizi desteklemeye devam ediyoruz. 301 milyon TL tarımsal destek ödemesi çiftçilerimizin hesaplarına aktarılıyor. Hayırlı ve bereketli olsun.\" ifadelerini kullandı.\n\nBakanlığın paylaştığı bilgilere göre 301 milyon 345 bin liralık toplam destek ödemesinin;\n\n299 milyon 59 bin 172 lirası Kırsal Kalkınma Yatırımları Desteği,\n\n2 milyon 285 bin 828 lirası ise Sertifikalı Tohum Kullanım Desteği kapsamında gerçekleştirilecek.\n\nAçıklanan rakamlar birlikte değerlendirildiğinde, toplam desteğin yaklaşık %99,2'sini Kırsal Kalkınma Yatırımları Desteği oluştururken, %0,8'lik kısmı Sertifikalı Tohum Kullanım Desteği kapsamında ödenecek.\n\nTarım ve Orman Bakanlığı, üretimin sürdürülebilirliğini desteklemeyi amaçlayan tarımsal destekleme programlarını yıl içerisinde belirlenen takvim doğrultusunda sürdürürken, açıklanan yeni ödeme ile birlikte desteklerden yararlanan üreticilerin hesaplarına toplam 301 milyon 345 bin liralık kaynak aktarılmış olacak.\n\nTARIM PUSULASI HABER MERKEZİ"
     },
     {
-      "title": "TMO'dan Hububat Ürün Bedeli İçin 23,3 Milyar TL Ödemesi",
-      "url": "https://www.tarimpusulasi.com/haber/tmodan-hububat-urun-bedeli-icin-233-milyar-tl-odemesi-47228",
-      "source": "Tarım Pusulası",
-      "date": "2026-07-31",
-      "summary": "Toprak Mahsulleri Ofisi (TMO), 2-8 Temmuz 2026 tarihleri arasında teslim edilen hububat ürünlerine ilişkin 23 milyar 312 milyon liralık ürün bedelini 29 Temmuz 2026 tarihinde üreticilerin hesaplarına aktardı. Kurum, ödemesi yapılan üreticilere SMS ile bilgilendirme yapıldığını, ürün bedeli ödemeleri",
-      "content": "ANKARA — Toprak Mahsulleri Ofisi (TMO), 2026 yılı hububat alımları kapsamında üreticilere yönelik ürün bedeli ödemelerini sürdürdüğünü açıkladı. Kurumun paylaştığı bilgilere göre, 2-8 Temmuz 2026 tarihleri arasında teslim edilen hububat ürünlerine ait 23 milyar 312 milyon liralık ödeme, 29 Temmuz 2026 tarihinde üreticilerin banka hesaplarına aktarıldı.\n\nAçıklamada, söz konusu ödemenin hububat alım programı kapsamında gerçekleştirildiği belirtilirken, ödemesi tamamlanan üreticilere kısa mesaj (SMS) yoluyla bilgilendirme yapıldığı ifade edildi. Böylece üreticiler, hesaplarına aktarılan tutarlar hakkında doğrudan bilgilendiriliyor.\n\nTMO ayrıca, hububat ürün bedeli ödemelerinin tek seferlik bir uygulama olmadığını, ürün teslim süreçlerine bağlı olarak periyodik şekilde devam edeceğini duyurdu. Kurum, teslim edilen ürünlerin ödeme süreçlerinin planlama doğrultusunda sürdürüleceğini bildirdi.\n\nPaylaşılan verilere göre bu ödeme döneminde üreticilere aktarılan toplam tutar 23 milyar 312 milyon TL olarak gerçekleşti. Ödeme kapsamı ise 2-8 Temmuz 2026 tarihleri arasında TMO'ya teslim edilen hububat ürünlerini kapsıyor. Açıklamada farklı bir ödeme tutarı veya önceki dönemlerle karşılaştırmaya imkân verecek ilave veri yer almadığından, yalnızca kurum tarafından açıklanan rakamlar habere yansıtıldı.\n\nTMO, üreticilere yönelik ürün bedeli ödemelerinin planlanan takvim doğrultusunda devam edeceğini belirtirken, yeni ödeme dönemlerine ilişkin duyuruların da kurumun resmi iletişim kanalları üzerinden paylaşılacağını kaydetti.\n\nTARIM PUSULASI HABER MERKEZİ"
-    },
-    {
       "title": "Gönen Baldo Pirinci için alarm! Coğrafi işaretli ürüne çevre kirliliği gölgesi",
       "url": "https://www.tarimdanhaber.com/gonen-baldo-pirinci-icin-alarm-cografi-isaretli-urune-cevre-kirliligi-golgesi",
       "source": "Tarımdan Haber",
@@ -117,14 +125,6 @@
       "date": "2026-07-31",
       "summary": "Öz Orman-İş Sendikası Genel Başkanı Settar Aslan, Tarımdan Haber'e yaptığı açıklamada orman yangınlarının neredeyse tamamının insan kaynaklı olduğuna dikkat çekti. \"En güçlü söndürme yöntemi yangının hiç çıkmamasıdır\" diyen Aslan, ihmalin sadece ormanları değil, insan hayatını ve milyarlarca liralık",
       "content": "Haber Merkezi / Türkiye'nin birçok noktasında devam eden orman yangınlarını Tarımdan Haber'e değerlendiren Öz Orman-İş Sendikası Genel Başkanı Settar Aslan, yangınlarla mücadelede asıl başarının yangın çıktıktan sonra değil, çıkmadan önce alınacak tedbirlerle mümkün olacağını söyledi.\n\nYangınların artık yalnızca doğal afet olarak değerlendirilemeyeceğini belirten Aslan, yaşanan felaketlerin büyük bölümünün insan kaynaklı olduğunu ifade etti.\n\n\"Yangının canı yok, onu çıkaranların var\"\n\nAçıklamasında çarpıcı ifadeler kullanan Aslan, şu değerlendirmede bulundu:\n\n\"Yangının canı yok, ruhu yok, vicdanı yok. Ancak onu çıkaranların canı da var, ruhu da var, vicdanı da var. Bir izmariti ormana atan da, anız yakan da, piknik ateşini söndürmeden ayrılan da yaptığı davranışın bedelini sadece birkaç ağacın yanması olarak görmemelidir.\"\n\nHer yangında yalnızca ağaçların değil, toprağın, yaban hayatının ve ülkenin milli servetinin de yok olduğunu belirten Aslan, ihmalin bedelinin toplumun tamamı tarafından ödendiğini söyledi.\n\n\"Bugünkü tablo bilimin söylediğini doğruladı\"\n\nBu yıl yağışların fazla olması nedeniyle orman altı örtüsünde yoğun yanıcı madde oluştuğunu aylar öncesinden dile getirdiklerini hatırlatan Aslan, sıcaklığın 30 derecenin üzerine çıkması, bağıl nemin yüzde 30'un altına düşmesi ve rüzgar hızının saatte 30 kilometreyi aşmasıyla oluşan \"üç 30 kuralının\" büyük yangın riskini beraberinde getirdiğini belirtti.\n\n\"Bugün yaşadığımız tablo tam da budur. Bilimin söylediği gerçekleşmiştir.\" dedi.\n\n\"Teknoloji önemli ama ihmali telafi edemez\"\n\nDevletin yangınla mücadelede hava ve kara filosunu önemli ölçüde güçlendirdiğini belirten Aslan, uçak, helikopter, İHA ve termal kameraların büyük katkı sağladığını ancak hiçbir teknolojinin insan ihmali kadar büyük bir riski ortadan kaldıramayacağını söyledi.\n\n\"En güçlü söndürme yöntemi yangının hiç çıkmamasıdır. Bir kibriti söndürmek, binlerce hektarı söndürmekten çok daha kolaydır.\"\n\n\"Bu acıları canımızla ödedik\"\n\nGeçmiş yıllarda yaşanan büyük yangınlarda çok sayıda orman işçisinin hayatını kaybettiğini hatırlatan Aslan, bu acıları yakından yaşadıklarını belirterek, dikkatsizliğin yalnızca ağaçları değil insanların yaşamını da tehdit ettiğini ifade etti.\n\n\"Artık yangını söndürmeyi değil, önlemeyi konuşmalıyız\"\n\nVatandaşlara da çağrıda bulunan Aslan, ormanların korunmasının yalnızca kamu kurumlarının değil toplumun ortak sorumluluğu olduğunu belirterek daha güçlü denetim, caydırıcı cezalar, yaygın eğitim ve \"Yeşil Vatan bilinci\" oluşturulması gerektiğini söyledi.\n\nSözlerini gelecek nesillere dikkat çekerek tamamlayan Aslan, \"Bir ağacın büyümesi onlarca yıl sürüyor, onu yok etmek ise birkaç dakika. Her vatandaş Yeşil Vatan'ın gönüllü koruyucusu olmalıdır. Çünkü kaybettiğimiz her orman, geleceğimizden eksilen bir nefestir.\" dedi."
-    },
-    {
-      "title": "Gürer: TMO alım politikası üreticiyi zorluyor",
-      "url": "https://www.tarimpusulasi.com/haber/gurer-tmo-alim-politikasi-ureticiyi-zorluyor-47227",
-      "source": "Tarım Pusulası",
-      "date": "2026-07-31",
-      "summary": "CHP Niğde Milletvekili ve TBMM Tarım, Orman ve Köyişleri Komisyonu Üyesi Ömer Fethi Gürer, TBMM Genel Kurulu'nda yaptığı konuşmada Toprak Mahsulleri Ofisi'nin (TMO) alım politikalarını, hububat alım fiyatlarını ve tarımdaki yapısal sorunları eleştirdi. Gürer, üreticinin artan girdi maliyetleri, düşü",
-      "content": "ANKARA — CHP Niğde Milletvekili ve TBMM Tarım, Orman ve Köyişleri Komisyonu Üyesi Ömer Fethi Gürer, TBMM Genel Kurulu'nda yaptığı konuşmada Toprak Mahsulleri Ofisi'nin (TMO) alım politikalarının üreticiyi korumakta yetersiz kaldığını savunarak, tarım sektöründe uygulanan politikaların üreticinin gelir kaybı yaşamasına neden olduğunu söyledi. Gürer, TMO'nun açıkladığı alım fiyatlarının piyasada belirleyici olduğunu ancak uygulama koşulları nedeniyle birçok çiftçinin ürününü bu fiyatlardan satamadığını ifade etti.\n\nToprak Mahsulleri Ofisi'nin geçmişte çiftçinin en önemli güvencelerinden biri olduğunu belirten Gürer, kurumun zaman içinde yapısal değişiklikler yaşadığını anlattı. 2006 yılında depoların satılması ve birçok bölgede TMO'nun alım faaliyetlerinin azaltılmasıyla üreticinin pazarlama konusunda sıkıntılar yaşamaya başladığını dile getiren Gürer, daha sonra kurumun yeniden farklı bir yapıyla faaliyet göstermeye başladığını söyledi.\n\nTMO'nun açıkladığı alım fiyatlarının taban fiyat niteliği taşımadığını belirten Gürer, sistemin üreticiyi tüccar karşısında zayıf bıraktığını savundu.\n\n\"Kamunun 'alım fiyatı' adı altında belirlediği fiyatı tüccar bekliyor, onun altında fiyatla piyasaya giriyor. Taban fiyat uygulaması olmadığı için TMO'nun açıkladığı fiyat bir alım fiyatı. Ama TMO'ya ürün teslim etmenin şartları ağır. Randevu sistemi diyor, ödemede problem var, 'Ayağıma getir, belirlediğim yerde olsun' diyor; çünkü her yerde alım yapmıyor. Borçlu çiftçi de tarlaya gelen tüccara ürününü vermek durumunda kalıyor ve ürününden para kazanamıyor.\" dedi.\n\nBuğday alım fiyatlarının üretim maliyetlerinin altında kaldığını ileri süren Gürer, farklı bölgelerde maliyetlerin değiştiğine dikkat çekti.\n\n\"Bu yıl 16 bin 500 lira tonunda buğdayın fiyatı açıklandı. Çukurova'daki verimliliğe göre 20 bin lira civarında bir fiyatken, İç Anadolu'da kıraç arazideki verime göre de 24 bin lira civarında bir maliyeti var.\" ifadelerini kullandı.\n\nFındıkta açıklanacak alım fiyatlarının üreticiler açısından kritik önem taşıdığını belirten Gürer, Cumhuriyet Halk Partisi'nin önerisini de Genel Kurul'da paylaştı.\n\n\"Cumhuriyet Halk Partisi olarak önerimiz; çiftçi refahını sağlayacak, kiloda 370 liralık bir fiyat diyoruz.\" diye konuştu.\n\nFındığın ülkemiz açısından stratejik bir ihraç ürünü olduğunu vurgulayan Gürer, üreticinin yeterince desteklenmediğini savunarak yabancı şirketlerin sektördeki etkisine dikkat çekti.\n\n\"Fındıkta dünya markasıyız. Ama Türkiye'de fındık üreticisinin yanında durmayan bir kamu var.\" dedi.\n\nKonuşmasının devamında tarım sektöründeki genel tabloyu değerlendiren Gürer, yalnızca tek yıllık üretim artışlarının esas alınmasının gerçeği yansıtmadığını ifade etti. Kuraklık ve zirai don nedeniyle son yıllarda önemli üretim kayıpları yaşandığını belirten Gürer, tarla ürünleri ve meyvede yaklaşık 10'ar milyon tonluk kayıp oluştuğunu söyledi.\n\nBuğday üretimindeki uzun dönemli değişime de dikkat çeken Gürer, nüfus artışı dikkate alındığında üretimde yeterli seviyeye ulaşılamadığını ifade etti.\n\n\"2002 yılında bu ülkede 19 milyon 500 bin ton buğday yetişirken geçen yıl 17 milyon 900 bin ton yetişmişti. Nüfus oranı ölçüsünde buğday üretiminde artışımız yok, açığımız var.\" dedi.\n\nÜreticinin alım gücündeki gerilemeye ilişkin örnekler veren Gürer, buğday fiyatlarının girdi maliyetleri karşısında yetersiz kaldığını belirtti.\n\n\"2025 yılında 1 ton buğday satan çiftçi 287 litre mazot alıyordu. Bu yıl 1 ton buğday satan çiftçi 214 litre mazot alabiliyor.\" ifadelerini kullandı.\n\nMazot fiyatlarındaki artışın üretim maliyetlerini ciddi şekilde yükselttiğini belirten Gürer, \"2021 yılında mazot 7 lirayken 2026 yılında mazot 77 lira arkadaşlar.\" sözleriyle girdi maliyetlerindeki artışa dikkat çekti.\n\nÇiftçilerin kredi borçları nedeniyle ekonomik zorluk yaşadığını belirten Gürer, kırsalda icra işlemlerinin arttığını söyledi.\n\n\"Bu ay yalnızca 77 traktöre ve 5 bin 400 tarlaya icra geldi.\" dedi.\n\nMısır ve mercimek başta olmak üzere birçok üründe ithalat politikalarının üreticiyi olumsuz etkilediğini savunan Gürer, Türkiye'de 21 üründe arz açığı bulunduğunu ifade etti.\n\n\"21 üründe arz açığı devam ediyor. Bu benim belirlediğim bir arz açığı değil. Verileri ben Bakanlığın, TÜİK'in verilerinin dışında kullanmam.\" diye konuştu.\n\nİthalat yerine üreticinin desteklenmesi gerektiğini vurgulayan Gürer, gübrede yüzde 50 sübvansiyon sağlanması, mazottan ÖTV ve KDV'nin kaldırılması, Ziraat Bankası kredilerinde üreticiyi koruyacak düzenlemeler yapılması ve çiftçi borçlarının faizsiz ertelenmesi önerilerinde bulundu.\n\nKonuşmasının sonunda tarım sektöründeki sorunların çözümü için üreticiyi önceleyen politikalara ihtiyaç bulunduğunu ifade eden Gürer, üretim maliyetlerinin düşürülmesi, üreticinin gelirinin artırılması ve tüketicinin uygun fiyatla gıdaya ulaşabileceği sürdürülebilir bir üretim modelinin oluşturulması çağrısında bulundu.\n\n\"Bu ülkenin tarımını ayağa kaldırmak için doğru politikalara ihtiyaç var.\"\n\nTARIM PUSULASI HABER MERKEZİ"
     },
     {
       "title": "Orman yangınları nasıl önlenir? İYİ Parti'den dikkat çeken 17 maddelik eylem planı",
@@ -328,5 +328,17 @@
   "defaultBorsa": "5ED10",
   "defaultCity": "CANAKKALE",
   "note": "Fiyatlar TOBB ticaret borsasından (borsa seçilebilir). Kanola manuel (Trakya 2025).",
-  "inputsNote": "Mazot: akaryakıt bayi fiyatı, günlük (şehir seçilebilir). Gübre: manuel (yaklaşık)."
+  "inputsNote": "Mazot: akaryakıt bayi fiyatı, günlük (şehir seçilebilir). Gübre: manuel (yaklaşık).",
+  "errors": [
+    "mazot ANKARA: fetch failed",
+    "mazot ISTANBUL: fetch failed",
+    "mazot IZMIR: fetch failed",
+    "mazot KONYA: fetch failed",
+    "mazot ADANA: fetch failed",
+    "mazot BURSA: fetch failed",
+    "mazot ANTALYA: fetch failed",
+    "mazot SAMSUN: fetch failed",
+    "mazot TEKIRDAG: fetch failed",
+    "mazot CANAKKALE: fetch failed"
+  ]
 }
