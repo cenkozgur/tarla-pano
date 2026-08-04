@@ -1,43 +1,67 @@
 {
-  "updatedAt": "2026-08-04T06:42:02.882Z",
+  "updatedAt": "2026-08-04T09:28:51.577Z",
   "fx": [
     {
       "code": "USD",
       "name": "Dolar",
-      "buy": 47.53,
-      "sell": 47.54,
-      "change": 0.05
+      "buy": 47.56,
+      "sell": 47.56,
+      "change": 0.06
     },
     {
       "code": "EUR",
       "name": "Euro",
-      "buy": 54.82,
-      "sell": 54.83,
-      "change": 0.02
+      "buy": 54.77,
+      "sell": 54.78,
+      "change": 0.06
     },
     {
       "code": "GRA",
       "name": "Gram Altın",
-      "buy": 6196.41,
-      "sell": 6197.24,
-      "change": 0.35
+      "buy": 6193.78,
+      "sell": 6194.54,
+      "change": -0.04
     },
     {
       "code": "CEYREKALTIN",
       "name": "Çeyrek Altın",
-      "buy": 9835.99,
-      "sell": 10063.19,
-      "change": 0.32
+      "buy": 9843.56,
+      "sell": 10070.93,
+      "change": 0.4
     },
     {
       "code": "CUMHURIYETALTINI",
       "name": "Cumhuriyet Altını",
-      "buy": 40784,
-      "sell": 41401,
-      "change": 0.3
+      "buy": 40634,
+      "sell": 41251,
+      "change": -0.06
     }
   ],
   "news": [
+    {
+      "title": "Hububat piyasasında dikkat çeken yükseliş! Arpa bir haftada 1.300 liranın üzerinde arttı",
+      "url": "https://www.tarimdanhaber.com/hububat-piyasasinda-dikkat-ceken-yukselis-arpa-bir-haftada-1300-liranin-uzerinde-artti",
+      "source": "Tarımdan Haber",
+      "date": "2026-08-04",
+      "summary": "Ticaret borsalarında hububat fiyatları geçen haftaya göre yükselişini sürdürdü. Son işlem gününde ekmeklik buğday 663 TL, makarnalık buğday 513 TL, arpa ise 1.327 TL arttı. Haftalık ortalamalarda da tüm ürünlerde yükseliş görülürken, en güçlü fiyat hareketi arpada yaşandı.",
+      "content": "Haber Merkezi / Hasat döneminin sonuna yaklaşılırken ticaret borsalarında hububat fiyatları yukarı yönlü hareketini sürdürüyor. 31 Temmuz son işlem günü verilerine göre, geçen haftaya kıyasla tüm temel ürünlerde fiyat artışı yaşandı.\n\nGünlük fiyatlarda en büyük artış arpada\n\nGeçen haftanın son işlem günü ile bu haftanın son işlem günü karşılaştırıldığında;\n\nSon işlem gününde en yüksek fiyat artışı 1.327 TL ile arpada gerçekleşirken, yulaf da 1.095 TL yükseldi. Çavdar ise düşüş gösteren tek ürün oldu.\n\nHaftalık ortalamalar da yükseldi\n\n27-31 Temmuz haftalık ortalamaları da piyasadaki yukarı yönlü eğilimi teyit etti.\n\nGeçen haftaya göre;\n\nEkmeklik buğday 473 TL\n\nMakarnalık buğday 425 TL\n\nArpa 732 TL\n\nMısır 195 TL\n\nYulaf 1.468 TL\n\nÇavdar 170 TL\n\nartış kaydetti.\n\nÖzellikle yulaf ve arpadaki yükseliş, diğer ürünlere göre daha güçlü bir fiyat hareketine işaret etti.\n\nAylık ortalamalarda da fiyatlar yükseldi\n\nTemmuz ayı ortalamaları da geçen haftaki aylık ortalamaların üzerine çıktı.\n\nEkmeklik buğday 125 TL\n\nMakarnalık buğday 100 TL\n\nArpa 163 TL\n\nMısır 58 TL\n\nYulaf 642 TL\n\nÇavdar 110 TL\n\nartış gösterdi.\n\nBu tablo, fiyatların yalnızca günlük işlemlerde değil, aylık ortalamalarda da yukarı yönlü bir eğilim izlediğini ortaya koydu.\n\nPiyasada ne anlama geliyor?\n\nHasadın büyük ölçüde tamamlanmasına yaklaşılırken ürün arzındaki değişim, üreticinin satış temposu ve piyasa talebi fiyatların yukarı yönlü hareket etmesinde etkili oldu.\n\nÖzellikle arpa ve yulaf fiyatlarındaki güçlü artış, yem sektörünün talebi ile piyasadaki arz dengesinin yeniden şekillenmeye başladığına işaret ediyor."
+    },
+    {
+      "title": "Çiftçiye 101 milyar lira destek, bankaya 101 milyar lira faiz! Ergin Kahveci: \"Bu yol yol değil\"",
+      "url": "https://www.tarimdanhaber.com/ciftciye-101-milyar-lira-destek-bankaya-101-milyar-lira-faiz-ergin-kahveci-bu-yol-yol-degil",
+      "source": "Tarımdan Haber",
+      "date": "2026-08-04",
+      "summary": "Tarım Politikaları Uzmanı Ergin Kahveci, Hazine ve Maliye Bakanlığının Haziran 2026 bütçe gerçekleşmelerini değerlendirerek tarım desteklerindeki dikkat çekici tabloya işaret etti. İlk 6 ayda çiftçilere 101,6 milyar lira tarımsal destek ödenirken, Ziraat Bankası'nın kullandırdığı tarımsal krediler i",
+      "content": "Haber Merkezi / Tarım Politikaları Uzmanı Ergin Kahveci, Haziran 2026 merkezi yönetim bütçe gerçekleşmelerinde tarım kalemlerine ilişkin verileri değerlendirdi.\n\nKahveci'nin paylaştığı verilere göre, yılın ilk 6 ayında çiftçilere yapılan doğrudan tarımsal destek ödemeleri 101 milyar 574 milyon liraya ulaşırken, Ziraat Bankası'nın kullandırdığı tarımsal krediler nedeniyle Hazine'nin bankaya ödediği faiz sübvansiyonu da 101 milyar 89 milyon lira oldu.\n\nBu tablo, kamu bütçesinden bankaya ödenen faiz desteğinin, çiftçiye yapılan doğrudan desteklerle neredeyse aynı seviyeye ulaştığını ortaya koydu.\n\nFaiz sübvansiyonunda yüzde 102 artış\n\n2026 yılı bütçesinde tarımsal kredi faiz sübvansiyonu için 270 milyar lira ödenek ayrıldı.\n\nHaziran sonu itibarıyla bunun 101 milyar 88 milyon liralık kısmı kullanılırken, gerçekleşme oranı yüzde 37,44 oldu.\n\nGeçen yılın aynı döneminde ise Hazine'nin bankaya ödediği faiz sübvansiyonu yaklaşık 50 milyar lira seviyesindeydi.\n\nBöylece faiz sübvansiyonu ödemeleri bir yılda iki katın üzerine çıktı.\n\nTarımsal desteklerde bütçe disiplini korunuyor\n\nTarımsal destek ödemelerinde ise yılın ilk 6 ayında 101 milyar 574 milyon liralık ödeme gerçekleştirildi.\n\n167,6 milyar liralık yıllık ödeneğin yüzde 60,6'sı Haziran sonu itibarıyla kullanıldı.\n\nGeçen yıl aynı dönemde tarımsal destek ödemeleri yaklaşık 80 milyar lira seviyesinde gerçekleşmişti.\n\n\"Çiftçinin borcu büyüdükçe Hazine'nin yükü de büyüyor\"\n\nVerileri değerlendiren Ergin Kahveci, tarımsal destek ödemelerinde bütçe uygulaması açısından belirli bir istikrar bulunduğunu, ancak kredi faiz sübvansiyonundaki hızlı artışın dikkatle değerlendirilmesi gerektiğini söyledi.\n\nKahveci şu değerlendirmede bulundu:\n\n\"Tarımsal destekleme ödemelerinde bütçe düzeni açısından bir istikrar sağlanmış. Ancak çiftçilerin kredi borçları büyüdükçe Hazine'nin bankaya ödediği eksik faiz tahsilatı iadeleri de artıyor.\"\n\n\"Bu yol yol değil\"\n\nMevcut destekleme modelinin sürdürülebilir olmadığını ifade eden Kahveci, çözümün daha fazla kredi değil, üretim odaklı politikalar olduğunu vurguladı.\n\nKahveci, değerlendirmesinde şu ifadeleri kullandı:\n\n\"Tekrar söyleyeyim; bu yol yol değil. Tarımsal destekleme ve sübvansiyonlarla alınacak yol ancak 'kel başa şimşir tarak' yoludur. 'Yüzde 2 olsa ne değişecek?' diye soranlara da aynı şeyi söylüyorum. Bu politikasızlığın politikasıyla tarımın sorunlarını çözmek mümkün değil.\""
+    },
+    {
+      "title": "İSO: Matlı Grubu 3 Şirketiyle Sanayinin Devleri Arasında",
+      "url": "https://www.tarimpusulasi.com/haber/iso-matli-grubu-3-sirketiyle-sanayinin-devleri-arasinda-47257",
+      "source": "Tarım Pusulası",
+      "date": "2026-08-04",
+      "summary": "İstanbul Sanayi Odası'nın (İSO) açıkladığı Türkiye'nin en büyük sanayi kuruluşları araştırmalarında Matlı Şirketler Grubu bünyesindeki Proyem ve Keskinoğlu İSO 500'de yer alırken, Yörsan ise İSO İkinci 500 listesinde bir yılda 47 basamak yükselerek 175'inci sıraya çıktı. Grup, üç şirketiyle entegre ",
+      "content": "BURSA — İstanbul Sanayi Odası'nın (İSO) açıkladığı Türkiye'nin en büyük sanayi kuruluşları araştırmalarında Matlı Şirketler Grubu bünyesindeki üç şirket listelerde yer aldı. Hayvan besleme alanında faaliyet gösteren Proyem İSO 500'de 152'nci, piliç eti ve yumurta üreticisi Keskinoğlu 160'ıncı sırada yer alırken, süt ve süt ürünleri üreticisi Yörsan ise İSO İkinci 500 listesinde 47 basamak yükselerek 175'inci sıraya çıktı.\n\nBursa'nın Karacabey ilçesinde 1965 yılında temelleri atılan ve merkezi halen Bursa'da bulunan Matlı Şirketler Grubu, bugün tarımsal ham madde tedarikinden hayvan beslemeye, süt, yumurta ve piliç eti üretiminden lojistik ve dağıtıma kadar uzanan entegre üretim modeliyle faaliyet gösteriyor. Grup bünyesinde 29 şirket, 7 bini aşkın çalışan, 10 binden fazla tedarikçi, 2 Ar-Ge merkezi ve 81 ilde 1.000'in üzerinde bayi bulunuyor.\n\nYörsan bir yılda 47 basamak yükseldi\n\nMatlı Grubu'nun 2022 yılında bünyesine kattığı Yörsan, İSO İkinci 500 listesinde geçen yılki 222'nci sıradan bu yıl 175'inci sıraya yükselerek dikkat çekti. Böylece şirket, bir yılda 47 basamak ilerleme kaydetti.\n\nYörsan'ın yeniden üretime kazandırılmasının ardından üretim altyapısı, insan kaynağı, dağıtım ağı ve marka yatırımlarının artırıldığı belirtilirken, Susurluk tesisinde günlük 1.500 ton çiğ süt işleme kapasitesi ile üretimin sürdüğü ifade edildi.\n\nProyem ve Keskinoğlu İSO 500'de yerini korudu\n\nMatlı Grubu'nun yem sektöründeki şirketi Proyem, 2017 yılından bu yana İSO 500 listesinde yer almayı sürdürüyor. Bu yıl 152'nci sırada bulunan Proyem, grubun listede en üst sıradaki şirketi oldu.\n\nKeskinoğlu ise 2021 yılından bu yana İSO 500 araştırmasında yer alırken, bu yıl 160'ıncı sıraya yerleşti. Şirket, piliç eti, sofralık yumurta, pastörize yumurta ve ileri işlenmiş gıda üretimi alanlarında faaliyet gösteriyor.\n\nÖzer Matlı: \"Bursa'dan aldığımız güçle üretmeye devam ediyoruz\"\n\nMatlı Şirketler Grubu Yönetim Kurulu Başkanı Özer Matlı, İSO sonuçlarının Bursa'da başlayan üretim yolculuğunun ulaştığı noktayı gösterdiğini belirtti.\n\nMatlı, grubun 61 yıl önce Karacabey'de kurulduğunu hatırlatarak, bugün tarımdan hayvan beslemeye, süt ve et ürünlerinden lojistik ve enerjiye kadar uzanan geniş bir üretim ekosistemini yönettiklerini ifade etti.\n\nÖzer Matlı, Bursa'nın üretim kültürünün grubun büyümesindeki temel güç olduğunu vurgulayarak, grubun büyümesini yalnızca ekonomik göstergelerle değil; istihdam, yerel üreticilerin desteklenmesi, tedarik zincirinin güçlendirilmesi ve kentin marka değerine katkı açısından da değerlendirdiklerini söyledi.\n\nEntegre üretim modeli öne çıktı\n\nAçıklamada, Proyem'in yem üretimi, Keskinoğlu'nun piliç eti ve yumurta üretimi ile Yörsan'ın süt ve süt ürünleri üretiminin aynı üretim sistemi içerisinde yönetildiği belirtilirken, bu bütünleşik yapının grubun sanayideki büyümesini desteklediği ifade edildi.\n\nMatlı Şirketler Grubu'nun bugün Türkiye'nin yedi bölgesinde faaliyet gösterdiği, üretim, teknoloji, markalaşma ve istihdam yatırımlarıyla büyümesini sürdürdüğü bildirildi.\n\nTARIM PUSULASI HABER MERKEZİ"
+    },
     {
       "title": "CBOT: Buğday, Mısır ve Soya Vadeli İşlemleri Günü Düşüşle Kapattı",
       "url": "https://www.tarimpusulasi.com/haber/cbot-bugday-misir-ve-soya-vadeli-islemleri-gunu-dususle-kapatti-47256",
@@ -103,36 +127,12 @@
       "content": "ANKARA — Tarım ve Orman Bakanı İbrahim Yumaklı, temmuz ayında şeker pancarı üreticilerine yönelik ikinci avans (bakım) ödemesi kapsamında toplam 991 milyon liranın üreticilerin hesaplarına aktarıldığını açıkladı.\n\nBakan Yumaklı, sosyal medya hesabından yaptığı açıklamada, şeker pancarı üreticilerinin emeğini desteklemeyi ve tarımsal üretimi güçlendirmeyi sürdürdüklerini belirtti.\n\nYumaklı, açıklamasında şu ifadelere yer verdi:\n\n\"Pancar üreticilerimizin emeklerini desteklemeye, tarımsal üretime güç katmaya devam ediyoruz. Temmuz ayında üreticilerimizin hesaplarına toplam 991 milyon lira tutarındaki ikinci avans (bakım) ödemesini aktardık. Hayırlı ve bereketli olsun.\"\n\nBakanlığın gerçekleştirdiği ödeme, şeker pancarı üreticilerinin bakım dönemi finansmanına katkı sağlamayı amaçlıyor. Söz konusu ödeme ile üreticilerin üretim sezonu boyunca karşılaştıkları bakım, işçilik ve girdi giderlerinin karşılanmasına destek verilmesi hedefleniyor.\n\nŞeker pancarı, ülkemizde sözleşmeli üretim modeliyle yürütülen stratejik tarımsal ürünler arasında yer alırken, üretim sürecinde yapılan avans ödemeleri üreticilerin nakit akışının sürdürülebilirliği açısından önem taşıyor.\n\nTARIM PUSULASI HABER MERKEZİ"
     },
     {
-      "title": "Agrocereale: Moldova'da Arpa Fiyatları Hasatla Geriledi",
-      "url": "https://www.tarimpusulasi.com/haber/agrocereale-moldovada-arpa-fiyatlari-hasatla-geriledi-47249",
-      "source": "Tarım Pusulası",
-      "date": "2026-08-03",
-      "summary": "Moldova'da 2026/27 pazarlama sezonunun başlamasıyla birlikte arpa fiyatları kilogram başına 2,90-3,00 Moldova leyi seviyesinde oluştu. Sektör temsilcileri, rekor hasat beklentisi, bölgesel tahıl fiyatlarındaki gerileme ve Karadeniz-Azak Denizi hattındaki lojistik sorunların piyasada fiyatlar üzerind",
-      "content": "KİŞİNEV — Moldova'da 2026/27 pazarlama sezonunun başlamasıyla birlikte arpa piyasasında fiyatlar geçen yıla göre daha düşük seviyelerde açıldı. Sektör verilerine göre Temmuz ayında arpa fiyatları kilogram başına 2,90-3,00 Moldova leyi aralığında işlem görürken, sezonun ilk ihracat satışı Haziran ayı sonunda 3,19 ley/kg fiyatla gerçekleştirildi.\n\nBu fiyat, geçen sezonun açılış fiyatı olan 3,40 ley/kg seviyesinin altında kaldı. Böylece sezon başlangıcında kilogram başına 0,21 ley, yani yaklaşık yüzde 6,2 oranında düşüş gerçekleşti.\n\nLogos Press tarafından yayımlanan bilgilere göre, Haziran ayının son haftasında Moldova yeni sezon ürününden 559 ton arpa ihraç etti. Sevkiyatların tamamı AVVATERRA-SM tarafından DAP Reni teslim şekliyle gerçekleştirildi ve nihai varış noktası olarak Kıbrıs gösterildi.\n\nPiyasa uzmanları, sezonun düşük fiyatlarla başlamasında rekor hasat beklentisinin yanı sıra bölgesel tahıl fiyatlarındaki gerilemenin etkili olduğunu değerlendiriyor.\n\nAgrocereale Tahıl Üreticileri ve İhracatçıları Birliği Direktörü Yurie Rija, Karadeniz ve Azak Denizi'nde liman altyapısı ile ticari gemilere yönelik saldırılar nedeniyle ihracat lojistiğinde yaşanan aksaklıkların piyasayı olumsuz etkilediğini belirtti. Rija'ya göre, lojistikte yaşanan sıkıntılar yalnızca Moldova'yı değil, bölgedeki tahıl fiyatlarını da baskı altında tutuyor.\n\nÖte yandan üretim tarafında ise olumlu bir tablo öne çıkıyor. Uzmanların değerlendirmesine göre Moldova'da ortalama arpa verimi hektar başına 6 ton ile şimdiye kadarki en yüksek seviyeye ulaştı. Birçok işletmede en düşük verimin bile 5 ton/hektar civarında gerçekleştiği ifade edilirken, toplam arpa üretiminin son yılların ortalamasını belirgin şekilde aşması bekleniyor.\n\nAnalistler, mevcut sezonun geçen yıldan önemli ölçüde farklılaştığını vurguluyor. 2025/26 pazarlama sezonunda güçlü talep nedeniyle belirli dönemlerde arpa fiyatlarının buğday fiyatlarının üzerine çıktığı hatırlatılırken, 2026/27 sezonunda ise rekor üretim, lojistik sorunlar ve zayıf talebin birlikte fiyatlar üzerinde baskı oluşturmaya devam edebileceği öngörülüyor.\n\nTARIM PUSULASI HABER MERKEZİ"
-    },
-    {
       "title": "Paraguay'dan canlı hayvan ve sığır eti ithalatında kritik aşama: Türk heyeti Paraguay'da tesisleri denetliyor",
       "url": "https://www.tarimdanhaber.com/paraguaydan-canli-hayvan-ve-sigir-eti-ithalatinda-kritik-asama-turk-heyeti-paraguayda-tesisleri-denetliyor",
       "source": "Tarımdan Haber",
       "date": "2026-08-03",
       "summary": "Tarım ve Orman Bakanlığının mevzuat değişikliğiyle gündeme gelen Paraguay'dan sığır eti ve canlı hayvan ithalatı sürecinde resmi denetimler başladı. Türkiye'nin resmi veteriner heyeti 11 tesiste incelemelerde bulunurken, ithalatla ilgili kritik gelişmeyi Türkiye kamuoyu yine Tarım Bakanlığından deği",
       "content": "Haber Merkezi / Tarım politikaları uzmanı Ergin Kahveci'nin paylaşımları ile Tarımdan Haber'in 14 Haziran'da kamuoyunun gündemine taşıdığı Paraguay'dan canlı hayvan ve et ithalatında yeni bir gelişme yaşandı.\n\nTarım Bakanlığı değil, Paraguay duyurdu! Türkiye'nin et ithalatında kritik süreç başladı\n\nTarım ve Orman Bakanlığının geçen yıl yaptığı mevzuat değişikliğiyle Paraguay'dan sığır eti ve canlı hayvan ithalatının önünü açmasının ardından süreçte kritik bir aşamaya geçildi.\n\nAncak kamuoyunun bu gelişmeden haberdar olmasını sağlayan yine Tarım ve Orman Bakanlığı olmadı.\n\nTürkiye'nin resmi denetim heyetinin Paraguay'da ihracatçı işletmelerde incelemelere başladığı bilgisi, Paraguay'ın resmi hayvan sağlığı otoritesi SENACSA'nın yaptığı açıklamayla ortaya çıktı.\n\nTürk heyeti Paraguay'da 11 tesisi denetliyor\n\nSENACSA'nın açıklamasına göre Türkiye'nin resmi veteriner denetim heyeti, 3-7 Ağustos tarihleri arasında Paraguay'da sığır eti ihracatı yapmak isteyen 11 işletmede resmi uygunluk denetimi gerçekleştiriyor.\n\nDenetimlerde; resmi veteriner kontrol sistemi, izlenebilirlik altyapısı, gıda güvenliği uygulamaları, sağlık standartları ve Türkiye'nin ithalat kriterlerine uygunluk yerinde inceleniyor.\n\nDenetimlerin olumlu sonuçlanması halinde Paraguay'dan Türkiye'ye sığır eti ihracatı yapacak işletmelerin yetkilendirilmesi bekleniyor.\n\nHaziran ayında ilk kez Tarımdan Haber gündeme getirmişti\n\nTarımdan Haber, Haziran ayında Tarım ve Orman Bakanlığının yaptığı mevzuat değişikliğiyle Paraguay'ın Türkiye'nin ithalat yapabileceği ülkeler arasına eklendiğini kamuoyuna duyurmuştu.\n\nSöz konusu haber Türkiye'de geniş yankı uyandırırken, Paraguay basını da kararı ülke hayvancılığı açısından önemli bir ihracat fırsatı olarak değerlendirmişti.\n\nBugün başlayan resmi denetimler ise o süreçte yapılan düzenlemenin uygulama aşamasına geçtiğini gösteriyor.\n\nErgin Kahveci: Süreci yine yabancı kaynaklardan öğrendik\n\nTarım Politikaları Uzmanı Ergin Kahveci de dikkat çekici bir noktaya işaret etti.\n\nKahveci, Türkiye'nin hayvancılık açısından önemli bir dış ticaret sürecine ilişkin gelişmenin yine Tarım ve Orman Bakanlığından değil, Paraguay'ın resmi kurumunun açıklamasıyla öğrenildiğini belirtti.\n\nKahveci'nin paylaştığı bilgilere göre açılış toplantısına SENACSA Başkanı Dr. José Carlos Martin, Paraguay Tarım Bakan Yardımcısı Dr. Marcelo González, teknik heyet ile Türkiye'nin resmi denetim ekibi ve Türkiye Cumhuriyeti Paraguay Büyükelçiliği temsilcileri katıldı.\n\nSon aşamalardan biri\n\nParaguay'ın daha önce sağlık uygunluğu sürecini tamamladığı belirtilirken, bu ziyaret kapsamında tesis onayları ve ihracat uygunluğu değerlendirmeleri gerçekleştiriliyor.\n\nSürecin tamamlanmasının ardından Paraguay'dan hem sığır eti hem de canlı hayvan ihracatının Türkiye açısından fiilen başlayabilmesinin önü açılmış olacak.\n\n\"3 yıl sonra bu da yetmez diyen olursa kızmam\"\n\nErgin Kahveci, Haziran ayında yaptığı değerlendirmeyi de hatırlatarak şu ifadeleri kullandı:\n\n\"Haziran'da '3 yıl sonra bize bu da yetmez diyen olursa kızmam' demiştim. Bakalım bu kapı ne kadar süre açık kalacak ve ne kadar çözüm olacak.\""
-    },
-    {
-      "title": "Türkşeker'den pancar üreticilerine 991 milyon liralık avans ödemesi",
-      "url": "https://www.tarimdanhaber.com/turksekerden-pancar-ureticilerine-991-milyon-liralik-avans-odemesi",
-      "source": "Tarımdan Haber",
-      "date": "2026-08-03",
-      "summary": "Tarım ve Orman Bakanı İbrahim Yumaklı, Türkşeker tarafından sözleşmeli pancar üreticilerine Temmuz ayında toplam 991 milyon TL tutarında ikinci avans (bakım) ödemesinin hesaplara aktarıldığını açıkladı.",
-      "content": "Haber Merkezi / Tarım ve Orman Bakanı İbrahim Yumaklı, şeker pancarı üreticilerine yönelik ikinci avans ödemelerinin tamamlandığını duyurdu.\n\nSosyal medya hesabından açıklama yapan Bakan Yumaklı, pancar üreticilerinin üretim sürecini desteklemeye devam ettiklerini belirterek şu ifadeleri kullandı:\n\n\"Pancar üreticilerimizin emeklerini desteklemeye, tarımsal üretimimize güç katmaya devam ediyoruz. Temmuz ayında üreticilerimizin hesaplarına toplam 991 milyon TL tutarındaki 2. Avans (Bakım) Ödemesini aktardık. Hayırlı ve bereketli olsun.\"\n\nİkinci avans ödemesi hesaplara geçti\n\nBakanlığın açıklamasına göre, Temmuz ayı kapsamında gerçekleştirilen ikinci avans (bakım) ödemesiyle birlikte sözleşmeli şeker pancarı üreticilerinin hesaplarına toplam 991 milyon TL aktarıldı.\n\nSöz konusu ödeme, üreticilerin bakım dönemindeki finansman ihtiyacına katkı sağlamayı amaçlıyor."
-    },
-    {
-      "title": "Anahtar Parti'den hububatta yeni model önerisi! \"İthalat yerine yerli üretim desteklensin\"",
-      "url": "https://www.tarimdanhaber.com/anahtar-partiden-hububatta-yeni-model-onerisi-ithalat-yerine-yerli-uretim-desteklensin",
-      "source": "Tarımdan Haber",
-      "date": "2026-08-03",
-      "summary": "Anahtar Parti Genel Başkan Yardımcısı ve Tarım Politikaları Başkanı Hasan Hüseyin Demiröz, \"Milli Hububat Politikası ve Ekonomik Kaldıraç Modeli\" başlıklı basın açıklamasında, Dahilde İşleme Rejimi (DİR) kapsamında yapılan buğday ithalatının yerli üreticiyi mağdur ettiğini belirterek, sanayiciye ton",
-      "content": "Haber Merkezi / Anahtar Parti Genel Başkan Yardımcısı ve Tarım Politikaları Başkanı Hasan Hüseyin Demiröz, hububat piyasasında yaşanan sorunların çözümüne yönelik hazırladıkları \"Milli Hububat Politikası ve Ekonomik Kaldıraç Modeli\"ni kamuoyuyla paylaştı.\n\nDemiröz, bu yıl yaklaşık 25 milyon ton buğday ve 10 milyon ton arpa olmak üzere toplam 35 milyon tonluk rekor hububat üretimi beklendiğini belirterek, mevcut politikaların bu üretimi ekonomik avantaja dönüştüremediğini savundu.\n\n\"İhracat serbest, ithalat da serbest\"\n\nMevcut uygulamada önemli bir çelişki bulunduğunu ifade eden Demiröz, Toprak Mahsulleri Ofisi (TMO) ve lisanslı depoların kapasite sınırına yaklaşması nedeniyle ihracatın serbest bırakıldığını, buna karşın Dahilde İşleme Rejimi (DİR) kapsamında un ve makarna sanayicisinin gümrüksüz buğday ithalatına devam ettiğini belirtti.\n\nDemiröz, yaptığı açıklamada şu değerlendirmede bulundu:\n\n\"İthalat kapısı açık olduğu sürece ihracatçı sanayici, maliyeti yüksek kalan yerli buğdaya yönelmiyor. Sanayici ithal buğdayla üretim yaparken, Türk çiftçisinin ürünü düşük fiyatla satılmak zorunda kalıyor.\"\n\nTon başına 80 dolar ihracat primi önerisi\n\nAnahtar Parti'nin çözüm önerisini de açıklayan Demiröz, sanayicinin yerli buğday kullanmasını teşvik edecek yeni bir model önerdiklerini ifade etti.\n\nBuna göre;\n\nDİR kapsamında buğday ithalatının sınırlandırılması,\n\nSanayicinin yerli buğdayı 16,50 TL/kg taban fiyatın altında almamasının sağlanması,\n\nYerli buğdayı işleyerek ihracat yapan firmalara ton başına 80 dolar ihracat primi verilmesi önerildi.\n\n\"265 dolar yurt içinde kalacak\"\n\nDemiröz, önerilen modelle ithalat için yurt dışına çıkan dövizin ülke ekonomisinde kalacağını savunarak, bunun ekonomik çarpan etkisi oluşturacağını belirtti.\n\nAçıklamaya göre model sayesinde;\n\n265 Dolar Döviz Yurt İçinde Kalacak: İthalat için yurt dışına kaçan her 265 dolar, kendi ekonomimizde kalacaktır.\n\n4 Kat Çarpan Etkisi: İçeride tutulan bu para, çarpan etkisiyle ekonomimizde 1.060 dolar’lık canlılık ve 1 yılda 424 dolar net katma değer (kâr) üretecektir.\n\nDepo Krizine Kesin Çözüm: Kamu depolarını ve LİDAŞ’ları kilitleyen 16 milyon tonluk stok yükü, doğrudan sanayicinin fabrikalarına ve ihracat kanallarına kayacaktır.\n\nDemiröz, bu kapsamda; çiftçi-sanayici-devlet dengesi sağlanarak, çiftçinin malını maliyetinin altına kapatmayacağı, sanayicinin 80 dolar primle küresel pazardaki rekabet gücünü koyuracağı ve devletin ise depolama krizinden kurtulup dış ticaret açığını düşereceğini vurgulandı.\n\n\"Çiftçi, sanayici ve devlet birlikte kazanacak\"\n\nDemiröz, önerdikleri modelin hem üreticiyi hem sanayiciyi hem de kamu maliyesini koruyacağını belirterek şu değerlendirmeyi yaptı:\n\n\"Mevcut yapı yabancı üreticiyi destekleyen bir mekanizmaya dönüşmüş durumda. Önerdiğimiz model ise tarladan sanayiye kadar yerli üretimi esas alan, kendi finansman döngüsünü oluşturan milli bir ekonomi yaklaşımıdır.\""
     }
   ],
   "commoditiesByBorsa": {
@@ -330,6 +330,15 @@
   "note": "Fiyatlar TOBB ticaret borsasından (borsa seçilebilir). Kanola manuel (Trakya 2025).",
   "inputsNote": "Mazot: akaryakıt bayi fiyatı, günlük (şehir seçilebilir). Gübre: manuel (yaklaşık).",
   "errors": [
-    "fx: fx alanları çıkarılamadı"
+    "mazot ANKARA: fetch failed",
+    "mazot ISTANBUL: fetch failed",
+    "mazot IZMIR: fetch failed",
+    "mazot KONYA: fetch failed",
+    "mazot ADANA: fetch failed",
+    "mazot BURSA: fetch failed",
+    "mazot ANTALYA: fetch failed",
+    "mazot SAMSUN: fetch failed",
+    "mazot TEKIRDAG: fetch failed",
+    "mazot CANAKKALE: fetch failed"
   ]
 }
