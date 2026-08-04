@@ -1,43 +1,51 @@
 {
-  "updatedAt": "2026-08-04T17:51:25.729Z",
+  "updatedAt": "2026-08-04T19:41:19.536Z",
   "fx": [
     {
       "code": "USD",
       "name": "Dolar",
-      "buy": 47.54,
-      "sell": 47.55,
-      "change": 0.03
+      "buy": 475438,
+      "sell": 475508,
+      "change": 3
     },
     {
       "code": "EUR",
       "name": "Euro",
-      "buy": 54.84,
-      "sell": 54.85,
-      "change": 0.19
+      "buy": 547718,
+      "sell": 549707,
+      "change": 23
     },
     {
       "code": "GRA",
       "name": "Gram Altın",
-      "buy": 6257.69,
-      "sell": 6258.59,
-      "change": 0.99
+      "buy": 623817,
+      "sell": 62391,
+      "change": 68
     },
     {
       "code": "CEYREKALTIN",
       "name": "Çeyrek Altın",
-      "buy": 9890.41,
-      "sell": 10118.82,
-      "change": 0.88
+      "buy": 989041,
+      "sell": 1011882,
+      "change": 88
     },
     {
       "code": "CUMHURIYETALTINI",
       "name": "Cumhuriyet Altını",
       "buy": 41052,
       "sell": 41670,
-      "change": 1.02
+      "change": 102
     }
   ],
   "news": [
+    {
+      "title": "Rusya'da Yeni Hasat Buğday ve Arpa Fiyatlarını Düşürdü",
+      "url": "https://www.tarimpusulasi.com/haber/rusyada-yeni-hasat-bugday-ve-arpa-fiyatlarini-dusurdu-47258",
+      "source": "Tarım Pusulası",
+      "date": "2026-08-04",
+      "summary": "Rusya'da yeni sezon hasadının piyasaya girmesi ve Azak Denizi'ndeki lojistik sorunlarının derinleşmesiyle buğday ve arpa fiyatları geriledi. Son bir haftada buğday fiyatları %1,3 ila %2,8, arpa fiyatları ise %6,5 düşerken, piyasa oyuncuları hasadın hızlanmasıyla birlikte fiyatlar üzerindeki baskının",
+      "content": "MOSKOVA — Rusya'da tahıl piyasasında fiyatlar yeni sezon hasadının etkisiyle aşağı yönlü hareket etti. Son bir haftada üreticiden alım fiyatlarında 3. sınıf buğday %1,3, 4. sınıf buğday %2,3 ve arpa %6,5 değer kaybetti. Uzmanlar, yeni ürün arzının hızla artması ve Azak Denizi'ndeki lojistik aksaklıkların piyasadaki satış baskısını artırdığını belirtiyor.\n\nPiyasa verilerine göre 3. sınıf buğdayın üreticiden alım fiyatı ton başına 13,0 bin rubleye gerilerken, 4. sınıf buğday 12,6 bin ruble, arpa ise 10,8 bin ruble seviyesine düştü. Buna karşılık ayçiçeği fiyatı 40,2 bin ruble/ton seviyesinde bulunuyor ve önceki döneme göre %2,1 artış gösterdi.\n\nYıllık bazda bakıldığında ise buğday ve arpa fiyatlarındaki düşüşün %9 ile %13 arasında değiştiği belirtiliyor. Uzmanlar, yeni sezon ürününün pazara girmesiyle birlikte arzın hızla arttığını, ancak tüccar talebinin aynı hızda yükselmediğini ifade ediyor.\n\nÜreticilerin depolarını yeni hasat için boşaltmaya başlaması da piyasaya ek ürün girişine neden olurken, fiyatlar üzerindeki aşağı yönlü baskıyı güçlendiriyor.\n\nLojistik maliyetleri yükseldi\n\nFiyatlardaki gerilemeye rağmen ihracat tarafında lojistik maliyetleri artmaya devam ediyor.\n\nRusya'nın en önemli tahıl ihracat limanlarından biri olan Novorossiysk'e taşıma maliyetinin geçen yılın aynı dönemine göre %27,3 yükseldiği bildirildi.\n\nPiyasa değerlendirmelerine göre bu durumun arkasında iki temel neden bulunuyor.\n\nBirincisi, yeni sezon hasadıyla birlikte pazara sunulan ürün miktarının hızla artması.\n\nİkincisi ise Azak Denizi'nde yaşanan lojistik sorunlar.\n\nSon dönemde insansız hava aracı saldırıları nedeniyle Azak-Don Kanalı'ndaki gemi trafiğinin ciddi ölçüde aksadığı belirtiliyor. Bu güzergâh, daha önce Rusya'nın buğday ihracatının yaklaşık %25'ini taşıyordu.\n\nHasat edilen ürünlerin ihracatı için gemilerin Karadeniz ve kuzeybatı limanlarına yönlendirilmesi ise özellikle yoğun hasat döneminde liman kapasitesi üzerinde ilave baskı oluşturuyor.\n\nHasat baskısı fiyatları aşağı çekebilir\n\nPiyasa katılımcıları, hasat çalışmalarının henüz hız kazanmasına rağmen tahıl arzındaki artışın önümüzdeki haftalarda devam edeceğini öngörüyor. Buna karşılık ihracat kanallarındaki lojistik sorunların kısa vadede çözülmesi beklenmiyor.\n\nUzmanlar, bu nedenle Rusya tahıl piyasasında fiyatlar üzerindeki aşağı yönlü baskının sürebileceğini değerlendiriyor.\n\nAnalizde, birçok üreticinin hasat ve sonbahar ekim sezonu öncesinde nakit ihtiyacını karşılamak amacıyla ürününü mevcut fiyatlardan satmak zorunda kaldığı ifade edildi. Finansman kaynaklarının daralması nedeniyle üreticilerin depolama yerine satışa yönelmesinin de piyasadaki arzı artırdığı belirtiliyor.\n\nHazar Denizi'ndeki gelişmeler piyasayı tedirgin etti\n\nPiyasalarda dikkatle takip edilen bir diğer gelişme ise Hazar Denizi'nde bir İran gemisine yönelik saldırı iddiası oldu.\n\nSektör temsilcileri, Hazar güzergâhının son dönemde Azak Denizi'ne alternatif ihracat rotalarından biri olarak değerlendirildiğini belirtiyor.\n\nSöz konusu güzergâhta yaşanabilecek yeni aksaklıkların Rus tahıl ihracatında lojistik sorunları daha da artırabileceği ve ihracat maliyetlerini yükseltebileceği ifade ediliyor.\n\nPiyasa beklentisi\n\nAnalistler, yeni sezon hasadının ilerlemesiyle birlikte piyasaya sunulan ürün miktarının artmaya devam edeceğini öngörüyor.\n\nHasat döneminin henüz başlangıç aşamasında olması nedeniyle önümüzdeki haftalarda arzın daha da yükselmesi beklenirken, lojistik darboğazların sürmesi halinde fiyatlar üzerindeki baskının devam edebileceği değerlendiriliyor.\n\nPiyasa oyuncuları, tahıl fiyatlarının kısa vadede hasat temposu, ihracat lojistiği ve Karadeniz bölgesindeki güvenlik gelişmelerine bağlı olarak şekilleneceğini ifade ediyor.\n\nTARIM PUSULASI HABER MERKEZİ"
+    },
     {
       "title": "Hububat piyasasında dikkat çeken yükseliş! Arpa bir haftada 1.300 liranın üzerinde arttı",
       "url": "https://www.tarimdanhaber.com/hububat-piyasasinda-dikkat-ceken-yukselis-arpa-bir-haftada-1300-liranin-uzerinde-artti",
@@ -117,14 +125,6 @@
       "date": "2026-08-03",
       "summary": "Avrupa Komisyonu'nun Tarımsal Kaynakları İzleme Servisi (MARS), Romanya'da 2026 yılı hububat ve yağlı tohumlu bitki üretim beklentilerinin uzun yıllar ortalamasının üzerinde kalmayı sürdürdüğünü açıkladı. Batı ve Orta Avrupa'da sıcak hava dalgaları nedeniyle verim tahminleri aşağı yönlü revize edili",
       "content": "BÜKREŞ — Avrupa Komisyonu'nun Tarımsal Kaynakları İzleme Servisi (MARS), Romanya'nın 2026 yılı hububat ve yağlı tohumlu bitki üretiminde Avrupa Birliği'nin en olumlu görünüme sahip ülkelerinden biri olmaya devam ettiğini bildirdi. Kurumun son ürün izleme değerlendirmesine göre, Haziran ayının ilk yarısındaki yağışların sağladığı toprak nemi sayesinde kuraklık koşullarına rağmen üretim beklentileri uzun yıllar ortalamasının üzerinde seyrediyor.\n\nMARS'ın tahminlerine göre Romanya'da ortalama buğday verimi hektar başına 5,31 ton olacak. Bu rakam, 2025 yılında kaydedilen 5,65 ton/hektarın altında kalsa da, beş yıllık ortalama olan 4,55 ton/hektarın yaklaşık yüzde 16,7 üzerinde bulunuyor.\n\nKışlık arpa ve kanola üretiminde de benzer bir tablo öngörülüyor. Rapora göre kışlık arpa veriminin 5,26 ton/hektar, kanola veriminin ise 3,08 ton/hektar olması bekleniyor. Her iki ürünün de uzun yıllar ortalamasının üzerinde gerçekleşeceği tahmin ediliyor.\n\nBuna karşın ilkbahar ekili ürünler daha kırılgan bir görünüm sergiliyor. Mısır ve ayçiçeği üretiminde yüksek sıcaklıklar ile sınırlı toprak nemi verim üzerinde baskı oluşturmayı sürdürüyor. Ancak mevcut tahminler, geçen yıla göre yine de daha iyi sonuçlara işaret ediyor.\n\nMARS verilerine göre mısır verimi hektar başına 4,03 ton olarak öngörülüyor. Bu rakam geçen yılın 3,94 ton/hektarlık seviyesine göre 0,09 ton/hektar, yani yaklaşık yüzde 2,3 artış anlamına geliyor.\n\nAyçiçeğinde ise ortalama verimin 1,91 ton/hektar olması bekleniyor. Geçen yıl 1,71 ton/hektar olarak gerçekleşen verime göre artış 0,20 ton/hektar olurken, bu da yaklaşık yüzde 11,7'lik yükselişe karşılık geliyor.\n\nRaporda dikkat çeken bir diğer unsur ise Avrupa Birliği genelindeki görünüm oldu. Batı ve Orta Avrupa'da etkili olan sıcak hava dalgaları ile uzun süren kuraklık nedeniyle MARS, birçok temel üründe verim tahminlerini aşağı yönlü revize etti.\n\nBuna göre Avrupa Birliği genelinde yumuşak ekmeklik buğday verim tahmini hektar başına 6,00 tondan 5,88 tona düşürüldü. Böylece tahminde 0,12 ton/hektarlık veya yaklaşık yüzde 2 oranında aşağı yönlü revizyon yapıldı.\n\nKanola verim tahmini de 3,18 ton/hektardan 3,14 ton/hektara çekildi. Bu revizyon yaklaşık yüzde 1,3'lük düşüşe işaret ediyor.\n\nUzmanlar, Avrupa'nın birçok bölgesinde üretim beklentileri zayıflarken Romanya'nın hububat ve yağlı tohum üretiminde bölgenin en dirençli ülkeleri arasında yer almaya devam ettiğini belirtiyor. Bununla birlikte, sezonun nihai sonucu açısından Ağustos ayı ile sonbaharın ilk dönemindeki hava koşullarının, özellikle mısır ve ayçiçeği gibi ilkbahar ekili ürünlerin verimini belirleyeceği ifade ediliyor.\n\nTürkiye Açısından Değerlendirme\n\nRomanya, Karadeniz havzasının önemli hububat ihracatçılarından biri olarak uluslararası tahıl ticaretinde stratejik konuma sahip bulunuyor. Ülkedeki üretim görünümünün olumlu seyretmesi, Karadeniz tahıl arzı ve bölgesel fiyat dengeleri açısından önem taşıyor. Buna karşılık Avrupa Birliği'nin genelinde verim tahminlerinin aşağı yönlü revize edilmesi, önümüzdeki dönemde tahıl ve yağlı tohum piyasalarının hava koşullarına duyarlılığını artırabilecek gelişmeler arasında değerlendiriliyor.\n\nTARIM PUSULASI HABER MERKEZİ"
-    },
-    {
-      "title": "Bakan Yumaklı: Pancar Üreticilerine 991 Milyon TL Ödendi",
-      "url": "https://www.tarimpusulasi.com/haber/bakan-yumakli-pancar-ureticilerine-991-milyon-tl-odendi-47250",
-      "source": "Tarım Pusulası",
-      "date": "2026-08-03",
-      "summary": "Tarım ve Orman Bakanı İbrahim Yumaklı, temmuz ayında şeker pancarı üreticilerinin hesaplarına toplam 991 milyon lira tutarında ikinci avans (bakım) ödemesinin aktarıldığını açıkladı. Yumaklı, üreticilerin emeğini desteklemeye ve tarımsal üretimi güçlendirmeye devam edeceklerini belirtti.",
-      "content": "ANKARA — Tarım ve Orman Bakanı İbrahim Yumaklı, temmuz ayında şeker pancarı üreticilerine yönelik ikinci avans (bakım) ödemesi kapsamında toplam 991 milyon liranın üreticilerin hesaplarına aktarıldığını açıkladı.\n\nBakan Yumaklı, sosyal medya hesabından yaptığı açıklamada, şeker pancarı üreticilerinin emeğini desteklemeyi ve tarımsal üretimi güçlendirmeyi sürdürdüklerini belirtti.\n\nYumaklı, açıklamasında şu ifadelere yer verdi:\n\n\"Pancar üreticilerimizin emeklerini desteklemeye, tarımsal üretime güç katmaya devam ediyoruz. Temmuz ayında üreticilerimizin hesaplarına toplam 991 milyon lira tutarındaki ikinci avans (bakım) ödemesini aktardık. Hayırlı ve bereketli olsun.\"\n\nBakanlığın gerçekleştirdiği ödeme, şeker pancarı üreticilerinin bakım dönemi finansmanına katkı sağlamayı amaçlıyor. Söz konusu ödeme ile üreticilerin üretim sezonu boyunca karşılaştıkları bakım, işçilik ve girdi giderlerinin karşılanmasına destek verilmesi hedefleniyor.\n\nŞeker pancarı, ülkemizde sözleşmeli üretim modeliyle yürütülen stratejik tarımsal ürünler arasında yer alırken, üretim sürecinde yapılan avans ödemeleri üreticilerin nakit akışının sürdürülebilirliği açısından önem taşıyor.\n\nTARIM PUSULASI HABER MERKEZİ"
     },
     {
       "title": "Paraguay'dan canlı hayvan ve sığır eti ithalatında kritik aşama: Türk heyeti Paraguay'da tesisleri denetliyor",
@@ -328,17 +328,5 @@
   "defaultBorsa": "5ED10",
   "defaultCity": "CANAKKALE",
   "note": "Fiyatlar TOBB ticaret borsasından (borsa seçilebilir). Kanola manuel (Trakya 2025).",
-  "inputsNote": "Mazot: akaryakıt bayi fiyatı, günlük (şehir seçilebilir). Gübre: manuel (yaklaşık).",
-  "errors": [
-    "mazot ANKARA: fetch failed",
-    "mazot ISTANBUL: fetch failed",
-    "mazot IZMIR: fetch failed",
-    "mazot KONYA: fetch failed",
-    "mazot ADANA: fetch failed",
-    "mazot BURSA: fetch failed",
-    "mazot ANTALYA: fetch failed",
-    "mazot SAMSUN: fetch failed",
-    "mazot TEKIRDAG: fetch failed",
-    "mazot CANAKKALE: fetch failed"
-  ]
+  "inputsNote": "Mazot: akaryakıt bayi fiyatı, günlük (şehir seçilebilir). Gübre: manuel (yaklaşık)."
 }
