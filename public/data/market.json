@@ -1,43 +1,51 @@
 {
-  "updatedAt": "2026-08-04T19:41:19.536Z",
+  "updatedAt": "2026-08-04T20:56:29.934Z",
   "fx": [
     {
       "code": "USD",
       "name": "Dolar",
-      "buy": 475438,
-      "sell": 475508,
-      "change": 3
+      "buy": 47.51,
+      "sell": 47.55,
+      "change": 0
     },
     {
       "code": "EUR",
       "name": "Euro",
-      "buy": 547718,
-      "sell": 549707,
-      "change": 23
+      "buy": 54.81,
+      "sell": 54.91,
+      "change": 0.21
     },
     {
       "code": "GRA",
       "name": "Gram Altın",
-      "buy": 623817,
-      "sell": 62391,
-      "change": 68
+      "buy": 6230.55,
+      "sell": 6231.54,
+      "change": 0.56
     },
     {
       "code": "CEYREKALTIN",
       "name": "Çeyrek Altın",
-      "buy": 989041,
-      "sell": 1011882,
-      "change": 88
+      "buy": 9890.41,
+      "sell": 10118.82,
+      "change": 0.88
     },
     {
       "code": "CUMHURIYETALTINI",
       "name": "Cumhuriyet Altını",
       "buy": 41052,
       "sell": 41670,
-      "change": 102
+      "change": 1.02
     }
   ],
   "news": [
+    {
+      "title": "İKAR: Rusya Tahıl Sezonunda Belirsizlik ve Riskler Artıyor",
+      "url": "https://www.tarimpusulasi.com/haber/ikar-rusya-tahil-sezonunda-belirsizlik-ve-riskler-artiyor-47259",
+      "source": "Tarım Pusulası",
+      "date": "2026-08-04",
+      "summary": "İKAR'ın değerlendirmesine göre Rusya, 2026/27 sezonuna güçlü üretim beklentisiyle girse de artan küresel rekabet, Karadeniz'deki jeopolitik gelişmeler, lojistik sorunlar ve iklim kaynaklı riskler tahıl piyasasında belirsizliği artırıyor. Uzmanlar, yeni sezonda asıl sorunun üretim miktarından çok ihr",
+      "content": "MOSKOVA — Rusya, 2026/27 tahıl sezonuna yüksek üretim beklentisiyle giriyor. Ancak sektör temsilcilerine göre güçlü bir hasat tek başına başarılı bir ihracat sezonu anlamına gelmiyor. İKAR'ın (Tarımsal Piyasa Araştırmaları Enstitüsü) değerlendirmesine göre küresel rekabet, iklim koşulları, lojistik sorunlar ve jeopolitik gelişmeler nedeniyle yeni sezon son yılların en belirsiz dönemlerinden biri olmaya aday.\n\nİKAR'ın temel senaryosuna göre Rusya'nın toplam tahıl üretiminin 139,0 milyon tonun, bunun içinde buğday üretiminin ise 90,0 milyon tonun üzerinde gerçekleşmesi bekleniyor.\n\nEnstitü, yeni sezonda toplam tahıl ihracatının 58,5 milyon ton, buğday ihracatının ise 44,5 milyon ton düzeyine ulaşabileceğini öngörüyor.\n\nAncak uzmanlar, üretimde beklenen artışa rağmen fiyatların ve ihracat performansının aynı ölçüde güçlü olmayabileceğine dikkat çekiyor.\n\nRekabet sertleşiyor\n\nRapora göre bu sezon yalnızca Rusya'da değil, Karadeniz havzasının genelinde de yüksek üretim bekleniyor.\n\nBuna karşılık Rus tahılının en büyük alıcıları arasında yer alan Türkiye, Mısır, Fas, Cezayir ve Tunus gibi ülkelerde de üretimin artması bekleniyor.\n\nİKAR'ın değerlendirmesine göre söz konusu beş ülkenin toplam tahıl üretiminin yaklaşık 11,5 milyon ton artması öngörülüyor.\n\nBu artışın, ithalat ihtiyaçlarının azalmasına ve Rus tahılına yönelik dış talebin zayıflamasına neden olabileceği belirtiliyor.\n\nUzmanlar, küresel arzın yükseldiği bir dönemde alıcı ülkelerin daha fazla seçenekle karşı karşıya kalacağını ve bunun ihracatçı ülkeler arasındaki rekabeti artıracağını ifade ediyor.\n\nÜretim bölgeleri arasında farklı görünüm\n\nRusya içinde de üretim görünümünün bölgelere göre farklılık gösterdiği belirtiliyor.\n\nÜlkenin güneyindeki Güney Federal Bölgesi ile Kuzey Kafkasya Federal Bölgesi'nde iyi bir hasat beklenirken, bunun iç piyasada özellikle Orta Rusya ve Volga bölgesinde fiyatları baskılayabileceği değerlendiriliyor.\n\nBununla birlikte uzmanlar, güney bölgelerinde elde edilecek yüksek üretimin ihracata ne ölçüde yönlendirilebileceğinin ise henüz netleşmediğini vurguluyor.\n\nKuraklık ve aşırı yağış aynı sezonda etkili oldu\n\nİKAR'ın değerlendirmesine göre Rusya'nın tüm üretim bölgelerinde aynı tablo görülmüyor.\n\nUral Dağları'nın doğusunda yer alan tarım bölgelerinde kuraklık üretimi olumsuz etkilerken, özellikle Altay Krayı, Novosibirsk Bölgesi ve Omsk Bölgesi'nin doğusunda yağış yetersizliği nedeniyle verim kayıpları yaşanabileceği belirtiliyor.\n\nBuna karşılık Ural bölgesinde etkili olan yoğun yağışların üretim üzerindeki etkisinin ise henüz netleşmediği ifade ediliyor.\n\nUzmanlar, sezonun ilerleyen dönemlerinde bu bölgelerde ortaya çıkacak üretim miktarının ülkenin toplam tahıl arzı üzerinde belirleyici olacağını değerlendiriyor.\n\nJeopolitik ve lojistik riskler öne çıkıyor\n\nRaporda yalnızca üretim değil, ihracat zincirini etkileyen jeopolitik gelişmelerin de yeni sezonun en önemli riskleri arasında yer aldığı vurgulanıyor.\n\nKaradeniz ve Azak Denizi havzasındaki güvenlik gelişmeleri, İran çevresindeki jeopolitik riskler ve Hürmüz Boğazı'ndaki olası ticaret aksaklıklarının küresel tahıl ticaretini doğrudan etkileyebileceği belirtiliyor.\n\nBunun yanında;\n\nartan sigorta maliyetleri,\n\nyükselen lojistik giderleri,\n\ndöviz kurlarındaki dalgalanmalar\n\niklim kaynaklı riskler\n\nuluslararası tahıl ticaretinde belirsizliği artıran başlıca unsurlar olarak gösteriliyor.\n\nTaşıma maliyetleri rekor seviyeye ulaştı\n\nAzak Denizi'nde gemi trafiğinde yaşanan sorunlar nedeniyle kara taşımacılığına olan talebin arttığı belirtiliyor.\n\nRapora göre Rusya'nın güney bölgelerinde karayolu taşımacılığı ücretleri Temmuz ayında tarihi zirveye ulaştı.\n\nUzmanlar, ihracatın önemli bölümünün alternatif güzergâhlara yönelmesi nedeniyle taşıma maliyetlerindeki artışın önümüzdeki dönemde de devam edebileceğini değerlendiriyor.\n\nSezonun en kritik sorusu\n\nİKAR'a göre 2026/27 sezonunun en önemli sorusu, Rusya'nın ne kadar tahıl üreteceğinden çok, bu ürünlerin hangi fiyatla, hangi lojistik güzergâhlar üzerinden ve hangi pazarlara satılabileceği olacak.\n\nAnalistler; hava koşulları, jeopolitik gelişmeler, döviz kurları ve lojistikte yaşanabilecek değişimlerin sezon boyunca tahıl fiyatlarının yönünü belirleyecek temel faktörler olacağını ifade ediyor.\n\nTARIM PUSULASI HABER MERKEZİ"
+    },
     {
       "title": "Rusya'da Yeni Hasat Buğday ve Arpa Fiyatlarını Düşürdü",
       "url": "https://www.tarimpusulasi.com/haber/rusyada-yeni-hasat-bugday-ve-arpa-fiyatlarini-dusurdu-47258",
@@ -117,14 +125,6 @@
       "date": "2026-08-03",
       "summary": "Çin'in sığır eti pazarında uyguladığı katı kotalar ve yüzde 55'lik vergiler küresel ticarette taşları yerinden oynatırken, devasa et stoklarının Türkiye gibi ülkelere yönelme riskini artırdı. Yüksek girdi maliyetleriyle boğuşan Türk besiciler ucuz ithal et dalgası karşısında iflas tehlikesiyle karşı",
       "content": "Haber Merkezi / Çin'in 1 Ocak 2026 itibarıyla sığır eti pazarında hayata geçirdiği sert korumacı politikalar, dünya gıda ticaretinde domino etkisi yaptı. Uygulanan katı ithalat kotaları ve yüzde 55'lik yüksek gümrük vergileri sayesinde dışa bağımlılığını büyük ölçüde azaltan Pekin yönetimi, yerli sığır varlığını 90 milyon başa ulaştırdı. İç Moğolistan başta olmak üzere yapılan stratejik verimlilik yatırımları ve kısıtlamalar sayesinde Çin iç piyasasında et fiyatları yüzde 21 oranında düştü.\n\nBu radikal dönüşüm, başta Avustralya ve Arjantin olmak üzere dünyanın önde gelen büyükbaş hayvan ve et ihracatçılarını sarsarken, bu ülkeleri yeni pazar arayışlarına ve ciddi bir arz fazlasına sürükledi.\n\nTürkiye'deki Üretici İçin Büyük Tehlike: \"Ucuz Et Stoku\" Türkiye'ye mi Yönelecek?\n\nÇin pazarının kapanmasıyla birlikte küresel ölçekte biriken yüksek miktardaki ucuz et stoklarının Türkiye gibi denetimsiz ve plansız ithalat kapısı aralayan ülkelere yönelme riski endişeye neden oldu.\n\nÖzellikle Brezilya ve Arjantin gibi dev üreticilerden gelebilecek ucuz et akını, yüksek yem, enerji ve veterinerlik maliyetleriyle ayakta kalmaya çalışan Türk besicisini adeta köşeye sıkıştırdı. Artan maliyetler karşısında ezilen yerli üreticiler, dışarıdan gelecek ucuz et dalgasıyla rekabet edemez duruma gelerek iflas riskiyle karşı karşıya kalıyor.\n\nÜreticilerden Bakanlığa Çağrı: \"Korumacı Kalkan Şart\"\n\nTarım ve Orman Bakanlığının hayvancılık politikaları eleştirilirken, günü kurtaran ithalat hamlelerinden vazgeçilmesi gerektiğinin altı çiziliyor."
-    },
-    {
-      "title": "MARS: Romanya'da Hububat Verimi AB Ortalamasının Üzerinde",
-      "url": "https://www.tarimpusulasi.com/haber/mars-romanyada-hububat-verimi-ab-ortalamasinin-uzerinde-47251",
-      "source": "Tarım Pusulası",
-      "date": "2026-08-03",
-      "summary": "Avrupa Komisyonu'nun Tarımsal Kaynakları İzleme Servisi (MARS), Romanya'da 2026 yılı hububat ve yağlı tohumlu bitki üretim beklentilerinin uzun yıllar ortalamasının üzerinde kalmayı sürdürdüğünü açıkladı. Batı ve Orta Avrupa'da sıcak hava dalgaları nedeniyle verim tahminleri aşağı yönlü revize edili",
-      "content": "BÜKREŞ — Avrupa Komisyonu'nun Tarımsal Kaynakları İzleme Servisi (MARS), Romanya'nın 2026 yılı hububat ve yağlı tohumlu bitki üretiminde Avrupa Birliği'nin en olumlu görünüme sahip ülkelerinden biri olmaya devam ettiğini bildirdi. Kurumun son ürün izleme değerlendirmesine göre, Haziran ayının ilk yarısındaki yağışların sağladığı toprak nemi sayesinde kuraklık koşullarına rağmen üretim beklentileri uzun yıllar ortalamasının üzerinde seyrediyor.\n\nMARS'ın tahminlerine göre Romanya'da ortalama buğday verimi hektar başına 5,31 ton olacak. Bu rakam, 2025 yılında kaydedilen 5,65 ton/hektarın altında kalsa da, beş yıllık ortalama olan 4,55 ton/hektarın yaklaşık yüzde 16,7 üzerinde bulunuyor.\n\nKışlık arpa ve kanola üretiminde de benzer bir tablo öngörülüyor. Rapora göre kışlık arpa veriminin 5,26 ton/hektar, kanola veriminin ise 3,08 ton/hektar olması bekleniyor. Her iki ürünün de uzun yıllar ortalamasının üzerinde gerçekleşeceği tahmin ediliyor.\n\nBuna karşın ilkbahar ekili ürünler daha kırılgan bir görünüm sergiliyor. Mısır ve ayçiçeği üretiminde yüksek sıcaklıklar ile sınırlı toprak nemi verim üzerinde baskı oluşturmayı sürdürüyor. Ancak mevcut tahminler, geçen yıla göre yine de daha iyi sonuçlara işaret ediyor.\n\nMARS verilerine göre mısır verimi hektar başına 4,03 ton olarak öngörülüyor. Bu rakam geçen yılın 3,94 ton/hektarlık seviyesine göre 0,09 ton/hektar, yani yaklaşık yüzde 2,3 artış anlamına geliyor.\n\nAyçiçeğinde ise ortalama verimin 1,91 ton/hektar olması bekleniyor. Geçen yıl 1,71 ton/hektar olarak gerçekleşen verime göre artış 0,20 ton/hektar olurken, bu da yaklaşık yüzde 11,7'lik yükselişe karşılık geliyor.\n\nRaporda dikkat çeken bir diğer unsur ise Avrupa Birliği genelindeki görünüm oldu. Batı ve Orta Avrupa'da etkili olan sıcak hava dalgaları ile uzun süren kuraklık nedeniyle MARS, birçok temel üründe verim tahminlerini aşağı yönlü revize etti.\n\nBuna göre Avrupa Birliği genelinde yumuşak ekmeklik buğday verim tahmini hektar başına 6,00 tondan 5,88 tona düşürüldü. Böylece tahminde 0,12 ton/hektarlık veya yaklaşık yüzde 2 oranında aşağı yönlü revizyon yapıldı.\n\nKanola verim tahmini de 3,18 ton/hektardan 3,14 ton/hektara çekildi. Bu revizyon yaklaşık yüzde 1,3'lük düşüşe işaret ediyor.\n\nUzmanlar, Avrupa'nın birçok bölgesinde üretim beklentileri zayıflarken Romanya'nın hububat ve yağlı tohum üretiminde bölgenin en dirençli ülkeleri arasında yer almaya devam ettiğini belirtiyor. Bununla birlikte, sezonun nihai sonucu açısından Ağustos ayı ile sonbaharın ilk dönemindeki hava koşullarının, özellikle mısır ve ayçiçeği gibi ilkbahar ekili ürünlerin verimini belirleyeceği ifade ediliyor.\n\nTürkiye Açısından Değerlendirme\n\nRomanya, Karadeniz havzasının önemli hububat ihracatçılarından biri olarak uluslararası tahıl ticaretinde stratejik konuma sahip bulunuyor. Ülkedeki üretim görünümünün olumlu seyretmesi, Karadeniz tahıl arzı ve bölgesel fiyat dengeleri açısından önem taşıyor. Buna karşılık Avrupa Birliği'nin genelinde verim tahminlerinin aşağı yönlü revize edilmesi, önümüzdeki dönemde tahıl ve yağlı tohum piyasalarının hava koşullarına duyarlılığını artırabilecek gelişmeler arasında değerlendiriliyor.\n\nTARIM PUSULASI HABER MERKEZİ"
     },
     {
       "title": "Paraguay'dan canlı hayvan ve sığır eti ithalatında kritik aşama: Türk heyeti Paraguay'da tesisleri denetliyor",
@@ -328,5 +328,17 @@
   "defaultBorsa": "5ED10",
   "defaultCity": "CANAKKALE",
   "note": "Fiyatlar TOBB ticaret borsasından (borsa seçilebilir). Kanola manuel (Trakya 2025).",
-  "inputsNote": "Mazot: akaryakıt bayi fiyatı, günlük (şehir seçilebilir). Gübre: manuel (yaklaşık)."
+  "inputsNote": "Mazot: akaryakıt bayi fiyatı, günlük (şehir seçilebilir). Gübre: manuel (yaklaşık).",
+  "errors": [
+    "mazot ANKARA: fetch failed",
+    "mazot ISTANBUL: fetch failed",
+    "mazot IZMIR: fetch failed",
+    "mazot KONYA: fetch failed",
+    "mazot ADANA: fetch failed",
+    "mazot BURSA: fetch failed",
+    "mazot ANTALYA: fetch failed",
+    "mazot SAMSUN: fetch failed",
+    "mazot TEKIRDAG: fetch failed",
+    "mazot CANAKKALE: fetch failed"
+  ]
 }
