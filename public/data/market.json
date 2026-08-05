@@ -1,43 +1,51 @@
 {
-  "updatedAt": "2026-08-05T18:41:11.463Z",
+  "updatedAt": "2026-08-05T20:15:07.181Z",
   "fx": [
     {
       "code": "USD",
       "name": "Dolar",
-      "buy": 47.56,
-      "sell": 47.57,
-      "change": 0.07
+      "buy": 475558,
+      "sell": 475711,
+      "change": 7
     },
     {
       "code": "EUR",
       "name": "Euro",
-      "buy": 55,
-      "sell": 55.01,
-      "change": 0.28
+      "buy": 549734,
+      "sell": 54984,
+      "change": 24
     },
     {
       "code": "GRA",
       "name": "Gram Altın",
-      "buy": 6510.13,
-      "sell": 6511.1,
-      "change": 4.49
+      "buy": 649661,
+      "sell": 649754,
+      "change": 427
     },
     {
       "code": "CEYREKALTIN",
       "name": "Çeyrek Altın",
-      "buy": 10219.38,
-      "sell": 10452.95,
-      "change": 3.3
+      "buy": 1021938,
+      "sell": 1045295,
+      "change": 33
     },
     {
       "code": "CUMHURIYETALTINI",
       "name": "Cumhuriyet Altını",
       "buy": 42336,
       "sell": 42969,
-      "change": 3.12
+      "change": 312
     }
   ],
   "news": [
+    {
+      "title": "Gönen'de çevre kirliliği tartışması büyüyor! Tarımdan Haber'e suç duyurusu kararı",
+      "url": "https://www.tarimdanhaber.com/gonende-cevre-kirliligi-tartismasi-buyuyor-tarimdan-habere-suc-duyurusu-karari",
+      "source": "Tarımdan Haber",
+      "date": "2026-08-05",
+      "summary": "Tarımdan Haber'in \"Gönen Baldo Pirinci için alarm! Coğrafi işaretli ürüne çevre kirliliği gölgesi\" başlıklı haberinin ardından Gönen Ziraat Odası, Gönen Ticaret Odası ve Gönen Ticaret Borsası bir araya gelerek haber nedeniyle Cumhuriyet Savcılığı'na suç duyurusunda bulunma kararı aldı. Kararın, çevr",
+      "content": "Haber Merkezi / Tarımdan Haber'in Gönen'deki çevre kirliliği iddialarını gündeme taşıyan haberi ilçede geniş yankı uyandırdı.\n\n\"Gönen Baldo Pirinci için alarm! Coğrafi işaretli ürüne çevre kirliliği gölgesi\" başlıklı haberin ardından Gönen Ziraat Odası'nda önceki gün bir toplantı düzenlendi.\n\nToplantıya Gönen Ziraat Odası, Gönen Ticaret Odası, Gönen Ticaret Borsası ile ilçedeki bazı sivil toplum kuruluşlarının temsilcileri katıldı.\n\nToplantının ardından, Tarımdan Haber'in söz konusu haberi nedeniyle Cumhuriyet Savcılığı'na suç duyurusunda bulunulması yönünde karar alındı.\n\nKararı yerel medya duyurdu\n\nKarar, Gönen Yeni Gündem tarafından da kamuoyuna duyuruldu.\n\nPaylaşımda şu ifadelere yer verildi:\n\n\"Ziraat Odası, Ticaret Odası ve Ticaret Borsası yarın savcılığa gidiyor. Coğrafi işaretli Gönen Pirinci'ni hedef aldığı belirtilen internet sitesi ile bu sitede açıklamalarına yer verilen Gönen Çevre Platformu hakkında hukuki süreç başlıyor. Gönen Ziraat Odası, Gönen Ticaret Odası ve Gönen Ticaret Borsası'nın, Gönen Pirinci'nin itibarını zedelediği ve üreticileri mağdur ettiği gerekçesiyle yarın Cumhuriyet Savcılığı'na suç duyurusunda bulunacağı bildirildi.\"\n\n\"Çevre kirliliği iddiaları uzun süredir gündemde\"\n\nTarımdan Haber'in haberinde yer verilen çevre kirliliği iddiaları, daha önce de çeşitli ulusal televizyon kanalları, internet haber siteleri ve yerel basında farklı tarihlerde kamuoyuna yansımıştı.\n\nBuna rağmen suç duyurusu kararının yalnızca Tarımdan Haber'i ve haberde görüşlerine yer verilen Gönen Çevre Platformu'nu hedef alması dikkat çekti.\n\nTarımdan Haber'in değerlendirmesi\n\nTarımdan Haber olarak haberimizde, Gönen Çevre Platformu adı altında hazırlanan kapsamlı bir rapordaki bilgilere yer verilmiş, kamuoyuna yansıyan ve Gönen Baldo Pirinci'nin sulandığı su kaynaklarına kadar ulaştığı iddia edilen çevre kirliliğine neden olan atıklar aktarılmış ve ilgili kamu kurumlarının inceleme yapması çağrısı haberleştirilmiştir.\n\nSavcılığa yapılacağı belirtilen başvurunun ardından gelişmeleri ve süreci kamuoyu adına takip etmeyi sürdüreceğiz."
+    },
     {
       "title": "HAYGEM eski Daire Başkanı Burçak: Küçükbaşta artık asıl mesele destek değil, ihracat politikası",
       "url": "https://www.tarimdanhaber.com/haygem-eski-daire-baskani-burcak-kucukbasta-artik-asil-mesele-destek-degil-ihracat-politikasi",
@@ -125,14 +133,6 @@
       "date": "2026-08-05",
       "summary": "Tarım ve Orman Bakanlığı, tarım arazilerinin korunması ve kullanılmasına ilişkin yönetmelikte değişikliğe gitti. Resmî Gazete'de yayımlanan düzenlemeyle, tarımsal amaçlı yapı yapılabilmesi için aranan asgari arazi büyüklüğü 5 hektardan 2 hektara düşürüldü. Düzenleme, daha küçük tarım arazilerinde de",
       "content": "Haber Merkezi / Tarım ve Orman Bakanlığı tarafından hazırlanan \"Tarım Arazilerinin Korunması ve Kullanılması Hakkında Yönetmelikte Değişiklik Yapılmasına Dair Yönetmelik\", 4 Ağustos 2026 tarihli Resmî Gazete'de yayımlanarak yürürlüğe girdi.\n\nYönetmelikle birlikte tarım arazilerinde tarımsal amaçlı yapı yapılmasına ilişkin önemli bir değişikliğe gidildi.\n\nBağ evi için arazi büyüklüğü 2 hektara indirildi\n\nYönetmeliğin Ek-1'inde yer alan düzenleme kapsamında, üzerine tarımsal amaçlı yapı (bağ evi dahil) yapılabilecek tarım arazilerinde aranan asgari 5 hektar büyüklük şartı 2 hektara düşürüldü.\n\nBöylece, daha önce yapı izni alamayan çok sayıda küçük ölçekli tarım arazisi sahibi de yönetmelikteki diğer şartları taşımaları halinde bağ evi ve tarımsal amaçlı yapı yapabilecek.\n\nEski başvurular eski yönetmeliğe göre değerlendirilecek\n\nYönetmeliğe eklenen geçici maddeyle, 4 Nisan 2026 tarihinden önce Bakanlık birimlerine yapılan tarımsal amaçlı yapı ve tarım dışı kullanım başvurularının, yürürlükten kaldırılan eski yönetmelik hükümlerine göre sonuçlandırılması hükme bağlandı.\n\nBöylece yönetmelik değişikliği nedeniyle devam eden başvuruların hukuki durumunun netleştirilmesi amaçlandı.\n\nJeotermal sera yatırımları da güncellendi\n\nDüzenlemeyle birlikte Ek-10/B ve Ek-10/Ç eklerinde yer alan tarımsal entegre tesislere ilişkin hükümler de revize edildi. Bu kapsamda yatırım konusu \"Jeotermal Kaynaklı Teknolojik Sera Yatırımları\" olarak yeniden tanımlandı.\n\nYönetmelik geriye dönük uygulanacak\n\nYönetmelik, yayımı tarihinde yürürlüğe girerken hükümlerinin 4 Nisan 2026 tarihinden itibaren geçerli olması kararlaştırıldı.\n\nDikkat çeken nokta\n\nTarım ve Orman Bakanlığı'nın 4 Nisan 2026'da yürürlüğe koyduğu temel yönetmelikte, yalnızca dört ay sonra hem geçiş hükümleri hem de arazi büyüklüğü kriteri gibi temel düzenlemeleri değiştirmesi dikkat çekti. Özellikle bağ evi yapılabilecek asgari arazi büyüklüğünün 5 hektardan 2 hektara indirilmesi, kırsalda küçük ölçekli arazi sahipleri açısından önemli bir esneklik sağlarken, yönetmeliğin kısa süre içinde revizyona ihtiyaç duyması da uygulamadaki eksikliklerin yeniden gözden geçirildiğini ortaya koydu."
-    },
-    {
-      "title": "Hububat piyasasında dikkat çeken yükseliş! Arpa bir haftada 1.300 liranın üzerinde arttı",
-      "url": "https://www.tarimdanhaber.com/hububat-piyasasinda-dikkat-ceken-yukselis-arpa-bir-haftada-1300-liranin-uzerinde-artti",
-      "source": "Tarımdan Haber",
-      "date": "2026-08-04",
-      "summary": "Ticaret borsalarında hububat fiyatları geçen haftaya göre yükselişini sürdürdü. Son işlem gününde ekmeklik buğday 663 TL, makarnalık buğday 513 TL, arpa ise 1.327 TL arttı. Haftalık ortalamalarda da tüm ürünlerde yükseliş görülürken, en güçlü fiyat hareketi arpada yaşandı.",
-      "content": "Haber Merkezi / Hasat döneminin sonuna yaklaşılırken ticaret borsalarında hububat fiyatları yukarı yönlü hareketini sürdürüyor. 31 Temmuz son işlem günü verilerine göre, geçen haftaya kıyasla tüm temel ürünlerde fiyat artışı yaşandı.\n\nGünlük fiyatlarda en büyük artış arpada\n\nGeçen haftanın son işlem günü ile bu haftanın son işlem günü karşılaştırıldığında;\n\nSon işlem gününde en yüksek fiyat artışı 1.327 TL ile arpada gerçekleşirken, yulaf da 1.095 TL yükseldi. Çavdar ise düşüş gösteren tek ürün oldu.\n\nHaftalık ortalamalar da yükseldi\n\n27-31 Temmuz haftalık ortalamaları da piyasadaki yukarı yönlü eğilimi teyit etti.\n\nGeçen haftaya göre;\n\nEkmeklik buğday 473 TL\n\nMakarnalık buğday 425 TL\n\nArpa 732 TL\n\nMısır 195 TL\n\nYulaf 1.468 TL\n\nÇavdar 170 TL\n\nartış kaydetti.\n\nÖzellikle yulaf ve arpadaki yükseliş, diğer ürünlere göre daha güçlü bir fiyat hareketine işaret etti.\n\nAylık ortalamalarda da fiyatlar yükseldi\n\nTemmuz ayı ortalamaları da geçen haftaki aylık ortalamaların üzerine çıktı.\n\nEkmeklik buğday 125 TL\n\nMakarnalık buğday 100 TL\n\nArpa 163 TL\n\nMısır 58 TL\n\nYulaf 642 TL\n\nÇavdar 110 TL\n\nartış gösterdi.\n\nBu tablo, fiyatların yalnızca günlük işlemlerde değil, aylık ortalamalarda da yukarı yönlü bir eğilim izlediğini ortaya koydu.\n\nPiyasada ne anlama geliyor?\n\nHasadın büyük ölçüde tamamlanmasına yaklaşılırken ürün arzındaki değişim, üreticinin satış temposu ve piyasa talebi fiyatların yukarı yönlü hareket etmesinde etkili oldu.\n\nÖzellikle arpa ve yulaf fiyatlarındaki güçlü artış, yem sektörünün talebi ile piyasadaki arz dengesinin yeniden şekillenmeye başladığına işaret ediyor."
     }
   ],
   "commoditiesByBorsa": {
