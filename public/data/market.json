@@ -1,43 +1,59 @@
 {
-  "updatedAt": "2026-08-05T20:15:07.181Z",
+  "updatedAt": "2026-08-05T21:33:17.814Z",
   "fx": [
     {
       "code": "USD",
       "name": "Dolar",
-      "buy": 475558,
-      "sell": 475711,
-      "change": 7
+      "buy": 47.56,
+      "sell": 47.59,
+      "change": 0.02
     },
     {
       "code": "EUR",
       "name": "Euro",
-      "buy": 549734,
-      "sell": 54984,
-      "change": 24
+      "buy": 55.01,
+      "sell": 55.22,
+      "change": 0.2
     },
     {
       "code": "GRA",
       "name": "Gram Altın",
-      "buy": 649661,
-      "sell": 649754,
-      "change": 427
+      "buy": 6496.49,
+      "sell": 6497.38,
+      "change": 0.02
     },
     {
       "code": "CEYREKALTIN",
       "name": "Çeyrek Altın",
-      "buy": 1021938,
-      "sell": 1045295,
-      "change": 33
+      "buy": 10219.38,
+      "sell": 10452.95,
+      "change": 0
     },
     {
       "code": "CUMHURIYETALTINI",
       "name": "Cumhuriyet Altını",
       "buy": 42336,
       "sell": 42969,
-      "change": 312
+      "change": 3.12
     }
   ],
   "news": [
+    {
+      "title": "Ordu Gastronomi Festivali 196 yöresel lezzeti bir araya getirdi",
+      "url": "https://www.tarimpusulasi.com/haber/ordu-gastronomi-festivali-196-yoresel-lezzeti-bir-araya-getirdi-47269",
+      "source": "Tarım Pusulası",
+      "date": "2026-08-05",
+      "summary": "Ordu'da bu yıl ilk kez düzenlenen YEDAŞ Ordu Gastronomi Festivali, kentin 19 ilçesinden 196 yöresel lezzeti aynı çatı altında buluşturdu. Festival, yöresel mutfağın tanıtımının yanı sıra unutulmaya yüz tutmuş tariflerin kayıt altına alınmasına yönelik çalışmalarıyla da öne çıktı.",
+      "content": "ORDU — Ordu'nun zengin mutfak kültürünü ulusal ve uluslararası platformlarda tanıtmak amacıyla bu yıl ilk kez düzenlenen YEDAŞ Ordu Gastronomi Festivali, 19 ilçeden 196 yöresel lezzeti aynı çatı altında buluşturdu. Festival, gastronomi turizmine katkı sağlamanın yanı sıra unutulmaya yüz tutmuş yöresel tariflerin kayıt altına alınmasına yönelik çalışmalarıyla da dikkat çekti.\n\nOrdu Valisi Muammer Erol'un himayelerinde, Ordu Büyükşehir Belediye Başkanı Dr. Mehmet Hilmi Güler'in öncülüğünde ve Ordu İl Kültür ve Turizm Müdürü Uğur Toparlak'ın koordinasyonunda gerçekleştirilen festival, MA MAJOR Organizasyon Ltd. Şti. tarafından Akif Budak liderliğinde organize edildi. Ana sponsorluğunu YEDAŞ'ın üstlendiği organizasyon, kamu kurumları, yerel yönetimler ve çok sayıda paydaşın katkısıyla geniş katılımlı bir gastronomi etkinliğine dönüştü.\n\n19 ilçenin mutfak kültürü aynı çatı altında buluştu\n\nFestival süresince Ordu'nun 19 ilçesine ait toplam 196 yöresel lezzet ziyaretçilerin beğenisine sunuldu. Kıyı kesimlerinin deniz ürünlerinden iç bölgelerin yayla mutfağına, fındık yaprağı sarmasından yöresel tatlılara, doğal ot yemeklerinden odun ateşinde hazırlanan geleneksel tariflere kadar uzanan geniş ürün yelpazesi, Ordu mutfağının kültürel çeşitliliğini gözler önüne serdi.\n\nFestival kapsamında düzenlenen Ordu Yemekleri Yarışması da ana yemek, ot yemekleri ile tatlı ve hamur işleri kategorilerinde gerçekleştirildi. Yarışmacılar, geleneksel tarifleri özgün sunumlarla jüri üyelerinin değerlendirmesine sundu.\n\nÜnlü şefler Ordu mutfağını yorumladı\n\nFestivalin öne çıkan etkinliklerinden birini gastronomi gösterileri oluşturdu. Şefler Özlem Mekik, Esra Tokelli, Yıldız Öz Samaha, Selim Yeşilpınar, Önder Yılmaz ve Mehmet Ali Hatipoğlu, Ordulu şeflerle birlikte kentin yöresel ürünlerini modern sunum teknikleriyle yorumladı.\n\nŞef gösterilerinin yanı sıra söyleşiler ve tadım etkinlikleri de ziyaretçilerden ilgi gördü. Festival kapsamında katkı sunan kurum ve destekçilere teşekkür plaketleri takdim edildi.\n\nKültürel etkinliklerle zenginleşen festival\n\nFestival, şehir merkezinde düzenlenen kortej yürüyüşüyle başladı. Program boyunca gerçekleştirilen horon gösterileri, Kafkas halk dansları, konserler ve çeşitli kültürel etkinlikler, binlerce ziyaretçiyi Ordu'nun mutfağıyla birlikte kültürü ve folkloruyla da buluşturdu.\n\nOrganizasyon, gastronominin yalnızca yemek kültürünü değil, aynı zamanda kentin yaşam biçimini ve kültürel kimliğini tanıtan önemli bir araç olduğunu ortaya koydu.\n\nYöresel tarifler kayıt altına alındı\n\nFestivalin hazırlık sürecinde yürütülen saha çalışmaları kapsamında organizasyon ekibi, Ordu'nun tüm ilçelerini ziyaret ederek unutulmaya yüz tutmuş yöresel tarifleri derledi.\n\nYerel üreticiler, kadın kooperatifleri ve aile işletmeleriyle yapılan çalışmalar sonucunda çok sayıda geleneksel reçete yeniden kayıt altına alınırken, oluşturulan gastronomi envanterinin kitaplaştırılması için de çalışma başlatıldı. Böylece Ordu'nun mutfak mirasının gelecek kuşaklara aktarılmasına yönelik önemli bir adım atılmış oldu.\n\nGastronomi turizmine katkı hedefleniyor\n\nİlk yılında ortaya koyduğu organizasyon yapısı, geniş katılımı ve 19 ilçeden 196 yöresel lezzeti aynı festivalde buluşturmasıyla dikkat çeken YEDAŞ Ordu Gastronomi Festivali'nin, Ordu'nun gastronomi turizmi alanındaki tanıtımına katkı sağlaması hedefleniyor.\n\nFestival, kentin doğal güzelliklerinin yanı sıra üretim kültürü, yerel ürünleri ve zengin mutfak mirasını daha geniş kitlelere tanıtmayı amaçlayan önemli organizasyonlardan biri olarak öne çıkarken, Ordu'nun gastronomi alanındaki marka değerinin güçlendirilmesine yönelik çalışmalara da katkı sunuyor.\n\nTARIM PUSULASI HABER MERKEZİ"
+    },
+    {
+      "title": "Kadim Durmaz: 200 TL'nin alım gücü 500 ekmekten 11 ekmeğe düştü",
+      "url": "https://www.tarimpusulasi.com/haber/kadim-durmaz-200-tlnin-alim-gucu-500-ekmekten-11-ekmege-dustu-47268",
+      "source": "Tarım Pusulası",
+      "date": "2026-08-05",
+      "summary": "CHP Tokat Milletvekili Kadim Durmaz, TBMM Genel Kurulu'nda yaptığı konuşmada, 200 liralık banknotun 2009 yılında yaklaşık 500 ekmek satın alabilirken bugün yalnızca yaklaşık 11 ekmek alınabildiğini belirterek yüksek enflasyon ve satın alma gücündeki düşüşe ilişkin eleştirilerde bulundu.",
+      "content": "ANKARA — CHP Tokat Milletvekili Kadim Durmaz, Türkiye Büyük Millet Meclisi (TBMM) Genel Kurulu'nda yaptığı konuşmada, yüksek enflasyonun vatandaşların satın alma gücü üzerindeki etkilerine ilişkin değerlendirmelerde bulundu. Durmaz, 200 liralık banknotun tedavüle çıktığı 2009 yılı ile bugün arasında alım gücünde önemli bir gerileme yaşandığını savundu.\n\nMilletvekili, 200 liralık banknotun tedavüle çıktığı dönemde bir ekmeğin yaklaşık 40 kuruş olduğunu ve aynı banknotla yaklaşık 500 ekmek satın alınabildiğini söyledi. Bugün ise bir ekmeğin 17,5 lira seviyesine yükseldiğini belirten Durmaz, aynı banknotla yalnızca yaklaşık 11 ekmek alınabildiğini ifade etti. Durmaz'ın konuşmasında yer verdiği karşılaştırmaya göre, 200 liralık banknotun satın alma gücü yaklaşık 489 ekmek azaldı.\n\nSatın alma gücündeki düşüşü çarpıcı bir örnekle anlatan Durmaz, \"Soframızdan 489 ekmeği kim çaldı?\" ifadelerini kullandı. Emekli, işçi, memur ve çiftçinin gelirlerinin her geçen gün eridiğini savunan Durmaz, vatandaşların alım gücündeki gerilemenin günlük yaşamda daha belirgin hissedildiğini dile getirdi.\n\nKonuşmasında banknotun nominal değeri ile gerçek satın alma gücü arasındaki farka da dikkat çeken Durmaz, \"Kağıdın üzerindeki rakam hâlâ 200 ama değeri aynı değil.\" dedi.\n\nEkonomik tabloyu eleştiren Durmaz, \"Yanlış ekonomi politikaları, yüksek enflasyon, adaletsiz düzen vatandaşın alın terini değersizleştirdi.\" değerlendirmesinde bulundu.\n\nVatandaşların enflasyonu günlük yaşamlarında doğrudan hissettiğini belirten Durmaz, \"Vatandaşımız enflasyonu bakkalın önünde, marketin kasasında ekmeğini bölerken yaşıyor.\" ifadelerini kullandı.\n\nEkonomik sıkıntıların yalnızca rakamlardan ibaret olmadığını savunan Durmaz, \"Bir zamanlar 500 ekmek alan para bugün 11 ekmeğe yetiyorsa sadece ekonomik bir başarısızlık yoktur. Mutfakta sönen ateş, büyüyen bir yoksulluk vardır.\" dedi.\n\nKonuşmasının sonunda vatandaşın ekonomik gelişmeleri demokratik süreçlerde değerlendireceğini ifade eden Durmaz, \"Milletimizin ekmeğini küçültenlerden, cebini boşaltanlardan ve alın terini değersizleştirenlerden sandık önünde hesabını mutlaka soracaktır.\" sözleriyle konuşmasını tamamladı.\n\nTARIM PUSULASI HABER MERKEZİ"
+    },
     {
       "title": "Gönen'de çevre kirliliği tartışması büyüyor! Tarımdan Haber'e suç duyurusu kararı",
       "url": "https://www.tarimdanhaber.com/gonende-cevre-kirliligi-tartismasi-buyuyor-tarimdan-habere-suc-duyurusu-karari",
@@ -101,22 +117,6 @@
       "date": "2026-08-05",
       "summary": "Ege İhracatçı Birlikleri (EİB), temmuz ayında ihracatını geçen yılın aynı ayına göre yüzde 7 artırarak 1 milyar 634 milyon dolardan 1 milyar 746 milyon dolara yükseltti. Böylece EİB, haziran ayında kırdığı aylık ihracat rekorunu yenileyerek üst üste ikinci ay tarihinin en yüksek ihracat rakamına ula",
       "content": "İZMİR — Ege İhracatçı Birlikleri (EİB), temmuz ayında ihracatını geçen yılın aynı dönemine göre yüzde 7 artırarak 1 milyar 634 milyon dolardan 1 milyar 746 milyon dolara yükseltti. Bu performansla birlik, haziran ayında ulaştığı 1 milyar 743 milyon dolarlık aylık ihracat rekorunu geride bırakarak tarihindeki en yüksek aylık ihracat rakamına ikinci kez üst üste ulaştı.\n\nTemmuz ayındaki ihracat artışına sanayi, tarım ve madencilik sektörleri katkı sağladı. Sanayi ürünleri ihracatı 880 milyon dolardan 911 milyon dolara çıkarak yüzde 4 artarken, tarım sektörlerinin ihracatı 647,5 milyon dolardan 677,5 milyon dolara yükselerek yüzde 5 büyüdü. En yüksek artış ise yüzde 47 ile madencilik sektöründe gerçekleşti. Madencilik ihracatı 106,8 milyon dolardan 157 milyon doların üzerine çıktı.\n\nEİB bünyesindeki birlikler arasında Ege Demir ve Demirdışı Metaller İhracatçıları Birliği, 221,5 milyon dolarlık ihracatla ilk sıradaki yerini korudu. Birliğin ocak-temmuz dönemindeki ihracatı 1 milyar 530 milyon dolar, son 12 aylık ihracatı ise 2 milyar 603 milyon dolar olarak gerçekleşti.\n\nEge Su Ürünleri ve Hayvansal Mamuller İhracatçıları Birliği, temmuz ayında 191,8 milyon dolarlık ihracata ulaştı. Birlik, yılın ilk yedi ayında 1 milyar 141 milyon dolar, son bir yıllık dönemde ise yüzde 14 artışla 1 milyar 993 milyon dolarlık ihracat gerçekleştirdi. Böylece yıllık ihracatın ağustos ayında 2 milyar doların üzerine çıkabileceği sinyali verildi.\n\nTemmuz ayında ihracat artış rekortmeni olan Ege Maden İhracatçıları Birliği, 157,1 milyon dolarlık ihracat yaptı. Birliğin son 12 aylık ihracatı 1 milyar 519 milyon dolara ulaşırken, 2026 yılı sonu için belirlenen 1,5 milyar dolarlık hedefe beş ay önceden ulaşıldığı bildirildi.\n\nHazır giyim ve konfeksiyon sektörü de yükselişini sürdürdü. Ege Hazır Giyim ve Konfeksiyon İhracatçıları Birliği, ihracatını temmuz ayında yüzde 1 artırarak 129,6 milyon dolara çıkarırken, art arda üçüncü ayda da büyüme kaydetti.\n\nYaş meyve sebze sektöründe ise dikkat çekici bir artış yaşandı. Ege Yaş Meyve Sebze İhracatçıları Birliği, ihracatını geçen yılın aynı ayındaki 94,5 milyon dolardan 124,8 milyon dolara yükseltti. Böylece ihracat yüzde 32 artarken, bu yükselişte taze meyve ve sebze ihracatındaki yüzde 193'lük artış etkili oldu.\n\nBuna karşılık bazı sektörlerde gerileme görüldü. Ege Zeytin ve Zeytinyağı İhracatçıları Birliği'nin ihracatı temmuz ayında yüzde 49 azalarak 17,6 milyon dolar seviyesine geriledi. Tütün sektörü ise yaklaşık 106,4 milyon dolarlık ihracatla geçen yılki performansını korudu.\n\nTürkiye İhracatçılar Meclisi verilerine göre, Ege Bölgesi'nin toplam ihracatı temmuz ayında yüzde 6 artışla 2 milyar 838 milyon dolardan 3 milyar 6 milyon dolara yükselerek 3 milyar dolar eşiğini aştı. Bölge ihracatının yüzde 57'sini tek başına gerçekleştiren İzmir, 1 milyar 714 milyon dolarlık ihracat yaptı. Denizli ihracatını yüzde 17 artırarak 483,8 milyon dolara çıkarırken, Manisa'nın ihracatı yüzde 21 azalarak 353,3 milyon dolara geriledi. Muğla, Aydın, Afyonkarahisar, Kütahya ve Uşak da temmuz ayında ihracatlarını artıran iller arasında yer aldı.\n\nÜlke bazında ise Almanya, 160,3 milyon dolarlık ihracatla iki ay sonra yeniden EİB'nin en fazla ihracat yaptığı ülke oldu. Amerika Birleşik Devletleri 138,4 milyon dolar, İtalya ise 109 milyon dolar ile Almanya'yı takip etti. Ayrıca Libya, Hindistan, Litvanya, Suriye, Vietnam ve Türkmenistan'a yapılan ihracatta üç haneli artış oranlarına ulaşıldı.\n\nEge İhracatçı Birlikleri Koordinatör Başkanı Muhammet Öztürk, üst üste iki ay ihracat rekoru kırılmasının ve yıllık ihracatın 19 milyar doların üzerine çıkmasının memnuniyet verici olduğunu belirtti. Ancak birliklerden altısının geçen yılın temmuz ayı performansının gerisinde kaldığını ifade eden Öztürk, ihracatta daha güçlü büyüme için özellikle yüksek finansman maliyetlerinin azaltılması gerektiğini vurguladı. Tarım sektörünün Ege Bölgesi ihracatındaki yüzde 40'lık payına dikkat çeken Öztürk, ihraç sezonu öncesinde tarım ihracatçılarına yönelik Türk Eximbank tarafından özel finansman modellerinin hayata geçirilmesi çağrısında bulundu.\n\nTARIM PUSULASI HABER MERKEZİ"
-    },
-    {
-      "title": "Reuters: Karadeniz gerilimi buğday fiyatlarını yükseltebilir",
-      "url": "https://www.tarimpusulasi.com/haber/reuters-karadeniz-gerilimi-bugday-fiyatlarini-yukseltebilir-47261",
-      "source": "Tarım Pusulası",
-      "date": "2026-08-05",
-      "summary": "Reuters'ın aktardığına göre Karadeniz'de ticari gemiler ve liman altyapısına yönelik saldırıların artması, küresel tahıl ticaretinde yeni riskleri gündeme getirdi. Rusya Tahıl İhracatçıları ve Üreticileri Birliği, ihracat koridorunun tamamen kapanması halinde dünya buğday fiyatlarının ton başına 400",
-      "content": "KARADENİZ — Karadeniz'de ticari gemiler ile liman altyapılarına yönelik son dönemde artan saldırılar, küresel tahıl ticareti ve gıda güvenliği açısından yeni riskleri gündeme taşıdı. Reuters'ın haberine göre Rusya Tahıl İhracatçıları ve Üreticileri Birliği, Karadeniz ihracat koridorunun tamamen devre dışı kalması halinde dünya buğday fiyatlarının ton başına 400 doların üzerine çıkabileceği uyarısında bulundu.\n\nBirliğin değerlendirmesine göre Rusya ile Ukrayna arasında Karadeniz havzasında tırmanan askeri gerilim, dünyanın en önemli tahıl ihracat güzergâhlarından biri olan bölgedeki lojistik akışı tehdit ediyor. Ukrayna'nın Rusya'nın Taman Limanı ve dökme yük gemilerine yönelik insansız hava aracı saldırıları ile Rusya'nın Odessa Limanı çevresindeki liman altyapısı ve gemileri hedef alan saldırılarının, tedarik zincirinde ciddi aksamalara yol açabileceği belirtiliyor.\n\nSektör temsilcileri, Karadeniz'deki ihracat akışının tamamen durması halinde küresel pazara sunulan Rus buğdayında 30 ila 35 milyon tonluk arz kaybı oluşabileceğini ifade etti. Açıklamaya göre bu miktar, dünya buğday ticaretinin yaklaşık yüzde 15'ine karşılık geliyor. Değerlendirmede, bu seviyedeki arz açığının kısa vadede diğer ihracatçı ülkeler tarafından karşılanmasının mümkün görünmediği kaydedildi.\n\nFiyat beklentilerine ilişkin değerlendirmede ise mevcut koşullarda buğdayın FOB fiyatlarının ton başına 340-370 dolar aralığına yükselebileceği, ihracat koridorunun tamamen kapanması senaryosunda ise fiyatların 400 doların üzerine çıkmasının olası olduğu belirtildi. Bu tahmin, mevcut öngörülen fiyat aralığına göre yaklaşık 30 ila 60 dolar, alt sınır olan 340 dolara göre ise yaklaşık yüzde 18 daha yüksek bir seviyeye işaret ediyor.\n\nBirlik ayrıca, olası fiyat artışlarının yalnızca tahıl piyasasını değil, küresel gıda enflasyonunu da etkileyebileceğini değerlendirdi. Açıklamada, pandemi döneminde yaşanan lojistik sorunlarından daha geniş çaplı bir maliyet baskısının oluşabileceği görüşü paylaşıldı.\n\nHaberde yer alan değerlendirmelere göre en yüksek risk, Karadeniz'den yapılan tahıl sevkiyatına önemli ölçüde bağımlı olan Afrika ve Orta Doğu'daki bazı ülkelerde bulunuyor. Artan ithalat maliyetlerinin gıda arzını zorlaştırabileceği, bunun da özellikle düşük gelirli ülkelerde gıda güvenliği üzerinde baskı oluşturabileceği ifade ediliyor.\n\nUkrayna tarafında ise ülkenin en büyük tarım sendikası UAC, Rusya'nın Odessa Limanı yakınındaki saldırılarının hasat döneminde ihracatı olumsuz etkilediğini açıkladı. Ukrayna Devlet Başkanı Volodimir Zelenski de Karadeniz'deki saldırıların deniz taşımacılığını zorlaştırdığını ve küresel gıda güvenliği açısından risk oluşturduğunu belirterek uluslararası topluma çağrıda bulundu.\n\nKaradeniz Tahıl Koridoru'nun etkinliğinin azalmasıyla birlikte bölgedeki askeri gerilimin, küresel tahıl piyasaları ve uluslararası gıda ticareti üzerindeki etkisinin yakından izlenmeye devam edildiği bildiriliyor.\n\nTARIM PUSULASI HABER MERKEZİ"
-    },
-    {
-      "title": "Antalya Büyükşehir, Gündoğmuş ve İbradı'nda arı kovanı desteği",
-      "url": "https://www.tarimpusulasi.com/haber/antalya-buyuksehir-gundogmus-ve-ibradinda-ari-kovani-destegi-47260",
-      "source": "Tarım Pusulası",
-      "date": "2026-08-05",
-      "summary": "Antalya Büyükşehir Belediyesi, kırsal kalkınma çalışmaları kapsamında Gündoğmuş ve İbradı ilçelerinde arıcılıkla uğraşan 74 üreticiye toplam 228 arı kovanı teslim etti. Belediye, 2026 yılında ise Antalya genelinde 1.350 üreticiye toplam 4.050 arı kovanı desteği sağlayarak üretim maliyetlerini azaltm",
-      "content": "ANTALYA — Antalya Büyükşehir Belediyesi, yerelden kalkınma hedefi doğrultusunda üreticilere yönelik tarımsal desteklerini sürdürüyor. Büyükşehir Belediyesi Tarımsal Hizmetler Dairesi Başkanlığı tarafından Gündoğmuş ve İbradı ilçelerinde arıcılıkla uğraşan üreticilere toplam 228 arı kovanı teslim edildi.\n\nDestek kapsamında Gündoğmuş ilçesinde 57 üreticiye kişi başına 3'er adet olmak üzere toplam 171 arı kovanı, İbradı ilçesinde ise 17 üreticiye toplam 57 arı kovanı dağıtıldı. Böylece iki ilçede destekten yararlanan üretici sayısı 74, dağıtılan toplam kovan sayısı ise 228 oldu.\n\nBüyükşehir Belediyesi, söz konusu destekle üreticilerin üretim maliyetlerini azaltmayı, mevcut arıcılık faaliyetlerini geliştirmeyi ve yeni üreticilerin sektöre yönelmesini teşvik etmeyi amaçlıyor.\n\nAntalya Büyükşehir Belediyesi Tarımsal Hizmetler Dairesi Başkanlığı Ziraat Yüksek Mühendisi Pınar Erçin, belediyenin Antalya'nın 19 ilçesinde arıcılık faaliyetlerini desteklemeye devam ettiğini belirterek, üretimin ve üreticinin yanında olmayı sürdüreceklerini ifade etti.\n\n2026 yılı genelinde yürütülen çalışmalar kapsamında Antalya'nın 19 ilçesinde arıcılıkla uğraşan 1.350 üreticiye toplam 4.050 arı kovanı desteği sağlandı. Buna göre üretici başına ortalama 3 arı kovanı verildi. Gündoğmuş ve İbradı'nda dağıtılan 228 kovan, yıl genelinde dağıtılan 4.050 kovanın yaklaşık yüzde 5,6'sını oluşturuyor.\n\nBelediye yetkilileri, kırsal kalkınmayı güçlendirmeyi hedefleyen tarımsal desteklerin önümüzdeki dönemde de devam edeceğini bildirdi.\n\nTARIM PUSULASI HABER MERKEZİ"
     },
     {
       "title": "ABD'de çiftçinin 500 milyar dolarlık borcu kimin elinde? Tarım finansmanında iki dev öne çıkıyor",
@@ -328,5 +328,17 @@
   "defaultBorsa": "5ED10",
   "defaultCity": "CANAKKALE",
   "note": "Fiyatlar TOBB ticaret borsasından (borsa seçilebilir). Kanola manuel (Trakya 2025).",
-  "inputsNote": "Mazot: akaryakıt bayi fiyatı, günlük (şehir seçilebilir). Gübre: manuel (yaklaşık)."
+  "inputsNote": "Mazot: akaryakıt bayi fiyatı, günlük (şehir seçilebilir). Gübre: manuel (yaklaşık).",
+  "errors": [
+    "mazot ANKARA: fetch failed",
+    "mazot ISTANBUL: fetch failed",
+    "mazot IZMIR: fetch failed",
+    "mazot KONYA: fetch failed",
+    "mazot ADANA: fetch failed",
+    "mazot BURSA: fetch failed",
+    "mazot ANTALYA: fetch failed",
+    "mazot SAMSUN: fetch failed",
+    "mazot TEKIRDAG: fetch failed",
+    "mazot CANAKKALE: fetch failed"
+  ]
 }
