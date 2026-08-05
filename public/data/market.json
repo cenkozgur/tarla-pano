@@ -1,26 +1,26 @@
 {
-  "updatedAt": "2026-08-05T03:35:44.180Z",
+  "updatedAt": "2026-08-05T06:12:40.674Z",
   "fx": [
     {
       "code": "USD",
       "name": "Dolar",
-      "buy": 47.56,
-      "sell": 47.59,
+      "buy": 47.57,
+      "sell": 47.58,
       "change": 0.1
     },
     {
       "code": "EUR",
       "name": "Euro",
-      "buy": 54.9,
-      "sell": 54.95,
-      "change": 0.14
+      "buy": 54.92,
+      "sell": 54.94,
+      "change": 0.15
     },
     {
       "code": "GRA",
       "name": "Gram Altın",
-      "buy": 6315.03,
-      "sell": 6315.83,
-      "change": 1.36
+      "buy": 6379.75,
+      "sell": 6380.68,
+      "change": 2.4
     },
     {
       "code": "CEYREKALTIN",
@@ -38,6 +38,22 @@
     }
   ],
   "news": [
+    {
+      "title": "ABD'de çiftçinin 500 milyar dolarlık borcu kimin elinde? Tarım finansmanında iki dev öne çıkıyor",
+      "url": "https://www.tarimdanhaber.com/abdde-ciftcinin-500-milyar-dolarlik-borcu-kimin-elinde-tarim-finansmaninda-iki-dev-one-cikiyor",
+      "source": "Tarımdan Haber",
+      "date": "2026-08-05",
+      "summary": "ABD'de tarım sektörünün kredi borcu 500 milyar dolar seviyesini aşarken, finansmanın büyük bölümü iki ana yapı tarafından sağlanıyor. Tarım Kredi Sistemi (Farm Credit System) ile ticari bankalar, çiftçi borçlarının yüzde 80'inden fazlasını elinde bulunduruyor.",
+      "content": "Haber Merkezi / ABD'de tarım sektörünün kullandığı kredi hacmi 500 milyar doların üzerine çıkarken, çiftçilerin finansmana erişiminde iki büyük kurum grubu belirleyici rol oynuyor.\n\nVerilere göre, çiftçilerin toplam kredi borcunun yaklaşık yüzde 46'sı Tarım Kredi Sistemi (Farm Credit System) tarafından finanse ediliyor. Yaklaşık 557 milyar dolarlık varlığa sahip sistem, ülkenin en büyük tarımsal kredi sağlayıcısı konumunda bulunuyor.\n\nBankalar ikinci sırada\n\nTarım sektörüne kredi sağlayan ticari bankaların toplam kredi hacmi ise 212 milyar dolar seviyesinde bulunuyor. Bu rakam, çiftçi borçlarının yaklaşık yüzde 35,7'sine karşılık geliyor.\n\nKalan finansman ise sigorta şirketleri, ekipman ve girdi satıcılarının sağladığı ticari krediler ile diğer finans kuruluşları arasında paylaşılıyor.\n\nEn büyük kredi sağlayıcısını belirlemek kolay değil\n\nUzmanlara göre ABD'de tarımsal kredi sağlayıcılarını tek tek sıralamak oldukça güç. Bunun nedeni ise kullanılan veri setleri, kredi türleri ve kurum sınıflandırmalarının farklılık göstermesi.\n\nGeçmiş yıllarda yapılan değerlendirmelerde Farm Credit birlikleri, MetLife ve Rabobank tarım sektörünün önde gelen finans kuruluşları arasında gösterilirken, sektör uzmanları genel tablonun bugün de büyük ölçüde benzer olduğunu ifade ediyor.\n\nÇiftçilere öneri: Tek kurumla yetinmeyin\n\nUzmanlar, finansman arayan üreticilere yalnızca tek bir kredi kuruluşuyla görüşmek yerine farklı kurumların faiz oranlarını ve kredi koşullarını karşılaştırmalarını tavsiye ediyor.\n\nBu sayede üreticilerin daha düşük maliyetli finansman bulma ve daha uygun geri ödeme koşullarına ulaşma imkânı elde edebileceği belirtiliyor.\n\nFinansmanda yeni eğilim\n\nABD tarımında son yıllarda kredi kullanımında kademeli bir değişim yaşanıyor. Finansmanın bir bölümü ticari bankalardan kooperatif tipi kredi kuruluşlarına ve satıcı finansmanına yönelse de, sektörün kullandığı tarımsal kredilerin büyük kısmı hâlâ Tarım Kredi Sistemi ile ticari bankaların kontrolünde bulunuyor."
+    },
+    {
+      "title": "Tarım arazilerinde bağ evi şartı değişti! 5 hektar sınırı 2 hektara indirildi",
+      "url": "https://www.tarimdanhaber.com/tarim-arazilerinde-bag-evi-sarti-degisti-5-hektar-siniri-2-hektara-indirildi",
+      "source": "Tarımdan Haber",
+      "date": "2026-08-05",
+      "summary": "Tarım ve Orman Bakanlığı, tarım arazilerinin korunması ve kullanılmasına ilişkin yönetmelikte değişikliğe gitti. Resmî Gazete'de yayımlanan düzenlemeyle, tarımsal amaçlı yapı yapılabilmesi için aranan asgari arazi büyüklüğü 5 hektardan 2 hektara düşürüldü. Düzenleme, daha küçük tarım arazilerinde de",
+      "content": "Haber Merkezi / Tarım ve Orman Bakanlığı tarafından hazırlanan \"Tarım Arazilerinin Korunması ve Kullanılması Hakkında Yönetmelikte Değişiklik Yapılmasına Dair Yönetmelik\", 4 Ağustos 2026 tarihli Resmî Gazete'de yayımlanarak yürürlüğe girdi.\n\nYönetmelikle birlikte tarım arazilerinde tarımsal amaçlı yapı yapılmasına ilişkin önemli bir değişikliğe gidildi.\n\nBağ evi için arazi büyüklüğü 2 hektara indirildi\n\nYönetmeliğin Ek-1'inde yer alan düzenleme kapsamında, üzerine tarımsal amaçlı yapı (bağ evi dahil) yapılabilecek tarım arazilerinde aranan asgari 5 hektar büyüklük şartı 2 hektara düşürüldü.\n\nBöylece, daha önce yapı izni alamayan çok sayıda küçük ölçekli tarım arazisi sahibi de yönetmelikteki diğer şartları taşımaları halinde bağ evi ve tarımsal amaçlı yapı yapabilecek.\n\nEski başvurular eski yönetmeliğe göre değerlendirilecek\n\nYönetmeliğe eklenen geçici maddeyle, 4 Nisan 2026 tarihinden önce Bakanlık birimlerine yapılan tarımsal amaçlı yapı ve tarım dışı kullanım başvurularının, yürürlükten kaldırılan eski yönetmelik hükümlerine göre sonuçlandırılması hükme bağlandı.\n\nBöylece yönetmelik değişikliği nedeniyle devam eden başvuruların hukuki durumunun netleştirilmesi amaçlandı.\n\nJeotermal sera yatırımları da güncellendi\n\nDüzenlemeyle birlikte Ek-10/B ve Ek-10/Ç eklerinde yer alan tarımsal entegre tesislere ilişkin hükümler de revize edildi. Bu kapsamda yatırım konusu \"Jeotermal Kaynaklı Teknolojik Sera Yatırımları\" olarak yeniden tanımlandı.\n\nYönetmelik geriye dönük uygulanacak\n\nYönetmelik, yayımı tarihinde yürürlüğe girerken hükümlerinin 4 Nisan 2026 tarihinden itibaren geçerli olması kararlaştırıldı.\n\nDikkat çeken nokta\n\nTarım ve Orman Bakanlığı'nın 4 Nisan 2026'da yürürlüğe koyduğu temel yönetmelikte, yalnızca dört ay sonra hem geçiş hükümleri hem de arazi büyüklüğü kriteri gibi temel düzenlemeleri değiştirmesi dikkat çekti. Özellikle bağ evi yapılabilecek asgari arazi büyüklüğünün 5 hektardan 2 hektara indirilmesi, kırsalda küçük ölçekli arazi sahipleri açısından önemli bir esneklik sağlarken, yönetmeliğin kısa süre içinde revizyona ihtiyaç duyması da uygulamadaki eksikliklerin yeniden gözden geçirildiğini ortaya koydu."
+    },
     {
       "title": "İKAR: Rusya Tahıl Sezonunda Belirsizlik ve Riskler Artıyor",
       "url": "https://www.tarimpusulasi.com/haber/ikar-rusya-tahil-sezonunda-belirsizlik-ve-riskler-artiyor-47259",
@@ -117,22 +133,6 @@
       "date": "2026-08-03",
       "summary": "Ukrayna'da 3 Ağustos itibarıyla hububat ve baklagil hasadı 17,6 milyon tona ulaştı. Hasadın ülkenin orta, batı ve kuzey bölgelerinde hız kazanmasıyla ortalama verim hektar başına 4,4 tona yükselirken, toplam üretim son bir haftada yaklaşık 6,9 milyon ton arttı.",
       "content": "KİEV — Ukrayna'da hububat ve baklagil hasadı hız kazandı. 3 Ağustos itibarıyla ülke genelinde 17,6 milyon ton hububat ve baklagil ürünü hasat edilirken çalışmalar 4,0 milyon hektarlık alanda tamamlandı. Böylece planlanan hasat alanının %33,9'u biçildi.\n\nSon bir haftada toplam üretim 6,9 milyon ton artarken, ortalama verim hektar başına 4,2 tondan 4,4 tona yükseldi. Hasadın ülkenin orta, batı ve kuzey bölgelerine yayılması üretimdeki artışın temel nedeni olarak gösteriliyor.\n\nBuğday üretimi 12,5 milyon tona ulaştı\n\nHasadı tamamlanan ürünler içinde en büyük payı buğday aldı. Ülkede 2,7 milyon hektarlık alanda buğday hasadı gerçekleştirilirken bu alan planlanan toplamın %53,4'ünü oluşturdu.\n\nToplam buğday üretimi 12,5 milyon ton olurken ortalama verim 4,6 ton/hektar olarak gerçekleşti.\n\nHaftalık üretim artışının yaklaşık %85'i buğday hasadından kaynaklandı.\n\nArpa ve kolza hasadı devam ediyor\n\nArpa hasadı 1,0 milyon hektarda tamamlanırken toplam üretim 4,4 milyon tona ulaştı. Ortalama verim ise 4,4 ton/hektar olarak kaydedildi.\n\nÜlkede ayrıca 669,5 bin ton bezelye hasat edilirken, 910,6 bin hektarlık alanda gerçekleştirilen kolza (kanola) hasadında toplam üretim 2,4 milyon ton, ortalama verim ise 2,6 ton/hektar oldu.\n\nOdessa üretimde ilk sırada\n\nBölgesel üretimde ilk sırayı Odessa aldı. Bölgede şimdiye kadar 3,6 milyon ton hububat hasat edildi.\n\nOdessa'yı;\n\nMykolaiv: 2,1 milyon ton\n\nDnipropetrovsk: 1,9 milyon ton\n\nizledi.\n\nSon bir haftadaki üretim artışında da Odessa öne çıktı. Bölgede 1,2 milyon ton ürün hasat edildi.\n\nDiğer önemli artışlar ise;\n\nKirovohrad: 810,7 bin ton\n\nPoltava: 572,2 bin ton\n\nCherkasy: 504,2 bin ton\n\nolarak gerçekleşti.\n\nVerilere göre en yüksek üretime sahip üç bölgenin toplam üretimdeki payı %54'ten %43,4'e geriledi. Bu durum, hasadın ülkenin diğer bölgelerinde de hızlandığını gösteriyor.\n\nÖnümüzdeki haftalarda üretimin seyri büyük ölçüde orta, batı ve kuzey bölgelerinde devam eden buğday ile kolza hasadına bağlı olacak.\n\nTARIM PUSULASI HABER MERKEZİ"
-    },
-    {
-      "title": "Çin et ithalatında frene bastı! Gözler Türkiye pazarına çevrildi",
-      "url": "https://www.tarimdanhaber.com/cin-et-ithalatinda-frene-basti-gozler-turkiye-pazarina-cevrildi",
-      "source": "Tarımdan Haber",
-      "date": "2026-08-03",
-      "summary": "Çin'in sığır eti pazarında uyguladığı katı kotalar ve yüzde 55'lik vergiler küresel ticarette taşları yerinden oynatırken, devasa et stoklarının Türkiye gibi ülkelere yönelme riskini artırdı. Yüksek girdi maliyetleriyle boğuşan Türk besiciler ucuz ithal et dalgası karşısında iflas tehlikesiyle karşı",
-      "content": "Haber Merkezi / Çin'in 1 Ocak 2026 itibarıyla sığır eti pazarında hayata geçirdiği sert korumacı politikalar, dünya gıda ticaretinde domino etkisi yaptı. Uygulanan katı ithalat kotaları ve yüzde 55'lik yüksek gümrük vergileri sayesinde dışa bağımlılığını büyük ölçüde azaltan Pekin yönetimi, yerli sığır varlığını 90 milyon başa ulaştırdı. İç Moğolistan başta olmak üzere yapılan stratejik verimlilik yatırımları ve kısıtlamalar sayesinde Çin iç piyasasında et fiyatları yüzde 21 oranında düştü.\n\nBu radikal dönüşüm, başta Avustralya ve Arjantin olmak üzere dünyanın önde gelen büyükbaş hayvan ve et ihracatçılarını sarsarken, bu ülkeleri yeni pazar arayışlarına ve ciddi bir arz fazlasına sürükledi.\n\nTürkiye'deki Üretici İçin Büyük Tehlike: \"Ucuz Et Stoku\" Türkiye'ye mi Yönelecek?\n\nÇin pazarının kapanmasıyla birlikte küresel ölçekte biriken yüksek miktardaki ucuz et stoklarının Türkiye gibi denetimsiz ve plansız ithalat kapısı aralayan ülkelere yönelme riski endişeye neden oldu.\n\nÖzellikle Brezilya ve Arjantin gibi dev üreticilerden gelebilecek ucuz et akını, yüksek yem, enerji ve veterinerlik maliyetleriyle ayakta kalmaya çalışan Türk besicisini adeta köşeye sıkıştırdı. Artan maliyetler karşısında ezilen yerli üreticiler, dışarıdan gelecek ucuz et dalgasıyla rekabet edemez duruma gelerek iflas riskiyle karşı karşıya kalıyor.\n\nÜreticilerden Bakanlığa Çağrı: \"Korumacı Kalkan Şart\"\n\nTarım ve Orman Bakanlığının hayvancılık politikaları eleştirilirken, günü kurtaran ithalat hamlelerinden vazgeçilmesi gerektiğinin altı çiziliyor."
-    },
-    {
-      "title": "Paraguay'dan canlı hayvan ve sığır eti ithalatında kritik aşama: Türk heyeti Paraguay'da tesisleri denetliyor",
-      "url": "https://www.tarimdanhaber.com/paraguaydan-canli-hayvan-ve-sigir-eti-ithalatinda-kritik-asama-turk-heyeti-paraguayda-tesisleri-denetliyor",
-      "source": "Tarımdan Haber",
-      "date": "2026-08-03",
-      "summary": "Tarım ve Orman Bakanlığının mevzuat değişikliğiyle gündeme gelen Paraguay'dan sığır eti ve canlı hayvan ithalatı sürecinde resmi denetimler başladı. Türkiye'nin resmi veteriner heyeti 11 tesiste incelemelerde bulunurken, ithalatla ilgili kritik gelişmeyi Türkiye kamuoyu yine Tarım Bakanlığından deği",
-      "content": "Haber Merkezi / Tarım politikaları uzmanı Ergin Kahveci'nin paylaşımları ile Tarımdan Haber'in 14 Haziran'da kamuoyunun gündemine taşıdığı Paraguay'dan canlı hayvan ve et ithalatında yeni bir gelişme yaşandı.\n\nTarım Bakanlığı değil, Paraguay duyurdu! Türkiye'nin et ithalatında kritik süreç başladı\n\nTarım ve Orman Bakanlığının geçen yıl yaptığı mevzuat değişikliğiyle Paraguay'dan sığır eti ve canlı hayvan ithalatının önünü açmasının ardından süreçte kritik bir aşamaya geçildi.\n\nAncak kamuoyunun bu gelişmeden haberdar olmasını sağlayan yine Tarım ve Orman Bakanlığı olmadı.\n\nTürkiye'nin resmi denetim heyetinin Paraguay'da ihracatçı işletmelerde incelemelere başladığı bilgisi, Paraguay'ın resmi hayvan sağlığı otoritesi SENACSA'nın yaptığı açıklamayla ortaya çıktı.\n\nTürk heyeti Paraguay'da 11 tesisi denetliyor\n\nSENACSA'nın açıklamasına göre Türkiye'nin resmi veteriner denetim heyeti, 3-7 Ağustos tarihleri arasında Paraguay'da sığır eti ihracatı yapmak isteyen 11 işletmede resmi uygunluk denetimi gerçekleştiriyor.\n\nDenetimlerde; resmi veteriner kontrol sistemi, izlenebilirlik altyapısı, gıda güvenliği uygulamaları, sağlık standartları ve Türkiye'nin ithalat kriterlerine uygunluk yerinde inceleniyor.\n\nDenetimlerin olumlu sonuçlanması halinde Paraguay'dan Türkiye'ye sığır eti ihracatı yapacak işletmelerin yetkilendirilmesi bekleniyor.\n\nHaziran ayında ilk kez Tarımdan Haber gündeme getirmişti\n\nTarımdan Haber, Haziran ayında Tarım ve Orman Bakanlığının yaptığı mevzuat değişikliğiyle Paraguay'ın Türkiye'nin ithalat yapabileceği ülkeler arasına eklendiğini kamuoyuna duyurmuştu.\n\nSöz konusu haber Türkiye'de geniş yankı uyandırırken, Paraguay basını da kararı ülke hayvancılığı açısından önemli bir ihracat fırsatı olarak değerlendirmişti.\n\nBugün başlayan resmi denetimler ise o süreçte yapılan düzenlemenin uygulama aşamasına geçtiğini gösteriyor.\n\nErgin Kahveci: Süreci yine yabancı kaynaklardan öğrendik\n\nTarım Politikaları Uzmanı Ergin Kahveci de dikkat çekici bir noktaya işaret etti.\n\nKahveci, Türkiye'nin hayvancılık açısından önemli bir dış ticaret sürecine ilişkin gelişmenin yine Tarım ve Orman Bakanlığından değil, Paraguay'ın resmi kurumunun açıklamasıyla öğrenildiğini belirtti.\n\nKahveci'nin paylaştığı bilgilere göre açılış toplantısına SENACSA Başkanı Dr. José Carlos Martin, Paraguay Tarım Bakan Yardımcısı Dr. Marcelo González, teknik heyet ile Türkiye'nin resmi denetim ekibi ve Türkiye Cumhuriyeti Paraguay Büyükelçiliği temsilcileri katıldı.\n\nSon aşamalardan biri\n\nParaguay'ın daha önce sağlık uygunluğu sürecini tamamladığı belirtilirken, bu ziyaret kapsamında tesis onayları ve ihracat uygunluğu değerlendirmeleri gerçekleştiriliyor.\n\nSürecin tamamlanmasının ardından Paraguay'dan hem sığır eti hem de canlı hayvan ihracatının Türkiye açısından fiilen başlayabilmesinin önü açılmış olacak.\n\n\"3 yıl sonra bu da yetmez diyen olursa kızmam\"\n\nErgin Kahveci, Haziran ayında yaptığı değerlendirmeyi de hatırlatarak şu ifadeleri kullandı:\n\n\"Haziran'da '3 yıl sonra bize bu da yetmez diyen olursa kızmam' demiştim. Bakalım bu kapı ne kadar süre açık kalacak ve ne kadar çözüm olacak.\""
     }
   ],
   "commoditiesByBorsa": {
@@ -328,5 +328,17 @@
   "defaultBorsa": "5ED10",
   "defaultCity": "CANAKKALE",
   "note": "Fiyatlar TOBB ticaret borsasından (borsa seçilebilir). Kanola manuel (Trakya 2025).",
-  "inputsNote": "Mazot: akaryakıt bayi fiyatı, günlük (şehir seçilebilir). Gübre: manuel (yaklaşık)."
+  "inputsNote": "Mazot: akaryakıt bayi fiyatı, günlük (şehir seçilebilir). Gübre: manuel (yaklaşık).",
+  "errors": [
+    "mazot ANKARA: fetch failed",
+    "mazot ISTANBUL: fetch failed",
+    "mazot IZMIR: fetch failed",
+    "mazot KONYA: fetch failed",
+    "mazot ADANA: fetch failed",
+    "mazot BURSA: fetch failed",
+    "mazot ANTALYA: fetch failed",
+    "mazot SAMSUN: fetch failed",
+    "mazot TEKIRDAG: fetch failed",
+    "mazot CANAKKALE: fetch failed"
+  ]
 }
