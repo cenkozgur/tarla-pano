@@ -1,32 +1,32 @@
 {
-  "updatedAt": "2026-08-06T04:31:04.607Z",
+  "updatedAt": "2026-08-06T07:17:59.717Z",
   "fx": [
     {
       "code": "USD",
       "name": "Dolar",
-      "buy": 475783,
-      "sell": 47594,
-      "change": 4
+      "buy": 47.59,
+      "sell": 47.6,
+      "change": 0.06
     },
     {
       "code": "EUR",
       "name": "Euro",
-      "buy": 550919,
-      "sell": 551337,
-      "change": 19
+      "buy": 55.07,
+      "sell": 55.08,
+      "change": 0.12
     },
     {
       "code": "GRA",
       "name": "Gram Altın",
-      "buy": 656925,
-      "sell": 657023,
-      "change": 114
+      "buy": 6521.94,
+      "sell": 6522.83,
+      "change": 0.41
     },
     {
       "code": "CEYREKALTIN",
       "name": "Çeyrek Altın",
-      "buy": 1021938,
-      "sell": 1045295,
+      "buy": 10219.38,
+      "sell": 10452.95,
       "change": 0
     },
     {
@@ -34,10 +34,18 @@
       "name": "Cumhuriyet Altını",
       "buy": 42336,
       "sell": 42969,
-      "change": 312
+      "change": 3.12
     }
   ],
   "news": [
+    {
+      "title": "Ege İhracatçıları: Taze incirde 100 milyon dolar hedefi",
+      "url": "https://www.tarimpusulasi.com/haber/ege-ihracatcilari-taze-incirde-100-milyon-dolar-hedefi-47270",
+      "source": "Tarım Pusulası",
+      "date": "2026-08-06",
+      "summary": "Türkiye'nin dünya lideri olduğu Bursa Siyahı ve Sarılop taze incirde 2026 ihracat sezonu başladı. Ege Yaş Meyve Sebze İhracatçıları Birliği, 2025 yılında 94 milyon dolara ulaşan taze incir ihracatının 2026 yılında 100 milyon dolara çıkarılmasını hedeflediklerini açıkladı.",
+      "content": "İZMİR — Türkiye'nin dünya lideri olduğu Bursa Siyahı ve Sarılop taze incirde 2026 ihracat sezonu başladı. Ege Yaş Meyve Sebze İhracatçıları Birliği (EYMSİB), 2025 yılında 20 bin 112 ton taze incir ihracatı karşılığında elde edilen 94 milyon dolarlık gelirin ardından, 2026 sezonunda 100 milyon dolar ihracat hedefi belirlediklerini açıkladı.\n\nEge Yaş Meyve Sebze İhracatçıları Birliği Başkanı Cengiz Balık, 2025 yılında taze incir ihracatının bir önceki yıla göre yüzde 17 artışla 94 milyon dolara ulaştığını belirterek, 2026 sezonunda hem üretim hem de ihracatta artış beklediklerini söyledi.\n\nTaze incir ihracatı 94 milyon dolara ulaştı\n\nBalık'ın paylaştığı verilere göre, Türkiye 2025 yılında 20 bin 112 ton taze incir ihraç ederek 94 milyon dolar döviz geliri elde etti. Bu tutarın 76 milyon dolarlık bölümünü Bursa Siyahı inciri, 17 milyon dolarlık bölümünü ise Sarılop taze inciri oluşturdu.\n\nSiyah incir ihracatında Almanya 22 milyon dolar ile ilk sırada yer aldı. Almanya'yı 10 milyon dolarla Avusturya, 8 milyon dolarla Rusya, 8 milyon dolarla İngiltere ve 6 milyon dolarla Hollanda izledi.\n\nSarılop taze incir ihracatında ise Almanya 7 milyon dolar ile ilk sırada bulunurken, Rusya'ya 4 milyon dolar, Avusturya'ya ise 3 milyon dolar ihracat gerçekleştirildi.\n\nRekolte ve kalite beklentisi yükseldi\n\n2026 sezonuna ilişkin değerlendirmelerde bulunan Cengiz Balık, iklim koşullarının üretime olumlu yansıdığını belirterek rekoltenin geçen yıla göre daha yüksek gerçekleşmesini beklediklerini ifade etti.\n\nBalık, ürün kalitesinin de ihracat pazarlarının beklentilerini karşılayacak seviyede olacağını öngördüklerini belirterek, Avrupa'nın geleneksel pazar olmayı sürdüreceğini, bunun yanında Uzak Doğu ve Körfez ülkelerinde de ihracatı artırmaya yönelik çalışmaların devam ettiğini söyledi.\n\nBalık, \"Bu sezon iklim koşullarının üretime olumlu yansımasıyla birlikte rekoltenin geçen yıla göre daha yüksek gerçekleşmesini bekliyoruz. Üretimdeki artışın yanı sıra ürün kalitesinin de ihracat pazarlarının beklentilerini karşılayacak seviyede olacağını öngörüyoruz.\" dedi.\n\nTurkish Cargo desteği ihracata katkı sağlayacak\n\nTaze incir gibi raf ömrü kısa ve hızlı ulaştırılması gereken ürünlerde hava kargo taşımacılığının önemine dikkat çeken Balık, Türkiye İhracatçılar Meclisi (TİM) ile Türk Hava Yolları (THY) arasında yedinci kez yenilenen Turkish Cargo iş birliğinin sektöre önemli katkı sağlayacağını ifade etti.\n\nBalık, \"Taze incir gibi katma değeri yüksek ve tazeliğin korunmasının büyük önem taşıdığı ürünlerde, TİM ile THY arasında yedinci kez yenilenen Turkish Cargo iş birliği kapsamında sağlanan indirimli hava kargo imkânının 2026 sezonunda ihracatımıza önemli katkı sağlamasını bekliyoruz.\" diye konuştu.\n\nHedef 100 milyon dolar ihracat\n\n2026 sezonuna ilişkin hedeflerini de paylaşan Balık, üreticiler, ihracatçılar ve sektör paydaşlarının iş birliğiyle taze incir ihracatında 100 milyon dolar seviyesine ulaşmayı hedeflediklerini söyledi.\n\nBalık, \"Üreticilerimiz, ihracatçılarımız ve tüm sektör paydaşlarımızın iş birliğiyle 2026 sezonunda 100 milyon dolarlık taze incir ihracatı hedefimize ulaşacağımıza inanıyoruz.\" ifadelerini kullandı.\n\nTARIM PUSULASI HABER MERKEZİ"
+    },
     {
       "title": "Ordu Gastronomi Festivali 196 yöresel lezzeti bir araya getirdi",
       "url": "https://www.tarimpusulasi.com/haber/ordu-gastronomi-festivali-196-yoresel-lezzeti-bir-araya-getirdi-47269",
@@ -109,14 +117,6 @@
       "date": "2026-08-05",
       "summary": "Tarım ve Orman Bakanlığı tarafından 1-2 Ağustos tarihlerinde Ankara'da düzenlenen İl Tarım ve Orman Müdürleri Koordinasyon Toplantısı'nda, kırsal kalkınma programları, üretim planlaması, tarımsal krediler, desteklemeler ve tarım sigortaları ele alındı. Tarım Sigortaları (TARSİM) oturumunda ise il mü",
       "content": "ANKARA — Tarım ve Orman Bakanlığı'nın İl Tarım ve Orman Müdürleri Koordinasyon Toplantısı, 1-2 Ağustos tarihlerinde Ankara'da Tarım ve Orman Bakanı İbrahim Yumaklı başkanlığında gerçekleştirildi. Toplantıda kırsal kalkınma programları, üretim planlaması, tarımsal krediler, tarım sigortaları ve destekleme politikaları başta olmak üzere tarım ve ormancılık sektörüne ilişkin çeşitli başlıklar ele alındı.\n\nToplantıya Tarım ve Orman Bakan Yardımcıları Prof. Dr. Ahmet Gümen ile aynı zamanda TARSİM Yönetim Kurulu Başkanı olan Dr. Ahmet Bağcı, Tarım Reformu Genel Müdürü ve TARSİM Yönetim Kurulu Üyesi Dr. Osman Yıldız, ilgili genel müdürler ile 81 ilin Tarım ve Orman Müdürü katıldı.\n\nProgram kapsamında düzenlenen \"Tarım Sigortaları\" oturumunda, il müdürleri sahada karşılaşılan uygulamalara ilişkin değerlendirmelerini, önerilerini ve tespitlerini paylaştı. Oturumun devamında TARSİM Yönetim Kurulu Üyesi ve Tarım Sigortaları Havuz İşletmesi AŞ Genel Müdürü Bekir Engürülü ile katılımcılar arasında karşılıklı görüş alışverişi yapıldı.\n\nToplantıda yalnızca tarım sigortaları değil, üretim planlaması, kırsal kalkınma programları, tarımsal krediler ve destekleme uygulamalarına ilişkin başlıklar da değerlendirildi. Böylece koordinasyon toplantısında hem tarımsal üretimin planlanmasına yönelik politikalar hem de üreticilerin risklere karşı korunmasına ilişkin uygulamalar birlikte ele alınmış oldu.\n\nTarım sigortaları oturumunda paylaşılan görüş ve önerilerin, sahadaki uygulamaların değerlendirilmesi ve mevcut sistemin geliştirilmesine yönelik çalışmalara katkı sağlamasının hedeflendiği belirtildi.\n\nTARIM PUSULASI HABER MERKEZİ"
-    },
-    {
-      "title": "Ege İhracatçı Birlikleri temmuz ihracatında tarihi zirveye ulaştı",
-      "url": "https://www.tarimpusulasi.com/haber/ege-ihracatci-birlikleri-temmuz-ihracatinda-tarihi-zirveye-ulasti-47262",
-      "source": "Tarım Pusulası",
-      "date": "2026-08-05",
-      "summary": "Ege İhracatçı Birlikleri (EİB), temmuz ayında ihracatını geçen yılın aynı ayına göre yüzde 7 artırarak 1 milyar 634 milyon dolardan 1 milyar 746 milyon dolara yükseltti. Böylece EİB, haziran ayında kırdığı aylık ihracat rekorunu yenileyerek üst üste ikinci ay tarihinin en yüksek ihracat rakamına ula",
-      "content": "İZMİR — Ege İhracatçı Birlikleri (EİB), temmuz ayında ihracatını geçen yılın aynı dönemine göre yüzde 7 artırarak 1 milyar 634 milyon dolardan 1 milyar 746 milyon dolara yükseltti. Bu performansla birlik, haziran ayında ulaştığı 1 milyar 743 milyon dolarlık aylık ihracat rekorunu geride bırakarak tarihindeki en yüksek aylık ihracat rakamına ikinci kez üst üste ulaştı.\n\nTemmuz ayındaki ihracat artışına sanayi, tarım ve madencilik sektörleri katkı sağladı. Sanayi ürünleri ihracatı 880 milyon dolardan 911 milyon dolara çıkarak yüzde 4 artarken, tarım sektörlerinin ihracatı 647,5 milyon dolardan 677,5 milyon dolara yükselerek yüzde 5 büyüdü. En yüksek artış ise yüzde 47 ile madencilik sektöründe gerçekleşti. Madencilik ihracatı 106,8 milyon dolardan 157 milyon doların üzerine çıktı.\n\nEİB bünyesindeki birlikler arasında Ege Demir ve Demirdışı Metaller İhracatçıları Birliği, 221,5 milyon dolarlık ihracatla ilk sıradaki yerini korudu. Birliğin ocak-temmuz dönemindeki ihracatı 1 milyar 530 milyon dolar, son 12 aylık ihracatı ise 2 milyar 603 milyon dolar olarak gerçekleşti.\n\nEge Su Ürünleri ve Hayvansal Mamuller İhracatçıları Birliği, temmuz ayında 191,8 milyon dolarlık ihracata ulaştı. Birlik, yılın ilk yedi ayında 1 milyar 141 milyon dolar, son bir yıllık dönemde ise yüzde 14 artışla 1 milyar 993 milyon dolarlık ihracat gerçekleştirdi. Böylece yıllık ihracatın ağustos ayında 2 milyar doların üzerine çıkabileceği sinyali verildi.\n\nTemmuz ayında ihracat artış rekortmeni olan Ege Maden İhracatçıları Birliği, 157,1 milyon dolarlık ihracat yaptı. Birliğin son 12 aylık ihracatı 1 milyar 519 milyon dolara ulaşırken, 2026 yılı sonu için belirlenen 1,5 milyar dolarlık hedefe beş ay önceden ulaşıldığı bildirildi.\n\nHazır giyim ve konfeksiyon sektörü de yükselişini sürdürdü. Ege Hazır Giyim ve Konfeksiyon İhracatçıları Birliği, ihracatını temmuz ayında yüzde 1 artırarak 129,6 milyon dolara çıkarırken, art arda üçüncü ayda da büyüme kaydetti.\n\nYaş meyve sebze sektöründe ise dikkat çekici bir artış yaşandı. Ege Yaş Meyve Sebze İhracatçıları Birliği, ihracatını geçen yılın aynı ayındaki 94,5 milyon dolardan 124,8 milyon dolara yükseltti. Böylece ihracat yüzde 32 artarken, bu yükselişte taze meyve ve sebze ihracatındaki yüzde 193'lük artış etkili oldu.\n\nBuna karşılık bazı sektörlerde gerileme görüldü. Ege Zeytin ve Zeytinyağı İhracatçıları Birliği'nin ihracatı temmuz ayında yüzde 49 azalarak 17,6 milyon dolar seviyesine geriledi. Tütün sektörü ise yaklaşık 106,4 milyon dolarlık ihracatla geçen yılki performansını korudu.\n\nTürkiye İhracatçılar Meclisi verilerine göre, Ege Bölgesi'nin toplam ihracatı temmuz ayında yüzde 6 artışla 2 milyar 838 milyon dolardan 3 milyar 6 milyon dolara yükselerek 3 milyar dolar eşiğini aştı. Bölge ihracatının yüzde 57'sini tek başına gerçekleştiren İzmir, 1 milyar 714 milyon dolarlık ihracat yaptı. Denizli ihracatını yüzde 17 artırarak 483,8 milyon dolara çıkarırken, Manisa'nın ihracatı yüzde 21 azalarak 353,3 milyon dolara geriledi. Muğla, Aydın, Afyonkarahisar, Kütahya ve Uşak da temmuz ayında ihracatlarını artıran iller arasında yer aldı.\n\nÜlke bazında ise Almanya, 160,3 milyon dolarlık ihracatla iki ay sonra yeniden EİB'nin en fazla ihracat yaptığı ülke oldu. Amerika Birleşik Devletleri 138,4 milyon dolar, İtalya ise 109 milyon dolar ile Almanya'yı takip etti. Ayrıca Libya, Hindistan, Litvanya, Suriye, Vietnam ve Türkmenistan'a yapılan ihracatta üç haneli artış oranlarına ulaşıldı.\n\nEge İhracatçı Birlikleri Koordinatör Başkanı Muhammet Öztürk, üst üste iki ay ihracat rekoru kırılmasının ve yıllık ihracatın 19 milyar doların üzerine çıkmasının memnuniyet verici olduğunu belirtti. Ancak birliklerden altısının geçen yılın temmuz ayı performansının gerisinde kaldığını ifade eden Öztürk, ihracatta daha güçlü büyüme için özellikle yüksek finansman maliyetlerinin azaltılması gerektiğini vurguladı. Tarım sektörünün Ege Bölgesi ihracatındaki yüzde 40'lık payına dikkat çeken Öztürk, ihraç sezonu öncesinde tarım ihracatçılarına yönelik Türk Eximbank tarafından özel finansman modellerinin hayata geçirilmesi çağrısında bulundu.\n\nTARIM PUSULASI HABER MERKEZİ"
     },
     {
       "title": "ABD'de çiftçinin 500 milyar dolarlık borcu kimin elinde? Tarım finansmanında iki dev öne çıkıyor",
@@ -328,18 +328,5 @@
   "defaultBorsa": "5ED10",
   "defaultCity": "CANAKKALE",
   "note": "Fiyatlar TOBB ticaret borsasından (borsa seçilebilir). Kanola manuel (Trakya 2025).",
-  "inputsNote": "Mazot: akaryakıt bayi fiyatı, günlük (şehir seçilebilir). Gübre: manuel (yaklaşık).",
-  "errors": [
-    "fx: fetch failed",
-    "mazot ANKARA: fetch failed",
-    "mazot ISTANBUL: fetch failed",
-    "mazot IZMIR: fetch failed",
-    "mazot KONYA: fetch failed",
-    "mazot ADANA: fetch failed",
-    "mazot BURSA: fetch failed",
-    "mazot ANTALYA: fetch failed",
-    "mazot SAMSUN: fetch failed",
-    "mazot TEKIRDAG: fetch failed",
-    "mazot CANAKKALE: fetch failed"
-  ]
+  "inputsNote": "Mazot: akaryakıt bayi fiyatı, günlük (şehir seçilebilir). Gübre: manuel (yaklaşık)."
 }
