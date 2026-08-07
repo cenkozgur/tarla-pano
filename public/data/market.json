@@ -1,43 +1,51 @@
 {
-  "updatedAt": "2026-08-07T14:40:37.732Z",
+  "updatedAt": "2026-08-07T15:37:13.355Z",
   "fx": [
     {
       "code": "USD",
       "name": "Dolar",
-      "buy": 47.7,
-      "sell": 47.71,
-      "change": 0.17
+      "buy": 476993,
+      "sell": 477057,
+      "change": 16
     },
     {
       "code": "EUR",
       "name": "Euro",
-      "buy": 55.17,
-      "sell": 55.18,
-      "change": 0.3
+      "buy": 551589,
+      "sell": 551804,
+      "change": 29
     },
     {
       "code": "GRA",
       "name": "Gram Altın",
-      "buy": 6663.11,
-      "sell": 6663.89,
-      "change": 2.64
+      "buy": 667172,
+      "sell": 667266,
+      "change": 277
     },
     {
       "code": "CEYREKALTIN",
       "name": "Çeyrek Altın",
-      "buy": 10644.48,
-      "sell": 10887.46,
-      "change": 2.09
+      "buy": 1064448,
+      "sell": 1088746,
+      "change": 209
     },
     {
       "code": "CUMHURIYETALTINI",
       "name": "Cumhuriyet Altını",
       "buy": 44178,
       "sell": 44829,
-      "change": 2.19
+      "change": 219
     }
   ],
   "news": [
+    {
+      "title": "Hüseyin Akay'dan şeker sektörüne yapısal çözüm çağrısı",
+      "url": "https://www.tarimpusulasi.com/haber/huseyin-akaydan-seker-sektorune-yapisal-cozum-cagrisi-47288",
+      "source": "Tarım Pusulası",
+      "date": "2026-08-07",
+      "summary": "Kayseri Şeker Fabrikası AŞ Olağan Mali Genel Kurul Toplantısı'nda konuşan Kayseri Pancar Ekicileri Kooperatifi Yönetim Kurulu Başkanı Hüseyin Akay, şeker sektöründe yaşanan yapısal sorunların üreticiyi olumsuz etkilediğini belirterek, pancar üretiminin korunması ve sektörün sürdürülebilirliği için a",
+      "content": "KAYSERİ — Kayseri Şeker Fabrikası AŞ'nin Olağan Mali Genel Kurul Toplantısı, şirket ortaklarının elektronik ve fiziki katılımıyla gerçekleştirildi. Genel kurulda konuşan Kayseri Pancar Ekicileri Kooperatifi Yönetim Kurulu Başkanı Hüseyin Akay, şeker sektörünün yapısal sorunlarına dikkat çekerek, pancar üretiminin sürdürülebilirliği ve üreticinin korunması için gerekli adımların atılması çağrısında bulundu.\n\nKayseri Şeker 15 Temmuz Şehitleri Konferans Salonu'nda düzenlenen genel kurulda gündem maddeleri görüşülerek ortakların oyuna sunuldu. Toplantıda ayrıca boşalan yönetim kurulu üyeliği için seçim yapıldı.\n\nGenel kurulda değerlendirmelerde bulunan Hüseyin Akay, sektörün son yıllarda yaşadığı ekonomik sıkıntıların şirket yönetimlerinden değil, uygulanan politikalardan kaynaklandığını ifade etti.\n\nAkay, \"Türkiye'de şeker üretimi Tarım ve Orman Bakanlığı tarafından belirlenen üretim kotaları doğrultusunda yapılıyor. Buna rağmen son iki yıldır planlanan tüketimin gerçekleşmemesi nedeniyle piyasada şeker fazlası oluştu.\" dedi.\n\nŞeker piyasasındaki dengenin bozulmasında nişasta bazlı şeker ve kimyasal tatlandırıcı ithalatının etkili olduğunu savunan Akay, \"Bu ürünlerin gıda sektöründe yaygın şekilde kullanılması, pancardan üretilen doğal şekerin tüketimini olumsuz etkiliyor.\" ifadelerini kullandı.\n\nDoğal şeker yerine kimyasal tatlandırıcıların tercih edilmesinin hem üreticiye hem de ülke ekonomisine zarar verdiğini belirten Akay, sektörün desteklenmesi gerektiğini vurguladı.\n\nŞeker pancarı üretiminin Ülkemizin 58 ilinde binlerce ailenin geçim kaynağı olduğuna dikkat çeken Akay, \"Sektörün zayıflaması kırsal kalkınmayı da olumsuz etkileyecektir. Anadolu'da birçok köy şeker pancarı üretimi sayesinde ayakta kalmaktadır.\" diye konuştu.\n\n2026 üretim sezonuna ilişkin beklentilerini de paylaşan Akay, verim ve şeker oranlarının geçen yıla göre daha yüksek olmasının beklendiğini belirterek, üreticinin emeğinin karşılığını alabilmesi için yapısal sorunların çözülmesi gerektiğini söyledi.\n\nKonuşmasının sonunda Kayseri Şeker'in köklü bir kuruluş olduğunu vurgulayan Akay, \"Kayseri Şeker'in tecrübesi, üretim gücü ve ortaklarının desteğiyle geleceğe güvenle baktığını düşünüyoruz. Genel kurulda alınan kararların şirketimiz, ortaklarımız ve tüm üreticilerimiz için hayırlı ve uğurlu olmasını diliyorum.\" ifadelerini kullandı.\n\nTARIM PUSULASI HABER MERKEZİ"
+    },
     {
       "title": "CHP'li Sarıbal: İthalata 410 milyar, çiftçiye 168 milyar TL",
       "url": "https://www.tarimpusulasi.com/haber/chpli-saribal-ithalata-410-milyar-ciftciye-168-milyar-tl-47287",
@@ -93,14 +101,6 @@
       "date": "2026-08-07",
       "summary": "CHP Niğde Milletvekili ve TBMM Tarım, Orman ve Köyişleri Komisyonu Üyesi Ömer Fethi Gürer, TBMM Genel Kurulu'nda yaptığı konuşmada, orman yangınlarıyla mücadelede ormanlarda yeniden keçi ve koyun yetiştiriciliğinin teşvik edilmesi gerektiğini söyledi. Gürer, çobanların ormanlarda bulunmasının dip ör",
       "content": "ANKARA — CHP Niğde Milletvekili ve TBMM Tarım, Orman ve Köyişleri Komisyonu Üyesi Ömer Fethi Gürer, Türkiye Büyük Millet Meclisi Genel Kurulu'nda yaptığı konuşmada, orman yangınlarıyla mücadelede ormanlarda yeniden keçi ve koyun yetiştiriciliğinin teşvik edilmesi gerektiğini söyledi. Gürer, Avrupa'da bazı ülkelerde orman yangınlarını önlemeye yönelik uygulamalar kapsamında keçi ve koyun yetiştiriciliğinin yeniden gündeme geldiğini belirterek, Ülkemiz'de de benzer bir yaklaşımın değerlendirilmesi çağrısında bulundu.\n\nGürer, geçmişte orman alanlarında keçi yetiştiriciliğinin ormanlara zarar verdiği gerekçesiyle orman dışına çıkarıldığını hatırlatarak, bugün gelinen noktada farklı bir yaklaşımın tartışıldığını ifade etti.\n\nTBMM Genel Kurulu'nda yaptığı konuşmada, \"Orman alanlarında keçi yetiştirenlerin ormanlara zarar verdiği gerekçesiyle orman dışına çıkarılmasından sonra, orman yangınlarıyla ilgili Avrupa'da bazı ülkelerde yeniden keçi yetiştirilmesi, koyun yetiştirilmesi, çobanların ormanlarda olmasının orman yangınlarını önlemede, dip otların temizlenmesinde önemli etkisi olacağı tartışılır boyuta ermiştir.\" dedi.\n\nBu gelişmelerin Ülkemiz açısından da değerlendirilmesi gerektiğini belirten Gürer, orman yangınlarıyla mücadelede yalnızca müdahale çalışmalarının değil, önleyici uygulamaların da önem taşıdığına dikkat çekti.\n\nGürer, \"Ülkemizde de ormanlarda yeniden keçi yetiştiriciliğinin teşvik edilmesi ve bu yolda çalışma yapılması ihtiyaç durumuna gelmiştir.\" ifadelerini kullandı.\n\nKonuşmasında keçi varlığındaki değişime de değinen Gürer, \"1980'lerde 19 milyon keçisi olan ülkemizde bugün keçi sayısı da 11 milyon civarındadır.\" diyerek hayvan varlığındaki gerilemeye işaret etti.\n\nOrman yangınlarının önlenmesine yönelik farklı yöntemlerin değerlendirilmesi gerektiğini vurgulayan Gürer, konuşmasını şu sözlerle tamamladı:\n\n\"Orman yangınları için bir önlem oluşturduğu görüldüğüne göre bir an önce orman içinde yeniden keçi yetiştirilmesinin ve çobanların orman içinde olmasının olası yangınları önleyici bir yöntem olduğu dikkate alınmalıdır.\"\n\nTARIM PUSULASI HABER MERKEZİ"
-    },
-    {
-      "title": "Anahtar Parti Şanlıurfa'dan GAP sulama yatırımı çağrısı",
-      "url": "https://www.tarimpusulasi.com/haber/anahtar-parti-sanliurfadan-gap-sulama-yatirimi-cagrisi-47280",
-      "source": "Tarım Pusulası",
-      "date": "2026-08-07",
-      "summary": "Anahtar Parti Şanlıurfa İl Başkanı Metin Baydar, Güneydoğu Anadolu Projesi'nin (GAP) Şanlıurfa ve Ülkemiz tarımı açısından stratejik önem taşıdığını belirterek, sulama yatırımlarının tamamlanması, tarıma dayalı sanayinin güçlendirilmesi ve üreticilerin desteklenmesi gerektiğini söyledi.",
-      "content": "ŞANLIURFA — Anahtar Parti Şanlıurfa İl Başkanı Metin Baydar, Güneydoğu Anadolu Projesi'nin (GAP) Şanlıurfa'nın ve Ülkemiz'in tarımsal üretimi açısından stratejik önem taşıdığını belirterek, sulama yatırımlarının tamamlanması ve üretimi artıracak projelere öncelik verilmesi çağrısında bulundu.\n\nBaydar, yaptığı yazılı açıklamada GAP'ın yalnızca Şanlıurfa'nın değil, Ülkemiz'in tarımsal kalkınmasının en önemli projelerinden biri olduğunu ifade etti. Projenin tüm hedefleriyle hayata geçirilmesinin üretim, istihdam ve bölgesel kalkınmaya önemli katkı sağlayacağını belirtti.\n\nSulamaya açılmayı bekleyen alanların üretime kazandırılmasının hem üreticiler hem de ülke ekonomisi açısından önem taşıdığını vurgulayan Baydar, GAP yatırımlarının hızlandırılması gerektiğini söyledi.\n\nBaydar, tarımsal üretimin yalnızca üretim aşamasıyla sınırlı kalmaması gerektiğini belirterek, tarıma dayalı sanayi yatırımlarının artırılması, ürünlerin işlenmesi, markalaştırılması ve ihracat olanaklarının geliştirilmesinin katma değeri yükselteceğini ifade etti.\n\nÜreticilerin pazarlama imkanlarının güçlendirilmesi gerektiğini dile getiren Baydar, güçlü bir tarım sektörünün güçlü bir ekonominin temel unsurlarından biri olduğunu kaydetti.\n\nAçıklamasının sonunda GAP'ın tüm hedefleriyle tamamlanmasının Şanlıurfa'nın kalkınması açısından kritik öneme sahip olduğunu belirten Baydar, Anahtar Parti olarak çiftçinin emeğini koruyan, üretimi artıran ve bölgesel kalkınmayı destekleyen yatırımların yanında olmaya devam edeceklerini ifade etti.\n\nTARIM PUSULASI HABER MERKEZİ"
     },
     {
       "title": "Et kesim fiyatları 2026 | Güncel dana, inek ve kuzu kesim fiyatları ile piyasa yorumları",
