@@ -1,43 +1,51 @@
 {
-  "updatedAt": "2026-08-07T18:22:11.396Z",
+  "updatedAt": "2026-08-07T19:30:44.899Z",
   "fx": [
     {
       "code": "USD",
       "name": "Dolar",
-      "buy": 476917,
-      "sell": 477002,
-      "change": 15
+      "buy": 47.69,
+      "sell": 47.7,
+      "change": 0.15
     },
     {
       "code": "EUR",
       "name": "Euro",
-      "buy": 551812,
-      "sell": 551947,
-      "change": 32
+      "buy": 55.21,
+      "sell": 55.23,
+      "change": 0.37
     },
     {
       "code": "GRA",
       "name": "Gram Altın",
-      "buy": 664481,
-      "sell": 66457,
-      "change": 236
+      "buy": 6667.3,
+      "sell": 6668.21,
+      "change": 2.7
     },
     {
       "code": "CEYREKALTIN",
       "name": "Çeyrek Altın",
-      "buy": 1064448,
-      "sell": 1088746,
-      "change": 209
+      "buy": 10644.48,
+      "sell": 10887.46,
+      "change": 2.09
     },
     {
       "code": "CUMHURIYETALTINI",
       "name": "Cumhuriyet Altını",
       "buy": 44178,
       "sell": 44829,
-      "change": 219
+      "change": 2.19
     }
   ],
   "news": [
+    {
+      "title": "CHP'li Öztürkmen: Boz fıstıkta üretici desteklenmeli",
+      "url": "https://www.tarimpusulasi.com/haber/chpli-ozturkmen-boz-fistikta-uretici-desteklenmeli-47290",
+      "source": "Tarım Pusulası",
+      "date": "2026-08-07",
+      "summary": "CHP Gaziantep Milletvekili Hasan Öztürkmen, TBMM Genel Kurulu'nda yaptığı konuşmada Gaziantep'te boz Antep fıstığı hasadının başladığını belirterek, mevcut piyasa fiyatlarının üretim maliyetlerini karşılamadığını savundu. Öztürkmen, üreticilerin desteklenmesi, yeni destek mekanizmalarının oluşturulm",
+      "content": "ANKARA — CHP Gaziantep Milletvekili Hasan Öztürkmen, Türkiye Büyük Millet Meclisi Genel Kurulu'nda yaptığı konuşmada Gaziantep'te Antep fıstığında sezonun ilk ürünü olan boz fıstık hasadının başladığını belirterek, mevcut piyasa fiyatlarının üretim maliyetlerini karşılamadığını savundu. Öztürkmen, üreticilerin korunması için yeni destek mekanizmalarının devreye alınması ve fıstık ithalatına izin verilmemesi gerektiğini söyledi.\n\nKonuşmasında hasadın Gaziantep'in Nizip, Karkamış, Barak ve Birecik bölgelerinde sürdüğünü belirten Öztürkmen, \"Gaziantep'te Antep fıstığında sezonun ilk hasadı olan su altı boz fıstık toplama mesaisi başladı. Nizip'te, Karkamış'ta, Barak'ta ve Birecik'te boz kırım devam ediyor.\" ifadelerini kullandı.\n\nPiyasada oluşan fiyatların üreticiyi memnun etmediğini dile getiren Öztürkmen, \"Fiyatlar 300 lira. Bu fiyat hasadın başlamasıyla daha da aşağılara düşecek. Geçtiğimiz yıl 230 liraydı. Her şey yüzde 100 zamlandı. 1 litre mazot 82 lira, işçinin yevmiyesi 1.500 lira.\" dedi.\n\nKonuşmasında yer alan rakamlara göre, boz fıstığın kilogram fiyatının 300 lira, geçen yılın aynı döneminde ise 230 lira seviyesinde olduğunu belirten Öztürkmen, mazot fiyatının 82 lira, tarım işçisi yevmiyesinin ise 1.500 lira olduğunu ifade etti. Öztürkmen, bu rakamların üretim maliyetlerindeki artışı yansıttığını savundu.\n\nÜreticinin emeğinin karşılığını alabilmesi için alım fiyatlarının yükselmesi gerektiğini belirten Öztürkmen, \"Boz kırılan fıstığın kilosunun en az 400 liranın altında olmaması gerekiyor.\" diye konuştu.\n\nBu yıl yaşanan süper hücre afetinin ürün verimini de olumsuz etkilediğini dile getiren Öztürkmen, \"Bu yıl yaşanan süper hücre felaketi fıstığın tozlanmasını da önledi. Fıstıklar dalında var gibi gözüküyor ama yüzde 70'i boş. Rekolte tahminleri tutmayacak.\" ifadelerini kullandı.\n\nKonuşmasının sonunda gübre, elektrik, sulama ve zirai ilaç gibi temel üretim girdilerinde üreticiyi rahatlatacak yeni destek mekanizmalarının oluşturulmasını isteyen Öztürkmen, \"Gübre, elektrik, sulama ve zirai ilaç gibi temel girdilerde üreticiyi rahatlatacak yeni destek mekanizmaları oluşturulmalı. Fıstık ithalatına izin verilmemeli, yerli üretici desteklenmeli.\" çağrısında bulundu.\n\nTARIM PUSULASI HABER MERKEZİ"
+    },
     {
       "title": "CHP'li Gürer: TMO mısır alım fiyatını en az 17 TL açıklamalı",
       "url": "https://www.tarimpusulasi.com/haber/chpli-gurer-tmo-misir-alim-fiyatini-en-az-17-tl-aciklamali-47289",
@@ -93,14 +101,6 @@
       "date": "2026-08-07",
       "summary": "TürkTraktör, New Holland ve Case IH markalarıyla düzenlediği Tarla Günleri kapsamında 11 ilde yaklaşık 4 bin çiftçiyle bir araya geldi. Etkinliklerde traktörler, ekipmanlar ve dijital tarım teknolojileri gerçek tarla koşullarında tanıtılırken, üreticilerin görüş ve beklentileri de sahada dinlendi.",
       "content": "ANKARA — TürkTraktör, Tarla Günleri etkinlikleri kapsamında Türkiye'nin farklı bölgelerinde yaklaşık 4 bin çiftçiyle bir araya gelerek New Holland ve Case IH markalarına ait traktörleri, tarım ekipmanlarını ve dijital tarım çözümlerini üreticilerin sahada deneyimlemesine imkân sağladı.\n\n25 Haziran'da İzmir'de başlayan organizasyonlar, İzmir, Antalya, Kilis, Adıyaman, Nevşehir, Sorgun, Kastamonu, Eskişehir, Tekirdağ ve Balıkesir'in ardından 23 Temmuz'da Hatay'da tamamlandı. Etkinliklerde çiftçiler, traktör ve ekipmanları gerçek çalışma koşullarında test ederken, Hassas Tarım Sistemleri uygulamaları hakkında da bilgi aldı.\n\nTürkTraktör Ticari İş Lideri Ahmet Canbeyli, Tarla Günleri'nin üreticilerle doğrudan iletişim kurulması açısından önemli bir platform olduğunu belirtti.\n\nCanbeyli, \"Tarımı geleceğe hazırlama amacımız doğrultusunda çiftçilerimizin ihtiyaçlarını yakından dinlemeye ve geliştirdiğimiz çözümleri doğrudan sahada paylaşmaya büyük önem veriyoruz.\" dedi.\n\nBu yıl New Holland markasıyla 9, Case IH markasıyla ise 3 farklı noktada Tarla Günleri düzenlediklerini belirten Canbeyli, \"4 bine yakın çiftçimizle bir araya geldik. Çiftçilerimiz traktörlerimizi ve tarım teknolojilerimizi kendi çalışma koşullarında deneyimlerken, biz de onların görüşlerini ve beklentilerini dinleme fırsatı bulduk.\" ifadelerini kullandı.\n\nCanbeyli, sahadan alınan geri bildirimlerin ürün ve hizmet geliştirme çalışmalarına katkı sağladığını belirterek, etkinliklere katılan çiftçilere ve organizasyonda görev alan bayi teşkilatına teşekkür etti.\n\nTarla Günleri kapsamında çiftçilere New Holland ve Case IH markalarının farklı tarımsal ihtiyaçlara yönelik traktör ve ekipmanları tanıtıldı. Etkinliklerde ayrıca Hassas Tarım Sistemleri, dijital tarım çözümleri, satış sonrası hizmetler ve uygulamalı test sürüşleriyle ürünlerin performansı hakkında bilgi verildi.\n\nBazı etkinlik noktalarında akıllı sulama yönetim kiti Smartmole's, Şeritsel Toprak İşleme uygulaması ve uydu görüntüleri, hava durumu ile bitki sağlığı takibi gibi dijital çözümler sunan Tarlam Cepte platformu da üreticilere uygulamalı olarak tanıtıldı.\n\nTürkTraktör, geleneksel hale gelen Tarla Günleri kapsamında son beş yılda yaklaşık 15 bin çiftçiyle bir araya geldiğini bildirdi.\n\nTARIM PUSULASI HABER MERKEZİ"
-    },
-    {
-      "title": "Ulusoy Un, Capital500'de Türkiye'nin 83. şirketi oldu",
-      "url": "https://www.tarimpusulasi.com/haber/ulusoy-un-capital500de-turkiyenin-83-sirketi-oldu-47282",
-      "source": "Tarım Pusulası",
-      "date": "2026-08-07",
-      "summary": "Capital dergisinin Capital500 araştırmasına göre Ulusoy Un, 2025 yılında 66 milyar 937 milyon TL satış hasılatıyla Türkiye'nin en büyük 83. şirketi oldu. Şirket, un sektöründeki liderliğini ve Samsun'un en büyük şirketi unvanını korurken, gıda ve içecek sektöründe faaliyet gösteren firmalar arasında",
-      "content": "SAMSUN — Capital dergisinin yayımladığı Capital500 araştırmasına göre Ulusoy Un, 2025 yılında elde ettiği 66 milyar 937 milyon TL satış hasılatıyla Türkiye'nin en büyük 83. şirketi oldu. Şirket, un sektöründeki liderliğini korurken Samsun'un en büyük şirketi olmayı sürdürdü ve gıda ile içecek sektöründe faaliyet gösteren firmalar arasında 5. sırada yer aldı.\n\n1969 yılında Samsun'da kurulan Ulusoy Un, bugün beş üretim tesisinde günlük 4 bin 686 ton buğday işleme kapasitesiyle faaliyet gösteriyor. Şirket, 100'ün üzerinde ülkeye gerçekleştirdiği ihracatın yanı sıra TİM1000, İSO500 ve Fortune500 listelerindeki konumunu Capital500 araştırmasıyla da pekiştirdi.\n\nToplam 902 kişiye istihdam sağlayan Ulusoy Un, 2025 yılı performansıyla hem un sektöründeki liderliğini hem de Samsun'un en büyük şirketi unvanını korudu.\n\nUlusoy Un Yönetim Kurulu Başkanı Dr. Eren Günhan Ulusoy, şirketin yeni dönem hedeflerine ilişkin değerlendirmelerde bulundu.\n\nUlusoy, \"Yeni dönem projeksiyonumuzda ihracat pazarlarımızı genişletmek, katma değerli ve markalı ürün gruplarında büyümek, dikey entegrasyon yatırımlarımızı tamamlamak ve sürdürülebilirlik alanındaki yatırımlarımızı artırmak yer alıyor.\" dedi.\n\nÜretim teknolojileri ile tedarik zincirine yönelik yatırımların süreceğini belirten Ulusoy, \"Hedefimiz, un üretimindeki lider konumumuzu korurken tüketici ürünleri, özel amaçlı unlar ve diğer katma değerli gıda kategorilerinde uluslararası ölçekte büyüyen entegre bir gıda grubu haline gelmektir.\" ifadelerini kullandı.\n\nTürkiye un sanayisinin güçlü üretim altyapısı ve ihracat kapasitesiyle dünya liderliğini sürdüreceğine inandığını belirten Ulusoy, \"Biz de Ulusoy Un olarak bu başarı hikâyesinin önemli bir parçası olmaya ve Ülkemiz için sürdürülebilir katma değer üretmeye devam edeceğiz.\" değerlendirmesinde bulundu.\n\nTARIM PUSULASI HABER MERKEZİ"
     },
     {
       "title": "Et kesim fiyatları 2026 | Güncel dana, inek ve kuzu kesim fiyatları ile piyasa yorumları",
@@ -328,5 +328,17 @@
   "defaultBorsa": "5ED10",
   "defaultCity": "CANAKKALE",
   "note": "Fiyatlar TOBB ticaret borsasından (borsa seçilebilir). Kanola manuel (Trakya 2025).",
-  "inputsNote": "Mazot: akaryakıt bayi fiyatı, günlük (şehir seçilebilir). Gübre: manuel (yaklaşık)."
+  "inputsNote": "Mazot: akaryakıt bayi fiyatı, günlük (şehir seçilebilir). Gübre: manuel (yaklaşık).",
+  "errors": [
+    "mazot ANKARA: fetch failed",
+    "mazot ISTANBUL: fetch failed",
+    "mazot IZMIR: fetch failed",
+    "mazot KONYA: fetch failed",
+    "mazot ADANA: fetch failed",
+    "mazot BURSA: fetch failed",
+    "mazot ANTALYA: fetch failed",
+    "mazot SAMSUN: fetch failed",
+    "mazot TEKIRDAG: fetch failed",
+    "mazot CANAKKALE: fetch failed"
+  ]
 }
