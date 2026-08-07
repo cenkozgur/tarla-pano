@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-07T19:30:44.899Z",
+  "updatedAt": "2026-08-07T20:06:53.677Z",
   "fx": [
     {
       "code": "USD",
@@ -11,16 +11,16 @@
     {
       "code": "EUR",
       "name": "Euro",
-      "buy": 55.21,
-      "sell": 55.23,
-      "change": 0.37
+      "buy": 55.17,
+      "sell": 55.2,
+      "change": 0.31
     },
     {
       "code": "GRA",
       "name": "Gram Altın",
-      "buy": 6667.3,
-      "sell": 6668.21,
-      "change": 2.7
+      "buy": 6660.35,
+      "sell": 6661.52,
+      "change": 2.6
     },
     {
       "code": "CEYREKALTIN",
@@ -38,6 +38,14 @@
     }
   ],
   "news": [
+    {
+      "title": "5 yıl sonra devreye girdi! Pakdemirli döneminde başlatılan elektronik küpe sistemi Kars'tan uygulamaya alındı",
+      "url": "https://www.tarimdanhaber.com/5-yil-sonra-devreye-girdi-pakdemirli-doneminde-baslatilan-elektronik-kupe-sistemi-karstan-uygulamaya-alindi",
+      "source": "Tarımdan Haber",
+      "date": "2026-08-07",
+      "summary": "2021 yılında dönemin Tarım ve Orman Bakanı Bekir Pakdemirli tarafından başlatılan elektronik küpe çalışmaları, ilk uygulamada yaşanan teknik sorunlar nedeniyle revize edilmişti. Akıllı küpe projesinin yerine geliştirilen Güvenli Elektronik Küpe İzleme Sistemi (GEKİS), aradan geçen 5 yılın ardından T",
+      "content": "Haber Merkezi / Tarım ve Orman Bakanlığı, büyükbaş hayvanların dijital olarak izlenmesini sağlayacak Güvenli Elektronik Küpe İzleme Sistemi'ni (GEKİS) hayata geçirdi. Bakan İbrahim Yumaklı, Kars'ta düzenlenen programda sistemin tanıtımını yaparak ilk elektronik küpeleme işlemini başlattı.\n\nGEKİS ile birlikte bugüne kadar kullanılan plastik kulak küpelerinin yerini elektronik takip altyapısı alacak. Sistemde her hayvana doğumundan itibaren dijital bir kimlik oluşturulacak. Aşılama, sağlık kayıtları, işletme değişiklikleri, satış ve kesim süreçleri elektronik ortamda güvenli şekilde takip edilecek.\n\nAkıllı küpe projesi yerini GEKİS'e bırakmıştı\n\nElektronik küpe çalışmaları ilk olarak 2021 yılında dönemin Tarım ve Orman Bakanı Bekir Pakdemirli döneminde \"akıllı küpe\" projesi olarak gündeme gelmişti. Ancak pilot uygulamalarda yaşanan teknik ve operasyonel sorunlar nedeniyle proje yeniden ele alınmış, akıllı küpe uygulaması yerine daha güvenli ve sürdürülebilir bir altyapıya sahip Güvenli Elektronik Küpe İzleme Sistemi (GEKİS) geliştirilmişti.\n\nAradan geçen yaklaşık beş yıllık hazırlık sürecinin ardından sistem bugün itibarıyla resmen uygulamaya alınmış oldu.\n\n\"Her hayvanın dijital kimliği olacak\"\n\nTanıtım programında konuşan Tarım ve Orman Bakanı İbrahim Yumaklı, GEKİS sayesinde her hayvanın dijital bir kimliğe sahip olacağını belirterek şunları söyledi:\n\n\"GEKİS sayesinde artık her hayvanın dijital bir kimliği olacak. Doğumundan başlayıp aşıları, sağlık kayıtları, hareketleri, satış ve kesim süreçleri güvenli şekilde elektronik ortamda takip edilecek. Bu sistem basit bir küpenin ötesinde güvenli kayıt, güçlü takip ve sağlıklı üretimin adı olacak.\"\n\nYumaklı, sistem sayesinde hayvan hastalıklarına daha hızlı müdahale edileceğini, salgın risklerinin daha etkin yönetileceğini, sahte ve kayıp küpe sorunlarının da büyük ölçüde ortadan kaldırılacağını ifade etti.\n\n17 milyon büyükbaş dijital olarak izlenecek\n\nBakan Yumaklı, Türkiye'de 17 milyondan fazla büyükbaş hayvan bulunduğunu, bu hayvanların ekonomik değerinin 1,5 trilyon lirayı aştığını söyledi.\n\nBu hayvanlardan yılda yaklaşık 1 milyon 313 bin ton sığır eti ile 20 milyon tonun üzerinde inek sütü üretildiğini belirten Yumaklı, bu üretimin ekonomik büyüklüğünün yaklaşık 1,2 trilyon lira olduğunu ifade etti.\n\nVerim artışı hedefleniyor\n\nGEKİS'in yalnızca bir kimliklendirme sistemi olmadığını belirten Yumaklı, sistem sayesinde kayıtlılığın güçleneceğini, hastalık ve hayvan kayıplarının azalacağını, ıslah çalışmalarının daha başarılı yürütüleceğini, süt veriminin artacağını ve desteklemelerin doğru hayvana ulaştırılacağını söyledi.\n\nYüzde 1'lik verim artışının dahi yıllık yaklaşık 12 milyar liralık ilave üretim değeri oluşturacağını belirten Yumaklı, yapay zekâ uygulamalarının da sağlıklı veriyle birlikte daha etkin kullanılabileceğini vurguladı.\n\nProgramın sonunda Bakan Yumaklı, veteriner hekimlerin bilgilendirmesinin ardından ilk elektronik küpeleme işlemini gerçekleştirerek GEKİS'i resmen devreye aldı."
+    },
     {
       "title": "CHP'li Öztürkmen: Boz fıstıkta üretici desteklenmeli",
       "url": "https://www.tarimpusulasi.com/haber/chpli-ozturkmen-boz-fistikta-uretici-desteklenmeli-47290",
@@ -125,14 +133,6 @@
       "date": "2026-08-06",
       "summary": "Akşehir Ilgın Pancar Ekicileri Kooperatifi Başkanı Ahmet Kara, önceki yönetim döneminde 100 milyon liralık yatırım olarak kamuoyuna tanıtılan Sarayönü Sıvı Gübre Tesisi'nin kayıtlarda 7 milyon liralık yatırım olarak göründüğünü ileri sürdü. Kara, tesisin kooperatife yaklaşık 180 milyon lira zarar ve",
       "content": "Haber Merkezi / Akşehir Ilgın Pancar Ekicileri Kooperatifi Başkanı Ahmet Kara, yaptığı basın açıklamasında Sarayönü Sıvı Gübre Tesisi'ne ilişkin dikkat çeken açıklamalarda bulundu.\n\nKara, önceki yönetim döneminde kamuoyuna 100 milyon liralık yatırım olarak duyurulan tesisin resmi kayıtlarda 7 milyon liralık yatırım olarak yer aldığını belirterek, bu durumun kooperatifi büyük bir mali yükün içine sürüklediğini kaydetti.\n\n\"Yetkisi belli olmayan ortakla sözleşme yapılmış\"\n\nGübre tesisinde bir kar ortağı bulunduğunu belirten Kara, bu ortakla sözleşme imzalandığını ancak sözleşmeye imza atan kişilerin şirket adına yetkili olup olmadığını tespit edemediklerini söyledi.\n\nKooperatif ortaklarından ürün alımlarında dört kefil şartı arandığını hatırlatan Kara, buna rağmen imza yetkisi konusunda belirsizlik bulunan şirket ortağı ile yaklaşık 70 milyon liralık ticaret yapıldığını ifade etti.\n\n\"23 milyon liralık hammadde kayıp\"\n\nTesiste 23 milyon liralık hammadde kaybı bulunduğunu dile getiren Kara, bu hammaddeden yaklaşık 70 milyon liralık üretim yapılabildiğini ancak üretilen ürünlerin tamamının ortada olmadığını söyledi.\n\n\"Tesisten kooperatife bir kuruş gelir gelmedi\"\n\n15 Mayıs 2025 tarihinde faaliyete başlayan sıvı gübre tesisinin bugüne kadar kooperatife herhangi bir gelir sağlamadığını belirten Kara, personel giderleri de dahil edildiğinde tesisin kooperatife toplam zararının yaklaşık 180 milyon liraya ulaştığını söyledi.\n\nTeftiş sürüyor, dava hazırlığı yapılıyor\n\nKara, Tarım ve Orman Bakanlığı tarafından görevlendirilen teftiş ekibinin kooperatifte incelemelerini sürdürdüğünü, bağımsız denetim çalışmalarının da devam ettiğini ifade etti.\n\nDenetim raporlarının tamamlanmasının ardından kooperatifi zarara uğratan önceki yönetim hakkında yargı yoluna başvuracaklarını açıklayan Kara, sorumluların hukuk önünde hesap vermesi için gerekli adımların atılacağını söyledi."
-    },
-    {
-      "title": "TMO 255 TL dedi, gözler serbest piyasada! Fındıkta kritik sezon başlıyor",
-      "url": "https://www.tarimdanhaber.com/tmo-255-tl-dedi-gozler-serbest-piyasada-findikta-kritik-sezon-basliyor",
-      "source": "Tarımdan Haber",
-      "date": "2026-08-06",
-      "summary": "Toprak Mahsulleri Ofisi, 2026/27 sezonu kabuklu fındık alım fiyatını Giresun kalite için 255 TL, Levant kalite için 250 TL olarak açıkladı. Ancak sektör temsilcileri, üreticinin hasat dönemindeki nakit ihtiyacı nedeniyle ürününü 200-220 TL bandından satmak zorunda kalabileceğini belirtirken, ihracat",
-      "content": "Sadettin İnan / Toprak Mahsulleri Ofisi (TMO), 2026/2027 dönemi kabuklu fındık alım fiyatlarını açıkladı. Buna göre Giresun kalite kabuklu fındık için kilogram başına 255 TL, Levant kalite için ise 250 TL alım fiyatı belirlendi.\n\nTMO ayrıca yüzde 50'nin üzerindeki randımana sahip ürünler için ilave fiyat uygulayacak. Buna göre her 1 puanlık randıman artışı için Giresun kalite fındığa 5,10 TL/kg, Levant kaliteye ise 5 TL/kg ek ödeme yapılacak. Kabuklu fındık alımları 24 Ağustos'ta randevulu sistemle başlayacak.\n\nGeçen yıla göre yaklaşık yüzde 28 artış\n\nGeçen sezon TMO, Giresun kalite fındık için 200 TL, Levant kalite için ise 195 TL alım fiyatı açıklamıştı.\n\nBuna göre;\n\nGiresun kalite fiyatı yüzde 27,5\n\nLevant kalite fiyatı ise yüzde 28,2 arttı.\n\nArtış oranı birçok tarımsal ürüne yapılan fiyat artışlarıyla benzer seviyede gerçekleşirken, uluslararası piyasa fiyatları dikkate alındığında üretici fiyatının düşük kaldığı görülüyor.\n\nTürkiye ile rakip ülkeler arasında fiyat farkı\n\nİtalya'da üreticinin eline geçen fındık fiyatı 7-8 Euro seviyesinde, Şili'de ise yaklaşık 6,5 dolar seviyesinde iken Türkiye'de ise açıklanan 255 TL'lik fiyat, yaklaşık 47,5 TL'lik dolar kuru üzerinden hesaplandığında kilogram başına yaklaşık 5,3 dolara karşılık geliyor.\n\nİhracat sözleşmeleri 6,5 dolar seviyesinde\n\nSektör temsilcilerinden edinilen bilgilere göre ihracatçı firmaların 2026/2027 sezonuna yönelik ihracat bağlantılarının önemli bölümünün yaklaşık 6,5 dolar seviyesinden yapıldığı tahmin ediliyor.\n\nBu durumda üreticiden en yüksek 5,3 dolar karşılığı alınan fındığın, yaklaşık 6,5 dolar seviyesinden ihraç edilmesi önemli bir fiyat farkı oluşturuyor.\n\nGeçen yıl büyük kazancı ihracatçılar elde etti\n\nGeçtiğimiz sezon hasat sonrasında serbest piyasada fındık fiyatları uzun süre 150-160 TL seviyelerine kadar gerilemişti. Buna karşın Türkiye'nin ortalama ihracat fiyatı yaklaşık 6,5 dolar seviyesinde gerçekleşti.\n\nBu tablo, üreticiden düşük fiyatla alınan ürünün yüksek ihracat fiyatıyla satılması nedeniyle ihracatçı firmaların 1999-2000 yılından buyana görülmemiş bir kar elde ettiklerini ortaya koyuyor.\n\nFındık piyasasında belirleyici aktör Ferrero\n\nBilindiği üzere Türkiye'de üretilen kabuklu fındığın yaklaşık yüzde 70'i Ferrero tarafından satın alınırken, Türkiye'nin fındık ihracatının yaklaşık yüzde 50'si de yine şirket tarafından gerçekleştiriliyor.\n\nPiyasada 200-220 TL beklentisi\n\nHer ne kadar TMO alım fiyatını 255 TL olarak açıklasa da sektör temsilcileri, üreticinin hasat döneminde oluşan nakit ihtiyacı nedeniyle ürününün önemli bölümünü serbest piyasaya satmak zorunda kalacağını ifade ediyor.\n\nİşletme giderleri ve hasat masrafları nedeniyle üreticilerin yaklaşık ürünlerinin üçte birini hemen satmak zorunda kaldığı belirtilirken, serbest piyasada fiyatların 200-220 TL bandına kadar gerileyebileceği öngörülüyor. Bu durumda üretici ile ihracat fiyatı arasındaki makas ihracatçı firmalar lehine daha da açılalacak\n\nRekolte tartışması sürüyor\n\nTarım ve Orman Bakanlığı bu yıl Türkiye'nin kabuklu fındık rekoltesini 700 bin ton olarak açıklarken, sektör temsilcileri ise üretimin 600-620 bin ton aralığında gerçekleşmesini bekliyor.\n\nYağışların olumlu seyretmesi nedeniyle bu yıl ürün kalitesinin yüksek olduğu belirtilirken, piyasa yeni sezona sıfır stokla girerken, TMO'nun elinde de fazla fındık bulunmuyor."
     }
   ],
   "commoditiesByBorsa": {
