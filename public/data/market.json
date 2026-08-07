@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-07T11:25:32.013Z",
+  "updatedAt": "2026-08-07T12:09:42.272Z",
   "fx": [
     {
       "code": "USD",
@@ -11,23 +11,23 @@
     {
       "code": "EUR",
       "name": "Euro",
-      "buy": 55.04,
-      "sell": 55.05,
-      "change": 0.06
+      "buy": 55.07,
+      "sell": 55.08,
+      "change": 0.11
     },
     {
       "code": "GRA",
       "name": "Gram Altın",
-      "buy": 6632.43,
-      "sell": 6633.38,
-      "change": 2.17
+      "buy": 6619.22,
+      "sell": 6620.19,
+      "change": 1.97
     },
     {
       "code": "CEYREKALTIN",
       "name": "Çeyrek Altın",
-      "buy": 10572.18,
-      "sell": 10815.59,
-      "change": 1.42
+      "buy": 10564.88,
+      "sell": 10808.36,
+      "change": 1.35
     },
     {
       "code": "CUMHURIYETALTINI",
@@ -38,6 +38,22 @@
     }
   ],
   "news": [
+    {
+      "title": "Samsun'da 2026 fındık hasat ve ihraç tarihleri açıklandı",
+      "url": "https://www.tarimpusulasi.com/haber/samsunda-2026-findik-hasat-ve-ihrac-tarihleri-aciklandi-47277",
+      "source": "Tarım Pusulası",
+      "date": "2026-08-07",
+      "summary": "Samsun İl Tarım ve Orman Müdürlüğü, \"Fındık Hasat ve İhraç Tarihlerini Belirleme Komisyonu\" kararı doğrultusunda 2026 yılı fındık hasat ve ihraç takvimini duyurdu. İl Müdürü Kemal Yılmaz, kaliteli ürün ve yüksek ihracat geliri için üreticilerin belirlenen tarihlere uyması, doğru hasat ve kurutma yön",
+      "content": "SAMSUN — Samsun İl Tarım ve Orman Müdürlüğü, \"Fındık Hasat ve İhraç Tarihlerini Belirleme Komisyonu\" kararı doğrultusunda 2026 yılı fındık hasat ve ihraç tarihlerini açıkladı. Belirlenen takvime göre orta kuşakta hasat 10 Ağustos'ta başlayacak, sahil kuşağında 18 Ağustos'ta, yüksek kuşakta ise 25 Ağustos'ta yapılacak.\n\nKomisyon kararına göre orta kuşakta 10 Ağustos'ta başlayacak hasadın ardından ihracata 15 Ağustos'ta izin verilecek. Sahil kuşağında hasat 18 Ağustos, ihracat 23 Ağustos; yüksek kuşakta ise hasat 25 Ağustos, ihracat ise 30 Ağustos 2026 tarihinde başlayacak.\n\nSamsun İl Tarım ve Orman Müdürü Kemal Yılmaz, kaliteli ve yüksek randımanlı ürün elde edilebilmesi için üreticilerin açıklanan hasat tarihlerine uymalarının önem taşıdığını belirtti.\n\nYılmaz, hasatta fındığın doğru yöntemlerle toplanması, naylon çuval yerine jüt veya fileli çuvalların tercih edilmesi ve ürünün nem oranı yüzde 12'nin altına düşürülecek şekilde kurutulması gerektiğini ifade etti. Yetersiz kurutmanın aflatoksin oluşumu riskini artırabileceğine dikkat çeken Yılmaz, bu durumun ürün kalitesini ve ihracatı olumsuz etkileyebileceğini kaydetti.\n\nİl Müdürü Yılmaz, üreticilere kahverengi kokarca ile mücadeleyi de hasat dönemine kadar sürdürmeleri çağrısında bulundu. Mücadelede yalnızca ruhsatlı bitki koruma ürünlerinin kullanılması ve son ilaçlama ile hasat arasındaki bekleme süresine mutlaka uyulması gerektiğini vurgulayan Yılmaz, bu kuralların hem ürün güvenliği hem de ihracat standartlarının korunması açısından önem taşıdığını belirtti.\n\nYılmaz, 2026 üretim sezonunun fındık üreticileri için bereketli ve verimli geçmesini temenni ederken, Ülkemiz’ in fındık ihracatında yüksek gelir elde etmesi yönündeki beklentisini de dile getirdi.\n\nTARIM PUSULASI HABER MERKEZİ"
+    },
+    {
+      "title": "Teksüt, Gönenli YKS dereceli öğrencileri ödüllendirdi",
+      "url": "https://www.tarimpusulasi.com/haber/teksut-gonenli-yks-dereceli-ogrencileri-odullendirdi-47276",
+      "source": "Tarım Pusulası",
+      "date": "2026-08-07",
+      "summary": "Türkiye'nin köklü süt ve süt ürünleri üreticilerinden Teksüt, 2025 YKS'de dereceye giren 11 Gönenli öğrenciyi üretim tesislerinde ağırlayarak ödüllendirdi. Törende konuşan Teksüt Yönetim Kurulu Başkanı Cevdet Arınık, eğitime destek vermeyi sosyal sorumluluk anlayışlarının önemli bir parçası olarak g",
+      "content": "BALIKESİR (GÖNEN) — Türkiye'nin köklü süt ve süt ürünleri üreticilerinden Teksüt, 2025 Yükseköğretim Kurumları Sınavı'nda (YKS) dereceye giren 11 Gönenli öğrenciyi üretim tesislerinde ağırlayarak başarılarını ödüllendirdi.\n\nTeksüt Üretim Tesisleri'nde düzenlenen törene Gönen İlçe Milli Eğitim Müdürü Sezai Turna, Teksüt Yönetim Kurulu Başkanı Cevdet Arınık, dereceye giren öğrenciler, aileleri ve şirket çalışanları katıldı. Etkinlikte öğrencilere ve ailelerine çeşitli hediyeler takdim edildi.\n\nTeksüt, kurumsal sosyal sorumluluk çalışmaları kapsamında eğitime ve spora verdiği desteği sürdürdüğünü belirtti. Futbol ve basketbol başta olmak üzere farklı branşlarda altyapı düzeyindeki sponsorluk faaliyetlerini sürdüren şirket, bu kez akademik başarı gösteren öğrencileri ödüllendirerek eğitime verdiği desteği ön plana çıkardı.\n\nTörende konuşan Teksüt Yönetim Kurulu Başkanı Cevdet Arınık, şirketin 69 yıldır Gönen'de üretim yaptığını belirterek toplumsal gelişime katkı sağlamayı önemsediklerini ifade etti.\n\nArınık, gençlerin eğitim hayatındaki başarılarının ülkenin geleceği açısından değer taşıdığını belirterek, öğrencilerin yanında olmaktan memnuniyet duyduklarını söyledi.\n\nBaşarının düzenli, planlı ve kararlı çalışmanın sonucu olduğunu vurgulayan Arınık, öğrencilerin elde ettiği başarıda ailelerin, öğretmenlerin ve okul yöneticilerinin katkısının da önemli olduğunu dile getirdi.\n\nArınık ayrıca, dereceye giren öğrenciler arasında bir Teksüt çalışanının kızının bulunmasının şirket açısından ayrı bir gurur kaynağı olduğunu ifade etti.\n\nTARIM PUSULASI HABER MERKEZİ"
+    },
     {
       "title": "Et kesim fiyatları 2026 | Güncel dana, inek ve kuzu kesim fiyatları ile piyasa yorumları",
       "url": "https://www.tarimdanhaber.com/sigir-kesim-fiyatlari",
@@ -117,22 +133,6 @@
       "date": "2026-08-06",
       "summary": "Türkiye'nin dünya lideri olduğu Bursa Siyahı ve Sarılop taze incirde 2026 ihracat sezonu başladı. Ege Yaş Meyve Sebze İhracatçıları Birliği, 2025 yılında 94 milyon dolara ulaşan taze incir ihracatının 2026 yılında 100 milyon dolara çıkarılmasını hedeflediklerini açıkladı.",
       "content": "İZMİR — Türkiye'nin dünya lideri olduğu Bursa Siyahı ve Sarılop taze incirde 2026 ihracat sezonu başladı. Ege Yaş Meyve Sebze İhracatçıları Birliği (EYMSİB), 2025 yılında 20 bin 112 ton taze incir ihracatı karşılığında elde edilen 94 milyon dolarlık gelirin ardından, 2026 sezonunda 100 milyon dolar ihracat hedefi belirlediklerini açıkladı.\n\nEge Yaş Meyve Sebze İhracatçıları Birliği Başkanı Cengiz Balık, 2025 yılında taze incir ihracatının bir önceki yıla göre yüzde 17 artışla 94 milyon dolara ulaştığını belirterek, 2026 sezonunda hem üretim hem de ihracatta artış beklediklerini söyledi.\n\nTaze incir ihracatı 94 milyon dolara ulaştı\n\nBalık'ın paylaştığı verilere göre, Türkiye 2025 yılında 20 bin 112 ton taze incir ihraç ederek 94 milyon dolar döviz geliri elde etti. Bu tutarın 76 milyon dolarlık bölümünü Bursa Siyahı inciri, 17 milyon dolarlık bölümünü ise Sarılop taze inciri oluşturdu.\n\nSiyah incir ihracatında Almanya 22 milyon dolar ile ilk sırada yer aldı. Almanya'yı 10 milyon dolarla Avusturya, 8 milyon dolarla Rusya, 8 milyon dolarla İngiltere ve 6 milyon dolarla Hollanda izledi.\n\nSarılop taze incir ihracatında ise Almanya 7 milyon dolar ile ilk sırada bulunurken, Rusya'ya 4 milyon dolar, Avusturya'ya ise 3 milyon dolar ihracat gerçekleştirildi.\n\nRekolte ve kalite beklentisi yükseldi\n\n2026 sezonuna ilişkin değerlendirmelerde bulunan Cengiz Balık, iklim koşullarının üretime olumlu yansıdığını belirterek rekoltenin geçen yıla göre daha yüksek gerçekleşmesini beklediklerini ifade etti.\n\nBalık, ürün kalitesinin de ihracat pazarlarının beklentilerini karşılayacak seviyede olacağını öngördüklerini belirterek, Avrupa'nın geleneksel pazar olmayı sürdüreceğini, bunun yanında Uzak Doğu ve Körfez ülkelerinde de ihracatı artırmaya yönelik çalışmaların devam ettiğini söyledi.\n\nBalık, \"Bu sezon iklim koşullarının üretime olumlu yansımasıyla birlikte rekoltenin geçen yıla göre daha yüksek gerçekleşmesini bekliyoruz. Üretimdeki artışın yanı sıra ürün kalitesinin de ihracat pazarlarının beklentilerini karşılayacak seviyede olacağını öngörüyoruz.\" dedi.\n\nTurkish Cargo desteği ihracata katkı sağlayacak\n\nTaze incir gibi raf ömrü kısa ve hızlı ulaştırılması gereken ürünlerde hava kargo taşımacılığının önemine dikkat çeken Balık, Türkiye İhracatçılar Meclisi (TİM) ile Türk Hava Yolları (THY) arasında yedinci kez yenilenen Turkish Cargo iş birliğinin sektöre önemli katkı sağlayacağını ifade etti.\n\nBalık, \"Taze incir gibi katma değeri yüksek ve tazeliğin korunmasının büyük önem taşıdığı ürünlerde, TİM ile THY arasında yedinci kez yenilenen Turkish Cargo iş birliği kapsamında sağlanan indirimli hava kargo imkânının 2026 sezonunda ihracatımıza önemli katkı sağlamasını bekliyoruz.\" diye konuştu.\n\nHedef 100 milyon dolar ihracat\n\n2026 sezonuna ilişkin hedeflerini de paylaşan Balık, üreticiler, ihracatçılar ve sektör paydaşlarının iş birliğiyle taze incir ihracatında 100 milyon dolar seviyesine ulaşmayı hedeflediklerini söyledi.\n\nBalık, \"Üreticilerimiz, ihracatçılarımız ve tüm sektör paydaşlarımızın iş birliğiyle 2026 sezonunda 100 milyon dolarlık taze incir ihracatı hedefimize ulaşacağımıza inanıyoruz.\" ifadelerini kullandı.\n\nTARIM PUSULASI HABER MERKEZİ"
-    },
-    {
-      "title": "Ordu Gastronomi Festivali 196 yöresel lezzeti bir araya getirdi",
-      "url": "https://www.tarimpusulasi.com/haber/ordu-gastronomi-festivali-196-yoresel-lezzeti-bir-araya-getirdi-47269",
-      "source": "Tarım Pusulası",
-      "date": "2026-08-05",
-      "summary": "Ordu'da bu yıl ilk kez düzenlenen YEDAŞ Ordu Gastronomi Festivali, kentin 19 ilçesinden 196 yöresel lezzeti aynı çatı altında buluşturdu. Festival, yöresel mutfağın tanıtımının yanı sıra unutulmaya yüz tutmuş tariflerin kayıt altına alınmasına yönelik çalışmalarıyla da öne çıktı.",
-      "content": "ORDU — Ordu'nun zengin mutfak kültürünü ulusal ve uluslararası platformlarda tanıtmak amacıyla bu yıl ilk kez düzenlenen YEDAŞ Ordu Gastronomi Festivali, 19 ilçeden 196 yöresel lezzeti aynı çatı altında buluşturdu. Festival, gastronomi turizmine katkı sağlamanın yanı sıra unutulmaya yüz tutmuş yöresel tariflerin kayıt altına alınmasına yönelik çalışmalarıyla da dikkat çekti.\n\nOrdu Valisi Muammer Erol'un himayelerinde, Ordu Büyükşehir Belediye Başkanı Dr. Mehmet Hilmi Güler'in öncülüğünde ve Ordu İl Kültür ve Turizm Müdürü Uğur Toparlak'ın koordinasyonunda gerçekleştirilen festival, MA MAJOR Organizasyon Ltd. Şti. tarafından Akif Budak liderliğinde organize edildi. Ana sponsorluğunu YEDAŞ'ın üstlendiği organizasyon, kamu kurumları, yerel yönetimler ve çok sayıda paydaşın katkısıyla geniş katılımlı bir gastronomi etkinliğine dönüştü.\n\n19 ilçenin mutfak kültürü aynı çatı altında buluştu\n\nFestival süresince Ordu'nun 19 ilçesine ait toplam 196 yöresel lezzet ziyaretçilerin beğenisine sunuldu. Kıyı kesimlerinin deniz ürünlerinden iç bölgelerin yayla mutfağına, fındık yaprağı sarmasından yöresel tatlılara, doğal ot yemeklerinden odun ateşinde hazırlanan geleneksel tariflere kadar uzanan geniş ürün yelpazesi, Ordu mutfağının kültürel çeşitliliğini gözler önüne serdi.\n\nFestival kapsamında düzenlenen Ordu Yemekleri Yarışması da ana yemek, ot yemekleri ile tatlı ve hamur işleri kategorilerinde gerçekleştirildi. Yarışmacılar, geleneksel tarifleri özgün sunumlarla jüri üyelerinin değerlendirmesine sundu.\n\nÜnlü şefler Ordu mutfağını yorumladı\n\nFestivalin öne çıkan etkinliklerinden birini gastronomi gösterileri oluşturdu. Şefler Özlem Mekik, Esra Tokelli, Yıldız Öz Samaha, Selim Yeşilpınar, Önder Yılmaz ve Mehmet Ali Hatipoğlu, Ordulu şeflerle birlikte kentin yöresel ürünlerini modern sunum teknikleriyle yorumladı.\n\nŞef gösterilerinin yanı sıra söyleşiler ve tadım etkinlikleri de ziyaretçilerden ilgi gördü. Festival kapsamında katkı sunan kurum ve destekçilere teşekkür plaketleri takdim edildi.\n\nKültürel etkinliklerle zenginleşen festival\n\nFestival, şehir merkezinde düzenlenen kortej yürüyüşüyle başladı. Program boyunca gerçekleştirilen horon gösterileri, Kafkas halk dansları, konserler ve çeşitli kültürel etkinlikler, binlerce ziyaretçiyi Ordu'nun mutfağıyla birlikte kültürü ve folkloruyla da buluşturdu.\n\nOrganizasyon, gastronominin yalnızca yemek kültürünü değil, aynı zamanda kentin yaşam biçimini ve kültürel kimliğini tanıtan önemli bir araç olduğunu ortaya koydu.\n\nYöresel tarifler kayıt altına alındı\n\nFestivalin hazırlık sürecinde yürütülen saha çalışmaları kapsamında organizasyon ekibi, Ordu'nun tüm ilçelerini ziyaret ederek unutulmaya yüz tutmuş yöresel tarifleri derledi.\n\nYerel üreticiler, kadın kooperatifleri ve aile işletmeleriyle yapılan çalışmalar sonucunda çok sayıda geleneksel reçete yeniden kayıt altına alınırken, oluşturulan gastronomi envanterinin kitaplaştırılması için de çalışma başlatıldı. Böylece Ordu'nun mutfak mirasının gelecek kuşaklara aktarılmasına yönelik önemli bir adım atılmış oldu.\n\nGastronomi turizmine katkı hedefleniyor\n\nİlk yılında ortaya koyduğu organizasyon yapısı, geniş katılımı ve 19 ilçeden 196 yöresel lezzeti aynı festivalde buluşturmasıyla dikkat çeken YEDAŞ Ordu Gastronomi Festivali'nin, Ordu'nun gastronomi turizmi alanındaki tanıtımına katkı sağlaması hedefleniyor.\n\nFestival, kentin doğal güzelliklerinin yanı sıra üretim kültürü, yerel ürünleri ve zengin mutfak mirasını daha geniş kitlelere tanıtmayı amaçlayan önemli organizasyonlardan biri olarak öne çıkarken, Ordu'nun gastronomi alanındaki marka değerinin güçlendirilmesine yönelik çalışmalara da katkı sunuyor.\n\nTARIM PUSULASI HABER MERKEZİ"
-    },
-    {
-      "title": "Kadim Durmaz: 200 TL'nin alım gücü 500 ekmekten 11 ekmeğe düştü",
-      "url": "https://www.tarimpusulasi.com/haber/kadim-durmaz-200-tlnin-alim-gucu-500-ekmekten-11-ekmege-dustu-47268",
-      "source": "Tarım Pusulası",
-      "date": "2026-08-05",
-      "summary": "CHP Tokat Milletvekili Kadim Durmaz, TBMM Genel Kurulu'nda yaptığı konuşmada, 200 liralık banknotun 2009 yılında yaklaşık 500 ekmek satın alabilirken bugün yalnızca yaklaşık 11 ekmek alınabildiğini belirterek yüksek enflasyon ve satın alma gücündeki düşüşe ilişkin eleştirilerde bulundu.",
-      "content": "ANKARA — CHP Tokat Milletvekili Kadim Durmaz, Türkiye Büyük Millet Meclisi (TBMM) Genel Kurulu'nda yaptığı konuşmada, yüksek enflasyonun vatandaşların satın alma gücü üzerindeki etkilerine ilişkin değerlendirmelerde bulundu. Durmaz, 200 liralık banknotun tedavüle çıktığı 2009 yılı ile bugün arasında alım gücünde önemli bir gerileme yaşandığını savundu.\n\nMilletvekili, 200 liralık banknotun tedavüle çıktığı dönemde bir ekmeğin yaklaşık 40 kuruş olduğunu ve aynı banknotla yaklaşık 500 ekmek satın alınabildiğini söyledi. Bugün ise bir ekmeğin 17,5 lira seviyesine yükseldiğini belirten Durmaz, aynı banknotla yalnızca yaklaşık 11 ekmek alınabildiğini ifade etti. Durmaz'ın konuşmasında yer verdiği karşılaştırmaya göre, 200 liralık banknotun satın alma gücü yaklaşık 489 ekmek azaldı.\n\nSatın alma gücündeki düşüşü çarpıcı bir örnekle anlatan Durmaz, \"Soframızdan 489 ekmeği kim çaldı?\" ifadelerini kullandı. Emekli, işçi, memur ve çiftçinin gelirlerinin her geçen gün eridiğini savunan Durmaz, vatandaşların alım gücündeki gerilemenin günlük yaşamda daha belirgin hissedildiğini dile getirdi.\n\nKonuşmasında banknotun nominal değeri ile gerçek satın alma gücü arasındaki farka da dikkat çeken Durmaz, \"Kağıdın üzerindeki rakam hâlâ 200 ama değeri aynı değil.\" dedi.\n\nEkonomik tabloyu eleştiren Durmaz, \"Yanlış ekonomi politikaları, yüksek enflasyon, adaletsiz düzen vatandaşın alın terini değersizleştirdi.\" değerlendirmesinde bulundu.\n\nVatandaşların enflasyonu günlük yaşamlarında doğrudan hissettiğini belirten Durmaz, \"Vatandaşımız enflasyonu bakkalın önünde, marketin kasasında ekmeğini bölerken yaşıyor.\" ifadelerini kullandı.\n\nEkonomik sıkıntıların yalnızca rakamlardan ibaret olmadığını savunan Durmaz, \"Bir zamanlar 500 ekmek alan para bugün 11 ekmeğe yetiyorsa sadece ekonomik bir başarısızlık yoktur. Mutfakta sönen ateş, büyüyen bir yoksulluk vardır.\" dedi.\n\nKonuşmasının sonunda vatandaşın ekonomik gelişmeleri demokratik süreçlerde değerlendireceğini ifade eden Durmaz, \"Milletimizin ekmeğini küçültenlerden, cebini boşaltanlardan ve alın terini değersizleştirenlerden sandık önünde hesabını mutlaka soracaktır.\" sözleriyle konuşmasını tamamladı.\n\nTARIM PUSULASI HABER MERKEZİ"
     }
   ],
   "commoditiesByBorsa": {
@@ -328,5 +328,17 @@
   "defaultBorsa": "5ED10",
   "defaultCity": "CANAKKALE",
   "note": "Fiyatlar TOBB ticaret borsasından (borsa seçilebilir). Kanola manuel (Trakya 2025).",
-  "inputsNote": "Mazot: akaryakıt bayi fiyatı, günlük (şehir seçilebilir). Gübre: manuel (yaklaşık)."
+  "inputsNote": "Mazot: akaryakıt bayi fiyatı, günlük (şehir seçilebilir). Gübre: manuel (yaklaşık).",
+  "errors": [
+    "mazot ANKARA: fetch failed",
+    "mazot ISTANBUL: fetch failed",
+    "mazot IZMIR: fetch failed",
+    "mazot KONYA: fetch failed",
+    "mazot ADANA: fetch failed",
+    "mazot BURSA: fetch failed",
+    "mazot ANTALYA: fetch failed",
+    "mazot SAMSUN: fetch failed",
+    "mazot TEKIRDAG: fetch failed",
+    "mazot CANAKKALE: fetch failed"
+  ]
 }
