@@ -1,43 +1,51 @@
 {
-  "updatedAt": "2026-08-07T20:06:53.677Z",
+  "updatedAt": "2026-08-07T20:59:24.306Z",
   "fx": [
     {
       "code": "USD",
       "name": "Dolar",
-      "buy": 47.69,
-      "sell": 47.7,
-      "change": 0.15
+      "buy": 47664,
+      "sell": 477376,
+      "change": 16
     },
     {
       "code": "EUR",
       "name": "Euro",
-      "buy": 55.17,
-      "sell": 55.2,
-      "change": 0.31
+      "buy": 551277,
+      "sell": 552466,
+      "change": 32
     },
     {
       "code": "GRA",
       "name": "Gram Altın",
-      "buy": 6660.35,
-      "sell": 6661.52,
-      "change": 2.6
+      "buy": 665855,
+      "sell": 66595,
+      "change": 257
     },
     {
       "code": "CEYREKALTIN",
       "name": "Çeyrek Altın",
-      "buy": 10644.48,
-      "sell": 10887.46,
-      "change": 2.09
+      "buy": 1064448,
+      "sell": 1088746,
+      "change": 209
     },
     {
       "code": "CUMHURIYETALTINI",
       "name": "Cumhuriyet Altını",
       "buy": 44178,
       "sell": 44829,
-      "change": 2.19
+      "change": 219
     }
   ],
   "news": [
+    {
+      "title": "Türkiye için yeni ithalat kapısı açılıyor! Paraguay'da et ve canlı hayvan denetimi tamamlandı",
+      "url": "https://www.tarimdanhaber.com/turkiye-icin-yeni-ithalat-kapisi-aciliyor-paraguayda-et-ve-canli-hayvan-denetimi-tamamlandi",
+      "source": "Tarımdan Haber",
+      "date": "2026-08-07",
+      "summary": "Tarım ve Orman Bakanlığı heyetinin, Paraguay'ın sığır eti ve canlı büyükbaş hayvan ihracatına yönelik gerçekleştirdiği resmi denetimler tamamlandı. Paraguay Ulusal Hayvan Sağlığı ve Kalitesi Servisi (SENACSA), denetimin başarıyla sonuçlandığını duyururken, süreçte son aşamaya geçildiği bildirildi. P",
+      "content": "Haber Merkezi / Tarım ve Orman Bakanlığı heyetinin 3-7 Ağustos tarihleri arasında Paraguay'da gerçekleştirdiği resmi incelemeler tamamlandı. Paraguay Ulusal Hayvan Sağlığı ve Kalitesi Servisi (SENACSA), denetimlerin başarıyla sonuçlandığını açıklayarak, Türkiye'ye sığır eti ihracatı için sağlık uygunlaştırma sürecinde önemli bir aşamanın geride bırakıldığını duyurdu.\n\nSENACSA'nın açıklamasına göre, Türk heyeti ihracata yetkili soğuk hava tesislerinde sağlık kontrol sistemi, izlenebilirlik ve gıda güvenliği uygulamalarını yerinde değerlendirdi.\n\n\"Resmi denetim başarıyla tamamlandı\"\n\nSENACSA tarafından yapılan açıklamada şu ifadelere yer verildi:\n\n\"Türkiye Cumhuriyeti'nin Paraguaylı sığır eti ihracatçısı tesislere yönelik resmi denetimi başarıyla sonuçlandı. Denetim, kamu ve özel sektörün ortak çalışmasıyla yürütülen sistemimizin sağlamlığını ve güvenilirliğini ortaya koydu.\"\n\nAçıklamada, denetimin Türkiye pazarına erişim için yürütülen sağlık uygunlaştırma sürecinin bir parçası olduğu vurgulandı.\n\nParaguay basını: Türkiye önemli bir pazar\n\nParaguay basınında yer alan değerlendirmelerde ise Türkiye'nin yaklaşık 85 milyonluk nüfusu ve artan hayvansal protein talebi nedeniyle önemli bir ihracat pazarı olduğuna dikkat çekildi.\n\nHaberde, onayın hem canlı büyükbaş hayvan hem de sığır eti ihracatını kapsadığı belirtilirken, Türkiye'nin dünyanın en büyük canlı hayvan ithalatçılarından biri olması nedeniyle Paraguay hayvancılığı için yeni ticari fırsatlar doğacağı ifade edildi.\n\nSırada son prosedürler var\n\nParaguay tarafı, kalan doğrulama ve teknik prosedürlerin 2026 yılının ikinci yarısında tamamlanmasının beklendiğini belirtirken, sürecin tamamlanmasının ardından Türkiye'ye sığır eti ihracatının başlamasının hedeflendiği kaydedildi.\n\nErgin Kahveci: \"Paraguay'da sevinç, Türkiye'de yeni ithalat kapısı\"\n\nTarım politikaları uzmanı Ergin Kahveci de SENACSA'nın açıklamasını kamuoyuyla paylaşarak şu değerlendirmeyi yaptı:\n\n\"Türkiye, Paraguay'ın sığır eti ve canlı büyükbaş hayvan ihracatına onay verdi. Paraguay basını sevinç içinde. Türkiye, dünyanın en büyük canlı hayvan ithalatçılarından biri olarak görülüyor ve bu karar Paraguay için önemli bir ticari fırsat anlamına geliyor.\"\n\nKahveci, Paraguay basınında Türkiye pazarına giriş için lojistik altyapı, taşıma sistemleri ve ihracat protokollerinin tamamlanmasının bir sonraki aşama olarak gösterildiğini aktardı.\n\nTürkiye açısından ne anlama geliyor?\n\nParaguay açısından denetim sürecinin tamamlanması, yeni bir ihracat pazarına erişim ve ticari gelir anlamına gelirken, Türkiye açısından ise canlı hayvan ve kırmızı et arzının ithalat yoluyla desteklenebileceği yeni bir tedarik kanalı daha oluşturulmuş olacak.\n\nTarım ve Orman Bakanlığı'nın teknik değerlendirme ve resmi onay sürecini tamamlamasının ardından Paraguay'dan Türkiye'ye canlı hayvan ve sığır eti sevkiyatının başlaması bekleniyor.\n\nİlgili Haberler\n\nGeçmişin \"Kaçak Et\" şüphelisi artık resmi ortak: Türkiye'nin hayvancılıkta yeni ithalat rotası belli oldu!\n\nParaguay'dan canlı hayvan ve sığır eti ithalatında kritik aşama: Türk heyeti Paraguay'da tesisleri denetliyor"
+    },
     {
       "title": "5 yıl sonra devreye girdi! Pakdemirli döneminde başlatılan elektronik küpe sistemi Kars'tan uygulamaya alındı",
       "url": "https://www.tarimdanhaber.com/5-yil-sonra-devreye-girdi-pakdemirli-doneminde-baslatilan-elektronik-kupe-sistemi-karstan-uygulamaya-alindi",
@@ -125,14 +133,6 @@
       "date": "2026-08-06",
       "summary": "Tarım ve Orman Bakanlığı Gıda ve Kontrol Genel Müdürlüğü, buğday ithalatında bitki sağlığı kontrollerine ilişkin \"acele\" ibareli bir yazı yayımladı. Yazıda, hububatta sürme hastalığı etmenlerine ilişkin yeni bilimsel bulgular doğrultusunda Bitki Karantinası Yönetmeliği'nde değişiklik çalışmalarının ",
       "content": "Haber Merkezi / Tarım ve Orman Bakanlığı Gıda ve Kontrol Genel Müdürlüğü, 6 Ağustos 2026 tarihli ve \"acele\" ibareli yazıyla Zirai Karantina Müdürlükleri ile Çıkış İl Tarım ve Orman Müdürlüklerine buğday ithalatındaki bitki sağlığı kontrollerine ilişkin yeni talimat gönderdi.\n\nTarımcı, 9 Temmuz'da kaleme almıştı: 5 Ağustos'ta her şey değişiyor! Buğdaydan gübreye üreticiyi bekleyen yeni dönem\n\nYazıda, ülkeye ithal edilmek istenen buğdayın resmi kontrollerinin 5996 sayılı Veteriner Hizmetleri, Bitki Sağlığı, Gıda ve Yem Kanunu ile Bitki Karantinası Yönetmeliği hükümleri doğrultusunda yürütüldüğü hatırlatıldı.\n\nYönetmelik değişikliği hazırlığı\n\nBakanlık yazısında, \"Hububatta Sürme Hastalığı (Tilletia spp.) Etmenlerinin ve Yaygınlıklarının Belirlenmesi\" isimli proje kapsamında elde edilen nihai sonuçlar doğrultusunda yeni bulguların dikkate alındığı ve Bitki Karantinası Yönetmeliği'nde değişiklik yapılmasına yönelik çalışma başlatıldığı bildirildi.\n\nMevcut uygulama devam edecek\n\nYazıda, yönetmelik değişikliği yürürlüğe girinceye kadar mevcut uygulamanın sürdürüleceği belirtildi.\n\nBuna göre, tüketim amacıyla (ekmeklik, makarnalık, bisküvilik vb.) ithal edilmek istenen buğdaylarda bitki sağlığı kontrolleri kapsamında Tilletia barclayana, Tilletia indica ve Tilletia controversa yönünden analizler yapılmaya devam edilecek. Laboratuvar analizlerinde bulaşıklık tespit edilmesi halinde ise sevkiyatın Türkiye'ye girişine izin verilmeyecek.\n\nTohumluk buğdayda beş etmen analiz edilecek\n\nYazıya göre, tohumluk olarak ithal edilecek buğdaylarda ise analizler Tilletia barclayana, Tilletia indica, Tilletia caries, Tilletia controversa ve Tilletia laevis zararlı organizmaları yönünden sürdürülecek. Bu analizlerde de bulaşıklık tespit edilmesi halinde sevkiyatın ülkeye girişine izin verilmeyecek.\n\nBakanlık, yönetmelik değişikliği tamamlanıncaya kadar söz konusu uygulamaların aynı şekilde devam edeceğini bildirdi."
-    },
-    {
-      "title": "Pancar Kooperatifi’nde büyük skandal: 1 kuruş gelir getirmeyen gübre tesisi 180 milyon batırdı!",
-      "url": "https://www.tarimdanhaber.com/pancar-kooperatifinde-buyuk-skandal-1-kurus-gelir-getirmeyen-gubre-tesisi-180-milyon-batirdi",
-      "source": "Tarımdan Haber",
-      "date": "2026-08-06",
-      "summary": "Akşehir Ilgın Pancar Ekicileri Kooperatifi Başkanı Ahmet Kara, önceki yönetim döneminde 100 milyon liralık yatırım olarak kamuoyuna tanıtılan Sarayönü Sıvı Gübre Tesisi'nin kayıtlarda 7 milyon liralık yatırım olarak göründüğünü ileri sürdü. Kara, tesisin kooperatife yaklaşık 180 milyon lira zarar ve",
-      "content": "Haber Merkezi / Akşehir Ilgın Pancar Ekicileri Kooperatifi Başkanı Ahmet Kara, yaptığı basın açıklamasında Sarayönü Sıvı Gübre Tesisi'ne ilişkin dikkat çeken açıklamalarda bulundu.\n\nKara, önceki yönetim döneminde kamuoyuna 100 milyon liralık yatırım olarak duyurulan tesisin resmi kayıtlarda 7 milyon liralık yatırım olarak yer aldığını belirterek, bu durumun kooperatifi büyük bir mali yükün içine sürüklediğini kaydetti.\n\n\"Yetkisi belli olmayan ortakla sözleşme yapılmış\"\n\nGübre tesisinde bir kar ortağı bulunduğunu belirten Kara, bu ortakla sözleşme imzalandığını ancak sözleşmeye imza atan kişilerin şirket adına yetkili olup olmadığını tespit edemediklerini söyledi.\n\nKooperatif ortaklarından ürün alımlarında dört kefil şartı arandığını hatırlatan Kara, buna rağmen imza yetkisi konusunda belirsizlik bulunan şirket ortağı ile yaklaşık 70 milyon liralık ticaret yapıldığını ifade etti.\n\n\"23 milyon liralık hammadde kayıp\"\n\nTesiste 23 milyon liralık hammadde kaybı bulunduğunu dile getiren Kara, bu hammaddeden yaklaşık 70 milyon liralık üretim yapılabildiğini ancak üretilen ürünlerin tamamının ortada olmadığını söyledi.\n\n\"Tesisten kooperatife bir kuruş gelir gelmedi\"\n\n15 Mayıs 2025 tarihinde faaliyete başlayan sıvı gübre tesisinin bugüne kadar kooperatife herhangi bir gelir sağlamadığını belirten Kara, personel giderleri de dahil edildiğinde tesisin kooperatife toplam zararının yaklaşık 180 milyon liraya ulaştığını söyledi.\n\nTeftiş sürüyor, dava hazırlığı yapılıyor\n\nKara, Tarım ve Orman Bakanlığı tarafından görevlendirilen teftiş ekibinin kooperatifte incelemelerini sürdürdüğünü, bağımsız denetim çalışmalarının da devam ettiğini ifade etti.\n\nDenetim raporlarının tamamlanmasının ardından kooperatifi zarara uğratan önceki yönetim hakkında yargı yoluna başvuracaklarını açıklayan Kara, sorumluların hukuk önünde hesap vermesi için gerekli adımların atılacağını söyledi."
     }
   ],
   "commoditiesByBorsa": {
