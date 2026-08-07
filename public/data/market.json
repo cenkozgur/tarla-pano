@@ -1,43 +1,51 @@
 {
-  "updatedAt": "2026-08-07T15:37:13.355Z",
+  "updatedAt": "2026-08-07T16:35:08.162Z",
   "fx": [
     {
       "code": "USD",
       "name": "Dolar",
-      "buy": 476993,
-      "sell": 477057,
-      "change": 16
+      "buy": 47.69,
+      "sell": 47.7,
+      "change": 0.14
     },
     {
       "code": "EUR",
       "name": "Euro",
-      "buy": 551589,
-      "sell": 551804,
-      "change": 29
+      "buy": 55.19,
+      "sell": 55.2,
+      "change": 0.33
     },
     {
       "code": "GRA",
       "name": "Gram Altın",
-      "buy": 667172,
-      "sell": 667266,
-      "change": 277
+      "buy": 6648.99,
+      "sell": 6649.84,
+      "change": 2.42
     },
     {
       "code": "CEYREKALTIN",
       "name": "Çeyrek Altın",
-      "buy": 1064448,
-      "sell": 1088746,
-      "change": 209
+      "buy": 10644.48,
+      "sell": 10887.46,
+      "change": 2.09
     },
     {
       "code": "CUMHURIYETALTINI",
       "name": "Cumhuriyet Altını",
       "buy": 44178,
       "sell": 44829,
-      "change": 219
+      "change": 2.19
     }
   ],
   "news": [
+    {
+      "title": "CHP'li Gürer: TMO mısır alım fiyatını en az 17 TL açıklamalı",
+      "url": "https://www.tarimpusulasi.com/haber/chpli-gurer-tmo-misir-alim-fiyatini-en-az-17-tl-aciklamali-47289",
+      "source": "Tarım Pusulası",
+      "date": "2026-08-07",
+      "summary": "CHP Niğde Milletvekili ve TBMM Tarım, Orman ve Köyişleri Komisyonu Üyesi Ömer Fethi Gürer, TBMM Genel Kurulu'nda yaptığı konuşmada, mısır hasadının bazı bölgelerde başladığını belirterek Toprak Mahsulleri Ofisi'nin henüz alım fiyatı açıklamamasının piyasada fiyatları baskıladığını savundu. Gürer, TM",
+      "content": "ANKARA — CHP Niğde Milletvekili ve TBMM Tarım, Orman ve Köyişleri Komisyonu Üyesi Ömer Fethi Gürer, Türkiye Büyük Millet Meclisi Genel Kurulu'nda yaptığı konuşmada, bazı bölgelerde mısır hasadının başladığını belirterek Toprak Mahsulleri Ofisi'nin (TMO) henüz alım fiyatı açıklamamasının piyasada fiyatların düşük oluşmasına neden olduğunu savundu. Gürer, üreticinin korunması için TMO'nun kilogram başına en az 17 lira alım fiyatı açıklaması gerektiğini söyledi.\n\nGürer, hasat dönemine girilmesine rağmen üreticilerin belirsizlik yaşadığını ifade ederek, \"Ülkemizde mısır ürünü bazı bölgelerde hasat başlamıştır. Toprak Mahsulleri Ofisi'nin şu ana kadar bir alım fiyatını açıklamaması, tüccarın fiyatı düşük tutmasına neden olmaktadır.\" dedi.\n\nTMO'nun üreticinin maliyetlerini dikkate alan bir fiyat politikası izlemesi gerektiğini belirten Gürer, \"Toprak Mahsulleri Ofisi, çiftçilerin, üreticilerin girdi maliyetleri artı makul bir kâr koyarak en az 17 liradan kilosunu açıklama yapmalıdır.\" ifadelerini kullandı.\n\nMısırın gıda, yem ve yağ sanayisi açısından stratejik bir ürün olduğuna dikkat çeken Gürer, \"Mısır danelik, yağlık, yemlik olarak üretilen bir üründür. Ama Ülkemizde bu yıl TÜİK'in 8 milyon ton civarında üretim öngörüsüne rağmen yine de açığı olan bir üründür.\" diye konuştu.\n\nÜretim açığının ithalatla karşılandığını belirten Gürer, \"3,5 milyon ton bir ithalat öngörülmektedir. 2024-2025 döneminde ise bu 5,5 milyon tona kadar çıkmıştı.\" dedi.\n\nKonuşmasının sonunda üreticinin üretimde kalabilmesi için açıklanacak alım fiyatının önemine vurgu yapan Gürer, \"Açığın oluşmaması için çiftçi refahını sağlayacak bir alım fiyatı esas alınmalıdır. Üreticiler bu anlamda fiyat beklemektedir. Düşük alım fiyatları üreticinin o üründen uzaklaşmasına neden olmaktadır.\" ifadelerini kullandı.\n\nTARIM PUSULASI HABER MERKEZİ"
+    },
     {
       "title": "Hüseyin Akay'dan şeker sektörüne yapısal çözüm çağrısı",
       "url": "https://www.tarimpusulasi.com/haber/huseyin-akaydan-seker-sektorune-yapisal-cozum-cagrisi-47288",
@@ -93,14 +101,6 @@
       "date": "2026-08-07",
       "summary": "Capital dergisinin Capital500 araştırmasına göre Ulusoy Un, 2025 yılında 66 milyar 937 milyon TL satış hasılatıyla Türkiye'nin en büyük 83. şirketi oldu. Şirket, un sektöründeki liderliğini ve Samsun'un en büyük şirketi unvanını korurken, gıda ve içecek sektöründe faaliyet gösteren firmalar arasında",
       "content": "SAMSUN — Capital dergisinin yayımladığı Capital500 araştırmasına göre Ulusoy Un, 2025 yılında elde ettiği 66 milyar 937 milyon TL satış hasılatıyla Türkiye'nin en büyük 83. şirketi oldu. Şirket, un sektöründeki liderliğini korurken Samsun'un en büyük şirketi olmayı sürdürdü ve gıda ile içecek sektöründe faaliyet gösteren firmalar arasında 5. sırada yer aldı.\n\n1969 yılında Samsun'da kurulan Ulusoy Un, bugün beş üretim tesisinde günlük 4 bin 686 ton buğday işleme kapasitesiyle faaliyet gösteriyor. Şirket, 100'ün üzerinde ülkeye gerçekleştirdiği ihracatın yanı sıra TİM1000, İSO500 ve Fortune500 listelerindeki konumunu Capital500 araştırmasıyla da pekiştirdi.\n\nToplam 902 kişiye istihdam sağlayan Ulusoy Un, 2025 yılı performansıyla hem un sektöründeki liderliğini hem de Samsun'un en büyük şirketi unvanını korudu.\n\nUlusoy Un Yönetim Kurulu Başkanı Dr. Eren Günhan Ulusoy, şirketin yeni dönem hedeflerine ilişkin değerlendirmelerde bulundu.\n\nUlusoy, \"Yeni dönem projeksiyonumuzda ihracat pazarlarımızı genişletmek, katma değerli ve markalı ürün gruplarında büyümek, dikey entegrasyon yatırımlarımızı tamamlamak ve sürdürülebilirlik alanındaki yatırımlarımızı artırmak yer alıyor.\" dedi.\n\nÜretim teknolojileri ile tedarik zincirine yönelik yatırımların süreceğini belirten Ulusoy, \"Hedefimiz, un üretimindeki lider konumumuzu korurken tüketici ürünleri, özel amaçlı unlar ve diğer katma değerli gıda kategorilerinde uluslararası ölçekte büyüyen entegre bir gıda grubu haline gelmektir.\" ifadelerini kullandı.\n\nTürkiye un sanayisinin güçlü üretim altyapısı ve ihracat kapasitesiyle dünya liderliğini sürdüreceğine inandığını belirten Ulusoy, \"Biz de Ulusoy Un olarak bu başarı hikâyesinin önemli bir parçası olmaya ve Ülkemiz için sürdürülebilir katma değer üretmeye devam edeceğiz.\" değerlendirmesinde bulundu.\n\nTARIM PUSULASI HABER MERKEZİ"
-    },
-    {
-      "title": "CHP'li Gürer: Ormanlarda keçi yetiştiriciliği teşvik edilmeli",
-      "url": "https://www.tarimpusulasi.com/haber/chpli-gurer-ormanlarda-keci-yetistiriciligi-tesvik-edilmeli-47281",
-      "source": "Tarım Pusulası",
-      "date": "2026-08-07",
-      "summary": "CHP Niğde Milletvekili ve TBMM Tarım, Orman ve Köyişleri Komisyonu Üyesi Ömer Fethi Gürer, TBMM Genel Kurulu'nda yaptığı konuşmada, orman yangınlarıyla mücadelede ormanlarda yeniden keçi ve koyun yetiştiriciliğinin teşvik edilmesi gerektiğini söyledi. Gürer, çobanların ormanlarda bulunmasının dip ör",
-      "content": "ANKARA — CHP Niğde Milletvekili ve TBMM Tarım, Orman ve Köyişleri Komisyonu Üyesi Ömer Fethi Gürer, Türkiye Büyük Millet Meclisi Genel Kurulu'nda yaptığı konuşmada, orman yangınlarıyla mücadelede ormanlarda yeniden keçi ve koyun yetiştiriciliğinin teşvik edilmesi gerektiğini söyledi. Gürer, Avrupa'da bazı ülkelerde orman yangınlarını önlemeye yönelik uygulamalar kapsamında keçi ve koyun yetiştiriciliğinin yeniden gündeme geldiğini belirterek, Ülkemiz'de de benzer bir yaklaşımın değerlendirilmesi çağrısında bulundu.\n\nGürer, geçmişte orman alanlarında keçi yetiştiriciliğinin ormanlara zarar verdiği gerekçesiyle orman dışına çıkarıldığını hatırlatarak, bugün gelinen noktada farklı bir yaklaşımın tartışıldığını ifade etti.\n\nTBMM Genel Kurulu'nda yaptığı konuşmada, \"Orman alanlarında keçi yetiştirenlerin ormanlara zarar verdiği gerekçesiyle orman dışına çıkarılmasından sonra, orman yangınlarıyla ilgili Avrupa'da bazı ülkelerde yeniden keçi yetiştirilmesi, koyun yetiştirilmesi, çobanların ormanlarda olmasının orman yangınlarını önlemede, dip otların temizlenmesinde önemli etkisi olacağı tartışılır boyuta ermiştir.\" dedi.\n\nBu gelişmelerin Ülkemiz açısından da değerlendirilmesi gerektiğini belirten Gürer, orman yangınlarıyla mücadelede yalnızca müdahale çalışmalarının değil, önleyici uygulamaların da önem taşıdığına dikkat çekti.\n\nGürer, \"Ülkemizde de ormanlarda yeniden keçi yetiştiriciliğinin teşvik edilmesi ve bu yolda çalışma yapılması ihtiyaç durumuna gelmiştir.\" ifadelerini kullandı.\n\nKonuşmasında keçi varlığındaki değişime de değinen Gürer, \"1980'lerde 19 milyon keçisi olan ülkemizde bugün keçi sayısı da 11 milyon civarındadır.\" diyerek hayvan varlığındaki gerilemeye işaret etti.\n\nOrman yangınlarının önlenmesine yönelik farklı yöntemlerin değerlendirilmesi gerektiğini vurgulayan Gürer, konuşmasını şu sözlerle tamamladı:\n\n\"Orman yangınları için bir önlem oluşturduğu görüldüğüne göre bir an önce orman içinde yeniden keçi yetiştirilmesinin ve çobanların orman içinde olmasının olası yangınları önleyici bir yöntem olduğu dikkate alınmalıdır.\"\n\nTARIM PUSULASI HABER MERKEZİ"
     },
     {
       "title": "Et kesim fiyatları 2026 | Güncel dana, inek ve kuzu kesim fiyatları ile piyasa yorumları",
