@@ -1,43 +1,59 @@
 {
-  "updatedAt": "2026-08-10T08:41:13.606Z",
+  "updatedAt": "2026-08-10T10:01:57.327Z",
   "fx": [
     {
       "code": "USD",
       "name": "Dolar",
       "buy": 47.71,
-      "sell": 47.73,
-      "change": 0.02
+      "sell": 47.71,
+      "change": 0
     },
     {
       "code": "EUR",
       "name": "Euro",
-      "buy": 55.21,
-      "sell": 55.23,
-      "change": 0.05
+      "buy": 55.18,
+      "sell": 55.2,
+      "change": 0.01
     },
     {
       "code": "GRA",
       "name": "Gram Altın",
-      "buy": 6670.91,
-      "sell": 6671.77,
-      "change": 0.17
+      "buy": 6659.4,
+      "sell": 6660.38,
+      "change": 0
     },
     {
       "code": "CEYREKALTIN",
       "name": "Çeyrek Altın",
-      "buy": 10634.94,
-      "sell": 10877.7,
-      "change": 0
+      "buy": 10625.04,
+      "sell": 10869.86,
+      "change": -0.07
     },
     {
       "code": "CUMHURIYETALTINI",
       "name": "Cumhuriyet Altını",
-      "buy": 44100,
-      "sell": 44750,
-      "change": -0.18
+      "buy": 44063,
+      "sell": 44729,
+      "change": -0.05
     }
   ],
   "news": [
+    {
+      "title": "ABD Tarım Bakanlığı: Mısır ve soya ekili alanlar geriledi",
+      "url": "https://www.tarimpusulasi.com/haber/abd-tarim-bakanligi-misir-ve-soya-ekili-alanlar-geriledi-47315",
+      "source": "Tarım Pusulası",
+      "date": "2026-08-10",
+      "summary": "ABD'de aşırı sıcak ve kurak hava nedeniyle mısır ve soya ekili alanların iyi ve mükemmel durumdaki payı geriledi. 27 Temmuz itibarıyla her iki üründe de oran yüzde 63'e düşerken, kışlık buğday hasadında ilerleme kaydedildi.",
+      "content": "ABD — ABD'de aşırı sıcak ve kurak hava, mısır ve soya ekili alanların durumunu olumsuz etkiledi. ABD Tarım Bakanlığı'na bağlı Ulusal Tarım İstatistikleri Servisi (NASS) verilerine göre, 27 Temmuz itibarıyla iyi ve mükemmel durumdaki mısır ekili alanların oranı yüzde 63'e, soyanın oranı da yüzde 63'e geriledi.\n\nMısırda iyi ve mükemmel durumdaki ekili alanların oranı bir hafta önce yüzde 67, geçen yıl aynı dönemde ise yüzde 73 olarak kaydedilmişti. Böylece oran bir haftada 4 puan, yıllık bazda ise 10 puan geriledi.\n\nSoyada ise iyi ve mükemmel durumdaki ekili alanların oranı bir hafta önce yüzde 66, geçen yıl aynı tarihte yüzde 70 seviyesindeydi. Buna göre soyanın söz konusu kategorilerdeki oranı haftalık bazda 3 puan, yıllık bazda 7 puan azaldı.\n\nKışlık buğday hasadı ilerledi\n\nABD'de kışlık buğday hasadında ise ilerleme kaydedildi. 27 Temmuz itibarıyla kışlık buğday ekili alanların yüzde 81'inde hasat tamamlandı.\n\nGeçen yıl aynı tarihte hasat oranı yüzde 79, son beş yılın ortalaması da yüzde 79 olmuştu. Böylece bu yılki hasat oranı hem geçen yılın hem de beş yıllık ortalamanın 2 puan üzerinde gerçekleşti.\n\nBuğday üretiminde 1970 sonrası en düşük tahmin\n\nABD Tarım Bakanlığı'nın tahminlerine göre, ülkede kışlık ve yazlık buğdayın toplam üretiminin bu yıl 41,81 milyon tona gerilemesi bekleniyor.\n\nKaynak metin, bu seviyenin 1970 yılından bu yana en düşük üretim olacağını belirtiyor.\n\nGeçen yıl ABD'de 54,01 milyon ton buğday üretildi. Buna göre bu yıl için öngörülen üretim, geçen yıla göre yaklaşık 12,20 milyon ton daha düşük.\n\nÜretimdeki gerilemenin hem ekim alanındaki hem de ortalama verimdeki düşüşten kaynaklandığı belirtildi.\n\nBuğday ekim alanının 15,07 milyon hektardan 12,98 milyon hektara gerilemesi beklenirken, ortalama verimin de 35,8 kg/dekardan 32,2 kg/dekara düşmesi öngörülüyor.\n\nBaşka bir ifadeyle ekim alanında 2,09 milyon hektarlık, ortalama verimde ise 3,6 kg/dekarlık düşüş söz konusu.\n\nTARIM PUSULASI HABER MERKEZİ"
+    },
+    {
+      "title": "Yumaklı: Karataş'ta sera yatırımı 5 bin kişiye iş sağlayacak",
+      "url": "https://www.tarimpusulasi.com/haber/yumakli-karatasta-sera-yatirimi-5-bin-kisiye-is-saglayacak-47314",
+      "source": "Tarım Pusulası",
+      "date": "2026-08-10",
+      "summary": "Tarım ve Orman Bakanı İbrahim Yumaklı, Adana Karataş'ta 1,2 milyar liralık yatırımla hayata geçirilen Sera Organize Tarım Bölgesi'nin yıllık 100 bin ton üretim kapasitesine ulaşacağını ve yıl sonuna kadar 650 dekar alanda üretim hedeflendiğini açıkladı.",
+      "content": "ADANA — Tarım ve Orman Bakanı İbrahim Yumaklı, Karataş'ta 1,2 milyar liralık yatırımla yapılan Sera Organize Tarım Bölgesi'nin yıllık 100 bin ton üretim kapasitesine sahip olacağını açıkladı. Projede yıl sonuna kadar 650 dekar alanda üretim yapılması hedeflenirken, yatırımın 5 bin kişiye istihdam imkânı sağlaması planlanıyor.\n\nBakan Yumaklı, Karataş'taki Sera Organize Tarım Bölgesi'ne ilişkin açıklamasında, tarıma elverişsiz alanların yüksek teknoloji kullanılarak üretim merkezlerine dönüştürüldüğünü belirtti.\n\nYumaklı, 1,2 milyar liralık yatırımla modern topraksız tarım döneminin başlatıldığını ifade ederek, projenin yıllık üretim kapasitesinin 100 bin ton olacağını bildirdi.\n\n5 bin kişiye istihdam hedefi\n\nYumaklı'nın verdiği bilgilere göre Sera Organize Tarım Bölgesi'nin yıllık üretim kapasitesi 100 bin ton olacak.\n\nProje kapsamında ayrıca 5 bin vatandaş için istihdam imkânı oluşturulması hedefleniyor.\n\nBakan Yumaklı, üretim alanının da yıl sonuna kadar 650 dekara ulaştırılmasının hedeflendiğini belirtti.\n\nTopraksız tarım uygulanacak\n\nProjede modern topraksız tarım yönteminin uygulanacağı belirtildi.\n\nYumaklı, tarıma elverişsiz alanların yüksek teknolojiyle üretim merkezlerine dönüştürüldüğünü ifade ederek yatırımın ülkenin üretim kapasitesine katkı sağlayacağını kaydetti.\n\nBakan Yumaklı açıklamasında, yatırımın hayırlı ve bereketli olması temennisinde bulundu.\n\nTARIM PUSULASI HABER MERKEZİ"
+    },
     {
       "title": "ABD'nin Rusya'dan gübre ithalatı rekor kırdı",
       "url": "https://www.tarimpusulasi.com/haber/abdnin-rusyadan-gubre-ithalati-rekor-kirdi-47313",
@@ -117,22 +133,6 @@
       "date": "2026-08-09",
       "summary": "Okinawa Bilim ve Teknoloji Enstitüsü araştırmacıları, patateste kararma ve doku çürümesine yol açan Pectobacterium atrosepticum bakterisini yok eden bakteriyofaj φTE'nin yapısını kriyo-elektron mikroskopisiyle ayrıntılı olarak inceledi. Çalışmanın, bitkilerde bakteriyel hastalıklarla mücadelede biyo",
       "content": "OKİNAWA — Okinawa Bilim ve Teknoloji Enstitüsü'nden bilim insanları, patateste önemli hastalıklara yol açan Pectobacterium atrosepticum bakterisine karşı kullanılabilecek bakteriyofaj φTE'nin yapısını ayrıntılı olarak inceledi. Araştırmada kriyo-elektron mikroskopisi kullanılarak virüsün atomik yapısı ortaya çıkarıldı.\n\nPectobacterium atrosepticum, patates bitkisinde gövdelerin kararmasına ve dokuların çürümesine neden olabiliyor. Kaynak metne göre bakteri, hastalığın ilerlemesi durumunda bitkinin ölümüne yol açarak her yıl önemli tarımsal kayıplara neden oluyor.\n\nAraştırmacılar, bu bakteriyi yok eden bir virüs olan bakteriyofaj φTE'nin özelliklerini inceleyerek bitki hastalıklarıyla biyolojik mücadele açısından kullanılabilecek bilgileri ortaya çıkarmayı amaçladı.\n\nφTE'nin yapısı ayrıntılı olarak incelendi\n\nBakteriyofaj φTE'nin, bakteriyofajların yaygın sınıflarından birine ait olduğu belirtildi. Bu virüs aynı zamanda bakteriyofajların konak bakterilerle etkileşimini inceleyen araştırmalarda model organizma olarak kullanılıyor.\n\nOkinawa Bilim ve Teknoloji Enstitüsü araştırmacıları, kriyo-elektron mikroskopisiyle φTE'nin atomik yapısını ayrıntılı biçimde inceledi.\n\nAraştırmada virüsün kendine özgü bir yapıya ve genişletilmiş bir kapside sahip olduğu belirlendi. Kaynak metne göre bu geniş kapsid, virüsün daha büyük bir genom taşımasına imkân sağlıyor.\n\nÇalışmada ayrıca virüsün kararlılığının ve işlevinin korunmasında rol oynayan yapısal unsurlar tespit edildi.\n\nVirüsün hücreye giriş mekanizmasına ilişkin bulgular\n\nAraştırmacılar, φTE'nin virionunun oluşumunda görev yapan TMP adlı ölçer proteini de belirledi.\n\nφTE'nin akraba virüslerle karşılaştırılması sonucunda, virüsün konak hücreye giriş mekanizmasının anlaşılmasına yardımcı olan bazı özellikler ortaya çıkarıldı.\n\nBu bulguların, bakteriyofajın bakteriyle etkileşiminin ve hücreye giriş sürecinin daha iyi anlaşılmasına katkı sağlayabileceği aktarıldı.\n\nBitki hastalıklarıyla biyolojik mücadele için alternatif\n\nKaynak metne göre araştırmanın sonuçları, bitkilerde bakteriyel hastalıklara neden olan çeşitli etmenlerle mücadele edebilecek biyolojik ürünlerin geliştirilmesine yardımcı olabilir.\n\nBu tür biyolojik mücadele ajanlarının, geleneksel kimyasal preparatlar ve antibiyotiklere alternatif oluşturabileceği belirtiliyor.\n\nAncak kaynak metin, φTE'nin patates üretiminde ticari bir biyolojik ürün olarak kullanılmaya başlandığını belirtmiyor. Araştırmanın mevcut aşamasında elde edilen bulgular, gelecekte bu tür biyolojik mücadele ürünlerinin geliştirilmesine yönelik bilimsel temel olarak aktarılıyor.\n\nTARIM PUSULASI HABER MERKEZİ"
-    },
-    {
-      "title": "Rusya'nın tahıl ihracatı temmuzda yüzde 37,6 düştü",
-      "url": "https://www.tarimpusulasi.com/haber/rusyanin-tahil-ihracati-temmuzda-yuzde-376-dustu-47307",
-      "source": "Tarım Pusulası",
-      "date": "2026-08-09",
-      "summary": "Rusya'nın temmuz ayında temel tahıl ürünleri ihracatı yıllık bazda yüzde 37,6 gerileyerek 2,03 milyon tona düştü. Buğday ihracatı yüzde 17,7 azalırken, mısır ve arpa sevkiyatlarında çok daha sert düşüşler yaşandı. Rusya Tahıl Birliği, gerilemede Azak-Karadeniz bölgesindeki gergin durumun etkili oldu",
-      "content": "MOSKOVA — Rusya'nın temel tahıl ürünleri ihracatı temmuz ayında yıllık bazda yüzde 37,6 azalarak 2,03 milyon tona geriledi. Rusya Tahıl Birliği tarafından açıklanan verilere göre, aynı dönemde buğday ihracatı da yüzde 17,7 düşerek 1,8 milyon ton oldu.\n\nTahıl ihracatındaki düşüşün özellikle temmuz ayının üçüncü 10 günlük döneminde hızlandığı belirtildi. Bu dönemde tahıl ihracatı geçen yılın aynı dönemine göre yüzde 61,3 azaldı.\n\nBuğday ihracatında düşüş\n\nRusya'nın temmuz ayındaki buğday ihracatı 1,8 milyon ton olarak gerçekleşti. Bu miktar, geçen yılın aynı ayındaki seviyenin yüzde 17,7 altında kaldı.\n\nKaynak metne göre Rusya'nın buğday ihracatında alıcı ülke sayısı da azaldı. Geçen yıl 27 ülkeye yapılan buğday ihracatı, temmuz ayında 23 ülkeye geriledi.\n\nİhracatçı sayısı da 36'dan 20'ye düşerken, tahıl sevkiyatlarının gerçekleştirildiği liman sayısı 38'den 21'e geriledi.\n\nMısır ve arpa ihracatında daha sert düşüş\n\nTemmuz ayında Rusya'nın mısır ihracatı yaklaşık 3,6 kat azalarak 146,3 bin tona düştü.\n\nArpa ihracatında ise düşüş daha belirgin oldu. Arpa sevkiyatları 5,6 kat gerileyerek 101,4 bin ton seviyesinde kaldı.\n\nBöylece buğdaydaki yüzde 17,7'lik düşüşe karşılık mısır ve arpa ihracatında çok daha yüksek oranlı gerilemeler yaşandı.\n\nDüşüşte Azak-Karadeniz bölgesindeki durum etkili oldu\n\nRusya Tahıl Birliği'ne göre ihracattaki gerilemenin temel nedenlerinden biri Azak-Karadeniz bölgesindeki gergin durum oldu.\n\nKaynak metinde, özellikle temmuz ayının son 10 günlük döneminde ihracattaki düşüşün belirgin şekilde hızlandığı ve yıllık bazda yüzde 61,3 seviyesine ulaştığı aktarılıyor.\n\nMısır ve arpa düşerken Afrika pazarı büyüyor\n\nRusya'nın buğday ihracatında en büyük alıcı Mısır olmaya devam etti. Ancak Mısır'a yapılan sevkiyat yüzde 31,7 azalarak 344 bin tona geriledi.\n\nBuna karşılık Afrika pazarında bazı ülkelere yapılan ihracatın arttığı belirtildi. Kenya, Sudan, Nijerya ve Libya'ya yönelik ihracat yükselirken, Tanzanya'ya sevkiyatın da bir yıl aradan sonra yeniden başladığı aktarıldı.\n\nRus buğdayı fiyat avantajını koruyor\n\nKaynak metinde, ihracattaki düşüşe rağmen Rus buğdayının uluslararası piyasalardaki fiyat rekabetçiliğini koruduğuna dikkat çekiliyor.\n\nRus buğdayının FOB Novorossiysk fiyatının ton başına yaklaşık 232 dolar olduğu ve Avrupa buğdayından yaklaşık 35 dolar daha ucuz bulunduğu belirtiliyor.\n\nAncak kaynak metne göre mevcut koşullarda fiyat avantajı ihracattaki sorunları telafi etmeye yetmiyor. Lojistik ve jeopolitik risklerin tahıl ihracatında daha belirleyici hale geldiği ifade ediliyor.\n\nTARIM PUSULASI HABER MERKEZİ"
-    },
-    {
-      "title": "Rusya’da tahıl fiyatları üç haftada yüzde 14,5 düştü",
-      "url": "https://www.tarimpusulasi.com/haber/rusyada-tahil-fiyatlari-uc-haftada-yuzde-145-dustu-47306",
-      "source": "Tarım Pusulası",
-      "date": "2026-08-09",
-      "summary": "Rusya iç piyasasında buğday ve arpa fiyatları ihracat sorunlarının etkisiyle son üç haftada yüzde 8 ile yüzde 14,5 arasında geriledi. Bazı üreticiler ton başına 8-9 bin rubleye satış yapmak zorunda kalırken, kârlılık eşiğinin yaklaşık 10 bin ruble olduğu belirtildi.",
-      "content": "MOSKOVA — Rusya’da buğday ve arpa fiyatları, ihracatta yaşanan sorunların iç piyasaya yansımasıyla geriliyor. Kaynak metne göre buğday ve arpa fiyatları yalnızca üç haftada yüzde 8 ile yüzde 14,5 arasında düştü. Yıllık bazdaki düşüş ise yüzde 17,8 ile yüzde 20,1 aralığına ulaştı.\n\nRusya iç piyasasında üçüncü sınıf buğdayın ortalama fiyatı ton başına 13,5 bin ruble, dördüncü sınıf buğdayın fiyatı ise 12,2 bin ruble seviyesinde bulunuyor. Ancak bazı işletmelerin buğdayı yalnızca 8-9 bin ruble seviyesinden satmak zorunda kaldığı belirtiliyor. Kaynak metinde, üretimde kârlılık eşiğinin yaklaşık 10 bin ruble olduğu ifade ediliyor.\n\nFiyat düşüşünün nedeni satış sorunları\n\nKaynak metne göre Rusya’daki fiyat gerilemesinin temel nedeni ürün yetersizliği değil, tahılın pazarlanmasında yaşanan sorunlar.\n\nYeni hasat edilen tahılın piyasaya girmeye başlamasına rağmen depolarda önceki dönemden kalan ürünlerin bulunduğu belirtiliyor. Buna ek olarak ihracat lojistiğinin ciddi kısıtlamalarla çalıştığı, alternatif güzergâhlardan yapılan taşımacılığın maliyetinin ise yüzde 30-50 arttığı aktarılıyor.\n\nRusya'nın önemli ihracat pazarlarından Türkiye ve Mısır'dan gelen talebin azaldığı, iç piyasadaki işleyicilerin de alımlarını artırmak konusunda acele etmediği ifade ediliyor.\n\nTahıl ihracatı da geriledi\n\nKaynak metinde, Rusya'nın temmuz ayındaki tahıl ihracatının yaklaşık yüzde 38 gerilediğine ilişkin daha önceki değerlendirmeye de yer veriliyor.\n\nTemmuz ayında Rusya'nın buğday sevkiyatlarının 1,6-1,8 milyon tona, arpa sevkiyatlarının ise 101 bin tona gerilediği belirtiliyor.\n\nBöylece Rusya iç piyasasında ürün arzının devam etmesine karşın ihracat kanallarındaki sorunların üreticilerin satış imkânlarını daralttığı aktarılıyor.\n\nDünya piyasası için farklı bir tablo ortaya çıkabilir\n\nKaynak metin, Rusya iç piyasasındaki fiyat düşüşü ile dünya tahıl piyasasındaki olası gelişmeler arasında dikkat çekici bir karşıtlık bulunduğuna işaret ediyor.\n\nİç piyasada arz fazlası nedeniyle tahıl fiyatları gerilerken, ihracat koridorlarındaki blokajın sürmesi durumunda dünya piyasasında arz sıkıntısı yaşanabileceği belirtiliyor.\n\nTahıl İhracatçıları ve Üreticileri Birliği'nin değerlendirmesine göre, ihracat koridorlarındaki blokajın uzaması halinde Rusya'nın 30-35 milyon ton buğdayı dış pazarlara ulaştıramama ihtimali bulunuyor. Kaynak metin, bu miktarın dünya buğday ticaretinin yaklaşık yüzde 15'ine karşılık gelebileceğini aktarıyor.\n\nÜreticinin temel sorunu ürünün satışı\n\nRusya'daki üreticiler açısından mevcut tablonun hasat döneminde kârlılık sorununu daha da ağırlaştırabileceği belirtiliyor.\n\nKaynak metne göre üreticiler bir yandan düşük alım fiyatlarıyla karşı karşıya kalırken diğer yandan yüksek kredi maliyetleri ve artan lojistik giderleriyle mücadele ediyor. Bu nedenle sorun yalnızca ürünün üretilmesi değil, hasat edilen tahılın hangi koşullarda ve hangi fiyattan satılabileceği noktasında yoğunlaşıyor.\n\nKaynak metnin ortaya koyduğu tabloya göre Rusya'da buğday ve arpa üretiminde ürün bulunmasına rağmen ihracat kanallarındaki aksaklıklar, iç piyasada fiyatların gerilemesine ve üreticilerin kârlılığının baskı altında kalmasına yol açıyor.\n\nTARIM PUSULASI HABER MERKEZİ"
     }
   ],
   "commoditiesByBorsa": {
@@ -328,5 +328,17 @@
   "defaultBorsa": "5ED10",
   "defaultCity": "CANAKKALE",
   "note": "Fiyatlar TOBB ticaret borsasından (borsa seçilebilir). Kanola manuel (Trakya 2025).",
-  "inputsNote": "Mazot: akaryakıt bayi fiyatı, günlük (şehir seçilebilir). Gübre: manuel (yaklaşık)."
+  "inputsNote": "Mazot: akaryakıt bayi fiyatı, günlük (şehir seçilebilir). Gübre: manuel (yaklaşık).",
+  "errors": [
+    "mazot ANKARA: fetch failed",
+    "mazot ISTANBUL: fetch failed",
+    "mazot IZMIR: fetch failed",
+    "mazot KONYA: fetch failed",
+    "mazot ADANA: fetch failed",
+    "mazot BURSA: fetch failed",
+    "mazot ANTALYA: fetch failed",
+    "mazot SAMSUN: fetch failed",
+    "mazot TEKIRDAG: fetch failed",
+    "mazot CANAKKALE: fetch failed"
+  ]
 }
