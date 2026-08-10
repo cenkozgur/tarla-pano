@@ -1,43 +1,59 @@
 {
-  "updatedAt": "2026-08-10T11:14:48.670Z",
+  "updatedAt": "2026-08-10T11:59:13.682Z",
   "fx": [
     {
       "code": "USD",
       "name": "Dolar",
       "buy": 47.71,
-      "sell": 47.71,
+      "sell": 47.72,
       "change": 0
     },
     {
       "code": "EUR",
       "name": "Euro",
-      "buy": 55.18,
-      "sell": 55.2,
-      "change": 0.01
+      "buy": 55.14,
+      "sell": 55.16,
+      "change": -0.07
     },
     {
       "code": "GRA",
       "name": "Gram Altın",
-      "buy": 6659.4,
-      "sell": 6660.38,
-      "change": 0
+      "buy": 6648.81,
+      "sell": 6649.67,
+      "change": -0.16
     },
     {
       "code": "CEYREKALTIN",
       "name": "Çeyrek Altın",
-      "buy": 10625.04,
-      "sell": 10869.86,
-      "change": -0.07
+      "buy": 10606.48,
+      "sell": 10850.89,
+      "change": -0.25
     },
     {
       "code": "CUMHURIYETALTINI",
       "name": "Cumhuriyet Altını",
-      "buy": 44063,
-      "sell": 44729,
-      "change": -0.05
+      "buy": 43929,
+      "sell": 44593,
+      "change": -0.35
     }
   ],
   "news": [
+    {
+      "title": "Türkiye tarımda dünya 6'ncısı! 92 milyar dolarlık üretim değeri dikkat çekti",
+      "url": "https://www.tarimdanhaber.com/turkiye-tarimda-dunya-6ncisi-92-milyar-dolarlik-uretim-degeri-dikkat-cekti",
+      "source": "Tarımdan Haber",
+      "date": "2026-08-10",
+      "summary": "Tarım politikaları uzmanı Ergin Kahveci'nin FAOSTAT verileri üzerinden yaptığı analiz, Türkiye'nin tarımsal üretim değerinde dünyadaki yerini ortaya koydu. Kahveci'nin hesaplamasına göre Türkiye'nin 2024 yılında 92,35 milyar dolara ulaşan brüt tarımsal üretim değeri, ülkeyi dünya sıralamasında 6'ncı",
+      "content": "Haber Merkezi / Türkiye'nin tarımsal üretim gücüne ilişkin dikkat çeken veriler ortaya çıktı. Tarım politikaları uzmanı Ergin Kahveci, FAOSTAT'ın brüt tarımsal üretim değeri verilerini inceleyerek Türkiye'nin 2003-2024 dönemindeki değişimini ve dünya sıralamasındaki yerini analiz etti.\n\nKahveci'nin “Tarımsal üretim değerinde kaçıncıyız?” başlıklı makalesinde ortaya koyduğu verilere göre, Türkiye'nin cari fiyatlarla brüt tarımsal üretim değeri 2003 yılında 40 milyar 732 milyon dolar seviyesindeyken, 2024 yılında 92 milyar 350 milyon dolara yükseldi.\n\nTürkiye 9'unculuktan 6'ncılığa çıktı\n\nKahveci'nin FAOSTAT verileri üzerinden yaptığı dünya sıralamasında da dikkat çekici bir değişim yaşandı.\n\nTürkiye, cari dolar cinsinden brüt tarımsal üretim değerinde 2003 yılında dünyada 9'uncu sırada bulunurken, 2024 yılında 6'ncı sıraya yükseldi.\n\nSabit fiyatlarla yapılan hesaplamada da Türkiye'nin dünya sıralamasındaki konumu güçlendi.\n\nKahveci'nin çalışmasına göre 2014-2016 sabit dolar fiyatlarıyla Türkiye'nin brüt tarımsal üretim değeri 2003 yılında 54,67 milyar dolar seviyesindeyken, 2024 yılında 98,37 milyar dolara çıktı.\n\nTürkiye bu hesaplamada 2003'te dünya 10'uncusuyken, 2024'te yine 6'ncı sırada yer aldı.\n\n21 yılda 51,6 milyar dolarlık artış\n\nCari dolar üzerinden bakıldığında Türkiye'nin tarımsal üretim değeri 21 yılda yaklaşık 51,6 milyar dolar arttı.\n\nAncak Kahveci'nin analizinde özellikle dikkat çektiği noktalardan biri, cari değerlerdeki artış ile reel üretim değerindeki artışın birbirinden ayrılması gerektiği oldu.\n\nÇünkü fiyat ve kur hareketleri uzun dönemli karşılaştırmalarda tarımsal üretimin gerçek değişiminin olduğundan çok daha yüksek görünmesine neden olabiliyor.\n\nTarımsal hasıla ile üretim değeri aynı şey değil\n\nKahveci'nin analizinde üzerinde durduğu önemli konulardan biri de kamuoyunda sık kullanılan “tarımsal hasıla” ile “brüt tarımsal üretim değeri” arasındaki fark oldu.\n\nTürkiye için açıklanan 83,2 milyar dolarlık tarımsal hasıla ile FAOSTAT verilerindeki 92,35 milyar dolarlık brüt üretim değeri aynı göstergeyi ifade etmiyor.\n\nKahveci, brüt üretim değerinin birincil bitkisel ve hayvansal ürünlerin çiftlik kapısındaki ekonomik değerini ortaya koyduğuna dikkat çekiyor.\n\nOrtaya çıkan tablo ise Türkiye'nin tarımsal üretim değerinde dünyadaki önemli ülkeler arasında bulunduğunu ve son 21 yılda dünya sıralamasındaki yerini yukarı taşıdığını gösteriyor."
+    },
+    {
+      "title": "Rusya'nın Türkiye'ye tahıl ihracatı 7 ayda yüzde 67 arttı",
+      "url": "https://www.tarimpusulasi.com/haber/rusyanin-turkiyeye-tahil-ihracati-7-ayda-yuzde-67-artti-47318",
+      "source": "Tarım Pusulası",
+      "date": "2026-08-10",
+      "summary": "Rusya'nın Türkiye'ye tahıl ve işlenmiş tahıl ürünleri ihracatı yılın ilk 7 ayında geçen yılın aynı dönemine göre yüzde 67 artarak 6,7 milyon tona çıktı. Bu dönemde Rusya'nın Türkiye'ye buğday ihracatı 2 katına çıkarak 3,2 milyon tona ulaştı.",
+      "content": "ANKARA — Rusya'nın Türkiye'ye tahıl ve tahıl ürünleri ihracatı 2026'nın ilk 7 ayında geçen yılın aynı dönemine göre yüzde 67 artarak 6,7 milyon tona yükseldi. Aynı dönemde Rusya'nın Türkiye'ye tahıl ihracatı 2 katına çıkarak 4,5 milyon tona ulaştı.\n\nRusya'nın Türkiye'ye yaptığı buğday sevkiyatı 2 kat artarak 3,2 milyon tona yükseldi. Mısır ihracatı 3 kat artışla 940 bin tona, arpa ihracatı ise 5 kat artışla 330 bin tona çıktı.\n\nBakliyat ürünlerinde de artış kaydedildi. Rusya'nın Türkiye'ye bakliyat ihracatı yüzde 29 artarak 387 bin tona yükselirken, bezelye sevkiyatı yüzde 36 artışla 204 bin tona, mercimek sevkiyatı ise 3 kat artışla 86 bin tona ulaştı.\n\nBuğday kepeği ihracatı geriledi\n\nTahıl ürünleri içindeki bazı kalemlerde ise farklı bir seyir görüldü. Rusya'nın Türkiye'ye buğday kepeği sevkiyatı 817 bin ton oldu. Bu miktar 2025 yılının aynı dönemine göre yüzde 13 daha düşük gerçekleşti.\n\nBuna karşın 817 bin tonluk sevkiyat, önceki yılların aynı dönemlerinde kaydedilen miktarların üzerinde kaldı.\n\nRusya'nın Türkiye'ye ayçiçeği küspesi ihracatı yüzde 10 artarak 487 bin tona, mısır kepeği sevkiyatı ise yüzde 43 artarak 110 bin tona çıktı.\n\nTürkiye'nin tahıl ithalatında kuraklık etkisi\n\nRusya Tarım Bakanlığına bağlı FGİB ÇOK APK Direktörü Ruslan Hasanov, Türkiye'de geçen sezonun son yılların en kurak dönemlerinden biri olduğunu belirtti.\n\nTürkiye'de buğday üretiminin 16,8 milyon tona kadar gerilediğini belirten Hasanov, ithalat piyasasının açılmasının ardından Rus tahılının fiyat avantajı ve Karadeniz üzerinden sağlanan kısa lojistik mesafe nedeniyle Türkiye pazarında öne çıktığını ifade etti.\n\nTürkiye'nin ithalat kısıtlamalarını Mart 2026'da kaldırmasının ardından Rusya'dan yapılan tahıl sevkiyatlarında artış görüldü.\n\nHasanov, mevcut sezonda Rus buğdayı ithalatındaki artışın nedenlerinden birinin ihracatçıların, Türkiye'nin 2026 yılında rekor düzeyde bir üretim gerçekleştireceğine ilişkin beklentiler doğrultusunda iç piyasayı korumaya yönelik yeni tedbirler yürürlüğe girmeden önce mevcut sözleşmeler kapsamında mümkün olduğunca yüksek miktarda ürün göndermek istemesi olabileceğini belirtti.\n\nHasanov ayrıca Türkiye'nin tahıl işleme ve un üretiminde dünyanın önemli merkezlerinden biri olduğunu ifade ederek, yılın ilk yarısındaki talep artışının bu durumla da bağlantılı olabileceğini söyledi.\n\nTürkiye'nin Mart 2025'ten bu yana uyguladığı unluk buğday ihracatı yasağını yakın dönemde kaldırması da tahıl ticaretindeki hareketliliğin diğer unsurlarından biri olarak değerlendirildi.\n\nTARIM PUSULASI HABER MERKEZİ"
+    },
     {
       "title": "FAO: Dünya pestisit kullanımı 2023'te 3,73 milyon ton oldu",
       "url": "https://www.tarimpusulasi.com/haber/fao-dunya-pestisit-kullanimi-2023te-373-milyon-ton-oldu-47317",
@@ -103,14 +119,6 @@
       "content": "ANKARA — Science Advances dergisinde yayımlanan araştırmaya göre, doğal olarak toprakta bulunan Pseudomonas cinsi bakteriler, tarımsal bitkilerin tuzluluğa karşı dayanıklılığını artırabilir. Doğu Anglia Üniversitesi ile Çinli araştırmacıların yürüttüğü çalışmada, bu bakterilerin bitki köklerinde lignin üretimini yüzde 30'dan fazla artırdığı ve kök yapısını güçlendirdiği belirlendi.\n\nAraştırmaya göre bakterilerin etkisiyle soya, mısır, domates ve kanola bitkileri tuzluluk koşullarına karşı daha dayanıklı hale geliyor. Sera ve tarla koşullarında yapılan denemelerde, söz konusu bakterilerin bulunduğu bitkilerin tuzluluk stresini daha iyi tolere ettiği ve daha yüksek verim verdiği bildirildi.\n\nBakteriler sodyum girişini engellemek yerine kökleri güçlendiriyor\n\nAraştırmada, bakterilerin bitkiye sodyum girişini engellediği yönündeki önceki düşünceden farklı bir mekanizma ortaya konuldu.\n\nBuna göre Pseudomonas bakterileri, bitki köklerinde lignin oluşumunu teşvik ediyor. Lignin üretimindeki artış, köklerdeki hücre duvarlarının güçlenmesine yardımcı olarak bitkinin tuzluluk koşullarına dayanıklılığını artırıyor.\n\nAraştırmacılar, tuzluluk koşullarında bitkilerin yararlı toprak bakterilerini kendilerine çekebildiğini belirledi.\n\nDoğu Anglia Üniversitesi Biyolojik Bilimler Fakültesinden Jonathan Todd, araştırmaya ilişkin değerlendirmesinde, tuzluluk koşullarında bitkilerin yararlı toprak bakterilerini çekebildiğinin görüldüğünü ifade etti.\n\nSera ve tarla denemelerinde verim artışı görüldü\n\nAraştırmada elde edilen sonuçlar yalnızca laboratuvar ortamıyla sınırlı kalmadı. Sera ve tarla koşullarında gerçekleştirilen denemelerde, Pseudomonas bakterilerinin bulunduğu bitkilerin tuzluluk stresini daha iyi tolere ettiği ve daha yüksek verim sağladığı bildirildi.\n\nÇalışmanın yazarlarına göre bu sonuçlar, tuzluluk sorunu bulunan tarım alanlarında verimliliğin korunması açısından yeni bir biyolojik yaklaşımın geliştirilmesine katkı sağlayabilir.\n\nTuzluluk sorunu için biyolojik ürün seçeneği\n\nAraştırmacılar, elde edilen bulguların tuzlu topraklarda verimliliği artırmak için düşük maliyetli ve çevre dostu bir yöntemin geliştirilmesine temel oluşturabileceğini değerlendiriyor.\n\nKaynak metne göre sulanan tarım alanlarının genişlemesi, kuraklıkların artması ve toprakların bozulması nedeniyle tuzluluk sorunu dünya genelinde giderek daha önemli bir problem haline geliyor.\n\nBilim insanları, doğal Pseudomonas suşlarının gelecekte tohum veya toprak uygulamalarında kullanılabilecek biyolojik preparatların geliştirilmesinde değerlendirilebileceğini belirtiyor.\n\nTeknolojinin tarımsal kullanıma sunulması için ise çalışmalar henüz tamamlanmış değil. Kaynak metne göre araştırmacılar ilave tarla denemelerini ve teknolojinin pazara sunulmasına yönelik çalışmaları sürdürüyor.\n\nTARIM PUSULASI HABER MERKEZİ"
     },
     {
-      "title": "TÜSEDAD: 2026 çiğ süt desteği ve ödeme takvimi bekleniyor",
-      "url": "https://www.tarimpusulasi.com/haber/tusedad-2026-cig-sut-destegi-ve-odeme-takvimi-bekleniyor-47310",
-      "source": "Tarım Pusulası",
-      "date": "2026-08-10",
-      "summary": "TÜSEDAD, 2026 üretim yılı çiğ süt destekleme tutarının ve ödeme takviminin henüz açıklanmadığını belirterek, üreticilerin destek miktarını ve ilk dönem ödemelerinin ne zaman yapılacağını beklediğini bildirdi.",
-      "content": "ANKARA — Tüm Süt, Et ve Damızlık Sığır Yetiştiricileri Derneği (TÜSEDAD), 2026 üretim yılı çiğ süt destekleme tutarının ve ödeme takviminin henüz açıklanmadığını belirterek, üreticilerin destek miktarı ve ödemelerin ne zaman yapılacağı konusunda açıklama beklediğini bildirdi. Dernek, özellikle 2026 yılının ilk destekleme dönemine ilişkin tutarın ve ödeme takviminin henüz ilan edilmemesinin üreticilerin finansal planlamasını zorlaştırdığını ifade etti.\n\nTÜSEDAD'ın 10 Ağustos 2026 tarihli basın bülteninde, hayvancılıkta 1 Ocak 2024 itibarıyla planlı üretim modeline geçildiği ve bu kapsamda 2024-2026 yıllarını kapsayan yeni hayvancılık destekleme modelinin yürürlüğe konulduğu hatırlatıldı. Modelde desteklerin Temel Destek ve Ürün Geliştirme Desteği olmak üzere iki ana başlık altında düzenlendiği belirtildi.\n\nDernek, üç yıllık destekleme modelinin üreticilerin destek politikalarını önceden görebilmesi, yatırım ve üretim planlarını oluşturabilmesi ve işletmelerin finansal planlama yapabilmesi açısından olumlu karşılandığını kaydetti.\n\n2025'te litre başına 20 kuruş uygulandı\n\nTÜSEDAD açıklamasında, 26 Temmuz 2024 tarihli Cumhurbaşkanı Kararı ile hayvancılık desteklerinin temel çerçevesinin belirlendiği, çiğ süt desteğinin tutarının ise Tarım ve Orman Bakanlığı tarafından belirlenmesinin öngörüldüğü aktarıldı.\n\nDerneğin verdiği bilgilere göre 2025 üretim yılında çiğ süt temel desteği litre başına 20 kuruş olarak uygulandı. Belirlenen katsayılar doğrultusunda ilave destek ödemeleri de gerçekleştirildi. 2025 yılına ilişkin dört destekleme döneminin tamamının üreticilere ödendiği ve sürecin tamamlandığı belirtildi.\n\nBuna karşılık, destekleme modelinin son yılı olan 2026 üretim yılına ilişkin çiğ süt destekleme tutarı henüz açıklanmadı. TÜSEDAD, ağustos ayına gelinmesine rağmen üreticilerin 2026 yılında ürettikleri çiğ süt için litre başına ne kadar destek alacaklarını bilmediğine dikkat çekti.\n\nİlk dönemin desteği ve ödeme takvimi açıklanmadı\n\nMevcut uygulamada çiğ süt desteklerinin üçer aylık dönemler halinde ödendiğini belirten TÜSEDAD, 2026 yılının ilk destekleme dönemini oluşturan Ocak-Şubat-Mart aylarına ilişkin litre başına destek tutarının açıklanmadığını ve ödeme takviminin ilan edilmediğini bildirdi.\n\nDerneğe göre, ikinci destekleme dönemine ait işlemler devam ederken ilk dönemin destek tutarı ile ödeme takviminin açıklanmamış olması, üreticilerin beklentisinin sürmesine neden oluyor.\n\nDestek tutarı üreticinin finansal planlaması açısından önemli\n\nTÜSEDAD, çiğ süt desteğinin üreticilerin yem, enerji, işçilik ve diğer üretim giderlerinin karşılanmasına katkı sağlayan önemli bir destekleme unsuru olduğunu belirtti.\n\nDernek, destek tutarının ve ödeme takviminin üretim dönemi içerisinde açıklanmasının işletmelerin nakit akışını yönetmesi, finansman planlaması yapması ve üretim faaliyetlerini öngörülebilir biçimde sürdürmesi açısından önem taşıdığını ifade etti.\n\nTÜSEDAD'dan destek tutarı ve takvim çağrısı\n\nTÜSEDAD, 2026 yılı çiğ süt destekleme tutarı ile ödeme takviminin halen açıklanmamış olmasının, planlı üretim modelinin temel hedeflerinden biri olan öngörülebilirlik ilkesini zayıflattığını savundu.\n\nDernek, 2026 yılı çiğ süt destekleme tutarının ve ödeme takviminin bir an önce ilan edilmesini ve ödemelerin belirlenen takvim doğrultusunda gerçekleştirilmesini istedi. Açıklamada bunun üretim planlamasının sürekliliği ve sektörün sürdürülebilirliği açısından önem taşıdığı belirtildi.\n\nAçıklama, TÜSEDAD Yönetim Kurulu Başkanı Müslüm Doğru imzasıyla yayımlandı.\n\nTARIM PUSULASI HABER MERKEZİ"
-    },
-    {
       "title": "Tarım fiyatlarının görünmeyen yüzü! ABD-Çin rekabeti soya ve mısır piyasasını nasıl değiştiriyor?",
       "url": "https://www.tarimdanhaber.com/tarim-fiyatlarinin-gorunmeyen-yuzu-abd-cin-rekabeti-soya-ve-misir-piyasasini-nasil-degistiriyor",
       "source": "Tarımdan Haber",
@@ -125,14 +133,6 @@
       "date": "2026-08-09",
       "summary": "Dünya buğday piyasasında fiyatlardaki gerilemenin ardından büyük alıcılar yeniden sahneye çıktı. Cezayir'in 720 bin tonluk alımı ve Güney Kore'nin ABD buğdayına yönelmesi talebi canlandırırken, Karadeniz'den gelen güçlü ve ucuz arz fiyatları baskılamaya devam ediyor. Avrupa Birliği'nde üretim tahmin",
       "content": "Haber Merkezi / Dünya buğday piyasasında son dönemde yaşanan fiyat düşüşlerinin ardından talep tarafında dikkat çekici bir hareketlilik başladı. Büyük ithalatçıların yeniden alıma yönelmesi, fiyatların dip seviyelere yaklaşıp yaklaşmadığı tartışmasını da beraberinde getirdi.\n\nPiyasanın bir tarafında cazip fiyatlardan yararlanmak isteyen ithalatçılar bulunurken, diğer tarafında Karadeniz bölgesinden dünya pazarlarına çıkan güçlü arz fiyatların yükselmesini engelliyor.\n\nCEZAYİR'DEN 720 BİN TONLUK DEV BUĞDAY ALIMI\n\nTalep tarafındaki en dikkat çekici gelişmelerden biri Cezayir'den geldi.\n\nCezayir'in uluslararası ihalede yaklaşık 720 bin ton buğdayı 289-290 dolar/ton CF seviyesinden satın aldığı bildirildi. Büyük hacimli alım, fiyatların gerilemesinin ithalatçı ülkeleri yeniden piyasaya çektiğine yönelik önemli bir işaret olarak değerlendiriliyor.\n\nGüney Kore'nin de 36 bin 800 ton ABD menşeli buğday satın alması talep tarafındaki hareketliliği destekledi.\n\nSon alımlar, uluslararası buğday piyasasında düşük fiyatlardan yararlanmak isteyen ülkelerin yeniden pozisyon almaya başladığını gösteriyor.\n\nKARADENİZ'DEN GELEN UCUZ BUĞDAY FİYATLARI BASKILIYOR\n\nAncak alımların yeniden hızlanması henüz fiyatların yönünü yukarı çevirmeye yetmiş değil.\n\nRusya başta olmak üzere Karadeniz havzasından dünya piyasalarına çıkan rekabetçi fiyatlı buğday, küresel fiyatlar üzerinde önemli bir baskı oluşturmaya devam ediyor.\n\nBu nedenle piyasada fiyatların yükseleceği beklentisini taşıyanların eli henüz güçlenmiş değil. Yeni ihaleler talebi desteklese de Karadeniz arzının devam etmesi halinde kısa vadede fiyatların baskı altında kalabileceği değerlendiriliyor.\n\nKARADENİZ'DEKİ SAVAŞ BUĞDAY TİCARETİNİ YENİDEN GÜNDEME GETİRDİ\n\nArz tarafında ise yalnızca üretim miktarı değil, buğdayın dünya pazarlarına güvenli şekilde ulaşıp ulaşamayacağı da giderek daha önemli hale geliyor.\n\nRusya-Ukrayna savaşının Karadeniz'deki ticari gemi trafiğine yönelik oluşturduğu risk, bölgeden gerçekleştirilen tahıl ihracatının güvenliğine ilişkin endişeleri yeniden artırdı.\n\nKaradeniz, Rusya ve Ukrayna'nın dünya tahıl ticaretindeki ağırlığı nedeniyle küresel buğday fiyatları açısından kritik öneme sahip. Bölgedeki sevkiyatların aksaması halinde bugün fiyatları aşağı çeken güçlü arz, kısa sürede farklı bir fiyatlama unsuruna dönüşebilir.\n\nAVRUPA'DA BUĞDAY ÜRETİM TAHMİNİ DÜŞÜRÜLDÜ\n\nPiyasayı destekleyebilecek bir başka gelişme ise Avrupa'dan geldi.\n\nExpana, Avrupa Birliği'nin buğday hasadına ilişkin tahminini 1,5 milyon ton aşağı yönlü revize ederek 126,8 milyon tona düşürdü.\n\nÜretim beklentisindeki aşağı yönlü revizyon, kısa vadede güçlü Karadeniz arzının gölgesinde kalsa da önümüzdeki dönemde küresel buğday dengeleri açısından yakından takip edilecek.\n\nBUĞDAY FİYATLARINDA YÖNÜ NE BELİRLEYECEK?\n\nDünya buğday piyasasında böylece iki farklı güç karşı karşıya gelmiş durumda.\n\nBir tarafta Cezayir ve Güney Kore gibi ülkelerden gelen yeni talep, Avrupa'daki üretim beklentisinin aşağı çekilmesi ve Karadeniz'deki jeopolitik riskler bulunuyor.\n\nDiğer tarafta ise Karadeniz'den dünya pazarlarına çıkan güçlü ve rekabetçi arz fiyatların yükselmesini sınırlıyor.\n\nBu nedenle önümüzdeki dönemde gerçekleştirilecek büyük uluslararası buğday ihaleleri ile Karadeniz'deki gelişmeler fiyatların yönü açısından belirleyici olacak.\n\nPiyasanın temel sorusu artık şu: Büyük alıcıların geri dönüşü fiyatlarda dipten dönüşün işareti mi, yoksa Karadeniz'in güçlü arzı buğday fiyatlarını baskılamaya devam mı edecek?"
-    },
-    {
-      "title": "Avustralya'da kuş gribi alarmı! Vaka sayısı bir haftada 62'den 220'ye çıktı",
-      "url": "https://www.tarimdanhaber.com/avustralyada-kus-gribi-alarmi-vaka-sayisi-bir-haftada-62den-220ye-cikti",
-      "source": "Tarımdan Haber",
-      "date": "2026-08-09",
-      "summary": "Avustralya'da yüksek patojeniteli H5 kuş gribinde vaka sayısı hızla yükseliyor. 7 Ağustos'ta 175 olan doğrulanmış veya pozitif kabul edilen vaka sayısı 9 Ağustos itibarıyla 220'ye çıktı. Vakalar yabani kuşlarda görülürken, ülkedeki kümes hayvanlarında ve tarımsal üretim sisteminde henüz H5 tespit ed",
-      "content": "Haber Merkezi / Avustralya'da yüksek patojeniteli H5 kuş gribinin yabani kuşlar arasındaki yayılımı yakından takip ediliyor. Ülkenin farklı bölgelerinden peş peşe yeni pozitif sonuçlar gelirken, vaka sayısındaki hızlı artış dikkat çekiyor.\n\nAvustralya Tarım, Balıkçılık ve Orman Bakanlığının verilerine göre 7 Ağustos'ta 175 olan doğrulanmış veya pozitif kabul edilen H5 vakası, 8 Ağustos'taki yeni tespitlerle 215'e çıktı. 9 Ağustos saat 10.00 itibarıyla ise ülkede yabani kuşlarda doğrulanmış vaka sayısı 220'ye ulaştı.\n\nVAKA SAYISI BİR HAFTADA 62'DEN 220'YE ÇIKTI\n\nSalgının yayılma hızı rakamlara da yansıdı. Avustralya'da 2 Ağustos'ta 62 olarak bildirilen toplam vaka sayısı, 4 Ağustos'ta 102'ye, 6 Ağustos'ta 123'e ve 7 Ağustos'ta 175'e yükseldi. 9 Ağustos'ta ise sayı 220 olarak açıklandı.\n\nSon resmi verilere göre vakaların 152'si Güney Avustralya, 53'ü Victoria, 10'u Batı Avustralya, 4'ü Yeni Güney Galler ve 1'i Queensland'de bulunuyor.\n\nYABANİ DENİZ KUŞLARINDA YOĞUNLAŞTI\n\nVakalar şimdiye kadar özellikle yabani kuşlarda tespit edildi. Büyük tepeli sumrular (greater crested tern) salgında öne çıkan türlerden biri olurken, gümüş martı ve farklı deniz kuşlarında da pozitif sonuçlar bildirildi.\n\nÖzellikle Güney Avustralya ve Victoria'dan son günlerde art arda yeni vakalar gelmesi, yetkililerin yabani kuş popülasyonlarındaki hastalık takibini yoğunlaştırmasına neden oldu.\n\nEN KRİTİK NOKTA: KÜMES HAYVANLARINDA HENÜZ VAKA YOK\n\nHastalığın yabani kuşlarda hızla yayılmasına karşın Avustralya kanatlı sektörü açısından kritik eşik henüz aşılmış değil.\n\nAvustralya Tarım Bakanlığı, kümes hayvanlarında veya ülkenin daha geniş tarımsal üretim sisteminde H5 kuş gribi tespit edilmediğini bildiriyor. İnsan sağlığına yönelik mevcut risk de düşük olarak değerlendiriliyor.\n\nBununla birlikte yabani kuşlardan ticari kanatlı işletmelerine olası bulaşma riski nedeniyle biyogüvenlik önlemleri önem kazanıyor. Avustralyalı yetkililer, özellikle yabani kuşların kümes hayvanlarının yem ve su kaynaklarıyla temasının engellenmesine dikkat çekiyor.\n\nKANATLI SEKTÖRÜ İÇİN BİYOGÜVENLİK UYARISI\n\nAvustralya'daki gelişmeler, kuş gribinde erken teşhis ve biyogüvenlik uygulamalarının önemini bir kez daha gündeme getirdi.\n\nYabani kuşlarda başlayan yayılımın ticari işletmelere ulaşmasının önlenmesi için kümeslerin yabani kuşlarla temasının sınırlandırılması, yem ve su kaynaklarının korunması, işletmeler arasındaki insan, araç ve ekipman hareketlerinde biyogüvenlik kurallarının uygulanması ve şüpheli hayvan ölümlerinin hızlı şekilde bildirilmesi kritik önem taşıyor.\n\nAvustralya'daki tablo Türkiye açısından da özellikle kanatlı sektörü ve hayvan sağlığı otoritelerinin yakından izlemesi gereken bir gelişme olarak öne çıkıyor."
     }
   ],
   "commoditiesByBorsa": {
@@ -161,10 +161,10 @@
           "key": "aycicegi",
           "name": "Ayçiçeği (yağlık)",
           "unit": "₺/kg",
-          "price": 31.35,
-          "change": 0,
+          "price": 34.05,
+          "change": 8.61,
           "source": "Edirne TB",
-          "date": "2026-06-26"
+          "date": "2026-08-10"
         },
         {
           "key": "kanola",
@@ -262,10 +262,10 @@
       "key": "aycicegi",
       "name": "Ayçiçeği (yağlık)",
       "unit": "₺/kg",
-      "price": 31.35,
-      "change": 0,
+      "price": 34.05,
+      "change": 8.61,
       "source": "Edirne TB",
-      "date": "2026-06-26"
+      "date": "2026-08-10"
     },
     {
       "key": "kanola",
@@ -328,21 +328,5 @@
   "defaultBorsa": "5ED10",
   "defaultCity": "CANAKKALE",
   "note": "Fiyatlar TOBB ticaret borsasından (borsa seçilebilir). Kanola manuel (Trakya 2025).",
-  "inputsNote": "Mazot: akaryakıt bayi fiyatı, günlük (şehir seçilebilir). Gübre: manuel (yaklaşık).",
-  "errors": [
-    "fx: fetch failed",
-    "borsa 5ED10: fetch failed",
-    "borsa 5KO10: fetch failed",
-    "borsa 5ES10: fetch failed",
-    "mazot ANKARA: fetch failed",
-    "mazot ISTANBUL: fetch failed",
-    "mazot IZMIR: fetch failed",
-    "mazot KONYA: fetch failed",
-    "mazot ADANA: fetch failed",
-    "mazot BURSA: fetch failed",
-    "mazot ANTALYA: fetch failed",
-    "mazot SAMSUN: fetch failed",
-    "mazot TEKIRDAG: fetch failed",
-    "mazot CANAKKALE: fetch failed"
-  ]
+  "inputsNote": "Mazot: akaryakıt bayi fiyatı, günlük (şehir seçilebilir). Gübre: manuel (yaklaşık)."
 }
