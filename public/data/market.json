@@ -1,26 +1,26 @@
 {
-  "updatedAt": "2026-08-11T05:54:15.639Z",
+  "updatedAt": "2026-08-11T07:13:05.760Z",
   "fx": [
     {
       "code": "USD",
       "name": "Dolar",
-      "buy": 47.73,
+      "buy": 47.74,
       "sell": 47.74,
       "change": 0.08
     },
     {
       "code": "EUR",
       "name": "Euro",
-      "buy": 55.1,
-      "sell": 55.16,
+      "buy": 55.12,
+      "sell": 55.13,
       "change": 0.04
     },
     {
       "code": "GRA",
       "name": "Gram Altın",
-      "buy": 6707.07,
-      "sell": 6708.05,
-      "change": -0.35
+      "buy": 6695.03,
+      "sell": 6695.95,
+      "change": -0.53
     },
     {
       "code": "CEYREKALTIN",
@@ -38,6 +38,14 @@
     }
   ],
   "news": [
+    {
+      "title": "Antalya Büyükşehir Belediyesi’nden büyükbaşlara tırnak bakımı",
+      "url": "https://www.tarimpusulasi.com/haber/antalya-buyuksehir-belediyesinden-buyukbaslara-tirnak-bakimi-47326",
+      "source": "Tarım Pusulası",
+      "date": "2026-08-11",
+      "summary": "Antalya Büyükşehir Belediyesi ekipleri, Döşemealtı ilçesine bağlı Bademağacı Mahallesi’nde üreticilerin büyükbaş hayvanlarının tırnak bakımlarını gerçekleştirdi. Hizmetin, hayvan sağlığının yanı sıra üreticilerin bakım maliyetlerinin azaltılmasına katkı sağladığı belirtildi.",
+      "content": "ANTALYA — Antalya Büyükşehir Belediyesi Tarımsal Hizmetler Dairesi Başkanlığı ekipleri, Döşemealtı ilçesine bağlı Bademağacı Mahallesi’nde üreticilerin büyükbaş hayvanlarının tırnak bakımlarını gerçekleştirdi. Hayvan sağlığı açısından önem taşıyan hizmetin, üreticilerin bakım giderlerini de azaltmasına katkı sağladığı belirtildi.\n\nAntalya Büyükşehir Belediyesi Veteriner Sağlık Teknikeri Muharrem Akman, tırnak bakım hizmetinin Antalya genelinde sürdüğünü söyledi. Tırnak rahatsızlıklarının büyükbaş hayvanlarda et ve süt veriminde düşüşe yol açabileceğini belirten Akman, üreticilerin artan maliyetlerden etkilenmemesi amacıyla hizmetin devam ettiğini ifade etti.\n\nAkman, hayvanlarda görülen tırnak rahatsızlıklarının genellikle et veriminde düşüşe neden olduğunu, süt üretimi yapılan işletmelerde ise süt veriminin azalmasına yol açabildiğini belirtti. Tırnak bakımının bu nedenle hayvan sağlığı açısından önem taşıdığını söyleyen Akman, Antalya'nın farklı bölgelerinde hizmetin sürdüğünü kaydetti.\n\nÜreticilerin ihtiyaçları belirlendi\n\nBademağacı Mahalle Muhtarı Selda Yavuz, Antalya Büyükşehir Belediyesi'nin tırnak bakım hizmetinden haberdar olduktan sonra başvuru yaptığını ve mahallede hizmete ihtiyaç duyan üreticileri listelediğini söyledi.\n\nYavuz, ekiplerin mahalleye gelerek ahırları ziyaret ettiğini ve üreticilerin hayvanlarının bakımlarını gerçekleştirdiğini belirtti. Mahallede başka alanlarda da belediyeden destek aldıklarını ifade eden Yavuz, hamur yoğurma makinesi ve badem soyma makinesinin de mahalleye hibe edildiğini aktardı.\n\n“Hayvanların tırnaklarının arasında yara oluşumu vardı”\n\nÜretici Ayşe Kuntar, belediye ekiplerinin hayvanlarının tırnak bakımlarını gerçekleştirdiğini belirterek, hayvanların tırnakları arasında yara oluşumu bulunduğu için bakımın önemli olduğunu söyledi.\n\nKuntar, sağlanan hizmetin kendileri açısından ek bir masrafın oluşmasını da önlediğini ifade etti.\n\n“Hayvan başına 2-3 bin lira masraf oluşuyordu”\n\nÜretici Sibel Kuntar ise hayvanların sürekli kapalı alanda bulunmasının tırnak sorunlarını artırdığını söyledi.\n\nDaha önce hayvanların yaylada otlatıldığını ve bu dönemde tırnak problemi yaşanmadığını belirten Kuntar, kapalı alanda yetiştiriciliğin artmasıyla tırnak sorunlarının ortaya çıktığını ifade etti.\n\nHayvan sayılarının fazla olması nedeniyle hayvan başına 2-3 bin lira civarında masraf oluştuğunu belirten Kuntar, bu giderin yıllık toplamda 200 bin liraya kadar çıkabildiğini söyledi. Kuntar, belediyenin sağladığı tırnak bakım hizmetinin bu maliyet açısından kendilerini rahatlattığını dile getirdi.\n\nAntalya Büyükşehir Belediyesi'nin tırnak bakım hizmetinin Antalya genelinde sürdüğü, üreticilerin ABİM iletişim merkezi aracılığıyla başvuru yaparak ekiplerle iletişime geçebileceği bildirildi.\n\nTARIM PUSULASI HABER MERKEZİ"
+    },
     {
       "title": "Tarımda 3 trilyon liralık rakam ne anlatıyor? 21 yıllık verilerde dikkat çeken fark",
       "url": "https://www.tarimdanhaber.com/tarimda-3-trilyon-liralik-rakam-ne-anlatiyor-21-yillik-verilerde-dikkat-ceken-fark",
@@ -125,14 +133,6 @@
       "date": "2026-08-10",
       "summary": "Tarım politikaları uzmanı Ergin Kahveci'nin FAOSTAT verileri üzerinden yaptığı analiz, Türkiye'nin tarımsal üretim değerinde dünyadaki yerini ortaya koydu. Kahveci'nin hesaplamasına göre Türkiye'nin 2024 yılında 92,35 milyar dolara ulaşan brüt tarımsal üretim değeri, ülkeyi dünya sıralamasında 6'ncı",
       "content": "Haber Merkezi / Türkiye'nin tarımsal üretim gücüne ilişkin dikkat çeken veriler ortaya çıktı. Tarım politikaları uzmanı Ergin Kahveci, FAOSTAT'ın brüt tarımsal üretim değeri verilerini inceleyerek Türkiye'nin 2003-2024 dönemindeki değişimini ve dünya sıralamasındaki yerini analiz etti.\n\nKahveci'nin “Tarımsal üretim değerinde kaçıncıyız?” başlıklı makalesinde ortaya koyduğu verilere göre, Türkiye'nin cari fiyatlarla brüt tarımsal üretim değeri 2003 yılında 40 milyar 732 milyon dolar seviyesindeyken, 2024 yılında 92 milyar 350 milyon dolara yükseldi.\n\nTürkiye 9'unculuktan 6'ncılığa çıktı\n\nKahveci'nin FAOSTAT verileri üzerinden yaptığı dünya sıralamasında da dikkat çekici bir değişim yaşandı.\n\nTürkiye, cari dolar cinsinden brüt tarımsal üretim değerinde 2003 yılında dünyada 9'uncu sırada bulunurken, 2024 yılında 6'ncı sıraya yükseldi.\n\nSabit fiyatlarla yapılan hesaplamada da Türkiye'nin dünya sıralamasındaki konumu güçlendi.\n\nKahveci'nin çalışmasına göre 2014-2016 sabit dolar fiyatlarıyla Türkiye'nin brüt tarımsal üretim değeri 2003 yılında 54,67 milyar dolar seviyesindeyken, 2024 yılında 98,37 milyar dolara çıktı.\n\nTürkiye bu hesaplamada 2003'te dünya 10'uncusuyken, 2024'te yine 6'ncı sırada yer aldı.\n\n21 yılda 51,6 milyar dolarlık artış\n\nCari dolar üzerinden bakıldığında Türkiye'nin tarımsal üretim değeri 21 yılda yaklaşık 51,6 milyar dolar arttı.\n\nAncak Kahveci'nin analizinde özellikle dikkat çektiği noktalardan biri, cari değerlerdeki artış ile reel üretim değerindeki artışın birbirinden ayrılması gerektiği oldu.\n\nÇünkü fiyat ve kur hareketleri uzun dönemli karşılaştırmalarda tarımsal üretimin gerçek değişiminin olduğundan çok daha yüksek görünmesine neden olabiliyor.\n\nTarımsal hasıla ile üretim değeri aynı şey değil\n\nKahveci'nin analizinde üzerinde durduğu önemli konulardan biri de kamuoyunda sık kullanılan “tarımsal hasıla” ile “brüt tarımsal üretim değeri” arasındaki fark oldu.\n\nTürkiye için açıklanan 83,2 milyar dolarlık tarımsal hasıla ile FAOSTAT verilerindeki 92,35 milyar dolarlık brüt üretim değeri aynı göstergeyi ifade etmiyor.\n\nKahveci, brüt üretim değerinin birincil bitkisel ve hayvansal ürünlerin çiftlik kapısındaki ekonomik değerini ortaya koyduğuna dikkat çekiyor.\n\nOrtaya çıkan tablo ise Türkiye'nin tarımsal üretim değerinde dünyadaki önemli ülkeler arasında bulunduğunu ve son 21 yılda dünya sıralamasındaki yerini yukarı taşıdığını gösteriyor."
-    },
-    {
-      "title": "Rusya'nın Türkiye'ye tahıl ihracatı 7 ayda yüzde 67 arttı",
-      "url": "https://www.tarimpusulasi.com/haber/rusyanin-turkiyeye-tahil-ihracati-7-ayda-yuzde-67-artti-47318",
-      "source": "Tarım Pusulası",
-      "date": "2026-08-10",
-      "summary": "Rusya'nın Türkiye'ye tahıl ve işlenmiş tahıl ürünleri ihracatı yılın ilk 7 ayında geçen yılın aynı dönemine göre yüzde 67 artarak 6,7 milyon tona çıktı. Bu dönemde Rusya'nın Türkiye'ye buğday ihracatı 2 katına çıkarak 3,2 milyon tona ulaştı.",
-      "content": "ANKARA — Rusya'nın Türkiye'ye tahıl ve tahıl ürünleri ihracatı 2026'nın ilk 7 ayında geçen yılın aynı dönemine göre yüzde 67 artarak 6,7 milyon tona yükseldi. Aynı dönemde Rusya'nın Türkiye'ye tahıl ihracatı 2 katına çıkarak 4,5 milyon tona ulaştı.\n\nRusya'nın Türkiye'ye yaptığı buğday sevkiyatı 2 kat artarak 3,2 milyon tona yükseldi. Mısır ihracatı 3 kat artışla 940 bin tona, arpa ihracatı ise 5 kat artışla 330 bin tona çıktı.\n\nBakliyat ürünlerinde de artış kaydedildi. Rusya'nın Türkiye'ye bakliyat ihracatı yüzde 29 artarak 387 bin tona yükselirken, bezelye sevkiyatı yüzde 36 artışla 204 bin tona, mercimek sevkiyatı ise 3 kat artışla 86 bin tona ulaştı.\n\nBuğday kepeği ihracatı geriledi\n\nTahıl ürünleri içindeki bazı kalemlerde ise farklı bir seyir görüldü. Rusya'nın Türkiye'ye buğday kepeği sevkiyatı 817 bin ton oldu. Bu miktar 2025 yılının aynı dönemine göre yüzde 13 daha düşük gerçekleşti.\n\nBuna karşın 817 bin tonluk sevkiyat, önceki yılların aynı dönemlerinde kaydedilen miktarların üzerinde kaldı.\n\nRusya'nın Türkiye'ye ayçiçeği küspesi ihracatı yüzde 10 artarak 487 bin tona, mısır kepeği sevkiyatı ise yüzde 43 artarak 110 bin tona çıktı.\n\nTürkiye'nin tahıl ithalatında kuraklık etkisi\n\nRusya Tarım Bakanlığına bağlı FGİB ÇOK APK Direktörü Ruslan Hasanov, Türkiye'de geçen sezonun son yılların en kurak dönemlerinden biri olduğunu belirtti.\n\nTürkiye'de buğday üretiminin 16,8 milyon tona kadar gerilediğini belirten Hasanov, ithalat piyasasının açılmasının ardından Rus tahılının fiyat avantajı ve Karadeniz üzerinden sağlanan kısa lojistik mesafe nedeniyle Türkiye pazarında öne çıktığını ifade etti.\n\nTürkiye'nin ithalat kısıtlamalarını Mart 2026'da kaldırmasının ardından Rusya'dan yapılan tahıl sevkiyatlarında artış görüldü.\n\nHasanov, mevcut sezonda Rus buğdayı ithalatındaki artışın nedenlerinden birinin ihracatçıların, Türkiye'nin 2026 yılında rekor düzeyde bir üretim gerçekleştireceğine ilişkin beklentiler doğrultusunda iç piyasayı korumaya yönelik yeni tedbirler yürürlüğe girmeden önce mevcut sözleşmeler kapsamında mümkün olduğunca yüksek miktarda ürün göndermek istemesi olabileceğini belirtti.\n\nHasanov ayrıca Türkiye'nin tahıl işleme ve un üretiminde dünyanın önemli merkezlerinden biri olduğunu ifade ederek, yılın ilk yarısındaki talep artışının bu durumla da bağlantılı olabileceğini söyledi.\n\nTürkiye'nin Mart 2025'ten bu yana uyguladığı unluk buğday ihracatı yasağını yakın dönemde kaldırması da tahıl ticaretindeki hareketliliğin diğer unsurlarından biri olarak değerlendirildi.\n\nTARIM PUSULASI HABER MERKEZİ"
     }
   ],
   "commoditiesByBorsa": {
@@ -328,5 +328,17 @@
   "defaultBorsa": "5ED10",
   "defaultCity": "CANAKKALE",
   "note": "Fiyatlar TOBB ticaret borsasından (borsa seçilebilir). Kanola manuel (Trakya 2025).",
-  "inputsNote": "Mazot: akaryakıt bayi fiyatı, günlük (şehir seçilebilir). Gübre: manuel (yaklaşık)."
+  "inputsNote": "Mazot: akaryakıt bayi fiyatı, günlük (şehir seçilebilir). Gübre: manuel (yaklaşık).",
+  "errors": [
+    "mazot ANKARA: fetch failed",
+    "mazot ISTANBUL: fetch failed",
+    "mazot IZMIR: fetch failed",
+    "mazot KONYA: fetch failed",
+    "mazot ADANA: fetch failed",
+    "mazot BURSA: fetch failed",
+    "mazot ANTALYA: fetch failed",
+    "mazot SAMSUN: fetch failed",
+    "mazot TEKIRDAG: fetch failed",
+    "mazot CANAKKALE: fetch failed"
+  ]
 }
