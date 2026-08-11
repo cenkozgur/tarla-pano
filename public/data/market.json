@@ -1,26 +1,26 @@
 {
-  "updatedAt": "2026-08-11T07:13:05.760Z",
+  "updatedAt": "2026-08-11T08:15:08.429Z",
   "fx": [
     {
       "code": "USD",
       "name": "Dolar",
-      "buy": 47.74,
-      "sell": 47.74,
-      "change": 0.08
+      "buy": 47.73,
+      "sell": 47.75,
+      "change": 0.09
     },
     {
       "code": "EUR",
       "name": "Euro",
-      "buy": 55.12,
-      "sell": 55.13,
-      "change": 0.04
+      "buy": 55.09,
+      "sell": 55.11,
+      "change": -0.01
     },
     {
       "code": "GRA",
       "name": "Gram Altın",
-      "buy": 6695.03,
-      "sell": 6695.95,
-      "change": -0.53
+      "buy": 6697.89,
+      "sell": 6698.84,
+      "change": -0.49
     },
     {
       "code": "CEYREKALTIN",
@@ -38,6 +38,30 @@
     }
   ],
   "news": [
+    {
+      "title": "Akaryakıtta çifte zam: Benzin ve motorine yeni artış bekleniyor",
+      "url": "https://www.tarimpusulasi.com/haber/akaryakitta-cifte-zam-benzin-ve-motorine-yeni-artis-bekleniyor-47329",
+      "source": "Tarım Pusulası",
+      "date": "2026-08-11",
+      "summary": "Akaryakıt fiyatlarında yeni bir artış bekleniyor. Nefes’in ANKA kaynaklı haberine göre bu gece benzine 1,50 lira, motorine 5,13 lira zam yapılması bekleniyor. Motorin fiyatının 90 liraya yaklaşacağı belirtiliyor.",
+      "content": "ANKARA — Akaryakıt fiyatlarında yeni bir zam beklentisi oluştu. Nefes’in ANKA kaynaklı haberine göre, bu gece yarısı benzinin litre fiyatına 1,50 lira, motorinin litre fiyatına ise 5,13 lira zam yapılması bekleniyor. Zam sonrasında motorin fiyatının 90 liraya yaklaşacağı belirtiliyor.\n\nNefes'in haberinde, akaryakıttaki toplam zam gereksiniminin %25'lik bölümünün ÖTV üzerinden, kalan %75'lik bölümünün ise pompa fiyatlarına yansıyacağı aktarılıyor. Bu hesaplamaya göre benzindeki toplam 2 liralık zam gereksiniminin 1,50 lirasının, motorindeki 6,85 liralık zam gereksiniminin ise 5,13 lirasının pompaya yansıması bekleniyor.\n\nBrent petrol 88 dolara yükseldi\n\nHaberde, Brent petrol fiyatının 88 dolara kadar yükseldiği belirtildi. Nefes, yükselişte ABD ile İran arasındaki barış görüşmeleri ile Hürmüz Boğazı'nın yeniden açılmasına ilişkin görüşmelerde yaşanan tıkanmanın etkili olduğunu aktardı.\n\nKüresel piyasalarda benzin ve motorin fiyatlarının da yükseldiği ifade edilirken, motorinin metrik ton fiyatının son 24 saatte 1.140 dolardan 1.226 dolara çıktığı kaydedildi.\n\nMotorinde 90 lira eşiği\n\nBeklenen zamların gerçekleşmesi halinde motorin litre fiyatının 90 liraya yaklaşması bekleniyor. Nefes'in haberinde bu seviyenin motorin açısından tüm zamanların rekoru olacağı ifade edildi.\n\nTARIM PUSULASI HABER MERKEZİ"
+    },
+    {
+      "title": "Balıkesir’de göletlere 116 bin sazan yavrusu bırakılacak",
+      "url": "https://www.tarimpusulasi.com/haber/balikesirde-goletlere-116-bin-sazan-yavrusu-birakilacak-47328",
+      "source": "Tarım Pusulası",
+      "date": "2026-08-11",
+      "summary": "Balıkesir’de su kaynaklarındaki balık popülasyonlarının desteklenmesi amacıyla 116 bin sazan yavrusunun göletlere bırakılması planlanıyor. İlk etapta 56 bin yavru, Altıeylül ve Balya ilçelerindeki belirlenen göletlere bırakıldı.",
+      "content": "BALIKESİR — Balıkesir’de su kaynaklarındaki balık popülasyonlarının desteklenmesi amacıyla 116 bin sazan yavrusunun göletlerle buluşturulması planlanıyor. 2026 yılı Su Kaynaklarının Balıklandırılması Projesi kapsamında yürütülen çalışmada ilk etapta 56 bin sazan yavrusu, Altıeylül ve Balya ilçelerinde belirlenen göletlere bırakıldı.\n\nBakanlığın Balıkçılık ve Su Ürünleri Genel Müdürlüğü tarafından yürütülen proje kapsamında Balıkesir’e tahsis edilen sazan yavruları, İzmir’in Seferihisar ilçesindeki Ürkmez Su Ürünleri Üretim İstasyonunda üretildi.\n\nİlk etapta belirlenen göletlere bırakılan 56 bin sazan yavrusunun salımı, muhtarlar ve Balıkesir İl Tarım ve Orman Müdürlüğü teknik personelinin nezaretinde gerçekleştirildi.\n\nSazan yavrusu tedariki gerçekleştirildikçe, kalan yavruların da belirlenen takvim doğrultusunda su kaynaklarına bırakılması planlanıyor.\n\nBalıkçılık ve sucul ekosistem hedefleniyor\n\nBalıklandırma çalışmalarının, balıkçılık faaliyetlerinin desteklenmesi, sucul ekosistemlerin korunması ve amatör balıkçılığın geliştirilmesine katkı sağlaması hedefleniyor.\n\nÇalışmanın hedeflerine ulaşabilmesi için balıkçıların ve vatandaşların av yasaklarına uymaları ve sürdürülebilir avcılık kurallarına riayet etmeleri isteniyor.\n\nAçıklamada ayrıca bırakılan sazan yavrularının en az bir kez üremelerine imkân tanınmasının büyük önem taşıdığı vurgulanıyor.\n\n116 bin yavrunun 56 bini ilk etapta bırakıldı\n\nProjede Balıkesir’e tahsis edilen toplam sazan yavrusu sayısı 116 bin olarak açıklanırken, ilk etapta su kaynaklarına bırakılan yavru sayısı 56 bin oldu.\n\nBuna göre toplam planlanan miktarın yaklaşık %48,3’ü ilk etapta su kaynaklarıyla buluşturuldu. Kalan miktar ise 60 bin sazan yavrusu olarak hesaplanıyor.\n\nKalan sazan yavrularının, tedarik gerçekleştirildikçe belirlenen takvim kapsamında su kaynaklarına bırakılması planlanıyor.\n\nTARIM PUSULASI HABER MERKEZİ"
+    },
+    {
+      "title": "Kayseri’de organik pazarda 171 bin kg sebze ve meyve satıldı",
+      "url": "https://www.tarimpusulasi.com/haber/kayseride-organik-pazarda-171-bin-kg-sebze-ve-meyve-satildi-47327",
+      "source": "Tarım Pusulası",
+      "date": "2026-08-11",
+      "summary": "Kayseri Kocasinan’daki %100 Ekolojik Pazar’da 2025 yılında 171 bin 917 kilogram taze sebze ve meyve satışı gerçekleşirken, organik sertifikalı üretim yapan çiftçilerin toplam cirosu 6 milyon 459 bin 790 TL oldu.",
+      "content": "KAYSERİ — Kayseri'nin Kocasinan ilçesinde faaliyet gösteren %100 Ekolojik Pazar'da 2025 yılında 171 bin 917 kilogram taze sebze ve meyve satışı gerçekleştirildi. Organik sertifikalı üretim yapan çiftçilerin aynı yıl elde ettiği toplam ciro ise 6 milyon 459 bin 790 TL oldu.\n\nKapadokya Organik Tarım Üreticileri Birliği Derneği çatısı altında Kayseri'nin 7 ilçesinde toplam 500 dekar alanda organik sertifikalı üretim yapan 30 çiftçi, yerel ve mevsimsel ürünlerini %100 Ekolojik Pazarlar aracılığıyla tüketicilere aracısız ulaştırıyor.\n\n%100 Ekolojik Pazarlar, ekolojik tarımı yaygınlaştırmayı, üreticiyi desteklemeyi, doğal varlıkların korunmasına katkı sağlamayı ve tüketicilerin bu konuda bilinçlenmesini amaçlıyor.\n\n“Üreticilerimize rağmen ayakta kalıyoruz”\n\nKapadokya Organik Tarım Üreticileri Birliği Derneği (KAPTAR) Yönetim Kurulu Başkanı Yeşim Bekyürek, iklim değişikliğinin üretim koşullarını zorlaştırdığını belirterek, değişken iklim koşulları ve üretim yükü nedeniyle üretimi bırakmak zorunda kalan üreticilerin bulunduğu bir süreçten geçildiğini söyledi.\n\nBekyürek, buna rağmen organik pazarı her yıl açarak tüketicilerle buluşturmaya çalıştıklarını belirterek, tüketicilerin üreticileri desteklemesinin önemine dikkat çekti.\n\n2025'te 171 bin 917 kilogram ürün satıldı\n\nKocasinan %100 Ekolojik Pazar'da 2025 yılında 171.917 kilogram taze sebze ve meyve satıldı. Bu satışlardan elde edilen toplam ciro 6.459.790 TL olarak gerçekleşti.\n\nPazarın 2015-2025 dönemindeki verilerine göre ise toplam 1.838.718,10 kilogram taze sebze ve meyve satışı yapıldı. Aynı dönemde üreticilerin toplam kazancı 22.026.802 TL oldu.\n\nYıllara göre satış miktarı ve ciroda farklılıklar görüldü. 2015'te 139.181,35 kilogram olan taze sebze ve meyve satışı, 2024'te 200.948,05 kilogram ile dönem içerisindeki en yüksek seviyeye ulaştı. 2025'te ise satış miktarı 171.917 kilogram olarak kaydedildi.\n\nBuna karşılık pazarın yıllık cirosu 2015'te 327.704,50 TL iken 2025'te 6.459.790 TL'ye yükseldi.\n\n“Üreticiden tüketiciye” modeli\n\n%100 Ekolojik Pazarlar, üreticiden tüketiciye doğrudan pazarlama modeliyle organik sertifikalı ürünlerin tüketiciye ulaştırılmasını sağlıyor.\n\nBuğday Derneği Genel Müdürü Batur Şehirlioğlu, Kocasinan'da açılan %100 Ekolojik Pazar'ın üretici örgütlenmesi, kamu desteği, yerel yönetimler ve sivil toplum kuruluşlarının iş birliğiyle geliştirilebilecek bir model olduğunu belirtti.\n\nŞehirlioğlu, yerel üretim ve tüketimin güçlendirilmesiyle organik ürünlerin üreticiden tüketiciye daha doğrudan ulaştırılabileceğini ve bunun fiyatların aşağı çekilmesine katkı sağlayabileceğini ifade etti.\n\nŞehirlioğlu ayrıca Kayseri'deki organik pazar fiyatlarının İstanbul, Ankara ve İzmir'deki organik pazarlara kıyasla daha düşük olduğunu belirterek, organik tarımın hem üretim hem de pazar ayağının birlikte desteklenmesi gerektiğini söyledi.\n\nOrganik pazarlarda ürünler kayıt altında tutuluyor\n\n%100 Ekolojik Pazarlar için Buğday Derneği tarafından hazırlanan standartlar kapsamında ürünlerin sağlıklı, güvenilir ve denetlenebilir bir sistem içerisinde satışa sunulması hedefleniyor.\n\nPazarlarda ürünler; tarih, satıcı, üretici, ürün çeşidi, miktar, fiyat ve mali belgeler üzerinden kayıt altına alınıyor.\n\nPazarlardaki denetim süreçlerinde belediyeler, Buğday Derneği, proje ortağı sivil toplum kuruluşları ve Tarım ve Orman Bakanlığı'nın rol aldığı belirtiliyor. Ürünlerden periyodik olarak numuneler alınarak akredite laboratuvarlarda kalıntı analizleri gerçekleştiriliyor.\n\nSertifika kapsamı dışında satış yaptığı veya ürünlerinde kalıntı tespit edildiği belirtilen üreticiler pazardan çıkarılıyor.\n\nKayseri Kocasinan %100 Ekolojik Pazar'da da bu süreçlerin yürütüldüğü, Kapadokya Organik Tarım Üreticileri Birliği Derneği bünyesindeki bir ziraat mühendisinin düzenli kontrol ve analizlerle sürece katkı sağladığı bildiriliyor.\n\n%100 Ekolojik Pazarlar, ilk olarak 2006 yılında İstanbul Şişli'de Buğday Derneği'nin öncülüğünde kuruldu. Daha sonra Kartal ve Bakırköy'ün yanı sıra İstanbul dışına da yayılarak Kayseri Kocasinan ve İzmit'te faaliyet göstermeye başladı.\n\nTARIM PUSULASI HABER MERKEZİ"
+    },
     {
       "title": "Antalya Büyükşehir Belediyesi’nden büyükbaşlara tırnak bakımı",
       "url": "https://www.tarimpusulasi.com/haber/antalya-buyuksehir-belediyesinden-buyukbaslara-tirnak-bakimi-47326",
@@ -85,30 +109,6 @@
       "date": "2026-08-10",
       "summary": "Rusya'nın 2026/27 tarım yılında yağlı tohum üretiminin 35,7 milyon tona ulaşarak rekor kırabileceği tahmin ediliyor. İKAR, üretimdeki artışta ekim alanlarının genişlemesinin etkili olacağını belirtirken, ayçiçeği ve kanolada da yüksek üretim bekliyor.",
       "content": "MOSKOVA — Rusya'nın 2026/27 tarım yılında toplam yağlı tohum üretiminin 35,7 milyon tona ulaşarak rekor seviyeye çıkabileceği tahmin ediliyor. Tarımsal Piyasa Araştırmaları Enstitüsü (İKAR) Genel Müdürü Dmitry Rylko, üretim tahmininin özellikle ekim alanlarındaki genişlemeye dayandığını belirtirken, sezonun son bölümündeki koşulların ve özellikle Ural bölgesi ile Batı Sibirya'daki verim seviyelerinin yakından izlenmesi gerektiğini söyledi.\n\nİKAR'ın tahminine göre Rusya'da yağlı tohum ekim alanı, geçen tarım yılındaki 21,1 milyon hektardan 22,2 milyon hektara yükselecek. Artışta özellikle ayçiçeği ve kanola ekim alanlarındaki genişlemenin etkili olması bekleniyor.\n\nAyçiçeği ekim alanının 11 milyon hektarın biraz üzerindeki seviyeden 12 milyon hektara, kanola ekim alanının ise 2,9 milyon hektardan 3,6 milyon hektara çıkması bekleniyor. Buna karşılık soya ekim alanının 4,7 milyon hektardan 4,3 milyon hektara gerileyeceği tahmin ediliyor.\n\nAyçiçeğinde 19,95 milyon tonluk üretim beklentisi\n\nİKAR, Rusya'nın 2026/27 tarım yılında ayçiçeği üretiminin 19,95 milyon tona ulaşmasını bekliyor. Bu rakam, enstitünün geçen yıl için verdiği 17,2 milyon tonluk tahminin üzerinde bulunuyor.\n\nİKAR Genel Müdürü Rylko, Karadeniz çevresindeki ülkelerde de bu yıl ayçiçeğinde çok yüksek veya rekor üretimlerin beklendiğini belirterek, yüksek üretimin ihracat altyapısı açısından önemli bir yük oluşturabileceğine dikkat çekti.\n\nRusya'nın ayçiçek yağı üretiminin 7,35 milyon tondan yaklaşık 8,2 milyon tona, ihracatının ise 4,8 milyon tondan 5,4 milyon tona yükselmesi bekleniyor.\n\nAyçiçek yağı ihracatında Hindistan ve Çin başlıca pazarlar olarak öne çıkarken, Türkiye, İran, Mısır, Belarus ve Kazakistan da alıcı ülkeler arasında bulunuyor.\n\nKanolada rekor üretim tahmini\n\nRusya'da kanola üretiminin de 2026/27 tarım yılında rekor seviyeye ulaşabileceği tahmin ediliyor.\n\nİKAR, kanola üretiminin 5,33 milyon tondan 6 milyon tona yükselmesini bekliyor. Rylko, Rusya'nın son yıllarda kanola ve kanola yağı üretiminde ve ihracatında önemli bir üretici konumuna geldiğini ifade etti.\n\nYeni üretim, son yıllarda özellikle ülkenin merkez bölgelerinde kurulan işleme tesislerinin daha yüksek kapasiteyle çalışmasına da imkan sağlayabilir. İKAR'a göre işlenecek yağlı tohum miktarının 4,4 milyon tondan yaklaşık 5,5 milyon tona çıkması bekleniyor.\n\nKanola ihracatının da 640 bin tondan 750 bin tona yükselmesi öngörülüyor.\n\nSoya üretiminde düşüş bekleniyor\n\nYağlı tohumların tamamında aynı yönde bir gelişme beklenmiyor. İKAR'ın tahminine göre Rusya'nın soya üretimi, geçen yılki 9 milyon tondan 8 milyon tona gerileyebilir.\n\nBöylece toplam yağlı tohum üretimindeki beklenen rekorun temelinde özellikle ayçiçeği ve kanola üretimindeki artış ile toplam ekim alanındaki genişleme öne çıkıyor.\n\nİKAR, bununla birlikte sezonun kalan bölümündeki hava ve yetiştirme koşullarının üretim sonuçları açısından belirleyici olacağına dikkat çekiyor. Özellikle Ural bölgesi ve Batı Sibirya'daki verim seviyelerinin tahmin açısından yakından takip edilmesi gerekiyor.\n\nTARIM PUSULASI HABER MERKEZİ"
-    },
-    {
-      "title": "GlobalData: Hindistan amonyak üretiminde ikinci sıraya çıkabilir",
-      "url": "https://www.tarimpusulasi.com/haber/globaldata-hindistan-amonyak-uretiminde-ikinci-siraya-cikabilir-47321",
-      "source": "Tarım Pusulası",
-      "date": "2026-08-10",
-      "summary": "Hindistan'ın amonyak üretim kapasitesini 2030'a kadar önemli ölçüde artırması bekleniyor. GlobalData'ya göre ülkede planlanan 6 proje, Hindistan'ı küresel amonyak kapasite artışında önemli merkezlerden biri haline getirebilir.",
-      "content": "YENİ DELHİ — Hindistan'ın amonyak üretim kapasitesini 2030'a kadar önemli ölçüde artırması bekleniyor. GlobalData'nın değerlendirmesine göre, ülkede 6 yeni amonyak projesinin devreye alınmasıyla kapasite artışında Hindistan'ın küresel ölçekte önemli bir paya ulaşması öngörülüyor.\n\nHindistan'ın küresel amonyak kapasitesindeki beklenen artışın yüzde 15'inden fazlasına katkı sağlaması ve ülkenin 2030'a kadar amonyak üretim kapasitesi artışında ABD'nin ardından ikinci sıraya yükselmesi bekleniyor.\n\nGlobalData'nın 2026–2030 dönemini kapsayan amonyak sektörü raporunda, Hindistan'daki kapasite artışının temel nedenleri arasında gübre arz güvenliğinin güçlendirilmesi, ithalata bağımlılığın azaltılması ve ülkenin net sıfır emisyon hedeflerine yönelik çalışmalar gösteriliyor.\n\nAmonyak talebinde gübre sektörü başı çekiyor\n\nHindistan'da amonyak tüketiminin büyük bölümünü gübre sektörü oluşturuyor. Gübre üretiminde kullanılan amonyak, ülkenin tarımsal üretiminin ve gıda arz güvenliğinin sürdürülmesi açısından stratejik önem taşıyor.\n\nAmonyağın kalan bölümü ise su arıtma, tekstil işlemleri ve endüstriyel soğutma gibi farklı sanayi alanlarında kullanılıyor.\n\nHindistan'ın amonyak üretim kapasitesini artırma planının bir diğer gerekçesini ise küresel doğal gaz fiyatlarındaki dalgalanmaların gübre maliyetleri üzerindeki etkisini azaltma çabası oluşturuyor. Gübre üretiminde önemli bir girdi olan doğal gaz fiyatlarındaki hareketlilik, amonyak ve dolayısıyla gübre fiyatlarını doğrudan etkileyebiliyor.\n\nDüşük karbonlu amonyak yatırımları da gündemde\n\nHindistan'ın kapasite artışı yalnızca geleneksel amonyak üretimiyle sınırlı değil. Ülke, üretim kapasitesini artırırken aynı zamanda daha düşük karbonlu amonyak üretimine yönelik yatırımları da geliştirmeyi hedefliyor.\n\nBu yaklaşım, bir yandan tarımsal üretimde kullanılacak gübre arzını güvence altına almayı, diğer yandan enerji dönüşümü kapsamında daha düşük emisyonlu üretim seçeneklerini geliştirmeyi amaçlıyor.\n\nReliance Industries ve Madras Fertilizers öne çıkıyor\n\nHindistan'daki kapasite artışında Reliance Industries ve Madras Fertilizers gibi şirketlerin planladığı büyük ölçekli projelerin etkili olması bekleniyor.\n\nYeni yatırımların hayata geçirilmesiyle Hindistan'ın hem kendi tarımsal sektörünün amonyak ve gübre ihtiyacını daha fazla karşılaması hem de gelişmekte olan düşük karbonlu amonyak pazarında daha güçlü bir konuma ulaşması hedefleniyor.\n\nGlobalData'nın öngörüsü, Hindistan'ın gübre arzında dışa bağımlılığı azaltmaya yönelik politikaları ile amonyak üretim kapasitesini artırma planlarının birbirini desteklediğine işaret ediyor.\n\nTARIM PUSULASI HABER MERKEZİ"
-    },
-    {
-      "title": "AB'de tahıl ihracatı sezonun ilk dört haftasında düştü",
-      "url": "https://www.tarimpusulasi.com/haber/abde-tahil-ihracati-sezonun-ilk-dort-haftasinda-dustu-47320",
-      "source": "Tarım Pusulası",
-      "date": "2026-08-10",
-      "summary": "Avrupa Birliği ülkelerinin 1 Temmuz 2026'da başlayan sezonun ilk dört haftasında gerçekleştirdiği tahıl ve işlenmiş tahıl ürünleri ihracatı 1 milyon 103,5 bin tona geriledi. İhracat, geçen sezonun aynı dönemine göre yüzde 67 azaldı.",
-      "content": "BRÜKSEL — Avrupa Birliği ülkelerinin 1 Temmuz 2026'da başlayan 2026/27 sezonunun ilk dört haftasında tahıl ve işlenmiş tahıl ürünleri ihracatı 1 milyon 103,5 bin ton oldu. İhracat, 2025/26 sezonunun aynı dönemine göre yüzde 67 geriledi.\n\nAvrupa Komisyonu verilerine göre, ilk dört haftalık dönemde Avrupa Birliği ülkeleri arasında yumuşak buğday ihracatında 144,9 bin tonla Litvanya, mısır ihracatında 31 bin tonla yine Litvanya, arpa ihracatında ise 185,9 bin tonla Romanya ilk sırada yer aldı.\n\nGeçen sezon 23,5 milyon ton yumuşak buğday ihraç edildi\n\nAvrupa Komisyonu'nun değerlendirmelerine göre AB ülkeleri 2025/26 sezonunun tamamında 23,5 milyon ton yumuşak buğday ihraç etti.\n\nAynı dönemde AB'nin ihracatı; 800 bin ton durum buğdayı, 500 bin ton yumuşak buğday unu, 200 bin ton durum buğdayı unu, 3 milyon ton malt, 3 milyon ton mısır, 100 bin ton çavdar ve 200 bin ton yulaf olarak kaydedildi.\n\nKaynak metinde arpa ihracatı için 9,0 bin ton ifadesi yer alıyor. Bu rakam, metindeki diğer ihracat kalemleriyle karşılaştırıldığında dikkat çekici derecede düşük olmakla birlikte, kaynak metinde bu şekilde verildiği için haber metninde değiştirilmemiştir.\n\nABD Tarım Bakanlığı ihracat potansiyelini düşürdü\n\nABD Tarım Bakanlığı, mevcut sezonda Avrupa'nın tahıl ihracat potansiyelinin geçen sezona göre daha düşük olacağını değerlendiriyor. Bu beklentide üretimdeki düşüşün etkili olması bekleniyor.\n\nTahıl ve ürünleri ihracatının 31 milyon tona gerilemesi bekleniyor. Geçen sezon bu miktar 31,5 milyon ton olarak tahmin edilmişti.\n\nArpa ihracatının 8,8 milyon tondan 7,4 milyon tona, mısır ihracatının ise 2,1 milyon tondan 1,9 milyon tona gerilemesi öngörülüyor.\n\nBuna göre buğday ve ürünleri ihracatında yaklaşık 500 bin ton, arpa ihracatında 1,4 milyon ton, mısır ihracatında ise 200 bin ton düşüş bekleniyor.\n\nAB'nin ihracatında sezon başlangıcı dikkat çekti\n\nSezonun ilk dört haftasında kaydedilen yüzde 67'lik düşüş, Avrupa Birliği'nin 2026/27 tahıl ihracatında sezon başlangıcının geçen sezona kıyasla daha düşük seviyede olduğunu gösterdi.\n\nİlk dört haftada öne çıkan ihracatçılar arasında buğday ve mısırda Litvanya, arpada ise Romanya yer aldı.\n\nTARIM PUSULASI HABER MERKEZİ"
-    },
-    {
-      "title": "Arjantin'de mısır üretimi 71,5 milyon tonla tarihi rekor kırdı",
-      "url": "https://www.tarimpusulasi.com/haber/arjantinde-misir-uretimi-715-milyon-tonla-tarihi-rekor-kirdi-47319",
-      "source": "Tarım Pusulası",
-      "date": "2026-08-10",
-      "summary": "Arjantin'de 2025/26 sezonunda mısır üretimi 71,5 milyon tona ulaşarak tüm zamanların en yüksek seviyesine çıktı. Rekor üretimde ekim alanlarının 9,2 milyon hektardan 11,6 milyon hektara genişlemesi ve ortalama verimin 6,9 tondan 7,24 ton/hektara yükselmesi etkili oldu.",
-      "content": "BUENOS AIRES — Arjantin'de 2025/26 sezonunda mısır üretimi 71,5 milyon tona ulaşarak tüm zamanların en yüksek seviyesine çıktı. Rekor üretimde uygun tarımsal koşulların yanı sıra ekim alanlarının genişlemesi ve verimdeki artış etkili oldu.\n\nArjantin Ekonomi Bakanlığı Tarım, Hayvancılık ve Balıkçılık Sekreterliği verilerine göre mısır hasadında çalışmalar öngörülen alanın yüzde 75'inden fazlasında tamamlandı.\n\nÜretimdeki rekorun önemli nedenlerinden biri mısır ekim alanındaki genişleme oldu. Bir önceki sezonda 9,2 milyon hektar olan mısır ekim alanı, 2025/26 sezonunda 11,6 milyon hektara yükseldi. Böylece ekim alanı yaklaşık 2,4 milyon hektar, başka bir ifadeyle yüzde 26,1 arttı.\n\nMısır verimi de yükseldi\n\nRekor üretimde yalnızca ekim alanlarındaki artış değil, verimdeki yükseliş de etkili oldu.\n\nArjantin'de ortalama mısır verimi 2024/25 sezonunda 6,9 ton/hektar seviyesindeyken, 2025/26 sezonunda 7,24 ton/hektara çıktı.\n\nBöylece hektar başına ortalama verim yaklaşık 0,34 ton arttı.\n\nEkim alanlarının genişlemesiyle birlikte verimdeki artış ve uygun agroklimatik koşulların bir araya gelmesi, ülkenin mısır üretimini tarihi seviyeye taşıdı.\n\nÜretim 71,5 milyon tona ulaştı\n\nArjantin'in 2025/26 sezonunda gerçekleştirdiği 71,5 milyon tonluk mısır üretimi, ülkede şimdiye kadar kaydedilen en yüksek üretim seviyesi oldu.\n\nRekor üretimin Arjantin'in küresel tahıl piyasasındaki konumunu güçlendirmesi bekleniyor.\n\nTARIM PUSULASI HABER MERKEZİ"
     },
     {
       "title": "Ağustos geldi çiğ süt desteği açıklanmadı! Üretici Ocak-Mart ödemesini bekliyor",
@@ -328,17 +328,5 @@
   "defaultBorsa": "5ED10",
   "defaultCity": "CANAKKALE",
   "note": "Fiyatlar TOBB ticaret borsasından (borsa seçilebilir). Kanola manuel (Trakya 2025).",
-  "inputsNote": "Mazot: akaryakıt bayi fiyatı, günlük (şehir seçilebilir). Gübre: manuel (yaklaşık).",
-  "errors": [
-    "mazot ANKARA: fetch failed",
-    "mazot ISTANBUL: fetch failed",
-    "mazot IZMIR: fetch failed",
-    "mazot KONYA: fetch failed",
-    "mazot ADANA: fetch failed",
-    "mazot BURSA: fetch failed",
-    "mazot ANTALYA: fetch failed",
-    "mazot SAMSUN: fetch failed",
-    "mazot TEKIRDAG: fetch failed",
-    "mazot CANAKKALE: fetch failed"
-  ]
+  "inputsNote": "Mazot: akaryakıt bayi fiyatı, günlük (şehir seçilebilir). Gübre: manuel (yaklaşık)."
 }
