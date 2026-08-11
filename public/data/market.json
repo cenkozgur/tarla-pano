@@ -1,26 +1,26 @@
 {
-  "updatedAt": "2026-08-11T16:24:23.284Z",
+  "updatedAt": "2026-08-11T17:28:44.299Z",
   "fx": [
     {
       "code": "USD",
       "name": "Dolar",
       "buy": 47.73,
-      "sell": 47.75,
+      "sell": 47.74,
       "change": 0.08
     },
     {
       "code": "EUR",
       "name": "Euro",
-      "buy": 55.12,
-      "sell": 55.14,
-      "change": 0.04
+      "buy": 55.1,
+      "sell": 55.11,
+      "change": 0.01
     },
     {
       "code": "GRA",
       "name": "Gram Altın",
-      "buy": 6725.64,
-      "sell": 6726.52,
-      "change": -0.07
+      "buy": 6724.41,
+      "sell": 6725.37,
+      "change": -0.09
     },
     {
       "code": "CEYREKALTIN",
@@ -38,6 +38,14 @@
     }
   ],
   "news": [
+    {
+      "title": "Arjantin'de soya yağı ihracatı haziranda rekor kırdı",
+      "url": "https://www.tarimpusulasi.com/haber/arjantinde-soya-yagi-ihracati-haziranda-rekor-kirdi-47335",
+      "source": "Tarım Pusulası",
+      "date": "2026-08-11",
+      "summary": "Arjantin'de yeni sezon soya fasulyesinin işlenmesi hızlanırken, haziran ayındaki soya yağı ihracatı 742 bin tonla rekor seviyeye ulaştı. İhracattaki artışta Hindistan ve Nepal'den gelen yüksek talep etkili oldu.",
+      "content": "BUENOS AIRES — Arjantin'de yeni sezon soya fasulyesinin işlenmesi hızlanırken, ülkenin soya yağı ihracatı haziran ayında 742 bin tona çıkarak rekor seviyeye ulaştı. Haziran ihracatı geçen yılın aynı ayında gerçekleşen 589 bin tona göre 153 bin ton, yani yaklaşık %26 daha yüksek gerçekleşti.\n\nSoya yağı ihracatındaki artışta özellikle Hindistan ve Nepal'den gelen yüksek talep etkili oldu. Yılın ilk yarısında ise Arjantin'in soya yağı ihracatı 3,22 milyon ton olarak gerçekleşti. Bu miktar, geçen yılın aynı döneminin %3 gerisinde kaldı.\n\nArjantin'in soya sektöründe yeni sezon ürünlerinin işlenmesi de yüksek tempoda devam ediyor. Ülkedeki tesislerin alımlarında ayçiçeğinden soyaya doğru bir kayma yaşanırken, yeni sezon soya fasulyesinin II. çeyrekteki işleme miktarı 11,8 milyon ton olarak değerlendirildi. Bu rakam, geçen yılın aynı dönemine göre %4 artış anlamına geliyor.\n\nSektördeki bu hareketlilik, ülkenin işlenmiş soya ürünleri ihracatını artırmasına imkân sağlıyor. Özellikle soya yağına yönelik dış talebin güçlü seyretmesi, yeni sezon ürünlerinin işlenmesine yönelik tesislerin faaliyetlerini destekliyor.\n\nÖte yandan hafta içinde Arjantin'de yaşanan grevlerin, özellikle Parana Nehri üzerinden gerçekleştirilen deniz taşımacılığı ve ihracat lojistiğini aksatabileceği değerlendirilmişti. Ancak birkaç gün içinde durum normale döndü. Grevlerin sona ermesiyle birlikte Güney Amerika'daki soya yağı fiyatlarında beklenen sert yükseliş gerçekleşmedi.\n\nBununla birlikte fiyatlar, lojistik gelişmelerin yanı sıra haftanın başında Chicago Ticaret Borsası'nda (CBOT) görülen fiyat dip seviyesinden toparlanmanın da etkisiyle kısmen desteklendi.\n\nSektör uzmanları, palm yağına yönelik yüksek biyodizel talebinin bazı ithalatçı ülkeleri Arjantin soya yağına daha fazla yöneltebileceğini değerlendiriyor. Bu durumun üçüncü çeyrekte Arjantin'den soya yağı sevkiyatlarının hızlanmasına katkı sağlayabileceği öngörülüyor.\n\nTARIM PUSULASI HABER MERKEZİ"
+    },
     {
       "title": "Rusya'nın mısır ihracatında Türkiye ikinci büyük alıcı oldu",
       "url": "https://www.tarimpusulasi.com/haber/rusyanin-misir-ihracatinda-turkiye-ikinci-buyuk-alici-oldu-47334",
@@ -109,14 +117,6 @@
       "date": "2026-08-11",
       "summary": "Balıkesir’de su kaynaklarındaki balık popülasyonlarının desteklenmesi amacıyla 116 bin sazan yavrusunun göletlere bırakılması planlanıyor. İlk etapta 56 bin yavru, Altıeylül ve Balya ilçelerindeki belirlenen göletlere bırakıldı.",
       "content": "BALIKESİR — Balıkesir’de su kaynaklarındaki balık popülasyonlarının desteklenmesi amacıyla 116 bin sazan yavrusunun göletlerle buluşturulması planlanıyor. 2026 yılı Su Kaynaklarının Balıklandırılması Projesi kapsamında yürütülen çalışmada ilk etapta 56 bin sazan yavrusu, Altıeylül ve Balya ilçelerinde belirlenen göletlere bırakıldı.\n\nBakanlığın Balıkçılık ve Su Ürünleri Genel Müdürlüğü tarafından yürütülen proje kapsamında Balıkesir’e tahsis edilen sazan yavruları, İzmir’in Seferihisar ilçesindeki Ürkmez Su Ürünleri Üretim İstasyonunda üretildi.\n\nİlk etapta belirlenen göletlere bırakılan 56 bin sazan yavrusunun salımı, muhtarlar ve Balıkesir İl Tarım ve Orman Müdürlüğü teknik personelinin nezaretinde gerçekleştirildi.\n\nSazan yavrusu tedariki gerçekleştirildikçe, kalan yavruların da belirlenen takvim doğrultusunda su kaynaklarına bırakılması planlanıyor.\n\nBalıkçılık ve sucul ekosistem hedefleniyor\n\nBalıklandırma çalışmalarının, balıkçılık faaliyetlerinin desteklenmesi, sucul ekosistemlerin korunması ve amatör balıkçılığın geliştirilmesine katkı sağlaması hedefleniyor.\n\nÇalışmanın hedeflerine ulaşabilmesi için balıkçıların ve vatandaşların av yasaklarına uymaları ve sürdürülebilir avcılık kurallarına riayet etmeleri isteniyor.\n\nAçıklamada ayrıca bırakılan sazan yavrularının en az bir kez üremelerine imkân tanınmasının büyük önem taşıdığı vurgulanıyor.\n\n116 bin yavrunun 56 bini ilk etapta bırakıldı\n\nProjede Balıkesir’e tahsis edilen toplam sazan yavrusu sayısı 116 bin olarak açıklanırken, ilk etapta su kaynaklarına bırakılan yavru sayısı 56 bin oldu.\n\nBuna göre toplam planlanan miktarın yaklaşık %48,3’ü ilk etapta su kaynaklarıyla buluşturuldu. Kalan miktar ise 60 bin sazan yavrusu olarak hesaplanıyor.\n\nKalan sazan yavrularının, tedarik gerçekleştirildikçe belirlenen takvim kapsamında su kaynaklarına bırakılması planlanıyor.\n\nTARIM PUSULASI HABER MERKEZİ"
-    },
-    {
-      "title": "Kayseri’de organik pazarda 171 bin kg sebze ve meyve satıldı",
-      "url": "https://www.tarimpusulasi.com/haber/kayseride-organik-pazarda-171-bin-kg-sebze-ve-meyve-satildi-47327",
-      "source": "Tarım Pusulası",
-      "date": "2026-08-11",
-      "summary": "Kayseri Kocasinan’daki %100 Ekolojik Pazar’da 2025 yılında 171 bin 917 kilogram taze sebze ve meyve satışı gerçekleşirken, organik sertifikalı üretim yapan çiftçilerin toplam cirosu 6 milyon 459 bin 790 TL oldu.",
-      "content": "KAYSERİ — Kayseri'nin Kocasinan ilçesinde faaliyet gösteren %100 Ekolojik Pazar'da 2025 yılında 171 bin 917 kilogram taze sebze ve meyve satışı gerçekleştirildi. Organik sertifikalı üretim yapan çiftçilerin aynı yıl elde ettiği toplam ciro ise 6 milyon 459 bin 790 TL oldu.\n\nKapadokya Organik Tarım Üreticileri Birliği Derneği çatısı altında Kayseri'nin 7 ilçesinde toplam 500 dekar alanda organik sertifikalı üretim yapan 30 çiftçi, yerel ve mevsimsel ürünlerini %100 Ekolojik Pazarlar aracılığıyla tüketicilere aracısız ulaştırıyor.\n\n%100 Ekolojik Pazarlar, ekolojik tarımı yaygınlaştırmayı, üreticiyi desteklemeyi, doğal varlıkların korunmasına katkı sağlamayı ve tüketicilerin bu konuda bilinçlenmesini amaçlıyor.\n\n“Üreticilerimize rağmen ayakta kalıyoruz”\n\nKapadokya Organik Tarım Üreticileri Birliği Derneği (KAPTAR) Yönetim Kurulu Başkanı Yeşim Bekyürek, iklim değişikliğinin üretim koşullarını zorlaştırdığını belirterek, değişken iklim koşulları ve üretim yükü nedeniyle üretimi bırakmak zorunda kalan üreticilerin bulunduğu bir süreçten geçildiğini söyledi.\n\nBekyürek, buna rağmen organik pazarı her yıl açarak tüketicilerle buluşturmaya çalıştıklarını belirterek, tüketicilerin üreticileri desteklemesinin önemine dikkat çekti.\n\n2025'te 171 bin 917 kilogram ürün satıldı\n\nKocasinan %100 Ekolojik Pazar'da 2025 yılında 171.917 kilogram taze sebze ve meyve satıldı. Bu satışlardan elde edilen toplam ciro 6.459.790 TL olarak gerçekleşti.\n\nPazarın 2015-2025 dönemindeki verilerine göre ise toplam 1.838.718,10 kilogram taze sebze ve meyve satışı yapıldı. Aynı dönemde üreticilerin toplam kazancı 22.026.802 TL oldu.\n\nYıllara göre satış miktarı ve ciroda farklılıklar görüldü. 2015'te 139.181,35 kilogram olan taze sebze ve meyve satışı, 2024'te 200.948,05 kilogram ile dönem içerisindeki en yüksek seviyeye ulaştı. 2025'te ise satış miktarı 171.917 kilogram olarak kaydedildi.\n\nBuna karşılık pazarın yıllık cirosu 2015'te 327.704,50 TL iken 2025'te 6.459.790 TL'ye yükseldi.\n\n“Üreticiden tüketiciye” modeli\n\n%100 Ekolojik Pazarlar, üreticiden tüketiciye doğrudan pazarlama modeliyle organik sertifikalı ürünlerin tüketiciye ulaştırılmasını sağlıyor.\n\nBuğday Derneği Genel Müdürü Batur Şehirlioğlu, Kocasinan'da açılan %100 Ekolojik Pazar'ın üretici örgütlenmesi, kamu desteği, yerel yönetimler ve sivil toplum kuruluşlarının iş birliğiyle geliştirilebilecek bir model olduğunu belirtti.\n\nŞehirlioğlu, yerel üretim ve tüketimin güçlendirilmesiyle organik ürünlerin üreticiden tüketiciye daha doğrudan ulaştırılabileceğini ve bunun fiyatların aşağı çekilmesine katkı sağlayabileceğini ifade etti.\n\nŞehirlioğlu ayrıca Kayseri'deki organik pazar fiyatlarının İstanbul, Ankara ve İzmir'deki organik pazarlara kıyasla daha düşük olduğunu belirterek, organik tarımın hem üretim hem de pazar ayağının birlikte desteklenmesi gerektiğini söyledi.\n\nOrganik pazarlarda ürünler kayıt altında tutuluyor\n\n%100 Ekolojik Pazarlar için Buğday Derneği tarafından hazırlanan standartlar kapsamında ürünlerin sağlıklı, güvenilir ve denetlenebilir bir sistem içerisinde satışa sunulması hedefleniyor.\n\nPazarlarda ürünler; tarih, satıcı, üretici, ürün çeşidi, miktar, fiyat ve mali belgeler üzerinden kayıt altına alınıyor.\n\nPazarlardaki denetim süreçlerinde belediyeler, Buğday Derneği, proje ortağı sivil toplum kuruluşları ve Tarım ve Orman Bakanlığı'nın rol aldığı belirtiliyor. Ürünlerden periyodik olarak numuneler alınarak akredite laboratuvarlarda kalıntı analizleri gerçekleştiriliyor.\n\nSertifika kapsamı dışında satış yaptığı veya ürünlerinde kalıntı tespit edildiği belirtilen üreticiler pazardan çıkarılıyor.\n\nKayseri Kocasinan %100 Ekolojik Pazar'da da bu süreçlerin yürütüldüğü, Kapadokya Organik Tarım Üreticileri Birliği Derneği bünyesindeki bir ziraat mühendisinin düzenli kontrol ve analizlerle sürece katkı sağladığı bildiriliyor.\n\n%100 Ekolojik Pazarlar, ilk olarak 2006 yılında İstanbul Şişli'de Buğday Derneği'nin öncülüğünde kuruldu. Daha sonra Kartal ve Bakırköy'ün yanı sıra İstanbul dışına da yayılarak Kayseri Kocasinan ve İzmit'te faaliyet göstermeye başladı.\n\nTARIM PUSULASI HABER MERKEZİ"
     },
     {
       "title": "Tarımda 3 trilyon liralık rakam ne anlatıyor? 21 yıllık verilerde dikkat çeken fark",
@@ -328,17 +328,5 @@
   "defaultBorsa": "5ED10",
   "defaultCity": "CANAKKALE",
   "note": "Fiyatlar TOBB ticaret borsasından (borsa seçilebilir). Kanola manuel (Trakya 2025).",
-  "inputsNote": "Mazot: akaryakıt bayi fiyatı, günlük (şehir seçilebilir). Gübre: manuel (yaklaşık).",
-  "errors": [
-    "mazot ANKARA: fetch failed",
-    "mazot ISTANBUL: fetch failed",
-    "mazot IZMIR: fetch failed",
-    "mazot KONYA: fetch failed",
-    "mazot ADANA: fetch failed",
-    "mazot BURSA: fetch failed",
-    "mazot ANTALYA: fetch failed",
-    "mazot SAMSUN: fetch failed",
-    "mazot TEKIRDAG: fetch failed",
-    "mazot CANAKKALE: fetch failed"
-  ]
+  "inputsNote": "Mazot: akaryakıt bayi fiyatı, günlük (şehir seçilebilir). Gübre: manuel (yaklaşık)."
 }
