@@ -1,43 +1,51 @@
 {
-  "updatedAt": "2026-08-12T11:31:29.946Z",
+  "updatedAt": "2026-08-12T12:25:44.810Z",
   "fx": [
     {
       "code": "USD",
       "name": "Dolar",
-      "buy": 47.75,
-      "sell": 47.76,
-      "change": 0.06
+      "buy": 477565,
+      "sell": 477591,
+      "change": 6
     },
     {
       "code": "EUR",
       "name": "Euro",
-      "buy": 55.15,
-      "sell": 55.16,
-      "change": 0.03
+      "buy": 551637,
+      "sell": 551723,
+      "change": 5
     },
     {
       "code": "GRA",
       "name": "Gram Altın",
-      "buy": 6779.71,
-      "sell": 6780.57,
-      "change": 1.13
+      "buy": 676678,
+      "sell": 676767,
+      "change": 94
     },
     {
       "code": "CEYREKALTIN",
       "name": "Çeyrek Altın",
-      "buy": 10810.28,
-      "sell": 11059.24,
-      "change": 0.77
+      "buy": 107965,
+      "sell": 1104515,
+      "change": 64
     },
     {
       "code": "CUMHURIYETALTINI",
       "name": "Cumhuriyet Altını",
-      "buy": 44506,
-      "sell": 45175,
-      "change": 1.29
+      "buy": 44758,
+      "sell": 45434,
+      "change": 57
     }
   ],
   "news": [
+    {
+      "title": "ABD’de 13,4 ton Arjantin eti geri çağrıldı! Türkiye için de ithalat denetimi gündemde",
+      "url": "https://www.tarimdanhaber.com/abdde-134-ton-arjantin-eti-geri-cagrildi-turkiye-icin-de-ithalat-denetimi-gundemde",
+      "source": "Tarımdan Haber",
+      "date": "2026-08-12",
+      "summary": "ABD’de Arjantin’den ithal edilen yaklaşık 13,4 ton sığır eti, ülkeye girişte yapılması gereken zorunlu yeniden denetimden geçmediğinin belirlenmesi üzerine geri çağrıldı. Ürünlerle bağlantılı herhangi bir hastalık vakası bildirilmezken, olay ithal ette sınır kontrollerinin önemini yeniden gündeme ge",
+      "content": "Haber Merkezi / ABD'de Arjantin'den ithal edilen sığır etleriyle ilgili dikkat çeken bir geri çağırma kararı alındı. ABD Tarım Bakanlığı Gıda Güvenliği ve Denetim Servisi'nin (FSIS) açıklamasına göre Florida merkezli Corte Argentino USA LLC, Arjantin'den ithal ettiği 29 bin 628 pound, yani yaklaşık 13,4 ton çiğ sığır eti ürününü geri çağırdı.\n\nGeri çağırmanın nedeni ise ürünlerin ABD'ye girişinin ardından zorunlu ithalat yeniden denetiminden geçirilmemesi.\n\nArjantin'den geldi, Florida ve Texas'a dağıtıldı\n\nGeri çağırmaya konu ürünlerin 15-20 Mayıs 2026 tarihleri arasında üretildiği ve Arjantin'deki Frigorifico Gorina SAIC tesisinden geldiği bildirildi.\n\nEtlerin Florida ve Texas'taki dağıtıcı ve perakendecilere gönderildiği belirtilirken, ürünler arasında farklı kemiksiz sığır eti parçaları bulunuyor.\n\nSorunun FSIS'in rutin denetim faaliyetleri sırasında tespit edildiği bildirildi.\n\nEtte hastalık tespit edildi mi?\n\nGeri çağırmayla ilgili önemli ayrıntılardan biri de ürünlerde şu ana kadar açıklanmış bir hastalık veya kontaminasyon tespiti bulunmaması.\n\nYetkililere ulaşan doğrulanmış bir hastalık veya olumsuz reaksiyon vakası da bildirilmedi.\n\nDolayısıyla geri çağırmanın nedeni, etlerde belirlenmiş bir hastalık etkeninden ziyade, ABD'ye ithal edilen ürünlerin geçmesi gereken zorunlu yeniden denetim prosedürünün uygulanmamış olması.\n\nBuna rağmen olay, ithal gıda ürünlerinde sınır kontrollerinden birinin atlanmasının ürünlerin piyasaya kadar ulaşabilmesine ilişkin önemli bir denetim tartışmasını beraberinde getirdi.\n\nTrump Arjantin etinde kotayı 100 bin tona çıkardı\n\nOlayı daha dikkat çekici hale getiren bir başka gelişme ise ABD'nin Arjantin sığır eti ithalatına yönelik 2026 yılı kararı.\n\nABD Başkanı Donald Trump, Şubat 2026'da Arjantin'den yapılacak belirli yağsız sığır eti ithalatı için 80 bin tonluk ilave tarife kotası açtı.\n\nArjantin'in daha önce yıllık 20 bin tonluk ülkeye özgü sığır eti kotası bulunuyordu. İlave düzenlemeyle 2026 yılında toplam kota imkânı 100 bin tona ulaşmış oldu. İlave 80 bin tonun yıl içerisinde dört ayrı 20 bin tonluk dilim halinde kullandırılması kararlaştırıldı.\n\nUSDA'nın Arjantin'e ilişkin raporunda da ülkenin ABD'ye sığır eti ihracatındaki yeni fırsata dikkat çekiliyor. ABD'nin Arjantin'den yaptığı sığır eti ithalatının 2025 yılında 42 bin 445 tona ulaştığı belirtilirken, 2026'daki ilave kota özellikle yağsız kemiksiz sığır eti ürünlerini kapsıyor.\n\nİthalat artarken denetimin önemi de artıyor\n\nABD'deki olayın ortaya koyduğu temel mesele ise ithalat miktarından çok ithal edilen etin denetim zincirinin eksiksiz işletilip işletilmediği.\n\nBir ülkenin veteriner sağlık sertifikası veya ihracat onayı, ithalatçı ülkenin kendi kontrollerinin yerini tutmuyor.\n\nABD'de yaşanan olayda da ürünlerin Arjantin'den gelmiş olması tek başına geri çağırmanın nedeni değil. Sorun, ABD'nin kendi mevzuatı kapsamında uygulanması gereken yeniden denetim aşamasının atlanması.\n\nBu nedenle olayın doğrudan “Arjantin eti sağlıksız” şeklinde değerlendirilmesi doğru olmaz.\n\nAncak 13,4 ton etin zorunlu yeniden denetimden geçmeden dağıtım zincirine girebilmiş olması, ithalat kontrollerinin ne kadar kritik olduğunu açık biçimde ortaya koyuyor.\n\nTürkiye açısından neden önemli?\n\nTürkiye de son yıllarda kırmızı et ve canlı hayvan ithalatını yoğun biçimde kullanan ülkeler arasında bulunuyor.\n\nDolayısıyla ABD'deki geri çağırma Türkiye açısından da önemli bir soruyu gündeme getiriyor:\n\nTürkiye'ye ithal edilen kırmızı etlerde sınırdan tüketiciye kadar denetim zinciri nasıl işliyor?\n\nİthal edilen ürünlerin veteriner sağlık belgelerinin kontrolünden fiziksel muayene ve gerekli laboratuvar analizlerine kadar bütün aşamaların eksiksiz uygulanması, ithalat miktarının arttığı dönemlerde daha da önem kazanıyor.\n\nABD'deki olayın Türkiye'ye doğrudan bir sağlık tehdidi oluşturduğunu söylemek için şu aşamada bir veri bulunmuyor.\n\nAncak yaşanan gelişme, ithal ette denetimin hiçbir aşamasının formalite olarak görülmemesi gerektiğini gösteren önemli bir örnek.\n\nTarım ve Orman Bakanlığının da başta yüksek miktarda kırmızı et ithalatı yapılan ülkeler olmak üzere Türkiye'ye giren ürünlerde uygulanan kontrolleri kamuoyuna şeffaf biçimde açıklaması, tüketicide oluşabilecek soru işaretlerinin giderilmesi açısından önem taşıyor.\n\nÇünkü mesele etin hangi ülkeden geldiğinden önce, Türkiye'ye girerken hangi kontrollerden geçtiği ve bu kontrollerin eksiksiz uygulanıp uygulanmadığıdır."
+    },
     {
       "title": "Ankara'da çiftçiye yeni ürün modeli: Tohumu ve gübresi ücretsiz verilecek, sözleşmeli üretim yapılacak",
       "url": "https://www.tarimdanhaber.com/ankarada-ciftciye-yeni-urun-modeli-tohumu-ve-gubresi-ucretsiz-verilecek-sozlesmeli-uretim-yapilacak",
@@ -125,14 +133,6 @@
       "date": "2026-08-11",
       "summary": "Arjantin'in ayçiçek yağı ihracatı haziranda yıllık bazda iki katın üzerinde artarak 254 bin tona ulaştı. Oil World verilerine göre Hindistan, 103 bin tonluk alımla Arjantin ayçiçek yağının en büyük alıcısı oldu.",
       "content": "ALMANYA — Arjantin'in ayçiçek yağı ihracatı haziran ayında yıllık bazda iki katın üzerinde artarak 254 bin tona yükseldi. Oil World verilerine göre geçen yılın aynı ayında ihracat yaklaşık 122 bin ton düzeyindeydi.\n\nHaziran ayındaki ihracat artışında ayçiçeği işleme miktarındaki yükseliş ve ürüne yönelik güçlü talep etkili oldu. Arjantin'de haziran ayında ayçiçeği işleme miktarı 549 bin tona çıktı. Bu miktar, 2025 yılının aynı ayında 491 bin ton olarak gerçekleşmişti.\n\nEn büyük alıcı Hindistan oldu\n\nArjantin'in haziran ayındaki ayçiçek yağı ihracatında en büyük alıcı Hindistan oldu.\n\nHindistan'a haziran ayında 103 bin ton ayçiçek yağı gönderildi. Geçen yılın aynı ayında bu miktar 46 bin ton seviyesindeydi.\n\nBöylece Hindistan'ın Arjantin'den ayçiçek yağı alımı bir yılda 57 bin ton arttı.\n\nKuzey Afrika ülkelerine 35 bin ton, Ürdün'e ise 30 bin ton ayçiçek yağı sevk edildi. Haberde, Ürdün'e gönderilen ürünün bir bölümünün komşu ülkelere yeniden ihraç edilebileceği değerlendiriliyor.\n\nYılın ilk yarısında ihracat 1 milyon tonu aştı\n\nArjantin'in ayçiçek yağı ihracatındaki artış yalnızca haziran ayıyla sınırlı kalmadı.\n\nYılın ilk altı ayında ülkenin ayçiçek yağı ihracatı 1,03 milyon tona ulaştı. Geçen yılın aynı döneminde bu miktar 650 bin ton seviyesindeydi.\n\nBuna göre yılın ilk yarısındaki ihracat yaklaşık 380 bin ton arttı.\n\nHindistan'ın bu dönemde Arjantin'den yaptığı ayçiçek yağı alımı ise 571 bin tona ulaştı. Geçen yılın ocak-haziran döneminde bu miktar 270 bin ton olmuştu.\n\nBöylece Hindistan'ın alımı yıllık bazda 301 bin ton arttı.\n\nİşleme miktarının yüksek kalması bekleniyor\n\nArjantin'de ayçiçeği işleme faaliyetlerinin önümüzdeki dönemde de geçen yılın üzerinde seyretmesi bekleniyor.\n\nAnalistlerin değerlendirmesine göre temmuz-eylül döneminde ayçiçeği işleme miktarının yüksek kalması, ayçiçek yağı ihracatının yanı sıra ayçiçek küspesi ihracatının da yüksek seviyelerini korumasına imkân sağlayabilir.\n\nHaziran ayındaki güçlü ihracat performansında ise hem ayçiçek yağına yönelik yüksek talebin hem de ülkedeki işleme hacminin artmasının etkili olduğu belirtiliyor.\n\nArjantin'in ayçiçek yağı ihracatındaki bu yükseliş, özellikle Hindistan'ın artan alımlarıyla dikkat çekiyor.\n\nTARIM PUSULASI HABER MERKEZİ"
-    },
-    {
-      "title": "İKAR: Rusya’da buğday fiyatları liman sorunlarıyla geriledi",
-      "url": "https://www.tarimpusulasi.com/haber/ikar-rusyada-bugday-fiyatlari-liman-sorunlariyla-geriledi-47337",
-      "source": "Tarım Pusulası",
-      "date": "2026-08-11",
-      "summary": "Rusya’da buğday fiyatlarındaki düşüş hızlanırken, ihracatta Karadeniz ve Azak Denizi limanlarının karşı karşıya olduğu lojistik sorunlar öne çıktı. Sektör temsilcileri, ihracatın aksaması halinde küresel buğday arzında ciddi risk oluşabileceğini belirtiyor.",
-      "content": "MOSKOVA — Rusya’da buğday fiyatlarındaki düşüş geçen hafta hızlanırken, piyasa uzmanları gerilemede talep zayıflığı ve arzın hızlı artmasının yanı sıra ihracat lojistiğindeki sorunların etkili olduğunu bildirdi.\n\nProZerno’nun piyasa izleme raporunda, temmuz ayının son haftasında tüm buğday sınıflarında ve kısmen arpada sert fiyat düşüşleri yaşandığı belirtildi. En büyük buğday fiyat düşüşü Çernozem bölgesinde görülürken, yemlik arpa ve mısır en fazla güney bölgelerinde, ekmeklik çavdar ise Volga bölgesinde ucuzladı.\n\nİhracat limanlarındaki sorunlar fiyatları etkiledi\n\nPiyasa uzmanlarına göre fiyatlardaki düşüşün önemli nedenlerinden biri, Azak Denizi-Don havzasındaki küçük limanlarda alımların durması ve Karadeniz'in derin su limanlarında faaliyetlerin yavaşlaması oldu.\n\nRaporda bu durumun arkasında lojistik riskler ve altyapının çalışmasındaki aksamaların bulunduğu belirtildi.\n\nİKAR Genel Müdürü Dmitriy Rılko, üretici fiyatlarının genellikle ihracat bazından etkilendiğini, mevcut durumda ise fiyatların yeni ihracat koşullarına ve yeni ihracat bazlarına uyum sağladığını ifade etti.\n\nRılko'ya göre Rusya'nın geleneksel ihracat kanalı olan güney limanlarının önemi bu sezon azalırken, Baltık limanlarının önemi artıyor. Ancak mevcut ihracat sezonunun genel görünümüne ilişkin kesin değerlendirme yapmak için henüz erken.\n\nRusya'da 3 Ağustos itibarıyla 50,8 milyon ton tahıl hasat edildi\n\nProZerno'nun verilerine göre 3 Ağustos itibarıyla Rusya'da 50,8 milyon ton tahıl hasadı gerçekleştirildi. Geçen yıl aynı tarihte bu miktar 51,9 milyon ton seviyesindeydi.\n\nBuna göre bu yıl aynı tarihe kıyasla hasat edilen tahıl miktarı 1,1 milyon ton daha düşük bulunuyor.\n\nAncak piyasadaki fiyat hareketlerinde yalnızca hasat miktarının değil, ihracat kanallarındaki gelişmelerin de belirleyici olduğu görülüyor.\n\nRusya'nın tahıl ihracatında Karadeniz ve Azak limanları kritik\n\nRusya Tahıl İhracatçıları ve Üreticileri Birliği'nin değerlendirmesine göre, Karadeniz ve Azak Denizi limanları Rusya'nın uluslararası tahıl sevkiyatlarının yüzde 80'inden fazlasını gerçekleştiriyor.\n\nBirlik, Karadeniz havzasındaki deniz taşımacılığının zorlaşması ve ihracat koridorlarında yaşanabilecek aksamaların Rusya'nın buğday ihracatını önemli ölçüde etkileyebileceğini savunuyor.\n\nBirliğin değerlendirmesinde, mevcut sorunların devam etmesi halinde Rusya'nın içinde bulunduğu sezonda dünya piyasalarına 30-35 milyon ton daha az buğday gönderebileceği öngörülüyor.\n\nBu miktarın, dünya buğday ticaretinin yaklaşık %15'ine karşılık gelebileceği belirtiliyor.\n\nRusya'nın her yıl 70'ten fazla ülkeye buğday ihraç ettiği de ifade ediliyor.\n\nKüresel buğday fiyatlarında yükseliş riski\n\nSektör birliği, Rusya'nın ihracatındaki olası düşüşün diğer üretici ülkelerin ihracatını artırmasıyla tamamen telafi edilemeyebileceğini değerlendiriyor.\n\nBirliğin açıklamasında, fiziksel tahıl arzındaki olası yetersizliğin küresel piyasada uzun süreli bir krizi tetikleyebileceği savunulurken, mevcut olumsuz koşulların devam etmesi halinde buğdayın FOB fiyatının ton başına 340-370 dolara çıkabileceği ve ilerleyen süreçte 400 doların üzerine yükselebileceği öne sürülüyor.\n\nDeğerlendirmeye göre özellikle Karadeniz havzasından yapılan tahıl ithalatına daha fazla bağımlı olan Orta Doğu ve Afrika ülkeleri yüksek risk bölgesinde bulunuyor.\n\nBu gelişmelerin yalnızca Rusya'daki üretici fiyatlarını değil, Rusya'nın önemli ihracatçı konumunda olduğu küresel buğday piyasasını da yakından ilgilendirdiği belirtiliyor.\n\nTARIM PUSULASI HABER MERKEZİ"
     }
   ],
   "commoditiesByBorsa": {
@@ -328,18 +328,5 @@
   "defaultBorsa": "5ED10",
   "defaultCity": "CANAKKALE",
   "note": "Fiyatlar TOBB ticaret borsasından (borsa seçilebilir). Kanola manuel (Trakya 2025).",
-  "inputsNote": "Mazot: akaryakıt bayi fiyatı, günlük (şehir seçilebilir). Gübre: manuel (yaklaşık).",
-  "errors": [
-    "fx: fetch failed",
-    "mazot ANKARA: fetch failed",
-    "mazot ISTANBUL: fetch failed",
-    "mazot IZMIR: fetch failed",
-    "mazot KONYA: fetch failed",
-    "mazot ADANA: fetch failed",
-    "mazot BURSA: fetch failed",
-    "mazot ANTALYA: fetch failed",
-    "mazot SAMSUN: fetch failed",
-    "mazot TEKIRDAG: fetch failed",
-    "mazot CANAKKALE: fetch failed"
-  ]
+  "inputsNote": "Mazot: akaryakıt bayi fiyatı, günlük (şehir seçilebilir). Gübre: manuel (yaklaşık)."
 }
