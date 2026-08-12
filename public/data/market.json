@@ -1,26 +1,26 @@
 {
-  "updatedAt": "2026-08-12T04:17:53.025Z",
+  "updatedAt": "2026-08-12T05:47:45.478Z",
   "fx": [
     {
       "code": "USD",
       "name": "Dolar",
       "buy": 47.75,
       "sell": 47.76,
-      "change": 0.05
+      "change": 0.06
     },
     {
       "code": "EUR",
       "name": "Euro",
       "buy": 55.1,
-      "sell": 55.14,
+      "sell": 55.15,
       "change": -0.03
     },
     {
       "code": "GRA",
       "name": "Gram Altın",
-      "buy": 6749.01,
-      "sell": 6749.97,
-      "change": 0.68
+      "buy": 6735.15,
+      "sell": 6736.07,
+      "change": 0.47
     },
     {
       "code": "CEYREKALTIN",
@@ -38,6 +38,14 @@
     }
   ],
   "news": [
+    {
+      "title": "Türkiye tarımda dünya 6'ncısı! Peki bu büyüme çiftçiye nasıl yansıdı?",
+      "url": "https://www.tarimdanhaber.com/turkiye-tarimda-dunya-6ncisi-peki-bu-buyume-ciftciye-nasil-yansidi",
+      "source": "Tarımdan Haber",
+      "date": "2026-08-12",
+      "summary": "Türkiye'nin brüt tarımsal üretim değeri 92,35 milyar dolara ulaşırken dünya sıralamasında 6'ncılığa yükselmesi dikkat çekti. Tarım politikaları uzmanı Ergin Kahveci'nin FAOSTAT verileri üzerinden yaptığı analiz, Türkiye tarımının ekonomik büyüklüğünü ortaya koyarken önemli bir soruyu da gündeme geti",
+      "content": "Haber Merkezi / Türkiye tarımsal üretim değeri açısından dünyanın önde gelen ülkeleri arasında bulunuyor. Tarım politikaları uzmanı Ergin Kahveci'nin FAOSTAT verilerini inceleyerek yaptığı hesaplamaya göre Türkiye'nin cari fiyatlarla brüt tarımsal üretim değeri 2024 yılında 92 milyar 350 milyon dolara ulaştı.\n\nTürkiye bu rakamla dünya sıralamasında 6'ncı sırada yer aldı.\n\nAncak Kahveci'nin ortaya koyduğu veriler, Türkiye tarımının büyüklüğünün yanında çiftçi açısından çok daha önemli başka bir tartışmanın da kapısını açıyor.\n\nTürkiye tarımda büyüdü, çiftçinin durumu ne oldu?\n\nKahveci'nin “Tarımsal üretim değerinde kaçıncıyız?” başlıklı makalesinde Türkiye'nin yalnızca cari üretim değerini değil, sabit fiyatlarla 21 yıllık değişimini de incelemesi dikkat çekiyor.\n\nFAOSTAT'ın 2014-2016 sabit fiyatlarıyla Türkiye'nin brüt tarımsal üretim değeri 2003 yılında 54,67 milyar dolar seviyesindeyken, 2024 yılında 98,37 milyar dolara yükseldi.\n\nKahveci'nin hesaplamasına göre bu, 21 yılda yaklaşık yüzde 80'lik reel artışa karşılık geliyor.\n\nAncak üretim değerindeki artış çiftçinin kazancını gösteriyor mu?\n\nİşte makalenin çiftçi açısından en önemli tartışma noktası burada başlıyor.\n\nBrüt tarımsal üretim değerinin yükselmesi, çiftçinin gelirinin veya kârlılığının aynı oranda yükseldiği anlamına gelmiyor.\n\nÇünkü üreticinin ekonomik durumunu belirleyen yalnızca ürettiği ürünün satış değeri değil, o ürünü üretirken karşı karşıya kaldığı maliyetler.\n\nKahveci de analizinin sonunda bu noktaya dikkat çekerek, daha gerçekçi bir değerlendirme yapılabilmesi için Tarımsal Üretici Fiyatları ile Tarımsal Girdi Fiyat Enflasyonunun birlikte değerlendirilmesi gerektiğini belirtiyor.\n\nAsıl hesap üretici fiyatı ile girdi maliyetinde\n\nBu durumda Türkiye'nin tarımsal üretim değerindeki büyümenin çiftçiye nasıl yansıdığını ortaya koyacak ikinci bir hesap gerekiyor.\n\nBir tarafta çiftçinin sattığı ürünlerin fiyatındaki değişim, diğer tarafta ise üretim yapabilmek için satın aldığı girdilerin fiyatındaki değişim bulunuyor.\n\nGübre, mazot, yem, tohum, ilaç, enerji ve diğer üretim girdilerindeki maliyet artışı, üreticinin elde ettiği ürün fiyatından daha hızlı yükseliyorsa tarımsal üretim değeri büyürken çiftçinin kârlılığı aynı ölçüde artmayabilir.\n\nTersi durumda ise üreticinin ekonomik konumu güçlenebilir.\n\nDolayısıyla yalnızca 92,35 milyar dolarlık üretim değerinden hareketle çiftçinin kazandığı veya kaybettiği sonucuna ulaşmak mümkün değil.\n\nDünya 6'ncılığı önemli ama çiftçi açısından başka bir gösterge gerekiyor\n\nKahveci'nin FAOSTAT verileri üzerinden ortaya koyduğu tablo Türkiye'nin dünya tarımındaki üretim gücünü gösteriyor.\n\nTürkiye 2003 yılında cari üretim değeri bakımından dünya 9'uncusuyken, 2024 yılında 6'ncı sıraya yükseldi.\n\nAncak bu başarı göstergesinin çiftçinin ekonomik durumuyla tamamlanması gerekiyor.\n\nKahveci'nin analizinin sonunda işaret ettiği Tarım-ÜFE ve Tarım-GFE karşılaştırması bu nedenle ayrı bir önem taşıyor.\n\nTürkiye'nin 92,35 milyar dolarlık tarımsal üretim değerinin ve dünya 6'ncılığının çiftçinin cebine nasıl yansıdığı, üretici fiyatları ile üretim maliyetlerinin birlikte incelenmesiyle daha net ortaya çıkacak."
+    },
     {
       "title": "Kazakistan’da buğday fiyatları Rusya baskısıyla düşüyor",
       "url": "https://www.tarimpusulasi.com/haber/kazakistanda-bugday-fiyatlari-rusya-baskisiyla-dusuyor-47342",
@@ -125,14 +133,6 @@
       "date": "2026-08-11",
       "summary": "Türkiye'nin brüt tarımsal üretim değeri 2003'te 61,1 milyar lirayken 2024'te 3 trilyon lirayı geçti. Tarım politikaları uzmanı Ergin Kahveci'nin FAOSTAT verileri üzerinden yaptığı analizde, cari rakamlardaki yaklaşık 50 katlık artışa karşılık sabit fiyatlı üretim değerindeki artışın yaklaşık yüzde 8",
       "content": "Haber Merkezi / Türkiye tarımının son 21 yıldaki gelişimine yalnızca cari TL üzerinden bakıldığında ortaya oldukça çarpıcı bir tablo çıkıyor.\n\nTarım politikaları uzmanı Ergin Kahveci'nin FAOSTAT verileri üzerinden yaptığı çalışmaya göre Türkiye'nin brüt tarımsal üretim değeri 2003 yılında 61 milyar 134 milyon TL seviyesindeyken, 2024 yılında 3 trilyon 29,6 milyar TL'ye yükseldi.\n\nKahveci'nin “Tarımsal üretim değerinde kaçıncıyız?” başlıklı analizinde yaptığı hesaplamaya göre, cari TL üzerinden tarımsal üretim değerindeki artış 21 yılda 49,56 kata ulaştı.\n\nTarımsal üretim 50 kat mı arttı?\n\nKahveci'nin analizinin dikkat çekici tarafı tam da burada ortaya çıkıyor.\n\nCari TL cinsinden üretim değerinin yaklaşık 50 katına çıkması, tarımsal üretimde aynı oranda reel bir büyüme yaşandığı anlamına gelmiyor.\n\nKahveci bu nedenle cari fiyatlarla hesaplanan değerlerin yanında FAOSTAT'ın sabit fiyatlı serisini de karşılaştırıyor.\n\nSabit fiyatlarda artış yüzde 80\n\n2014-2016 sabit dolar fiyatlarıyla Türkiye'nin brüt tarımsal üretim değeri 2003 yılında 54,67 milyar dolar seviyesinde bulunuyordu.\n\n2024 yılında ise bu rakam 98,37 milyar dolara çıktı.\n\nKahveci bu iki rakam üzerinden yaptığı değerlendirmede, 21 yıldaki reel artışı yaklaşık 1,8 kat, yani yüzde 80 olarak hesaplıyor.\n\nBöylece aynı 21 yıllık dönem için iki farklı görüntü ortaya çıkıyor:\n\nCari TL ile üretim değeri yaklaşık 49,5 katına çıkarken, sabit fiyatlarla hesaplanan üretim değerindeki artış yaklaşık yüzde 80 seviyesinde bulunuyor.\n\n3 trilyon liralık rakam neden yanıltıcı okunabilir?\n\nKahveci'nin çalışması, tarımsal üretim rakamlarında cari değerlerle reel değerlerin ayrılmasının önemini de ortaya koyuyor.\n\nÇünkü 2003 yılında 61,1 milyar TL olan üretim değerinin 2024'te 3 trilyon lirayı aşması tek başına Türkiye'nin tarımsal üretim performansını göstermiyor.\n\nUzun yıllara yayılan fiyat artışlarının da cari üretim değerini yukarı taşıdığı dikkate alındığında, tarımın gerçek performansının değerlendirilmesinde sabit fiyatlı veriler ayrı bir önem taşıyor.\n\nTürkiye'nin dünya sıralaması da değişti\n\nBuna rağmen Kahveci'nin analizi Türkiye tarımında reel üretim değerinin arttığını da ortaya koyuyor.\n\nSabit fiyatlı seriye göre Türkiye 2003 yılında dünya sıralamasında 10'uncu sıradayken, 2024 yılında 6'ncı sıraya yükseldi.\n\nDolayısıyla Kahveci'nin ortaya koyduğu 21 yıllık tablo, Türkiye tarımında nominal rakamların gösterdiği 50 kata yakın bir büyüme olmadığını ancak sabit fiyatlarla üretim değerinde de önemli bir artış yaşandığını gösteriyor."
-    },
-    {
-      "title": "Ağustos geldi çiğ süt desteği açıklanmadı! Üretici Ocak-Mart ödemesini bekliyor",
-      "url": "https://www.tarimdanhaber.com/agustos-geldi-cig-sut-destegi-aciklanmadi-uretici-ocak-mart-odemesini-bekliyor",
-      "source": "Tarımdan Haber",
-      "date": "2026-08-10",
-      "summary": "2026 yılının Ağustos ayına gelinmesine rağmen çiğ süt destekleme tutarının açıklanmaması süt üreticisinin gündeminde. TÜSEDAD Yönetim Kurulu Başkanı Müslüm Doğru, yılın ilk destekleme dönemi olan Ocak-Şubat-Mart aylarına ilişkin litre başına destek tutarının ve ödeme takviminin hala ilan edilmediğin",
-      "content": "Haber Merkezi / Süt üreticisinin 2026 yılı çiğ süt desteğine ilişkin bekleyişi sürüyor. Yılın 8'inci ayına girilmesine rağmen üretici, 2026 yılında ürettiği çiğ sütün litre başına ne kadar destekleneceğini henüz bilmiyor.\n\nTüm Süt, Et ve Damızlık Sığır Yetiştiricileri Derneği (TÜSEDAD) Yönetim Kurulu Başkanı Müslüm Doğru, yaptığı açıklamada 2026 yılı çiğ süt destekleme tutarı ile ödeme takviminin henüz açıklanmamasına dikkat çekti.\n\nDoğru, özellikle yılın ilk üç aylık dönemine ait destek tutarının dahi belli olmamasının, hayvancılıkta uygulanan planlı üretim modelinin öngörülebilirlik hedefiyle örtüşmediğini vurguladı.\n\nÜretici Ocak-Mart döneminde ürettiği sütün desteğini bilmiyor\n\nMüslüm Doğru'nun açıklamasında dikkat çektiği en önemli konu, 2026 yılının ilk destekleme döneminin üzerinden aylar geçmesine rağmen destek miktarının açıklanmamış olması oldu.\n\nMevcut sistemde çiğ süt desteklerinin üçer aylık dönemler halinde ödendiğini hatırlatan Doğru, Ocak-Şubat-Mart döneminde üretilen süt için litre başına ne kadar destek verileceğinin henüz ilan edilmediğini, ödeme takviminin de açıklanmadığını belirtti.\n\nİkinci destekleme dönemine ilişkin işlemler devam ederken ilk dönemin destek tutarının dahi belli olmamasının üreticinin beklentisini artırdığına dikkat çekildi.\n\n2025'te litre başına 20 kuruş temel destek uygulanmıştı\n\nTÜSEDAD'ın açıklamasına göre, 2025 üretim yılında çiğ süt için temel destek tutarı litre başına 20 kuruş olarak uygulanmış, belirlenen katsayılar doğrultusunda üreticilere ilave destekler de verilmişti.\n\n2025 yılına ait dört destekleme döneminin ödemeleri tamamlanırken, üç yıllık hayvancılık destekleme modelinin son yılı olan 2026'ya ilişkin çiğ süt temel destek tutarı henüz açıklanmadı.\n\nDoğru, üreticilerin Ağustos ayına gelinmesine rağmen 2026 yılında ürettikleri süt için litre başına ne kadar destek alacağını bilmediğine dikkat çekti.\n\n\"Üreticinin finansman planlaması açısından önemli\"\n\nÇiğ süt desteğinin süt işletmelerinin yem, enerji, işçilik ve diğer üretim giderlerinin karşılanmasına katkı sağlayan önemli desteklerden biri olduğunun altını çizen Müslüm Doğru, destek tutarı kadar ödemenin ne zaman yapılacağının bilinmesinin de üretici açısından önem taşıdığını kaydetti.\n\nDestek tutarı ve ödeme takviminin üretim dönemi içerisinde açıklanmasının işletmelerin nakit akışını yönetmesi, finansman planlamasını yapması ve üretimini öngörülebilir şekilde sürdürebilmesi açısından gerekli olduğunu belirtti.\n\nTÜSEDAD: Planlı üretimin öngörülebilirlik ilkesi zayıflıyor\n\nTÜSEDAD Başkanı Müslüm Doğru, hayvancılıkta 2024-2026 yıllarını kapsayan üç yıllık destekleme modelinin sektör tarafından olumlu karşılandığını hatırlattı.\n\nYeni modelin üreticinin destek politikalarını önceden görerek yatırım ve üretim planlaması yapabilmesi açısından önemli olduğunu belirten Doğru, 2026 çiğ süt desteğinde yaşanan belirsizliğin ise bu yaklaşımın temel amaçlarından biriyle çeliştiğine dikkat çekti.\n\nDoğru, “2026 yılına ilişkin destekleme tutarı ile ödeme takviminin hâlen açıklanmamış olması, planlı üretim modelinin temel hedeflerinden biri olan öngörülebilirlik ilkesini de zayıflatmaktadır” değerlendirmesinde bulundu.\n\nTÜSEDAD'dan Bakanlığa çağrı\n\nTÜSEDAD, 2026 yılında üretilecek çiğ süte verilecek desteğin litre başına tutarının ve ödeme takviminin bir an önce ilan edilmesini istedi.\n\nMüslüm Doğru, destek ödemelerinin açıklanacak takvim doğrultusunda gerçekleştirilmesinin hem üretim planlamasının sürekliliği hem de süt sektörünün sürdürülebilirliği açısından önem taşıdığını belirtti."
     }
   ],
   "commoditiesByBorsa": {
