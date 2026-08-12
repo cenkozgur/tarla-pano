@@ -1,43 +1,59 @@
 {
-  "updatedAt": "2026-08-12T12:25:44.810Z",
+  "updatedAt": "2026-08-12T13:58:02.449Z",
   "fx": [
     {
       "code": "USD",
       "name": "Dolar",
-      "buy": 477565,
-      "sell": 477591,
-      "change": 6
+      "buy": 47.75,
+      "sell": 47.76,
+      "change": 0.06
     },
     {
       "code": "EUR",
       "name": "Euro",
-      "buy": 551637,
-      "sell": 551723,
-      "change": 5
+      "buy": 55.21,
+      "sell": 55.22,
+      "change": 0.14
     },
     {
       "code": "GRA",
       "name": "Gram Altın",
-      "buy": 676678,
-      "sell": 676767,
-      "change": 94
+      "buy": 6801.04,
+      "sell": 6801.93,
+      "change": 1.45
     },
     {
       "code": "CEYREKALTIN",
       "name": "Çeyrek Altın",
-      "buy": 107965,
-      "sell": 1104515,
-      "change": 64
+      "buy": 10858.66,
+      "sell": 11114.22,
+      "change": 1.27
     },
     {
       "code": "CUMHURIYETALTINI",
       "name": "Cumhuriyet Altını",
       "buy": 44758,
       "sell": 45434,
-      "change": 57
+      "change": 0.57
     }
   ],
   "news": [
+    {
+      "title": "TÜİK: Haziranda tavuk eti üretimi %15, yumurta %21 arttı",
+      "url": "https://www.tarimpusulasi.com/haber/tuik-haziranda-tavuk-eti-uretimi-15-yumurta-21-artti-47346",
+      "source": "Tarım Pusulası",
+      "date": "2026-08-12",
+      "summary": "TÜİK verilerine göre Haziran ayında tavuk eti üretimi 232 bin 238 tona, tavuk yumurtası üretimi ise 1 milyar 838 milyon 966 bin adede yükseldi. Yıllık bazda yumurta üretimi %21, tavuk eti üretimi %14,7 arttı.",
+      "content": "ANKARA — Türkiye İstatistik Kurumu (TÜİK), Haziran 2026 Kümes Hayvancılığı Üretimi verilerini açıkladı. Buna göre Haziran ayında tavuk eti üretimi geçen yılın aynı ayına göre %14,7 artarak 232 bin 238 tona, tavuk yumurtası üretimi ise %21 artarak 1 milyar 838 milyon 966 bin adede yükseldi.\n\nHaziran ayında kesilen tavuk sayısı da geçen yılın aynı ayına göre %14,4 arttı. Kesilen tavuk sayısı 107 milyon 798 bin adetten 123 milyon 325 bin adede çıktı.\n\nBöylece Haziran ayında üç temel kümes hayvancılığı göstergesinin tamamında yıllık artış kaydedildi. En yüksek artış %21 ile tavuk yumurtası üretiminde, ardından %14,7 ile tavuk eti üretimi ve %14,4 ile kesilen tavuk sayısında gerçekleşti.\n\nİlk 6 ayda yumurta üretimi %18,6 arttı\n\nOcak-Haziran döneminde tavuk yumurtası üretimindeki artış, Haziran ayındaki yükselişin de üzerinde gerçekleşti.\n\nTavuk yumurtası üretimi 2025'in ilk 6 ayındaki 9 milyar 431 milyon 316 bin adetten, 2026'nın aynı döneminde 11 milyar 184 milyon 595 bin adede yükseldi. Böylece yumurta üretimi yıllık bazda %18,6 arttı.\n\nTavuk eti üretimi ise Ocak-Haziran döneminde 1 milyon 364 bin 959 tondan 1 milyon 369 bin 534 tona çıktı. Böylece ilk 6 ayda üretim 4 bin 575 ton artarken, yıllık değişim %0,3 oldu.\n\nKesilen tavuk sayısı da aynı dönemde 726 milyon 594 binden 735 milyon 587 bine yükseldi. Artış oranı %1,2 olarak gerçekleşti.\n\nBu veriler, ilk 6 ayda yumurta üretimindeki büyümenin tavuk eti üretimindeki artıştan belirgin biçimde daha yüksek olduğunu gösterdi.\n\nHaziranda tavuk eti üretimi aylık bazda da arttı\n\nTÜİK'in aylık verileri, Haziran ayında tavuk eti üretiminde yıllık artışın yanı sıra aylık yükselişe de işaret etti.\n\nMayıs ayında 202 bin 336 ton olan tavuk eti üretimi, Haziran ayında 232 bin 238 tona çıktı. Böylece üretim bir ayda 29 bin 902 ton artarken, aylık artış oranı %14,8 oldu.\n\nBurada yıllık ve aylık değişimin birbirinden ayrılması önem taşıyor. Tavuk eti üretimi Haziran 2025'e göre %14,7, Mayıs 2026'ya göre ise %14,8 arttı.\n\nYumurta üretimi aylık bazda geriledi\n\nTavuk yumurtası üretiminde ise yıllık artışa karşın aylık bazda sınırlı bir gerileme görüldü.\n\nMayıs ayında 1 milyar 857 milyon 150 bin adet olan tavuk yumurtası üretimi, Haziran ayında 1 milyar 838 milyon 966 bin adede geriledi. Böylece aylık üretim 18 milyon 184 bin adet azalırken, değişim %1,0 düşüş olarak gerçekleşti.\n\nBuna karşın Haziran 2026'daki yumurta üretimi, Haziran 2025'teki 1 milyar 519 milyon 295 bin adedin oldukça üzerinde gerçekleşti. Yıllık bazda artış oranı %21,0 oldu.\n\nHAZİRAN 2026 VERİLERİ\n\nGösterge\n\nHaziran 2025\n\nHaziran 2026\n\nDeğişim\n\nTavuk eti\n\n202.532 ton\n\n232.238 ton\n\n%14,7\n\nKesilen tavuk\n\n107.798 bin adet\n\n123.325 bin adet\n\n%14,4\n\nTavuk yumurtası\n\n1.519.295 bin adet\n\n1.838.966 bin adet\n\n%21,0\n\nOCAK-HAZİRAN 2026 VERİLERİ\n\nGösterge\n\nOcak-Haziran 2025\n\nOcak-Haziran 2026\n\nDeğişim\n\nTavuk eti\n\n1.364.959 ton\n\n1.369.534 ton\n\n%0,3\n\nKesilen tavuk\n\n726.594 bin adet\n\n735.587 bin adet\n\n%1,2\n\nTavuk yumurtası\n\n9.431.316 bin adet\n\n11.184.595 bin adet\n\n%18,6\n\nTÜİK'in tablosundaki oranlar yuvarlanmış rakamlar üzerinden hesaplanmıştır.\n\nTARIM PUSULASI HABER MERKEZİ"
+    },
+    {
+      "title": "TÜİK: Haziranda süt toplama %6,5, yoğurt üretimi %14,1 arttı",
+      "url": "https://www.tarimpusulasi.com/haber/tuik-haziranda-sut-toplama-65-yogurt-uretimi-141-artti-47345",
+      "source": "Tarım Pusulası",
+      "date": "2026-08-12",
+      "summary": "TÜİK verilerine göre ticari süt işletmelerince Haziran ayında 995 bin 463 ton inek sütü toplandı. Yoğurt üretimi %14,1 artarak 131 bin 876 tona çıkarken, Ocak-Haziran döneminde toplanan süt miktarı yıllık bazda %1,5 arttı.",
+      "content": "ANKARA — Türkiye İstatistik Kurumu (TÜİK), Haziran 2026 Süt ve Süt Ürünleri Üretimi verilerini açıkladı. Buna göre ticari süt işletmelerince toplanan inek sütü miktarı, Haziran ayında geçen yılın aynı ayına göre %6,5 artarak 995 bin 463 tona yükseldi. Aynı dönemde süt ürünleri arasında en yüksek yıllık üretim artışı %14,1 ile yoğurtta gerçekleşti.\n\nHaziran ayında 131 bin 876 ton yoğurt üretildi. Yoğurt üretimi, geçen yılın aynı ayında 115 bin 622 ton seviyesindeydi. Böylece bir yılda üretim 16 bin 254 ton arttı.\n\nİçme sütü üretimi de Haziran ayında yıllık bazda %11,7 artarak 139 bin 778 tona çıktı. Haziran 2025'te bu miktar 125 bin 109 ton olmuştu.\n\nAyran ve kefir üretimi Haziran ayında %11,4 artarak 98 bin 486 tona, inek peyniri üretimi %8,5 artarak 71 bin 644 tona yükseldi. Tereyağı ve sadeyağ üretimi ise yıllık bazda %11,8 artışla 9 bin 690 ton oldu.\n\nİlk 6 ayda toplanan süt 5,85 milyon tona ulaştı\n\nOcak-Haziran döneminde ticari süt işletmelerince toplanan inek sütü miktarı, 2025'in aynı dönemindeki 5 milyon 769 bin 525 tondan, 2026'nın aynı döneminde 5 milyon 853 bin 491 tona yükseldi.\n\nBöylece ilk 6 aylık dönemde toplanan süt miktarı 83 bin 966 ton artarken, yıllık değişim %1,5 olarak gerçekleşti.\n\nSüt toplama verisindeki yıllık artışın Haziran ayında %6,5'e çıkmasına karşın, ilk 6 aylık toplamda artışın %1,5'te kalması, yılın ilk yarısında aylık üretim seyrinin daha sınırlı olduğunu gösterdi.\n\nYoğurt üretiminde 6 aylık artış %9,4\n\nOcak-Haziran döneminde yoğurt üretimi 661 bin 60 tondan 722 bin 928 tona yükseldi. Böylece ilk 6 ayda yoğurt üretimi 61 bin 868 ton artarak %9,4 yükseldi.\n\nİçme sütü üretimi de yılın ilk 6 ayında %9,5 artışla 911 bin 598 tona ulaştı. 2025'in aynı döneminde üretim 832 bin 196 ton olarak kaydedilmişti.\n\nAyran ve kefir üretimi 486 bin 751 tondan 532 bin 437 tona çıkarak %9,4 arttı. İnek peyniri üretimi ise 414 bin 148 tondan 429 bin 549 tona yükseldi ve %3,7 artış gösterdi.\n\nBuna karşılık tereyağı ve sadeyağ üretimi, ilk 6 ayda 58 bin 114 tondan 56 bin 685 tona geriledi. Böylece söz konusu ürün grubunda yıllık bazda %2,5 düşüş kaydedildi.\n\nHaziran ayında aylık bazda süt toplama ve içme sütü üretimi geriledi\n\nTÜİK verileri, yıllık artışın yanında aylık değişimde farklı bir tablo ortaya koydu.\n\nMayıs 2026'da 1 milyon 22 bin 587 ton olan ticari süt işletmelerince toplanan inek sütü miktarı, Haziran ayında 995 bin 463 tona geriledi. Böylece aylık bazda 27 bin 124 tonluk düşüş yaşanırken değişim %2,7 azalış oldu.\n\nİçme sütü üretiminde de benzer bir aylık gerileme görüldü. Mayıs ayında 157 bin 453 ton olan içme sütü üretimi, Haziran'da 139 bin 778 tona düştü. Aylık azalış 17 bin 675 ton, oran olarak ise %11,2 oldu.\n\nBurada dikkat edilmesi gereken nokta, söz konusu aylık düşüşlerin yıllık değişimle karıştırılmaması. İçme sütü üretimi Mayıs'a göre %11,2 azalırken, Haziran 2025'e göre %11,7 arttı. Aynı şekilde toplanan inek sütü Mayıs'a göre %2,7 azalmasına rağmen geçen yılın Haziran ayına göre %6,5 yükseldi.\n\nHaziran ayının süt ürünleri tablosu\n\nÜrün\n\nHaziran 2025\n\nHaziran 2026\n\nYıllık değişim\n\nToplanan inek sütü\n\n934.972 ton\n\n995.463 ton\n\n%6,5\n\nİçme sütü\n\n125.109 ton\n\n139.778 ton\n\n%11,7\n\nYoğurt\n\n115.622 ton\n\n131.876 ton\n\n%14,1\n\nAyran ve kefir\n\n88.403 ton\n\n98.486 ton\n\n%11,4\n\nİnek peyniri\n\n66.021 ton\n\n71.644 ton\n\n%8,5\n\nTereyağı ve sadeyağ\n\n8.665 ton\n\n9.690 ton\n\n%11,8\n\nİlk 6 aylık tablo\n\nÜrün\n\nOcak-Haziran 2025\n\nOcak-Haziran 2026\n\nDeğişim\n\nToplanan inek sütü\n\n5.769.525 ton\n\n5.853.491 ton\n\n%1,5\n\nİçme sütü\n\n832.196 ton\n\n911.598 ton\n\n%9,5\n\nYoğurt\n\n661.060 ton\n\n722.928 ton\n\n%9,4\n\nAyran ve kefir\n\n486.751 ton\n\n532.437 ton\n\n%9,4\n\nİnek peyniri\n\n414.148 ton\n\n429.549 ton\n\n%3,7\n\nTereyağı ve sadeyağ\n\n58.114 ton\n\n56.685 ton\n\n-%2,5\n\nTÜİK, tabloda yer alan oranların yuvarlanmış rakamlar üzerinden hesaplandığını belirtti.\n\nTARIM PUSULASI HABER MERKEZİ"
+    },
     {
       "title": "ABD’de 13,4 ton Arjantin eti geri çağrıldı! Türkiye için de ithalat denetimi gündemde",
       "url": "https://www.tarimdanhaber.com/abdde-134-ton-arjantin-eti-geri-cagrildi-turkiye-icin-de-ithalat-denetimi-gundemde",
@@ -117,22 +133,6 @@
       "date": "2026-08-11",
       "summary": "Avrupa Birliği'nin 1 Temmuz-2 Ağustos 2026 dönemindeki tahıl ihracatı yıllık bazda yüzde 67 gerileyerek 1,35 milyon tona düştü. AB'nin mısır ihracatı da yüzde 43 azalırken, Türkiye 31,2 bin tonluk alımla ihracatın yüzde 61,8'ini tek başına gerçekleştirdi.",
       "content": "BRÜKSEL — Avrupa Birliği'nin 1 Temmuz-2 Ağustos 2026 dönemindeki tahıl ihracatı, geçen sezonun aynı dönemine göre yüzde 67 azalarak 1,35 milyon tona geriledi. Avrupa Komisyonu verilerine göre geçen sezonun aynı döneminde AB'nin tahıl ihracatı 4,02 milyon ton seviyesindeydi.\n\nTürkiye açısından dikkat çeken gelişme ise mısır ihracatında yaşandı. AB'nin mısır ihracatı yüzde 43 azalarak 50,5 bin tona gerilerken, bunun 31,2 bin tonu Türkiye'ye gönderildi. Böylece Türkiye, AB'nin toplam mısır ihracatının yüzde 61,8'ini tek başına gerçekleştiren en büyük alıcı oldu.\n\nBu veri, Türkiye'yi söz konusu dönemde AB'nin mısır ihracatında açık ara ilk sıraya yerleştirdi.\n\nAB'nin buğday ihracatı da geriledi\n\nAvrupa Birliği'nin buğday ihracatı, un ve işlenmiş ürünlerin tahıl eşdeğeri dahil edildiğinde yüzde 60 azalarak 784,8 bin tona düştü.\n\nYumuşak buğday ihracatı ise yüzde 61 gerileyerek 703,5 bin tona indi. Geçen sezonun aynı döneminde bu miktar 1,79 milyon ton seviyesindeydi.\n\nAB'nin yumuşak buğdaydaki en büyük alıcısı Nijerya oldu. Nijerya yaklaşık 160 bin ton alımla toplam ihracatın yüzde 22,7'sini gerçekleştirdi.\n\nNijerya'yı 62,6 bin tonla Endonezya, 57,7 bin tonla Cezayir, 56,8 bin tonla Vietnam ve 55,4 bin tonla Angola izledi.\n\nArpa ihracatında yüzde 82'lik düşüş\n\nAB'nin yemlik tahıl ihracatı da yüzde 73 azalarak 2,06 milyon tondan 561,1 bin tona geriledi.\n\nBu grupta en belirgin düşüş arpada görüldü. AB'nin arpa ihracatı yüzde 82 azalarak 307,3 bin tona düştü. Geçen sezonun aynı döneminde arpa ihracatı 1,7 milyon ton olmuştu.\n\nAB'nin ihraç ettiği arpanın yarısından fazlası, 155,4 bin tonu, Ürdün'e gönderildi.\n\nÜrdün'ü 30,5 bin tonla Suudi Arabistan, 30 bin tonla Fas, 28 bin tonla Çin ve 27 bin tonla Libya takip etti.\n\nTürkiye, AB mısır ihracatının yüzde 61,8'ini aldı\n\nAB'nin mısır ihracatındaki yüzde 43'lük düşüşe rağmen Türkiye'nin konumu dikkat çekti.\n\nToplam mısır ihracatı 50,5 bin ton olurken Türkiye'nin aldığı miktar 31,2 bin ton olarak kaydedildi.\n\nBu miktar toplam AB mısır ihracatının yüzde 61,8'ine karşılık geldi.\n\nDolayısıyla Türkiye, haber metnindeki verilere göre AB'nin söz konusu dönemdeki mısır ihracatında en büyük alıcı ülke oldu.\n\nAB'nin tahıl ithalatı arttı\n\nAB'nin ihracatındaki düşüşe karşılık, sezon başından bu yana gerçekleştirdiği tahıl ithalatı yüzde 15 artarak 1,73 milyon tona çıktı.\n\nMısır ithalatındaki artış ise yüzde 30 oldu ve ithalat miktarı 1,26 milyon tona yükseldi.\n\nAB'nin ithal ettiği mısırın 681,1 bin tonu Ukrayna'dan, 483,1 bin tonu ABD'den geldi. Böylece Ukrayna'nın payı yüzde 54, ABD'nin payı ise yüzde 38,3 oldu.\n\nBu iki ülke birlikte AB'nin toplam mısır ithalatının yaklaşık yüzde 92,3'ünü karşıladı.\n\nBuğday ithalatında farklı yönlü hareket\n\nAB'nin toplam buğday ithalatı yüzde 9 artarak 408,3 bin tona yükseldi.\n\nAncak ürün grupları arasında farklı bir tablo ortaya çıktı. Yumuşak buğday ithalatı yüzde 25 azalarak 202,9 bin tona gerilerken, durum buğdayı ithalatı iki kattan fazla artarak 183,4 bin tona çıktı.\n\nBöylece Avrupa Birliği'nin 2026/27 sezonunun ilk döneminde hem ihracatta hem de ithalatta ürün bazında farklı yönlü hareketler yaşandı. Türkiye açısından ise verilerde öne çıkan başlık, AB'nin mısır ihracatındaki düşüşe rağmen Türkiye'nin 31,2 bin tonla en büyük alıcı olması oldu.\n\nTARIM PUSULASI HABER MERKEZİ"
-    },
-    {
-      "title": "Rus Tahıl Birliği: Rusya'nın buğday ihracatı %17,7 düştü",
-      "url": "https://www.tarimpusulasi.com/haber/rus-tahil-birligi-rusyanin-bugday-ihracati-177-dustu-47339",
-      "source": "Tarım Pusulası",
-      "date": "2026-08-11",
-      "summary": "Rusya'nın temmuz ayındaki buğday ihracatı yıllık bazda %17,7 azalarak 1,8 milyon tona geriledi. Rus Tahıl Birliği, Azak-Karadeniz bölgesindeki gergin durumun tahıl sevkiyatlarını sınırladığını belirtirken, Rus buğdayının Avrupa ürününe göre ton başına 35 dolar daha ucuz olduğu bildirildi.",
-      "content": "MOSKOVA — Rusya'nın Temmuz Ayında Gerçekleştirdiği Buğday İhracatı, Geçen Yılın Aynı Ayına Göre %17,7 Azalarak 1,8 Milyon Tona Geriledi. Rus Tahıl Birliği'nin Verilerine Göre Bu Miktar, Temmuz 2025'te Yaklaşık 2,2 Milyon Ton Seviyesindeydi.\n\nRus Tahıl Birliği Analitik Departmanı Direktörü Elena Tyurina, İhracattaki Düşüşün Temel Nedeninin Azak-Karadeniz Bölgesindeki Gergin Durum Olduğunu Belirtti.\n\nTahıl İhracatındaki Düşüş Buğdayı Aştı\n\nRusya'nın Temmuz Ayında Ana Tahıl Ürünlerindeki Toplam İhracatı 2 Milyon 26 Bin Ton Oldu. Geçen Yılın Aynı Ayında Bu Miktar 3 Milyon 248 Bin Ton Seviyesindeydi.\n\nBöylece Toplam Tahıl Sevkiyatı Yıllık Bazda %37,6 Azaldı.\n\nGünlük Ortalama Tahıl Sevkiyatı Da Geçen Yıl Temmuz Ayındaki 104,8 Bin Tondan 65,4 Bin Tona Geriledi.\n\nBuğdayda Günlük Sevkiyat Miktarı İse 69,7 Bin Tondan 57,4 Bin Tona Düştü.\n\nDiğer Önemli Tahıl Ürünlerinde De Belirgin Gerileme Görüldü. Temmuz Ayında Mısır İhracatı 521,4 Bin Tondan 146,3 Bin Tona, Arpa İhracatı İse 567 Bin Tondan 101,4 Bin Tona Geriledi.\n\nAyın Son Bölümünde Sevkiyatlar Daha Da Azaldı\n\nTyurina, Azak-Karadeniz Bölgesindeki Durumun Özellikle Temmuz Ayının Son Bölümünde İhracatı Daha Fazla Etkilediğini Belirtti.\n\nTemmuz Ayının Üçüncü On Gününde Toplam Tahıl Sevkiyatları, Geçen Yılın Aynı Dönemine Göre %61,3 Azalarak 685 Bin Tona Geriledi.\n\nBu Dönemde Buğday Sevkiyatındaki Düşüş İse %55,5 Oldu Ve Sevkiyat Miktarı 646,5 Bin Tona İndi.\n\nTyurina, İhracattaki Gerilemenin Rus Buğdayının Küresel Piyasalardaki Fiyat Rekabetçiliğinin Güçlü Olduğu Bir Dönemde Yaşandığına Dikkat Çekti.\n\nRus Buğdayı Avrupa Ürününden Ton Başına 35 Dolar Ucuz\n\n1 Ağustos İtibarıyla Rus Buğdayının Avrupa Buğdayına Göre Fiyat Farkının Ton Başına 35 Dolar Olduğu Belirtildi.\n\nGeçen Sezonun Aynı Döneminde İse Rus Buğdayında Avrupa Ürününe Göre İndirim Bulunmuyordu. Aksine Rus Buğdayının Avrupa Buğdayından Ton Başına 9 Dolar Daha Pahalı Olduğu İfade Edildi.\n\nTyurina, Mevcut Fiyatların Geçen Sezonun 1 Ağustos Seviyeleriyle Karşılaştırıldığında Avrupa Buğdayının %15, ABD Buğdayının %26 Daha Pahalı Olduğunu; Rus Buğdayının İse %3,7 Daha Ucuz Olduğunu Söyledi.\n\nBuna Göre Rus Buğdayı, Fiyat Açısından Avrupa Ve ABD Ürünlerine Kıyasla Daha Rekabetçi Bir Konumda Bulunuyor. Ancak Rus Tahıl Birliği, Jeopolitik Sorunların Bu Fiyat Avantajına Rağmen Sevkiyatları Sınırladığını Belirtiyor.\n\nRus Buğdayının En Büyük Alıcısı Mısır Oldu\n\nRusya'nın Temmuz Ayındaki Buğday İhracatında 23 Ülke Yer Aldı. Geçen Yıl Temmuz Ayında Bu Sayı 27 Ülkeydi.\n\nRus Buğdayının En Büyük Alıcısı Mısır Oldu. Ancak Mısır'a Yapılan Sevkiyat Da Geçen Yılın Aynı Ayına Göre %31,7 Azalarak 344 Bin Tona Geriledi.\n\nRus Tahıl Birliği, İhracattaki Mevcut Düşüşün Devam Etmesi Halinde Sezon Genelindeki Rus Buğday İhracatının Da Azalabileceği Konusunda Uyarıda Bulundu.\n\nTyurina, Rus Buğdayının Fiyat Avantajının Güçlü Olmasına Rağmen Jeopolitik Faktörlerin İhracat Sözleşmelerinin Yapılmasında Daha Belirleyici Hale Geldiğini İfade Etti.\n\nTARIM PUSULASI HABER MERKEZİ"
-    },
-    {
-      "title": "Oil World: Arjantin'in ayçiçek yağı ihracatı iki kat arttı",
-      "url": "https://www.tarimpusulasi.com/haber/oil-world-arjantinin-aycicek-yagi-ihracati-iki-kat-artti-47338",
-      "source": "Tarım Pusulası",
-      "date": "2026-08-11",
-      "summary": "Arjantin'in ayçiçek yağı ihracatı haziranda yıllık bazda iki katın üzerinde artarak 254 bin tona ulaştı. Oil World verilerine göre Hindistan, 103 bin tonluk alımla Arjantin ayçiçek yağının en büyük alıcısı oldu.",
-      "content": "ALMANYA — Arjantin'in ayçiçek yağı ihracatı haziran ayında yıllık bazda iki katın üzerinde artarak 254 bin tona yükseldi. Oil World verilerine göre geçen yılın aynı ayında ihracat yaklaşık 122 bin ton düzeyindeydi.\n\nHaziran ayındaki ihracat artışında ayçiçeği işleme miktarındaki yükseliş ve ürüne yönelik güçlü talep etkili oldu. Arjantin'de haziran ayında ayçiçeği işleme miktarı 549 bin tona çıktı. Bu miktar, 2025 yılının aynı ayında 491 bin ton olarak gerçekleşmişti.\n\nEn büyük alıcı Hindistan oldu\n\nArjantin'in haziran ayındaki ayçiçek yağı ihracatında en büyük alıcı Hindistan oldu.\n\nHindistan'a haziran ayında 103 bin ton ayçiçek yağı gönderildi. Geçen yılın aynı ayında bu miktar 46 bin ton seviyesindeydi.\n\nBöylece Hindistan'ın Arjantin'den ayçiçek yağı alımı bir yılda 57 bin ton arttı.\n\nKuzey Afrika ülkelerine 35 bin ton, Ürdün'e ise 30 bin ton ayçiçek yağı sevk edildi. Haberde, Ürdün'e gönderilen ürünün bir bölümünün komşu ülkelere yeniden ihraç edilebileceği değerlendiriliyor.\n\nYılın ilk yarısında ihracat 1 milyon tonu aştı\n\nArjantin'in ayçiçek yağı ihracatındaki artış yalnızca haziran ayıyla sınırlı kalmadı.\n\nYılın ilk altı ayında ülkenin ayçiçek yağı ihracatı 1,03 milyon tona ulaştı. Geçen yılın aynı döneminde bu miktar 650 bin ton seviyesindeydi.\n\nBuna göre yılın ilk yarısındaki ihracat yaklaşık 380 bin ton arttı.\n\nHindistan'ın bu dönemde Arjantin'den yaptığı ayçiçek yağı alımı ise 571 bin tona ulaştı. Geçen yılın ocak-haziran döneminde bu miktar 270 bin ton olmuştu.\n\nBöylece Hindistan'ın alımı yıllık bazda 301 bin ton arttı.\n\nİşleme miktarının yüksek kalması bekleniyor\n\nArjantin'de ayçiçeği işleme faaliyetlerinin önümüzdeki dönemde de geçen yılın üzerinde seyretmesi bekleniyor.\n\nAnalistlerin değerlendirmesine göre temmuz-eylül döneminde ayçiçeği işleme miktarının yüksek kalması, ayçiçek yağı ihracatının yanı sıra ayçiçek küspesi ihracatının da yüksek seviyelerini korumasına imkân sağlayabilir.\n\nHaziran ayındaki güçlü ihracat performansında ise hem ayçiçek yağına yönelik yüksek talebin hem de ülkedeki işleme hacminin artmasının etkili olduğu belirtiliyor.\n\nArjantin'in ayçiçek yağı ihracatındaki bu yükseliş, özellikle Hindistan'ın artan alımlarıyla dikkat çekiyor.\n\nTARIM PUSULASI HABER MERKEZİ"
     }
   ],
   "commoditiesByBorsa": {
@@ -328,5 +328,17 @@
   "defaultBorsa": "5ED10",
   "defaultCity": "CANAKKALE",
   "note": "Fiyatlar TOBB ticaret borsasından (borsa seçilebilir). Kanola manuel (Trakya 2025).",
-  "inputsNote": "Mazot: akaryakıt bayi fiyatı, günlük (şehir seçilebilir). Gübre: manuel (yaklaşık)."
+  "inputsNote": "Mazot: akaryakıt bayi fiyatı, günlük (şehir seçilebilir). Gübre: manuel (yaklaşık).",
+  "errors": [
+    "mazot ANKARA: fetch failed",
+    "mazot ISTANBUL: fetch failed",
+    "mazot IZMIR: fetch failed",
+    "mazot KONYA: fetch failed",
+    "mazot ADANA: fetch failed",
+    "mazot BURSA: fetch failed",
+    "mazot ANTALYA: fetch failed",
+    "mazot SAMSUN: fetch failed",
+    "mazot TEKIRDAG: fetch failed",
+    "mazot CANAKKALE: fetch failed"
+  ]
 }
