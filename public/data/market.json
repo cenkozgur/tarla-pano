@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-13T13:19:10.990Z",
+  "updatedAt": "2026-08-13T14:33:53.052Z",
   "fx": [
     {
       "code": "USD",
@@ -11,33 +11,41 @@
     {
       "code": "EUR",
       "name": "Euro",
-      "buy": 55.22,
-      "sell": 55.24,
-      "change": 0.24
+      "buy": 55.25,
+      "sell": 55.27,
+      "change": 0.29
     },
     {
       "code": "GRA",
       "name": "Gram Altın",
-      "buy": 6736.43,
-      "sell": 6737.25,
-      "change": -0.49
+      "buy": 6714.18,
+      "sell": 6714.97,
+      "change": -0.82
     },
     {
       "code": "CEYREKALTIN",
       "name": "Çeyrek Altın",
-      "buy": 10745.25,
-      "sell": 10990.44,
-      "change": -1.11
+      "buy": 10721.56,
+      "sell": 10968.53,
+      "change": -1.31
     },
     {
       "code": "CUMHURIYETALTINI",
       "name": "Cumhuriyet Altını",
-      "buy": 44528,
-      "sell": 45204,
-      "change": -1.07
+      "buy": 44431,
+      "sell": 45103,
+      "change": -1.29
     }
   ],
   "news": [
+    {
+      "title": "Expana: AB'de ayçiçeği üretim tahmini 9,7 milyon tona indi",
+      "url": "https://www.tarimpusulasi.com/haber/expana-abde-aycicegi-uretim-tahmini-97-milyon-tona-indi-47365",
+      "source": "Tarım Pusulası",
+      "date": "2026-08-13",
+      "summary": "Expana, Avrupa Birliği'nin 2026/27 sezonu ayçiçeği üretim tahminini önceki öngörüsüne göre yüzde 5 düşürerek 9,7 milyon tona çekti. Kuraklık ve yüksek sıcaklıkların özellikle Batı Avrupa'da verim potansiyelini baskıladığı bildirildi.",
+      "content": "BRÜKSEL — Avrupa Birliği'nin 2026/27 sezonu ayçiçeği üretim beklentisi, Batı Avrupa'daki sıcak ve kurak hava koşullarının verim potansiyelini baskılaması nedeniyle aşağı yönlü revize edildi. Expana, AB'nin toplam ayçiçeği üretim tahminini önceki öngörüsüne göre yüzde 5 azaltarak 9,7 milyon tona çekti.\n\nYeni tahmin, önceki beklentiye göre yüzde 5 daha düşük olmasına karşın geçen sezona kıyasla yüzde 15 daha yüksek bir üretime işaret ediyor. Üretim tahminindeki aşağı yönlü revizyonun temelinde, yağlı tohumun ortalama verimine ilişkin beklentilerin gerilemesi bulunuyor.\n\nAB'de ayçiçeği verimi 1,94 ton/hektara çekildi\n\nAvrupa MARS'ın temmuz ayı bülteninde de AB genelinde ayçiçeği için ortalama verim tahmini aşağı yönlü güncellendi.\n\nBuna göre ayçiçeğinde ortalama verim beklentisi 1,94 ton/hektara indirildi. Bu değer, MARS'ın haziran ayındaki tahminine göre yüzde 7 daha düşük, geçen yılın aynı dönemine göre yüzde 4 daha yüksek ve son beş yılın ortalamasına göre yüzde 2 daha düşük seviyede bulunuyor.\n\nVerim beklentilerindeki gerilemenin, özellikle Batı Avrupa'da devam eden sıcak ve kurak hava koşulları nedeniyle daha da derinleşebileceği değerlendiriliyor.\n\nİspanya ve Portekiz'de sıcaklık ve yağış baskısı\n\nAgroexport analistlerinin değerlendirmesine göre İspanya ve Portekiz'de yazlık ürünler ilkbaharda yeterli toprak nemi koşullarında ekildi. Ancak haziran ayından itibaren yüksek sıcaklıklar ve sınırlı yağışlar, toprağın üst katmanındaki nemin azalmasına ve tarım alanlarındaki stresin artmasına neden oldu.\n\nBu koşulların özellikle mısır ve ayçiçeği üzerindeki verim potansiyelini olumsuz etkilediği belirtildi.\n\nBatı Avrupa'da sıcak ve kurak hava koşullarının devam edeceğine ilişkin meteorolojik öngörüler de ayçiçeği verim tahminleri üzerindeki aşağı yönlü riskleri artırıyor.\n\nFransa'da ayçiçeği verim beklentisi daha da geriledi\n\nFransa'da ayçiçeğinin verim potansiyeli de aşağı yönlü revize edildi. Agroexport analistlerinin aktardığı verilere göre Fransa için ayçiçeği verim beklentisi 1,94 ton/hektara çekildi.\n\nKaynak metinde bu değer için üç ayrı karşılaştırmada sırasıyla yüzde 15, yüzde 6 ve yüzde 14'lük düşüşler belirtiliyor. Ancak bu oranların hangi karşılaştırma dönemlerine veya önceki tahminlere karşılık geldiği kaynak metinde açıkça ayrıştırılmadığı için haber içinde ek bir yorum yapılmamıştır.\n\nFransa'daki aşağı yönlü revizyonun, Avrupa'nın bu bölümündeki olumsuz hava koşullarının ayçiçeği verim potansiyeli üzerindeki etkisini gösterdiği değerlendiriliyor.\n\nÜretim tahmini hâlâ geçen yılın üzerinde\n\nExpana'nın güncel tahminine göre AB'nin 2026/27 sezonu ayçiçeği üretimi 9,7 milyon ton olacak. Bu rakam önceki tahmine göre yüzde 5 daha düşük, ancak geçen sezona göre yüzde 15 daha yüksek.\n\nDolayısıyla mevcut tahmin, kuraklık ve sıcaklık kaynaklı verim baskısına rağmen AB ayçiçeği üretiminin geçen sezonun üzerinde kalacağı beklentisini koruyor.\n\nBununla birlikte Batı Avrupa'da sıcak ve kurak hava koşullarının devam etmesi halinde üretim ve verim tahminlerinde yeni aşağı yönlü revizyonlar yapılabileceği belirtiliyor.\n\nTARIM PUSULASI HABER MERKEZİ"
+    },
     {
       "title": "AB Komisyonu: Tarım ithalatı kuralları fiyatları artırabilir",
       "url": "https://www.tarimpusulasi.com/haber/ab-komisyonu-tarim-ithalati-kurallari-fiyatlari-artirabilir-47364",
@@ -93,14 +101,6 @@
       "date": "2026-08-13",
       "summary": "Tarım-ÜFE, Temmuz 2026’da aylık bazda yüzde 2,31, yıllık bazda yüzde 18,81 arttı. Endekste 12 aylık ortalamalara göre artış yüzde 35,12 olurken, yıllık artışta yüzde 84,34 ile sebze ve kavun-karpuz, kök ve yumrular grubu öne çıktı.",
       "content": "ANKARA — Türkiye İstatistik Kurumu (TÜİK), Temmuz 2026 dönemine ilişkin Tarım ürünleri üretici fiyat endeksi (Tarım-ÜFE) verilerini açıkladı. Buna göre Tarım-ÜFE, Temmuz ayında bir önceki aya göre yüzde 2,31, bir önceki yılın Aralık ayına göre yüzde 10,22, bir önceki yılın aynı ayına göre yüzde 18,81 ve 12 aylık ortalamalara göre yüzde 35,12 arttı.\n\nTarım-ÜFE'nin Temmuz 2026'daki 1.125,42 seviyesine yükseldiği görüldü. Böylece endekste aylık artış yüzde 2,31 olurken, yıllık artış yüzde 18,81 olarak gerçekleşti. Yıllık değişim ile 12 aylık ortalamalara göre değişim arasındaki fark ise 16,31 puan oldu.\n\nTarım ve avcılık ürünlerinde yıllık artış yüzde 17,98\n\nSektörler bazında değerlendirildiğinde, Temmuz ayında tarım ve avcılık ürünleri ve ilgili hizmetlerde yüzde 2,52 artış gerçekleşti. Bu grubun yıllık değişimi ise yüzde 17,98, 12 aylık ortalamalara göre değişimi yüzde 34,60 oldu.\n\nOrmancılık ürünleri ve ilgili hizmetlerde aylık bazda yüzde 1,66 azalış kaydedilirken, yıllık değişim yüzde 32,85, 12 aylık ortalamalara göre değişim ise yüzde 41,63 oldu.\n\nBalık ve diğer balıkçılık ürünleri, su ürünleri ve balıkçılık için destekleyici hizmetlerde aylık artış yüzde 0,82, yıllık artış yüzde 29,46, 12 aylık ortalamalara göre artış ise yüzde 44,73 olarak gerçekleşti.\n\nÇok yıllık bitkisel ürünlerde aylık artış yüzde 8,33\n\nAna gruplar içinde Temmuz ayında en yüksek aylık artış çok yıllık (uzun ömürlü) bitkisel ürünlerde görüldü. Bu grupta fiyatlar bir önceki aya göre yüzde 8,33 arttı.\n\nÇok yıllık bitkisel ürünlerde yıllık değişim ise yüzde 21,86 azalış olarak gerçekleşti. Grup, bir önceki yılın Aralık ayına göre de yüzde 12,35 geriledi.\n\nTek yıllık (uzun ömürlü olmayan) bitkisel ürünlerde aylık değişim yüzde 0,62 azalış olurken, yıllık artış yüzde 48,57 olarak kaydedildi. Bu grubun Aralık 2025'e göre artışı da yüzde 18,18 oldu.\n\nCanlı hayvanlar ve hayvansal ürünlerde ise aylık artış yüzde 0,67, yıllık artış yüzde 36,98 olarak gerçekleşti. Bu grubun bir önceki yılın Aralık ayına göre artışı yüzde 20,97 oldu.\n\nYıllık artışta sebze grubu ilk sırada\n\nAlt gruplar incelendiğinde, yıllık değişimin en yüksek olduğu grup yüzde 84,34 artışla sebze ve kavun-karpuz, kök ve yumrular oldu.\n\nBu grubu, alt gruplara ilişkin TÜİK verilerinde gerçekleşen değişim oranları takip ederken, yıllık fiyat hareketlerinde bitkisel ürün grupları arasındaki farklılaşma dikkat çekti.\n\nAylık bazda ise en yüksek değişim tropikal ve subtropikal meyvelerde yüzde 13,61 azalış olarak gerçekleşti.\n\nBöylece Temmuz ayında Tarım-ÜFE'nin genelindeki yüzde 2,31'lik aylık artışa karşın, alt ürün gruplarında fiyat hareketlerinin yönü ve büyüklüğü önemli ölçüde farklılaştı.\n\nBazı gruplarda yıllık artış genel endeksin üzerinde\n\nTemmuz 2026 verileri, Tarım-ÜFE'nin yıllık yüzde 18,81 artmasına rağmen bazı ana gruplarda fiyat değişimlerinin bu oranın oldukça üzerine çıktığını gösterdi.\n\nÖzellikle tek yıllık bitkisel ürünlerde yüzde 48,57, canlı hayvanlar ve hayvansal ürünlerde yüzde 36,98 ve ormancılık ürünleri ve ilgili hizmetlerde yüzde 32,85 yıllık artış kaydedildi.\n\nBuna karşılık çok yıllık bitkisel ürünlerde yıllık yüzde 21,86 düşüş gerçekleşti.\n\n12 aylık ortalamalara göre ise Tarım-ÜFE'deki yüzde 35,12'lik artışa karşılık, balıkçılık ve su ürünleri grubunda artış yüzde 44,73, ormancılık grubunda yüzde 41,63, çok yıllık bitkisel ürünlerde yüzde 38,11 oldu.\n\nTemmuz verilerinde öne çıkan oranlar\n\nGösterge\n\nTemmuz 2026 değişimi\n\nTarım-ÜFE aylık\n\n%2,31\n\nAralık 2025'e göre\n\n%10,22\n\nYıllık\n\n%18,81\n\n12 aylık ortalamalara göre\n\n%35,12\n\nTarım ve avcılık ürünleri aylık\n\n%2,52\n\nTek yıllık bitkisel ürünler aylık\n\n%-0,62\n\nÇok yıllık bitkisel ürünler aylık\n\n%8,33\n\nCanlı hayvanlar ve hayvansal ürünler aylık\n\n%0,67\n\nOrmancılık ürünleri aylık\n\n%-1,66\n\nBalıkçılık ve su ürünleri aylık\n\n%0,82\n\nYıllık en yüksek alt grup\n\n%84,34\n\nAylık en yüksek düşüş gösteren alt grup\n\n%-13,61\n\nRakamların karşılaştırmalı değerlendirmesi\n\nTemmuz ayında Tarım-ÜFE'nin aylık yüzde 2,31 artmasına karşılık, yıllık artış yüzde 18,81 oldu. Yıllık oran, aylık oranın yaklaşık 8,1 katı seviyesinde gerçekleşti.\n\n12 aylık ortalamalara göre yüzde 35,12 olan artış ise yıllık yüzde 18,81'lik değişimin 16,31 puan üzerinde bulundu.\n\nAna gruplarda aylık bazda en yüksek artış yüzde 8,33 ile çok yıllık bitkisel ürünlerde, en yüksek düşüş ise yüzde 0,62 ile tek yıllık bitkisel ürünlerde gerçekleşti.\n\nSektörler içinde aylık bazda en yüksek artış tarım ve avcılık ürünleri ve ilgili hizmetlerde yüzde 2,52, en yüksek düşüş ise ormancılık ürünleri ve ilgili hizmetlerde yüzde 1,66 oldu.\n\nTÜİK verilerine göre Temmuz 2026'da Tarım-ÜFE'deki genel yıllık artış yüzde 18,81 olurken, alt gruplardaki değişimlerin oldukça farklı oranlarda gerçekleşmesi tarımsal ürün fiyatlarındaki hareketliliğin ürün gruplarına göre ayrıştığını ortaya koydu.\n\nTARIM PUSULASI HABER MERKEZİ"
-    },
-    {
-      "title": "Cumhurbaşkanı Kararı: Motorin ÖTV’si 2027’de 13,9 TL olacak",
-      "url": "https://www.tarimpusulasi.com/haber/cumhurbaskani-karari-motorin-otvsi-2027de-139-tl-olacak-47357",
-      "source": "Tarım Pusulası",
-      "date": "2026-08-13",
-      "summary": "Cumhurbaşkanı Kararı ile motorin türü mallara uygulanan özel tüketim vergisi tutarları yeniden belirlendi. Buna göre litre başına ÖTV, 13-31 Ağustos 2026 döneminde 0 TL’den başlayarak kademeli şekilde artırılacak ve 1 Ocak 2027’den itibaren 13,90 TL olarak uygulanacak.",
-      "content": "ANKARA — Motorin türü mallara uygulanan özel tüketim vergisi (ÖTV) tutarları, Cumhurbaşkanı Kararı ile yeniden belirlendi. 11606 sayılı Karar kapsamında litre başına ÖTV tutarı, 13 Ağustos 2026'dan itibaren belirlenen dönemlerde kademeli olarak artırılacak ve 1 Ocak 2027'den itibaren 13,90 TL/litre olarak uygulanacak.\n\nResmî Gazete'nin 13 Ağustos 2026 tarihli ve 33339 sayılı nüshasında yayımlanan karar, 4760 sayılı Özel Tüketim Vergisi Kanunu'nun 12'nci maddesi gereğince alındı. Karar, 12 Ağustos 2026 tarihinde imzalandı.\n\nÖTV tutarı dönemler halinde artacak\n\nKararın ekinde yer alan düzenlemeye göre motorin türü malların litre başına ÖTV tutarı şu şekilde uygulanacak:\n\nDönem\n\nÖTV tutarı\n\n13-31 Ağustos 2026\n\n0 TL/litre\n\n1-30 Eylül 2026\n\n3 TL/litre\n\n1-31 Ekim 2026\n\n6 TL/litre\n\n1-30 Kasım 2026\n\n9 TL/litre\n\n1-31 Aralık 2026\n\n12 TL/litre\n\n1 Ocak 2027 ve sonrası\n\n13,90 TL/litre\n\nBöylece 13 Ağustos-31 Aralık 2026 döneminde ÖTV tutarı 0 TL’den 12 TL/litreye, 1 Ocak 2027 itibarıyla ise 13,90 TL/litreye ulaşacak. Ağustos sonundan eylül, ekim, kasım ve aralık dönemlerine geçişlerde artış 3'er TL/litre olarak belirlenirken, 1 Ocak 2027'deki artış 1,90 TL/litre olacak.\n\nKararın ekinde ayrıca, 4 Mart 2026 tarihli ve 10995 sayılı Cumhurbaşkanı Kararı'nın ilgili hükümlerinin, söz konusu motorin türü mallar bakımından uygulanmayacağı belirtildi.\n\nKararın 3'üncü maddesine göre düzenleme yayımı tarihinde yürürlüğe girdi. Karar hükümlerini Hazine ve Maliye Bakanı yürütecek.\n\nTARIM PUSULASI HABER MERKEZİ"
     },
     {
       "title": "TMO’ya ürün satan çiftçiden depo kirası kesintisi! “Malı satmaya getirdim, kirasını neden ben ödüyorum?”",
@@ -328,8 +328,5 @@
   "defaultBorsa": "5ED10",
   "defaultCity": "CANAKKALE",
   "note": "Fiyatlar TOBB ticaret borsasından (borsa seçilebilir). Kanola manuel (Trakya 2025).",
-  "inputsNote": "Mazot: akaryakıt bayi fiyatı, günlük (şehir seçilebilir). Gübre: manuel (yaklaşık).",
-  "errors": [
-    "fx: fetch failed"
-  ]
+  "inputsNote": "Mazot: akaryakıt bayi fiyatı, günlük (şehir seçilebilir). Gübre: manuel (yaklaşık)."
 }
