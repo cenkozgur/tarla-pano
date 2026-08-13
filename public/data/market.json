@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-13T17:29:30.542Z",
+  "updatedAt": "2026-08-13T18:27:43.457Z",
   "fx": [
     {
       "code": "USD",
@@ -11,16 +11,16 @@
     {
       "code": "EUR",
       "name": "Euro",
-      "buy": 55.18,
-      "sell": 55.21,
-      "change": 0.18
+      "buy": 55.19,
+      "sell": 55.23,
+      "change": 0.2
     },
     {
       "code": "GRA",
       "name": "Gram Altın",
-      "buy": 6707.67,
-      "sell": 6708.46,
-      "change": -0.92
+      "buy": 6688.71,
+      "sell": 6689.54,
+      "change": -1.2
     },
     {
       "code": "CEYREKALTIN",
@@ -38,6 +38,14 @@
     }
   ],
   "news": [
+    {
+      "title": "Şenol Sunat'tan Bakan Yumaklı'ya Manisa tarımı çağrısı",
+      "url": "https://www.tarimpusulasi.com/haber/senol-sunattan-bakan-yumakliya-manisa-tarimi-cagrisi-47366",
+      "source": "Tarım Pusulası",
+      "date": "2026-08-13",
+      "summary": "İYİ Parti Genel Başkan Yardımcısı ve Manisa Milletvekili Şenol Sunat, kornişon, üzüm ve zeytin üreticilerinin yaşadığı sorunlara dikkat çekerek Tarım ve Orman Bakanı İbrahim Yumaklı'yı Manisa'da üreticilerle sahada buluşmaya çağırdı.",
+      "content": "MANİSA — İYİ Parti Genel Başkan Yardımcısı ve Manisa Milletvekili Şenol Sunat, Manisa'da kornişon, üzüm ve zeytin üreticilerinin yaşadığı sorunlara dikkat çekerek Tarım ve Orman Bakanı İbrahim Yumaklı'ya çağrıda bulundu. Sunat, Bakan Yumaklı'nın olası Manisa ziyaretinde üreticilerle sahada buluşmasını istedi.\n\nSunat, Gördes'ten Alaşehir'e, Sarıgöl'den Akhisar'a kadar üreticilerin çeşitli sorunlarla karşı karşıya olduğunu savunarak Manisa'daki üreticilerin durumunun yerinde görülmesi gerektiğini belirtti.\n\nGördes'te kornişon üreticisinin fiyat sorunu\n\nSunat, Gördes'te yaklaşık 7 bin 250 dekar alanda yıllık 10 bin tona yakın turşuluk salatalık üretildiğini belirtti. Üretim alanında önemli bir artış yaşanmamasına rağmen kornişonun bu yıl tarlada kaldığını ifade eden Sunat, ürün fiyatının 45 TL'ye kadar gerilediğini söyledi.\n\nSunat, kornişon üreticisinin yaşadığı duruma ilişkin, “Bu kornişon neden tarlada?” diye sordu.\n\nÜzümde hasat başladı, fiyat açıklanması çağrısı\n\nManisa'nın önemli üzüm üretim merkezleri arasında yer alan Alaşehir, Sarıgöl ve Salihli'de hasadın başladığını belirten Sunat, kuru üzüm fiyatının henüz açıklanmadığını ifade etti.\n\nTARİŞ ve Tarım ve Orman Bakanlığını eleştiren Sunat, kuru üzüm fiyatının açıklanması çağrısında bulundu.\n\nZeytin üreticisinin maliyet endişesi\n\nSunat, Manisa'nın önemli ürünlerinden zeytinde de yaklaşan hasat öncesinde üreticilerin kaygılı olduğunu savundu. Akhisar, Kırkağaç ve Köprübaşı'ndaki üreticilerin artan maliyetlerle karşı karşıya olduğunu belirten Sunat, zeytin ve zeytinyağında fiyatların üreticiyi mağdur edecek seviyelere gerilemeden önlem alınmasını istedi.\n\nSunat, “Hasat kapıda. Zeytin ve zeytinyağı fiyatı dip yapmadan neden harekete geçmiyorsunuz?” ifadelerini kullandı.\n\nSunat'tan Bakan Yumaklı'ya saha çağrısı\n\nTarım ve Orman Bakanı İbrahim Yumaklı'nın Manisa'ya geleceği yönündeki bilgileri de gündeme getiren Sunat, olası ziyaretin yalnızca salon toplantılarıyla sınırlı kalmaması gerektiğini savundu.\n\nSunat, Bakan Yumaklı'ya yönelik çağrısında, “Klimalı salonlarda nutuk atmaya gelmeyin! Bahçelere, bostanlara, bağlara, zeytinliklere, tarlalara gelin!” dedi.\n\nÜreticilerin sorunlarının yerinde dinlenmesi gerektiğini ifade eden Sunat, Manisa'daki üretici sorunlarını üç başlıkta özetledi:\n\n“Kornişon üreticisi alıcı bekliyor. Üzüm üreticisi fiyat bekliyor. Zeytin üreticisi ihracat bekliyor.”\n\nSunat, Tarım ve Orman Bakanlığını üreticilerin sorunlarına sahada çözüm üretmeye çağırdı.\n\nTARIM PUSULASI HABER MERKEZİ"
+    },
     {
       "title": "TMO’da depo kirası kesintisine çiftçilerden tepki yağıyor: “Aynı gün sattık yine kira kesildi!”",
       "url": "https://www.tarimdanhaber.com/tmoda-depo-kirasi-kesintisine-ciftcilerden-tepki-yagiyor-ayni-gun-sattik-yine-kira-kesildi",
@@ -109,14 +117,6 @@
       "date": "2026-08-13",
       "summary": "Türkiye İhracatçılar Meclisi (TİM) verilerine göre hububat, bakliyat, yağlı tohumlar ve mamulleri sektörü, yılın ilk 7 ayında 6,9 milyar dolarlık ihracata ulaştı. Sektörün kilogram başına ortalama ihracat değeri yüzde 6,5 artarak 1,1 dolara yükseldi.",
       "content": "ANKARA — Türkiye İhracatçılar Meclisi (TİM) tarafından paylaşılan verilere göre, hububat, bakliyat, yağlı tohumlar ve mamulleri sektörü 2026 yılının ilk 7 ayında 6,9 milyar dolarlık ihracat gerçekleştirdi. Sektörün kilogram başına ortalama ihracat fiyatı ise geçen yılın aynı dönemine göre yüzde 6,5 artarak 1,1 dolara yükseldi.\n\nSektörün ihracatında ayçiçek yağı, çikolata ve kakao bazlı ürünler öne çıktı. İlk 7 ayda ayçiçek yağı ihracatı, geçen yılın aynı dönemine göre yüzde 21,2 artarak 769,3 milyon dolara ulaştı. Çikolata ve kakao bazlı ürünlerin ihracatı ise 588,7 milyon dolar olarak kaydedildi.\n\nEn büyük pazar Irak oldu\n\nSektörün ilk 7 aydaki en büyük ihracat pazarı 855,9 milyon dolarla Irak oldu. Irak'ı 538,5 milyon dolarlık ihracatla ABD izledi.\n\nSektörün ürün grubunda ayçiçek yağının ardından çikolata ve kakao bazlı ürünler gelirken, makarna, buğday unu, bisküvi, gofret ve şekerleme gibi ürünler de ihracat portföyünde yer aldı.\n\nSektörde birim fiyat artışı\n\nTİM Hububat, Bakliyat, Yağlı Tohumlar ve Mamulleri Sektör Kurulu Başkanı Nihat Uysallı, sektör ihracatının ilk 7 ayda 7 milyar dolara yaklaştığına dikkat çekerek küresel emtia piyasasındaki gelişmeleri değerlendirdi.\n\nUysallı, küresel tarım ticaretinin iklimsel anomaliler, jeopolitik gerilimler ve lojistik sorunların etkili olduğu karmaşık bir dönemden geçtiğini belirtti. ABD, Fransa, Almanya ve Avustralya gibi üretici ülkelerde etkisini artıran El Niño ve aşırı sıcakların rekolte beklentilerini etkilediğini ifade eden Uysallı, buğday fiyatlarındaki hareketliliğin de gıda piyasasına yansıdığını kaydetti.\n\nKaradeniz hattındaki lojistik sorunlara da değinen Uysallı, Azak Denizi ve liman altyapılarındaki aksamaların sevkiyat süreçlerini yavaşlattığını belirtti. Uysallı, sektörün değişen koşullara karşı esnek tedarik ağları ve yüksek işleme kapasitesiyle hareket ettiğini ifade etti.\n\nBuğday rekoltesi ve TMO alımları vurgusu\n\nUysallı, bu sezon buğday rekoltesinin 23 milyon tonu aşarak yüksek bir seviyeye ulaşmasının Türk gıda sanayisinin rekabet gücü açısından önem taşıdığını belirtti.\n\nToprak Mahsulleri Ofisinin (TMO) 11 milyon tona ulaşan alım garantisinin piyasa istikrarı açısından önemli olduğunu ifade eden Uysallı, yurtiçindeki yüksek rekoltenin küresel arz sorunlarına karşı sektöre avantaj sağladığını söyledi.\n\nİşlenmiş gıda ihracatının sürdürülebilirliği açısından hammaddeye erişimin kesintisiz olmasının önemine dikkat çeken Uysallı, Dahilde İşleme Rejimi (DİR) kapsamındaki ithalat süreçleri ile Bitki Karantinası Yönetmeliği uygulamalarında teknik süreçlerin sanayicinin operasyonel hızını aksatmayacak şekilde yürütülmesi gerektiğini belirtti.\n\nUysallı ayrıca kamu ve özel sektör arasındaki eş güdümün güçlendirilmesi, TMO stoklarının uluslararası fiyatlar gözetilerek ihracatçıya zamanında sunulmasının dış pazarlardaki rekabet gücünün korunması açısından önemli olduğunu ifade etti.\n\nTARIM PUSULASI HABER MERKEZİ"
-    },
-    {
-      "title": "TÜİK açıkladı: Tarım-ÜFE Temmuzda yıllık yüzde 18,81 arttı",
-      "url": "https://www.tarimpusulasi.com/haber/tuik-acikladi-tarim-ufe-temmuzda-yillik-yuzde-1881-artti-47358",
-      "source": "Tarım Pusulası",
-      "date": "2026-08-13",
-      "summary": "Tarım-ÜFE, Temmuz 2026’da aylık bazda yüzde 2,31, yıllık bazda yüzde 18,81 arttı. Endekste 12 aylık ortalamalara göre artış yüzde 35,12 olurken, yıllık artışta yüzde 84,34 ile sebze ve kavun-karpuz, kök ve yumrular grubu öne çıktı.",
-      "content": "ANKARA — Türkiye İstatistik Kurumu (TÜİK), Temmuz 2026 dönemine ilişkin Tarım ürünleri üretici fiyat endeksi (Tarım-ÜFE) verilerini açıkladı. Buna göre Tarım-ÜFE, Temmuz ayında bir önceki aya göre yüzde 2,31, bir önceki yılın Aralık ayına göre yüzde 10,22, bir önceki yılın aynı ayına göre yüzde 18,81 ve 12 aylık ortalamalara göre yüzde 35,12 arttı.\n\nTarım-ÜFE'nin Temmuz 2026'daki 1.125,42 seviyesine yükseldiği görüldü. Böylece endekste aylık artış yüzde 2,31 olurken, yıllık artış yüzde 18,81 olarak gerçekleşti. Yıllık değişim ile 12 aylık ortalamalara göre değişim arasındaki fark ise 16,31 puan oldu.\n\nTarım ve avcılık ürünlerinde yıllık artış yüzde 17,98\n\nSektörler bazında değerlendirildiğinde, Temmuz ayında tarım ve avcılık ürünleri ve ilgili hizmetlerde yüzde 2,52 artış gerçekleşti. Bu grubun yıllık değişimi ise yüzde 17,98, 12 aylık ortalamalara göre değişimi yüzde 34,60 oldu.\n\nOrmancılık ürünleri ve ilgili hizmetlerde aylık bazda yüzde 1,66 azalış kaydedilirken, yıllık değişim yüzde 32,85, 12 aylık ortalamalara göre değişim ise yüzde 41,63 oldu.\n\nBalık ve diğer balıkçılık ürünleri, su ürünleri ve balıkçılık için destekleyici hizmetlerde aylık artış yüzde 0,82, yıllık artış yüzde 29,46, 12 aylık ortalamalara göre artış ise yüzde 44,73 olarak gerçekleşti.\n\nÇok yıllık bitkisel ürünlerde aylık artış yüzde 8,33\n\nAna gruplar içinde Temmuz ayında en yüksek aylık artış çok yıllık (uzun ömürlü) bitkisel ürünlerde görüldü. Bu grupta fiyatlar bir önceki aya göre yüzde 8,33 arttı.\n\nÇok yıllık bitkisel ürünlerde yıllık değişim ise yüzde 21,86 azalış olarak gerçekleşti. Grup, bir önceki yılın Aralık ayına göre de yüzde 12,35 geriledi.\n\nTek yıllık (uzun ömürlü olmayan) bitkisel ürünlerde aylık değişim yüzde 0,62 azalış olurken, yıllık artış yüzde 48,57 olarak kaydedildi. Bu grubun Aralık 2025'e göre artışı da yüzde 18,18 oldu.\n\nCanlı hayvanlar ve hayvansal ürünlerde ise aylık artış yüzde 0,67, yıllık artış yüzde 36,98 olarak gerçekleşti. Bu grubun bir önceki yılın Aralık ayına göre artışı yüzde 20,97 oldu.\n\nYıllık artışta sebze grubu ilk sırada\n\nAlt gruplar incelendiğinde, yıllık değişimin en yüksek olduğu grup yüzde 84,34 artışla sebze ve kavun-karpuz, kök ve yumrular oldu.\n\nBu grubu, alt gruplara ilişkin TÜİK verilerinde gerçekleşen değişim oranları takip ederken, yıllık fiyat hareketlerinde bitkisel ürün grupları arasındaki farklılaşma dikkat çekti.\n\nAylık bazda ise en yüksek değişim tropikal ve subtropikal meyvelerde yüzde 13,61 azalış olarak gerçekleşti.\n\nBöylece Temmuz ayında Tarım-ÜFE'nin genelindeki yüzde 2,31'lik aylık artışa karşın, alt ürün gruplarında fiyat hareketlerinin yönü ve büyüklüğü önemli ölçüde farklılaştı.\n\nBazı gruplarda yıllık artış genel endeksin üzerinde\n\nTemmuz 2026 verileri, Tarım-ÜFE'nin yıllık yüzde 18,81 artmasına rağmen bazı ana gruplarda fiyat değişimlerinin bu oranın oldukça üzerine çıktığını gösterdi.\n\nÖzellikle tek yıllık bitkisel ürünlerde yüzde 48,57, canlı hayvanlar ve hayvansal ürünlerde yüzde 36,98 ve ormancılık ürünleri ve ilgili hizmetlerde yüzde 32,85 yıllık artış kaydedildi.\n\nBuna karşılık çok yıllık bitkisel ürünlerde yıllık yüzde 21,86 düşüş gerçekleşti.\n\n12 aylık ortalamalara göre ise Tarım-ÜFE'deki yüzde 35,12'lik artışa karşılık, balıkçılık ve su ürünleri grubunda artış yüzde 44,73, ormancılık grubunda yüzde 41,63, çok yıllık bitkisel ürünlerde yüzde 38,11 oldu.\n\nTemmuz verilerinde öne çıkan oranlar\n\nGösterge\n\nTemmuz 2026 değişimi\n\nTarım-ÜFE aylık\n\n%2,31\n\nAralık 2025'e göre\n\n%10,22\n\nYıllık\n\n%18,81\n\n12 aylık ortalamalara göre\n\n%35,12\n\nTarım ve avcılık ürünleri aylık\n\n%2,52\n\nTek yıllık bitkisel ürünler aylık\n\n%-0,62\n\nÇok yıllık bitkisel ürünler aylık\n\n%8,33\n\nCanlı hayvanlar ve hayvansal ürünler aylık\n\n%0,67\n\nOrmancılık ürünleri aylık\n\n%-1,66\n\nBalıkçılık ve su ürünleri aylık\n\n%0,82\n\nYıllık en yüksek alt grup\n\n%84,34\n\nAylık en yüksek düşüş gösteren alt grup\n\n%-13,61\n\nRakamların karşılaştırmalı değerlendirmesi\n\nTemmuz ayında Tarım-ÜFE'nin aylık yüzde 2,31 artmasına karşılık, yıllık artış yüzde 18,81 oldu. Yıllık oran, aylık oranın yaklaşık 8,1 katı seviyesinde gerçekleşti.\n\n12 aylık ortalamalara göre yüzde 35,12 olan artış ise yıllık yüzde 18,81'lik değişimin 16,31 puan üzerinde bulundu.\n\nAna gruplarda aylık bazda en yüksek artış yüzde 8,33 ile çok yıllık bitkisel ürünlerde, en yüksek düşüş ise yüzde 0,62 ile tek yıllık bitkisel ürünlerde gerçekleşti.\n\nSektörler içinde aylık bazda en yüksek artış tarım ve avcılık ürünleri ve ilgili hizmetlerde yüzde 2,52, en yüksek düşüş ise ormancılık ürünleri ve ilgili hizmetlerde yüzde 1,66 oldu.\n\nTÜİK verilerine göre Temmuz 2026'da Tarım-ÜFE'deki genel yıllık artış yüzde 18,81 olurken, alt gruplardaki değişimlerin oldukça farklı oranlarda gerçekleşmesi tarımsal ürün fiyatlarındaki hareketliliğin ürün gruplarına göre ayrıştığını ortaya koydu.\n\nTARIM PUSULASI HABER MERKEZİ"
     },
     {
       "title": "TMO’ya ürün satan çiftçiden depo kirası kesintisi! “Malı satmaya getirdim, kirasını neden ben ödüyorum?”",
@@ -328,17 +328,5 @@
   "defaultBorsa": "5ED10",
   "defaultCity": "CANAKKALE",
   "note": "Fiyatlar TOBB ticaret borsasından (borsa seçilebilir). Kanola manuel (Trakya 2025).",
-  "inputsNote": "Mazot: akaryakıt bayi fiyatı, günlük (şehir seçilebilir). Gübre: manuel (yaklaşık).",
-  "errors": [
-    "mazot ANKARA: fetch failed",
-    "mazot ISTANBUL: fetch failed",
-    "mazot IZMIR: fetch failed",
-    "mazot KONYA: fetch failed",
-    "mazot ADANA: fetch failed",
-    "mazot BURSA: fetch failed",
-    "mazot ANTALYA: fetch failed",
-    "mazot SAMSUN: fetch failed",
-    "mazot TEKIRDAG: fetch failed",
-    "mazot CANAKKALE: fetch failed"
-  ]
+  "inputsNote": "Mazot: akaryakıt bayi fiyatı, günlük (şehir seçilebilir). Gübre: manuel (yaklaşık)."
 }
