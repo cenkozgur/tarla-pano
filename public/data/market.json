@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-13T20:06:49.012Z",
+  "updatedAt": "2026-08-13T21:04:07.217Z",
   "fx": [
     {
       "code": "USD",
@@ -277,24 +277,24 @@
     }
   ],
   "dieselByCity": {
-    "ANKARA": 71.94,
-    "ISTANBUL": 70.75,
-    "IZMIR": 72.21,
-    "KONYA": 73.1,
-    "ADANA": 72.77,
-    "BURSA": 71.82,
-    "ANTALYA": 73.26,
-    "SAMSUN": 72.51,
-    "TEKIRDAG": 71.66,
-    "CANAKKALE": 72.57
+    "ANKARA": 80.79,
+    "ISTANBUL": 79.6,
+    "IZMIR": 81.06,
+    "KONYA": 81.96,
+    "ADANA": 81.62,
+    "BURSA": 80.67,
+    "ANTALYA": 82.11,
+    "SAMSUN": 81.36,
+    "TEKIRDAG": 80.52,
+    "CANAKKALE": 81.42
   },
   "inputs": [
     {
       "key": "motorin",
       "name": "Motorin (mazot)",
       "unit": "₺/lt",
-      "price": 72.57,
-      "change": 0,
+      "price": 81.42,
+      "change": 12.2,
       "source": "CANAKKALE ort."
     },
     {
@@ -328,5 +328,8 @@
   "defaultBorsa": "5ED10",
   "defaultCity": "CANAKKALE",
   "note": "Fiyatlar TOBB ticaret borsasından (borsa seçilebilir). Kanola manuel (Trakya 2025).",
-  "inputsNote": "Mazot: akaryakıt bayi fiyatı, günlük (şehir seçilebilir). Gübre: manuel (yaklaşık)."
+  "inputsNote": "Mazot: akaryakıt bayi fiyatı, günlük (şehir seçilebilir). Gübre: manuel (yaklaşık).",
+  "errors": [
+    "fx: fetch failed"
+  ]
 }
