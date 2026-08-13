@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-13T11:11:40.182Z",
+  "updatedAt": "2026-08-13T11:59:51.708Z",
   "fx": [
     {
       "code": "USD",
@@ -11,23 +11,23 @@
     {
       "code": "EUR",
       "name": "Euro",
-      "buy": 55.23,
-      "sell": 55.25,
-      "change": 0.26
+      "buy": 55.22,
+      "sell": 55.24,
+      "change": 0.24
     },
     {
       "code": "GRA",
       "name": "Gram Altın",
-      "buy": 6743.74,
-      "sell": 6744.53,
-      "change": -0.38
+      "buy": 6736.43,
+      "sell": 6737.25,
+      "change": -0.49
     },
     {
       "code": "CEYREKALTIN",
       "name": "Çeyrek Altın",
-      "buy": 10752.92,
-      "sell": 10998.29,
-      "change": -1.04
+      "buy": 10745.25,
+      "sell": 10990.44,
+      "change": -1.11
     },
     {
       "code": "CUMHURIYETALTINI",
@@ -38,6 +38,22 @@
     }
   ],
   "news": [
+    {
+      "title": "Rusya Tarım Bakanlığı: Tahıl hasadında 72 milyon ton aşıldı",
+      "url": "https://www.tarimpusulasi.com/haber/rusya-tarim-bakanligi-tahil-hasadinda-72-milyon-ton-asildi-47361",
+      "source": "Tarım Pusulası",
+      "date": "2026-08-13",
+      "summary": "Rusya Tarım Bakanlığı, ülkede 18,6 milyon hektar alanda tahıl ve bakliyat hasadının yapıldığını ve 72 milyon tonun üzerinde ürün toplandığını açıkladı. Bu miktarın geçen yılın aynı tarihindeki seviyeyi aştığı bildirildi.",
+      "content": "MOSKOVA — Rusya Tarım Bakanlığı, 2026 hasat sezonunda tahıl ve bakliyat ürünlerinde 72 milyon tonun üzerinde hasat gerçekleştirildiğini açıkladı. Bakanlığın verilerine göre, toplam 18,6 milyon hektar alanda hasat yapılırken, çalışmaların geçen yılın aynı dönemindeki seviyenin üzerinde ilerlediği bildirildi.\n\nBakanlık açıklamasında, 14,8 milyon hektarlık alandan 60 milyon tonun üzerinde ürün toplandığı ve bu miktarın geçen yılın aynı tarihine göre 6 milyon ton daha fazla olduğu belirtildi. Tahıl ve bakliyat ürünlerinin tamamında ise hasadı yapılan alanın 18,6 milyon hektara, elde edilen ürün miktarının da 72 milyon tonun üzerine çıktığı kaydedildi.\n\nHasat bazı bölgelerde geçen yılın önünde\n\nRusya Tarım Bakanlığı, hasat çalışmalarının Güney, Kuzeybatı, Ural ve Sibirya federal bölgelerinde 2025 yılındaki çalışma temposunun önünde ilerlediğini bildirdi.\n\nAçıklamaya göre, 2026 yılında buğdayda ortalama verim de yükseldi. Ülke genelinde ortalama buğday verimi hektar başına 41 sentner olarak gerçekleşti.\n\nTürkiye'deki ölçü birimine çevrildiğinde 41 sentner/hektar, 4,1 ton/hektar verime karşılık geliyor.\n\nBuğday veriminde bazı bölgeler öne çıktı\n\nBuğday veriminde Krasnodar Krayı ile Bryansk, Kursk ve Kaliningrad bölgeleri öne çıktı. Bakanlık, bu bölgelerde hektar başına yaklaşık 60 sentner, yani 6 ton buğday elde edildiğini bildirdi.\n\nBöylece söz konusu bölgelerdeki ortalama verimin, Rusya genelindeki 41 sentner/hektarlık ortalamanın yaklaşık 19 sentner üzerinde olduğu görülüyor.\n\nBakanlık verim artışında hangi unsurlara dikkat çekti?\n\nRusya Tarım Bakanlığı, sonuçların tarımsal verimliliğin artırılmasına yönelik çalışmalarla bağlantılı olduğunu belirtti.\n\nBakanlığa göre verim artışında; modern ıslah çalışmalarından elde edilen çeşitlerin kullanılması, gübreler, bitki koruma ürünleri, dijital uygulamalar ve diğer teknolojik çözümlerin kullanımının etkili olduğu ifade edildi.\n\nTARIM PUSULASI HABER MERKEZİ"
+    },
+    {
+      "title": "Antalya Büyükşehir Belediyesi Asmaca Yaylası'na su desteği",
+      "url": "https://www.tarimpusulasi.com/haber/antalya-buyuksehir-belediyesi-asmaca-yaylasina-su-destegi-47360",
+      "source": "Tarım Pusulası",
+      "date": "2026-08-13",
+      "summary": "Antalya Büyükşehir Belediyesi, Alanya’nın Asmaca Yaylası’nda içme suyu hattındaki sorunların giderilmesi amacıyla 1.700 metre uzunluğunda 90’lık içme suyu borusunu mahalle muhtarlığına teslim etti.",
+      "content": "ANTALYA — Antalya Büyükşehir Belediyesi, Alanya’nın Asmaca Mahallesi’ne bağlı Asmaca Yaylası’nda içme suyu hattında yaşanan sorunların giderilmesi amacıyla 1.700 metre uzunluğunda 90’lık içme suyu borusu desteği sağladı. Borular, Antalya Büyükşehir Belediyesi Tarımsal Hizmetler Dairesi Başkanlığı Tarımsal Yapılar ve Sulama Şube Müdürlüğü tarafından temin edilerek yaylaya ulaştırıldı ve Asmaca Mahallesi Muhtarı Ahmet Demir’e teslim edildi.\n\nAsmaya Yaylası’nda teslim edilen boruların, içme suyu hattında meydana gelen arızaların giderilmesi ve mevcut hattın bulunmadığı bölgelere su ulaştırılması amacıyla kullanılacağı bildirildi.\n\n1.700 metre içme suyu borusu yaylaya ulaştırıldı\n\nAlanya’ya yaklaşık 50 kilometre uzaklıkta ve Akdağ eteklerinde bulunan Asmaca Yaylası’na ulaştırılan borular, kamyonlarla taşındı. İş makineleri yardımıyla indirilen 1.700 metre uzunluğundaki 90’lık borular, mahalle muhtarı Ahmet Demir’e teslim edildi.\n\nBelediyenin açıklamasına göre destek, kırsal mahallelerde içme suyu, sulama ve tarımsal altyapıya yönelik çalışmalar kapsamında gerçekleştirildi.\n\nBorular arızalı ve eksik hatlarda kullanılacak\n\nAsmaca Mahallesi Muhtarı Ahmet Demir, yayladaki içme suyu hattında sorunlar yaşandığını belirterek, teslim edilen boruların hem arızaların giderilmesinde hem de içme suyu hattının bulunmadığı bölgelere su ulaştırılmasında kullanılacağını söyledi.\n\nDemir, talebin karşılanması nedeniyle Antalya Büyükşehir Belediyesi Başkan Vekili Büşra Özdemir ve belediye ekiplerine teşekkür etti.\n\nKırsal altyapıya destek\n\nAntalya Büyükşehir Belediyesi, açıklamasında kırsal mahallelerde yaşam koşullarının iyileştirilmesi, tarımsal üretimin sürdürülebilirliğinin desteklenmesi ve üreticilerin ihtiyaçlarına katkı sağlanması amacıyla çalışmalar yürütüldüğünü belirtti.\n\nBu kapsamda içme suyu, sulama ve tarımsal altyapıya yönelik desteklerin sürdürüldüğü ifade edildi.\n\nTARIM PUSULASI HABER MERKEZİ"
+    },
     {
       "title": "Hububat ve mamulleri ihracatı 6,9 milyar dolara ulaştı",
       "url": "https://www.tarimpusulasi.com/haber/hububat-ve-mamulleri-ihracati-69-milyar-dolara-ulasti-47359",
@@ -117,22 +133,6 @@
       "date": "2026-08-12",
       "summary": "Mersin Büyükşehir Belediyesi, “Yerel Tohumların Yerinde Korunması ve Pazarlanması Projesi” kapsamında Gülnar’ın Bereket Mahallesi’nde 10 üreticiye 600 kilogram atalık nohut tohumu desteği sağladı. 2020’den bu yana yürütülen proje kapsamında 91 üreticiye toplam 5 bin 460 kilogram tohum desteği verild",
       "content": "GÜLNAR, MERSİN — Mersin Büyükşehir Belediyesi, yerel tohumların korunması ve üreticilerin desteklenmesi amacıyla yürüttüğü “Yerel Tohumların Yerinde Korunması ve Pazarlanması Projesi” kapsamında Gülnar ilçesine bağlı Bereket Mahallesi’nde atalık nohut üretimine destek veriyor. Bu yıl 10 üreticiye toplam 600 kilogram atalık nohut tohumu desteği sağlanırken, 2020’den bu yana proje kapsamında 91 üreticiye toplam 5 bin 460 kilogram tohum desteği verildi.\n\nMersin Büyükşehir Belediyesi Tarımsal Hizmetler Dairesi Başkanlığı’nda görev yapan Ziraat Teknikeri Ali Karakış, projenin Mersin’in farklı bölgelerinde bulunan atalık tohumların korunması ve yeniden üretime kazandırılması amacıyla yürütüldüğünü belirtti.\n\nKarakış, Silifke’de buğday, Gülnar’da ise nohut ve leklek fasulyesi gibi yerel çeşitlere destek verdiklerini ifade ederek, kaybolmaya yüz tutan tohumların yeniden üretime kazandırılmasını ve üretim alanlarının artırılmasını hedeflediklerini söyledi.\n\nÜreticilerin girdi maliyetlerini azaltmak amacıyla farklı tarımsal destekler de sağladıklarını belirten Karakış, 2020’den bu yana 91 üreticiye ulaşıldığını ve 455 dekarlık alanda üretime katkı sağlandığını kaydetti.\n\n600 kilogram atalık nohut tohumu desteği\n\nBereket Mahallesi’nde bu yıl 10 üreticiye verilen 600 kilogramlık atalık nohut tohumu desteği, hasat döneminde üretime dönüştü. Mahalle Muhtarı Ünal Cin, Büyükşehir Belediyesi’nin atalık tohum desteğinin mahalledeki üreticiler açısından önemli olduğunu belirtti.\n\nCin, 2020 yılından bu yana desteklerden yararlandıklarını ve atalık tohumların yeniden üretime kazandırılmasında belediyenin öncülük ettiğini ifade etti.\n\nÜreticiler atalık nohudun lezzetine dikkat çekti\n\nAtalık nohut üreticisi Iraz Kılınç, yetiştirdikleri nohudun geçmiş nesillerden gelen bir çeşit olduğunu belirterek özellikle lezzeti ve pişirme özellikleriyle öne çıktığını söyledi.\n\nBereket Mahallesi üreticilerinden Arif Cin ise bu yıl verimli bir hasat dönemi geçirdiklerini belirtti. Cin, atalık nohudun susuz üretimle yetiştirildiğini ve bölgede geçmişte daha yüksek miktarlarda nohut üretildiğini ifade etti.\n\nCin, yıllar içinde azalan nohut üretiminin Büyükşehir Belediyesi’nin desteğiyle yeniden canlandırılmaya çalışıldığını belirterek, atalık tohumların gelecek nesillere aktarılması gerektiğini vurguladı.\n\nProje kapsamında 455 dekarlık alana ulaşıldı\n\nMersin Büyükşehir Belediyesi’nin açıklamasına göre proje kapsamında 2020 yılından bu yana 91 üreticiye ulaşılırken, toplam 455 dekarlık alanda üretime katkı sağlandı. Aynı dönemde üreticilere verilen atalık tohum desteği 5 bin 460 kilogram oldu.\n\nBüyükşehir Belediyesi, proje kapsamında yerel çeşitlerin korunması, üretim alanlarının artırılması ve üreticilerin tarımsal girdilerinin azaltılmasına yönelik desteklerin sürdürüleceğini bildirdi.\n\nTARIM PUSULASI HABER MERKEZİ"
-    },
-    {
-      "title": "Denizli Büyükşehir Belediyesi Tarım Masası’nı hayata geçirdi",
-      "url": "https://www.tarimpusulasi.com/haber/denizli-buyuksehir-belediyesi-tarim-masasini-hayata-gecirdi-47353",
-      "source": "Tarım Pusulası",
-      "date": "2026-08-12",
-      "summary": "Denizli Büyükşehir Belediyesi koordinasyonunda oluşturulan Tarım Masası, kamu kurumları, meslek odaları ve üretici birliklerini aynı zeminde buluşturdu. İlk toplantıda üreticilerin sorunları, hibe ve teşviklerden yararlanma yolları ile Denizli tarımının geleceğine yönelik çalışma başlıkları ele alın",
-      "content": "DENİZLİ — Denizli Büyükşehir Belediyesi koordinasyonunda oluşturulan Tarım Masası, sektörün farklı paydaşlarını aynı zeminde buluşturdu. İlk toplantıya Denizli Ticaret Borsası, Denizli Ziraat Odası, Ziraat Mühendisleri Odası, Veteriner Hekimler Odası, KÖY-KOOP, Damızlık Sığır Yetiştiricileri Birliği ve Arı Yetiştiricileri Birliği temsilcilerinin yanı sıra büyükşehir bürokratları, ilgili daire başkanları ve personel katıldı.\n\nToplantıda konuşan Denizli Büyükşehir Belediye Başkanı Bülent Nuri Çavuşoğlu, üreticilere yönelik desteklerin kararlı şekilde büyütüleceğini belirtti. Çavuşoğlu, belediyenin uygulamalarıyla üreticilerin sorunlarının tamamını tek başına çözmese de üreticilerin yanında olduğunu gösteren destekleri ulaştırdığını ifade etti.\n\nÇavuşoğlu, kırsal kalkınmanın yalnızca üretim girdilerine yönelik desteklerle sınırlı olmadığını belirterek, kırsalda yaşayan vatandaşların yaşam kalitesinin de geliştirilmesi gerektiğini söyledi. Köylerde sinema etkinlikleri düzenlediklerini ve kırsalda yaşayan kadınların farklı ilçelerdeki etkinliklere katılımını desteklediklerini aktardı.\n\nTarım Masası’nın çalışma alanları belirlendi\n\nDenizli Büyükşehir Belediyesi Genel Sekreteri Bülent Bozbaş’ın moderatörlüğünde devam eden toplantıda, Kırsal Hizmetler Dairesi Başkanı Yücel Arazsu tarafından Tarım Masası’nın kuruluş amacı, hedefleri ve çalışma yöntemi hakkında sunum yapıldı.\n\nToplantıda üreticilerin hibe ve teşviklerden daha etkin yararlanabilmesi için izlenecek yol haritası ele alındı. Tarım Masası’nın yalnızca bir istişare kurulu değil, sahadaki sorunlara çözüm üretmeyi amaçlayan bir yapı olarak çalışacağı belirtildi.\n\nKurulun başkanlığını Denizli Büyükşehir Belediye Başkanı Bülent Nuri Çavuşoğlu üstlenirken, başkan yardımcılıklarına Denizli Merkez Ziraat Odası Başkanı Hamdi Gemici ve Denizli Ziraat Mühendisleri Odası Başkanı Baha Yanarca seçildi.\n\n“Sahadan politikaya” iletişim hedefleniyor\n\nTarım Masası’nın tarımsal sorunların analiz edilmesi ve çözüm önerileri geliştirilmesinde aktif rol üstlenmesi planlanıyor. Yapı kapsamında üretici ve yetiştiricilere yönelik eğitim, danışmanlık ve farkındalık programlarının yanı sıra yerel ürünlerin tanıtılması ve pazarlara erişimin desteklenmesine yönelik çalışmalar yürütülmesi hedefleniyor.\n\nTarım Masası ayrıca kentte bitkisel ve hayvansal üretimin geliştirilmesine yönelik atılacak adımların belirlenmesinde rol oynayacak.\n\nÇavuşoğlu, Tarım Masası’nın kuruluş amacını Denizli’nin toprağı ve üreticinin geleceği için ortak akıl oluşturmak olarak tanımladı. Sahadaki sorunların birlikte tespit edilmesi, bilimsel bilgi ile üretici deneyiminin bir araya getirilmesi ve Denizli tarımının geleceğine ortak bir anlayışla yön verilmesinin hedeflendiğini belirtti.\n\nToplantıda kurum temsilcilerinin görüş ve önerilerinin alınmasının ardından Denizli tarımına yönelik çalışma başlıkları ele alındı.\n\nTARIM PUSULASI HABER MERKEZİ"
-    },
-    {
-      "title": "Soma Termik’in bilançosunda çarpıcı tablo! Elektrik gelirinden daha fazla gecikme zammı gideri",
-      "url": "https://www.tarimdanhaber.com/soma-termikin-bilancosunda-carpici-tablo-elektrik-gelirinden-daha-fazla-gecikme-zammi-gideri",
-      "source": "Tarımdan Haber",
-      "date": "2026-08-12",
-      "summary": "Soma Termik Santrali’nin 2025 bilançosu, şirketin içinde bulunduğu mali tabloyu bütün açıklığıyla ortaya koydu. Santral 2025 yılında 3,9 milyar liralık elektrik satışı yaparken, 5,7 milyar lira gecikme zammı gideri yazdı. TKİ’ye olan ticari borç 11,1 milyar liraya ulaşırken, TKİ’nin ceza ve faiz tal",
-      "content": "Haber Merkezi / Soma Termik Santrali'nin üretim performansını resmi veriler üzerinden gündeme getiren Tarımdan Haber, bu kez şirketin 2025 yılı bağımsız denetimden geçmiş finansal tablolarını mercek altına aldı.\n\nHaziran ayında yayımlanan bağımsız denetim raporundaki rakamlar, Soma Termik'in yalnızca üretimde değil, mali yapısında da ciddi bir bozulma yaşadığını ortaya koyuyor.\n\n2025 bilançosunda özellikle gecikme zamları, Türkiye Kömür İşletmeleri'ne (TKİ) olan borçlar, dava karşılıkları, düşen elektrik satış gelirleri ve negatife dönen özkaynaklar dikkat çekiyor.\n\nElektrik satış geliri yüzde 63 düştü\n\nSoma Termik'in 2024 yılında 10 milyar 718 milyon lira olan hasılatı, 2025 yılında 3 milyar 919 milyon liraya geriledi.\n\nBöylece şirketin hasılatındaki reel düşüş yüzde 63'ü aştı.\n\n2025 yılında 3,9 milyar liralık satış gelirine karşılık satışların maliyeti ise 6 milyar 484 milyon lira olarak gerçekleşti.\n\nBunun sonucunda Soma Termik, daha faaliyetinin ilk aşamasında 2 milyar 565 milyon lira brüt zarar yazdı.\n\nBaşka bir ifadeyle şirket, 2025 yılında 100 liralık satış gerçekleştirmek için yaklaşık 165 liralık satış maliyetine katlandı.\n\nBağımsız denetim raporundaki rakamlar 31 Aralık 2025 satın alma gücü esas alınarak hazırlandığı için önceki yıl rakamları da aynı satın alma gücüne göre karşılaştırmalı olarak sunuluyor.\n\n3,9 milyar liralık gelire karşı 5,7 milyar lira gecikme zammı\n\nBilançodaki en dikkat çekici kalemlerden birisini ise gecikme zammı giderleri oluşturdu.\n\nSoma Termik'in 2025 yılında kaydettiği gecikme zammı gideri tam:\n\n5 milyar 740 milyon 927 bin 523 TL.\n\n2024 yılında aynı kalem 3 milyar 475 milyon lira seviyesindeydi.\n\nOrtaya oldukça çarpıcı bir karşılaştırma çıkıyor.\n\nŞirketin bir yıllık elektrik satışından elde ettiği gelir 3,9 milyar lira olurken, gecikme zammı gideri tek başına 5,7 milyar liraya ulaştı.\n\nYani gecikme zammı gideri, şirketin 2025 yılı hasılatının yaklaşık 1,5 katına çıktı.\n\nTKİ'ye 11,1 milyar lira borç\n\nSoma Termik'in toplam ticari borçları 2025 sonunda 19 milyar 760 milyon liraya ulaştı.\n\nBu borcun 11 milyar 111 milyon liralık bölümünü TKİ'ye olan ticari borçlar oluşturuyor.\n\n2024 sonunda TKİ'ye olan borç ise yeniden düzenlenmiş finansal tablolarda yaklaşık 12,94 milyar lira olarak yer alıyor.\n\nBağımsız denetim raporunda Soma Termik'in 2015 yılındaki özelleştirme sırasında TKİ ile yapılan kömür tedarik sözleşmesini devraldığı belirtilirken, sözleşmedeki eskalasyon formülünün yıllar içerisinde kömür fiyatlarını piyasa fiyatlarının üzerine taşıdığı ve bunun şirketin finansal tablolarını olumsuz etkilediği ifade ediliyor.\n\nTKİ ile ilişkide kritik kırılma 2025'te yaşandı\n\nRaporda TKİ ile Soma Termik arasındaki ilişkinin 2025 yılında nasıl krize dönüştüğü de anlatılıyor.\n\nMart 2025'te TKİ ile 30 Haziran'a kadar geçerli bir protokol imzalandı. Ancak protokol sürdürülemedi.\n\nSoma Termik, 27 Haziran'da TKİ'ye başvurarak kömür fiyatlarında indirim istedi. Şirket, talebinin kabul edilmemesi halinde 2025 yılına ilişkin alım yükümlülüğünün kaldırılmasını ve kömür tedarikinin sonlandırılmasını talep etti.\n\nTKİ ise 1 Temmuz 2025 itibarıyla kömür tedarikini durdurdu ve 1 Eylül'de sözleşmeyi tek taraflı feshetti. Rapora göre bu gelişmenin ardından santralin faaliyetleri önemli ölçüde azaldı.\n\nBir ağır kalem daha: 2,8 milyar liralık dava karşılığı\n\n2025 bilançosunun dikkat çeken bir diğer kalemi dava karşılıkları oldu.\n\nŞirketin 2024 sonunda yalnızca 6,7 milyon lira seviyesinde bulunan dava karşılığı, 2025 sonunda 2 milyar 794 milyon liraya yükseldi.\n\nBağımsız denetim raporu bu olağanüstü artışın nedenini de açıklıyor.\n\nRapora göre dava karşılığının büyük çoğunluğu, TKİ'nin Soma Termik'in alım yükümlülüğüne aykırı davrandığı gerekçesiyle talep ettiği ceza ve bu tutara işleyen faiz üzerinden açılan icra davasından kaynaklanıyor.\n\nBurada önemli bir ayrıntının altını çizmek gerekiyor:\n\n2,8 milyar lira ödenmiş bir ceza değil.\n\nTKİ'nin ceza ve faiz talebine ilişkin devam eden hukuki süreç nedeniyle finansal tablolarda ayrılmış dava karşılığı.\n\nRapora göre mevcut borç yükü ve ödeme takvimindeki aksamalar nedeniyle TKİ, alacakları için Soma Termik aleyhine yasal takip başlatırken şirket de bu takiplere karşı hukuki itirazlarını yaptı.\n\nGecikme zammı ve dava karşılığı 8,5 milyar lirayı geçti\n\nİki kalemi yan yana koyduğumuzda bilançodaki mali yükün boyutu daha net görülüyor.\n\nGecikme zammı gideri: 5,74 milyar TL\n\nDava karşılık gideri: 2,79 milyar TL\n\nToplam: 8,53 milyar TL\n\nBuna karşılık Soma Termik'in 2025 yılı toplam hasılatı sadece 3,92 milyar TL.\n\nDolayısıyla yalnızca bu iki gider kalemi, şirketin bir yıllık elektrik satış gelirinin 2 katından fazla.\n\nŞirketin 2025'te esas faaliyetlerden diğer giderleri toplam 8 milyar 568 milyon liraya ulaşırken bunun neredeyse tamamını gecikme zammı ve dava karşılık gideri oluşturdu.\n\n2024 bilançosunda TKİ borcu için 589 milyon liralık düzeltme\n\nBağımsız denetim raporunda dikkat çeken bir başka ayrıntı ise önceki yıl finansal tablolarında yapılan düzeltmeler o"
     }
   ],
   "commoditiesByBorsa": {
@@ -330,9 +330,6 @@
   "note": "Fiyatlar TOBB ticaret borsasından (borsa seçilebilir). Kanola manuel (Trakya 2025).",
   "inputsNote": "Mazot: akaryakıt bayi fiyatı, günlük (şehir seçilebilir). Gübre: manuel (yaklaşık).",
   "errors": [
-    "borsa 5ED10: fetch failed",
-    "borsa 5KO10: fetch failed",
-    "borsa 5ES10: fetch failed",
     "mazot ANKARA: fetch failed",
     "mazot ISTANBUL: fetch failed",
     "mazot IZMIR: fetch failed",
