@@ -1,43 +1,59 @@
 {
-  "updatedAt": "2026-08-14T13:44:09.547Z",
+  "updatedAt": "2026-08-14T14:39:43.625Z",
   "fx": [
     {
       "code": "USD",
       "name": "Dolar",
-      "buy": 478788,
-      "sell": 478903,
-      "change": 11
+      "buy": 47.88,
+      "sell": 47.89,
+      "change": 0.11
     },
     {
       "code": "EUR",
       "name": "Euro",
-      "buy": 554845,
-      "sell": 55497,
-      "change": 4
+      "buy": 55.49,
+      "sell": 55.5,
+      "change": 0.41
     },
     {
       "code": "GRA",
       "name": "Gram Altın",
-      "buy": 676374,
-      "sell": 676468,
-      "change": 109
+      "buy": 6749.77,
+      "sell": 6750.66,
+      "change": 0.88
     },
     {
       "code": "CEYREKALTIN",
       "name": "Çeyrek Altın",
-      "buy": 1076577,
-      "sell": 1101143,
-      "change": 39
+      "buy": 10756.5,
+      "sell": 11001.95,
+      "change": 0.3
     },
     {
       "code": "CUMHURIYETALTINI",
       "name": "Cumhuriyet Altını",
-      "buy": 44296,
-      "sell": 44966,
-      "change": -3
+      "buy": 44616,
+      "sell": 45286,
+      "change": 0.41
     }
   ],
   "news": [
+    {
+      "title": "Alman Çiftçiler Birliği: Kuraklık ekinleri tehdit ediyor",
+      "url": "https://www.tarimpusulasi.com/haber/alman-ciftciler-birligi-kuraklik-ekinleri-tehdit-ediyor-47379",
+      "source": "Tarım Pusulası",
+      "date": "2026-08-14",
+      "summary": "Alman Çiftçiler Birliği Başkanı Joachim Rukwied, aşırı sıcaklık ve yağış eksikliğinin özellikle ülkenin güneyinde bazı ürünlerde tamamen verimsiz bir hasat riski oluşturduğunu belirtti. Rukwied, tarımsal üretimin uzun yıllar ortalamasının altında kalmasının beklendiğini açıkladı.",
+      "content": "ALMANYA — Almanya’da aşırı sıcaklık ve yağış eksikliğinin tarımsal üretim üzerinde ciddi baskı oluşturduğu bildirildi. Alman Çiftçiler Birliği Başkanı Joachim Rukwied, özellikle ülkenin güney bölgelerinde mevcut hava koşullarının bazı ürünlerde tamamen verimsiz bir hasat riskine yol açabileceğini belirtti.\n\nRukwied, tarım sektöründe hasadın uzun yıllar ortalamalarının önemli ölçüde altında kalmasının beklendiğini söyledi. Aşırı sıcaklık ve yağış eksikliğinin buğday ve kolza başta olmak üzere birçok ürünü olumsuz etkilediği, patates, sebze, şeker pancarı, mısır ve soyanın da risk altında olduğu ifade edildi.\n\nGüney bölgelerinde hasat riski büyüyor\n\nAlmanya’nın güney bölgelerinde durumun daha ağır olduğu belirtilirken, bazı ürünlerde hiç hasat yapılamaması riskinin bulunduğu aktarıldı.\n\nKuzey bölgelerinin ise dönemsel yağışlar sayesinde kuraklıktan daha az etkilendiği, ancak burada da üretim miktarlarının normal seviyelerin altında kalmasının beklendiği bildirildi.\n\nHava koşullarından kaynaklanan en önemli sorunlardan birinin yem bitkilerinin gelişiminin durması olduğu belirtildi. Yem üretimindeki gerilemenin hayvansal üretim üzerinde de baskı oluşturduğu ifade edildi.\n\nYem stokları azalıyor, işletmeler zorlanıyor\n\nOlumsuz hava koşullarının yem stoklarında ciddi düşüşe neden olduğu, bunun da bazı hayvanların planlanandan daha erken kesime gönderilmesine yol açtığı belirtildi.\n\nRukwied, tarımsal işletmelerin finansal durumunu kritik olarak nitelendirdi. Bazı üreticilerin bitki koruma ürünleri ve gübre faturalarını ödeyemediğini ve bankalardan finansman arayışına girdiğini söyledi.\n\nRukwied, tarımsal işletmelerin ekonomik durumunun yüksek girdi maliyetleri ile düşük tarımsal ürün fiyatlarının aynı anda baskı oluşturması nedeniyle kritik seviyede olduğunu belirtti.\n\nÇiftçiler Almanya ve AB’den acil destek istiyor\n\nAlman çiftçiler, üretimde yaşanan sorunların daha da büyümemesi için Almanya hükümeti ve Avrupa Birliği'nden acil önlemler alınmasını talep ediyor.\n\nÇiftçilerin öne çıkan talepleri şöyle:\n\nAvrupa Birliği'nin gübre alımı için oluşturduğu yardım fonunun 60 milyon avrodan 180 milyon avroya çıkarılması,\n\nAB doğrudan desteklerinin yüzde 80'inin ekim ayında, normal ödeme döneminden önce çiftçilere aktarılması,\n\nDizel yakıt vergilerinin en az kasım ayı sonuna kadar düşürülmesi.\n\nSıcağa dayanıklı çeşitlere ihtiyaç vurgusu\n\nAvrupa tarımının uzun yıllardır iklim değişikliğine uyum sağlamaya çalıştığı belirtilirken, mevcut koşulların tarımsal üretimde sıcağa dayanıklı çeşitlerin hızlı şekilde geliştirilmesi ve kullanılmasını daha önemli hale getirdiği ifade edildi.\n\nTARIM PUSULASI HABER MERKEZİ"
+    },
+    {
+      "title": "Rusya’da mısır üretim maliyeti yüzde 11’e kadar arttı",
+      "url": "https://www.tarimpusulasi.com/haber/rusyada-misir-uretim-maliyeti-yuzde-11e-kadar-artti-47378",
+      "source": "Tarım Pusulası",
+      "date": "2026-08-14",
+      "summary": "Rusya’da 2025/2026 sezonunda mısır yetiştirmenin ortalama maliyeti hektar başına 29.500-33.200 ruble (354-398,40 dolar) seviyesine yükseldi. Önceki sezona göre yüzde 8-11 artan maliyetlerde gübre, akaryakıt ve bitki koruma ürünlerindeki fiyat artışları etkili oldu.",
+      "content": "RUSYA — Mısır üretiminde kullanılan girdilerdeki enflasyonist baskı, 2025/2026 sezonunda yetiştirme maliyetlerinin önemli ölçüde artmasına neden oldu. Ortalama mısır yetiştirme maliyeti hektar başına 29.500-33.200 ruble (354-398,40 dolar) seviyesine yükselirken, önceki sezona göre artış yüzde 8-11 olarak gerçekleşti.\n\nMaliyetlerdeki yükselişte özellikle gübre, akaryakıt ve bitki koruma ürünleri fiyatlarındaki artış etkili oldu. Bu ürünlerin fiyatlandırmasının küresel piyasalardaki fiyatlara bağlı olduğu belirtildi.\n\nEn yüksek maliyet payı mineral gübrelerde\n\nMısır üretimindeki toplam maliyet içerisinde mineral gübreler, tohum, akaryakıt ve bitki koruma ürünleri önemli bir pay oluşturdu.\n\nMineral gübrelerin, özellikle NPK gübrelerin, toplam maliyet içindeki payı yüzde 26-29 olurken hektar başına maliyeti 7.800-8.900 ruble (93,60-106,80 dolar) seviyesinde gerçekleşti.\n\nTohum maliyetlerinin toplam giderler içerisindeki payı yüzde 16-18 olurken, hektar başına maliyet 4.800-5.600 ruble (57,60-67,20 dolar) seviyesinde oldu.\n\nAkaryakıt ve yağlayıcıların toplam maliyet içindeki payı yüzde 15-17, hektar başına maliyeti ise 4.500-5.300 ruble (54-63,60 dolar) olarak hesaplandı.\n\nBitki koruma ürünlerinin toplam maliyet içindeki payı yüzde 13-15 olurken, hektar başına maliyet 3.900-4.700 ruble (46,80-56,40 dolar) seviyesinde bulundu.\n\nAzotlu gübre fiyatları maliyet baskısını artırıyor\n\nÖzellikle azotlu gübre fiyatlarındaki dalgalanmanın maliyetler açısından önemli bir risk oluşturduğu belirtildi.\n\nAzotlu gübre fiyatları ile dolar/ruble kuru arasındaki korelasyonun 0,78 seviyesinde olduğu ifade edildi. Buna göre doların güçlenmesinin mısır üretim maliyetini yüzde 6-8 artırdığı değerlendiriliyor.\n\nRiskli tarım bölgelerinde girdi payı yüzde 64’e çıkıyor\n\nVolga Bölgesi gibi riskli tarım yapılan alanlarda bitki koruma ürünleri, gübre ve akaryakıt giderlerinin toplam maliyet içerisindeki payının yüzde 60-64 seviyesine ulaştığı belirtildi.\n\nBu durumun bölgeyi küresel fiyat değişimlerine karşı daha hassas hale getirdiği ifade edilirken, kârlılığın korunması için hassas tarım uygulamalarının kullanılması gerektiği vurgulandı.\n\nYüksek girdi fiyatlarına karşılık, azot uygulama miktarlarının yüzde 10-15 azaltılmasının beklendiği bildirildi.\n\nTARIM PUSULASI HABER MERKEZİ"
+    },
     {
       "title": "Rosario Tahıl Borsası: Arjantin'de mısır rekoltesi rekor kıracak",
       "url": "https://www.tarimpusulasi.com/haber/rosario-tahil-borsasi-arjantinde-misir-rekoltesi-rekor-kiracak-47377",
@@ -85,22 +101,6 @@
       "date": "2026-08-14",
       "summary": "YENİ Parti Adana Milletvekili ve TBMM Tarım, Orman ve Köyişleri Komisyonu Üyesi Ayhan Barut, mazota yapılan yüzde 10'u aşkın fiyat artışının tarımsal üretim maliyetlerini ve tüketici fiyatlarını yükselteceğini belirterek mazotta vergi yükünün tümüyle kaldırılmasını istedi.",
       "content": "ADANA — YENİ Parti Adana Milletvekili ve TBMM Tarım, Orman ve Köyişleri Komisyonu Üyesi Ayhan Barut, mazota yapılan yüzde 10'u aşkın son fiyat artışının tarımsal üretim maliyetlerini artıracağını belirterek, mazotta vergi yükünün tümüyle kaldırılması çağrısında bulundu.\n\nAKP iktidarının ÖTV düzenlemesiyle mazot fiyatında yüksek artışlara neden olduğunu savunan Barut, daha yeni bir fiyat güncellemesi yapılmasına rağmen kısa süre içinde “önce indirim, sonra bindirim” tablosunun ortaya çıktığını ifade etti. Barut, bu durumun çiftçinin üretim maliyetlerini artırdığını ve tüketicinin alım gücünü olumsuz etkilediğini söyledi.\n\nMazot artışının üretim maliyetlerini artıracağını belirtti\n\nMazotun tarımsal üretimdeki temel maliyet kalemlerinden biri olduğunu belirten Barut, fiyat artışlarının traktörden sulamaya, ekimden hasada, sürümden budamaya kadar üretimin farklı aşamalarındaki maliyetleri yükselttiğini ifade etti.\n\nBarut, artan üretim maliyetlerinin ürün fiyatlarına yansıyacağını, nakliye ve lojistik giderlerindeki yükselişin de raf fiyatlarını artıracağını savundu. Mazot fiyatındaki artışın üreticiden tüketiciye uzanan maliyet zincirinin tamamına yansıyacağını belirten Barut, bunun sonucunda hem üreticinin hem de tüketicinin olumsuz etkileneceğini söyledi.\n\n“Mazotta vergi yükü tümüyle kaldırılmalı”\n\nTarım ve üreticinin yeterince desteklenmediğini, yanlış ekonomi politikaları nedeniyle halkın alım gücünün düştüğünü savunan Barut, çiftçinin üretim maliyetlerinin artmasına karşın ürününün yeterli karşılığı bulamadığını ifade etti.\n\nTüketicilerin de yüksek fiyatlar ve enflasyon nedeniyle uygun fiyatlı ürün bulmakta zorlandığını belirten Barut, çözüm olarak mazotta vergi yükünün tamamen kaldırılması ve üreticiler ile üretimin yeterince desteklenmesi gerektiğini söyledi.\n\nBarut, mazottaki vergi yükünün kaldırılmasının yalnızca üreticiyi değil, tüketiciyi de destekleyeceğini savundu.\n\nTARIM PUSULASI HABER MERKEZİ"
-    },
-    {
-      "title": "Kars VHO ve Kars TSO’dan hayvancılık için yeni iş birliği",
-      "url": "https://www.tarimpusulasi.com/haber/kars-vho-ve-kars-tsodan-hayvancilik-icin-yeni-is-birligi-47371",
-      "source": "Tarım Pusulası",
-      "date": "2026-08-14",
-      "summary": "Kars Veteriner Hekimleri Odası ile Kars Ticaret ve Sanayi Odası, hayvancılık sektörünün geliştirilmesi, üreticilerin bilgi ve teknik kapasitesinin artırılması ve ortak projeler yürütülmesi amacıyla İş Birliği Protokolü imzaladı.",
-      "content": "KARS — Kars Veteriner Hekimleri Odası (Kars VHO) ile Kars Ticaret ve Sanayi Odası (Kars TSO), hayvancılık sektörünün geliştirilmesi ve üreticilerin bilgi ve teknik kapasitesinin artırılması amacıyla İş Birliği Protokolü imzaladı.\n\nProtokol, Kars Veteriner Hekimleri Odası Yönetim Kurulu Başkanı Ercan Ödül ile Kars Ticaret ve Sanayi Odası Yönetim Kurulu Başkanı Kadir Bozan tarafından imza altına alındı. İş birliği markalaşma, ortak projeler ve sektörel sorunların çözümüne yönelik çalışmalar yürütülmesi hedefleniyor.\n\nProtokol kapsamında üreticilerin ve sektör paydaşlarının bilgi ve teknik kapasitelerinin artırılması amacıyla çalıştay, seminer, eğitim ve konferanslar düzenlenmesi planlanıyor. Hayvan sağlığı, koruyucu hekimlik, sürü yönetimi ve yetiştiricilik konularında yürütülecek çalışmalarla işletmelerde verimliliğin artırılmasına katkı sağlanması amaçlanıyor.\n\nİş birliğinin bir diğer başlığını ise yeni teknolojiler ve modern üretim yöntemlerinin üreticilerle buluşturulması oluşturuyor. Kars’ın hayvancılık potansiyelinin katma değerli üretim, markalaşma ve pazarlama açısından geliştirilmesine yönelik çalışmalar yapılması öngörülüyor.\n\nProtokol kapsamında sektörün gelişimine yönelik ulusal ve uluslararası proje ve fon çalışmalarının hazırlanması, fuar ve sektörel etkinliklere ortak katılım sağlanması da hedefleniyor. Tarım sektöründe yaşanan sorunların ortak akılla tespit edilmesi, çözüm önerilerinin geliştirilmesi ve ilgili bakanlıklar ile üst kurumlar nezdinde takip edilmesi de iş birliğinin çalışma alanları arasında yer alıyor.\n\nGençlerin ve kadınların sektörde daha aktif, üretken ve girişimci roller üstlenmelerini sağlayacak projelerin geliştirilmesi de protokolde yer alan hedefler arasında bulunuyor.\n\nKars Veteriner Hekimleri Odası Yönetim Kurulu Başkanı Ercan Ödül, iş birliğinin Kars hayvancılığının geleceği açısından önemli olduğunu belirtti. Ödül, veteriner hekimlik mesleğinin bilimsel birikimi ve sahadaki tecrübesi ile ticaret ve sanayi dünyasının birikimini bir araya getirdiklerini ifade etti.\n\nÖdül, protokolün üreticilerin güçlenmesi, hayvan sağlığının korunması, işletmelerde verimliliğin artırılması ve Kars hayvancılığının daha yüksek katma değere ulaşmasına katkı sağlamasını beklediklerini belirterek, kamu kurumları, meslek kuruluşları, üreticiler ve sektör paydaşlarıyla ortak çalışmalar yürütmeye devam edeceklerini kaydetti.\n\nKars Veteriner Hekimleri Odası, protokol kapsamında hayvan sağlığı, üretici refahı, verimlilik ve sürdürülebilir üretimi merkeze alan çalışmalar yürütüleceğini bildirdi.\n\nTARIM PUSULASI HABER MERKEZİ"
-    },
-    {
-      "title": "Bayer, Hatay’da mısır çözümlerini üreticilerle buluşturdu",
-      "url": "https://www.tarimpusulasi.com/haber/bayer-hatayda-misir-cozumlerini-ureticilerle-bulusturdu-47370",
-      "source": "Tarım Pusulası",
-      "date": "2026-08-14",
-      "summary": "Bayer Tarım Ürünleri ekibinin 12-13 Ağustos’ta Hatay’da düzenlediği Agro Arena Mısır etkinliğine binin üzerinde üretici katıldı. Etkinlikte DEKALB mısır çeşitleri, Preceon Akıllı Mısır Sistemi, bitki koruma ürünleri ve dijital tarım çözümleri sahada tanıtıldı.",
-      "content": "HATAY — Bayer Tarım Ürünleri ekibinin düzenlediği Agro Arena Mısır etkinliği, 12-13 Ağustos'ta Hatay’da binin üzerinde üreticinin katılımıyla gerçekleştirildi. İki gün süren etkinlikte DEKALB’in danelik ve silajlık mısır çeşitleri, Bayer’in bitki koruma ürünleri, dijital tarım çözümleri ve mısır yetiştiriciliğine yönelik uygulamalar üreticilere tanıtıldı.\n\nEtkinlikte Preceon Akıllı Mısır Sistemi, Yeniden Ekim Programı ve DEKALB Verim Hattı hakkında bilgi verildi. Üreticiler, Bayer-DEKALB mısır çözüm paketindeki uygulamaları tarla koşullarında inceleme fırsatı buldu.\n\nEtkinlik kapsamında FieldView uygulaması da üreticilere tanıtıldı. Uydu görüntüleri, hava durumu tahminleri, su kullanım haritaları ve akıllı bildirimlerle tarlaların sezon boyunca takip edilmesini sağlayan uygulamanın, tarla verilerini analiz ederek uygulanabilir içgörülere dönüştürmesi ve tarlaya özel ekim reçeteleri oluşturması amaçlanıyor.\n\nBayer Tarım Ürünleri Mısır Ürün Grubu Pazarlama Müdürü Harun Kendir, etkinlikte yaptıkları çalışmaların amacının yenilikçi teknolojileri ve mısır çözüm paketlerini üreticilerle sahada buluşturmak olduğunu belirtti. Kendir, Yeniden Ekim Programı ile olumsuz iklim ve saha koşullarının oluşturabileceği risklere karşı üreticileri desteklemeyi hedeflediklerini ifade etti.\n\nPreceon Akıllı Mısır Sistemi tanıtıldı\n\nEtkinlikte tanıtılan Preceon Akıllı Mısır Sistemi, yeni nesil kısa boylu mısır hibritlerini temel alıyor. Kaynak açıklamaya göre sistem, yüksek ekim sıklığına imkân tanırken rüzgâr ve yağış kaynaklı yatma riskinin ve buna bağlı dane kayıplarının azaltılmasına katkı sağlamayı hedefliyor.\n\nPreceon hibritlerinin uzun süre yeşil kalabilme özelliğinin ise silaj üretiminde yem verimi ve kalitesine katkı sağlaması amaçlanıyor. Sistem, FieldView dijital uygulamalarıyla entegre çalışarak ekim yoğunluğu ve konumlandırma planlamalarının optimize edilmesini destekliyor.\n\nDEKALB Verim Hattı ücretsiz bilgi desteği sunuyor\n\nEtkinlikte üreticilere DEKALB Verim Hattı hakkında da bilgi verildi. Ziraat mühendislerinden oluşan ekip tarafından yürütülen hat üzerinden üreticilere toprak hazırlığından çeşit seçimine, ekim zamanı ve sıklığından sulama ve gübrelemeye, hastalık ve zararlılarla mücadeleden hasada kadar mısır yetiştiriciliğinin farklı aşamalarında bilgi desteği sunuluyor.\n\nÜreticiler ayrıca DEKALB Verim Hattı üzerinden hava durumu, mısır borsa fiyatları ve tarımsal hibe destekleri hakkında bilgi alabiliyor.\n\nBayer Tarım Ürünleri, Agro Arena Mısır etkinlikleriyle üreticilerle sahada buluşmaya ve mısır üretiminde verimliliği desteklemeye yönelik çalışmalarını sürdüreceğini bildirdi.\n\nTARIM PUSULASI HABER MERKEZİ"
     },
     {
       "title": "Çiftçi girdi maliyetini hesap ederken Genel Müdüre para yağıyor! Razi’den 1,8 milyon liralık kar payı",
@@ -328,17 +328,5 @@
   "defaultBorsa": "5ED10",
   "defaultCity": "CANAKKALE",
   "note": "Fiyatlar TOBB ticaret borsasından (borsa seçilebilir). Kanola manuel (Trakya 2025).",
-  "inputsNote": "Mazot: akaryakıt bayi fiyatı, günlük (şehir seçilebilir). Gübre: manuel (yaklaşık).",
-  "errors": [
-    "mazot ANKARA: fetch failed",
-    "mazot ISTANBUL: fetch failed",
-    "mazot IZMIR: fetch failed",
-    "mazot KONYA: fetch failed",
-    "mazot ADANA: fetch failed",
-    "mazot BURSA: fetch failed",
-    "mazot ANTALYA: fetch failed",
-    "mazot SAMSUN: fetch failed",
-    "mazot TEKIRDAG: fetch failed",
-    "mazot CANAKKALE: fetch failed"
-  ]
+  "inputsNote": "Mazot: akaryakıt bayi fiyatı, günlük (şehir seçilebilir). Gübre: manuel (yaklaşık)."
 }
