@@ -1,43 +1,51 @@
 {
-  "updatedAt": "2026-08-15T11:24:56.857Z",
+  "updatedAt": "2026-08-15T11:46:16.674Z",
   "fx": [
     {
       "code": "USD",
       "name": "Dolar",
-      "buy": 47.84,
-      "sell": 47.91,
-      "change": 0.1
+      "buy": 478422,
+      "sell": 479147,
+      "change": 1
     },
     {
       "code": "EUR",
       "name": "Euro",
-      "buy": 55.38,
-      "sell": 55.51,
-      "change": 0.31
+      "buy": 553796,
+      "sell": 555063,
+      "change": 31
     },
     {
       "code": "GRA",
       "name": "Gram Altın",
-      "buy": 6736.33,
-      "sell": 6737.19,
-      "change": 0.68
+      "buy": 673633,
+      "sell": 673719,
+      "change": 68
     },
     {
       "code": "CEYREKALTIN",
       "name": "Çeyrek Altın",
-      "buy": 10756.5,
-      "sell": 11001.95,
-      "change": 0.3
+      "buy": 107565,
+      "sell": 1100195,
+      "change": 3
     },
     {
       "code": "CUMHURIYETALTINI",
       "name": "Cumhuriyet Altını",
       "buy": 44616,
       "sell": 45286,
-      "change": 0.41
+      "change": 41
     }
   ],
   "news": [
+    {
+      "title": "CHP Tokat Milletvekili Durmaz: Mısır fiyatı 17 TL olmalı",
+      "url": "https://www.tarimpusulasi.com/haber/chp-tokat-milletvekili-durmaz-misir-fiyati-17-tl-olmali-47384",
+      "source": "Tarım Pusulası",
+      "date": "2026-08-15",
+      "summary": "CHP Tokat Milletvekili Kadim Durmaz, 2026 yılı mısır alım fiyatının kilogram başına en az 17 TL olması gerektiğini söyledi. Durmaz, geçen yıl TMO'nun açıkladığı 11,30 TL/kg fiyatın güncel üretim maliyetlerini karşılamadığını savunarak mazot ve gübre fiyatlarındaki artışlara dikkat çekti.",
+      "content": "CHP Tokat Milletvekili Kadim Durmaz, 2026 yılı mısır hasadının başlamasıyla birlikte üreticinin gözünü Toprak Mahsulleri Ofisi’nden gelecek alım fiyatına çevirdiğini belirterek, mısır alım fiyatının kilogram başına en az 17 lira olması gerektiğini söyledi.\n\nGeçen yıl TMO’nun mısır alım fiyatını ton başına 11 bin 300 lira olarak açıkladığını hatırlatan Durmaz, aradan geçen bir yılda başta mazot ve gübre olmak üzere üretim maliyetlerinde çok yüksek artışlar yaşandığına dikkat çekti.\n\nDurmaz, “2025’in fiyatıyla 2026’nın mısırını satın alamazsınız. Çiftçi geçen yılın mazotuyla tarlasını sürmedi, geçen yılın gübresiyle üretim yapmadı. 2026’nın maliyetiyle üretim yapan çiftçiye 2026’nın gerçeklerine uygun bir fiyat vermek zorundasınız” dedi.\n\nMAZOT YÜZDE 58, ÜRE GÜBRESİ YÜZDE 62 ARTTI\n\nDurmaz, Mart 2025-Mart 2026 döneminde mazotun litre fiyatının 47,57 liradan 75,12 liraya çıkarak yüzde 57,9, üre gübresinin ton fiyatının 19 bin 200 liradan 31 bin 124 liraya çıkarak yüzde 62,1 arttığını söyledi.\n\nAynı dönemde DAP gübresi 26 bin 329 liradan 38 bin 943 liraya, 20.20.0 kompoze gübresi ise 17 bin 440 liradan 25 bin 888 liraya yükseldi. Artış oranları sırasıyla yüzde 47,9 ve yüzde 48,4 oldu.\n\nTÜİK’in Tarımsal Girdi Fiyat Endeksi de maliyet artışını doğruluyor. Tarım-GFE Mayıs 2026’da geçen yılın aynı ayına göre yüzde 36,65 artarken, Nisan ayında gübre ve toprak geliştiriciler grubundaki yıllık artış yüzde 62,77’ye ulaştı.\n\nDurmaz, şöyle devam etti:\n\n“Mazot arttı, gübre arttı, tohum arttı, sulama arttı, işçilik arttı. Mısır üreticisi tarlasına her girdiğinde geçen yıldan daha fazla para harcadı. Şimdi hasat zamanı geldiğinde çiftçiye ‘geçen yılın biraz üzerinde fiyat verdik’ denilemez. Üreticinin yalnızca bugünkü borcunu değil, gelecek yıl yeniden tarlasına girebilmesini sağlayacak bir fiyat açıklanmalıdır.”\n\n“ÜRETİCİNİN BEKLENTİSİ EN AZ 17 LİRADIR”\n\nDurmaz, 2026 yılı için kilogram başına en az 17 liralık alım fiyatının üreticinin temel beklentisi olduğunu belirterek, bunun keyfî bir talep olmadığını söyledi.\n\n2025 TMO alım fiyatı olan 11,30 liraya göre 17 liralık fiyat yaklaşık yüzde 50’lik bir artış anlamına gelirken, yalnızca bir yıllık dönemde mazot, üre, DAP ve kompoze gübre gibi temel girdilerde yüzde 48 ile yüzde 62 arasında değişen artışların yaşandığına dikkat çeken Durmaz, “Çiftçinin istediği yüksek fiyat değil, yükselen maliyetinin karşılığıdır” dedi.\n\n“MISIR YETMİYOR DİYEREK İTHALAT YAPIYORSANIZ, YERLİ ÜRETİCİYİ DAHA ÇOK KORUMALISINIZ”\n\nDurmaz, mısır politikasındaki en büyük çelişkinin ise ithalat ile üretici fiyatı arasındaki ilişki olduğunu söyledi.\n\nTarım ve Orman Bakanlığına bağlı Tarımsal Ekonomi ve Politika Geliştirme Enstitüsü’nün Temmuz 2026 raporuna göre Türkiye’nin mısır üretimi 2024/2025 pazarlama yılında 8,1 milyon ton, yurtiçi kullanımı ise 10 milyon 755 bin ton olarak gerçekleşti. Kullanılabilir üretimin yurtiçi tüketimi karşılama oranı yüzde 73’te kaldı. Aynı dönemde mısır ithalatı 5 milyon 708 bin tonla tüm zamanların en yüksek seviyesine çıktı. Mısırın Türkiye’deki kullanımının yüzde 84’ünü yem sektörü oluşturuyor.\n\n2026/2027 döneminde de mısır üretiminin yüzde 5,9 azalarak yaklaşık 8 milyon tona gerilemesi bekleniyor.\n\nDurmaz, bu verilerin ardından şu soruyu yöneltti:\n\n“Madem Türkiye’nin mısırı yetmiyor, madem milyonlarca ton ithalata ihtiyaç duyuyorsunuz; o zaman kendi çiftçinizin ürettiği mısırı neden değersizleştiriyorsunuz? Üretim açığınız varsa çözüm, yerli üreticiyi daha az kazandırarak üretimden uzaklaştırmak olabilir mi? Tam tersine, ithalat ihtiyacını azaltmak istiyorsanız çiftçiye ‘sen üret, ben senin ürününe sahip çıkacağım’ demeniz gerekir.”\n\n3 MİLYON TONLUK İTHALATA YÜZDE 5 VERGİ\n\nNisan ayında yayımlanan düzenlemeyle 20 Nisan-31 Temmuz 2026 tarihleri arasında 3 milyon ton mısır ithalatı için yüzde 5 gümrük vergili tarife kontenjanı açıldı. Ticaret Bakanlığı kararın gerekçesini, yerli üretimin tüketimi karşılamada yetersiz kalması, yem ve gıda sektöründeki ihtiyacın karşılanması, arz güvenliği ve fiyat istikrarının korunması olarak açıkladı.\n\nBakanlığın TEPGE raporuna göre 2025/2026 pazarlama yılının ilk dokuz ayında Türkiye’nin mısır ithalatı 4 milyon tona ulaştı ve ithalatın yüzde 75,6’sı Ukrayna’dan gerçekleştirildi.\n\nDurmaz, ithal ürünün hasat dönemine yaklaşırken yerli mısır fiyatı üzerinde baskı oluşturma riskine dikkat çekerek şunları söyledi:\n\n“Ukrayna’dan daha ucuz mısırı ülkeye sokup sonra kendi çiftçinize ‘piyasa bu fiyatı veriyor’ diyemezsiniz. O piyasanın şartlarını aldığınız ithalat kararlarıyla siz oluşturuyorsunuz. İthalatı üreticinin başında Demokles’in kılıcı gibi tutarsanız çiftçi gelecek yıl mısır ekmez. Sonra üretim daha da düşer, ithalat daha da artar. Bu, Türkiye’yi kendi eliyle ithalata bağımlı hâle getiren yanlış bir tarım politikasıdır.”\n\n“FİYATI AÇIKLAMAK YETMEZ, O FİYATA SAHİP ÇIKACAKSINIZ”\n\nMısır üreticisinin sorununun yalnızca TMO’nun açıklayacağı rakam olmadığını vurgulayan Durmaz, piyasada üreticinin açıklanan fiyatın altında satış yapmak zorunda "
+    },
     {
       "title": "TMO-TOBB: TÜRİB'de Ekmeklik Buğday %22, Mısır %17 Arttı",
       "url": "https://www.tarimpusulasi.com/haber/tmo-tobb-turibde-ekmeklik-bugday-22-misir-17-artti-47383",
@@ -109,14 +117,6 @@
       "date": "2026-08-14",
       "summary": "Rosario Tahıl Borsası analistleri, Arjantin’in 2025/26 pazarlama yılında mısır üretiminin 70,5 milyon tona ulaşarak rekor kırabileceğini öngördü. Bir önceki ay 68 milyon ton olarak açıklanan tahmin yükseltilirken, 2026/27 sezonu için mısır üretimi 66 milyon ton olarak bekleniyor.",
       "content": "BUENOS AIRES — Rosario Tahıl Borsası analistleri, Arjantin’in 2025/26 pazarlama yılında mısır üretiminin 70,5 milyon tona ulaşabileceğini tahmin etti. Yeni tahmin, bir önceki ay açıklanan 68 milyon tonluk öngörünün üzerinde bulunuyor ve üretimin rekor seviyeye ulaşabileceğine işaret ediyor.\n\nAnalistler, üretim tahminindeki artışın ülkede mısır ekim alanlarının genişlemesinden kaynaklandığını belirtti.\n\nHasat planlanan alanların yüzde 75’inde tamamlandı\n\nArjantinli çiftçilerin mısır hasadını planlanan alanların yüzde 75'inde tamamladığı bildirildi. Ancak hasat çalışmaları geçen yılın aynı dönemindeki hızın gerisinde kaldı.\n\nRosario Tahıl Borsası analistleri, temmuz ayında yaşanan alışılmadık derecede yağışlı ve sıcak hava koşullarının tarla çalışmalarını zorlaştırdığını belirtti.\n\n2026/27 mısır ve soya üretimi için yeni tahmin\n\nRosario Tahıl Borsası analistleri, 2026/27 pazarlama yılı için de mısır ve soya üretimine ilişkin tahminlerini açıkladı.\n\nYeni sezonda mısır üretiminin 66 milyon ton, soya üretiminin ise yaklaşık 48 milyon ton olması bekleniyor. Mısır ekiminin eylül ayında, soya ekiminin ise ekim ayında başlaması öngörülüyor.\n\nAnalistler, 2026/27 pazarlama yılında mısır ekim alanlarının yıllık bazda yüzde 7,3 azalacağını ve yaklaşık 600 bin hektara gerileyeceğini tahmin etti.\n\nEl Niño’nun nem açığını önlemesi bekleniyor\n\nRosario Tahıl Borsası analistleri, El Niño hava koşullarının mısır ve soya ekimi ile gelişim döneminde yaşanabilecek nem eksikliğini önlemesinin beklendiğini belirtti.\n\nTARIM PUSULASI HABER MERKEZİ"
-    },
-    {
-      "title": "Ukrayna Tarım Bakanlığı: Tahıl ihracatı limanlar nedeniyle düştü",
-      "url": "https://www.tarimpusulasi.com/haber/ukrayna-tarim-bakanligi-tahil-ihracati-limanlar-nedeniyle-dustu-47376",
-      "source": "Tarım Pusulası",
-      "date": "2026-08-14",
-      "summary": "Ukrayna Tarım Politikası ve Gıda Bakanlığı, Karadeniz limanlarının çalışmasının durması nedeniyle 1-12 Ağustos döneminde buğday ihracatının 4,3 kat, arpa ihracatının 5,6 kat ve mısır ihracatının 2,7 kat azaldığını açıkladı.",
-      "content": "KİEV — Ukrayna Tarım Politikası ve Gıda Bakanlığı, Karadeniz limanlarının çalışmasının durması nedeniyle ülkenin tahıl ihracatında sert düşüş yaşandığını açıkladı. Bakanlığın verilerine göre 1-12 Ağustos döneminde buğday ihracatı geçen yılın aynı dönemine göre 4,3 kat azalarak 175 bin tona, arpa ihracatı 5,6 kat azalarak 37 bin tona, mısır ihracatı ise 2,7 kat azalarak 68 bin tona geriledi.\n\nUkrayna Tarım Politikası ve Gıda Bakanı Taras Visotskiy, ülkenin tarımsal üretim sektörünün bu yıl doğrudan zararlarının 1,5 milyar ila 3 milyar dolar arasında olabileceğini belirtti.\n\nKaradeniz limanlarında sevkiyat durdu\n\nBakanlığın açıklamasına göre Büyük Odessa limanları olarak belirtilen Odessa, Çornomorsk ve Pivdenniy limanları, temmuz sonundan bu yana hiçbir yabancı yük gemisini kabul etmedi ve sevk gerçekleştirmedi.\n\nUkrayna tarım ürünleri ihracatçıları, ürünlerin sevkiyatı için alternatif güzergâhlara yöneldi. Bu kapsamda Tuna Nehri üzerindeki İzmail, Reni ve Ust-Dunaysk limanlarının yanı sıra Romanya'daki Köstence Limanı kullanılıyor. Ürünler ayrıca karayolu ve demiryoluyla ülkenin batı sınırına taşınıyor.\n\nAlternatif lojistik maliyetleri artırıyor\n\nVisotskiy’nin açıklamasına göre alternatif lojistik güzergâhlarının kullanılması, ürünlerin teslimat maliyetini ton başına 45-50 dolar artırıyor.\n\nLojistik maliyetlerindeki artışın yanı sıra dizel yakıt fiyatlarındaki yükseliş ve yük taşımacılığı tarifelerinin yüzde 30 artması da ihracat maliyetleri üzerindeki baskıyı artırıyor.\n\nUkrayna Tarım Politikası ve Gıda Bakanlığı, Karadeniz limanlarının çalışmasının durmasının tahıl ihracatındaki düşüşün temel nedenlerinden biri olduğunu belirtti.\n\nTARIM PUSULASI HABER MERKEZİ"
     },
     {
       "title": "Çiftçi girdi maliyetini hesap ederken Genel Müdüre para yağıyor! Razi’den 1,8 milyon liralık kar payı",
@@ -328,17 +328,5 @@
   "defaultBorsa": "5ED10",
   "defaultCity": "CANAKKALE",
   "note": "Fiyatlar TOBB ticaret borsasından (borsa seçilebilir). Kanola manuel (Trakya 2025).",
-  "inputsNote": "Mazot: akaryakıt bayi fiyatı, günlük (şehir seçilebilir). Gübre: manuel (yaklaşık).",
-  "errors": [
-    "mazot ANKARA: fetch failed",
-    "mazot ISTANBUL: fetch failed",
-    "mazot IZMIR: fetch failed",
-    "mazot KONYA: fetch failed",
-    "mazot ADANA: fetch failed",
-    "mazot BURSA: fetch failed",
-    "mazot ANTALYA: fetch failed",
-    "mazot SAMSUN: fetch failed",
-    "mazot TEKIRDAG: fetch failed",
-    "mazot CANAKKALE: fetch failed"
-  ]
+  "inputsNote": "Mazot: akaryakıt bayi fiyatı, günlük (şehir seçilebilir). Gübre: manuel (yaklaşık)."
 }
