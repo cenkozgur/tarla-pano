@@ -1,43 +1,51 @@
 {
-  "updatedAt": "2026-08-16T11:27:03.257Z",
+  "updatedAt": "2026-08-16T11:46:46.288Z",
   "fx": [
     {
       "code": "USD",
       "name": "Dolar",
-      "buy": 47.84,
-      "sell": 47.91,
-      "change": 0.1
+      "buy": 478422,
+      "sell": 479147,
+      "change": 1
     },
     {
       "code": "EUR",
       "name": "Euro",
-      "buy": 55.38,
-      "sell": 55.51,
-      "change": 0.31
+      "buy": 553796,
+      "sell": 555063,
+      "change": 31
     },
     {
       "code": "GRA",
       "name": "Gram Altın",
-      "buy": 6736.33,
-      "sell": 6737.19,
-      "change": 0.68
+      "buy": 673633,
+      "sell": 673719,
+      "change": 68
     },
     {
       "code": "CEYREKALTIN",
       "name": "Çeyrek Altın",
-      "buy": 10756.5,
-      "sell": 11001.95,
-      "change": 0.3
+      "buy": 107565,
+      "sell": 1100195,
+      "change": 3
     },
     {
       "code": "CUMHURIYETALTINI",
       "name": "Cumhuriyet Altını",
       "buy": 44616,
       "sell": 45286,
-      "change": 0.41
+      "change": 41
     }
   ],
   "news": [
+    {
+      "title": "Mısır fiyatlarında iki risk: Üretici “sentetik PUT”a yöneldi",
+      "url": "https://www.tarimpusulasi.com/haber/misir-fiyatlarinda-iki-risk-uretici-sentetik-puta-yoneldi-47394",
+      "source": "Tarım Pusulası",
+      "date": "2026-08-16",
+      "summary": "Avrupa ve Brezilya’daki hava koşulları ile Karadeniz’deki lojistik gelişmeler, mısır fiyatlarında birbirine zıt iki senaryoyu gündeme getiriyor. Fiyatların sert düşmesi veya yükselmesi ihtimaline karşı geliştirilen “sentetik PUT” stratejisi ise üreticiye düşüşte fiyat tabanı oluştururken olası yükse",
+      "content": "ROSARIO — Mısır fiyatlarında önümüzdeki döneme ilişkin iki zıt senaryo öne çıkıyor. Avrupa’da üretimin sert şekilde düşmesi, Brezilya’da olumsuz hava koşullarının etkili olması ve Karadeniz’deki lojistik sorunların 2027’ye kadar sürmesi halinde fiyatların yükselmesi beklenirken; Avrupa’da kuraklığın üretimi fazla etkilememesi, Brezilya’nın ana tarım bölgesinde yeterli yağış alınması ve Rusya ile Ukrayna arasında yeni bir lojistik anlaşma sağlanması durumunda fiyatların sert gerilemesi ihtimali bulunuyor.\n\nBu belirsizlik ortamında mısır üreticileri açısından temel sorun, fiyatların hangi yönde hareket edeceğini önceden bilemeden satış fiyatını planlayabilmek. Bu nedenle fiyat düşüşüne karşı korunurken olası yükselişlerden de yararlanmayı hedefleyen “sentetik PUT” stratejisi gündeme geliyor.\n\nİki farklı fiyat senaryosuna karşı korunma\n\nMısır fiyatlarının yükselmesi durumunda üretici daha yüksek gelir elde edebilirken, sert düşüşler üretim döneminde yapılan maliyet hesaplarını ve beklenen kârlılığı olumsuz etkileyebiliyor.\n\nFiyat düşüşü riskine karşı kullanılan temel yöntemlerden biri PUT opsiyonu satın almak. PUT, belirli bir fiyattan satış yapma hakkı sağlayarak fiyatın düşmesine karşı bir taban oluşturmayı amaçlıyor. Bunun karşılığında opsiyonu satın alan taraf prim ödüyor.\n\n“Sentetik PUT” stratejisinde ise farklı bir yapı kullanılıyor. Üretici gelecekteki satış işlemiyle kendisine bir fiyat tabanı oluştururken, aynı zamanda CALL opsiyonu satın alıyor.\n\nCALL opsiyonu yükseliş fırsatını koruyor\n\nCALL opsiyonu, alıcısına belirli bir kullanım fiyatından vadeli işlem kontratını satın alma hakkı veriyor ancak bu hakkı kullanma zorunluluğu getirmiyor. Bu hak karşılığında prim ödeniyor.\n\nÖrneğin mısır fiyatının belirlenen seviyenin üzerine çıkması halinde CALL opsiyonu, üreticinin fiyat artışından yararlanmasına imkan sağlayabiliyor. Fiyat yükselmezse opsiyon kullanılmayabiliyor ve ödenen prim işlem maliyeti olarak kalıyor.\n\nBu nedenle sentetik PUT stratejisinin temel mantığı, fiyat düşüşüne karşı bir taban oluştururken fiyat yükselirse bu artıştan yararlanma imkanını korumak olarak özetlenebilir.\n\nNisan 2027 Rosario mısırı için 195,5 dolar tabanı\n\nCeres Tolvas Tahıl Masası Müdürü Nicolás Juan Cruz Daulerio, 14 Ağustos'ta gerçekleştirilen işlemler üzerinden bu stratejiye ilişkin bir örnek paylaştı.\n\nVerilen örnekte Nisan 2027 Rosario mısırı için ton başına 195,5 dolar seviyesinde bir fiyat tabanı oluşturulabildiği belirtildi.\n\nİşlemin diğer ayağında ise ton başına 4,5 dolar prim gerektiren bir CALL opsiyonu kullanıldı. Bu yapı, mısır fiyatının 200 dolar/tonun üzerine çıkması halinde oluşabilecek yükselişlerden yararlanma imkanını koruyor.\n\nPrim maliyeti ton başına 4,5 dolar\n\nCALL opsiyonu için ödenen 4,5 dolar/ton prim, 200 dolar/tonluk fiyat seviyesine göre yüzde 2,25 maliyete karşılık geliyor.\n\nHesaplama:\n\n4,5 ÷ 200 × 100 = %2,25\n\nİşlem örneğinde ortalama mısır verimi 75 kental/hektar, yani 7,5 ton/hektar olarak ele alınıyor.\n\nTon başına 4,5 dolarlık prim üzerinden hektar başına hesaplanan maliyet ise:\n\n7,5 ton × 4,5 dolar = 33,75 dolar/hektar\n\noluyor. Bu tutar işlem değerlendirmesinde yaklaşık 35 dolar/hektar olarak ifade ediliyor.\n\nSöz konusu maliyetin toplam üretim maliyetinin yaklaşık yüzde 3,5'ine karşılık geldiği belirtiliyor.\n\nFiyat düşerse taban, yükselirse fırsat\n\nStratejinin nasıl çalıştığını basit bir örnekle açıklamak mümkün.\n\nMısır fiyatının işlem sonrasında sert şekilde gerileyerek 195,5 dolar/tonun altına inmesi durumunda oluşturulan satış tabanı, üreticinin aşağı yönlü riski azaltmasını amaçlıyor.\n\nBuna karşılık fiyatın 200 dolar/tonun üzerine yükselmesi halinde CALL opsiyonu, üreticinin yükselişten yararlanma imkanını koruyor.\n\nDolayısıyla strateji, üreticinin yalnızca fiyat düşüşüne karşı sigorta satın alması yerine, aşağı yönlü riski sınırlarken yukarı yönlü fiyat hareketine de açık kalmasını hedefliyor.\n\n“Korunmak” ile satış taahhüdü farklı\n\nTarımsal emtia piyasalarında vadeli işlemler ve opsiyonlarla yapılan fiyat koruması ile fiziksel ürün satış taahhüdünün aynı olmadığına da dikkat çekiliyor.\n\nA3 Mercados’ta vadeli işlemler ve tarımsal opsiyonlarla oluşturulan pozisyonların, kontrat vadesinden önce ters işlemle kapatılabildiği ve fiziksel ürün teslimi zorunluluğunun bulunmadığı belirtiliyor.\n\nForward satışlarda ise fiziksel ürün teslimine ilişkin farklı bir sözleşme yapısı bulunuyor.\n\nErken fiyatlama üreticiye planlama imkanı sağlıyor\n\nTahıl üretiminde satış fiyatlarının hasattan önce oluşturulabilmesi, üreticilerin yalnızca fiyat riskini değil, lojistik ve finansal planlamayı da daha erken yapmasına imkan sağlayabiliyor.\n\nMısır fiyatlarının uluslararası üretim, hava koşulları ve lojistik gelişmelerden etkilenebildiği bir dönemde, üreticinin farklı fiyat senaryolarına karşı önceden pozisyon alması, beklenen kârlılık ile gerçekleşen sonuç arasındaki farkın yönetilmesine yardımcı olabiliyor.\n\nBu çerçevede “sentetik PUT”, mısır fiyatlarının düşmesi halinde belirli bir taban oluşturmaya çalışı"
+    },
     {
       "title": "Antalya’da üreticilere yem ezme makinesi desteği",
       "url": "https://www.tarimpusulasi.com/haber/antalyada-ureticilere-yem-ezme-makinesi-destegi-47393",
@@ -93,14 +101,6 @@
       "date": "2026-08-16",
       "summary": "Antalya Büyükşehir Belediyesi ekipleri, yaz aylarında su seviyesinin azalmasıyla Boğaçayı’nda yoğunlaşan sucul bitkileri düzenli olarak temizliyor. Çalışmalarda su akışının sağlıklı sürdürülmesi hedeflenirken, göçmen kuşların bulunduğu alanlar ile balıkların üreme bölgeleri korunuyor.",
       "content": "ANTALYA — Antalya Büyükşehir Belediyesi Deniz ve Kıyı Yapıları Şube Müdürlüğü ekipleri, yaz aylarında su seviyesinin azalmasıyla Boğaçayı’nda yoğunlaşan sucul bitkilerin temizlenmesi çalışmalarını sürdürüyor. Belediye bünyesinde hizmet veren “Caretta” ve “Mavi Yengeç” isimli sucul ot kesme makineleriyle Boğaçayı’nın farklı noktalarında düzenli temizlik yapılıyor.\n\nÇalışmalarla su yüzeyindeki bitki yoğunluğunun azaltılması ve su akışının daha sağlıklı şekilde devam etmesi hedefleniyor. Ekipler, temizlik sırasında Boğaçayı’nın doğal yapısının ve sucul ekosistemin korunmasına da dikkat ediyor.\n\nSucul bitkiler düzenli olarak temizleniyor\n\nBoğaçayı’nda yaz aylarında su seviyesinin düşmesiyle yayılımı artan sucul bitkilerin, suyun doğal akışını ve yüzeydeki hareketliliği olumsuz etkileyebildiği belirtiliyor.\n\nBu nedenle ekipler, su yüzeyinde yoğunlaşan bitkileri düzenli olarak temizlerken Boğaçayı’nın genel durumunu da kontrol ediyor. İhtiyaç duyulan noktalarda gerekli müdahaleler gerçekleştiriliyor.\n\nSucul otların denize ulaşması önleniyor\n\nDeniz ve Kıyı Yapıları Şube Müdürlüğü Sucul Ot Kesme Makinesi Operatörü Tarık Maydos, çalışmaların sabahın erken saatlerinde yürütüldüğünü ve vatandaşların rahatsız olmamasına özen gösterdiklerini belirtti.\n\nMaydos, su yüzeyinde oluşan sucul otların yanı sıra doğal yaşamı olumsuz etkileyebilecek atık maddelerin de sudan toplandığını söyledi.\n\nSucul otların denize ulaşmasını önlemek amacıyla Boğaçayı’nın denize açılan bölümüne üç bariyer yerleştirildiğini belirten Maydos, belirli bir yoğunluğa ulaşan otların toplanarak alandan çıkarıldığını ifade etti.\n\nToplanan otların kepçeler yardımıyla kamyonlara yüklendiğini belirten Maydos, yoğunluğa bağlı olarak çalışmalarda bir veya iki kamyon ot çıkarıldığını aktardı.\n\nKuşların ve balıkların yaşam alanları korunuyor\n\nÇalışmalar sırasında doğal yaşam alanlarının korunmasına önem verildiğini belirten Maydos, Boğaçayı’nın göçmen kuşların uğradığı önemli bölgelerden biri olduğunu söyledi.\n\nBu nedenle kuşların bulunduğu alanlarda temizlik çalışması yapılmadığını belirten Maydos, balıkların üreyip çoğaldığı bölgelerin de korunduğunu ifade etti.\n\nMaydos, çalışmaların doğal yaşam gözetilerek ve ekosisteme zarar vermeden sürdürüldüğünü belirtti.\n\nTARIM PUSULASI HABER MERKEZİ"
-    },
-    {
-      "title": "Kayseri Şeker Nevşehir Türkeli'nde taş ocağını hizmete açtı",
-      "url": "https://www.tarimpusulasi.com/haber/kayseri-seker-nevsehir-turkelinde-tas-ocagini-hizmete-acti-47386",
-      "source": "Tarım Pusulası",
-      "date": "2026-08-16",
-      "summary": "Kayseri Şeker, Nevşehir’in Avanos ilçesine bağlı Türkeli beldesinde kireçtaşı ocağı yatırımını hizmete açtı. Şirketin üretim süreçlerinde ihtiyaç duyduğu kireçtaşının karşılanmasına katkı sağlaması hedeflenen yatırımın, bölgedeki sanayi, altyapı ve üstyapı çalışmalarına da katkı sunması bekleniyor.",
-      "content": "NEVŞEHİR — Kayseri Şeker, üretim süreçlerinde ihtiyaç duyduğu kireçtaşının karşılanmasına katkı sağlamak amacıyla Nevşehir’in Avanos ilçesine bağlı Türkeli beldesinde kireçtaşı ocağı yatırımını hizmete açtı.\n\nTürkeli’nde gerçekleştirilen yatırımın açılış törenine Türkeli Belediye Başkanı Mustafa Demir, Kalaba Jandarma Komutanı, Kayseri Pancar Ekicileri Kooperatifi Yönetim Kurulu Başkanı Hüseyin Akay, yönetim ve denetim kurulu üyeleri, Kayseri Şeker Genel Müdürü Mesut Karabulut, birim müdürleri ve Kayseri Şeker çalışanları katıldı.\n\nYatırım Kayseri Şeker’in üretim süreçlerine katkı sağlayacak\n\nKayseri Pancar Ekicileri Kooperatifi Yönetim Kurulu Başkanı Hüseyin Akay, Türkeli’nde hizmete sunulan kireçtaşı ocağının Kayseri Şeker açısından önemli ve stratejik bir yatırım olduğunu belirtti.\n\nAkay, yatırımın Kayseri Şeker’in üretim süreçlerinde ihtiyaç duyduğu kireçtaşının güvenli ve sürdürülebilir şekilde karşılanmasına katkı sağlayacağını ifade etti.\n\nYatırımın yalnızca Kayseri Şeker’in ihtiyaçları açısından değerlendirilmemesi gerektiğini belirten Akay, tesiste üretilecek malzemelerin bölgedeki sanayi, altyapı ve üstyapı çalışmalarına da katkı sunacağını söyledi.\n\nAkay, yatırımın bölge ekonomisine ve istihdama da değer katacağını belirterek, Kayseri Şeker’in üretim ve yatırım gücüyle bölgenin gelişimine katkı sağlamaya devam edeceğini ifade etti.\n\n“Bölge gençleri için önemli bir istihdam kapısı”\n\nTürkeli Belediye Başkanı Mustafa Demir de konuşmasında Kayseri Şeker’in bölgeye kazandırdığı yatırımın önemine dikkat çekti.\n\nDemir, Kayseri Şeker’in yatırımlarıyla bölgenin geleceğine yönelik öngörülü bir yaklaşım ortaya koyduğunu belirterek, Türkeli’nde hayata geçirilen yatırımın bölge gençleri için önemli bir istihdam kapısı oluşturduğunu ifade etti.\n\nKayseri Şeker’in bölgeye yönelik yeni yatırımlarını memnuniyetle karşıladıklarını dile getiren Demir, yatırımın Türkeli’nin ekonomik potansiyeline katkı sağlayacağını ve beldenin geleceğine değer katacağını söyledi.\n\nAçılış kurdele kesimiyle gerçekleştirildi\n\nAçılış töreni, kurban kesimi ve duaların ardından gerçekleştirilen kurdele kesimiyle devam etti.\n\nTörenin ardından katılımcılara yatırımın faaliyetleri yerinde tanıtıldı. Taş ocağında gerçekleştirilen kontrollü patlatma da davetlilere gösterildi. Güvenlik önlemleri eşliğinde gerçekleştirilen patlatma, katılımcılar tarafından takip edildi.\n\nKayseri Şeker tarafından yapılan değerlendirmede, Türkeli Taş Ocağı yatırımının şirketin üretimden sanayiye uzanan yatırım anlayışının yeni örneklerinden biri olduğu belirtildi.\n\nTARIM PUSULASI HABER MERKEZİ"
     },
     {
       "title": "Buzağı yetiştiricilerine önemli uyarı: Gri-sarı ishal bu hastalığın belirtisi olabilir!",
@@ -328,5 +328,17 @@
   "defaultBorsa": "5ED10",
   "defaultCity": "CANAKKALE",
   "note": "Fiyatlar TOBB ticaret borsasından (borsa seçilebilir). Kanola manuel (Trakya 2025).",
-  "inputsNote": "Mazot: akaryakıt bayi fiyatı, günlük (şehir seçilebilir). Gübre: manuel (yaklaşık)."
+  "inputsNote": "Mazot: akaryakıt bayi fiyatı, günlük (şehir seçilebilir). Gübre: manuel (yaklaşık).",
+  "errors": [
+    "mazot ANKARA: fetch failed",
+    "mazot ISTANBUL: fetch failed",
+    "mazot IZMIR: fetch failed",
+    "mazot KONYA: fetch failed",
+    "mazot ADANA: fetch failed",
+    "mazot BURSA: fetch failed",
+    "mazot ANTALYA: fetch failed",
+    "mazot SAMSUN: fetch failed",
+    "mazot TEKIRDAG: fetch failed",
+    "mazot CANAKKALE: fetch failed"
+  ]
 }
