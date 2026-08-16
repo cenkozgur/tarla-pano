@@ -1,43 +1,51 @@
 {
-  "updatedAt": "2026-08-16T20:25:59.893Z",
+  "updatedAt": "2026-08-16T20:48:53.504Z",
   "fx": [
     {
       "code": "USD",
       "name": "Dolar",
-      "buy": 478422,
-      "sell": 479147,
-      "change": 1
+      "buy": 47.84,
+      "sell": 47.91,
+      "change": 0.1
     },
     {
       "code": "EUR",
       "name": "Euro",
-      "buy": 553796,
-      "sell": 555063,
-      "change": 31
+      "buy": 55.38,
+      "sell": 55.51,
+      "change": 0.31
     },
     {
       "code": "GRA",
       "name": "Gram Altın",
-      "buy": 673633,
-      "sell": 673719,
-      "change": 68
+      "buy": 6736.33,
+      "sell": 6737.19,
+      "change": 0.68
     },
     {
       "code": "CEYREKALTIN",
       "name": "Çeyrek Altın",
-      "buy": 107565,
-      "sell": 1100195,
-      "change": 3
+      "buy": 10756.5,
+      "sell": 11001.95,
+      "change": 0.3
     },
     {
       "code": "CUMHURIYETALTINI",
       "name": "Cumhuriyet Altını",
       "buy": 44616,
       "sell": 45286,
-      "change": 41
+      "change": 0.41
     }
   ],
   "news": [
+    {
+      "title": "İngiltere’de mavi dil vakaları hızla artıyor",
+      "url": "https://www.tarimpusulasi.com/haber/ingilterede-mavi-dil-vakalari-hizla-artiyor-47398",
+      "source": "Tarım Pusulası",
+      "date": "2026-08-16",
+      "summary": "İngiltere’de 2026-27 sezonunda BTV-3 kaynaklı mavi dil vakalarının sayısı 424’e yükseldi. Vakaların 408’i İngiltere’de görülürken, İngiltere Baş Veteriner Yetkilisi Christine Middlemiss, sıcak ve nemli havanın hastalığı taşıyan tatarcıkların yayılımını kolaylaştırdığı dönemde yetiştiricilere aşılama",
+      "content": "LONDRA — İngiltere’de mavi dil hastalığı (BTV-3) vakaları 2026-27 sezonunda 424’e yükseldi. İngiltere Baş Veteriner Yetkilisi Christine Middlemiss, sıcak ve nemli hava koşullarının hastalığı taşıyan tatarcıkların yayılımı için uygun ortam oluşturması üzerine hayvan yetiştiricilerine aşılama konusunda veteriner hekimleriyle görüşmeleri çağrısında bulundu.\n\nİngiltere Çevre, Gıda ve Köyişleri Bakanlığı (Defra) verilerine göre 15 Ağustos'ta güncellenen son tabloda 2026-27 sezonunda doğrulanan 424 BTV-3 vakasının 408'i İngiltere'de, 12'si Galler'de ve 4'ü İskoçya'da bulunuyor. Kuzey İrlanda'da ise bu sezon BTV-3 vakası bildirilmedi. Aynı dönemde Birleşik Krallık'ta BTV-8 vakasına rastlanmadı.\n\n424 vaka, 919 hayvanı kapsıyor\n\nResmi verilerdeki 424 rakamı doğrudan hayvan sayısını değil, mavi dilin doğrulandığı vaka noktalarını/işletmeleri ifade ediyor.\n\nBu vaka noktalarında toplam 919 hayvan kayıtlara geçti. Bunların 769'u koyun, 149'u sığır ve 1'i lama oldu. Koyunların toplam hayvan sayısındaki payı yaklaşık %84, sığırların payı ise yaklaşık %16 olarak hesaplanıyor.\n\nVakaların önemli bölümü İngiltere'nin güneybatısında yoğunlaşıyor. Devon'da 242, Cornwall'da 91 ve Somerset'te 51 vaka bulunuyor. Bu üç bölgedeki toplam 384 vaka, Birleşik Krallık'taki 424 vakanın yaklaşık %91'ini oluşturuyor.\n\nSıcak ve nemli hava tatarcıkların yayılımını kolaylaştırıyor\n\nİngiltere'deki yetkililer, son dönemdeki sıcak hava koşullarının mavi dil virüsünü taşıyan tatarcıkların faaliyetleri için elverişli şartlar oluşturduğunu belirtiyor.\n\nGOV.UK verilerine göre mavi dili taşıyan tatarcıklar 31 Mart 2026'da yeniden aktif hale geldi. Ülkenin bazı bölgelerinde sıcaklıklar, virüsün tatarcıkların vücudunda gelişmesine ve yayılmasına yetecek seviyelerde seyrediyor. Bu nedenle hastalığın yayılımı devam ediyor.\n\nMavi dil; koyun, sığır, keçi, geyik ve lama ile alpaka gibi devegillerde görülebiliyor. Hastalık özellikle koyunlarda daha ağır seyredebilir ve ölüm riskini artırabilir.\n\nHayvanlarda ateş, topallık, dudak, dil, baş veya boyunda şişme, göz ve burun akıntısı, ağız yaraları ve solunum güçlüğü gibi belirtiler görülebiliyor. Süt veriminde düşüş, halsizlik ve iştahsızlığın yanı sıra düşük ve ölü doğum gibi üreme sorunları da ortaya çıkabiliyor.\n\nİngiltere'de üç BTV-3 aşısı kullanılıyor\n\nDefra, duyarlı hayvanları mavi dilden korumada aşılamanın en etkili araç olduğunu belirterek yetiştiricilerin kendi sürüleri veya sürü grupları için aşının uygun olup olmadığını veteriner hekimleriyle değerlendirmesini istiyor.\n\nİngiltere hükümetinin güncel veterinerlik rehberine göre BTV-3 için üç aşı Birleşik Krallık'ta ruhsatlı durumda:\n\nBluevac-3\n\nBULTAVO 3\n\nSyvazul BTV 3\n\nAşıların kullanımı veteriner hekim reçetesi ve ilgili kayıt kurallarına tabi. İngiltere, Galler ve İskoçya'da aşılanan hayvanların kayıtlarının tutulması ve aşılamanın bildirilmesi gerekiyor.\n\nAşının etkisinin hemen ortaya çıkmadığı da özellikle vurgulanıyor. Kullanılan ürüne göre bağışıklığın oluşması yaklaşık 3-4 hafta sürebiliyor. Bu nedenle yetiştiricilerin hastalığın işletmelerine ulaşmasını beklemeden veterinerleriyle görüşmeleri isteniyor.\n\nİngiltere'de hayvan hareketlerine yönelik kısıtlamalar sürüyor\n\nMavi dil nedeniyle İngiltere'nin tamamı kısıtlı bölge kapsamında bulunuyor. Hayvanların İngiltere içinde belirli koşullarla hareket ettirilmesine izin verilirken, İngiltere'den Galler veya İskoçya'ya yönelik hareketlerde farklı izin ve test şartları uygulanıyor.\n\nGOV.UK'a göre İngiltere, Galler, Kuzey İrlanda ve Man Adası'nda mavi dil virüsüyle bağlantılı kısıtlı bölgeler bulunuyor. Duyarlı hayvanların İskoçya'ya hareketinde belirli koşullar ve testler uygulanıyor; mevcut hareket kontrollerinin en az 9 Eylül 2026'ya kadar yürürlükte kalması planlanıyor.\n\nHastalık insanlara ve gıdaya bulaşmıyor\n\nYetkililer, mavi dil hastalığının insanları etkilemediğini ve gıda güvenliği açısından risk oluşturmadığını belirtiyor.\n\nBununla birlikte hastalık İngiltere'de bildirimi zorunlu hayvan hastalığı olarak kabul ediliyor. Yetiştiricilerden şüpheli belirtileri düzenli olarak takip etmeleri ve hastalık şüphesini derhal ilgili hayvan sağlığı makamlarına bildirmeleri isteniyor.\n\nİngiltere Baş Veteriner Yetkilisi Christine Middlemiss, hastalığın hayvan refahı ve işletmeler açısından ciddi sonuçlar doğurabileceğini belirterek, salgın koşullarında dahi duyarlı hayvanların korunması için aşının mevcut en önemli araçlardan biri olduğunu vurguladı.\n\nİngiltere Tarım Bakanı Stephen Morgan da mavi dil salgınının, kuraklıkla mücadele eden üreticilerin üzerindeki baskıyı artırdığını belirterek hükümetin veterinerler, sektör temsilcileri ve Birleşik Krallık'ın diğer yönetimleriyle birlikte gelişmeleri takip etmeyi sürdüreceğini bildirdi.\n\nTARIM PUSULASI HABER MERKEZİ"
+    },
     {
       "title": "İngiltere Hükümeti, çiftçilere 65 milyon sterlin destek verecek",
       "url": "https://www.tarimpusulasi.com/haber/ingiltere-hukumeti-ciftcilere-65-milyon-sterlin-destek-verecek-47397",
@@ -93,14 +101,6 @@
       "date": "2026-08-16",
       "summary": "Türk Ziraat Yüksek Mühendisleri Birliği (TZYMB), 18 Ekim 2026’da yapılacak 2026-BKUBTS için ziraat yüksek mühendislerine yönelik 4 günlük eğitim programı düzenleyecek. Ankara’daki Birlik binasında ve çevrim içi gerçekleştirilecek eğitim 26-27 Eylül ile 3-4 Ekim tarihlerinde yapılacak.",
       "content": "HARUN GÖKSEL / ANKARA — Türk Ziraat Yüksek Mühendisleri Birliği (TZYMB), Tarım ve Orman Bakanlığı ile ÖSYM iş birliğinde gerçekleştirilecek 2026 yılı Bitki Koruma Ürünleri Bayi ve Toptancılık Sınavı (2026-BKUBTS) öncesinde ziraat yüksek mühendislerine yönelik eğitim programı düzenleyecek.\n\n2026-BKUBTS, 18 Ekim 2026 tarihinde gerçekleştirilecek. Tarım ve Orman Bakanlığı da sınavın 18 Ekim 2026 Pazar günü saat 10.15’te yapılacağını duyurdu.\n\nEğitim 4 gün sürecek\n\nTZYMB tarafından düzenlenecek eğitim programı 26-27 Eylül ile 3-4 Ekim 2026 tarihlerinde, hafta sonlarında gerçekleştirilecek.\n\nEğitim, hem TZYMB binasında yüz yüze hem de Zoom üzerinden çevrim içi olarak yapılacak. Ankara’daki yüz yüze eğitimlerin adresi, TZYMB Binası Prof. Dr. Orhan Düzgüneş Toplantı Salonu, Kızılay-Ankara olarak duyuruldu.\n\nEğitim ücreti 3 bin TL\n\nEğitim ücretinin 3.000 TL olarak belirlendiği bildirildi. TZYMB üyelerine özel olarak %20 indirim uygulanacak.\n\nEğitime katılanlara ayrıca sınava hazırlık amacıyla hazırlanan 400 sayfalık kaynak ücretsiz verilecek. Görsel duyuruda eğitim sonunda birlik yayını olan kitap ve soru bankasının dağıtılacağı da belirtiliyor.\n\nEğitimi üç ziraat yüksek mühendisi verecek\n\nProgramda eğitimleri konu uzmanı ziraat yüksek mühendisleri Hasan Yılmaz Dursun, Dr. Abdullah Yılmaz ve Doç. Dr. Birol Akbaş verecek.\n\nEğitim programının konu anlatımı ve soru çözümlerinden oluşacağı belirtildi.\n\n2026-BKUBTS 18 Ekim’de yapılacak\n\nTarım ve Orman Bakanlığının resmi duyurusuna göre 2026-BKUBTS, 18 Ekim 2026 Pazar günü saat 10.15’te Adana, Ankara, Antalya, Diyarbakır, Erzurum, İstanbul, İzmir ve Samsun’daki belirlenen sınav merkezlerinde gerçekleştirilecek. Adaylar sınav binalarına saat 10.00’dan sonra alınmayacak.\n\nÖSYM takviminde de 2026-BKUBTS için sınav tarihi 18 Ekim 2026, başvuru tarihleri 2-10 Eylül 2026, geç başvuru günü ise 17 Eylül 2026 olarak yer alıyor.\n\nTZYMB’nin eğitim duyurusunda, programa başvurmak isteyenlerin Birliğin paylaştığı başvuru formunu kullanabileceği ve telefon üzerinden bilgi alabileceği belirtildi.\n\nBaşvuru ve iletişim\n\nBaşvuru: TZYMB’nin duyurusunda yer alan çevrim içi başvuru formu üzerinden yapılabilecek.\n\nEğitim adresi:\n\nTürk Ziraat Yüksek Mühendisleri Birliği Binası\n\nProf. Dr. Orhan Düzgüneş Toplantı Salonu\n\nKızılay / Ankara\n\nWeb: www.tzymb.org.tr\n\nE-posta: info@tzymb.org.tr\n\nTelefon: 0312 433 59 81\n\nCep telefonu: 0532 250 13 31\n\nTARIM PUSULASI HABER MERKEZİ"
-    },
-    {
-      "title": "Gürer: Rekolte artıyor, gıda fiyatı düşmüyor",
-      "url": "https://www.tarimpusulasi.com/haber/gurer-rekolte-artiyor-gida-fiyati-dusmuyor-47390",
-      "source": "Tarım Pusulası",
-      "date": "2026-08-16",
-      "summary": "CHP Niğde Milletvekili ve TBMM Tarım, Orman, Köy İşleri Komisyonu Üyesi Ömer Fethi Gürer, tarımda girdi maliyetlerinin yükselmeye devam ettiğini belirterek, rekolte artmasına rağmen raf fiyatlarının düşmemesini yapısal sorunlarla ilişkilendirdi. Gürer, üreticiyi koruyan, girdi maliyetlerini azaltan ",
-      "content": "ANKARA — CHP Niğde Milletvekili ve TBMM Tarım, Orman, Köy İşleri Komisyonu Üyesi Ömer Fethi Gürer, tarımda yapısal sorunların devam ettiğini belirterek, girdi maliyetlerindeki artışa karşın üreticinin ürününü düşük alım fiyatlarıyla satmak zorunda kaldığını söyledi.\n\nGürer, mazotun litre fiyatının 80 lirayı, çiftçinin düzenli kullandığı gübrelerin ton fiyatının ise 30 bin lirayı gördüğünü belirtti. Üretim maliyetlerinin yükselmesine rağmen buğday, fındık, çay ve diğer ürünlerde açıklanan alım fiyatlarının üreticinin refahını sağlayacak düzeyde olmadığını savunan Gürer, bu durumun çiftçinin üretimden elde ettiği geliri baskıladığını ifade etti.\n\n“Rekolte yükseliyor, raftaki ürünün fiyatı düşmüyor”\n\nGürer, Tarım ve Orman Bakanı İbrahim Yumaklı’nın bu yıl bitkisel üretimde rekor artış beklendiğine yönelik açıklamasına ve Merkez Bankası Başkanı’nın gıda enflasyonunun enflasyona etkisine ilişkin değerlendirmelerine dikkat çekti.\n\nRekolte yükselmesine rağmen raftaki ürün fiyatlarının düşmediğini belirten Gürer, bunun temelinde tarımdaki yapısal sorunların bulunduğunu öne sürdü.\n\nGürer, tarımda üreticinin gelecek yıl hangi ürünü ne fiyata satacağını öngörememesinin ürün deseninin sürekli değişmesine neden olduğunu belirterek, üretim fazlasının tarlada kalabildiğini, üretimin yetersiz olduğu dönemlerde ise raf fiyatlarının yükseldiğini söyledi.\n\nÜrün planlaması ve girdi maliyetlerine dikkat çekti\n\nTarımda öngörülebilir bir politika ve planlama ihtiyacı bulunduğunu ifade eden Gürer, ürün deseninin ihtiyaca göre düzenlenmesi gerektiğini belirtti.\n\nGürer, üreticinin girdi maliyetlerinin düşürülmesi, çiftçiye yeterli destek sağlanması ve alım fiyatlarının girdi maliyetleri dikkate alınarak üretici refahını sağlayacak seviyede belirlenmesi gerektiğini savundu.\n\nAyrıca üreticiden tüketiciye ulaşan süreçteki aracılık sisteminin yeniden düzenlenmesi gerektiğini belirten Gürer, yerli üreticinin desteklenmesi ve ithalata dayalı yaklaşımın azaltılması çağrısında bulundu.\n\n“Kooperatifçilik geliştirilmeli”\n\nGürer, raf fiyatlarının düşürülmesi için tarımdaki yapısal sorunların giderilmesi gerektiğini belirterek, kooperatifçiliğin geliştirilmesi gerektiğini söyledi.\n\nÜrünlerin işlenmiş, dondurulmuş ve katma değerli ürünlere dönüştürülerek birden fazla yıl değer bulabileceği bir sisteme geçilmesini öneren Gürer, böylece üreticinin ürününü yalnızca hasat döneminde satmak zorunda kalmayacağı bir yapı oluşturulması gerektiğini ifade etti.\n\nGürer ayrıca krediyle üretim döngüsünü sürdüren çiftçilere yeterli destek verilmesi ve kamunun üreticinin yanında olması gerektiğini belirtti.\n\n“Gıda enflasyonu devam ediyorsa sorumluluk iktidardadır”\n\nÜrün miktarının artmasına rağmen tüketicinin uygun fiyatla gıdaya ulaşamamasının önemli bir sorun olduğunu dile getiren Gürer, özellikle emekliler ve sabit gelirlilerin meyve ve sebze fiyatları karşısında alım gücü sorunu yaşadığını savundu.\n\nGürer, üreticiden çıkan ürünün çok sayıda el değiştirmesinin raf fiyatını artırdığını belirterek, üretim miktarı yüksek olsa dahi tüketicinin erişebileceği fiyatların oluşması gerektiğini söyledi.\n\nGürer, tarımdaki yapısal sorunlar giderilmeden gıda enflasyonunun etkisinin azaltılmasının mümkün olmadığını ifade ederek, mevcut tablonun iktidarın tarım politikalarındaki sorumluluğu ve uygulamalarına ilişkin olduğunu savundu.\n\nTARIM PUSULASI HABER MERKEZİ"
     },
     {
       "title": "Buzağı yetiştiricilerine önemli uyarı: Gri-sarı ishal bu hastalığın belirtisi olabilir!",
@@ -330,7 +330,6 @@
   "note": "Fiyatlar TOBB ticaret borsasından (borsa seçilebilir). Kanola manuel (Trakya 2025).",
   "inputsNote": "Mazot: akaryakıt bayi fiyatı, günlük (şehir seçilebilir). Gübre: manuel (yaklaşık).",
   "errors": [
-    "fx: fetch failed",
     "mazot ANKARA: fetch failed",
     "mazot ISTANBUL: fetch failed",
     "mazot IZMIR: fetch failed",
