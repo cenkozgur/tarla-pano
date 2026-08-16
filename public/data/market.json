@@ -1,43 +1,51 @@
 {
-  "updatedAt": "2026-08-16T11:46:46.288Z",
+  "updatedAt": "2026-08-16T11:58:56.835Z",
   "fx": [
     {
       "code": "USD",
       "name": "Dolar",
-      "buy": 478422,
-      "sell": 479147,
-      "change": 1
+      "buy": 47.84,
+      "sell": 47.91,
+      "change": 0.1
     },
     {
       "code": "EUR",
       "name": "Euro",
-      "buy": 553796,
-      "sell": 555063,
-      "change": 31
+      "buy": 55.38,
+      "sell": 55.51,
+      "change": 0.31
     },
     {
       "code": "GRA",
       "name": "Gram Altın",
-      "buy": 673633,
-      "sell": 673719,
-      "change": 68
+      "buy": 6736.33,
+      "sell": 6737.19,
+      "change": 0.68
     },
     {
       "code": "CEYREKALTIN",
       "name": "Çeyrek Altın",
-      "buy": 107565,
-      "sell": 1100195,
-      "change": 3
+      "buy": 10756.5,
+      "sell": 11001.95,
+      "change": 0.3
     },
     {
       "code": "CUMHURIYETALTINI",
       "name": "Cumhuriyet Altını",
       "buy": 44616,
       "sell": 45286,
-      "change": 41
+      "change": 0.41
     }
   ],
   "news": [
+    {
+      "title": "Rusya’nın buğday ihracatı ağustosta 10 yılın dibinde",
+      "url": "https://www.tarimpusulasi.com/haber/rusyanin-bugday-ihracati-agustosta-10-yilin-dibinde-47395",
+      "source": "Tarım Pusulası",
+      "date": "2026-08-16",
+      "summary": "Rusya’nın buğday ihracatının ağustosta 3–3,4 milyon ton seviyesinde kalması bekleniyor. SovEcon tahmini, geçen yılın aynı ayındaki 4,5 milyon tonluk ihracatın ve farklı yıllardaki 5 milyon tonluk ortalamanın oldukça altında bulunuyor.",
+      "content": "MOSKOVA — Rusya’nın buğday ihracatının ağustos ayında 3–3,4 milyon ton seviyesinde gerçekleşebileceği tahmin ediliyor. Tarım piyasaları danışmanlık şirketi SovEcon’un değerlendirmesine göre bu miktar, geçen yılın ağustos ayındaki 4,5 milyon tonluk ihracatın 1,1–1,5 milyon ton altında kalacak.\n\nSovEcon’un tahmini, ağustos ayları için farklı yıllarda hesaplanan 5 milyon tonluk ortalama ihracatın da 1,6–2 milyon ton altında bulunuyor. Bu tablo, Rusya’nın ağustos ayı buğday ihracatının son 10 yılın en düşük seviyesine gerileyebileceğine işaret ediyor.\n\nTemmuz ihracatı da ortalamanın altında kaldı\n\nRusya’nın temmuz ayındaki buğday ihracatı ise 1,6 milyon ton olarak gerçekleşti. SovEcon verilerine göre bu miktar, temmuz ayları için verilen 3,1 milyon tonluk ortalamanın 1,5 milyon ton altında kaldı.\n\nBöylece temmuz ihracatı ortalamanın yaklaşık yarısına gerilerken, ağustos için de geçen yılın ve uzun dönem ortalamasının altında bir ihracat beklentisi oluştu.\n\nHasat iç piyasadaki fiyatları baskılıyor\n\nRusya’da buğday hasadının devam etmesinin iç piyasadaki arz baskısını artırdığı belirtiliyor. SovEcon’a göre ruble cinsinden buğday fiyatları son bir haftada ton başına 350–450 ruble daha geriledi.\n\nPiyasada talebin sınırlı olduğu ifade edilirken, Rus rublesindeki değer kaybı ve yükleme için bekleyen gemi sayısındaki belirgin artış da piyasadaki gelişmeler arasında gösteriliyor.\n\nBu gelişmeler, hasat döneminde artan ürün arzının ihracat temposundaki zayıflamayla birlikte Rusya iç piyasasında fiyatlar üzerinde baskı oluşturduğunu gösteriyor.\n\nİhracatta 5–10 milyon tonluk kayıp riski\n\nSovEcon Direktörü Andrey Sizov, Azak-Karadeniz havzasındaki durumun değişmemesi halinde Rusya’nın yıl sonuna kadar 5–10 milyon ton arasında buğday ihracatı kaybedebileceği tahmininde bulundu.\n\nBu tahmin gerçekleşirse Rusya’nın küresel buğday ticaretindeki ihracat hacmi açısından önemli bir kayıpla karşılaşabileceği öngörülüyor. Ancak söz konusu rakam, mevcut koşulların devam etmesine bağlı bir tahmin niteliğinde bulunuyor.\n\nTürkiye açısından neden önemli?\n\nRusya, küresel buğday ticaretinde önemli ihracatçılar arasında yer aldığı için Rusya’nın ihracat temposundaki değişimler uluslararası hububat piyasalarının yakından takip ettiği gelişmeler arasında bulunuyor.\n\nBu nedenle ağustos ayında beklenen 3–3,4 milyon tonluk ihracat, geçen yılki 4,5 milyon tonluk seviyeye ve farklı yıllardaki 5 milyon tonluk ortalamaya kıyasla Rusya’nın ihracat akışında belirgin bir yavaşlamaya işaret ediyor.\n\nBununla birlikte, haberin dayandığı SovEcon değerlendirmesinde Rusya’nın ihracatındaki gerilemenin temel nedeni olarak tek bir faktör gösterilmiyor; Azak-Karadeniz havzasındaki koşulların değişmemesi, yıl sonuna ilişkin ihracat kaybı tahmininin temel koşulu olarak belirtiliyor.\n\nTARIM PUSULASI HABER MERKEZİ"
+    },
     {
       "title": "Mısır fiyatlarında iki risk: Üretici “sentetik PUT”a yöneldi",
       "url": "https://www.tarimpusulasi.com/haber/misir-fiyatlarinda-iki-risk-uretici-sentetik-puta-yoneldi-47394",
@@ -93,14 +101,6 @@
       "date": "2026-08-16",
       "summary": "Nilüfer Belediyesi, Karacaoba Mahallesi’nde 49 bin 500 metrekarelik arazi üzerine kurulan Umut Ağacı Sahipsiz Hayvanlar Doğal Yaşam ve Sahiplendirme Merkezi’ni hizmete açtı. 3 bin sahipsiz hayvan kapasitesine sahip merkezde bakım, tedavi, kısırlaştırma, aşılama ve rehabilitasyon hizmetlerinin akadem",
       "content": "BURSA — Nilüfer Belediyesi, kentteki sahipsiz hayvanların bakım, tedavi ve rehabilitasyon süreçlerini daha nitelikli hale getirmek amacıyla Umut Ağacı Sahipsiz Hayvanlar Doğal Yaşam ve Sahiplendirme Merkezi’ni hizmete açtı.\n\nKaracaoba Mahallesi’nde 49 bin 500 metrekarelik arazi üzerine kurulan merkez, 3 bin sahipsiz hayvana ev sahipliği yapabilecek kapasitesiyle hizmet verecek.\n\nHayvan refahı gözetilerek tasarlandı\n\nMerkezde, sahipsiz hayvanların dar alanlara sıkışmadan hareket edebilecekleri ve özgürce gezebilecekleri alanlar oluşturuldu.\n\nTesisin fiziki yapısında hayvan refahının gözetildiği belirtilirken zemin yapısı, gölgelikler, özel gözlem noktaları ile kaçış ve saklanma alanları planlandı. Hayvanların kullanımına, mevzuat ve yönetmeliklerin belirlediği standartların üzerinde bir alan ayrıldığı aktarıldı.\n\nVeterinerlik hizmetlerinde akademik iş birliği\n\nMerkezin işletilmesi ve veterinerlik hizmetlerinin yürütülmesi amacıyla Bursa Uludağ Üniversitesi Veteriner Fakültesi ile protokol imzalandı.\n\nİş birliği kapsamında teşhis, tedavi, kısırlaştırma, aşılama ve rehabilitasyon süreçlerine bilimsel altyapı kazandırılması hedefleniyor.\n\nMerkezde görev yapacak uzman veteriner hekimler ve eğitimli personelin, hayvanların sağlık ve bakım süreçlerini akademik destekle yürüteceği belirtildi.\n\nSahiplendirmeye “Umut Kurdeleleri” eşlik edecek\n\nMerkeze verilen “Umut Ağacı” ismi ise sahiplendirmeyi merkeze alan bir uygulamayla yaşatılacak.\n\nMerkezden bir sahipsiz hayvanı sahiplenen vatandaşlar, alan içerisinde bulunan ağaca bir hatıra kurdelesi bağlayacak. Kurdelelerin, sokaktan kurtarılarak sıcak bir yuvaya kavuşan hayvanlar için simgesel bir umut ve hatıra olarak yaşatılması planlanıyor.\n\nBaşkan Şadi Özdemir'den sahiplendirme çağrısı\n\nNilüfer Belediye Başkanı Şadi Özdemir, merkezin yalnızca geçici bakım hizmeti sunmasını değil, sahipsiz hayvanların kalıcı yuvalara kavuşmasını amaçladığını belirtti.\n\nÖzdemir, Nilüfer’de yaşamı sahipsiz hayvanlar açısından da güvenli hale getirmenin temel sorumluluklarından biri olduğunu ifade ederek, vatandaşları merkezi ziyaret etmeye ve bir can dostunu sahiplenmeye davet etti.\n\nTARIM PUSULASI HABER MERKEZİ"
-    },
-    {
-      "title": "Antalya Büyükşehir Belediyesi Boğaçayı'nda su akışı için temizlik yapıyor",
-      "url": "https://www.tarimpusulasi.com/haber/antalya-buyuksehir-belediyesi-bogacayinda-su-akisi-icin-temizlik-yapiyor-47387",
-      "source": "Tarım Pusulası",
-      "date": "2026-08-16",
-      "summary": "Antalya Büyükşehir Belediyesi ekipleri, yaz aylarında su seviyesinin azalmasıyla Boğaçayı’nda yoğunlaşan sucul bitkileri düzenli olarak temizliyor. Çalışmalarda su akışının sağlıklı sürdürülmesi hedeflenirken, göçmen kuşların bulunduğu alanlar ile balıkların üreme bölgeleri korunuyor.",
-      "content": "ANTALYA — Antalya Büyükşehir Belediyesi Deniz ve Kıyı Yapıları Şube Müdürlüğü ekipleri, yaz aylarında su seviyesinin azalmasıyla Boğaçayı’nda yoğunlaşan sucul bitkilerin temizlenmesi çalışmalarını sürdürüyor. Belediye bünyesinde hizmet veren “Caretta” ve “Mavi Yengeç” isimli sucul ot kesme makineleriyle Boğaçayı’nın farklı noktalarında düzenli temizlik yapılıyor.\n\nÇalışmalarla su yüzeyindeki bitki yoğunluğunun azaltılması ve su akışının daha sağlıklı şekilde devam etmesi hedefleniyor. Ekipler, temizlik sırasında Boğaçayı’nın doğal yapısının ve sucul ekosistemin korunmasına da dikkat ediyor.\n\nSucul bitkiler düzenli olarak temizleniyor\n\nBoğaçayı’nda yaz aylarında su seviyesinin düşmesiyle yayılımı artan sucul bitkilerin, suyun doğal akışını ve yüzeydeki hareketliliği olumsuz etkileyebildiği belirtiliyor.\n\nBu nedenle ekipler, su yüzeyinde yoğunlaşan bitkileri düzenli olarak temizlerken Boğaçayı’nın genel durumunu da kontrol ediyor. İhtiyaç duyulan noktalarda gerekli müdahaleler gerçekleştiriliyor.\n\nSucul otların denize ulaşması önleniyor\n\nDeniz ve Kıyı Yapıları Şube Müdürlüğü Sucul Ot Kesme Makinesi Operatörü Tarık Maydos, çalışmaların sabahın erken saatlerinde yürütüldüğünü ve vatandaşların rahatsız olmamasına özen gösterdiklerini belirtti.\n\nMaydos, su yüzeyinde oluşan sucul otların yanı sıra doğal yaşamı olumsuz etkileyebilecek atık maddelerin de sudan toplandığını söyledi.\n\nSucul otların denize ulaşmasını önlemek amacıyla Boğaçayı’nın denize açılan bölümüne üç bariyer yerleştirildiğini belirten Maydos, belirli bir yoğunluğa ulaşan otların toplanarak alandan çıkarıldığını ifade etti.\n\nToplanan otların kepçeler yardımıyla kamyonlara yüklendiğini belirten Maydos, yoğunluğa bağlı olarak çalışmalarda bir veya iki kamyon ot çıkarıldığını aktardı.\n\nKuşların ve balıkların yaşam alanları korunuyor\n\nÇalışmalar sırasında doğal yaşam alanlarının korunmasına önem verildiğini belirten Maydos, Boğaçayı’nın göçmen kuşların uğradığı önemli bölgelerden biri olduğunu söyledi.\n\nBu nedenle kuşların bulunduğu alanlarda temizlik çalışması yapılmadığını belirten Maydos, balıkların üreyip çoğaldığı bölgelerin de korunduğunu ifade etti.\n\nMaydos, çalışmaların doğal yaşam gözetilerek ve ekosisteme zarar vermeden sürdürüldüğünü belirtti.\n\nTARIM PUSULASI HABER MERKEZİ"
     },
     {
       "title": "Buzağı yetiştiricilerine önemli uyarı: Gri-sarı ishal bu hastalığın belirtisi olabilir!",
@@ -328,17 +328,5 @@
   "defaultBorsa": "5ED10",
   "defaultCity": "CANAKKALE",
   "note": "Fiyatlar TOBB ticaret borsasından (borsa seçilebilir). Kanola manuel (Trakya 2025).",
-  "inputsNote": "Mazot: akaryakıt bayi fiyatı, günlük (şehir seçilebilir). Gübre: manuel (yaklaşık).",
-  "errors": [
-    "mazot ANKARA: fetch failed",
-    "mazot ISTANBUL: fetch failed",
-    "mazot IZMIR: fetch failed",
-    "mazot KONYA: fetch failed",
-    "mazot ADANA: fetch failed",
-    "mazot BURSA: fetch failed",
-    "mazot ANTALYA: fetch failed",
-    "mazot SAMSUN: fetch failed",
-    "mazot TEKIRDAG: fetch failed",
-    "mazot CANAKKALE: fetch failed"
-  ]
+  "inputsNote": "Mazot: akaryakıt bayi fiyatı, günlük (şehir seçilebilir). Gübre: manuel (yaklaşık)."
 }
