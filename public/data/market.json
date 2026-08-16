@@ -1,43 +1,59 @@
 {
-  "updatedAt": "2026-08-16T06:44:23.026Z",
+  "updatedAt": "2026-08-16T07:18:36.003Z",
   "fx": [
     {
       "code": "USD",
       "name": "Dolar",
-      "buy": 478422,
-      "sell": 479147,
-      "change": 1
+      "buy": 47.84,
+      "sell": 47.91,
+      "change": 0.1
     },
     {
       "code": "EUR",
       "name": "Euro",
-      "buy": 553796,
-      "sell": 555063,
-      "change": 31
+      "buy": 55.38,
+      "sell": 55.51,
+      "change": 0.31
     },
     {
       "code": "GRA",
       "name": "Gram Altın",
-      "buy": 673633,
-      "sell": 673719,
-      "change": 68
+      "buy": 6736.33,
+      "sell": 6737.19,
+      "change": 0.68
     },
     {
       "code": "CEYREKALTIN",
       "name": "Çeyrek Altın",
-      "buy": 107565,
-      "sell": 1100195,
-      "change": 3
+      "buy": 10756.5,
+      "sell": 11001.95,
+      "change": 0.3
     },
     {
       "code": "CUMHURIYETALTINI",
       "name": "Cumhuriyet Altını",
       "buy": 44616,
       "sell": 45286,
-      "change": 41
+      "change": 0.41
     }
   ],
   "news": [
+    {
+      "title": "Antalya Büyükşehir Belediyesi Boğaçayı'nda su akışı için temizlik yapıyor",
+      "url": "https://www.tarimpusulasi.com/haber/antalya-buyuksehir-belediyesi-bogacayinda-su-akisi-icin-temizlik-yapiyor-47387",
+      "source": "Tarım Pusulası",
+      "date": "2026-08-16",
+      "summary": "Antalya Büyükşehir Belediyesi ekipleri, yaz aylarında su seviyesinin azalmasıyla Boğaçayı’nda yoğunlaşan sucul bitkileri düzenli olarak temizliyor. Çalışmalarda su akışının sağlıklı sürdürülmesi hedeflenirken, göçmen kuşların bulunduğu alanlar ile balıkların üreme bölgeleri korunuyor.",
+      "content": "ANTALYA — Antalya Büyükşehir Belediyesi Deniz ve Kıyı Yapıları Şube Müdürlüğü ekipleri, yaz aylarında su seviyesinin azalmasıyla Boğaçayı’nda yoğunlaşan sucul bitkilerin temizlenmesi çalışmalarını sürdürüyor. Belediye bünyesinde hizmet veren “Caretta” ve “Mavi Yengeç” isimli sucul ot kesme makineleriyle Boğaçayı’nın farklı noktalarında düzenli temizlik yapılıyor.\n\nÇalışmalarla su yüzeyindeki bitki yoğunluğunun azaltılması ve su akışının daha sağlıklı şekilde devam etmesi hedefleniyor. Ekipler, temizlik sırasında Boğaçayı’nın doğal yapısının ve sucul ekosistemin korunmasına da dikkat ediyor.\n\nSucul bitkiler düzenli olarak temizleniyor\n\nBoğaçayı’nda yaz aylarında su seviyesinin düşmesiyle yayılımı artan sucul bitkilerin, suyun doğal akışını ve yüzeydeki hareketliliği olumsuz etkileyebildiği belirtiliyor.\n\nBu nedenle ekipler, su yüzeyinde yoğunlaşan bitkileri düzenli olarak temizlerken Boğaçayı’nın genel durumunu da kontrol ediyor. İhtiyaç duyulan noktalarda gerekli müdahaleler gerçekleştiriliyor.\n\nSucul otların denize ulaşması önleniyor\n\nDeniz ve Kıyı Yapıları Şube Müdürlüğü Sucul Ot Kesme Makinesi Operatörü Tarık Maydos, çalışmaların sabahın erken saatlerinde yürütüldüğünü ve vatandaşların rahatsız olmamasına özen gösterdiklerini belirtti.\n\nMaydos, su yüzeyinde oluşan sucul otların yanı sıra doğal yaşamı olumsuz etkileyebilecek atık maddelerin de sudan toplandığını söyledi.\n\nSucul otların denize ulaşmasını önlemek amacıyla Boğaçayı’nın denize açılan bölümüne üç bariyer yerleştirildiğini belirten Maydos, belirli bir yoğunluğa ulaşan otların toplanarak alandan çıkarıldığını ifade etti.\n\nToplanan otların kepçeler yardımıyla kamyonlara yüklendiğini belirten Maydos, yoğunluğa bağlı olarak çalışmalarda bir veya iki kamyon ot çıkarıldığını aktardı.\n\nKuşların ve balıkların yaşam alanları korunuyor\n\nÇalışmalar sırasında doğal yaşam alanlarının korunmasına önem verildiğini belirten Maydos, Boğaçayı’nın göçmen kuşların uğradığı önemli bölgelerden biri olduğunu söyledi.\n\nBu nedenle kuşların bulunduğu alanlarda temizlik çalışması yapılmadığını belirten Maydos, balıkların üreyip çoğaldığı bölgelerin de korunduğunu ifade etti.\n\nMaydos, çalışmaların doğal yaşam gözetilerek ve ekosisteme zarar vermeden sürdürüldüğünü belirtti.\n\nTARIM PUSULASI HABER MERKEZİ"
+    },
+    {
+      "title": "Kayseri Şeker Nevşehir Türkeli'nde taş ocağını hizmete açtı",
+      "url": "https://www.tarimpusulasi.com/haber/kayseri-seker-nevsehir-turkelinde-tas-ocagini-hizmete-acti-47386",
+      "source": "Tarım Pusulası",
+      "date": "2026-08-16",
+      "summary": "Kayseri Şeker, Nevşehir’in Avanos ilçesine bağlı Türkeli beldesinde kireçtaşı ocağı yatırımını hizmete açtı. Şirketin üretim süreçlerinde ihtiyaç duyduğu kireçtaşının karşılanmasına katkı sağlaması hedeflenen yatırımın, bölgedeki sanayi, altyapı ve üstyapı çalışmalarına da katkı sunması bekleniyor.",
+      "content": "NEVŞEHİR — Kayseri Şeker, üretim süreçlerinde ihtiyaç duyduğu kireçtaşının karşılanmasına katkı sağlamak amacıyla Nevşehir’in Avanos ilçesine bağlı Türkeli beldesinde kireçtaşı ocağı yatırımını hizmete açtı.\n\nTürkeli’nde gerçekleştirilen yatırımın açılış törenine Türkeli Belediye Başkanı Mustafa Demir, Kalaba Jandarma Komutanı, Kayseri Pancar Ekicileri Kooperatifi Yönetim Kurulu Başkanı Hüseyin Akay, yönetim ve denetim kurulu üyeleri, Kayseri Şeker Genel Müdürü Mesut Karabulut, birim müdürleri ve Kayseri Şeker çalışanları katıldı.\n\nYatırım Kayseri Şeker’in üretim süreçlerine katkı sağlayacak\n\nKayseri Pancar Ekicileri Kooperatifi Yönetim Kurulu Başkanı Hüseyin Akay, Türkeli’nde hizmete sunulan kireçtaşı ocağının Kayseri Şeker açısından önemli ve stratejik bir yatırım olduğunu belirtti.\n\nAkay, yatırımın Kayseri Şeker’in üretim süreçlerinde ihtiyaç duyduğu kireçtaşının güvenli ve sürdürülebilir şekilde karşılanmasına katkı sağlayacağını ifade etti.\n\nYatırımın yalnızca Kayseri Şeker’in ihtiyaçları açısından değerlendirilmemesi gerektiğini belirten Akay, tesiste üretilecek malzemelerin bölgedeki sanayi, altyapı ve üstyapı çalışmalarına da katkı sunacağını söyledi.\n\nAkay, yatırımın bölge ekonomisine ve istihdama da değer katacağını belirterek, Kayseri Şeker’in üretim ve yatırım gücüyle bölgenin gelişimine katkı sağlamaya devam edeceğini ifade etti.\n\n“Bölge gençleri için önemli bir istihdam kapısı”\n\nTürkeli Belediye Başkanı Mustafa Demir de konuşmasında Kayseri Şeker’in bölgeye kazandırdığı yatırımın önemine dikkat çekti.\n\nDemir, Kayseri Şeker’in yatırımlarıyla bölgenin geleceğine yönelik öngörülü bir yaklaşım ortaya koyduğunu belirterek, Türkeli’nde hayata geçirilen yatırımın bölge gençleri için önemli bir istihdam kapısı oluşturduğunu ifade etti.\n\nKayseri Şeker’in bölgeye yönelik yeni yatırımlarını memnuniyetle karşıladıklarını dile getiren Demir, yatırımın Türkeli’nin ekonomik potansiyeline katkı sağlayacağını ve beldenin geleceğine değer katacağını söyledi.\n\nAçılış kurdele kesimiyle gerçekleştirildi\n\nAçılış töreni, kurban kesimi ve duaların ardından gerçekleştirilen kurdele kesimiyle devam etti.\n\nTörenin ardından katılımcılara yatırımın faaliyetleri yerinde tanıtıldı. Taş ocağında gerçekleştirilen kontrollü patlatma da davetlilere gösterildi. Güvenlik önlemleri eşliğinde gerçekleştirilen patlatma, katılımcılar tarafından takip edildi.\n\nKayseri Şeker tarafından yapılan değerlendirmede, Türkeli Taş Ocağı yatırımının şirketin üretimden sanayiye uzanan yatırım anlayışının yeni örneklerinden biri olduğu belirtildi.\n\nTARIM PUSULASI HABER MERKEZİ"
+    },
     {
       "title": "Buzağı yetiştiricilerine önemli uyarı: Gri-sarı ishal bu hastalığın belirtisi olabilir!",
       "url": "https://www.tarimdanhaber.com/buzagi-yetistiricilerine-gri-sari-ishal-uyarisi-bu-hastaligin-belirtisi-olabilir",
@@ -117,22 +133,6 @@
       "date": "2026-08-14",
       "summary": "ABD Tarım Bakanlığı (USDA), Türkiye’nin 2026/2027 sezonuna ilişkin tahminlerini güncelledi. Tarım Politikaları Uzmanı Ergin Kahveci’nin Haziran ve Temmuz raporlarını karşılaştırdığı analizde; mısır ve ayçiçeğinde üretim beklentisi yükselirken, bazı ürünlerde ithalat tahminleri de dikkat çekici şekil",
       "content": "Haber Merkezi / Tarım Politikaları Uzmanı Ergin Kahveci, ABD Tarım Bakanlığı’nın (USDA) 2026/2027 üretim dönemine ilişkin Temmuz ayı Türkiye tahminlerini değerlendirdi. Buğday ve arpada üretim tahminleri değişmezken, mısır ve ayçiçeğinde üretim beklentisinin yukarı yönlü revize edilmesi dikkat çekti.\n\nKahveci’nin analizinde özellikle ayçiçeği piyasasına ilişkin rakamlar öne çıktı. USDA’nın Türkiye’de ayçiçeği tohumu üretimini önceki sezona göre yaklaşık 575 bin ton artırmasına rağmen, ayçiçeği yağı ithalatında 300 bin tonluk artış öngörmesi soru işaretlerine neden oldu.\n\nBuğday üretimi 22,5 milyon tonda kaldı\n\nUSDA, Türkiye’nin 2026/2027 dönemi buğday üretim tahminini 22,5 milyon ton olarak değiştirmedi.\n\nBuğday, un ve mamulleri ihracatının buğday eşdeğeri olarak 6 milyon ton seviyesinde gerçekleşeceği tahmini de korundu.\n\nBuna karşılık ithalat beklentisi 5,5 milyon tondan 5 milyon tona düşürüldü. Böylece USDA, Türkiye'nin buğday ithalat tahmininde 500 bin tonluk aşağı yönlü revizyona gitti.\n\nYemlik tahıllarda ithalat beklentisi düşürüldü\n\nMısır, arpa, sorgum, yulaf, çavdar, darı ve karışık tahılları kapsayan yem ve endüstriyel tahıllarda da ithalat beklentisi aşağı çekildi.\n\nUSDA, bu gruptaki ithalat tahminini 5 milyon 85 bin tondan 4 milyon 685 bin tona indirirken, üretim beklentisini 300 bin ton artırarak 16 milyon 850 bin tona yükseltti.\n\nMısır üretimi yükselirken ithalat düşüyor\n\nMısırda iki yönlü önemli bir revizyon yapıldı.\n\nTürkiye'nin mısır üretim tahmini 7,1 milyon tondan 7,4 milyon tona yükseltilirken, ithalat beklentisi 4,9 milyon tondan 4,5 milyon tona düşürüldü.\n\nBöylece üretimde 300 bin tonluk artışa karşılık ithalatta 400 bin tonluk gerileme öngörüldü.\n\nArpada ithalat öngörülmüyor\n\nArpa üretim tahmini ise 8,8 milyon tonda sabit tutuldu.\n\nUSDA verilerine göre 2026/2027 döneminde Türkiye'nin arpa tüketiminin 8,5 milyon ton, ihracatının ise 150 bin ton olması bekleniyor. Arpada ithalat öngörülmemesi ise dikkat çekiyor.\n\nPamuk üretim tahmini yukarı çekildi\n\nPamukta da üretim beklentileri yukarı yönlü revize edildi.\n\nPamuk çiğidi üretim tahmini 870 bin tondan 880 bin tona çıkarıldı. Lif pamuk üretimi ise 2,65 milyon balyadan 2,7 milyon balyaya, yaklaşık 588 bin tona yükseltildi. Buna karşın bu miktarın önceki sezonun yaklaşık 664 bin tonluk seviyesinin altında kalacağı öngörülüyor.\n\nPamuk ithalat tahmini 100 bin balya artırılarak 4,6 milyon balyaya, yaklaşık 1 milyon tona çıkarılırken; ihracat tahmini de 100 bin balyalık artışla 1,05 milyon balyaya, yaklaşık 229 bin tona yükseltildi.\n\nAyçiçeği üretiminde dikkat çeken revizyon\n\nUSDA raporunda en dikkat çekici değişikliklerden biri ayçiçeği tohumu üretiminde yapıldı.\n\nGeçen ay 1 milyon 680 bin ton olarak açıklanan Türkiye'nin 2026/2027 ayçiçeği tohumu üretim tahmini, Temmuz raporunda 1 milyon 825 bin tona yükseltildi.\n\nBir önceki sezon üretimin yaklaşık 1 milyon 250 bin ton olduğu dikkate alındığında, USDA yeni sezonda yaklaşık 575 bin tonluk üretim artışı bekliyor.\n\nAyçiçeği tohumu ithalatının ise önceki sezondaki 1,7 milyon ton seviyesinden 1 milyon tona gerilemesi öngörülüyor.\n\nÜretim artıyor ancak yağ ithalatı da yükseliyor\n\nKahveci'nin analizinde asıl dikkat çekilen nokta ise ayçiçeği yağı ve küspesi rakamlarında ortaya çıkıyor.\n\nUSDA, ayçiçeği yağı üretimini 1 milyon 77 bin ton, küspe üretimini ise 1 milyon 347 bin ton olarak öngörüyor.\n\nBuna karşılık ayçiçeği küspesi ithalatının 900 bin tondan 1 milyon 75 bin tona, ayçiçeği yağı ithalatının ise önceki sezona göre 300 bin ton artarak 1,6 milyon tona çıkacağı tahmin ediliyor.\n\nYağ ihracat tahmini ise yalnızca 100 bin ton artırılarak 1,1 milyon tona yükseltiliyor.\n\nKahveci, üretimdeki güçlü artışa rağmen yağ ve küspe ithalatının neden yükseldiğinin üzerinde durulması gerektiğini belirterek, USDA tahminlerindeki bu tablonun yurtiçi piyasa açısından dikkatle takip edilmesi gerektiğini kaydetti.\n\n“575 bin tonluk üretim artışına rağmen yağ ithalatı neden 300 bin ton artıyor?”\n\nKahveci, ayçiçeği bilançosundaki rakamlara ilişkin değerlendirmesinde şu noktaya dikkat çekti:\n\n“Veri üzerinden bakıldığında ithalat rakamı dengede duruyor gibi düşünülebilir ancak üretimdeki artışın etkisini izah etmiyor. Önceki yıla göre 575 bin tonluk tohum üretim artışına rağmen, yağ ithalatının 300 bin ton artması ve bunun ihracat tarafında aynı ölçüde bir karşılığının bulunmaması mantıklı bir açıklama ortaya koymuyor.”\n\nKahveci, USDA'nın tahminlerinde piyasadaki mevcut beklentiyi önemli ölçüde değiştirmemiş olabileceğini değerlendirirken, yurtiçi piyasanın özellikle bu rakamlara dikkat etmesi gerektiğini vurguladı.\n\nAyçiçeği yağı stoklarında iki kattan fazla artış\n\nUSDA'nın tüketim ve stok tahminleri de tablonun önemli bir başka ayağını oluşturuyor.\n\nAyçiçeği tohumu toplam tüketiminin önceki sezondaki 2 milyon 752 bin tondan 2,7 milyon tona gerilemesi; küspe tüketiminin 2 milyon 175 bin tondan 2,3 milyon tona, yağ tüketiminin ise 1 milyon 415 bin tondan 1 milyon 465 bin tona yükselmesi bekleniyor.\n\nÖzellikle yağ stoklar"
-    },
-    {
-      "title": "Alman Çiftçiler Birliği: Kuraklık ekinleri tehdit ediyor",
-      "url": "https://www.tarimpusulasi.com/haber/alman-ciftciler-birligi-kuraklik-ekinleri-tehdit-ediyor-47379",
-      "source": "Tarım Pusulası",
-      "date": "2026-08-14",
-      "summary": "Alman Çiftçiler Birliği Başkanı Joachim Rukwied, aşırı sıcaklık ve yağış eksikliğinin özellikle ülkenin güneyinde bazı ürünlerde tamamen verimsiz bir hasat riski oluşturduğunu belirtti. Rukwied, tarımsal üretimin uzun yıllar ortalamasının altında kalmasının beklendiğini açıkladı.",
-      "content": "ALMANYA — Almanya’da aşırı sıcaklık ve yağış eksikliğinin tarımsal üretim üzerinde ciddi baskı oluşturduğu bildirildi. Alman Çiftçiler Birliği Başkanı Joachim Rukwied, özellikle ülkenin güney bölgelerinde mevcut hava koşullarının bazı ürünlerde tamamen verimsiz bir hasat riskine yol açabileceğini belirtti.\n\nRukwied, tarım sektöründe hasadın uzun yıllar ortalamalarının önemli ölçüde altında kalmasının beklendiğini söyledi. Aşırı sıcaklık ve yağış eksikliğinin buğday ve kolza başta olmak üzere birçok ürünü olumsuz etkilediği, patates, sebze, şeker pancarı, mısır ve soyanın da risk altında olduğu ifade edildi.\n\nGüney bölgelerinde hasat riski büyüyor\n\nAlmanya’nın güney bölgelerinde durumun daha ağır olduğu belirtilirken, bazı ürünlerde hiç hasat yapılamaması riskinin bulunduğu aktarıldı.\n\nKuzey bölgelerinin ise dönemsel yağışlar sayesinde kuraklıktan daha az etkilendiği, ancak burada da üretim miktarlarının normal seviyelerin altında kalmasının beklendiği bildirildi.\n\nHava koşullarından kaynaklanan en önemli sorunlardan birinin yem bitkilerinin gelişiminin durması olduğu belirtildi. Yem üretimindeki gerilemenin hayvansal üretim üzerinde de baskı oluşturduğu ifade edildi.\n\nYem stokları azalıyor, işletmeler zorlanıyor\n\nOlumsuz hava koşullarının yem stoklarında ciddi düşüşe neden olduğu, bunun da bazı hayvanların planlanandan daha erken kesime gönderilmesine yol açtığı belirtildi.\n\nRukwied, tarımsal işletmelerin finansal durumunu kritik olarak nitelendirdi. Bazı üreticilerin bitki koruma ürünleri ve gübre faturalarını ödeyemediğini ve bankalardan finansman arayışına girdiğini söyledi.\n\nRukwied, tarımsal işletmelerin ekonomik durumunun yüksek girdi maliyetleri ile düşük tarımsal ürün fiyatlarının aynı anda baskı oluşturması nedeniyle kritik seviyede olduğunu belirtti.\n\nÇiftçiler Almanya ve AB’den acil destek istiyor\n\nAlman çiftçiler, üretimde yaşanan sorunların daha da büyümemesi için Almanya hükümeti ve Avrupa Birliği'nden acil önlemler alınmasını talep ediyor.\n\nÇiftçilerin öne çıkan talepleri şöyle:\n\nAvrupa Birliği'nin gübre alımı için oluşturduğu yardım fonunun 60 milyon avrodan 180 milyon avroya çıkarılması,\n\nAB doğrudan desteklerinin yüzde 80'inin ekim ayında, normal ödeme döneminden önce çiftçilere aktarılması,\n\nDizel yakıt vergilerinin en az kasım ayı sonuna kadar düşürülmesi.\n\nSıcağa dayanıklı çeşitlere ihtiyaç vurgusu\n\nAvrupa tarımının uzun yıllardır iklim değişikliğine uyum sağlamaya çalıştığı belirtilirken, mevcut koşulların tarımsal üretimde sıcağa dayanıklı çeşitlerin hızlı şekilde geliştirilmesi ve kullanılmasını daha önemli hale getirdiği ifade edildi.\n\nTARIM PUSULASI HABER MERKEZİ"
-    },
-    {
-      "title": "Rusya’da mısır üretim maliyeti yüzde 11’e kadar arttı",
-      "url": "https://www.tarimpusulasi.com/haber/rusyada-misir-uretim-maliyeti-yuzde-11e-kadar-artti-47378",
-      "source": "Tarım Pusulası",
-      "date": "2026-08-14",
-      "summary": "Rusya’da 2025/2026 sezonunda mısır yetiştirmenin ortalama maliyeti hektar başına 29.500-33.200 ruble (354-398,40 dolar) seviyesine yükseldi. Önceki sezona göre yüzde 8-11 artan maliyetlerde gübre, akaryakıt ve bitki koruma ürünlerindeki fiyat artışları etkili oldu.",
-      "content": "RUSYA — Mısır üretiminde kullanılan girdilerdeki enflasyonist baskı, 2025/2026 sezonunda yetiştirme maliyetlerinin önemli ölçüde artmasına neden oldu. Ortalama mısır yetiştirme maliyeti hektar başına 29.500-33.200 ruble (354-398,40 dolar) seviyesine yükselirken, önceki sezona göre artış yüzde 8-11 olarak gerçekleşti.\n\nMaliyetlerdeki yükselişte özellikle gübre, akaryakıt ve bitki koruma ürünleri fiyatlarındaki artış etkili oldu. Bu ürünlerin fiyatlandırmasının küresel piyasalardaki fiyatlara bağlı olduğu belirtildi.\n\nEn yüksek maliyet payı mineral gübrelerde\n\nMısır üretimindeki toplam maliyet içerisinde mineral gübreler, tohum, akaryakıt ve bitki koruma ürünleri önemli bir pay oluşturdu.\n\nMineral gübrelerin, özellikle NPK gübrelerin, toplam maliyet içindeki payı yüzde 26-29 olurken hektar başına maliyeti 7.800-8.900 ruble (93,60-106,80 dolar) seviyesinde gerçekleşti.\n\nTohum maliyetlerinin toplam giderler içerisindeki payı yüzde 16-18 olurken, hektar başına maliyet 4.800-5.600 ruble (57,60-67,20 dolar) seviyesinde oldu.\n\nAkaryakıt ve yağlayıcıların toplam maliyet içindeki payı yüzde 15-17, hektar başına maliyeti ise 4.500-5.300 ruble (54-63,60 dolar) olarak hesaplandı.\n\nBitki koruma ürünlerinin toplam maliyet içindeki payı yüzde 13-15 olurken, hektar başına maliyet 3.900-4.700 ruble (46,80-56,40 dolar) seviyesinde bulundu.\n\nAzotlu gübre fiyatları maliyet baskısını artırıyor\n\nÖzellikle azotlu gübre fiyatlarındaki dalgalanmanın maliyetler açısından önemli bir risk oluşturduğu belirtildi.\n\nAzotlu gübre fiyatları ile dolar/ruble kuru arasındaki korelasyonun 0,78 seviyesinde olduğu ifade edildi. Buna göre doların güçlenmesinin mısır üretim maliyetini yüzde 6-8 artırdığı değerlendiriliyor.\n\nRiskli tarım bölgelerinde girdi payı yüzde 64’e çıkıyor\n\nVolga Bölgesi gibi riskli tarım yapılan alanlarda bitki koruma ürünleri, gübre ve akaryakıt giderlerinin toplam maliyet içerisindeki payının yüzde 60-64 seviyesine ulaştığı belirtildi.\n\nBu durumun bölgeyi küresel fiyat değişimlerine karşı daha hassas hale getirdiği ifade edilirken, kârlılığın korunması için hassas tarım uygulamalarının kullanılması gerektiği vurgulandı.\n\nYüksek girdi fiyatlarına karşılık, azot uygulama miktarlarının yüzde 10-15 azaltılmasının beklendiği bildirildi.\n\nTARIM PUSULASI HABER MERKEZİ"
     }
   ],
   "commoditiesByBorsa": {
