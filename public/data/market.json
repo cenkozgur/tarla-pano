@@ -1,43 +1,51 @@
 {
-  "updatedAt": "2026-08-16T05:55:10.486Z",
+  "updatedAt": "2026-08-16T06:44:23.026Z",
   "fx": [
     {
       "code": "USD",
       "name": "Dolar",
-      "buy": 47.84,
-      "sell": 47.91,
-      "change": 0.1
+      "buy": 478422,
+      "sell": 479147,
+      "change": 1
     },
     {
       "code": "EUR",
       "name": "Euro",
-      "buy": 55.38,
-      "sell": 55.51,
-      "change": 0.31
+      "buy": 553796,
+      "sell": 555063,
+      "change": 31
     },
     {
       "code": "GRA",
       "name": "Gram Altın",
-      "buy": 6736.33,
-      "sell": 6737.19,
-      "change": 0.68
+      "buy": 673633,
+      "sell": 673719,
+      "change": 68
     },
     {
       "code": "CEYREKALTIN",
       "name": "Çeyrek Altın",
-      "buy": 10756.5,
-      "sell": 11001.95,
-      "change": 0.3
+      "buy": 107565,
+      "sell": 1100195,
+      "change": 3
     },
     {
       "code": "CUMHURIYETALTINI",
       "name": "Cumhuriyet Altını",
       "buy": 44616,
       "sell": 45286,
-      "change": 0.41
+      "change": 41
     }
   ],
   "news": [
+    {
+      "title": "Buzağı yetiştiricilerine önemli uyarı: Gri-sarı ishal bu hastalığın belirtisi olabilir!",
+      "url": "https://www.tarimdanhaber.com/buzagi-yetistiricilerine-gri-sari-ishal-uyarisi-bu-hastaligin-belirtisi-olabilir",
+      "source": "Tarımdan Haber",
+      "date": "2026-08-16",
+      "summary": "Hayvancılık işletmelerinde buzağı kayıplarının önemli nedenlerinden biri olan ishale karşı veteriner hekimler ve uzmanlardan dikkat çeken uyarı geldi. Özellikle genç buzağılarda görülen gri-sarı ishalin Cryptosporidium (kripto) enfeksiyonunun belirtisi olabileceğine dikkat çekilirken, erken müdahale",
+      "content": "Haber Merkezi / Buzağı yetiştiriciliğinde en kritik dönemlerden biri doğumdan sonraki ilk haftalar. Bu dönemde ortaya çıkan ishaller, hızlı sıvı kaybına ve buzağının genel durumunun kısa sürede bozulmasına neden olabiliyor.\n\nVeteriner hekimler, buzağılarda görülen her ishalin aynı nedenden kaynaklanmadığına dikkat çekerken, özellikle gri-sarı renkli ishal görüldüğünde Cryptosporidium enfeksiyonu ihtimalinin de değerlendirilmesi gerektiğini belirtiyor.\n\nGRİ-SARI İSHAL NEYİN HABERCİSİ?\n\nCryptosporidium, özellikle genç buzağılarda bağırsakları etkileyerek ishale yol açabilen paraziter bir etkendir.\n\nHastalığın görüldüğü buzağılarda ishalin yanı sıra sıvı kaybı, halsizlik, iştahsızlık ve gelişme geriliği gibi sorunlar ortaya çıkabiliyor.\n\nAncak uzmanlar, yalnızca dışkının rengine bakılarak kesin teşhis konulamayacağının altını çiziyor. Benzer belirtilere farklı hastalık etkenleri de neden olabildiği için kesin teşhis için veteriner hekim değerlendirmesi gerekiyor.\n\nBUZAĞILARDA İSHAL HAFİFE ALINMAMALI\n\nÖzellikle küçük yaştaki buzağılarda uzun süren veya şiddetlenen ishal ciddi sıvı ve elektrolit kaybına neden olabiliyor.\n\nBu nedenle yetiştiricilerin “birkaç güne geçer” düşüncesiyle beklemek yerine buzağının genel durumunu yakından takip etmesi ve gerekli durumlarda veteriner hekime başvurması önem taşıyor.\n\nHASTA BUZAĞIYI SÜRÜDEN AYIRIN\n\nUzmanların üzerinde durduğu konuların başında işletme hijyeni geliyor.\n\nHastalık belirtisi gösteren buzağıların sağlıklı hayvanlardan ayrılması, buzağı bölmelerinin temiz tutulması, yemlik ve sulukların kirlenmesinin önlenmesi ve kullanılan ekipmanların düzenli olarak temizlenmesi enfeksiyon baskısının azaltılmasında önem taşıyor.\n\nÖzellikle birden fazla buzağıda peş peşe ishal görülmesi durumunda işletmedeki hijyen ve bulaşma kaynaklarının da değerlendirilmesi gerekiyor.\n\nERKEN MÜDAHALE BUZAĞI KAYIPLARININ ÖNLENMESİNDE ÖNEMLİ\n\nVeteriner hekimler, buzağı ishallerinde asıl tehlikelerden birinin hızla gelişebilen sıvı kaybı olduğuna dikkat çekiyor.\n\nBu nedenle ishal görülen buzağının yaşı, genel durumu ve diğer belirtiler dikkate alınarak veteriner hekim tarafından değerlendirilmesi gerekiyor.\n\nYetiştiricilere yapılan en önemli uyarı ise şöyle:\n\nBuzağıda gri-sarı ishal görülüyorsa bunu basit bir ishal olarak değerlendirmeyin. Kripto dahil farklı enfeksiyonlar söz konusu olabilir; erken teşhis ve doğru müdahale için veteriner hekime başvurun."
+    },
     {
       "title": "Et kesim fiyatları 2026 | Güncel karkas et, dana ve kuzu kesim fiyatları",
       "url": "https://www.tarimdanhaber.com/sigir-kesim-fiyatlari",
@@ -125,14 +133,6 @@
       "date": "2026-08-14",
       "summary": "Rusya’da 2025/2026 sezonunda mısır yetiştirmenin ortalama maliyeti hektar başına 29.500-33.200 ruble (354-398,40 dolar) seviyesine yükseldi. Önceki sezona göre yüzde 8-11 artan maliyetlerde gübre, akaryakıt ve bitki koruma ürünlerindeki fiyat artışları etkili oldu.",
       "content": "RUSYA — Mısır üretiminde kullanılan girdilerdeki enflasyonist baskı, 2025/2026 sezonunda yetiştirme maliyetlerinin önemli ölçüde artmasına neden oldu. Ortalama mısır yetiştirme maliyeti hektar başına 29.500-33.200 ruble (354-398,40 dolar) seviyesine yükselirken, önceki sezona göre artış yüzde 8-11 olarak gerçekleşti.\n\nMaliyetlerdeki yükselişte özellikle gübre, akaryakıt ve bitki koruma ürünleri fiyatlarındaki artış etkili oldu. Bu ürünlerin fiyatlandırmasının küresel piyasalardaki fiyatlara bağlı olduğu belirtildi.\n\nEn yüksek maliyet payı mineral gübrelerde\n\nMısır üretimindeki toplam maliyet içerisinde mineral gübreler, tohum, akaryakıt ve bitki koruma ürünleri önemli bir pay oluşturdu.\n\nMineral gübrelerin, özellikle NPK gübrelerin, toplam maliyet içindeki payı yüzde 26-29 olurken hektar başına maliyeti 7.800-8.900 ruble (93,60-106,80 dolar) seviyesinde gerçekleşti.\n\nTohum maliyetlerinin toplam giderler içerisindeki payı yüzde 16-18 olurken, hektar başına maliyet 4.800-5.600 ruble (57,60-67,20 dolar) seviyesinde oldu.\n\nAkaryakıt ve yağlayıcıların toplam maliyet içindeki payı yüzde 15-17, hektar başına maliyeti ise 4.500-5.300 ruble (54-63,60 dolar) olarak hesaplandı.\n\nBitki koruma ürünlerinin toplam maliyet içindeki payı yüzde 13-15 olurken, hektar başına maliyet 3.900-4.700 ruble (46,80-56,40 dolar) seviyesinde bulundu.\n\nAzotlu gübre fiyatları maliyet baskısını artırıyor\n\nÖzellikle azotlu gübre fiyatlarındaki dalgalanmanın maliyetler açısından önemli bir risk oluşturduğu belirtildi.\n\nAzotlu gübre fiyatları ile dolar/ruble kuru arasındaki korelasyonun 0,78 seviyesinde olduğu ifade edildi. Buna göre doların güçlenmesinin mısır üretim maliyetini yüzde 6-8 artırdığı değerlendiriliyor.\n\nRiskli tarım bölgelerinde girdi payı yüzde 64’e çıkıyor\n\nVolga Bölgesi gibi riskli tarım yapılan alanlarda bitki koruma ürünleri, gübre ve akaryakıt giderlerinin toplam maliyet içerisindeki payının yüzde 60-64 seviyesine ulaştığı belirtildi.\n\nBu durumun bölgeyi küresel fiyat değişimlerine karşı daha hassas hale getirdiği ifade edilirken, kârlılığın korunması için hassas tarım uygulamalarının kullanılması gerektiği vurgulandı.\n\nYüksek girdi fiyatlarına karşılık, azot uygulama miktarlarının yüzde 10-15 azaltılmasının beklendiği bildirildi.\n\nTARIM PUSULASI HABER MERKEZİ"
-    },
-    {
-      "title": "Çiftçi girdi maliyetini hesap ederken Genel Müdüre para yağıyor! Razi’den 1,8 milyon liralık kar payı",
-      "url": "https://www.tarimdanhaber.com/ciftci-girdi-maliyetini-hesap-ederken-genel-mudure-para-yagiyor-raziden-18-milyon-liralik-kar-payi",
-      "source": "Tarımdan Haber",
-      "date": "2026-08-14",
-      "summary": "Çiftçi kuruluşu Tarım Kredi Kooperatiflerindeki aylık yaklaşık 1,5 milyon liralık geliriyle gündeme gelen Genel Müdür Hüseyin Aydın'ın, Yönetim Kurulu Başkanı olduğu İran'daki Razi Petrokimya'nın 2025 yılı kar dağıtımından da önemli bir gelir elde etmesi gündemde. Razi'de yöneticilere ayrılan kar pa",
-      "content": "Sadettin İnan / Çiftçiler artan girdi maliyetleri ve finansmana erişimde yaşanan sıkıntılarla mücadele ederken, Tarım Kredi Kooperatifleri Genel Müdürü Hüseyin Aydın'ın görevlerinden elde ettiği gelirler yeniden gündemde.\n\nİran'da faaliyet gösteren ve Gübretaş'ın yüzde 48,88 oranında pay sahibi olduğu Razi Petrokimya, 2025 yılı Olağan Genel Kurulunda kar dağıtımı kararı aldı.\n\nŞirket tarafından Kamuyu Aydınlatma Platformu'na (KAP) yapılan açıklamaya göre genel kurulda, dağıtılabilir kardan hissedarlara hisse başına 4.100 İran Riyali (IRR) temettü dağıtılmasına ve ödemenin İran'daki yerel mevzuatta öngörülen süre içerisinde yapılmasına karar verildi.\n\n[poll id=\"68\"][/poll]\n\nGÜBRETAŞ'IN PAYINA 178 MİLYON LİRA DÜŞÜYOR\n\nAlınan karar kapsamında dağıtılacak toplam temettü 11 trilyon 480 milyar IRR olarak hesaplandı.\n\nGübretaş'ın yüzde 48,88'lik payına karşılık gelen temettü ise 5 trilyon 611 milyar 662 milyon 492 bin 900 IRR oldu.\n\nGübretaş, hesaplamada kullanılan 1 TL = 31.506 IRR referans kuru üzerinden şirketin payına düşen temettünün yaklaşık 178 milyon TL karşılığına geldiğini açıkladı.\n\nRAZİ YÖNETİMİNE DE KARDAN PAY\n\nRazi Petrokimya'da yönetim kurulu üyelerine huzur hakkının yanı sıra şirketin kar etmesi halinde kârdan pay verilmesi de Hüseyin Aydın'ın Razi'den elde ettiği geliri yeniden gündeme getirdi.\n\nRazi'de yöneticilere ayrılan payın yüzde 5 olduğu ve bu tutarın 5 kişilik yönetim kurulu arasında eşit paylaşılması halinde, 178 milyon lira üzerinden yapılan hesaplamada yönetime ayrılacak tutar 8 milyon 900 bin liraya ulaşıyor.\n\nBu tutarın 5 yönetim kurulu üyesine eşit dağıtılması durumunda ise kişi başına düşen tutar yaklaşık 1 milyon 780 bin lira oluyor.\n\nBuna göre Razi Petrokimya Yönetim Kurulu Başkanı Hüseyin Aydın'ın da yaklaşık 1 milyon 780 bin liralık gelir elde etmesi söz konusu olacak.\n\nRAZİ'NİN YÖNETİM KONTROLÜ GÜBRETAŞ'TA\n\nGübretaş'ın 2025 yılı bağımsız denetim raporunda Razi Petrokimya'nın yönetim yapısına ilişkin önemli bir ayrıntı da bulunuyor.\n\nGübretaş, Razi'nin sermayesinin yüzde 48,88'ine sahip olmasına rağmen 5 kişilik yönetim kurulunun 3 üyesini belirliyor. Bu nedenle Razi, Gübretaş'ın bağlı ortaklığı olarak konsolide ediliyor.\n\nAYLIK 10 BİN EURO HUZUR HAKKI DA GÜNDEME GELMİŞTİ\n\nHüseyin Aydın'ın Razi Petrokimya Yönetim Kurulu Başkanlığı dolayısıyla aylık 10 bin Euro huzur hakkı aldığı bilgisi daha önce de kamuoyuna yansımıştı. Hüseyin Aydın, Razi Petrokimya'dan aldığı aylık 10 bin Euro huzur hakkı ücretini yalanlamamıştı.\n\nBöylece Tarım Kredi Kooperatiflerindeki maaş, ikramiye ve diğer yönetim kurulu gelirlerinin yanı sıra Razi Petrokimya'dan elde edilen huzur hakkı ve kar payı da Aydın'ın görevlerinden kaynaklanan toplam gelirinin önemli kalemleri arasında yer alıyor.\n\nRazi'deki kar payının yönetim kurulu üyeleri arasında eşit dağıtılması halinde, Hüseyin Aydın'ın yalnızca bu kar dağıtımından elde edeceği tutar yaklaşık 1 milyon 780 bin TL olacak.\n\nİlgili Haberler\n\nTarım Kredi’de 'huzur' var, personelde sabır yok! Genel Müdüre yüzde 51 zam, çalışana 'sıfır' artış\n\nTarım Kredi’de maaş krizi: Fuat Uğur’dan Hüseyin Aydın’a ‘1,5 milyon TL’ isyanı!"
     }
   ],
   "commoditiesByBorsa": {
