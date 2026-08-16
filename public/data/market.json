@@ -1,43 +1,51 @@
 {
-  "updatedAt": "2026-08-16T21:01:15.999Z",
+  "updatedAt": "2026-08-16T21:26:20.248Z",
   "fx": [
     {
       "code": "USD",
       "name": "Dolar",
-      "buy": 47.84,
+      "buy": 47.78,
       "sell": 47.91,
-      "change": 0.1
+      "change": -0.07
     },
     {
       "code": "EUR",
       "name": "Euro",
-      "buy": 55.38,
-      "sell": 55.51,
-      "change": 0.31
+      "buy": 55.34,
+      "sell": 55.46,
+      "change": -0.08
     },
     {
       "code": "GRA",
       "name": "Gram Altın",
-      "buy": 6736.33,
-      "sell": 6737.19,
-      "change": 0.68
+      "buy": 6731.54,
+      "sell": 6732.34,
+      "change": -0.07
     },
     {
       "code": "CEYREKALTIN",
       "name": "Çeyrek Altın",
-      "buy": 10756.5,
-      "sell": 11001.95,
-      "change": 0.3
+      "buy": 10673.88,
+      "sell": 10919.78,
+      "change": 0
     },
     {
       "code": "CUMHURIYETALTINI",
       "name": "Cumhuriyet Altını",
-      "buy": 44616,
-      "sell": 45286,
-      "change": 0.41
+      "buy": 44405,
+      "sell": 45077,
+      "change": -0.46
     }
   ],
   "news": [
+    {
+      "title": "Şampiyon Angus boğası için 15 bin 400 dolar teklif edildi",
+      "url": "https://www.tarimpusulasi.com/haber/sampiyon-angus-bogasi-icin-15-bin-400-dolar-teklif-edildi-47399",
+      "source": "Tarım Pusulası",
+      "date": "2026-08-16",
+      "summary": "Kazakistan’da düzenlenen Jana Dala Green Day 2026 etkinliğinde “Kazakistan’ın 2026 En İyi Boğası” seçilen Angus boğası için açık artırmada 15 bin 400 dolar teklif edildi. Pavlodar’daki Astyk PV işletmesinin yöneticisi Ruslan Smagulov, iyi genetik özelliklere sahip damızlık boğalara yönelik talebin a",
+      "content": "PAVLODAR — Kazakistan’da düzenlenen Jana Dala Green Day 2026 etkinliğinde “Kazakistan’ın 2026 En İyi Boğası” seçilen Angus boğası için açık artırmada 15 bin 400 dolar teklif edildi. Pavlodar bölgesindeki Astyk PV damızlık işletmesine ait şampiyon boğa, ülkede damızlık hayvan fiyatlarının ve iyi genetik özelliklere sahip sığırlara yönelik talebin arttığını gösteren örneklerden biri oldu.\n\nAstyk PV işletmesinin yöneticisi Ruslan Smagulov, iyi genetiğe sahip bir boğanın açık artırmada 6 bin 600 ila 8 bin 800 dolar arasında satılabileceğini belirtti. Smagulov, Jana Dala etkinliğinin ilk gününde düzenlenen Qazaq Aqbas boğa açık artırmasında bir boğa için verilen en yüksek teklifin ise 15 bin 400 dolar olduğunu söyledi.\n\nSmagulov, Kazakistan’da damızlık hayvan fiyatlarının son yıllarda önemli ölçüde yükseldiğini ifade etti. İki-üç yıl önce boğaların 1.320–1.540 dolar seviyesinde satıldığını belirten Smagulov, günümüzde fiyatların 3 bin 300 dolar düzeyine çıktığını kaydetti.\n\nİyi genetik özelliklere sahip damızlık hayvanlar için daha yüksek bedel ödemeye hazır alıcıların ortaya çıktığını belirten Smagulov, bu durumun yetiştiricilerin genetik kalitenin geliştirilmesine yönelik çalışmalarına da katkı sağlayabileceğini ifade etti.\n\nKazakistan’da hayvancılığın geliştirilmesine yönelik Kapsamlı Plan’ın uygulanması ve hayvan alımında uygun koşullu kredi imkânlarının devreye alınmasıyla birlikte damızlık hayvan fiyatlarındaki yükselişin devam edebileceği öngörülüyor.\n\nSöz konusu gelişmenin, damızlık hayvan yetiştiricileri açısından Kazakistan’daki sığır varlığının genetik kalitesini geliştirmeye yönelik çalışmalar için ek teşvik oluşturması bekleniyor.\n\nKazakistan’da damızlık hayvan alımına yönelik finansman tarafında da yeni bir kredi uygulaması başladı. 13 Ağustos’ta Tarımsal Kredi Kurumu, “Bereke” programı kapsamında ilk kredinin kullandırıldığını açıkladı.\n\nAkmmola bölgesinde faaliyet gösteren Ereymentau Astyk 2014 şirketine, damızlık küçükbaş hayvan satın alınması amacıyla 4,4 milyon dolar kredi verildi.\n\nDamızlık hayvan fiyatlarının yükselmesi ve kredi imkânlarının genişletilmesi, Kazakistan’da hayvancılık işletmelerinin genetik materyal yatırımlarını artırmasına yönelik beklentileri güçlendiriyor.\n\nTARIM PUSULASI HABER MERKEZİ"
+    },
     {
       "title": "İngiltere’de mavi dil vakaları hızla artıyor",
       "url": "https://www.tarimpusulasi.com/haber/ingilterede-mavi-dil-vakalari-hizla-artiyor-47398",
@@ -93,14 +101,6 @@
       "date": "2026-08-16",
       "summary": "Eski TMO Genel Müdürü ve İK Tarım Üssü Yönetim Kurulu Başkanı İsmail Kemaloğlu, tarım arazilerinde çiftçilerin en önemli sorunlarından birinin ürünü hasat edecek işgücünü bulmak ve bu işgücünün maliyetini karşılamak olduğunu belirtti. Kemaloğlu, hasat ve ürün toplama süreçleri için yeni yöntemler, o",
       "content": "ANKARA — Eski Toprak Mahsulleri Ofisi (TMO) Genel Müdürü ve İK Tarım Üssü Yönetim Kurulu Başkanı İsmail Kemaloğlu, tarım arazileri ve kırsalda yaptıkları gözlemlere ilişkin değerlendirmesinde, çiftçilerin önemli sorunlarından birinin ürünü toplayacak işgücünü bulmak ve işgücü maliyetini karşılamak olduğunu belirtti.\n\nKemaloğlu, kırsalda genç işgücünün zayıf olduğunu, çiftçilerin yaş ortalamasının yükseldiğini ve tarım arazilerinin parçalı yapısının da üretim süreçlerini zorlaştırdığını ifade etti. Teknoloji kullanımının sınırlı olmasının da bu tabloyu etkileyen unsurlardan biri olduğunu belirten Kemaloğlu, söz konusu koşulların üretim maliyetlerini artırdığını kaydetti.\n\nHasat için yeni yöntem ve organize ekip önerisi\n\nHasat ve ürün toplama süreçlerinde yeni yöntemlere ihtiyaç olduğunu belirten Kemaloğlu, bu süreçlerin organize ekiplerle yürütülmesinin önemine dikkat çekti.\n\nKemaloğlu, üniversiteli gençlerin tarımsal üretim süreçlerine dahil edilmesini sağlayacak ve ekoturizmle birleştirilebilecek farklı teşvik ve yöntemlerin geliştirilmesi gerektiğini ifade etti.\n\nTarımın herkes için huzurlu ve bereketli bir faaliyet olduğunu belirten Kemaloğlu, kırsal ile şehir yaşamı arasında yeni modeller oluşturulabileceğine işaret etti.\n\nTARIM PUSULASI HABER MERKEZİ"
-    },
-    {
-      "title": "TZYMB, 2026-BKUBTS için Ankara’da 4 günlük eğitim düzenliyor",
-      "url": "https://www.tarimpusulasi.com/haber/tzymb-2026-bkubts-icin-ankarada-4-gunluk-egitim-duzenliyor-47391",
-      "source": "Tarım Pusulası",
-      "date": "2026-08-16",
-      "summary": "Türk Ziraat Yüksek Mühendisleri Birliği (TZYMB), 18 Ekim 2026’da yapılacak 2026-BKUBTS için ziraat yüksek mühendislerine yönelik 4 günlük eğitim programı düzenleyecek. Ankara’daki Birlik binasında ve çevrim içi gerçekleştirilecek eğitim 26-27 Eylül ile 3-4 Ekim tarihlerinde yapılacak.",
-      "content": "HARUN GÖKSEL / ANKARA — Türk Ziraat Yüksek Mühendisleri Birliği (TZYMB), Tarım ve Orman Bakanlığı ile ÖSYM iş birliğinde gerçekleştirilecek 2026 yılı Bitki Koruma Ürünleri Bayi ve Toptancılık Sınavı (2026-BKUBTS) öncesinde ziraat yüksek mühendislerine yönelik eğitim programı düzenleyecek.\n\n2026-BKUBTS, 18 Ekim 2026 tarihinde gerçekleştirilecek. Tarım ve Orman Bakanlığı da sınavın 18 Ekim 2026 Pazar günü saat 10.15’te yapılacağını duyurdu.\n\nEğitim 4 gün sürecek\n\nTZYMB tarafından düzenlenecek eğitim programı 26-27 Eylül ile 3-4 Ekim 2026 tarihlerinde, hafta sonlarında gerçekleştirilecek.\n\nEğitim, hem TZYMB binasında yüz yüze hem de Zoom üzerinden çevrim içi olarak yapılacak. Ankara’daki yüz yüze eğitimlerin adresi, TZYMB Binası Prof. Dr. Orhan Düzgüneş Toplantı Salonu, Kızılay-Ankara olarak duyuruldu.\n\nEğitim ücreti 3 bin TL\n\nEğitim ücretinin 3.000 TL olarak belirlendiği bildirildi. TZYMB üyelerine özel olarak %20 indirim uygulanacak.\n\nEğitime katılanlara ayrıca sınava hazırlık amacıyla hazırlanan 400 sayfalık kaynak ücretsiz verilecek. Görsel duyuruda eğitim sonunda birlik yayını olan kitap ve soru bankasının dağıtılacağı da belirtiliyor.\n\nEğitimi üç ziraat yüksek mühendisi verecek\n\nProgramda eğitimleri konu uzmanı ziraat yüksek mühendisleri Hasan Yılmaz Dursun, Dr. Abdullah Yılmaz ve Doç. Dr. Birol Akbaş verecek.\n\nEğitim programının konu anlatımı ve soru çözümlerinden oluşacağı belirtildi.\n\n2026-BKUBTS 18 Ekim’de yapılacak\n\nTarım ve Orman Bakanlığının resmi duyurusuna göre 2026-BKUBTS, 18 Ekim 2026 Pazar günü saat 10.15’te Adana, Ankara, Antalya, Diyarbakır, Erzurum, İstanbul, İzmir ve Samsun’daki belirlenen sınav merkezlerinde gerçekleştirilecek. Adaylar sınav binalarına saat 10.00’dan sonra alınmayacak.\n\nÖSYM takviminde de 2026-BKUBTS için sınav tarihi 18 Ekim 2026, başvuru tarihleri 2-10 Eylül 2026, geç başvuru günü ise 17 Eylül 2026 olarak yer alıyor.\n\nTZYMB’nin eğitim duyurusunda, programa başvurmak isteyenlerin Birliğin paylaştığı başvuru formunu kullanabileceği ve telefon üzerinden bilgi alabileceği belirtildi.\n\nBaşvuru ve iletişim\n\nBaşvuru: TZYMB’nin duyurusunda yer alan çevrim içi başvuru formu üzerinden yapılabilecek.\n\nEğitim adresi:\n\nTürk Ziraat Yüksek Mühendisleri Birliği Binası\n\nProf. Dr. Orhan Düzgüneş Toplantı Salonu\n\nKızılay / Ankara\n\nWeb: www.tzymb.org.tr\n\nE-posta: info@tzymb.org.tr\n\nTelefon: 0312 433 59 81\n\nCep telefonu: 0532 250 13 31\n\nTARIM PUSULASI HABER MERKEZİ"
     },
     {
       "title": "Buzağı yetiştiricilerine önemli uyarı: Gri-sarı ishal bu hastalığın belirtisi olabilir!",
@@ -328,21 +328,5 @@
   "defaultBorsa": "5ED10",
   "defaultCity": "CANAKKALE",
   "note": "Fiyatlar TOBB ticaret borsasından (borsa seçilebilir). Kanola manuel (Trakya 2025).",
-  "inputsNote": "Mazot: akaryakıt bayi fiyatı, günlük (şehir seçilebilir). Gübre: manuel (yaklaşık).",
-  "errors": [
-    "fx: fetch failed",
-    "borsa 5ED10: fetch failed",
-    "borsa 5KO10: fetch failed",
-    "borsa 5ES10: fetch failed",
-    "mazot ANKARA: fetch failed",
-    "mazot ISTANBUL: fetch failed",
-    "mazot IZMIR: fetch failed",
-    "mazot KONYA: fetch failed",
-    "mazot ADANA: fetch failed",
-    "mazot BURSA: fetch failed",
-    "mazot ANTALYA: fetch failed",
-    "mazot SAMSUN: fetch failed",
-    "mazot TEKIRDAG: fetch failed",
-    "mazot CANAKKALE: fetch failed"
-  ]
+  "inputsNote": "Mazot: akaryakıt bayi fiyatı, günlük (şehir seçilebilir). Gübre: manuel (yaklaşık)."
 }
