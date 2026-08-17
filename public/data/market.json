@@ -1,26 +1,26 @@
 {
-  "updatedAt": "2026-08-17T18:43:25.910Z",
+  "updatedAt": "2026-08-17T19:15:44.101Z",
   "fx": [
     {
       "code": "USD",
       "name": "Dolar",
-      "buy": 47.9,
+      "buy": 47.89,
       "sell": 47.9,
       "change": 0.04
     },
     {
       "code": "EUR",
       "name": "Euro",
-      "buy": 55.46,
-      "sell": 55.48,
-      "change": 0.05
+      "buy": 55.48,
+      "sell": 55.49,
+      "change": 0.07
     },
     {
       "code": "GRA",
       "name": "Gram Altın",
-      "buy": 6779.91,
-      "sell": 6780.83,
-      "change": 0.65
+      "buy": 6784.66,
+      "sell": 6785.64,
+      "change": 0.72
     },
     {
       "code": "CEYREKALTIN",
@@ -44,7 +44,7 @@
       "source": "Tarım Pusulası",
       "date": "2026-08-17",
       "summary": "Chicago Ticaret Borsası’nda mısır vadeli fiyatları haftanın ilk işlem gününde yükseldi. Eylül 2026 kontratı 4,63 dolara çıktı.",
-      "content": "CHICAGO — Chicago Ticaret Borsası’nda (CBOT) mısır vadeli kontratları haftanın ilk işlem gününde yükselişle işlem gördü. 17 Ağustos 2026 Pazartesi günü saat 13.17 itibarıyla ana vadelerde fiyatlar 4,75 ila 5,50 sent/bushel arasında yükseldi.\n\nEylül 2026 vadeli mısır kontratı 4,63 dolar/bushel seviyesine yükselirken, Aralık 2026 kontratı 4,88 dolar/bushel, Mart 2027 kontratı 5,04 dolar/bushel, Mayıs 2027 kontratı ise 5,12 dolar/bushel seviyesine çıktı.\n\nAralık 2026 kontratındaki yükseliş 5,50 sent/bushel ile öne çıkarken, Mart 2027 kontratı 5,25 sent/bushel, Mayıs 2027 kontratı ise 5,50 sent/bushel değer kazandı.\n\nABD üretim beklentisi fiyatları destekliyor\n\nMısır vadeli fiyatlarındaki yükselişte, ABD Tarım Bakanlığı’nın (USDA) geçen hafta açıkladığı üretim ve stok tahminleri etkili oldu.\n\nUSDA, 2026 yılı için ABD’de ortalama mısır verimi tahminini daha önceki 183 bushel/akr seviyesinden 180,7 bushel/akr seviyesine düşürdü. Yeni tahmin, analistlerin 182,4 bushel/akr olan ortalama beklentisinin de altında kaldı.\n\nUSDA ayrıca 2027 yılı mısır stokları tahminini aşağı çekerken, güçlü ihracat talebinin devam etmesini bekledi.\n\nPiyasada farklı yönlü baskılar bulunuyor\n\nMısır fiyatlarındaki yükselişe rağmen piyasada farklı yönlü gelişmeler de izleniyor. Buğday vadeli kontratlarındaki zayıflık mısır fiyatları üzerinde baskı oluştururken, ham petrol fiyatlarındaki yükseliş destekleyici unsur olarak öne çıktı.\n\nHam petrol fiyatlarının, Orta Doğu’daki çatışmanın çözümüne yönelik diplomatik girişimlerde ilerleme sağlanamaması nedeniyle yükseldiği belirtildi.\n\nKaradeniz’de deniz taşımacılığında yaşanan aksaklıklar da tarımsal emtia piyasalarının izlediği başlıca gelişmeler arasında bulunuyor.\n\nBrezilya’da mısır fiyatları da yükseldi\n\nBrezilya’nın B3 Borsası’nda da mısır vadeli kontratlarının çoğu haftanın ilk işlem gününde yükseldi. Brasília saatiyle 13.28 itibarıyla ana vadelerde fiyatlar 70,03-79,04 Brezilya reali aralığında işlem gördü.\n\nEylül 2026 vadeli mısır kontratı 70,03 real seviyesinde yüzde 0,24 gerilerken, Ocak 2027 kontratı 77,57 real seviyesinde yüzde 0,23 yükseldi.\n\nMart 2027 kontratı 79,04 real seviyesine yüzde 0,44, Mayıs 2027 kontratı ise 77,76 real seviyesine yüzde 0,27 yükseldi.\n\nBrezilya piyasasında vadeler arasındaki fiyat hareketlerinin farklılaşması, küresel mısır piyasasında arz, talep ve üretim beklentilerinin birlikte takip edildiğini gösteriyor.\n\nTARIM PUSULASI HABER MERKEZİ"
+      "content": "CHICAGO — Chicago Ticaret Borsası’nda (CBOT) mısır vadeli kontratları haftanın ilk işlem gününde yükselişle işlem gördü. 17 Ağustos 2026 Pazartesi günü Brezilya saatiyle 13.17 itibarıyla ana vadelerde fiyatlar 4,75 ila 5,50 sent/bushel (0,1870-0,2165 sent/kg) arasında yükseldi.\n\nEylül 2026 vadeli mısır kontratı 4,63 dolar/bushel (0,1823 dolar/kg) seviyesine yükselirken, Aralık 2026 kontratı 4,88 dolar/bushel (0,1921 dolar/kg), Mart 2027 kontratı 5,04 dolar/bushel (0,1984 dolar/kg), Mayıs 2027 kontratı ise 5,12 dolar/bushel (0,2016 dolar/kg) seviyesinde işlem gördü.\n\nAralık 2026 kontratındaki yükseliş 5,50 sent/bushel (0,2165 sent/kg) ile öne çıkarken, Mart 2027 kontratı 5,25 sent/bushel (0,2067 sent/kg), Mayıs 2027 kontratı ise 5,50 sent/bushel (0,2165 sent/kg) değer kazandı.\n\nABD üretim beklentisi fiyatları destekliyor\n\nMısır vadeli fiyatlarındaki yükselişte, ABD Tarım Bakanlığı’nın (USDA) geçen hafta açıkladığı üretim ve stok tahminleri etkili oldu. USDA, 2026 yılı için ABD’de ortalama mısır verimi tahminini daha önceki 183 bushel/akr (11.486,4 kg/dekar) seviyesinden 180,7 bushel/akr (11.342 kg/dekar) seviyesine düşürdü.\n\nYeni tahmin, analistlerin 182,4 bushel/akr (11.448,7 kg/dekar) olan ortalama beklentisinin de altında kaldı. USDA'nın 180,7 bushel/akr tahmini ve önceki 183 bushel/akr seviyesi güncel tarım piyasası raporlarında da yer alıyor.\n\nUSDA ayrıca 2027 yılı mısır stokları tahminini aşağı çekerken, güçlü ihracat talebinin devam etmesini bekledi. Kurumun tahminlerine göre 2026/27 sezonu sonunda ABD mısır stokları 1,653 milyar bushel seviyesine geriledi.\n\nPiyasada farklı yönlü baskılar bulunuyor\n\nMısır fiyatlarındaki yükselişe rağmen piyasada farklı yönlü gelişmeler de izleniyor. Buğday vadeli kontratlarındaki zayıflık mısır fiyatları üzerinde baskı oluştururken, ham petrol fiyatlarındaki yükseliş destekleyici unsur olarak öne çıktı.\n\nKaradeniz’de deniz taşımacılığında yaşanan aksaklıklar da tarımsal emtia piyasalarının izlediği başlıca gelişmeler arasında bulunuyor.\n\nBrezilya’da mısır fiyatları da yükseldi\n\nBrezilya’nın B3 Borsası’nda da mısır vadeli kontratlarının çoğu haftanın ilk işlem gününde yükseldi. Brezilya saatiyle 13.28 itibarıyla ana vadelerde fiyatlar 70,03-79,04 Brezilya reali (13,31-15,02 dolar) aralığında işlem gördü.\n\nEylül 2026 vadeli mısır kontratı 70,03 Brezilya reali (13,31 dolar) seviyesinde yüzde 0,24 gerilerken, Ocak 2027 kontratı 77,57 Brezilya reali (14,74 dolar) seviyesinde yüzde 0,23 yükseldi.\n\nMart 2027 kontratı 79,04 Brezilya reali (15,02 dolar) seviyesine yüzde 0,44, Mayıs 2027 kontratı ise 77,76 Brezilya reali (14,77 dolar) seviyesine yüzde 0,27 yükseldi.\n\nBrezilya piyasasında vadeler arasındaki fiyat hareketlerinin farklılaşması, küresel mısır piyasasında arz, talep ve üretim beklentilerinin birlikte takip edildiğini gösteriyor.\n\nTARIM PUSULASI HABER MERKEZİ"
     },
     {
       "title": "Diyarbakır Tarım ve Orman İl Müdürü Adil Alan kimdir? Görevleri ve biyografisi",
@@ -332,6 +332,16 @@
   "errors": [
     "borsa 5ED10: fetch failed",
     "borsa 5KO10: fetch failed",
-    "borsa 5ES10: fetch failed"
+    "borsa 5ES10: fetch failed",
+    "mazot ANKARA: fetch failed",
+    "mazot ISTANBUL: fetch failed",
+    "mazot IZMIR: fetch failed",
+    "mazot KONYA: fetch failed",
+    "mazot ADANA: fetch failed",
+    "mazot BURSA: fetch failed",
+    "mazot ANTALYA: fetch failed",
+    "mazot SAMSUN: fetch failed",
+    "mazot TEKIRDAG: fetch failed",
+    "mazot CANAKKALE: fetch failed"
   ]
 }
