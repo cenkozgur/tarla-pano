@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-17T19:15:44.101Z",
+  "updatedAt": "2026-08-17T19:43:19.686Z",
   "fx": [
     {
       "code": "USD",
@@ -11,16 +11,16 @@
     {
       "code": "EUR",
       "name": "Euro",
-      "buy": 55.48,
-      "sell": 55.49,
-      "change": 0.07
+      "buy": 55.5,
+      "sell": 55.51,
+      "change": 0.11
     },
     {
       "code": "GRA",
       "name": "Gram Altın",
-      "buy": 6784.66,
-      "sell": 6785.64,
-      "change": 0.72
+      "buy": 6800.01,
+      "sell": 6800.84,
+      "change": 0.94
     },
     {
       "code": "CEYREKALTIN",
@@ -38,6 +38,14 @@
     }
   ],
   "news": [
+    {
+      "title": "Almanya’da sıcaklık ve kuraklık hasat riskini artırıyor",
+      "url": "https://www.tarimpusulasi.com/haber/almanyada-sicaklik-ve-kuraklik-hasat-riskini-artiriyor-47406",
+      "source": "Tarım Pusulası",
+      "date": "2026-08-17",
+      "summary": "Almanya’da aşırı sıcaklık ve yağış eksikliği tarımsal üretimi baskılarken, özellikle güney bölgelerinde bazı ürünlerde ciddi kayıp riski bulunuyor.",
+      "content": "BERLİN — Almanya’da anormal sıcaklık ve yağış eksikliği nedeniyle tarımsal üretimde ciddi riskler oluştu. Alman Çiftçiler Birliği Başkanı Joachim Rukwied, mevcut hava koşullarının özellikle ülkenin güney bölgelerinde bazı ürünlerde hasadın tamamen kaybedilmesine yol açabileceğini belirtti.\n\nRukwied, tarım sektörünün uzun yıllar ortalamasının oldukça altında bir hasat beklediğini ifade etti. Buğday ve kolza başta olmak üzere tahıllarda üretimin önemli ölçüde düşmesinin beklendiği, patates, sebze, şeker pancarı, mısır ve soyanın da olumsuz hava koşullarından etkilendiği bildirildi.\n\nGüney bölgelerinde durumun daha ağır olduğu ve bazı ürünlerde hiç hasat yapılamaması riskinin bulunduğu belirtildi. Kuzey bölgelerinde ise dönemsel yağışlar sayesinde ekili alanların durumunun şimdilik daha kabul edilebilir seviyede olduğu, ancak burada da üretimin normalin altında kalmasının beklendiği aktarıldı.\n\nTarım sektöründeki önemli sorunlardan biri de yem bitkilerindeki gelişimin durması oldu. Olumsuz hava koşulları yem stoklarının azalmasına neden olurken, bu durum hayvancılık işletmeleri üzerinde de baskı oluşturuyor.\n\nYem kaynaklarının azalması nedeniyle bazı hayvancılık işletmelerinin hayvanlarını planlanandan daha erken kesime göndermek zorunda kaldığı belirtildi.\n\nRukwied, tarımsal işletmelerin mali durumunu kritik olarak nitelendirdi. Üretim girdilerinin yüksek maliyetleri ile tarımsal ürün fiyatlarının düşük seyretmesinin işletmeler üzerindeki ekonomik baskıyı artırdığını belirten Rukwied, bazı üreticilerin bitki koruma ürünleri ve gübre faturalarını ödeyemediğini ve bunun sonucunda bankalara başvurmak zorunda kaldığını söyledi.\n\nTarım sektöründeki likidite ihtiyacının yüksek olduğu ifade edilirken, mevcut koşulların hem üretim maliyetleri hem de tarımsal ürün fiyatları açısından işletmeleri zorladığı kaydedildi.\n\nAlman tarım sektörü, mevcut durumun daha da ağırlaşmasını önlemek amacıyla Almanya Federal Hükümeti ve Avrupa Birliği’nden acil önlem alınmasını istiyor.\n\nÇiftçilerin talepleri arasında Avrupa Birliği’nin gübre alımlarına yönelik yardım fonunun 60 milyon avrodan 180 milyon avroya çıkarılması, çiftçilere ödenen doğrudan desteklerin yüzde 80’inin ekim ayında öne çekilerek ödenmesi ve dizel yakıt vergilerinin en az kasım sonuna kadar düşürülmesi bulunuyor.\n\nTarım sektöründe iklim değişikliğine uyum çalışmalarının uzun süredir devam ettiği belirtilirken, mevcut koşullar karşısında sıcaklığa daha dayanıklı ürün çeşitlerinin hızla geliştirilmesi ve kullanılmasının gerekli olduğu vurgulanıyor.\n\nTARIM PUSULASI HABER MERKEZİ"
+    },
     {
       "title": "Chicago Borsası’nda mısır fiyatları haftaya yükselişle başladı",
       "url": "https://www.tarimpusulasi.com/haber/chicago-borsasinda-misir-fiyatlari-haftaya-yukselisle-basladi-47405",
@@ -125,14 +133,6 @@
       "date": "2026-08-17",
       "summary": "Küresel tarım piyasalarında gübre maliyetleri açısından yeni bir risk başlığı öne çıkıyor. Basra Körfezi ve Hürmüz Boğazı çevresinde yaşanabilecek arz ve lojistik sorunlarının azotlu gübre fiyatlarını yukarı çekebileceği belirtilirken, El Niño kaynaklı olası hava anomalileri de tarımsal üretim üzeri",
       "content": "Haber Merkezi / Dünya tarım piyasalarında üreticinin maliyetini ve ürün fiyatlarını doğrudan etkileyebilecek iki önemli risk aynı dönemde gündeme geldi.\n\nBasra Körfezi'ndeki jeopolitik gerilim, küresel gübre üretimi ve ticareti açısından endişeleri artırırken, Pasifik Okyanusu'nda gelişebilecek El Niño koşulları da tarımsal üretimde verim kayıpları riskini beraberinde getiriyor.\n\nİki riskin aynı dönemde güçlenmesi halinde tarım sektörü bir taraftan yüksek gübre maliyeti, diğer taraftan kuraklık, aşırı sıcaklık ve düzensiz yağışlar ile karşı karşıya kalabilir.\n\nHürmüz'deki gelişmeler neden gübre piyasasını ilgilendiriyor?\n\nBasra Körfezi’ndeki çatışmalar ve yaklaşan El Niño, dünya gübre piyasasını sarsıyor. Bu gelişmeler sadece uzak ülkeleri değil, bizim tarlamızı, maliyetimizi ve hasadımızı da doğrudan ilgilendiriyor.\n\nAzotlu gübre (üre başta olmak üzere) mısır, buğday ve pirinç için hayati. Ekim zamanında toprağa verilmezse verim düşer; sonradan atmak fayda etmez, hatta zarar verebilir. Küresel ürenin üçte birinden fazlası Basra Körfezi’nden geliyor. Hürmüz Boğazı’ndaki aksamalar ve tesis hasarları üretimi yavaşlatıyor, fiyatları yükseltiyor. Onarımlar 1-4 yıl, bazı doğal gaz tesisleri 3-5 yıl sürebilir. Bu süre boyunca gübre bulunabilirliği ve fiyatı belirsiz kalacak.\n\nTürkiye de azotlu gübrede ithalata bağımlı. Fiyatlar yükselince çiftçi üç yoldan birini seçmek zorunda kalıyor:\n\nDaha pahalı gübreyle üretimi sürdürmek,\n\nGübreyi azaltmak (verim kaybı riski),\n\nFarklı ürüne yönelmek.\n\nYüksek maliyetli bölgelerde gübre kullanımını kısmak en yaygın tercih oluyor. Bu da arzı düşürüyor ve gıda fiyatlarını yukarı çekiyor.\n\nÜstüne bir de El Niño geliyor. Pasifik’te ısınma, yağış düzenini bozuyor; kuraklık, sel ve aşırı sıcaklık riskini artırıyor. Özellikle tropikal ve gübre ithalatı yüksek ülkelerde (Hindistan, Brezilya gibi) verim kayıpları büyüyebilir. JPMorgan uzmanları, bu iki şokun birleşmesiyle 2027’nin ilk yarısına kadar gıda enflasyonunun yüzde 5’e çıkabileceğini, küresel gıda krizinin şekillendiğini uyarıyor. Risk pirinç, şeker, kahve ve kakaoda yoğunlaşıyor.\n\nBizim için ne anlama geliyor?\n\nGübre fiyatları ve bulunabilirliği ekim dönemlerini etkileyecek. Kış buğdayı, mısır ve diğer ürünlerde planlamayı şimdiden gözden geçirin. Yerel üreticilerle, kooperatiflerle ve alternatif girdilerle bağları güçlendirin. Maliyetleri kontrol altında tutmak ve verimi korumak için erken hareket şart.\n\nBu geçici bir dalga değil. Enerji şoku gübreyi, El Niño da verimi vurursa uzun süre baskı sürebilir. Gıda güvenliği ulusal güvenliktir. Hazırlıklı olan ayakta kalır."
-    },
-    {
-      "title": "TMO’dan üreticiye 120 milyar liralık ödeme! Bakan Yumaklı: Gelen ürünün tamamını alacağız",
-      "url": "https://www.tarimdanhaber.com/tmodan-ureticiye-120-milyar-liralik-odeme-bakan-yumakli-gelen-urunun-tamamini-alacagiz",
-      "source": "Tarımdan Haber",
-      "date": "2026-08-17",
-      "summary": "Tarım ve Orman Bakanı İbrahim Yumaklı, TMO’nun hasat sezonunun başlangıcından bu yana 769 alım merkezinde 11,5 milyon ton ürün aldığını ve üreticilere yaklaşık 120 milyar lira ödeme yaptığını açıkladı. Yumaklı, TMO’nun 20 milyon tonluk alım kapasitesine dikkat çekerek, “TMO’ya gelen ürünlerin tamamı",
-      "content": "Haber Merkezi / Toprak Mahsulleri Ofisi’nin (TMO) hububat alımları devam ederken, Tarım ve Orman Bakanı İbrahim Yumaklı alım miktarı ve üreticilere yapılan ödemelere ilişkin son rakamları açıkladı.\n\nBakan Yumaklı’nın verdiği bilgiye göre, hasat sezonunun başlangıcından bu yana Türkiye genelindeki 769 alım merkezinde toplam 11,5 milyon ton ürün alındı.\n\nBu alımlar karşılığında üreticilere yapılan ödeme ise yaklaşık 120 milyar liraya ulaştı.\n\nTMO’nun alım kapasitesi 20 milyon ton\n\nÜreticilerin emeğinin karşılığını zamanında alabilmesi amacıyla TMO’nun sahada güçlü bir alım organizasyonu yürüttüğünü belirten Yumaklı, kurumun 20 milyon ton ürün alım kapasitesine sahip olduğunu kaydetti.\n\nYumaklı, üreticilere şu mesajı verdi:\n\n“Değerli üreticilerimiz müsterih olsunlar. TMO’ya gelen ürünlerin tamamını alacağız. Alım faaliyetlerimiz hızla devam ediyor.”\n\nBöylece açıklanan 11,5 milyon tonluk alım miktarı, TMO’nun ifade edilen 20 milyon tonluk kapasitesinin yaklaşık yüzde 57,5’ine ulaşmış oldu.\n\n769 merkezde alımlar sürüyor\n\nTMO’nun ülke genelinde 769 alım merkezinde ürün kabul etmeyi sürdürdüğünü bildiren Yumaklı, “Hasat sezonu başından bugüne kadar 11,5 milyon ton ürün alındı. Üreticilerimize yaklaşık 120 milyar liralık ödeme yaptık” ifadelerini kullandı.\n\nAçıklanan rakamlara göre, alınan ürün miktarı üzerinden hesaplandığında üreticilere yapılan ödemenin ortalaması ton başına yaklaşık 10 bin 435 liraya karşılık geliyor.\n\nYumaklı’dan buğday ve arpa vurgusu\n\nHububatın Türkiye'nin gıda arz güvenliği açısından stratejik öneme sahip olduğunu belirten Bakan Yumaklı, özellikle buğday ve arpanın temel ürünler arasında bulunduğunu vurguladı.\n\nTürkiye’nin dünya un ihracatında birinci, makarna ihracatında ise ikinci sırada bulunduğunu hatırlatan Yumaklı, güçlü hububat üretiminin hem iç piyasanın ihtiyaçlarının karşılanması hem de ihracat açısından kritik olduğunu ifade etti.\n\nBakan Yumaklı, üreticilere ve TMO personeline teşekkür ederek, “Ülkemizin üretim gücüne katkı sunan tüm üreticilerimize emekleri ve gayretleri için teşekkür ediyorum. Alım organizasyonunu sahada titizlikle sürdüren TMO mensuplarımızı da özverili çalışmaları dolayısıyla kutluyorum” dedi."
     }
   ],
   "commoditiesByBorsa": {
@@ -328,20 +328,5 @@
   "defaultBorsa": "5ED10",
   "defaultCity": "CANAKKALE",
   "note": "Fiyatlar TOBB ticaret borsasından (borsa seçilebilir). Kanola manuel (Trakya 2025).",
-  "inputsNote": "Mazot: akaryakıt bayi fiyatı, günlük (şehir seçilebilir). Gübre: manuel (yaklaşık).",
-  "errors": [
-    "borsa 5ED10: fetch failed",
-    "borsa 5KO10: fetch failed",
-    "borsa 5ES10: fetch failed",
-    "mazot ANKARA: fetch failed",
-    "mazot ISTANBUL: fetch failed",
-    "mazot IZMIR: fetch failed",
-    "mazot KONYA: fetch failed",
-    "mazot ADANA: fetch failed",
-    "mazot BURSA: fetch failed",
-    "mazot ANTALYA: fetch failed",
-    "mazot SAMSUN: fetch failed",
-    "mazot TEKIRDAG: fetch failed",
-    "mazot CANAKKALE: fetch failed"
-  ]
+  "inputsNote": "Mazot: akaryakıt bayi fiyatı, günlük (şehir seçilebilir). Gübre: manuel (yaklaşık)."
 }
