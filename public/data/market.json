@@ -1,43 +1,59 @@
 {
-  "updatedAt": "2026-08-17T10:05:34.039Z",
+  "updatedAt": "2026-08-17T10:48:27.002Z",
   "fx": [
     {
       "code": "USD",
       "name": "Dolar",
-      "buy": 47.9,
-      "sell": 47.9,
+      "buy": 47.89,
+      "sell": 47.91,
       "change": 0.05
     },
     {
       "code": "EUR",
       "name": "Euro",
-      "buy": 55.58,
-      "sell": 55.59,
-      "change": 0.26
+      "buy": 55.57,
+      "sell": 55.58,
+      "change": 0.23
     },
     {
       "code": "GRA",
       "name": "Gram Altın",
-      "buy": 6766.44,
-      "sell": 6767.42,
-      "change": 0.45
+      "buy": 6774.16,
+      "sell": 6775.05,
+      "change": 0.56
     },
     {
       "code": "CEYREKALTIN",
       "name": "Çeyrek Altın",
-      "buy": 10773.86,
-      "sell": 11022,
-      "change": 0.94
+      "buy": 10777.7,
+      "sell": 11025.93,
+      "change": 0.97
     },
     {
       "code": "CUMHURIYETALTINI",
       "name": "Cumhuriyet Altını",
-      "buy": 44654,
-      "sell": 45329,
-      "change": 0.56
+      "buy": 44696,
+      "sell": 45371,
+      "change": 0.65
     }
   ],
   "news": [
+    {
+      "title": "Kazakistan’da buğday fiyatları Rusya kaynaklı baskıyla düştü",
+      "url": "https://www.tarimpusulasi.com/haber/kazakistanda-bugday-fiyatlari-rusya-kaynakli-baskiyla-dustu-47403",
+      "source": "Tarım Pusulası",
+      "date": "2026-08-17",
+      "summary": "Kazakistan’da yeni hasadın piyasaya girmesi, ihracatın yavaşlaması ve Rus buğdayı arzındaki artış fiyatları aşağı çekti. Bazı buğday sınıflarında haftalık düşüş 13 bin tengeye (28,6 dolar) ulaştı.",
+      "content": "ASTANA — Kazakistan’da buğday fiyatları, yeni hasadın piyasaya girmesi, ihracat sevkiyatlarının düşük seyretmesi ve Rus buğdayı arzındaki artışın oluşturduğu baskıyla geriledi. Ülkede bazı buğday sınıflarında haftalık fiyat düşüşü ton başına 13 bin tengeye (28,6 dolar) kadar çıktı.\n\nKazakistan’da iç piyasadaki buğday fiyatlarında geçen hafta ürünün sınıfı ve gluten oranına göre ton başına 6 bin ila 13 bin tenge (13,2-28,6 dolar) arasında düşüş yaşandı.\n\nGluten oranı yüzde 28-29 olan 3. sınıf buğdayın fiyatı ton başına 6 bin tenge (13,2 dolar) gerileyerek 105-110 bin tenge (231-242 dolar) seviyesine indi.\n\nGluten oranı yüzde 30 ve üzerindeki 3. sınıf buğdayın fiyatı 9 bin tenge (19,8 dolar) düşerek 110-115 bin tenge (242-253 dolar) aralığına geldi.\n\nGluten oranı yüzde 23-24 olan 3. sınıf buğdayın fiyatı ton başına 10 bin tenge (22 dolar) gerileyerek 92-96 bin tenge (202,4-211,2 dolar) seviyesine düştü. Yüzde 25-26 gluten içeren 3. sınıf buğdayın fiyatı 93-97 bin tenge (204,6-213,4 dolar), yüzde 27 gluten içeren buğdayın fiyatı ise 101-105 bin tenge (222,2-231 dolar) aralığında oluştu.\n\nsınıf buğdayın fiyatı ton başına 13 bin tenge (28,6 dolar) düşüşle 86-90 bin tenge (189,2-198 dolar) seviyesine geriledi. 5. sınıf buğdayın fiyatı da aynı miktardaki düşüşün ardından 82-86 bin tenge (180,4-189,2 dolar) aralığına indi.\n\nArpa fiyatları da geriledi\n\nKazakistan iç piyasasında arpa fiyatlarında da düşüş görüldü. Arpanın ton fiyatı bir haftada 5 bin tenge (11 dolar) gerileyerek 60-65 bin tenge (132-143 dolar) seviyesine geldi.\n\nArpa fiyatlarındaki düşüşte yeni mahsul arzının artması ve ihracatçı talebinin yüksek olmaması etkili oldu.\n\nRus buğdayı ihracat fiyatlarını baskılıyor\n\nKazakistan’ın ihracata yönelik buğday fiyatlarında da tüm ürün gruplarında gerileme yaşandı. Saryagash teslim şartlarında gluten oranı yüzde 23-24 olan 3. sınıf buğdayın fiyatı ton başına 6 dolar düşerek 251-255 dolar aralığına indi.\n\nGluten oranı yüzde 25-26 olan 3. sınıf buğdayın fiyatı 5 dolar düşüşle 255-260 dolar, yüzde 27 gluten içeren buğdayın fiyatı 260-265 dolar, yüzde 28-29 gluten içeren buğdayın fiyatı 275-280 dolar, yüzde 30 ve üzeri gluten içeren buğdayın fiyatı ise 290-295 dolar seviyesine geriledi.\n\nsınıf buğdayın ihracat fiyatı ton başına 4 dolar düşüşle 238-243 dolar, 4. sınıf buğdayın fiyatı ise 3 dolar düşüşle 245-250 dolar aralığına geldi.\n\nKazakistan Tahıl Birliği Analiz Komitesi Başkanı Yevgeniy Karabanov, Rusya’nın güneyi ve Volga bölgesindeki iyi hasadın yanı sıra Karadeniz’deki gerilimin artması ve rublenin zayıflamasının Rusya’daki buğday fiyatları üzerinde aşağı yönlü baskı oluşturduğunu belirtti.\n\nRus buğdayına yönelik tekliflerin hem Kazakistan hem de Orta Asya piyasalarında arttığı ifade edildi.\n\nArpa ihracat fiyatlarında da düşüş var\n\nKazakistan’ın arpa ihracat fiyatlarında da tüm yönlerde gerileme yaşandı.\n\nDostık/Altynkol teslim şartlarında arpa fiyatı ton başına 5 dolar düşüşle 195-200 dolar, Saryagash tesliminde 10 dolar düşüşle 190-195 dolar oldu.\n\nFOB Aktau teslim şartlarında ise arpa fiyatı ton başına 25 dolar gerileyerek 195-200 dolar seviyesine indi.\n\nArpa fiyatlarındaki düşüşte Rusya’da yeni mahsul arpa arzının artması ve İran’a yönelik arzın yükselmesi etkili olurken, Çin’de yemlik tahıl hasadının gerçekleşmesiyle bu pazardaki talebin zayıflaması da fiyatlar üzerinde baskı oluşturdu.\n\nYeni hasat arz baskısını artırıyor\n\nKazakistan’da hasat ilerledikçe buğday ve yağlı tohumların iç piyasadaki arzının artması bekleniyor.\n\nRusya’da buğday hasadının yoğunlaşmasıyla birlikte Rus buğdayı fiyatlarının gerilemesi ve Kazakistan ile Orta Asya piyasalarına yönelik tekliflerin artması, Kazakistan’daki tahıl ve yağlı tohum fiyatları üzerindeki baskının önümüzdeki dönemde güçlenebileceğine işaret ediyor.\n\nTARIM PUSULASI HABER MERKEZİ"
+    },
+    {
+      "title": "Rusya’nın Türkiye’ye buğday ihracatı 2,2 kat arttı",
+      "url": "https://www.tarimpusulasi.com/haber/rusyanin-turkiyeye-bugday-ihracati-22-kat-artti-47402",
+      "source": "Tarım Pusulası",
+      "date": "2026-08-17",
+      "summary": "Rusya’nın 2025/26 tarım sezonunda Türkiye’ye buğday ihracatı yaklaşık 7,3 milyon tona yükseldi. Sevkiyat bir önceki sezona göre 2,2 kat artarken, Rusya toplam 46,5 milyon tonluk ihracatla dünya liderliğini korudu.",
+      "content": "MOSKOVA — Rusya, 2025/26 sezonunda yaklaşık 46,5 milyon ton buğday ihracatı gerçekleştirerek önemli buğday ihracatçıları arasındaki liderliğini korudu. USDA değerlendirmelerine göre Avrupa Birliği 31,5 milyon tonla ikinci, Kanada ise 29,6 milyon tonla üçüncü sırada yer aldı.\n\nRusya’nın ihracattaki konumunu korumasında 2025 yılında buğday üretimindeki artışın yanı sıra geleneksel pazarlardaki talep yükselişi etkili oldu. Rusya’nın 2025 yılı buğday üretimi 91,1 milyon tona ulaşırken, bu miktar 2024 yılına göre 8,5 milyon ton arttı.\n\nTürkiye ve Sudan’dan Rus buğdayına talep arttı\n\nRusya’nın 2025/26 sezonundaki buğday ihracatında Türkiye ve Sudan öne çıkan pazarlar arasında yer aldı.\n\nTürkiye’ye yapılan buğday ihracatı yaklaşık 7,3 milyon tona yükseldi. Böylece Türkiye’ye sevkiyat, 2024/25 sezonuna göre 2,2 kat arttı.\n\nSudan’a yapılan ihracat ise yaklaşık 2,2 milyon tona ulaştı ve önceki sezona göre 2 kat artış gösterdi.\n\nRus buğdayının diğer önemli ticaret ortakları arasında da alımlarını artıran ülkeler bulundu. Mısır’ın Rusya’dan buğday alımı yüzde 6, İsrail’in alımı ise yüzde 21 arttı.\n\nIrak’a ihracatta rekor\n\n2025/26 sezonunda Rus buğdayı açısından öne çıkan gelişmelerden biri de Irak pazarındaki artış oldu.\n\nIrak’a sezon boyunca yaklaşık 560 bin ton buğday gönderildi. Bu miktar, bir önceki sezondaki 82 bin tonluk ihracatın oldukça üzerine çıktı.\n\nBöylece Irak’a Rus buğdayı ihracatı yaklaşık 478 bin ton arttı ve miktar bazında yaklaşık 6,8 katına yükseldi.\n\n2025/26 sezonunda Irak’a gerçekleştirilen sevkiyat, Rus buğdayının bu pazardaki ihracatında şimdiye kadarki en yüksek seviyeye ulaştı.\n\nTARIM PUSULASI HABER MERKEZİ"
+    },
     {
       "title": "Rusya’nın makarna ihracatı 7 ayda 112 milyon dolara ulaştı",
       "url": "https://www.tarimpusulasi.com/haber/rusyanin-makarna-ihracati-7-ayda-112-milyon-dolara-ulasti-47401",
@@ -109,22 +125,6 @@
       "date": "2026-08-16",
       "summary": "Japonya Hükümeti, Nijerya’nın pirinç tohumu üretim altyapısını güçlendirmek için 587 milyon yenlik hibe sağladı. Proje kapsamında Ulusal Hububat Araştırma Enstitüsüne 20 traktör ve farklı tarımsal ekipmanlar kazandırılacak.",
       "content": "BADEGGİ, NİJERYA — Japonya Hükümeti, Nijerya’nın pirinç tohumu üretim kapasitesini güçlendirmek ve çiftçilere ulaştırılan sertifikalı tohumların kalitesini artırmak amacıyla 587 milyon Japon yeni tutarında hibe sağladı.\n\nJaponya’nın Nijerya Büyükelçisi Hideo Suzuki tarafından Badeggi’de düzenlenen proje başlangıç töreninde duyurulan destek, “Pirinç Tohumu Üretim Sisteminin Güçlendirilmesi Projesi” kapsamında kullanılacak. JICA’nın resmi proje kayıtlarında da projenin hibe tutarı 587 milyon yen olarak yer alıyor. Projenin uygulama dönemi Nisan 2024-Kasım 2026 olarak belirtiliyor.\n\n20 traktör ve farklı tarım makineleri alınacak\n\nDestek kapsamında Nijerya Ulusal Hububat Araştırma Enstitüsünün (NCRI) pirinç tohumu üretim kapasitesinin geliştirilmesi hedefleniyor.\n\nJICA verilerine göre proje kapsamında;\n\n20 orta büyüklükte traktör,\n\n3 çeltik dikim makinesi,\n\n4 küçük biçerdöver,\n\n2 ekskavatör,\n\n4 sabit sıcaklıklı çimlenme test cihazı,\n\n3 otomatik meteoroloji gözlem sistemi ve\n\n7 küçük düz yataklı kurutma makinesi\n\ntemin edilecek.\n\nJaponya’nın Nijerya Büyükelçiliği de desteğin NCRI ve bağlı birimlerinde pirinç yetiştiriciliği, üretim, test ve hasat sonrası işlemlerde kullanılacak ekipmanların teminine yönelik olduğunu doğruluyor. Projenin özellikle ıslahçı tohumu ve temel tohumların kalitesini geliştirmesi hedefleniyor.\n\nHedef, sertifikalı tohum kalitesini yükseltmek\n\nProjenin temel hedefi yalnızca tarımsal makine kullanımını artırmak değil. Japonya ve JICA, NCRI'nin daha kaliteli ıslahçı ve temel tohum üretme kapasitesini geliştirerek Nijerya'da çiftçilere ulaştırılan sertifikalı pirinç tohumlarının kalitesinin yükseltilmesini amaçlıyor.\n\nJaponya’nın desteği, Nijerya’nın 2030 yılına kadar pirinç üretimini iki katına çıkarma hedefiyle de bağlantılı. Japonya Büyükelçiliği, projenin bu hedef doğrultusunda pirinç tohumu üretim sisteminin güçlendirilmesine katkı sağlayacağını belirtiyor.\n\nNijerya’da verim ve üretim hedefi gündemde\n\nNijerya’da pirinç üretiminin artırılması, artan iç talebin karşılanması açısından önemli bir politika başlığı olmaya devam ediyor.\n\nUSDA verilerini aktaran 2025 tarihli raporlarda Nijerya’nın 2025/26 pazarlama yılında pirinç üretiminin 8,7 milyon ton seviyesinde gerçekleşmesinin beklendiği ve bunun 2024/25 için öngörülen 9,2 milyon tona göre yaklaşık %5 düşüş anlamına geldiği belirtiliyor.\n\nNijerya’nın 2020/21 dönemindeki yaklaşık 8,1 milyon tonluk üretim seviyesiyle karşılaştırıldığında ise 8,7 milyon tonluk tahmin yaklaşık %7,4 artışa karşılık geliyor. Ancak bu artış, ülkenin 2030 yılına kadar üretimi iki katına çıkarma hedefinin gerisinde kalan bir seyir gösteriyor.\n\nJICA da Nijerya’da artan pirinç talebine karşı üretimin yeterince hızlı artmadığına ve ülkenin 2030’a kadar yerli pirinç üretimini iki katına çıkarma hedefi bulunduğuna dikkat çekiyor.\n\nVerimlilikte önemli fark bulunuyor\n\nNijerya’da pirinç veriminin artırılması da üretim hedefinin önemli unsurlarından biri.\n\nUSDA'nın Nijerya için yayımladığı güncel üretim verilerinde 2024/25 döneminde ortalama pirinç verimi yaklaşık 2,03 ton/hektar, 2025/26 için ise 1,96 ton/hektar olarak gösteriliyor.\n\nBu nedenle kaynak metindeki “dünya ortalaması yaklaşık 3 ton/hektar” karşılaştırması haberde kullanılmadı. FAOSTAT verilerine dayanan güncel kaynaklarda dünya genelinde pirinç verimi 2022 yılında yaklaşık 4,7 ton/hektar seviyesinde bulunuyor.\n\nBu tablo, Nijerya açısından yalnızca ekim alanını genişletmenin değil; kaliteli tohum, sulama, mekanizasyon, üretim teknolojileri ve tarımsal araştırma kapasitesinin geliştirilmesinin de önemini ortaya koyuyor.\n\nTohum desteği tek başına yeterli olmayabilir\n\nNijerya'nın pirinç üretimindeki sorunlar yalnızca tohum kalitesiyle sınırlı değil. Sektör temsilcileri daha önce üretimin bazı bölgelerdeki güvenlik sorunları, yetersiz sulama ve mekanizasyon kullanımının sınırlı olması nedeniyle baskı altında kaldığına dikkat çekmişti. RIMAN Başkanı Peter Dama da pirinç sektöründe güvenlik, yetersiz sulama ve mekanizasyon eksikliğini temel sorunlar arasında sıralamıştı.\n\nDolayısıyla Japonya'nın sağladığı 587 milyon yenlik destek, Nijerya'nın pirinç üretimini artırmaya yönelik daha geniş politika ve yatırımların bir parçası olarak değerlendiriliyor. Projenin özellikle tohum üretim altyapısını ve sertifikalı tohum kalitesini güçlendirmesi bekleniyor.\n\nTARIM PUSULASI HABER MERKEZİ"
-    },
-    {
-      "title": "Rusya’nın buğday ihracatı ağustosta son 10 yılın dibinde",
-      "url": "https://www.tarimpusulasi.com/haber/rusyanin-bugday-ihracati-agustosta-son-10-yilin-dibinde-47395",
-      "source": "Tarım Pusulası",
-      "date": "2026-08-16",
-      "summary": "Rusya’nın buğday ihracatının ağustosta 3–3,4 milyon ton seviyesinde kalması bekleniyor. SovEcon tahmini, geçen yılın aynı ayındaki 4,5 milyon tonluk ihracatın ve farklı yıllardaki 5 milyon tonluk ortalamanın oldukça altında bulunuyor.",
-      "content": "MOSKOVA — Rusya’nın buğday ihracatının ağustos ayında 3–3,4 milyon ton seviyesinde gerçekleşebileceği tahmin ediliyor. Tarım piyasaları danışmanlık şirketi SovEcon’un değerlendirmesine göre bu miktar, geçen yılın ağustos ayındaki 4,5 milyon tonluk ihracatın 1,1–1,5 milyon ton altında kalacak.\n\nSovEcon’un tahmini, ağustos ayları için farklı yıllarda hesaplanan 5 milyon tonluk ortalama ihracatın da 1,6–2 milyon ton altında bulunuyor. Bu tablo, Rusya’nın ağustos ayı buğday ihracatının son 10 yılın en düşük seviyesine gerileyebileceğine işaret ediyor.\n\nTemmuz ihracatı da ortalamanın altında kaldı\n\nRusya’nın temmuz ayındaki buğday ihracatı ise 1,6 milyon ton olarak gerçekleşti. SovEcon verilerine göre bu miktar, temmuz ayları için verilen 3,1 milyon tonluk ortalamanın 1,5 milyon ton altında kaldı.\n\nBöylece temmuz ihracatı ortalamanın yaklaşık yarısına gerilerken, ağustos için de geçen yılın ve uzun dönem ortalamasının altında bir ihracat beklentisi oluştu.\n\nHasat iç piyasadaki fiyatları baskılıyor\n\nRusya’da buğday hasadının devam etmesinin iç piyasadaki arz baskısını artırdığı belirtiliyor. SovEcon’a göre ruble cinsinden buğday fiyatları son bir haftada ton başına 350–450 ruble daha geriledi.\n\nPiyasada talebin sınırlı olduğu ifade edilirken, Rus rublesindeki değer kaybı ve yükleme için bekleyen gemi sayısındaki belirgin artış da piyasadaki gelişmeler arasında gösteriliyor.\n\nBu gelişmeler, hasat döneminde artan ürün arzının ihracat temposundaki zayıflamayla birlikte Rusya iç piyasasında fiyatlar üzerinde baskı oluşturduğunu gösteriyor.\n\nİhracatta 5–10 milyon tonluk kayıp riski\n\nSovEcon Direktörü Andrey Sizov, Azak-Karadeniz havzasındaki durumun değişmemesi halinde Rusya’nın yıl sonuna kadar 5–10 milyon ton arasında buğday ihracatı kaybedebileceği tahmininde bulundu.\n\nBu tahmin gerçekleşirse Rusya’nın küresel buğday ticaretindeki ihracat hacmi açısından önemli bir kayıpla karşılaşabileceği öngörülüyor. Ancak söz konusu rakam, mevcut koşulların devam etmesine bağlı bir tahmin niteliğinde bulunuyor.\n\nTürkiye açısından neden önemli?\n\nRusya, küresel buğday ticaretinde önemli ihracatçılar arasında yer aldığı için Rusya’nın ihracat temposundaki değişimler uluslararası hububat piyasalarının yakından takip ettiği gelişmeler arasında bulunuyor.\n\nBu nedenle ağustos ayında beklenen 3–3,4 milyon tonluk ihracat, geçen yılki 4,5 milyon tonluk seviyeye ve farklı yıllardaki 5 milyon tonluk ortalamaya kıyasla Rusya’nın ihracat akışında belirgin bir yavaşlamaya işaret ediyor.\n\nBununla birlikte, haberin dayandığı SovEcon değerlendirmesinde Rusya’nın ihracatındaki gerilemenin temel nedeni olarak tek bir faktör gösterilmiyor; Azak-Karadeniz havzasındaki koşulların değişmemesi, yıl sonuna ilişkin ihracat kaybı tahmininin temel koşulu olarak belirtiliyor.\n\nTARIM PUSULASI HABER MERKEZİ"
-    },
-    {
-      "title": "Mısır fiyatlarında iki risk: Üretici “sentetik PUT”a yöneldi",
-      "url": "https://www.tarimpusulasi.com/haber/misir-fiyatlarinda-iki-risk-uretici-sentetik-puta-yoneldi-47394",
-      "source": "Tarım Pusulası",
-      "date": "2026-08-16",
-      "summary": "Avrupa ve Brezilya’daki hava koşulları ile Karadeniz’deki lojistik gelişmeler, mısır fiyatlarında birbirine zıt iki senaryoyu gündeme getiriyor. Fiyatların sert düşmesi veya yükselmesi ihtimaline karşı geliştirilen “sentetik PUT” stratejisi ise üreticiye düşüşte fiyat tabanı oluştururken olası yükse",
-      "content": "ROSARIO — Mısır fiyatlarında önümüzdeki döneme ilişkin iki zıt senaryo öne çıkıyor. Avrupa’da üretimin sert şekilde düşmesi, Brezilya’da olumsuz hava koşullarının etkili olması ve Karadeniz’deki lojistik sorunların 2027’ye kadar sürmesi halinde fiyatların yükselmesi beklenirken; Avrupa’da kuraklığın üretimi fazla etkilememesi, Brezilya’nın ana tarım bölgesinde yeterli yağış alınması ve Rusya ile Ukrayna arasında yeni bir lojistik anlaşma sağlanması durumunda fiyatların sert gerilemesi ihtimali bulunuyor.\n\nBu belirsizlik ortamında mısır üreticileri açısından temel sorun, fiyatların hangi yönde hareket edeceğini önceden bilemeden satış fiyatını planlayabilmek. Bu nedenle fiyat düşüşüne karşı korunurken olası yükselişlerden de yararlanmayı hedefleyen “sentetik PUT” stratejisi gündeme geliyor.\n\nİki farklı fiyat senaryosuna karşı korunma\n\nMısır fiyatlarının yükselmesi durumunda üretici daha yüksek gelir elde edebilirken, sert düşüşler üretim döneminde yapılan maliyet hesaplarını ve beklenen kârlılığı olumsuz etkileyebiliyor.\n\nFiyat düşüşü riskine karşı kullanılan temel yöntemlerden biri PUT opsiyonu satın almak. PUT, belirli bir fiyattan satış yapma hakkı sağlayarak fiyatın düşmesine karşı bir taban oluşturmayı amaçlıyor. Bunun karşılığında opsiyonu satın alan taraf prim ödüyor.\n\n“Sentetik PUT” stratejisinde ise farklı bir yapı kullanılıyor. Üretici gelecekteki satış işlemiyle kendisine bir fiyat tabanı oluştururken, aynı zamanda CALL opsiyonu satın alıyor.\n\nCALL opsiyonu yükseliş fırsatını koruyor\n\nCALL opsiyonu, alıcısına belirli bir kullanım fiyatından vadeli işlem kontratını satın alma hakkı veriyor ancak bu hakkı kullanma zorunluluğu getirmiyor. Bu hak karşılığında prim ödeniyor.\n\nÖrneğin mısır fiyatının belirlenen seviyenin üzerine çıkması halinde CALL opsiyonu, üreticinin fiyat artışından yararlanmasına imkan sağlayabiliyor. Fiyat yükselmezse opsiyon kullanılmayabiliyor ve ödenen prim işlem maliyeti olarak kalıyor.\n\nBu nedenle sentetik PUT stratejisinin temel mantığı, fiyat düşüşüne karşı bir taban oluştururken fiyat yükselirse bu artıştan yararlanma imkanını korumak olarak özetlenebilir.\n\nNisan 2027 Rosario mısırı için 195,5 dolar tabanı\n\nCeres Tolvas Tahıl Masası Müdürü Nicolás Juan Cruz Daulerio, 14 Ağustos'ta gerçekleştirilen işlemler üzerinden bu stratejiye ilişkin bir örnek paylaştı.\n\nVerilen örnekte Nisan 2027 Rosario mısırı için ton başına 195,5 dolar seviyesinde bir fiyat tabanı oluşturulabildiği belirtildi.\n\nİşlemin diğer ayağında ise ton başına 4,5 dolar prim gerektiren bir CALL opsiyonu kullanıldı. Bu yapı, mısır fiyatının 200 dolar/tonun üzerine çıkması halinde oluşabilecek yükselişlerden yararlanma imkanını koruyor.\n\nPrim maliyeti ton başına 4,5 dolar\n\nCALL opsiyonu için ödenen 4,5 dolar/ton prim, 200 dolar/tonluk fiyat seviyesine göre yüzde 2,25 maliyete karşılık geliyor.\n\nHesaplama:\n\n4,5 ÷ 200 × 100 = %2,25\n\nİşlem örneğinde ortalama mısır verimi 75 kental/hektar, yani 7,5 ton/hektar olarak ele alınıyor.\n\nTon başına 4,5 dolarlık prim üzerinden hektar başına hesaplanan maliyet ise:\n\n7,5 ton × 4,5 dolar = 33,75 dolar/hektar\n\noluyor. Bu tutar işlem değerlendirmesinde yaklaşık 35 dolar/hektar olarak ifade ediliyor.\n\nSöz konusu maliyetin toplam üretim maliyetinin yaklaşık yüzde 3,5'ine karşılık geldiği belirtiliyor.\n\nFiyat düşerse taban, yükselirse fırsat\n\nStratejinin nasıl çalıştığını basit bir örnekle açıklamak mümkün.\n\nMısır fiyatının işlem sonrasında sert şekilde gerileyerek 195,5 dolar/tonun altına inmesi durumunda oluşturulan satış tabanı, üreticinin aşağı yönlü riski azaltmasını amaçlıyor.\n\nBuna karşılık fiyatın 200 dolar/tonun üzerine yükselmesi halinde CALL opsiyonu, üreticinin yükselişten yararlanma imkanını koruyor.\n\nDolayısıyla strateji, üreticinin yalnızca fiyat düşüşüne karşı sigorta satın alması yerine, aşağı yönlü riski sınırlarken yukarı yönlü fiyat hareketine de açık kalmasını hedefliyor.\n\n“Korunmak” ile satış taahhüdü farklı\n\nTarımsal emtia piyasalarında vadeli işlemler ve opsiyonlarla yapılan fiyat koruması ile fiziksel ürün satış taahhüdünün aynı olmadığına da dikkat çekiliyor.\n\nA3 Mercados’ta vadeli işlemler ve tarımsal opsiyonlarla oluşturulan pozisyonların, kontrat vadesinden önce ters işlemle kapatılabildiği ve fiziksel ürün teslimi zorunluluğunun bulunmadığı belirtiliyor.\n\nForward satışlarda ise fiziksel ürün teslimine ilişkin farklı bir sözleşme yapısı bulunuyor.\n\nErken fiyatlama üreticiye planlama imkanı sağlıyor\n\nTahıl üretiminde satış fiyatlarının hasattan önce oluşturulabilmesi, üreticilerin yalnızca fiyat riskini değil, lojistik ve finansal planlamayı da daha erken yapmasına imkan sağlayabiliyor.\n\nMısır fiyatlarının uluslararası üretim, hava koşulları ve lojistik gelişmelerden etkilenebildiği bir dönemde, üreticinin farklı fiyat senaryolarına karşı önceden pozisyon alması, beklenen kârlılık ile gerçekleşen sonuç arasındaki farkın yönetilmesine yardımcı olabiliyor.\n\nBu çerçevede “sentetik PUT”, mısır fiyatlarının düşmesi halinde belirli bir taban oluşturmaya çalışı"
     },
     {
       "title": "Buzağı yetiştiricilerine önemli uyarı: Gri-sarı ishal bu hastalığın belirtisi olabilir!",
@@ -328,17 +328,5 @@
   "defaultBorsa": "5ED10",
   "defaultCity": "CANAKKALE",
   "note": "Fiyatlar TOBB ticaret borsasından (borsa seçilebilir). Kanola manuel (Trakya 2025).",
-  "inputsNote": "Mazot: akaryakıt bayi fiyatı, günlük (şehir seçilebilir). Gübre: manuel (yaklaşık).",
-  "errors": [
-    "mazot ANKARA: fetch failed",
-    "mazot ISTANBUL: fetch failed",
-    "mazot IZMIR: fetch failed",
-    "mazot KONYA: fetch failed",
-    "mazot ADANA: fetch failed",
-    "mazot BURSA: fetch failed",
-    "mazot ANTALYA: fetch failed",
-    "mazot SAMSUN: fetch failed",
-    "mazot TEKIRDAG: fetch failed",
-    "mazot CANAKKALE: fetch failed"
-  ]
+  "inputsNote": "Mazot: akaryakıt bayi fiyatı, günlük (şehir seçilebilir). Gübre: manuel (yaklaşık)."
 }
