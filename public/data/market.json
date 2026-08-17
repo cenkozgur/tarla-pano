@@ -1,43 +1,51 @@
 {
-  "updatedAt": "2026-08-17T17:56:20.919Z",
+  "updatedAt": "2026-08-17T18:43:25.910Z",
   "fx": [
     {
       "code": "USD",
       "name": "Dolar",
-      "buy": 478973,
-      "sell": 479047,
-      "change": 5
+      "buy": 47.9,
+      "sell": 47.9,
+      "change": 0.04
     },
     {
       "code": "EUR",
       "name": "Euro",
-      "buy": 554963,
-      "sell": 555134,
-      "change": 11
+      "buy": 55.46,
+      "sell": 55.48,
+      "change": 0.05
     },
     {
       "code": "GRA",
       "name": "Gram Altın",
-      "buy": 680332,
-      "sell": 68042,
-      "change": 99
+      "buy": 6779.91,
+      "sell": 6780.83,
+      "change": 0.65
     },
     {
       "code": "CEYREKALTIN",
       "name": "Çeyrek Altın",
-      "buy": 1075462,
-      "sell": 1100004,
-      "change": 73
+      "buy": 10754.62,
+      "sell": 11000.04,
+      "change": 0.73
     },
     {
       "code": "CUMHURIYETALTINI",
       "name": "Cumhuriyet Altını",
       "buy": 44443,
       "sell": 45115,
-      "change": 8
+      "change": 0.08
     }
   ],
   "news": [
+    {
+      "title": "Chicago Borsası’nda mısır fiyatları haftaya yükselişle başladı",
+      "url": "https://www.tarimpusulasi.com/haber/chicago-borsasinda-misir-fiyatlari-haftaya-yukselisle-basladi-47405",
+      "source": "Tarım Pusulası",
+      "date": "2026-08-17",
+      "summary": "Chicago Ticaret Borsası’nda mısır vadeli fiyatları haftanın ilk işlem gününde yükseldi. Eylül 2026 kontratı 4,63 dolara çıktı.",
+      "content": "CHICAGO — Chicago Ticaret Borsası’nda (CBOT) mısır vadeli kontratları haftanın ilk işlem gününde yükselişle işlem gördü. 17 Ağustos 2026 Pazartesi günü saat 13.17 itibarıyla ana vadelerde fiyatlar 4,75 ila 5,50 sent/bushel arasında yükseldi.\n\nEylül 2026 vadeli mısır kontratı 4,63 dolar/bushel seviyesine yükselirken, Aralık 2026 kontratı 4,88 dolar/bushel, Mart 2027 kontratı 5,04 dolar/bushel, Mayıs 2027 kontratı ise 5,12 dolar/bushel seviyesine çıktı.\n\nAralık 2026 kontratındaki yükseliş 5,50 sent/bushel ile öne çıkarken, Mart 2027 kontratı 5,25 sent/bushel, Mayıs 2027 kontratı ise 5,50 sent/bushel değer kazandı.\n\nABD üretim beklentisi fiyatları destekliyor\n\nMısır vadeli fiyatlarındaki yükselişte, ABD Tarım Bakanlığı’nın (USDA) geçen hafta açıkladığı üretim ve stok tahminleri etkili oldu.\n\nUSDA, 2026 yılı için ABD’de ortalama mısır verimi tahminini daha önceki 183 bushel/akr seviyesinden 180,7 bushel/akr seviyesine düşürdü. Yeni tahmin, analistlerin 182,4 bushel/akr olan ortalama beklentisinin de altında kaldı.\n\nUSDA ayrıca 2027 yılı mısır stokları tahminini aşağı çekerken, güçlü ihracat talebinin devam etmesini bekledi.\n\nPiyasada farklı yönlü baskılar bulunuyor\n\nMısır fiyatlarındaki yükselişe rağmen piyasada farklı yönlü gelişmeler de izleniyor. Buğday vadeli kontratlarındaki zayıflık mısır fiyatları üzerinde baskı oluştururken, ham petrol fiyatlarındaki yükseliş destekleyici unsur olarak öne çıktı.\n\nHam petrol fiyatlarının, Orta Doğu’daki çatışmanın çözümüne yönelik diplomatik girişimlerde ilerleme sağlanamaması nedeniyle yükseldiği belirtildi.\n\nKaradeniz’de deniz taşımacılığında yaşanan aksaklıklar da tarımsal emtia piyasalarının izlediği başlıca gelişmeler arasında bulunuyor.\n\nBrezilya’da mısır fiyatları da yükseldi\n\nBrezilya’nın B3 Borsası’nda da mısır vadeli kontratlarının çoğu haftanın ilk işlem gününde yükseldi. Brasília saatiyle 13.28 itibarıyla ana vadelerde fiyatlar 70,03-79,04 Brezilya reali aralığında işlem gördü.\n\nEylül 2026 vadeli mısır kontratı 70,03 real seviyesinde yüzde 0,24 gerilerken, Ocak 2027 kontratı 77,57 real seviyesinde yüzde 0,23 yükseldi.\n\nMart 2027 kontratı 79,04 real seviyesine yüzde 0,44, Mayıs 2027 kontratı ise 77,76 real seviyesine yüzde 0,27 yükseldi.\n\nBrezilya piyasasında vadeler arasındaki fiyat hareketlerinin farklılaşması, küresel mısır piyasasında arz, talep ve üretim beklentilerinin birlikte takip edildiğini gösteriyor.\n\nTARIM PUSULASI HABER MERKEZİ"
+    },
     {
       "title": "Diyarbakır Tarım ve Orman İl Müdürü Adil Alan kimdir? Görevleri ve biyografisi",
       "url": "https://www.tarimdanhaber.com/diyarbakir-tarim-ve-orman-il-muduru-adil-alan-kimdir-gorevleri-ve-biyografisi",
@@ -125,14 +133,6 @@
       "date": "2026-08-17",
       "summary": "Tarım ve Orman Bakanı İbrahim Yumaklı, TMO’nun hasat sezonunun başlangıcından bu yana 769 alım merkezinde 11,5 milyon ton ürün aldığını ve üreticilere yaklaşık 120 milyar lira ödeme yaptığını açıkladı. Yumaklı, TMO’nun 20 milyon tonluk alım kapasitesine dikkat çekerek, “TMO’ya gelen ürünlerin tamamı",
       "content": "Haber Merkezi / Toprak Mahsulleri Ofisi’nin (TMO) hububat alımları devam ederken, Tarım ve Orman Bakanı İbrahim Yumaklı alım miktarı ve üreticilere yapılan ödemelere ilişkin son rakamları açıkladı.\n\nBakan Yumaklı’nın verdiği bilgiye göre, hasat sezonunun başlangıcından bu yana Türkiye genelindeki 769 alım merkezinde toplam 11,5 milyon ton ürün alındı.\n\nBu alımlar karşılığında üreticilere yapılan ödeme ise yaklaşık 120 milyar liraya ulaştı.\n\nTMO’nun alım kapasitesi 20 milyon ton\n\nÜreticilerin emeğinin karşılığını zamanında alabilmesi amacıyla TMO’nun sahada güçlü bir alım organizasyonu yürüttüğünü belirten Yumaklı, kurumun 20 milyon ton ürün alım kapasitesine sahip olduğunu kaydetti.\n\nYumaklı, üreticilere şu mesajı verdi:\n\n“Değerli üreticilerimiz müsterih olsunlar. TMO’ya gelen ürünlerin tamamını alacağız. Alım faaliyetlerimiz hızla devam ediyor.”\n\nBöylece açıklanan 11,5 milyon tonluk alım miktarı, TMO’nun ifade edilen 20 milyon tonluk kapasitesinin yaklaşık yüzde 57,5’ine ulaşmış oldu.\n\n769 merkezde alımlar sürüyor\n\nTMO’nun ülke genelinde 769 alım merkezinde ürün kabul etmeyi sürdürdüğünü bildiren Yumaklı, “Hasat sezonu başından bugüne kadar 11,5 milyon ton ürün alındı. Üreticilerimize yaklaşık 120 milyar liralık ödeme yaptık” ifadelerini kullandı.\n\nAçıklanan rakamlara göre, alınan ürün miktarı üzerinden hesaplandığında üreticilere yapılan ödemenin ortalaması ton başına yaklaşık 10 bin 435 liraya karşılık geliyor.\n\nYumaklı’dan buğday ve arpa vurgusu\n\nHububatın Türkiye'nin gıda arz güvenliği açısından stratejik öneme sahip olduğunu belirten Bakan Yumaklı, özellikle buğday ve arpanın temel ürünler arasında bulunduğunu vurguladı.\n\nTürkiye’nin dünya un ihracatında birinci, makarna ihracatında ise ikinci sırada bulunduğunu hatırlatan Yumaklı, güçlü hububat üretiminin hem iç piyasanın ihtiyaçlarının karşılanması hem de ihracat açısından kritik olduğunu ifade etti.\n\nBakan Yumaklı, üreticilere ve TMO personeline teşekkür ederek, “Ülkemizin üretim gücüne katkı sunan tüm üreticilerimize emekleri ve gayretleri için teşekkür ediyorum. Alım organizasyonunu sahada titizlikle sürdüren TMO mensuplarımızı da özverili çalışmaları dolayısıyla kutluyorum” dedi."
-    },
-    {
-      "title": "Şampiyon Angus boğası için 15 bin 400 dolar teklif edildi",
-      "url": "https://www.tarimpusulasi.com/haber/sampiyon-angus-bogasi-icin-15-bin-400-dolar-teklif-edildi-47399",
-      "source": "Tarım Pusulası",
-      "date": "2026-08-16",
-      "summary": "Kazakistan’da düzenlenen Jana Dala Green Day 2026 etkinliğinde “Kazakistan’ın 2026 En İyi Boğası” seçilen Angus boğası için açık artırmada 15 bin 400 dolar teklif edildi. Pavlodar’daki Astyk PV işletmesinin yöneticisi Ruslan Smagulov, iyi genetik özelliklere sahip damızlık boğalara yönelik talebin a",
-      "content": "PAVLODAR — Kazakistan’da düzenlenen Jana Dala Green Day 2026 etkinliğinde “Kazakistan’ın 2026 En İyi Boğası” seçilen Angus boğası için açık artırmada 15 bin 400 dolar teklif edildi. Pavlodar bölgesindeki Astyk PV damızlık işletmesine ait şampiyon boğa, ülkede damızlık hayvan fiyatlarının ve iyi genetik özelliklere sahip sığırlara yönelik talebin arttığını gösteren örneklerden biri oldu.\n\nAstyk PV işletmesinin yöneticisi Ruslan Smagulov, iyi genetiğe sahip bir boğanın açık artırmada 6 bin 600 ila 8 bin 800 dolar arasında satılabileceğini belirtti. Smagulov, Jana Dala etkinliğinin ilk gününde düzenlenen Qazaq Aqbas boğa açık artırmasında bir boğa için verilen en yüksek teklifin ise 15 bin 400 dolar olduğunu söyledi.\n\nSmagulov, Kazakistan’da damızlık hayvan fiyatlarının son yıllarda önemli ölçüde yükseldiğini ifade etti. İki-üç yıl önce boğaların 1.320–1.540 dolar seviyesinde satıldığını belirten Smagulov, günümüzde fiyatların 3 bin 300 dolar düzeyine çıktığını kaydetti.\n\nİyi genetik özelliklere sahip damızlık hayvanlar için daha yüksek bedel ödemeye hazır alıcıların ortaya çıktığını belirten Smagulov, bu durumun yetiştiricilerin genetik kalitenin geliştirilmesine yönelik çalışmalarına da katkı sağlayabileceğini ifade etti.\n\nKazakistan’da hayvancılığın geliştirilmesine yönelik Kapsamlı Plan’ın uygulanması ve hayvan alımında uygun koşullu kredi imkânlarının devreye alınmasıyla birlikte damızlık hayvan fiyatlarındaki yükselişin devam edebileceği öngörülüyor.\n\nSöz konusu gelişmenin, damızlık hayvan yetiştiricileri açısından Kazakistan’daki sığır varlığının genetik kalitesini geliştirmeye yönelik çalışmalar için ek teşvik oluşturması bekleniyor.\n\nKazakistan’da damızlık hayvan alımına yönelik finansman tarafında da yeni bir kredi uygulaması başladı. 13 Ağustos’ta Tarımsal Kredi Kurumu, “Bereke” programı kapsamında ilk kredinin kullandırıldığını açıkladı.\n\nAkmmola bölgesinde faaliyet gösteren Ereymentau Astyk 2014 şirketine, damızlık küçükbaş hayvan satın alınması amacıyla 4,4 milyon dolar kredi verildi.\n\nDamızlık hayvan fiyatlarının yükselmesi ve kredi imkânlarının genişletilmesi, Kazakistan’da hayvancılık işletmelerinin genetik materyal yatırımlarını artırmasına yönelik beklentileri güçlendiriyor.\n\nTARIM PUSULASI HABER MERKEZİ"
     }
   ],
   "commoditiesByBorsa": {
@@ -328,5 +328,10 @@
   "defaultBorsa": "5ED10",
   "defaultCity": "CANAKKALE",
   "note": "Fiyatlar TOBB ticaret borsasından (borsa seçilebilir). Kanola manuel (Trakya 2025).",
-  "inputsNote": "Mazot: akaryakıt bayi fiyatı, günlük (şehir seçilebilir). Gübre: manuel (yaklaşık)."
+  "inputsNote": "Mazot: akaryakıt bayi fiyatı, günlük (şehir seçilebilir). Gübre: manuel (yaklaşık).",
+  "errors": [
+    "borsa 5ED10: fetch failed",
+    "borsa 5KO10: fetch failed",
+    "borsa 5ES10: fetch failed"
+  ]
 }
