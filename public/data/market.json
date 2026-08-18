@@ -1,43 +1,51 @@
 {
-  "updatedAt": "2026-08-18T15:34:46.595Z",
+  "updatedAt": "2026-08-18T15:59:25.040Z",
   "fx": [
     {
       "code": "USD",
       "name": "Dolar",
-      "buy": 47.92,
-      "sell": 47.92,
+      "buy": 479174,
+      "sell": 479212,
       "change": 0
     },
     {
       "code": "EUR",
       "name": "Euro",
-      "buy": 55.52,
-      "sell": 55.53,
-      "change": -0.02
+      "buy": 555235,
+      "sell": 555392,
+      "change": -1
     },
     {
       "code": "GRA",
       "name": "Gram Altın",
-      "buy": 6712.28,
-      "sell": 6713.15,
-      "change": -1.35
+      "buy": 672337,
+      "sell": 67243,
+      "change": -119
     },
     {
       "code": "CEYREKALTIN",
       "name": "Çeyrek Altın",
-      "buy": 10776.13,
-      "sell": 11022.04,
-      "change": 0.2
+      "buy": 1077613,
+      "sell": 1102204,
+      "change": 2
     },
     {
       "code": "CUMHURIYETALTINI",
       "name": "Cumhuriyet Altını",
       "buy": 44633,
       "sell": 45305,
-      "change": 0.42
+      "change": 42
     }
   ],
   "news": [
+    {
+      "title": "AKI: Macaristan’da gübre talebi yüzde 67 azaldı",
+      "url": "https://www.tarimpusulasi.com/haber/aki-macaristanda-gubre-talebi-yuzde-67-azaldi-47418",
+      "source": "Tarım Pusulası",
+      "date": "2026-08-18",
+      "summary": "Macaristan’da 2026’nın ikinci çeyreğinde gübre satışları yıllık bazda yaklaşık üçte iki azalırken, bitki koruma ürünü alımı yüzde 36,3 düştü.",
+      "content": "BUDAPEŞTE — Macaristan’da çiftçilere satılan gübre miktarı, 2026’nın ikinci çeyreğinde geçen yılın aynı dönemine göre yaklaşık üçte iki oranında azaldı. Aynı dönemde izlenen bitki koruma ürünlerinin satış hacmi de yıllık bazda yüzde 36,3 geriledi.\n\nMacaristan Tarımsal Ekonomi Enstitüsü (AKI) tarafından Tarımsal İstatistik Bilgi Sistemi (ASIR) verileri temel alınarak hazırlanan rapora göre, Nisan-Haziran 2026 döneminde gübre ürünleri arasında en yüksek satış hacmi kalsiyum amonyum nitratta (MAS) gerçekleşti.\n\nAncak MAS talebi de geçen yılın aynı dönemine göre yüzde 46 azaldı. MAS, söz konusu dönemde toplam gübre satışlarının yüzde 48'ini oluşturdu.\n\nİzlenen ürünler arasında yalnızca potasyum klorür ve amonyum nitrat (AN) satışlarında geçen yılın ikinci çeyreğine göre artış kaydedildi. Diğer ürünlerin tamamında satış hacmi geriledi.\n\nNisan ayında gübre satışı yüzde 20 azaldı\n\nAKI'nın veri sağlaması için belirlenen en büyük 25 işletmenin verilerine göre, Nisan 2026'da izlenen gübre ürünlerinin çiftçilere satış hacmi bir önceki aya göre yüzde 40 azaldı. Geçen yılın Nisan ayına göre ise satış hacmi yüzde 20 daha düşük gerçekleşti.\n\nNisan ayındaki toplam satışların yaklaşık yüzde 88'ini MAS ile sıvı azotlu gübreler Nitrosol ve DAM oluşturdu. Bu iki ürünün toplam payı, bir yıl önce de benzer seviyedeydi.\n\nMAS talebi, geçen yılın Nisan ayına göre yüzde 26 azalırken, Nitrosol ve DAM satışları yüzde 8 geriledi.\n\nSon kullanıcıların üre alımı yüzde 34, NPK 15-15-15 alımı ise yüzde 14 azaldı. Buna karşılık potasyum klorür satışları iki katına çıktı.\n\nMonoamonyum fosfat (MAP) satışları yüzde 27, amonyum nitrat satışları ise yüzde 13 arttı.\n\nGübre satış fiyatları Nisan ayında bir önceki aya göre yüzde 3 ile yüzde 17 arasında yükseldi. En yüksek artış yüzde 16,9 ile süperfosfatta görüldü.\n\nNitrosol ve DAM fiyatları yüzde 3,9, NPK 15-15-15 fiyatı yüzde 3,5 arttı. MAS fiyatı yüzde 8,1, amonyum nitrat fiyatı yüzde 16,3 yükselirken, potasyum klorür fiyatı değişmedi.\n\nGeçen yılın Nisan ayına göre ise potasyum klorür ve Nitrosol-DAM dışındaki ürünlerin fiyatları yüzde 4 ila yüzde 14 arasında arttı.\n\nEn yüksek yıllık fiyat artışı yüzde 14 ile üre, yüzde 13 ile MAP ürününde gerçekleşti.\n\nMayısta gübre satışları yarıya düştü\n\nMayıs 2026'da izlenen gübre ürünlerinin satış hacmi bir önceki aya göre dörtte bir seviyesine geriledi. Geçen yılın Mayıs ayına kıyasla ise satışlar yarıya düştü.\n\nToplam aylık satışların dörtte üçünden fazlasını MAS ile Nitrosol ve DAM oluşturdu. Bir yıl önce aynı dönemde bu iki ürünün payı yüzde 90 seviyesindeydi.\n\nMAS ve Nitrosol-DAM talebinin her biri, geçen yılın Mayıs ayındaki seviyenin yüzde 60 altında kaldı.\n\nSon kullanıcıların üre alımı yüzde 7,6, amonyum nitrat alımı ise yüzde 19,1 azalırken, NPK 15-15-15 satışları geçen yılın aynı dönemine göre 1,5 katına çıktı.\n\nMAP satışları yüzde 25 arttı. Potasyum klorür satışlarında ise yaklaşık dokuz katlık artış kaydedildi.\n\nMayıs ayında bazı gübrelerin fiyatları aylık bazda geriledi. Potasyum klorür fiyatı yüzde 9,1, NPK 15-15-15 fiyatı yüzde 2,8, MAP fiyatı ise yüzde 1,9 azaldı. Üre fiyatı değişmedi.\n\nGeçen yılın Mayıs ayına göre ise potasyum klorür ve NPK 15-15-15 dışındaki ürünlerin fiyatları genel olarak yüzde 9 ila yüzde 19 arasında arttı.\n\nEn yüksek yıllık fiyat artışları MAS'ta yüzde 18,5, amonyum nitrattа yüzde 17,5 ve ürede yüzde 16,9 olarak gerçekleşti.\n\nHaziranda gübre satışları yüzde 60 geriledi\n\nHaziran 2026'da izlenen gübre ürünlerinin satış hacmi bir önceki aya göre yüzde 26, geçen yılın Haziran ayına göre ise yüzde 60 azaldı.\n\nToplam aylık satışların yüzde 70'ini MAS ile Nitrosol ve DAM oluşturdu. Bir yıl önce Haziran ayında bu iki ürünün toplam payı yüzde 83'tü.\n\nMAS talebi, geçen yılın Haziran ayına göre yaklaşık beşte birine geriledi. Nitrosol ve DAM satışları ise geçen yılki seviyenin yaklaşık dörtte üçüne düştü.\n\nSon kullanıcıların üre alımı yıllık bazda yüzde 25 azaldı. MAP satışları yarıya inerken, amonyum nitrat satışları yüzde 60, potasyum klorür satışları ise yüzde 40 arttı.\n\nHaziran ayında bazı gübre fiyatlarında aylık bazda düşüş görüldü. Amonyum nitrat fiyatı yüzde 8,1, MAP fiyatı yüzde 4,2 geriledi. Potasyum klorür fiyatındaki düşüş ise sınırlı kaldı.\n\nMAS ile Nitrosol ve DAM fiyatları değişmedi.\n\nKaynak metin Haziran 2026 fiyatlarına ilişkin bölümün devamında yarım kaldığı için, bu noktadan sonraki veriler habere eklenmemiştir.\n\nBitki koruma ürünlerinde de düşüş yaşandı\n\nAKI'nin ASIR verilerine göre, 2026'nın ikinci çeyreğinde izlenen bitki koruma ürünlerinin satış hacmi geçen yılın aynı dönemine göre yüzde 36,3 azaldı.\n\nÜrün grupları açısından en sert düşüş böcek ilaçlarında görüldü. Böcek ilacı satış hacmi yüzde 47 geriledi.\n\nFungisit satışları yüzde 31, herbisit satışları ise yüzde 28 azaldı.\n\nBöylece Macaristan'da 2026'nın Nisan-Haziran döneminde hem gübre hem de bitki koruma ürünlerinin satışında belirgin bir daralma yaşandı.\n\nTARIM PUSULASI HABER MERKEZİ"
+    },
     {
       "title": "Akın Gürlek: Şeker soruşturmasında 47 şüpheli çağrıldı",
       "url": "https://www.tarimpusulasi.com/haber/akin-gurlek-seker-sorusturmasinda-47-supheli-cagrildi-47417",
@@ -109,14 +117,6 @@
       "date": "2026-08-18",
       "summary": "İngiltere’nin 2026 tarım hasadı tahmini 19,5 milyondan 18,5 milyon tona indirildi; kuraklık ve sıcak hava dalgaları üretim kaybını büyüttü.",
       "content": "LONDRA — İngiltere’nin 2026 tarım hasadına ilişkin beklentiler kötüleşti. Agriculture and Horticulture Development Board (AHDB), başta tahıllar ve yağlı tohumlar olmak üzere önemli ürünlerin toplam üretim tahminini 19,5 milyon tondan 18,5 milyon tona düşürdü. Bu seviyenin rekor düşük hasat olması bekleniyor.\n\nAHDB’nin tahminindeki 1 milyon tonluk aşağı yönlü revizyon, kurak ve sıcak hava koşullarının tarımsal üretim üzerindeki etkisinin daha önce öngörülenden yüksek olduğunu gösteriyor.\n\nEnergy and Climate Intelligence Unit (ECIU), yalnızca bu son tahmin değişikliğinin çiftlik gelirlerini yaklaşık 160 milyon sterlin daha azaltabileceğini hesaplıyor. Mart ayındaki tahminlerle karşılaştırıldığında toplam gelir kaybının yaklaşık 550 milyon sterline ulaşabileceği belirtiliyor. Önceki AHDB verilerine dayalı hesaplamada bu kayıp 390 milyon sterlin olarak öngörülüyordu.\n\nTahıllar ve yağlı tohumların toplam üretim değerinin ise 3,64 milyar sterlin seviyesinde gerçekleşmesi bekleniyor. Enflasyona göre düzeltilmiş değer yaklaşık 1,78 milyar sterlin olarak hesaplanıyor. Bu tutar, 2014-2023 dönemindeki ortalamanın yaklaşık üçte bir altında bulunuyor.\n\nKuraklık ve sıcak hava dalgaları üretimi baskıladı\n\n2025/26 üretim sezonunun başlangıcında verimlerin 10 yıllık ortalamaya yakın veya üzerinde olması bekleniyordu. Ancak nisanda yaşanan aşırı kuraklığın ardından mayıs, haziran, temmuz ve ağustos aylarındaki sıcak hava dalgaları, ürünlerin gelişimin kritik dönemlerinde ciddi stres yaşamasına neden oldu.\n\nYeni tahmin, 2026 hasadının 2020'deki önceki rekor düşük hasattan yaklaşık 1,35 milyon ton daha düşük olabileceğine işaret ediyor.\n\nBuğday hasadının yaklaşık yüzde 85'i tamamlanırken, mevcut veriler 2020, 2024, 2025 ve 2026 yıllarının İngiltere'deki en kötü beş hasat arasında yer alabileceğini gösteriyor.\n\nHayvancılıkta yem baskısı da artıyor\n\nHasat görünümündeki kötüleşme, İngiltere'de kuraklıktan etkilenen çiftçilere yönelik desteklerin gündeme geldiği dönemde yaşanıyor.\n\nİngiltere'de çiftçilere 65 milyon sterlinlik kuraklık destek paketi sunulurken, bunun 50 milyon sterlininin Sürdürülebilir Tarım Teşvik Programı'na, 15 milyon sterline kadar olan bölümünün ise işletme içi su depolarına ayrılması planlanıyor.\n\nİngiltere'nin yaklaşık dörtte üçünde kuraklık yaşanırken, üreticiler düşük verimle karşı karşıya. Hayvancılık işletmelerinde ise kışlık yem stoklarının planlanandan daha erken kullanılmaya başlandığı belirtiliyor.\n\n12 Ağustos'ta sona eren haftada 1.500'den fazla su çekim lisansı kısıtlaması kaydedildi.\n\nECIU Gıda Ekonomisti Chris Jaccarini, hasat görünümünün kötüleştiğini belirterek, çiftçilerin daha önce de rekor düzeyde kötü bir hasat ihtimaliyle karşı karşıya olduğunu, son rakamların kayıpların ilk tahminlerden daha yüksek olabileceğine işaret ettiğini ifade etti.\n\nJaccarini, olumsuz hava koşullarının tahılların yanı sıra et ve sebze üretimini de etkilediğini belirtti.\n\nECIU'ya göre İngiltere'deki çiftçiler hayvancılıkta gölgelik sağlamak amacıyla daha fazla ağaç dikmek gibi iklim koşullarına dayanıklılığı artırmaya yönelik önlemler alıyor. Ancak aşırı hava olaylarının şiddetlenmesi durumunda işletmelerin uyum kapasitesinin sınırlı kalabileceği değerlendiriliyor.\n\nİngiltere'de 2026 hasadına yönelik son tahmin, ülkenin 2020'den bu yana art arda zayıf hasatların görüldüğü bir dönemde yeni bir rekor düşük üretim seviyesine doğru ilerlediğini gösteriyor.\n\nTARIM PUSULASI HABER MERKEZİ"
-    },
-    {
-      "title": "Hollanda’da 2026 patates fiyatlarında artış sınırlı kaldı",
-      "url": "https://www.tarimpusulasi.com/haber/hollandada-2026-patates-fiyatlarinda-artis-sinirli-kaldi-47410",
-      "source": "Tarım Pusulası",
-      "date": "2026-08-18",
-      "summary": "Hollanda’da PotatoNL, 2025 hasadı için patates fiyatı açıklamayı bıraktı. 2026 hasadında ise özellikle kaliteli partilerde sınırlı artış görüldü.",
-      "content": "AMSTERDAM — Hollanda’da kızartmalık patates piyasasında 2025 hasadına ilişkin fiyatlandırma sona yaklaşırken, 2026 hasadında fiyat artışının büyük ölçüde sınırlı kaldığı bildirildi.\n\nPotatoNL, 2025 hasadı kızartmalık patatesleri için artık fiyat açıklamadı. Piyasadaki işlem sayısının düşük olması nedeniyle 2025 hasadı için fiyatlandırmanın yeniden yapılmasının beklenmediği belirtildi.\n\n2026 hasadında ise çoğu kategoride ortalama fiyatlar önceki haftaya göre değişmedi. Buna karşın özellikle kaliteli partilerde fiyatların daha yüksek seviyelerde oluştuğu görüldü.\n\nPotatoNL, büyük ölçekli işleme için uygun kızartmalık patatesleri kapsayan Kategori I fiyatında kaliteli partiler için 100 kilogram başına 1,50 avro artış yaptı. Daha düşük kaliteli partilerde ise artış 0,50 avro ile sınırlı kaldı.\n\nDepodan teslim edilen standart kızartmalık patateslerde ise kaliteli partilerin fiyatı 100 kilogram başına 29 avroya yükseldi. Bu fiyat, önceki haftaya göre 4 avroluk artış anlamına geliyor.\n\nPiyasa göstergelerinde Hollanda'nın yanı sıra Belçika'daki fiyatlar da yer aldı. Viaverda, önceki hafta Fontane çeşidi için 100 kilogram başına 15-20 avro, erkenci patatesler için ise 20-25 avro fiyat açıkladı.\n\nBelçika merkezli Belgapom ise geçen hafta Fontane çeşidini ton başına 150 avro olarak fiyatlandırdı.\n\n2025 hasadında işlemlerin azalması, PotatoNL'nin bu sezon için fiyat açıklamalarını sonlandırma ihtimalini güçlendirirken, 2026 hasadında ise özellikle kaliteli kızartmalık patateslerde fiyatların önceki haftaya göre daha yüksek seviyelerde oluştuğu görülüyor.\n\nTARIM PUSULASI HABER MERKEZİ"
     },
     {
       "title": "TÜRKYED Başkanı Nihat Çelik'ten gıda fiyatları için dikkat çeken çağrı: Üretici kazanmadan tüketici ucuza alamaz",
