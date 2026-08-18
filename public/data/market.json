@@ -1,26 +1,26 @@
 {
-  "updatedAt": "2026-08-18T14:17:00.980Z",
+  "updatedAt": "2026-08-18T14:54:00.154Z",
   "fx": [
     {
       "code": "USD",
       "name": "Dolar",
-      "buy": 47.92,
+      "buy": 47.91,
       "sell": 47.92,
       "change": 0
     },
     {
       "code": "EUR",
       "name": "Euro",
-      "buy": 55.55,
-      "sell": 55.56,
-      "change": 0.04
+      "buy": 55.56,
+      "sell": 55.57,
+      "change": 0.05
     },
     {
       "code": "GRA",
       "name": "Gram Altın",
-      "buy": 6768.96,
-      "sell": 6769.87,
-      "change": -0.52
+      "buy": 6753.51,
+      "sell": 6754.49,
+      "change": -0.74
     },
     {
       "code": "CEYREKALTIN",
@@ -38,6 +38,14 @@
     }
   ],
   "news": [
+    {
+      "title": "Ayçiçek yağı fiyatlarında küresel düşüş sürüyor",
+      "url": "https://www.tarimpusulasi.com/haber/aycicek-yagi-fiyatlarinda-kuresel-dusus-suruyor-47416",
+      "source": "Tarım Pusulası",
+      "date": "2026-08-18",
+      "summary": "Küresel ayçiçek yağı fiyatları iyi hasat beklentisiyle gerilerken, alıcıların 15 gün bekleyerek ton başına yaklaşık 10 dolar tasarruf edebileceği belirtiliyor.",
+      "content": "DÜNYA — Küresel ayçiçek yağı fiyatlarında, iyi bir hasat beklentisinin etkisiyle düşüş eğilimi devam ediyor. Sunstone Brokers'ın kurucu ortağı ve ortağı Serhii Repetskyi, fiyatlardaki gerilemenin alıcıların satın alma zamanlamasını daha dikkatli değerlendirmesine neden olduğunu belirtti.\n\nRepetskyi'nin Latifundist.com'a yaptığı değerlendirmeye göre, ayçiçek yağı vadeli fiyat eğrisi teslimat ayları arasında yaklaşık 25 dolar/ton düşüş gösteriyor. Bu değişim günlük ortalama yaklaşık 1 dolar/tonluk bir gerilemeye karşılık geliyor.\n\nUzman, alıcıların satın alma planlarını daha dikkatli yaptığını belirterek, 15 günlük bir beklemenin ton başına yaklaşık 10 dolar tasarruf sağlayabileceğini ifade etti.\n\nHindistan'da soya yağına yönelim artıyor\n\nHindistan piyasasında ise ayçiçek yağı ile soya yağı arasındaki fiyat farkı dikkat çekiyor.\n\nEylül teslimatları için iki ürün arasındaki fark 300 dolar/ton, kasım teslimatları için ise 250 dolar/ton seviyesinde bulunuyor.\n\nBu fiyat farkının, ithalatçıların ayçiçek yağı yerine soya yağı alımlarını artırmasını teşvik ettiği belirtiliyor.\n\nRusya'nın sevkiyat rotasında değişiklik\n\nRepetskyi, büyük Rus ihracatçıların ayçiçek yağı sevkiyatlarını Baltık bölgesi üzerinden Asya ülkelerine yönlendirdiğini söyledi.\n\nKaynak metinde bu sevkiyatların miktarına veya belirli ülkelere yapılan teslimatlara ilişkin ayrı bir rakam verilmedi.\n\nAvrupa'da ayçiçek yağı için talep desteği oluşabilir\n\nAvrupa piyasasında ise ayçiçek yağı ile kolza yağı arasındaki fiyat farkının giderek daraldığı bildiriliyor.\n\nRepetskyi'ye göre bu gelişme, ayçiçek yağına yönelik talebi destekleyebilir. Buna karşılık kolza yağına yönelik talepte şimdiden bir miktar yavaşlama görülmeye başlandı.\n\nKüresel piyasada alıcıların temel endişelerinden biri ise fiyatlardan çok sözleşmelerin güvenilir biçimde yerine getirilmesi ve sevkiyatların zamanında yapılması olmaya devam ediyor.\n\nBu nedenle mevcut fiyat düşüşünün yanında, teslimat güvenilirliği ve sevkiyat takviminin de uluslararası ayçiçek yağı ticaretinde önemli bir belirleyici olduğu değerlendiriliyor.\n\nTARIM PUSULASI HABER MERKEZİ"
+    },
     {
       "title": "Tarımdan Haber 10 ay önce gündeme getirmişti! Şekerde 8 ilde soruşturma: 47 şüpheli ifadeye çağrıldı",
       "url": "https://www.tarimdanhaber.com/tarimdan-haber-10-ay-once-gundeme-getirmisti-sekerde-8-ilde-sorusturma-47-supheli-ifadeye-cagrildi",
@@ -101,14 +109,6 @@
       "date": "2026-08-18",
       "summary": "Galiçya’daki Agromuralla, süt fiyatlarının son aylarda değişmemesine karşın üretim maliyetlerinin yükseldiğini belirterek işletme kapanışlarının hızlanabileceği uyarısında bulundu.",
       "content": "GALİÇYA — İspanya’nın Galiçya bölgesinde faaliyet gösteren Hayvancılar ve Çiftçiler Birliği (AGROMURALLA), süt fiyatlarının son aylarda değişmemesine karşın üretim maliyetlerinin yükselmesine tepki gösterdi. Agrodigital’in 31 Temmuz tarihli haberine göre, bölgedeki üreticileri temsil eden AGROMURALLA, yeni sözleşme döneminde açıklanan süt fiyatlarının işletmeler üzerindeki maliyet baskısını artırdığını belirtti.\n\nAGROMURALLA’nın açıklamasına göre, mart ayında yapılan fiyat indiriminin ardından süt sanayisinin büyük bölümü mevcut sözleşmelerdeki fiyatları korumayı planlıyor. Kuruluşun aktardığı tek fiyat artışı önerisi Naturleite’den geldi. Şirketin beş aylık sözleşme önerisinde ilk üç ay mevcut fiyatın korunması, son iki ayda ise litre başına 2 sentlik artış uygulanması öngörülüyor.\n\nAGROMURALLA Başkanı Noelia Rodríguez, üretim maliyetlerinin yükselmeye devam ettiğini ve özellikle yazın kurak geçmesi halinde yem üretiminde sorun yaşanabileceğini belirtti. Kuruluş, mevcut koşullarda süt fiyatları ile üretim maliyetleri arasındaki dengenin üreticiler aleyhine bozulduğunu savunuyor.\n\nAGROMURALLA, mart ayında sözleşmeler yenilenirken süt sanayisinin yüksek fiyatları korumanın ekonomik sonuçları açısından mümkün olmadığını savunduğunu hatırlattı. Kuruluş, mevcut durumda ise üreticilerin işletme hesaplarını denkleştirmekte zorlandığını ve birçok işletmenin ekonomik açıdan sürdürülemez hale gelme riskiyle karşı karşıya olduğunu belirtti.\n\nAvrupa süt piyasasında göstergeler yükseliyor\n\nAGROMURALLA ayrıca Avrupa ve uluslararası süt piyasalarındaki bazı referans göstergelerin son aylarda yükseldiğine dikkat çekti.\n\nFrieslandCampina, ağustos ayı için fiyatını 100 kilogramda 1,25 avro artırarak 46,21 avroya çıkardı. Avrupa Birliği Süt Piyasası Gözlemevi'nin 23 Temmuz'da yayımladığı verilerde de son dört haftada tereyağında yüzde 3, yağsız süt tozunda yüzde 1,5, tam yağlı süt tozunda yüzde 3 ve cheddar peynirinde yüzde 3,4 artış görüldüğü belirtildi.\n\nİtalya'da ise iki hafta önce spot süt fiyatının 100 litre başına 50,52 avroya yükseldiği ve haftalık bazda yüzde 9,1 artış gösterdiği aktarıldı.\n\nSüt üretiminde düşüş yaşanıyor\n\nAGROMURALLA, süt üretiminde de nisan ayından bu yana düşüş yaşandığını ve bunun önceki sözleşme dönemindeki fiyat indirimiyle bağlantılı olduğunu savundu.\n\nKuruluş, mevcut piyasa koşullarının sürmesi halinde süt üretimindeki gerilemenin devam edeceğini ve ekonomik baskıya dayanamayan işletmelerin kapanmasının hızlanabileceğini belirtti.\n\nEt piyasasındaki fiyat düşüşünün de süt işletmelerini etkilediği ifade edildi. Bu durum, işletmelerdeki buzağı ve ekonomik ömrünü tamamlamış hayvanların değerini düşürerek süt işletmelerinin gelirlerini olumsuz etkiliyor.\n\nAGROMURALLA, süt fiyatındaki nisan ayındaki düşüşten sonra bazı işletmelerin yaşlı hayvanları işletmede tutamadığını ve üretimleri ekonomik olmaktan çıktığında kesime gönderdiklerini belirtti.\n\nKuruluş ayrıca et fiyatlarındaki düşüşte, bulaşıcı nodüler dermatite yönelik uygulamalar nedeniyle Fas pazarının kapalı olmasının ve Avrupa Birliği-Mercosur ticaret anlaşmasının oluşturduğu aşağı yönlü baskının etkili olduğunu savundu.\n\nSüt sanayisine sözleşme eleştirisi\n\nAGROMURALLA, Galiçya’da faaliyet gösteren süt sanayisinin sözleşme tekliflerini sunma sürecinde de sorunlar yaşandığını ileri sürdü.\n\nKuruluşa göre, Galiçya'da ağırlıklı olarak faaliyet gösteren süt işletmelerinden yalnızca ikisi tekliflerini süt sektörünü düzenleyen mevzuatta öngörülen iki aylık süre içinde sundu. Diğer işletmelerin tekliflerini son aşamaya bırakarak sözleşmelerle birlikte ilettiği belirtildi.\n\nAGROMURALLA, bu uygulamanın üreticilerin süt fiyatlarını eşit şartlarda müzakere etmesini zorlaştırdığını savundu.\n\nTARIM PUSULASI HABER MERKEZİ"
-    },
-    {
-      "title": "Almanya’da kuraklık ve yem sıkıntısı hayvan satışını artırdı",
-      "url": "https://www.tarimpusulasi.com/haber/almanyada-kuraklik-ve-yem-sikintisi-hayvan-satisini-artirdi-47408",
-      "source": "Tarım Pusulası",
-      "date": "2026-08-18",
-      "summary": "Almanya’da süren sıcaklık ve kuraklık yem stoklarını azaltırken, bazı çiftçiler hayvanlarını planlanandan daha erken kesime göndermek zorunda kalıyor.",
-      "content": "BERLİN — Almanya’da etkisini sürdüren sıcaklık ve kuraklık, hayvancılık işletmelerinde yem sıkıntısını büyütürken bazı çiftçileri hayvanlarını planlanandan daha erken kesime göndermeye zorluyor. Agrarzeitung’un 13 Ağustos tarihli haberine göre, özellikle Baden-Württemberg ve Bavyera’da yem stoklarındaki ciddi azalma hayvan varlıklarının küçültülmesine yol açıyor.\n\nBaden-Württemberg Çiftçiler Birliği, bölgede çiftçilerin bu dönem için normalden yüzde 30 ila 40 daha az yeme sahip olduğunu bildirdi. Kuruyan çayırlarda yeni bitki gelişiminin sınırlı kalması, özellikle ot ve kuru ota dayalı işletmelerin önümüzdeki haftalar için yem rezervlerini azaltıyor.\n\nEyalette bazı bölgelerde yem sıkıntısı nedeniyle hayvanların erken kesime gönderildiği belirtilirken, Schwäbisch Hall ve çevresindeki kesimhanelerde bekleme listeleri oluştuğu aktarıldı. Bazı işletmelerin yaşlı ve damızlık açısından daha az uygun hayvanlarını şimdiden kesime gönderdiği ifade edildi.\n\nBavyera’da ise özellikle Frankonya, Aşağı Bavyera ve Yukarı Pfalz bölgelerinin kuraklıktan etkilendiği bildirildi. Bavyera Tarım Bakanlığı, yem temini amacıyla kullanılabilecek ilave alanları devreye aldı. Hessen’de de hayvancılık işletmelerinde yem sıkıntısının arttığı belirtildi.\n\nHessen Çiftçiler Birliği, çayır alanlarının devam eden kuraklığa doğrudan tepki verdiğini ve yağışların yetersiz kalması durumunda otların yeniden büyümesinin yavaşladığını açıkladı. Kuraklığın ve verim kayıplarının sürmesi halinde bazı işletmelerin hayvan varlıklarını azaltmak zorunda kalabileceği belirtildi.\n\nAlmanya’daki çiftçi örgütleri, yem açığının daha da büyümemesi için mevcut alanların yem üretiminde kullanılabilmesini talep ediyor. Bu kapsamda nadas alanlarının ve belirli çevre programları kapsamında kullanım dışı bırakılan alanların kısa vadede yem üretimine açılması gündeme geldi.\n\nKuraklığın devam etmesi halinde hayvan varlıklarının daha fazla azaltılması ve kesimlerin artması beklenirken, gelişmelerin önümüzdeki haftalardaki yağış durumuna bağlı olacağı belirtiliyor.\n\nTARIM PUSULASI HABER MERKEZİ"
     },
     {
       "title": "TÜRKYED Başkanı Nihat Çelik'ten gıda fiyatları için dikkat çeken çağrı: Üretici kazanmadan tüketici ucuza alamaz",
