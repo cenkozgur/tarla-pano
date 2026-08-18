@@ -1,43 +1,51 @@
 {
-  "updatedAt": "2026-08-18T18:41:41.637Z",
+  "updatedAt": "2026-08-18T19:16:31.528Z",
   "fx": [
     {
       "code": "USD",
       "name": "Dolar",
-      "buy": 479036,
-      "sell": 479138,
-      "change": -2
+      "buy": 47.9,
+      "sell": 47.91,
+      "change": -0.03
     },
     {
       "code": "EUR",
       "name": "Euro",
-      "buy": 554882,
-      "sell": 555197,
-      "change": -5
+      "buy": 55.5,
+      "sell": 55.51,
+      "change": -0.06
     },
     {
       "code": "GRA",
       "name": "Gram Altın",
-      "buy": 671494,
-      "sell": 671582,
-      "change": -131
+      "buy": 6710.53,
+      "sell": 6711.47,
+      "change": -1.37
     },
     {
       "code": "CEYREKALTIN",
       "name": "Çeyrek Altın",
-      "buy": 1077613,
-      "sell": 1102204,
-      "change": 2
+      "buy": 10776.13,
+      "sell": 11022.04,
+      "change": 0.2
     },
     {
       "code": "CUMHURIYETALTINI",
       "name": "Cumhuriyet Altını",
       "buy": 44633,
       "sell": 45305,
-      "change": 42
+      "change": 0.42
     }
   ],
   "news": [
+    {
+      "title": "Arjantin’in mısır ihracatı temmuzda 5,14 milyon tona çıktı",
+      "url": "https://www.tarimpusulasi.com/haber/arjantinin-misir-ihracati-temmuzda-514-milyon-tona-cikti-47422",
+      "source": "Tarım Pusulası",
+      "date": "2026-08-18",
+      "summary": "Arjantin’in mısır ihracatı temmuzda 5,14 milyon tona ulaşarak aylık bazda rekor kırdı. Sezonun ilk beş ayında ihracat 22,21 milyon tona çıktı.",
+      "content": "BUENOS AIRES — Arjantin’in mısır ihracatı temmuz ayında 5,14 milyon tona ulaşarak ülke tarihindeki en yüksek aylık ihracat seviyesine çıktı. Rosario Ticaret Borsası’nın 14 Ağustos tarihli raporuna göre, temmuz ayındaki ihracat bir önceki rekor olan nisan ayındaki 5,08 milyon tonu geride bıraktı.\n\nBöylece sezonun mart-temmuz dönemindeki toplam mısır ihracatı 22,21 milyon tona ulaştı.\n\nRosario Ticaret Borsası, Arjantin’in 2025/26 pazarlama yılı mısır üretimi tahminini de 2,5 milyon ton artırarak 70,5 milyon tona yükseltti. Borsa, mevcut sezonu ülke mısır sektörü açısından tarihsel önem taşıyan bir dönem olarak değerlendirdi.\n\nYağışlar hasat ve ihracat lojistiğini yavaşlatıyor\n\nÖte yandan Arjantin’de tekrarlanan yağışlar, mısırın kurutulmasını yavaşlatırken tarla çalışmalarında da gecikmelere neden oluyor.\n\nKaynak verilere göre mısır hasadının yüzde 89’u tamamlandı. Bu oran, ülkenin son beş yıllık ortalamasının 8 puan gerisinde bulunuyor. Hasat edilmesi gereken alan ise 11,6 milyon hektar olarak belirtiliyor.\n\nBuna rağmen temmuz ayında gerçekleşen 5,14 milyon tonluk ihracat, Arjantin tarihinde bir ayda ulaşılan en yüksek mısır ihracatı oldu.\n\nArjantin küresel mısır ihracatında üçüncü sırada\n\nABD Tarım Bakanlığı verilerine göre Arjantin, dünya mısır ihracatında ABD ve Brezilya’nın ardından üçüncü sırada yer alıyor.\n\nRosario Ticaret Borsası’nın son verileri, ülkenin mevcut sezonda hem ihracat hem de üretim açısından güçlü bir performans gösterdiğine işaret ediyor.\n\nTARIM PUSULASI HABER MERKEZİ"
+    },
     {
       "title": "Şeker fiyatları küresel arz açığı beklentisiyle yükseliyor",
       "url": "https://www.tarimpusulasi.com/haber/seker-fiyatlari-kuresel-arz-acigi-beklentisiyle-yukseliyor-47421",
@@ -109,14 +117,6 @@
       "date": "2026-08-18",
       "summary": "Arjantin'de 2025/26 buğdayının 8,3 milyon tonu hâlâ pazarlanmayı beklerken, kaliteli buğdayda fiyatların 300 dolar/tona kadar çıktığı bildirildi.",
       "content": "BUENOS AIRES — Arjantin'de 2025/26 sezonuna ait 8,3 milyon ton buğdayın yeni 2026/27 sezonu başlamadan önce ticari dolaşıma girmesi bekleniyor. Kalan stokun 3,9 milyon ton olduğu dikkate alınarak yapılan değerlendirmede, özellikle ekmeklik kaliteye sahip buğdayda fiyatların önemli ölçüde yükseldiği belirtiliyor.\n\nSanayi tarafında, kaliteye bağlı olarak buğday için ton başına 300 dolara kadar fiyatlar oluştuğu ifade ediliyor. Ancak bu fiyat seviyelerinde aranan kalitede ürünün sınırlı olması, un sanayisinin uygun özelliklere sahip buğdaya yönelik talebini canlı tutuyor.\n\nPiyasa değerlendirmesinde, elinde buğday bulunan üreticilerin ürünlerinin kalitesini bilmelerinin önemine dikkat çekiliyor. Çünkü kalite farkı yalnızca satış fiyatını değil, talebin yoğun olduğu bölgelerde nakliye maliyetini de doğrudan etkileyebiliyor.\n\nKaliteli buğday standart üründen ayrışıyor\n\nArjantin'de mevcut piyasa koşullarında ekmeklik kaliteye sahip buğdayın standart bir tarımsal ürün gibi değerlendirilmesinin fiyat açısından önemli bir fark yaratabildiği belirtiliyor.\n\nAğustos ayındaki mevcut buğday işlemlerinin dağılımı da kaliteye bağlı fiyat farklılığını ortaya koyuyor. Özellikle protein ve gluten oranı gibi özellikler bakımından un sanayisinin istediği nitelikleri taşıyan bazı buğday partilerinde, piyasa referansının oldukça üzerinde fiyatlar oluşuyor.\n\nMevcut piyasada Rosario teslimatlı standart koşullardaki buğdayın referans fiyatı yaklaşık 220 dolar/ton seviyesinde bulunuyor.\n\nBuna karşılık un sanayisinin, ihtiyaç duyduğu özelliklere sahip ürünün sınırlı olması nedeniyle bazı alımlarda bu seviyenin oldukça üzerinde fiyatlar ödediği belirtiliyor.\n\nTalep belirli bölgelerde yoğunlaşıyor\n\nKaliteli buğday için oluşan yüksek fiyatların önemli bölümünde ürünlerin Buenos Aires metropol bölgesindeki veya Buenos Aires eyaletinin kuzeyindeki un fabrikalarına gönderildiği belirtiliyor.\n\nBu bölgelerde farklı kullanım alanlarına yönelik kaliteli un üreten sanayi tesislerinin yoğunlaşması, belirli özelliklere sahip buğdaya yönelik talebi artırıyor.\n\nPiyasa değerlendirmesine göre bu durum, elindeki buğdayın kalite özelliklerini bilen üreticiler açısından ürünün satış değerinin yalnızca standart piyasa fiyatıyla değerlendirilmemesi gerektiğini ortaya koyuyor.\n\n2025/26 sezonundan kalan 8,3 milyon tonluk buğdayın pazarlanma süreci devam ederken, kaliteye uygun ürünlerde oluşan fiyat farkının yeni sezon öncesinde piyasanın önemli unsurlarından biri olması bekleniyor.\n\nTARIM PUSULASI HABER MERKEZİ"
-    },
-    {
-      "title": "ABD'de sığır fiyatları ağustosta düşüşe geçti",
-      "url": "https://www.tarimpusulasi.com/haber/abdde-sigir-fiyatlari-agustosta-dususe-gecti-47414",
-      "source": "Tarım Pusulası",
-      "date": "2026-08-18",
-      "summary": "ABD'de besilik ve canlı sığır vadeli kontratları gerilerken, yem maliyetleri, kesimhane kapanışları ve piyasa beklentileri fiyatları baskılıyor.",
-      "content": "ABD — ABD'de sığır piyasasında geçen hafta yaşanan düşüş, besilik ve canlı sığır vadeli kontratlarına da yansıdı. Ekim vadeli canlı sığır kontratı haftayı 218,88 dolar/100 pound seviyesinde tamamlarken, haftalık kayıp 6,40 dolar/100 pound oldu. Eylül vadeli besilik sığır kontratı ise 334,55 dolar/100 pound seviyesine geriledi ve haftayı 10,68 dolar/100 pound düşüşle tamamladı.\n\nEylül vadeli besilik sığır kontratındaki gerileme, piyasada üç haftalık yükseliş serisini sona erdirdi. Ekim vadeli canlı sığır kontratı ise üst üste ikinci haftada düşüş kaydetti.\n\nPiyasa uzmanları, fiyatlardaki gerilemede kesimhane ve işleme tesisi kapanışları, yem maliyetlerindeki artış, kuraklık ve yaz dönemindeki talep koşullarının etkili olduğunu belirtiyor.\n\nKesimhane kapanışları piyasayı baskıladı\n\nTennessee Üniversitesi Tarım Enstitüsü'nden tarım ve kaynak ekonomisi profesörü Andrew Griffith, sığır vadeli kontratlarındaki zayıflığın, Tyson Foods'un bir kesimhaneyi ve bir işleme tesisini kapatma, başka bir tesisi ise satışa çıkarma kararının ardından daha da belirginleştiğini söyledi.\n\nGriffith'e göre piyasanın gelecekteki fiyat hareketlerine ilişkin genel beklentilerindeki zayıflık ve tüketicilerin daha yüksek fiyatları ödeme konusundaki isteksizliği de düşüşte etkili oldu.\n\nGriffith, ağustos ayının ortasında sığır piyasasının zorlanabileceğini belirterek, kesim ve işleme sektöründeki zararların daha düşük fiyatlar yoluyla besilik sığır sektörüne yansıdığını ifade etti.\n\nMısır fiyatlarındaki yükseliş besicilerin maliyetini artırdı\n\nTexas A&M Üniversitesi AgriLife Extension'dan profesör ve yayım ekonomisti David Anderson ise Tyson Foods'un tesis kapatma kararının piyasadaki alıcı sayısını azaltması nedeniyle önemli olduğunu belirtti.\n\nAnderson, USDA'nın mısır ve soya fasulyesi ekim alanları ile verimlerine ilişkin son tahminlerinin de besilik sığır piyasası açısından önem taşıdığını söyledi. Tozlaşma dönemindeki sıcaklıklar ve devam eden kuraklığın potansiyel verimleri olumsuz etkilediğini belirten Anderson, daha yüksek mısır fiyatı beklentisinin de sığır vadeli kontratları üzerinde baskı oluşturduğunu kaydetti.\n\nAnderson'a göre yaz dönemindeki sıcak hava koşulları da mevsimsel olarak talebi baskılayabiliyor. Buna karşın, geçen yıla göre daha az sığır eti üretimi ve güçlü talebe ilişkin göstergeler, fiyatların yeniden yükselmesi için temel destek unsurları olarak öne çıkıyor.\n\nABD'de nakit besi sığırı fiyatları da haftayı 100 pound başına 230 doların altında, yaklaşık 228-229 dolar aralığında tamamladı. Nakit fiyatların yakın vadeli vadeli kontratların üzerinde kalmaya devam ettiği belirtildi.\n\nUSDA'nın tahmin değişikliği fiyatları etkiledi\n\nKuzey Dakota Eyalet Üniversitesi'nden hayvancılık pazarlama uzmanı Tim Petry, 12-14 Ağustos döneminde Ekim vadeli canlı sığır kontratında yaşanan sert düşüşün önemli nedenlerinden birinin USDA'nın 12 Ağustos tarihli Dünya Tarımsal Arz ve Talep Tahminleri (WASDE) raporu olduğunu söyledi.\n\nUSDA, 2026 besi sığırı fiyat tahminini 100 pound başına 251,10 dolardan 245,35 dolara çekti. Böylece tahmin 5,75 dolar aşağı yönlü revize edildi. 2027 yılı tahmini de 254 dolardan 249 dolara indirildi.\n\nPetry, Tyson Foods'un Illinois eyaletindeki Joslin sığır işleme tesisini ve Utah'taki Eagle Mountain hazır ürün tesisini kapatma, Washington eyaletindeki Pasco sığır tesisini ise satışa çıkarma kararının da vadeli fiyatlardaki düşüşte etkili olduğunu belirtti.\n\nMısır stok tahmini aşağı çekildi, fiyat yükseldi\n\nUSDA'nın aynı raporunda 2025/26 sezonu mısır dönem sonu stok tahmini 2,02 milyar bushel'den 1,945 milyar bushel'e indirildi.\n\nTahminin piyasa beklentilerinin en düşük seviyesinin de altında kalması, aralık vadeli mısır fiyatlarının bushel başına 20 sentten fazla yükselmesine neden oldu.\n\nSığır fiyatlarındaki düşüş ile mısır fiyatlarındaki yükselişin birleşmesi, son bir ayda besi işletmelerinin marjlarını önemli ölçüde baskıladı. Bu durum hem besilik sığır vadeli kontratlarında hem de nakit piyasasında aşağı yönlü baskıyı artırdı.\n\nPiyasa bu hafta da oynak olabilir\n\nPetry, canlı ve besilik sığır vadeli kontratlarında arz ve talep koşullarındaki değişimlerin etkisiyle oynaklığın devam edebileceğini belirtti.\n\nÖte yandan Choice sınıfı kutulanmış sığır eti fiyatı geçen hafta 100 pound başına 12 dolar yükseldi. Uzmanlar, yaklaşan İşçi Bayramı dönemi öncesindeki mevsimsel sığır eti talebinin bu artışta etkili olduğunu değerlendiriyor.\n\nPiyasanın takip edeceği bir diğer önemli veri ise USDA'nın 21 Ağustos'ta açıklaması beklenen aylık Cattle on Feed raporu olacak.\n\nUzman değerlendirmesine göre temmuz ayında besiye alınan sığır sayısının geçen yılın altında olması bekleniyor. Buna karşın besi işletmelerindeki devir hızının düşük kalması nedeniyle toplam besi sığırı varlığının geçen yılın yaklaşık yüzde 2 üzerinde gerçekleşebileceği öngörülüyor.\n\nTARIM PUSULASI HABER MERKEZİ"
     },
     {
       "title": "TÜRKYED Başkanı Nihat Çelik'ten gıda fiyatları için dikkat çeken çağrı: Üretici kazanmadan tüketici ucuza alamaz",
@@ -328,17 +328,5 @@
   "defaultBorsa": "5ED10",
   "defaultCity": "CANAKKALE",
   "note": "Fiyatlar TOBB ticaret borsasından (borsa seçilebilir). Kanola manuel (Trakya 2025).",
-  "inputsNote": "Mazot: akaryakıt bayi fiyatı, günlük (şehir seçilebilir). Gübre: manuel (yaklaşık).",
-  "errors": [
-    "mazot ANKARA: fetch failed",
-    "mazot ISTANBUL: fetch failed",
-    "mazot IZMIR: fetch failed",
-    "mazot KONYA: fetch failed",
-    "mazot ADANA: fetch failed",
-    "mazot BURSA: fetch failed",
-    "mazot ANTALYA: fetch failed",
-    "mazot SAMSUN: fetch failed",
-    "mazot TEKIRDAG: fetch failed",
-    "mazot CANAKKALE: fetch failed"
-  ]
+  "inputsNote": "Mazot: akaryakıt bayi fiyatı, günlük (şehir seçilebilir). Gübre: manuel (yaklaşık)."
 }
