@@ -1,43 +1,51 @@
 {
-  "updatedAt": "2026-08-18T16:59:57.305Z",
+  "updatedAt": "2026-08-18T17:30:04.187Z",
   "fx": [
     {
       "code": "USD",
       "name": "Dolar",
-      "buy": 47.91,
-      "sell": 47.92,
-      "change": -0.01
+      "buy": 479044,
+      "sell": 479174,
+      "change": -2
     },
     {
       "code": "EUR",
       "name": "Euro",
-      "buy": 55.53,
-      "sell": 55.54,
-      "change": 0
+      "buy": 554997,
+      "sell": 555144,
+      "change": -5
     },
     {
       "code": "GRA",
       "name": "Gram Altın",
-      "buy": 6722.17,
-      "sell": 6723.14,
-      "change": -1.2
+      "buy": 672503,
+      "sell": 672588,
+      "change": -116
     },
     {
       "code": "CEYREKALTIN",
       "name": "Çeyrek Altın",
-      "buy": 10776.13,
-      "sell": 11022.04,
-      "change": 0.2
+      "buy": 1077613,
+      "sell": 1102204,
+      "change": 2
     },
     {
       "code": "CUMHURIYETALTINI",
       "name": "Cumhuriyet Altını",
       "buy": 44633,
       "sell": 45305,
-      "change": 0.42
+      "change": 42
     }
   ],
   "news": [
+    {
+      "title": "Bakan Yumaklı: Çandır'da barajla çift ürün dönemi başladı",
+      "url": "https://www.tarimpusulasi.com/haber/bakan-yumakli-candirda-barajla-cift-urun-donemi-basladi-47419",
+      "source": "Tarım Pusulası",
+      "date": "2026-08-18",
+      "summary": "Tarım ve Orman Bakanı İbrahim Yumaklı, Dağköy Barajı sayesinde Samsun’un Çandır Mahallesi’nde kuru tarımdan sulu tarıma geçildiğini açıkladı.",
+      "content": "SAMSUN — Tarım ve Orman Bakanı İbrahim Yumaklı, Dağköy Barajı projesi sayesinde 19 Mayıs ilçesine bağlı Çandır Mahallesi’nde kuru tarımdan sulu tarıma geçildiğini ve bazı tarlalarda yılda iki ürün yetiştirilmeye başlandığını açıkladı.\n\nBakan Yumaklı, sosyal medya hesaplarından yaptığı paylaşımda, suyun tarımsal üretimde oluşturduğu değişime dikkat çekti. Yumaklı, “Toprağa düşen her damla su, üretimde yeni bir dönemin kapısını aralıyor” ifadelerini kullandı.\n\nYumaklı, Dağköy Barajı projesiyle Çandır Mahallesi’nde kuru tarımdan sulu tarıma geçildiğini belirterek, daha önce tek ürün alınan tarlalarda artık yılda iki ürün yetiştirildiğini ve çiftçilerin daha geniş bir ürün yelpazesinde üretim yapabildiğini aktardı.\n\n“Mahallemizin çehresi değişti”\n\nÇandır Mahallesi Muhtarı Şükrü Kaya da yaptığı değerlendirmede, mahallede sulu tarıma geçiş sürecinin yaşandığını söyledi.\n\nKaya, suyun mahalleye gelmesiyle birlikte üretimde önemli bir değişim yaşandığını belirterek, “Bu su geldikten sonra mahallemizin çehresi değişti” dedi.\n\nÇandır Mahallesi’nde bir çiftçi ise sulama imkânından önce tarlalarda tek ürün yetiştirebildiklerini ifade etti. Çiftçi, sulama suyunun gelmesiyle birlikte “Hem çift ürün alıyoruz hem de aldığımız ürünün kalitesi yükseldi” değerlendirmesinde bulundu.\n\nÜrün çeşitliliği arttı\n\nMahalle Muhtarı Kaya, geçmişte ağırlıklı olarak buğday, kuru tarım ve tütün üretimiyle uğraştıklarını, sulama suyunun gelmesiyle birlikte üretim faaliyetlerinin çeşitlendiğini anlattı.\n\nKaya, mahallede hayvancılığın yanı sıra silajlık mısır ile bağ ve bahçe faaliyetlerinde de sulama suyunun kullanılmaya başlandığını belirtti.\n\nSuyun üretim faaliyetlerine katkı sağladığını ifade eden Kaya, mahalle sakinlerinin uygulamadan memnun olduğunu söyledi.\n\nÇift ürün ve ürün kalitesine vurgu\n\nBakan Yumaklı’nın paylaşımında yer alan değerlendirmelere göre Dağköy Barajı’nın Çandır Mahallesi’ndeki etkisi, yalnızca sulama imkânının sağlanmasıyla sınırlı kalmadı. Sulama suyuna erişim, daha önce tek ürün yetiştirilen bazı alanlarda yılda iki ürün alınabilmesine ve ürün çeşitliliğinin artmasına imkân sağladı.\n\nMahalledeki çiftçinin değerlendirmesinde de sulama sonrasında hem ürün sayısının hem de ürün kalitesinin arttığı ifade edildi.\n\nKaya ise sulama suyunun hayvancılık, silajlık mısır ve bağ-bahçe faaliyetlerinde kullanılmaya başlandığını belirterek, Dağköy Barajı ve içme suyu barajından gelen suyun mahalleye ulaştırılmasında emeği bulunan kamu yöneticilerine teşekkür etti.\n\nBakan Yumaklı’nın paylaşımında, Çandır Mahallesi’nde yaşanan değişim, sulama altyapısının tarımsal üretim üzerindeki etkisine ilişkin bir örnek olarak aktarılırken, açıklamada üretim miktarlarına ilişkin herhangi bir sayısal veri paylaşılmadı.\n\nTARIM PUSULASI HABER MERKEZİ"
+    },
     {
       "title": "AKI: Macaristan’da gübre talebi yüzde 67 azaldı",
       "url": "https://www.tarimpusulasi.com/haber/aki-macaristanda-gubre-talebi-yuzde-67-azaldi-47418",
@@ -109,14 +117,6 @@
       "date": "2026-08-18",
       "summary": "Mercosur ülkelerinin artan buğday ve mısır üretimi tahıl ihracatını güçlendirirken, özellikle Avrupa mısır pazarında Fransa ile rekabet artıyor.",
       "content": "PARİS — Güney Amerika'nın Arjantin, Brezilya, Paraguay ve Uruguay'dan oluşan Mercosur grubu, artan tahıl üretimiyle küresel ihracat kapasitesini güçlendirirken, özellikle mısırda Fransa'nın Avrupa pazarlarındaki rekabetini artırıyor.\n\nFransız tarım haber sitesi Terre-net, FranceAgriMer tarafından yayımlanan değerlendirmeye dayanarak Mercosur ülkelerinin tahıl üretimindeki artışın ihracat kapasitesini güçlendirdiğine dikkat çekti. Değerlendirmeye göre Mercosur'un buğday, mısır ve arpa üretimi 2015/16 pazarlama sezonundan 2024/25 sezonuna kadar 131 milyon tondan 229 milyon tona yükseldi.\n\nÜretimdeki artışın önemli bölümü Brezilya ve Arjantin'den geliyor. Mercosur'un mısır üretiminde Brezilya'nın payı ortalama yüzde 70, buğday üretiminde ise Arjantin'in payı yüzde 64 seviyesinde bulunuyor.\n\nMısırda Fransa ile rekabet daha doğrudan\n\nMercosur'un tahıl ihracatındaki yükseliş özellikle mısırda belirginleşiyor. Grubun mısır ihracatı dokuz pazarlama sezonunda iki katına çıkarak 2024/25 sezonunda 75 milyon tona ulaştı. Buğday ihracatı ise aynı dönemde yüzde 36 artışla 17 milyon tona yükseldi.\n\nFranceAgriMer değerlendirmesine göre Fransa ile Mercosur arasındaki rekabet mısırda Avrupa Birliği pazarlarında daha doğrudan görülüyor. Her iki ihracatçı da özellikle hayvancılığın yoğun olduğu Avrupa ülkelerine ürün gönderiyor.\n\nFransa son beş yılda yıllık ortalama 4,5 milyon ton mısır ihraç etti. Bunun yaklaşık 4 milyon tonu Avrupa Birliği'nin 27 üyesine gönderildi. Fransa'nın AB içindeki önemli pazarları arasında İspanya ve İtalya bulunuyor.\n\nMercosur ülkelerinin AB'ye mısır ihracatı ise yıllık ortalama 4,2 milyon ton seviyesinde. Mercosur'un Avrupa Birliği'ndeki mısır ihracatında da İspanya ve İtalya öne çıkıyor.\n\nAB dışındaki Avrupa pazarında ise İngiltere öne çıkıyor. Fransa'nın İngiltere'ye yıllık mısır ihracatı yaklaşık 665 bin ton, Mercosur'un ihracatı ise 218 bin ton seviyesinde bulunuyor.\n\nBuğdayda rekabet şimdilik daha sınırlı\n\nMercosur'un yumuşak buğday ihracatında Fransa ile rekabetin şu aşamada daha sınırlı olduğu belirtiliyor. Bunun temel nedenlerinden biri ihracat pazarlarının farklılaşması.\n\nMercosur'un 2020-2025 dönemindeki yıllık ortalama 13 milyon tonluk yumuşak buğday ihracatının yüzde 49'u Latin Amerika'ya, yüzde 17'si Doğu ve Güneydoğu Asya'ya yöneldi. Sahra Altı Afrika'nın payı yüzde 7, Kuzey Afrika'nın payı ise yüzde 4 oldu. Avrupa Birliği'ne ise bu dönemde Mercosur kaynaklı yumuşak buğday ihracatı gerçekleşmedi.\n\nFransa'nın ihracatında ise Avrupa Birliği yaklaşık yarı ile en büyük bölgeyi oluştururken, Kuzey Afrika'nın payı yüzde 26, Sahra Altı Afrika'nın payı yüzde 12, Doğu ve Güneydoğu Asya'nın payı yüzde 11 oldu.\n\nBununla birlikte Mercosur'un Sahra Altı Afrika'daki varlığının artması, orta vadede Fransa açısından rekabetin güçlenebileceği bir alan olarak değerlendiriliyor. Fransa özellikle Fildişi Sahili, Senegal ve Kamerun'a ihracat yaparken, Mercosur ülkeleri daha çok Kenya ve Nijerya gibi Fransızca konuşulmayan pazarlarda öne çıkıyor.\n\nMercosur'un Kuzey Afrika'ya yumuşak buğday ihracatı ise şimdilik daha değişken bir görünüm sergiliyor. Fiyat farklarının oluştuğu dönemlerde bölgeye yönelik satışların hızlandığı belirtiliyor. Örneğin 2017/18 sezonunda Mercosur yumuşak buğdayının ortalama ihracat fiyatı ton başına yaklaşık 150 avro, Fransız buğdayının fiyatı ise 400 avronun üzerinde gerçekleşmişti.\n\nMercosur'un artan üretim ve ihracat kapasitesi, özellikle mısırda Avrupa pazarlarında Fransa'nın karşı karşıya olduğu rekabetin güçlenebileceğine işaret ediyor. Buğdayda ise mevcut ihracat rotalarının farklılığı nedeniyle rekabetin daha sınırlı kaldığı görülüyor.\n\nTARIM PUSULASI HABER MERKEZİ"
-    },
-    {
-      "title": "İngiltere’de 2026 tahıl hasadı 18,5 milyon tona düşecek",
-      "url": "https://www.tarimpusulasi.com/haber/ingilterede-2026-tahil-hasadi-185-milyon-tona-dusecek-47411",
-      "source": "Tarım Pusulası",
-      "date": "2026-08-18",
-      "summary": "İngiltere’nin 2026 tarım hasadı tahmini 19,5 milyondan 18,5 milyon tona indirildi; kuraklık ve sıcak hava dalgaları üretim kaybını büyüttü.",
-      "content": "LONDRA — İngiltere’nin 2026 tarım hasadına ilişkin beklentiler kötüleşti. Agriculture and Horticulture Development Board (AHDB), başta tahıllar ve yağlı tohumlar olmak üzere önemli ürünlerin toplam üretim tahminini 19,5 milyon tondan 18,5 milyon tona düşürdü. Bu seviyenin rekor düşük hasat olması bekleniyor.\n\nAHDB’nin tahminindeki 1 milyon tonluk aşağı yönlü revizyon, kurak ve sıcak hava koşullarının tarımsal üretim üzerindeki etkisinin daha önce öngörülenden yüksek olduğunu gösteriyor.\n\nEnergy and Climate Intelligence Unit (ECIU), yalnızca bu son tahmin değişikliğinin çiftlik gelirlerini yaklaşık 160 milyon sterlin daha azaltabileceğini hesaplıyor. Mart ayındaki tahminlerle karşılaştırıldığında toplam gelir kaybının yaklaşık 550 milyon sterline ulaşabileceği belirtiliyor. Önceki AHDB verilerine dayalı hesaplamada bu kayıp 390 milyon sterlin olarak öngörülüyordu.\n\nTahıllar ve yağlı tohumların toplam üretim değerinin ise 3,64 milyar sterlin seviyesinde gerçekleşmesi bekleniyor. Enflasyona göre düzeltilmiş değer yaklaşık 1,78 milyar sterlin olarak hesaplanıyor. Bu tutar, 2014-2023 dönemindeki ortalamanın yaklaşık üçte bir altında bulunuyor.\n\nKuraklık ve sıcak hava dalgaları üretimi baskıladı\n\n2025/26 üretim sezonunun başlangıcında verimlerin 10 yıllık ortalamaya yakın veya üzerinde olması bekleniyordu. Ancak nisanda yaşanan aşırı kuraklığın ardından mayıs, haziran, temmuz ve ağustos aylarındaki sıcak hava dalgaları, ürünlerin gelişimin kritik dönemlerinde ciddi stres yaşamasına neden oldu.\n\nYeni tahmin, 2026 hasadının 2020'deki önceki rekor düşük hasattan yaklaşık 1,35 milyon ton daha düşük olabileceğine işaret ediyor.\n\nBuğday hasadının yaklaşık yüzde 85'i tamamlanırken, mevcut veriler 2020, 2024, 2025 ve 2026 yıllarının İngiltere'deki en kötü beş hasat arasında yer alabileceğini gösteriyor.\n\nHayvancılıkta yem baskısı da artıyor\n\nHasat görünümündeki kötüleşme, İngiltere'de kuraklıktan etkilenen çiftçilere yönelik desteklerin gündeme geldiği dönemde yaşanıyor.\n\nİngiltere'de çiftçilere 65 milyon sterlinlik kuraklık destek paketi sunulurken, bunun 50 milyon sterlininin Sürdürülebilir Tarım Teşvik Programı'na, 15 milyon sterline kadar olan bölümünün ise işletme içi su depolarına ayrılması planlanıyor.\n\nİngiltere'nin yaklaşık dörtte üçünde kuraklık yaşanırken, üreticiler düşük verimle karşı karşıya. Hayvancılık işletmelerinde ise kışlık yem stoklarının planlanandan daha erken kullanılmaya başlandığı belirtiliyor.\n\n12 Ağustos'ta sona eren haftada 1.500'den fazla su çekim lisansı kısıtlaması kaydedildi.\n\nECIU Gıda Ekonomisti Chris Jaccarini, hasat görünümünün kötüleştiğini belirterek, çiftçilerin daha önce de rekor düzeyde kötü bir hasat ihtimaliyle karşı karşıya olduğunu, son rakamların kayıpların ilk tahminlerden daha yüksek olabileceğine işaret ettiğini ifade etti.\n\nJaccarini, olumsuz hava koşullarının tahılların yanı sıra et ve sebze üretimini de etkilediğini belirtti.\n\nECIU'ya göre İngiltere'deki çiftçiler hayvancılıkta gölgelik sağlamak amacıyla daha fazla ağaç dikmek gibi iklim koşullarına dayanıklılığı artırmaya yönelik önlemler alıyor. Ancak aşırı hava olaylarının şiddetlenmesi durumunda işletmelerin uyum kapasitesinin sınırlı kalabileceği değerlendiriliyor.\n\nİngiltere'de 2026 hasadına yönelik son tahmin, ülkenin 2020'den bu yana art arda zayıf hasatların görüldüğü bir dönemde yeni bir rekor düşük üretim seviyesine doğru ilerlediğini gösteriyor.\n\nTARIM PUSULASI HABER MERKEZİ"
     },
     {
       "title": "TÜRKYED Başkanı Nihat Çelik'ten gıda fiyatları için dikkat çeken çağrı: Üretici kazanmadan tüketici ucuza alamaz",
@@ -328,5 +328,17 @@
   "defaultBorsa": "5ED10",
   "defaultCity": "CANAKKALE",
   "note": "Fiyatlar TOBB ticaret borsasından (borsa seçilebilir). Kanola manuel (Trakya 2025).",
-  "inputsNote": "Mazot: akaryakıt bayi fiyatı, günlük (şehir seçilebilir). Gübre: manuel (yaklaşık)."
+  "inputsNote": "Mazot: akaryakıt bayi fiyatı, günlük (şehir seçilebilir). Gübre: manuel (yaklaşık).",
+  "errors": [
+    "mazot ANKARA: fetch failed",
+    "mazot ISTANBUL: fetch failed",
+    "mazot IZMIR: fetch failed",
+    "mazot KONYA: fetch failed",
+    "mazot ADANA: fetch failed",
+    "mazot BURSA: fetch failed",
+    "mazot ANTALYA: fetch failed",
+    "mazot SAMSUN: fetch failed",
+    "mazot TEKIRDAG: fetch failed",
+    "mazot CANAKKALE: fetch failed"
+  ]
 }
