@@ -1,32 +1,32 @@
 {
-  "updatedAt": "2026-08-18T04:08:24.084Z",
+  "updatedAt": "2026-08-18T04:53:10.418Z",
   "fx": [
     {
       "code": "USD",
       "name": "Dolar",
-      "buy": 47.9,
-      "sell": 47.93,
+      "buy": 479059,
+      "sell": 479281,
       "change": 0
     },
     {
       "code": "EUR",
       "name": "Euro",
-      "buy": 55.47,
-      "sell": 55.53,
-      "change": -0.06
+      "buy": 554924,
+      "sell": 555184,
+      "change": -5
     },
     {
       "code": "GRA",
       "name": "Gram Altın",
-      "buy": 6764.83,
-      "sell": 6765.77,
-      "change": -0.58
+      "buy": 676862,
+      "sell": 676953,
+      "change": -52
     },
     {
       "code": "CEYREKALTIN",
       "name": "Çeyrek Altın",
-      "buy": 10754.62,
-      "sell": 11000.04,
+      "buy": 1075462,
+      "sell": 1100004,
       "change": 0
     },
     {
@@ -34,10 +34,18 @@
       "name": "Cumhuriyet Altını",
       "buy": 44443,
       "sell": 45115,
-      "change": 0.08
+      "change": 8
     }
   ],
   "news": [
+    {
+      "title": "Almanya’da kuraklık ve yem sıkıntısı hayvan satışını artırdı",
+      "url": "https://www.tarimpusulasi.com/haber/almanyada-kuraklik-ve-yem-sikintisi-hayvan-satisini-artirdi-47408",
+      "source": "Tarım Pusulası",
+      "date": "2026-08-18",
+      "summary": "Almanya’da süren sıcaklık ve kuraklık yem stoklarını azaltırken, bazı çiftçiler hayvanlarını planlanandan daha erken kesime göndermek zorunda kalıyor.",
+      "content": "BERLİN — Almanya’da etkisini sürdüren sıcaklık ve kuraklık, hayvancılık işletmelerinde yem sıkıntısını büyütürken bazı çiftçileri hayvanlarını planlanandan daha erken kesime göndermeye zorluyor. Agrarzeitung’un 13 Ağustos tarihli haberine göre, özellikle Baden-Württemberg ve Bavyera’da yem stoklarındaki ciddi azalma hayvan varlıklarının küçültülmesine yol açıyor.\n\nBaden-Württemberg Çiftçiler Birliği, bölgede çiftçilerin bu dönem için normalden yüzde 30 ila 40 daha az yeme sahip olduğunu bildirdi. Kuruyan çayırlarda yeni bitki gelişiminin sınırlı kalması, özellikle ot ve kuru ota dayalı işletmelerin önümüzdeki haftalar için yem rezervlerini azaltıyor.\n\nEyalette bazı bölgelerde yem sıkıntısı nedeniyle hayvanların erken kesime gönderildiği belirtilirken, Schwäbisch Hall ve çevresindeki kesimhanelerde bekleme listeleri oluştuğu aktarıldı. Bazı işletmelerin yaşlı ve damızlık açısından daha az uygun hayvanlarını şimdiden kesime gönderdiği ifade edildi.\n\nBavyera’da ise özellikle Frankonya, Aşağı Bavyera ve Yukarı Pfalz bölgelerinin kuraklıktan etkilendiği bildirildi. Bavyera Tarım Bakanlığı, yem temini amacıyla kullanılabilecek ilave alanları devreye aldı. Hessen’de de hayvancılık işletmelerinde yem sıkıntısının arttığı belirtildi.\n\nHessen Çiftçiler Birliği, çayır alanlarının devam eden kuraklığa doğrudan tepki verdiğini ve yağışların yetersiz kalması durumunda otların yeniden büyümesinin yavaşladığını açıkladı. Kuraklığın ve verim kayıplarının sürmesi halinde bazı işletmelerin hayvan varlıklarını azaltmak zorunda kalabileceği belirtildi.\n\nAlmanya’daki çiftçi örgütleri, yem açığının daha da büyümemesi için mevcut alanların yem üretiminde kullanılabilmesini talep ediyor. Bu kapsamda nadas alanlarının ve belirli çevre programları kapsamında kullanım dışı bırakılan alanların kısa vadede yem üretimine açılması gündeme geldi.\n\nKuraklığın devam etmesi halinde hayvan varlıklarının daha fazla azaltılması ve kesimlerin artması beklenirken, gelişmelerin önümüzdeki haftalardaki yağış durumuna bağlı olacağı belirtiliyor.\n\nTARIM PUSULASI HABER MERKEZİ"
+    },
     {
       "title": "TÜRKYED Başkanı Nihat Çelik'ten gıda fiyatları için dikkat çeken çağrı: Üretici kazanmadan tüketici ucuza alamaz",
       "url": "https://www.tarimdanhaber.com/turkyed-baskani-nihat-celikten-gida-fiyatlari-icin-dikkat-ceken-cagri-uretici-kazanmadan-tuketici-ucuza-alamaz",
@@ -125,14 +133,6 @@
       "date": "2026-08-17",
       "summary": "Rusya’nın 2025/26 tarım sezonunda Türkiye’ye buğday ihracatı yaklaşık 7,3 milyon tona yükseldi. Sevkiyat bir önceki sezona göre 2,2 kat artarken, Rusya toplam 46,5 milyon tonluk ihracatla dünya liderliğini korudu.",
       "content": "MOSKOVA — Rusya, 2025/26 sezonunda yaklaşık 46,5 milyon ton buğday ihracatı gerçekleştirerek önemli buğday ihracatçıları arasındaki liderliğini korudu. USDA değerlendirmelerine göre Avrupa Birliği 31,5 milyon tonla ikinci, Kanada ise 29,6 milyon tonla üçüncü sırada yer aldı.\n\nRusya’nın ihracattaki konumunu korumasında 2025 yılında buğday üretimindeki artışın yanı sıra geleneksel pazarlardaki talep yükselişi etkili oldu. Rusya’nın 2025 yılı buğday üretimi 91,1 milyon tona ulaşırken, bu miktar 2024 yılına göre 8,5 milyon ton arttı.\n\nTürkiye ve Sudan’dan Rus buğdayına talep arttı\n\nRusya’nın 2025/26 sezonundaki buğday ihracatında Türkiye ve Sudan öne çıkan pazarlar arasında yer aldı.\n\nTürkiye’ye yapılan buğday ihracatı yaklaşık 7,3 milyon tona yükseldi. Böylece Türkiye’ye sevkiyat, 2024/25 sezonuna göre 2,2 kat arttı.\n\nSudan’a yapılan ihracat ise yaklaşık 2,2 milyon tona ulaştı ve önceki sezona göre 2 kat artış gösterdi.\n\nRus buğdayının diğer önemli ticaret ortakları arasında da alımlarını artıran ülkeler bulundu. Mısır’ın Rusya’dan buğday alımı yüzde 6, İsrail’in alımı ise yüzde 21 arttı.\n\nIrak’a ihracatta rekor\n\n2025/26 sezonunda Rus buğdayı açısından öne çıkan gelişmelerden biri de Irak pazarındaki artış oldu.\n\nIrak’a sezon boyunca yaklaşık 560 bin ton buğday gönderildi. Bu miktar, bir önceki sezondaki 82 bin tonluk ihracatın oldukça üzerine çıktı.\n\nBöylece Irak’a Rus buğdayı ihracatı yaklaşık 478 bin ton arttı ve miktar bazında yaklaşık 6,8 katına yükseldi.\n\n2025/26 sezonunda Irak’a gerçekleştirilen sevkiyat, Rus buğdayının bu pazardaki ihracatında şimdiye kadarki en yüksek seviyeye ulaştı.\n\nTARIM PUSULASI HABER MERKEZİ"
-    },
-    {
-      "title": "Rusya’nın makarna ihracatı 7 ayda 112 milyon dolara ulaştı",
-      "url": "https://www.tarimpusulasi.com/haber/rusyanin-makarna-ihracati-7-ayda-112-milyon-dolara-ulasti-47401",
-      "source": "Tarım Pusulası",
-      "date": "2026-08-17",
-      "summary": "Rusya’nın makarna ihracatı, 2026’nın ilk 7 ayında geçen yılın aynı dönemine göre değer bazında yüzde 7 arttı. İhracat 66 bin tonun üzerine çıkarken, yaklaşık 112 milyon dolarlık gelirle dönemler bazında tarihi en yüksek seviyeye ulaştı.",
-      "content": "MOSKOVA — Rusya’nın makarna ihracatı, 2026’nın ilk 7 ayında geçen yılın aynı dönemine göre değer bazında yüzde 7 arttı. Bu dönemde Rus şirketleri, Avrasya Ekonomik Birliği (AEB) ülkelerinin temmuz ayı verileri hariç olmak üzere, 66 bin tonun üzerinde makarna ihraç ederek yaklaşık 112 milyon dolar gelir elde etti.\n\nRusya’nın makarna ihracatında 2026’nın ilk 7 ayında elde edilen gelir, dönemler bazında şimdiye kadarki en yüksek seviyeye ulaştı. Önceki rekor ise 2025 yılının aynı döneminde yaklaşık 105 milyon dolar olarak kaydedilmişti.\n\nİhracatta Belarus ve Kazakistan öne çıktı\n\nRusya’nın makarna ihracatında 2026’nın ilk 7 ayında en büyük pazar Belarus oldu. Belarus’a yaklaşık 37 milyon dolarlık makarna ihracatı gerçekleştirildi.\n\nBelarus’u yaklaşık 26 milyon dolarla Kazakistan, 12 milyon dolarla Özbekistan, 6,5 milyon doların üzerinde ihracatla Azerbaycan ve 6 milyon doların üzerinde ihracatla Gürcistan izledi.\n\nİhracat gelirindeki mutlak artışta da Kazakistan ve Belarus öne çıktı. Kazakistan’a yapılan ihracattan elde edilen gelir geçen yılın aynı dönemine göre 3,1 milyon dolar, Belarus’a yapılan ihracat geliri ise 3 milyon dolar arttı.\n\nBu ülkeleri 870 bin dolarlık artışla Tacikistan, 512 bin dolarla Azerbaycan ve 494 bin dolarla Ermenistan takip etti.\n\nRusya’dan Avustralya’ya yeniden makarna ihracatı\n\nRusya’nın makarna ihracatında dikkat çeken gelişmelerden biri de Avustralya oldu. Rusya, 2020’den bu yana ilk kez Avustralya’ya makarna ihracatı gerçekleştirdi.\n\n2026’nın ilk 7 ayında Avustralya’ya 5 tonun üzerinde makarna, 30 bin doların üzerinde değerle gönderildi.\n\nRusya’nın makarna ihracatında 2026’nın ilk 7 ayında ulaşılan yaklaşık 112 milyon dolarlık gelir, 2025’in aynı dönemindeki yaklaşık 105 milyon dolarlık seviyeyi yaklaşık 7 milyon dolar aştı. Böylece ihracat gelirinde dönemler bazında yeni en yüksek seviyeye ulaşıldı.\n\nTARIM PUSULASI HABER MERKEZİ"
     }
   ],
   "commoditiesByBorsa": {
@@ -328,5 +328,17 @@
   "defaultBorsa": "5ED10",
   "defaultCity": "CANAKKALE",
   "note": "Fiyatlar TOBB ticaret borsasından (borsa seçilebilir). Kanola manuel (Trakya 2025).",
-  "inputsNote": "Mazot: akaryakıt bayi fiyatı, günlük (şehir seçilebilir). Gübre: manuel (yaklaşık)."
+  "inputsNote": "Mazot: akaryakıt bayi fiyatı, günlük (şehir seçilebilir). Gübre: manuel (yaklaşık).",
+  "errors": [
+    "mazot ANKARA: fetch failed",
+    "mazot ISTANBUL: fetch failed",
+    "mazot IZMIR: fetch failed",
+    "mazot KONYA: fetch failed",
+    "mazot ADANA: fetch failed",
+    "mazot BURSA: fetch failed",
+    "mazot ANTALYA: fetch failed",
+    "mazot SAMSUN: fetch failed",
+    "mazot TEKIRDAG: fetch failed",
+    "mazot CANAKKALE: fetch failed"
+  ]
 }
