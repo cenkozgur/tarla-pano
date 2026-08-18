@@ -1,26 +1,26 @@
 {
-  "updatedAt": "2026-08-18T22:00:53.760Z",
+  "updatedAt": "2026-08-18T22:28:51.095Z",
   "fx": [
     {
       "code": "USD",
       "name": "Dolar",
-      "buy": 47.85,
-      "sell": 48.01,
+      "buy": 47.92,
+      "sell": 47.94,
       "change": 0.04
     },
     {
       "code": "EUR",
       "name": "Euro",
-      "buy": 55.47,
-      "sell": 55.57,
-      "change": 0.04
+      "buy": 55.5,
+      "sell": 55.55,
+      "change": 0.05
     },
     {
       "code": "GRA",
       "name": "Gram Altın",
-      "buy": 6678.89,
-      "sell": 6679.79,
-      "change": 0.04
+      "buy": 6680.48,
+      "sell": 6681.47,
+      "change": 0.07
     },
     {
       "code": "CEYREKALTIN",
