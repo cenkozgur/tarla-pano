@@ -1,33 +1,33 @@
 {
-  "updatedAt": "2026-08-19T10:56:40.158Z",
+  "updatedAt": "2026-08-19T11:27:57.208Z",
   "fx": [
     {
       "code": "USD",
       "name": "Dolar",
-      "buy": 47.93,
+      "buy": 47.94,
       "sell": 47.94,
       "change": 0.06
     },
     {
       "code": "EUR",
       "name": "Euro",
-      "buy": 55.68,
-      "sell": 55.7,
-      "change": 0.35
+      "buy": 55.67,
+      "sell": 55.68,
+      "change": 0.32
     },
     {
       "code": "GRA",
       "name": "Gram Altın",
-      "buy": 6730.46,
-      "sell": 6731.45,
-      "change": 0.82
+      "buy": 6737.52,
+      "sell": 6738.47,
+      "change": 0.92
     },
     {
       "code": "CEYREKALTIN",
       "name": "Çeyrek Altın",
-      "buy": 10707.32,
-      "sell": 10951.71,
-      "change": -0.64
+      "buy": 10718.89,
+      "sell": 10963.54,
+      "change": -0.53
     },
     {
       "code": "CUMHURIYETALTINI",
@@ -38,6 +38,14 @@
     }
   ],
   "news": [
+    {
+      "title": "Bayburt'ta Patateste Karantina Hastalığına Rastlanmadı",
+      "url": "https://www.tarimpusulasi.com/haber/bayburtta-patateste-karantina-hastaligina-rastlanmadi-47429",
+      "source": "Tarım Pusulası",
+      "date": "2026-08-19",
+      "summary": "Bayburt'ta patates üretim alanlarında hastalık ve zararlılara yönelik arazi kontrollerinde, karantinaya tabi patates siğiline rastlanmadı.",
+      "content": "BAYBURT — Bayburt İl Tarım ve Orman Müdürlüğü ekipleri, il genelindeki patates üretim alanlarında hastalık ve zararlılara yönelik arazi kontrolleri gerçekleştirdi. Yapılan incelemelerde, karantinaya tabi hastalıklardan başta Patates Siğili (Patates Kanseri) olmak üzere hastalık etmenine rastlanmadığı bildirildi.\n\nİl Tarım ve Orman Müdürlüğünün açıklamasına göre teknik personeller tarafından gerçekleştirilen kontrollerde, Patates Siğili (Patates Kanseri) – Synchytrium endobioticum başta olmak üzere hastalıkların tespiti ve kontrol altına alınmasına yönelik değerlendirmeler yapıldı.\n\nArazi kontrollerinde hastalık etmenine rastlanmadığı belirtilirken, hastalıkların yayılmasının ve olası ürün kayıplarının önlenmesi için patates üretim alanlarının düzenli şekilde takip edilmesinin önemine dikkat çekildi.\n\nMüdürlük, üretim alanlarında hastalık belirtilerinin görülmesi halinde üreticilerin karantina tedbirleri, uygun mücadele yöntemleri ve ruhsatlı bitki koruma ürünleri konusunda bilgi almak amacıyla Bayburt İl Tarım ve Orman Müdürlüğüne başvurmalarını istedi.\n\nBayburt'ta patates üretim alanlarına yönelik hastalık ve zararlı kontrollerinin devam edeceği bildirildi.\n\nMüdürlüğün açıklamasında üreticilere, “Üretimde verim, hastalıkla mücadelede erken teşhis!” mesajı verildi.\n\nTARIM PUSULASI HABER MERKEZİ"
+    },
     {
       "title": "Çinli çiftçi yapay zekâ tavsiyesiyle zarar etti",
       "url": "https://www.tarimpusulasi.com/haber/cinli-ciftci-yapay-zeka-tavsiyesiyle-zarar-etti-47428",
@@ -109,14 +117,6 @@
       "date": "2026-08-18",
       "summary": "Arjantin’in mısır ihracatı temmuzda 5,14 milyon tona ulaşarak aylık bazda rekor kırdı. Sezonun ilk beş ayında ihracat 22,21 milyon tona çıktı.",
       "content": "BUENOS AIRES — Arjantin’in mısır ihracatı temmuz ayında 5,14 milyon tona ulaşarak ülke tarihindeki en yüksek aylık ihracat seviyesine çıktı. Rosario Ticaret Borsası’nın 14 Ağustos tarihli raporuna göre, temmuz ayındaki ihracat bir önceki rekor olan nisan ayındaki 5,08 milyon tonu geride bıraktı.\n\nBöylece sezonun mart-temmuz dönemindeki toplam mısır ihracatı 22,21 milyon tona ulaştı.\n\nRosario Ticaret Borsası, Arjantin’in 2025/26 pazarlama yılı mısır üretimi tahminini de 2,5 milyon ton artırarak 70,5 milyon tona yükseltti. Borsa, mevcut sezonu ülke mısır sektörü açısından tarihsel önem taşıyan bir dönem olarak değerlendirdi.\n\nYağışlar hasat ve ihracat lojistiğini yavaşlatıyor\n\nÖte yandan Arjantin’de tekrarlanan yağışlar, mısırın kurutulmasını yavaşlatırken tarla çalışmalarında da gecikmelere neden oluyor.\n\nKaynak verilere göre mısır hasadının yüzde 89’u tamamlandı. Bu oran, ülkenin son beş yıllık ortalamasının 8 puan gerisinde bulunuyor. Hasat edilmesi gereken alan ise 11,6 milyon hektar olarak belirtiliyor.\n\nBuna rağmen temmuz ayında gerçekleşen 5,14 milyon tonluk ihracat, Arjantin tarihinde bir ayda ulaşılan en yüksek mısır ihracatı oldu.\n\nArjantin küresel mısır ihracatında üçüncü sırada\n\nABD Tarım Bakanlığı verilerine göre Arjantin, dünya mısır ihracatında ABD ve Brezilya’nın ardından üçüncü sırada yer alıyor.\n\nRosario Ticaret Borsası’nın son verileri, ülkenin mevcut sezonda hem ihracat hem de üretim açısından güçlü bir performans gösterdiğine işaret ediyor.\n\nTARIM PUSULASI HABER MERKEZİ"
-    },
-    {
-      "title": "Şeker fiyatları küresel arz açığı beklentisiyle yükseliyor",
-      "url": "https://www.tarimpusulasi.com/haber/seker-fiyatlari-kuresel-arz-acigi-beklentisiyle-yukseliyor-47421",
-      "source": "Tarım Pusulası",
-      "date": "2026-08-18",
-      "summary": "Uluslararası piyasalarda şeker fiyatları yükselirken, 2026/27 ve 2027/28 sezonları için küresel arz açığı beklentileri güçleniyor.",
-      "content": "DÜNYA — Uluslararası şeker piyasalarında fiyatlar 18 Ağustos Salı günü yükselişini hızlandırırken, gelecek sezonlara ilişkin küresel arz açığı beklentileri piyasadaki yükselişi destekliyor.\n\nNew York'ta şeker fiyatları libre başına 17 sentin üzerine çıkarken, Londra'da beyaz şeker fiyatları da yükseldi. Piyasanın odağında ise 2026/27 ve 2027/28 sezonlarında küresel arzın talebi karşılamakta zorlanabileceğine ilişkin tahminler bulunuyor.\n\nNew York'ta şeker 17 sentin üzerine çıktı\n\nBrasília saatiyle yaklaşık 12.00 itibarıyla New York'ta ekim vadeli şeker kontratı libre başına 17,41 sentten işlem gördü. Kontratın değeri önceki seansa göre 54 puan yükseldi.\n\nMart 2027 kontratı da 53 puan artışla 18,42 sent/libre seviyesine çıktı.\n\nLondra'da ekim vadeli beyaz şeker kontratı ton başına 537,40 dolara yükseldi. Kontrattaki artış 141 puan oldu.\n\nAralık vadeli kontrat ise 137 puan yükselerek ton başına 532,80 dolara ulaştı.\n\nLondra'da 16 ayın en yüksek seviyesi\n\nŞeker fiyatlarındaki yükseliş bir önceki seansta da devam etti.\n\nKaynak habere göre Londra'da beyaz şeker fiyatı 16 ayın en yüksek seviyesine ulaştı. New York'ta da fiyatlar son dönemdeki yüksek seviyelerini yeniledi.\n\nPiyasanın yükselişinde temel olarak önümüzdeki sezonlarda küresel şeker arzının daralacağı ve üretim ile tüketim arasında açık oluşabileceğine ilişkin beklentiler etkili oluyor.\n\n2026/27 için arz açığı tahminleri arttı\n\nPiyasadaki arz beklentilerine ilişkin farklı kuruluşların tahminleri de fiyat hareketini destekliyor.\n\nCovrig Analytics, 2026/27 sezonu için daha önce 100 bin tonluk küresel arz fazlası öngörürken, son tahmininde 300 bin tonluk arz açığı beklemeye başladı.\n\nGreen Pool Commodity Specialists ise küresel arz açığı tahminini 1,76 milyon tondan 3,3 milyon tona yükseltti.\n\nStoneX, mayıs ayında açıkladığı 550 bin tonluk arz açığı tahminini 1,7 milyon tona çıkardı.\n\nCzarnikow da 2026/27 sezonuna ilişkin piyasa dengesini aşağı yönlü revize etti. Kuruluş, daha önce 1,4 milyon ton arz fazlası beklerken son tahmininde 100 bin tonluk arz açığı öngördü.\n\nBöylece farklı kuruluşların tahminlerinde 2026/27 sezonu için küresel şeker piyasasında arzın daralacağı beklentisi öne çıktı.\n\n2027/28 sezonunda da açık bekleniyor\n\nArz sıkışıklığı beklentisi bir sonraki sezona da uzanıyor.\n\nCzarnikow'un geçen cuma açıkladığı tahmine göre 2027/28 sezonunda küresel şeker arz açığı 2,9 milyon ton seviyesinde gerçekleşebilir.\n\nKuruluş, dünya şeker üretiminin yüzde 0,7 azalmasını ve toplam üretimin 177 milyon tona gerilemesini bekliyor.\n\nÜretimdeki düşüş beklentisinde başta şeker kamışı ve şeker pancarı ekim alanlarındaki azalma ile önemli üretim bölgelerinde yaşanan olumsuz hava koşullarının etkili olması bekleniyor.\n\nAlıcıların fiyat hareketlerini yakından izlemesi bekleniyor\n\nÖnümüzdeki sezonlarda şeker arzının daha sınırlı olacağına ilişkin tahminler, alıcıların piyasadaki fiyat hareketlerini daha yakından takip etmesine neden oluyor.\n\nKaynak haberde yer alan değerlendirmelere göre, küresel şeker arzındaki olası daralma beklentisi uluslararası fiyatların yükseliş eğilimini destekleyen temel unsurlar arasında bulunuyor.\n\nTARIM PUSULASI HABER MERKEZİ"
     },
     {
       "title": "Şeker operasyonunda dikkat çeken iki isim: Türkşeker’in şaibeli 100 bin tonluk satış yaptığı firmalar da listede",
@@ -328,17 +328,5 @@
   "defaultBorsa": "5ED10",
   "defaultCity": "CANAKKALE",
   "note": "Fiyatlar TOBB ticaret borsasından (borsa seçilebilir). Kanola manuel (Trakya 2025).",
-  "inputsNote": "Mazot: akaryakıt bayi fiyatı, günlük (şehir seçilebilir). Gübre: manuel (yaklaşık).",
-  "errors": [
-    "mazot ANKARA: fetch failed",
-    "mazot ISTANBUL: fetch failed",
-    "mazot IZMIR: fetch failed",
-    "mazot KONYA: fetch failed",
-    "mazot ADANA: fetch failed",
-    "mazot BURSA: fetch failed",
-    "mazot ANTALYA: fetch failed",
-    "mazot SAMSUN: fetch failed",
-    "mazot TEKIRDAG: fetch failed",
-    "mazot CANAKKALE: fetch failed"
-  ]
+  "inputsNote": "Mazot: akaryakıt bayi fiyatı, günlük (şehir seçilebilir). Gübre: manuel (yaklaşık)."
 }
