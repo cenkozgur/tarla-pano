@@ -1,26 +1,26 @@
 {
-  "updatedAt": "2026-08-19T14:17:48.148Z",
+  "updatedAt": "2026-08-19T14:54:35.738Z",
   "fx": [
     {
       "code": "USD",
       "name": "Dolar",
       "buy": 47.93,
       "sell": 47.94,
-      "change": 0.05
+      "change": 0.06
     },
     {
       "code": "EUR",
       "name": "Euro",
       "buy": 55.96,
       "sell": 55.97,
-      "change": 0.85
+      "change": 0.84
     },
     {
       "code": "GRA",
       "name": "Gram Altın",
-      "buy": 6894.4,
-      "sell": 6895.34,
-      "change": 3.27
+      "buy": 6913.36,
+      "sell": 6914.34,
+      "change": 3.56
     },
     {
       "code": "CEYREKALTIN",
@@ -38,6 +38,14 @@
     }
   ],
   "news": [
+    {
+      "title": "Nemrut Dağı’nda biyokaçakçılığa 1,4 milyon lira ceza",
+      "url": "https://www.tarimpusulasi.com/haber/nemrut-daginda-biyokacakciliga-14-milyon-lira-ceza-47435",
+      "source": "Tarım Pusulası",
+      "date": "2026-08-19",
+      "summary": "Adıyaman’daki Nemrut Dağı Milli Parkı’ndan izinsiz tür toplayıcılığı yaptığı belirlenen 2 yabancı uyruklu kişiye 1,4 milyon lira idari para cezası uygulandı. Operasyonda ele geçirilen 16 çekirge ise yeniden doğaya bırakıldı.",
+      "content": "ADIYAMAN — Tarım ve Orman Bakanı İbrahim Yumaklı, Nemrut Dağı Milli Parkı’ndan izinsiz şekilde tür toplayıcılığı yapan 2 yabancı uyruklu kişiye ilgili mevzuat kapsamında 1,4 milyon lira idari para cezası uygulandığını açıkladı.\n\nYumaklı, sosyal medya hesabından yaptığı açıklamada, biyokaçakçılıkla mücadele kapsamında gerçekleştirilen operasyona ilişkin bilgi verdi.\n\nOperasyonun Doğa Koruma ve Milli Parklar Genel Müdürlüğü (DKMP) ile Adıyaman İl Emniyet Müdürlüğü’nün koordinasyonunda gerçekleştirildiğini belirten Yumaklı, Nemrut Dağı Milli Parkı’ndan izinsiz şekilde tür toplayıcılığı yapan 2 yabancı uyruklu kişinin tespit edildiğini bildirdi.\n\nŞahıslara, ilgili mevzuat kapsamında 1,4 milyon lira idari para cezası uygulandığı belirtildi.\n\nOperasyonda ele geçirilen 16 çekirge ise ekipler tarafından yeniden doğal yaşam alanına bırakıldı.\n\nBakan Yumaklı, ülkenin ekolojik zenginliğinin korunmasına yönelik çalışmaların sürdürüleceğini belirterek, biyokaçakçılıkla mücadelenin devam edeceği mesajını verdi.\n\nYumaklı, ülkenin ekolojik mirasının her alanda korunacağını ifade etti.\n\nTARIM PUSULASI HABER MERKEZİ"
+    },
     {
       "title": "CHP’li Aygun’dan ayçiçeği üreticisi için ithalat tepkisi",
       "url": "https://www.tarimpusulasi.com/haber/chpli-aygundan-aycicegi-ureticisi-icin-ithalat-tepkisi-47434",
@@ -93,14 +101,6 @@
       "date": "2026-08-19",
       "summary": "Çin'in Anhui eyaletinde bir çiftçi, susam üretiminde yapay zekânın ilaçlama tavsiyesini uyguladıktan sonra yaklaşık 10 hektar fideyi kaybetti.",
       "content": "ÇİN — Çin'in Anhui eyaletine bağlı Chuzhou kentinde bir çiftçinin, susam üretiminde yapay zekâdan aldığı tavsiyeyi uygulaması sonrası yaklaşık 10 hektarlık fide zarar gördü.\n\nCTWANT'ın haberine göre çiftçi, yaklaşık bir yıldır ekim takvimi, gübreleme ve pestisit kullanımı gibi konularda yapay zekâdan yararlanıyordu.\n\nÇiftçi, temmuz ayında susam tarlasındaki yabancı ot ve zararlılarla mücadele konusunda yapay zekâdan tavsiye aldı. Yapay zekânın önerdiği flupyradifurone, flufenoxam, thiamethoxam ve emamectin benzoate ürünlerini kullanarak ilaçlama yapan çiftçi, ertesi gün susam fidelerinin öldüğünü fark etti.\n\nHaberde, zararın temel nedeninin flufenoxam olabileceğinin ortaya çıktığı belirtildi.\n\nTARIM PUSULASI HABER MERKEZİ"
-    },
-    {
-      "title": "TMO hububat alım ödemelerinde 24,5 milyar TL aktardı",
-      "url": "https://www.tarimpusulasi.com/haber/tmo-hububat-alim-odemelerinde-245-milyar-tl-aktardi-47427",
-      "source": "Tarım Pusulası",
-      "date": "2026-08-19",
-      "summary": "TMO, 23-29 Temmuz 2026'da teslim edilen hububatın ürün bedeli olarak 24 milyar 530 milyon lirayı üreticilerin banka hesaplarına aktardı.",
-      "content": "ANKARA — Toprak Mahsulleri Ofisi (TMO), 23-29 Temmuz 2026 tarihleri arasında teslim edilen hububat için toplam 24 milyar 530 milyon lira ürün bedelinin üreticilerin banka hesaplarına aktarıldığını açıkladı.\n\nTMO'nun sosyal medya hesaplarından paylaşılan bilgilendirmeye göre, söz konusu dönemde teslim edilen hububatın ürün bedeli ödemeleri gerçekleştirildi. Kurum, ödeme yapılan üreticilerin SMS ile bilgilendirildiğini de duyurdu.\n\n24,53 milyar liralık ödeme\n\nTMO'nun açıklamasında, 23-29 Temmuz 2026 tarihleri arasında teslim edilen hububat için ürün bedeli olarak 24 milyar 530 milyon TL'nin üretici banka hesaplarına aktarıldığı belirtildi.\n\nBöylece söz konusu dönemde teslim edilen hububatın bedelleri üreticilere ödenmiş oldu.\n\nÖdemeler periyodik olarak sürecek\n\nTMO, hububat ürün bedeli ödemelerinin periyodik olarak devam edeceğini bildirdi.\n\nÖdemesi gerçekleştirilen üreticilere SMS yoluyla bilgi verileceği belirtilirken, paylaşılan bilgilendirmede üreticilere yönelik “Hayırlı ve bereketli olsun” mesajına da yer verildi.\n\nTARIM PUSULASI HABER MERKEZİ"
     },
     {
       "title": "Dünya tarım devinde dikkat çeken dönüşüm: Hayvancılığın ağırlığı artıyor",
@@ -328,5 +328,17 @@
   "defaultBorsa": "5ED10",
   "defaultCity": "CANAKKALE",
   "note": "Fiyatlar TOBB ticaret borsasından (borsa seçilebilir). Kanola manuel (Trakya 2025).",
-  "inputsNote": "Mazot: akaryakıt bayi fiyatı, günlük (şehir seçilebilir). Gübre: manuel (yaklaşık)."
+  "inputsNote": "Mazot: akaryakıt bayi fiyatı, günlük (şehir seçilebilir). Gübre: manuel (yaklaşık).",
+  "errors": [
+    "mazot ANKARA: fetch failed",
+    "mazot ISTANBUL: fetch failed",
+    "mazot IZMIR: fetch failed",
+    "mazot KONYA: fetch failed",
+    "mazot ADANA: fetch failed",
+    "mazot BURSA: fetch failed",
+    "mazot ANTALYA: fetch failed",
+    "mazot SAMSUN: fetch failed",
+    "mazot TEKIRDAG: fetch failed",
+    "mazot CANAKKALE: fetch failed"
+  ]
 }
