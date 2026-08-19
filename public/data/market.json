@@ -1,43 +1,51 @@
 {
-  "updatedAt": "2026-08-19T12:53:19.584Z",
+  "updatedAt": "2026-08-19T13:47:21.407Z",
   "fx": [
     {
       "code": "USD",
       "name": "Dolar",
-      "buy": 47.94,
+      "buy": 47.93,
       "sell": 47.94,
-      "change": 0.06
+      "change": 0.05
     },
     {
       "code": "EUR",
       "name": "Euro",
-      "buy": 55.81,
-      "sell": 55.82,
-      "change": 0.57
+      "buy": 55.91,
+      "sell": 55.92,
+      "change": 0.75
     },
     {
       "code": "GRA",
       "name": "Gram Altın",
-      "buy": 6812.57,
-      "sell": 6813.57,
-      "change": 2.05
+      "buy": 6873.12,
+      "sell": 6874.11,
+      "change": 2.95
     },
     {
       "code": "CEYREKALTIN",
       "name": "Çeyrek Altın",
-      "buy": 10812.45,
-      "sell": 11061.46,
-      "change": 0.36
+      "buy": 10896.59,
+      "sell": 11145.16,
+      "change": 1.12
     },
     {
       "code": "CUMHURIYETALTINI",
       "name": "Cumhuriyet Altını",
-      "buy": 44303,
-      "sell": 44975,
-      "change": -0.73
+      "buy": 45222,
+      "sell": 45906,
+      "change": 1.33
     }
   ],
   "news": [
+    {
+      "title": "Sakarya’da mevsimlik tarım işçisi çocuklara eğitim desteği",
+      "url": "https://www.tarimpusulasi.com/haber/sakaryada-mevsimlik-tarim-iscisi-cocuklara-egitim-destegi-47430",
+      "source": "Tarım Pusulası",
+      "date": "2026-08-19",
+      "summary": "Türkiye Eğitim Gönüllüleri Vakfı, Ferrero Değerli Tarım’ın desteğiyle yürüttüğü Dört Mevsim Eğitim Projesi kapsamında Sakarya’da mevsimlik tarım işçisi çocuklara eğitim desteği sağlıyor.",
+      "content": "SAKARYA — Türkiye Eğitim Gönüllüleri Vakfı (TEGV), Ferrero Değerli Tarım’ın desteğiyle 2021 yılından bu yana sürdürdüğü Dört Mevsim Eğitim Projesini bu yıl da Sakarya’da uyguluyor.\n\nFındık hasadı döneminde aileleriyle birlikte bölgeye gelen mevsimlik tarım işçisi çocuklara yönelik proje kapsamında, Karapürçek ilçesinde iki Ateşböceği Öğrenim Birimi faaliyet gösteriyor.\n\nÇocuklar bu birimlerde bilim, sanat ve temel yaşam becerileri alanlarında hazırlanan eğitim içerikleriyle buluşturuluyor.\n\nHasat döneminde eğitimden kopmamaları hedefleniyor\n\nDört Mevsim Eğitim Projesi, mevsimlik tarım işçisi ailelerin çocuklarının hasat döneminde eğitimden uzak kalmalarının önüne geçilmesi amacıyla yürütülüyor.\n\nAteşböceği Öğrenim Birimlerinde düzenlenen uygulamalı etkinliklerle çocukların akademik, sosyal ve duygusal gelişimlerinin desteklenmesi hedefleniyor.\n\nProgram kapsamında bilimsel düşünme, yaratıcılık, sanat, problem çözme, iletişim ve iş birliği becerilerine yönelik çalışmalar gerçekleştiriliyor.\n\nTEGV: “Nitelikli eğitime eşit koşullarda erişim hakkı”\n\nTEGV Genel Müdürü Sait Tosyalı, projenin çocuklara bulundukları bölgelerde nitelikli eğitim desteği sağlamayı amaçladığını belirtti.\n\nTosyalı, mevsimlik tarım işçisi ailelerin çocukları için güvenli, merak ederek öğrenebilecekleri ve potansiyellerini ortaya koyabilecekleri öğrenme ortamları oluşturduklarını ifade etti.\n\nTEGV Genel Müdürü, Ferrero Değerli Tarım ile altı yıldır sürdürülen iş birliği kapsamında yüzlerce çocuğun eğitim yolculuğuna destek olmaktan memnuniyet duyduklarını kaydetti.\n\nFerrero: “Sürdürülebilirlik eğitim fırsatlarıyla birlikte ele alınmalı”\n\nFerrero Fındık Genel Müdürü Bamsı Akın da sürdürülebilirliğin yalnızca tarımsal üretimle sınırlı olmadığını, çocukların eğitim ve gelişim fırsatlarına erişiminin de bu yaklaşımın bir parçası olduğunu belirtti.\n\nAkın, Dört Mevsim Eğitim Projesi ile mevsimlik tarım işçisi ailelerin çocuklarının güvenli ve nitelikli eğitim ortamlarına erişimine katkı sağlamaktan memnuniyet duyduklarını ifade etti.\n\nİlk 5 yılda yaklaşık 250 çocuğa ulaşıldı\n\n2021 yılında başlayan proje, her yıl fındık hasadı döneminde Sakarya’da uygulanıyor. Projenin ilk beş yılında yaklaşık 250 çocuğa ulaşıldı.\n\nTEGV, proje kapsamında çocukların eğitimle bağlarının güçlendirilmesini, gelişimlerinin desteklenmesini ve hasat döneminin onlar için verimli bir öğrenme deneyimine dönüştürülmesini amaçlıyor.\n\nTARIM PUSULASI HABER MERKEZİ"
+    },
     {
       "title": "Bayburt'ta Patateste Karantina Hastalığına Rastlanmadı",
       "url": "https://www.tarimpusulasi.com/haber/bayburtta-patateste-karantina-hastaligina-rastlanmadi-47429",
@@ -109,14 +117,6 @@
       "date": "2026-08-19",
       "summary": "Pancar Şekeri Üreticileri Derneği (PANŞEK), nişasta bazlı şeker üretimi ve ticaretine yönelik yürütülen soruşturmayla ilgili açıklama yaptı. Soruşturmanın Şeker Dairesi Başkanlığı ile Vergi Denetim Kurulu Başkanlığının çalışmaları sonucunda ortaya konulan tespitler doğrultusunda yürütüldüğüne dikkat",
       "content": "Haber Merkezi / Pancar Şekeri Üreticileri Derneği (PANŞEK), nişasta bazlı şeker üretimi ve ticaretine yönelik yürütülen soruşturma kapsamında gerçekleştirilen adli işlemlere ilişkin yazılı açıklama yaptı.\n\n“Şeker Sektöründe Şeffaflık ve Adil Rekabet İçin Atılan Adımı Önemsiyoruz” başlığıyla yayımlanan açıklamada, kamuoyuna yansıyan soruşturmanın yakından takip edildiği belirtildi.\n\nPANŞEK, şeker sektörünün üreticisinden sanayicisine, çalışanından tüketicisine kadar milyonlarca kişiyi doğrudan ilgilendirdiğine işaret ederek, sektörün mevzuata uygun, şeffaf, denetlenebilir ve adil rekabet şartları içerisinde faaliyet göstermesinin büyük önem taşıdığını kaydetti.\n\nŞeker Dairesi ve Vergi Denetim Kuruluna dikkat çekildi\n\nPANŞEK'in açıklamasında soruşturmanın arka planına ilişkin dikkat çeken bir ayrıntıya da yer verildi.\n\nDernek, Şeker Dairesi Başkanlığı ile Vergi Denetim Kurulu Başkanlığının çalışmaları sonucunda ortaya konulan tespitler doğrultusunda soruşturmanın yürütüldüğünü belirtti.\n\nAçıklamada, Adalet Bakanlığının koordinasyonunda İçişleri, Tarım ve Orman ile Hazine ve Maliye bakanlıklarının iş birliğiyle yürütülen soruşturma ve hukuki sürecin kararlılıkla sürdürülmesinin önemli olduğu vurgulandı.\n\n“Haksız rekabetin önlenmesini savunuyoruz”\n\nPANŞEK, pancar üreticilerinin emeğinin ve üretiminin korunmasının yanı sıra sektörde haksız rekabetin önlenmesi gerektiğinin altını çizerek şu değerlendirmede bulundu:\n\n“PANŞEK olarak; çiftçimizin alın terinin, emeğinin ve üretiminin korunmasını; sektörde haksız rekabetin önlenmesini ve kurallara uygun çalışan kuruluşların haklarının gözetilmesini her zaman savunuyoruz.”\n\nAlternatif tatlandırıcılara da dikkat çekildi\n\nAçıklamada soruşturmanın yanı sıra tüketici sağlığı ve alternatif tatlandırıcıların kullanımına ilişkin denetimlere de dikkat çekildi.\n\nPANŞEK, şeker sektöründe sürdürülebilirliğin sağlanması ve toplum sağlığının korunması amacıyla devletin ilgili kurumları tarafından konulmuş kural ve kaidelere istisnasız uyulması gerektiğini belirtti.\n\nDernek ayrıca, tüketici sağlığını tehdit eden alternatif tatlandırıcıların kullanımının kontrol altına alınmasına yönelik atılan ve atılacak adımları desteklediğini açıkladı.\n\nCumhurbaşkanı ve dört bakana teşekkür\n\nPANŞEK açıklamasında Cumhurbaşkanı Recep Tayyip Erdoğan'ın yanı sıra Adalet Bakanı Akın Gürlek, İçişleri Bakanı Mustafa Çiftçi, Tarım ve Orman Bakanı İbrahim Yumaklı ve Hazine ve Maliye Bakanı Mehmet Şimşek'e teşekkür edildi.\n\nSoruşturmada görev alan kamu personeline de teşekkür eden dernek, şeker sektöründe hukukun üstünlüğü, şeffaflık ve adil rekabet ilkeleri doğrultusundaki çalışmalarını sürdüreceğini bildirdi."
-    },
-    {
-      "title": "Arjantin’in mısır ihracatı temmuzda 5,14 milyon tona çıktı",
-      "url": "https://www.tarimpusulasi.com/haber/arjantinin-misir-ihracati-temmuzda-514-milyon-tona-cikti-47422",
-      "source": "Tarım Pusulası",
-      "date": "2026-08-18",
-      "summary": "Arjantin’in mısır ihracatı temmuzda 5,14 milyon tona ulaşarak aylık bazda rekor kırdı. Sezonun ilk beş ayında ihracat 22,21 milyon tona çıktı.",
-      "content": "BUENOS AIRES — Arjantin’in mısır ihracatı temmuz ayında 5,14 milyon tona ulaşarak ülke tarihindeki en yüksek aylık ihracat seviyesine çıktı. Rosario Ticaret Borsası’nın 14 Ağustos tarihli raporuna göre, temmuz ayındaki ihracat bir önceki rekor olan nisan ayındaki 5,08 milyon tonu geride bıraktı.\n\nBöylece sezonun mart-temmuz dönemindeki toplam mısır ihracatı 22,21 milyon tona ulaştı.\n\nRosario Ticaret Borsası, Arjantin’in 2025/26 pazarlama yılı mısır üretimi tahminini de 2,5 milyon ton artırarak 70,5 milyon tona yükseltti. Borsa, mevcut sezonu ülke mısır sektörü açısından tarihsel önem taşıyan bir dönem olarak değerlendirdi.\n\nYağışlar hasat ve ihracat lojistiğini yavaşlatıyor\n\nÖte yandan Arjantin’de tekrarlanan yağışlar, mısırın kurutulmasını yavaşlatırken tarla çalışmalarında da gecikmelere neden oluyor.\n\nKaynak verilere göre mısır hasadının yüzde 89’u tamamlandı. Bu oran, ülkenin son beş yıllık ortalamasının 8 puan gerisinde bulunuyor. Hasat edilmesi gereken alan ise 11,6 milyon hektar olarak belirtiliyor.\n\nBuna rağmen temmuz ayında gerçekleşen 5,14 milyon tonluk ihracat, Arjantin tarihinde bir ayda ulaşılan en yüksek mısır ihracatı oldu.\n\nArjantin küresel mısır ihracatında üçüncü sırada\n\nABD Tarım Bakanlığı verilerine göre Arjantin, dünya mısır ihracatında ABD ve Brezilya’nın ardından üçüncü sırada yer alıyor.\n\nRosario Ticaret Borsası’nın son verileri, ülkenin mevcut sezonda hem ihracat hem de üretim açısından güçlü bir performans gösterdiğine işaret ediyor.\n\nTARIM PUSULASI HABER MERKEZİ"
     },
     {
       "title": "Şeker operasyonunda dikkat çeken iki isim: Türkşeker’in şaibeli 100 bin tonluk satış yaptığı firmalar da listede",
@@ -328,5 +328,17 @@
   "defaultBorsa": "5ED10",
   "defaultCity": "CANAKKALE",
   "note": "Fiyatlar TOBB ticaret borsasından (borsa seçilebilir). Kanola manuel (Trakya 2025).",
-  "inputsNote": "Mazot: akaryakıt bayi fiyatı, günlük (şehir seçilebilir). Gübre: manuel (yaklaşık)."
+  "inputsNote": "Mazot: akaryakıt bayi fiyatı, günlük (şehir seçilebilir). Gübre: manuel (yaklaşık).",
+  "errors": [
+    "mazot ANKARA: fetch failed",
+    "mazot ISTANBUL: fetch failed",
+    "mazot IZMIR: fetch failed",
+    "mazot KONYA: fetch failed",
+    "mazot ADANA: fetch failed",
+    "mazot BURSA: fetch failed",
+    "mazot ANTALYA: fetch failed",
+    "mazot SAMSUN: fetch failed",
+    "mazot TEKIRDAG: fetch failed",
+    "mazot CANAKKALE: fetch failed"
+  ]
 }
