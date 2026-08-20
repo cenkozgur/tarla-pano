@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-20T13:03:27.070Z",
+  "updatedAt": "2026-08-20T13:52:29.213Z",
   "fx": [
     {
       "code": "USD",
@@ -11,23 +11,23 @@
     {
       "code": "EUR",
       "name": "Euro",
-      "buy": 56.2,
-      "sell": 56.22,
-      "change": 0.36
+      "buy": 56.14,
+      "sell": 56.15,
+      "change": 0.24
     },
     {
       "code": "GRA",
       "name": "Gram Altın",
-      "buy": 6912.47,
-      "sell": 6913.44,
-      "change": -0.79
+      "buy": 6911.09,
+      "sell": 6912.03,
+      "change": -0.81
     },
     {
       "code": "CEYREKALTIN",
       "name": "Çeyrek Altın",
-      "buy": 10964.41,
-      "sell": 11214.47,
-      "change": 0.7
+      "buy": 10966.69,
+      "sell": 11216.81,
+      "change": 0.72
     },
     {
       "code": "CUMHURIYETALTINI",
@@ -38,6 +38,22 @@
     }
   ],
   "news": [
+    {
+      "title": "OGM, Ege ve Akdeniz’de 10 günlük yangın riskine dikkat çekti",
+      "url": "https://www.tarimpusulasi.com/haber/ogm-ege-ve-akdenizde-10-gunluk-yangin-riskine-dikkat-cekti-47450",
+      "source": "Tarım Pusulası",
+      "date": "2026-08-20",
+      "summary": "OGM, önümüzdeki 10 günde yüksek sıcaklık, düşük nem ve kuvvetli rüzgârın birlikte görüldüğü günlerde yangın riskinin artabileceğini bildirdi.",
+      "content": "ANKARA — Orman Genel Müdürlüğü (OGM), meteoroloji tahminlerine göre özellikle Ege, Akdeniz, İç Anadolu’nun güneyi ve Güneydoğu Anadolu’da yüksek sıcaklık ve yağışsız havanın etkili olmasının beklendiğini belirterek, önümüzdeki 10 günlük süreçte orman yangını riskine karşı vatandaşları uyardı.\n\nOGM, bazı bölgelerde kuvvetli rüzgârın da etkili olmasıyla yangınların çıkma ve hızla yayılma riskinin artabileceğine dikkat çekti.\n\nOGM’DEN 30+30+30 KURALI UYARISI\n\nOGM, önümüzdeki 10 günlük süreçte sıcaklığın yüksek, nemin düşük ve rüzgârın kuvvetli olduğu günlerde vatandaşların daha dikkatli olması gerektiğini bildirdi.\n\nKurumun açıklamasında, 30+30+30 kuralına dikkat çekildi. Buna göre sıcaklığın 30 derecenin üzerinde, nemin yüzde 30’un altında ve rüzgârın hızının saatte 30 kilometrenin üzerinde olması halinde yangın riskinin önemli ölçüde arttığı belirtildi.\n\nBu üç koşulun aynı anda görüldüğü günlerde özellikle ormanlık alanlarda ateş yakılması ve yangına neden olabilecek faaliyetlerden kaçınılması gerektiği vurgulandı.\n\nYANGINLARA KARŞI ÖNLEMLER ARTIRILDI\n\nOGM, önümüzdeki 10 günlük kritik süreçte yangın riskine karşı erken tespit ve hızlı müdahale kapasitesini yüksek seviyede tuttuğunu açıkladı.\n\nKurumun açıklamasına göre orman alanları 7 gün 24 saat İHA’lar, gözetleme kuleleri, insansız hava araçları ve sahada görev yapan devriye ekipleriyle takip ediliyor.\n\nRiskin yükseldiği bölgelerde ekiplerin konuşlanma ve devriye faaliyetlerinin artırıldığı belirtilirken, olası yangınların en kısa sürede tespit edilerek büyümeden müdahale edilmesinin hedeflendiği kaydedildi.\n\nOGM’DEN 112’YE İHBAR ÇAĞRISI\n\nOGM, orman yangınlarıyla mücadelede erken ihbarın kritik önem taşıdığına dikkat çekti.\n\nKurum, vatandaşlardan ormanlık alanlarda duman veya ateş görülmesi halinde vakit kaybetmeden 112 Acil Çağrı Merkezi’ne ihbarda bulunmalarını istedi.\n\nOGM, meteorolojik koşulların önümüzdeki günlerde yakından takip edileceğini belirterek, Yeşil Vatan’ın korunmasında vatandaşların göstereceği hassasiyetin önemine vurgu yaptı.\n\nTARIM PUSULASI HABER MERKEZİ"
+    },
+    {
+      "title": "Giresun’da 100 arıcıya 2 bin strafor kovan dağıtıldı",
+      "url": "https://www.tarimpusulasi.com/haber/giresunda-100-ariciya-2-bin-strafor-kovan-dagitildi-47449",
+      "source": "Tarım Pusulası",
+      "date": "2026-08-20",
+      "summary": "Giresun’da DOKAP destekli proje kapsamında 100 üreticiye yüzde 70 hibe ve yüzde 30 üretici katkısıyla 2 bin strafor kovan dağıtıldı.",
+      "content": "GİRESUN — Giresun İl Tarım ve Orman Müdürlüğü tarafından hazırlanan ve Doğu Karadeniz Projesi Bölge Kalkınma İdaresi Başkanlığı (DOKAP) tarafından finanse edilen Arıcılığın Desteklenmesi ve Geliştirilmesi Projesi kapsamında 100 üreticiye 2 bin adet Langstroth tipi strafor kovan dağıtıldı.\n\nİl Müdürlüğü kampüsünde 20 Ağustos 2026 tarihinde gerçekleştirilen proje etkinliğinde dağıtılan kovanlar, yüzde 70 hibe ve yüzde 30 üretici katkısı modeliyle üreticilere ulaştırıldı.\n\nProjeden, Giresun Arı Yetiştiricileri Birliği ile Bulancak ve Şebinkarahisar Bal Üreticileri Birliği üyeleri arasından 100 üreticinin yararlandığı belirtildi.\n\n2 BİN KOVAN 100 ÜRETİCİYE DAĞITILDI\n\nProje kapsamında toplam 2 bin adet Langstroth tipi strafor kovan dağıtımı gerçekleştirildi.\n\nKaynakta belirtilen 100 üretici ve 2 bin kovan sayısı birlikte değerlendirildiğinde, dağıtılan kovan sayısı üretici başına ortalama 20 kovana karşılık geliyor.\n\nKovanların yüzde 70'i proje kapsamında hibe desteğiyle, yüzde 30'u ise üretici katkısıyla karşılandı.\n\nPROJE ETKİNLİĞİNE KURUMLAR VE ARICILAR KATILDI\n\nİl Müdürlüğü kampüsünde gerçekleştirilen etkinliğe İl Tarım ve Orman Müdürü Mustafa Ensar Yılmaz, DOKAP Başkanı Hakan Gültekin, Giresun Arı Yetiştiricileri Birliği Başkanı Kubilay Elevli, Bulancak Bal Üreticileri Birliği Başkanı Erdoğan Üstün, kurum personeli ve arı yetiştiricileri katıldı.\n\nSTRAFOR KOVANLARIN ÖZELLİKLERİ\n\nİl Tarım ve Orman Müdürlüğünün açıklamasında, strafor kovanların sektördeki yeniliklerin tanıtılması ve verimliliğin artırılması amacıyla dağıtıldığı belirtildi.\n\nAçıklamaya göre strafor kovanların yüksek ısı yalıtımı, arıların kış döneminde daha az bal tüketmesine ve ilkbaharda daha erken ve hızlı gelişmesine katkı sağlıyor.\n\nAhşap kovanlara kıyasla daha hafif olduğu belirtilen strafor kovanların taşımayı kolaylaştırdığı, arının enerjisini ısı üretmek yerine bala harcamasına yardımcı olduğu ve bu yolla bal veriminin artmasına katkı sağladığı ifade edildi.\n\nTARIM PUSULASI HABER MERKEZİ"
+    },
     {
       "title": "Rize’de kafes balıkçılığı projesine karşı nöbette 4 gözaltı",
       "url": "https://www.tarimpusulasi.com/haber/rizede-kafes-balikciligi-projesine-karsi-nobette-4-gozalti-47448",
@@ -101,22 +117,6 @@
       "date": "2026-08-20",
       "summary": "Puratos’un Yadigâr Buğdaylar projesi kapsamında Sivas’ın Kangal ilçesinde yetiştirilen Zerun buğdayında üçüncü hasat tamamlandı.",
       "content": "SİVAS — Puratos Türkiye’nin Anadolu’nun yerel buğday çeşitlerini korumak ve yeniden üretim döngüsüne kazandırmak amacıyla yürüttüğü Yadigâr Buğdaylar projesi kapsamında Sivas’ın Kangal ilçesine bağlı Kuşkayası Köyü’nde yetiştirilen Zerun buğdayında üçüncü hasat tamamlandı.\n\nBölgenin tarım kültürünü sürdüren Aktan Ailesi ile iş birliği içinde gerçekleştirilen üretimde ulaşılan üçüncü hasat, Zerun buğdayının yeniden üretim sürecinin devamlılığı açısından projenin yeni aşaması olarak değerlendiriliyor.\n\nZerun buğdayında üç yıllık üretim süreci\n\nYadigâr Zerun’un ekiminden hasadına uzanan üç yıllık süreçte, buğdayın farklı dönemlerdeki gelişimi ve üretim koşulları takip edildi.\n\nProje kapsamında her sezon elde edilen gözlem ve verilerin; yerel buğday çeşidinin toprak ve iklim koşullarına verdiği yanıtın yanı sıra üretim sürecinin daha iyi anlaşılmasına katkı sağladığı aktarıldı.\n\nÜçüncü hasatla birlikte Zerun’un yeniden üretim döngüsündeki sürekliliğinin güçlendirilmesi ve proje kapsamında elde edilen bilgi birikiminin artırılması hedefleniyor.\n\nZerun’dan ekşi maya çalışmasına\n\nProje kapsamında Zerun buğdayının yalnızca yeniden yetiştirilmesi değil, Anadolu’nun ekmekçilik mirasıyla yeniden buluşturulmasına yönelik çalışmalar da yürütülüyor.\n\nKaynak metne göre Türkiye’de ilk kez bir yadigâr buğdaydan ekşi maya üretilerek, yerel buğdayın karakterini taşıyan bir maya kültürü üzerinde çalışma gerçekleştirildi.\n\nYeni hasat edilen Zerun buğdayının da bu çalışmanın devamlılığı açısından önem taşıdığı belirtildi.\n\nÇalışmalar bilim kurulunun rehberliğinde yürütülüyor\n\nYadigâr Buğdaylar projesi, Prof. Dr. Mehmet Sertaç Özer, Prof. Dr. Zafer Yenal, Prof. Dr. Sevinç Yücecan ve Ziraat Yüksek Mühendisi Nesrin Karataştan oluşan bilim kurulunun rehberliğinde yürütülüyor.\n\nBilim kurulunun çalışmalarında Anadolu buğdaylarının tarihsel, besinsel ve sosyo-ekonomik değerinin yanı sıra tarımsal çeşitliliğin korunması, beslenme kalitesinin güçlendirilmesi ve yerel üretim modellerinin sürdürülebilirliği konularına odaklanıldığı bildirildi.\n\nZerun’un ekimden hasada kadar olan üretim süreci de bilimsel analizler ve saha gözlemleriyle takip ediliyor.\n\n“Üretimin yıllar içinde devamlılığını sağlamak hedeflerimizden biri”\n\nPuratos Türkiye Genel Müdürü Bora Akın, Zerun buğdayında üçüncü hasada ulaşılmasının projenin uzun vadeli üretim yaklaşımı açısından önem taşıdığını belirtti.\n\nAkın, üç yıl önce yeniden üretime kazandırılması amacıyla başlatılan çalışmada üçüncü hasadın gerçekleştirildiğini ifade ederek, yalnızca yerel bir buğday çeşidini yeniden üretmenin değil, bu üretimin yıllar boyunca devam etmesini sağlamanın da temel hedeflerden biri olduğunu söyledi.\n\nZerun’un yeniden üretim döngüsüne dahil olmasının üçüncü hasatla birlikte devamlılık kazandığını belirten Akın, Anadolu’nun tarımsal mirasının üretimde yaşatılmasına önem verdiklerini ve Zerun’un üretimini desteklemeyi sürdüreceklerini kaydetti.\n\nPuratos Türkiye, proje kapsamında yerel buğday çeşitlerinin korunması, yeniden üretim döngüsüne kazandırılması ve bu çeşitlerin geleceğin gıda kültüründe yaşatılmasına yönelik çalışmalarını sürdüreceğini bildirdi.\n\nÜçüncü hasatla birlikte Zerun’un üretim süreci devam ederken, projede elde edilen bilgi ve deneyimin yerel çeşitlerin korunmasına ve ekmekçilik alanında değerlendirilmesine katkı sağlaması hedefleniyor.\n\nTARIM PUSULASI HABER MERKEZİ"
-    },
-    {
-      "title": "Antalya Büyükşehir’den tarımsal sulamaya 419 milyon TL destek",
-      "url": "https://www.tarimpusulasi.com/haber/antalya-buyuksehirden-tarimsal-sulamaya-419-milyon-tl-destek-47441",
-      "source": "Tarım Pusulası",
-      "date": "2026-08-20",
-      "summary": "Antalya Büyükşehir Belediyesi, 2019’dan bu yana 26 kapalı sulama tesisiyle 43 bin dekar alanı sulamaya açarken kooperatiflere enerji desteği de sağlıyor.",
-      "content": "ANTALYA — Antalya Büyükşehir Belediyesi, tarımsal sulama kooperatifleriyle iş birliği kapsamında 2019 yılından bu yana 26 kapalı sistem tarımsal sulama tesisi yaparak hizmete sundu. Tesislerden 4 bin 690 çiftçi, toplam 43 bin dekar alanda kapalı sistem sulama imkânından yararlanıyor.\n\nBelediyenin tarımsal sulama destekleri bununla sınırlı kalmazken, 375 tarımsal sulama kooperatifi ve muhtarlığa 644 bin 673 metre tarımsal sulama borusu desteği sağlandığı bildirildi. Desteklerle su kayıplarının azaltılması ve vahşi sulamanın önüne geçilmesi amaçlanıyor.\n\n53 kooperatifin enerji ihtiyacının yüzde 85'i karşılanıyor\n\nAntalya Büyükşehir Belediyesi’ne ait GES tesislerinde üretilen enerjiyle 53 tarımsal sulama kooperatifinin enerji ihtiyacının yüzde 85’i karşılanıyor.\n\nTarımsal Hizmetler Dairesi Başkan Vekili Sertaç Gökhan, 2019-2026 yılları arasında 53 tarımsal sulama kooperatifine ve Büyükşehir Belediyesi tarafından işletilen tesislere güncel değerlerle yaklaşık 419 milyon TL enerji desteği sağlandığını açıkladı.\n\nGökhan, belediyenin tarımsal sulama kooperatifleri, çiftçiler ve üreticilere yönelik desteklerinin sürdürüleceğini belirtti.\n\nSulama desteği su maliyetine de yansıyor\n\nDemre Beymelek Sulama Kooperatifi Başkanı Ergün İnceoğlu, enerji desteğinin sondajdan dağıtım hattına, havuzlardan arazilere kadar kullanılan elektrik maliyetini kapsadığını ifade etti.\n\nİnceoğlu, enerji desteği sayesinde sulama suyunun tonunun 8 TL olduğunu, belediye desteği bulunmaması halinde bu fiyatın 25 TL’nin altına indirilemeyeceğini söyledi.\n\nKaynak metindeki bu iki fiyat arasındaki fark 17 TL/ton olarak hesaplanıyor. Buna göre destekli fiyat, belirtilen desteksiz alt sınırın yaklaşık yüzde 68 altında bulunuyor. Bu hesaplama yalnızca kaynak metindeki fiyatlar üzerinden yapılmıştır.\n\nKapalı sulama sistemleri üretim alanlarını genişletti\n\nDemre Beymelek Mahallesi’nde kapalı sulama sisteminden yararlanan üretici Vedat Zorlu, daha önce Demre Çayı’ndan traktör ve tankerlerle su taşıyarak üretim yaptıklarını, sulama suyunun bölgeye ulaştırılmasıyla üretim alanlarının genişlediğini ve çiftçilerin kazançlarını artırabildiğini ifade etti.\n\nÜretici Muhammed Karaduran ise su motorlarının sürekli çalışmasının üreticiler açısından yüksek maliyet oluşturduğunu belirterek, Büyükşehir Belediyesi’nin enerji desteğinin bu maliyetin azaltılmasına katkı sağladığını söyledi.\n\nAntalya Büyükşehir Belediyesi tarafından sağlanan sulama altyapısı ve enerji desteklerinin, kaynak metne göre üreticilerin sulama imkânlarını artırmasının yanı sıra su kayıplarının azaltılmasına ve sulama maliyetlerinin düşürülmesine katkı sağladığı belirtildi.\n\nTARIM PUSULASI HABER MERKEZİ"
-    },
-    {
-      "title": "Antalya Büyükşehir Belediyesi’nden 10 bin çocuğa süt",
-      "url": "https://www.tarimpusulasi.com/haber/antalya-buyuksehir-belediyesinden-10-bin-cocuga-sut-47440",
-      "source": "Tarım Pusulası",
-      "date": "2026-08-20",
-      "summary": "Antalya Büyükşehir Belediyesi’nin Halk Süt Projesi kapsamında 2026’nın ilk 7 ayında 10 bin 88 çocuğa 450 bin 496 litre süt ulaştırıldı.",
-      "content": "ANTALYA — Antalya Büyükşehir Belediyesi’nin 2020 yılından bu yana sürdürdüğü Halk Süt Projesi kapsamında, 2026 yılının ilk 7 ayında 10 bin 88 çocuğa toplam 450 bin 496 litre süt ulaştırıldı.\n\nBüyükşehir Belediyesi Sosyal Hizmetler Dairesi tarafından yürütülen proje kapsamında, ihtiyaç sahibi ailelerin 2-5 yaş arasındaki çocuklarına aylık 8 litre süt desteği sağlanıyor. Hijyenik koşullarda hazırlanıp paketlenen sütler, ailelere ücretsiz olarak ulaştırılıyor.\n\nSütler ailelerin evlerine teslim ediliyor\n\nHalk Süt Projesi kapsamında hazırlanan süt paketleri, belediye ekipleri tarafından ihtiyaç sahibi ailelerin evlerine kadar teslim ediliyor.\n\nProjeden yararlanacak ailelerin başvuruları ise sosyal hizmet uzmanları ve sosyologlar tarafından değerlendiriliyor. Böylece desteğin ihtiyaç sahibi ailelere ulaştırılması amaçlanıyor.\n\nBaşvurular online yapılabiliyor\n\nAntalya Büyükşehir Belediyesi’nin Halk Süt Projesi’nden yararlanmak isteyen aileler, belediyenin internet sitesi üzerinden online başvuru yapabiliyor.\n\nKaynak metne göre ailelerin, antalya.bel.tr adresindeki başvuru formunu doldurarak projeye başvurması mümkün.\n\n2026’nın ilk 7 ayında 450 bin litreyi aşkın süt dağıtıldı\n\nProjenin 2026 yılının ilk 7 aylık dönemindeki verilerine göre 10 bin 88 çocuk toplam 450 bin 496 litre süt desteğinden yararlandı.\n\nAylık destek miktarı çocuk başına 8 litre olarak belirtilirken, ilk 7 ayda ulaşılan toplam süt miktarı 450 bin litreyi aştı.\n\nAntalya Büyükşehir Belediyesi, Halk Süt Projesiyle ihtiyaç sahibi ailelerin 2-5 yaş arasındaki çocuklarına ücretsiz süt ulaştırmayı sürdürüyor.\n\nTARIM PUSULASI HABER MERKEZİ"
     },
     {
       "title": "Dünya tarım devinde dikkat çeken dönüşüm: Hayvancılığın ağırlığı artıyor",
@@ -328,17 +328,5 @@
   "defaultBorsa": "5ED10",
   "defaultCity": "CANAKKALE",
   "note": "Fiyatlar TOBB ticaret borsasından (borsa seçilebilir). Kanola manuel (Trakya 2025).",
-  "inputsNote": "Mazot: akaryakıt bayi fiyatı, günlük (şehir seçilebilir). Gübre: manuel (yaklaşık).",
-  "errors": [
-    "mazot ANKARA: fetch failed",
-    "mazot ISTANBUL: fetch failed",
-    "mazot IZMIR: fetch failed",
-    "mazot KONYA: fetch failed",
-    "mazot ADANA: fetch failed",
-    "mazot BURSA: fetch failed",
-    "mazot ANTALYA: fetch failed",
-    "mazot SAMSUN: fetch failed",
-    "mazot TEKIRDAG: fetch failed",
-    "mazot CANAKKALE: fetch failed"
-  ]
+  "inputsNote": "Mazot: akaryakıt bayi fiyatı, günlük (şehir seçilebilir). Gübre: manuel (yaklaşık)."
 }
