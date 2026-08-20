@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-20T14:39:35.980Z",
+  "updatedAt": "2026-08-20T15:16:44.211Z",
   "fx": [
     {
       "code": "USD",
@@ -11,16 +11,16 @@
     {
       "code": "EUR",
       "name": "Euro",
-      "buy": 56.15,
-      "sell": 56.16,
-      "change": 0.27
+      "buy": 56.16,
+      "sell": 56.18,
+      "change": 0.29
     },
     {
       "code": "GRA",
       "name": "Gram Altın",
-      "buy": 6932.82,
-      "sell": 6933.81,
-      "change": -0.5
+      "buy": 6991.25,
+      "sell": 6992.03,
+      "change": 0.33
     },
     {
       "code": "CEYREKALTIN",
@@ -38,6 +38,14 @@
     }
   ],
   "news": [
+    {
+      "title": "TMO-TOBB, 20 Ağustos hububat fiyatlarını duyurdu",
+      "url": "https://www.tarimpusulasi.com/haber/tmo-tobb-20-agustos-hububat-fiyatlarini-duyurdu-47452",
+      "source": "Tarım Pusulası",
+      "date": "2026-08-20",
+      "summary": "TMO-TOBB’un 20 Ağustos verilerine göre 15 borsada ekmeklik buğday ortalaması 15.524 TL, TÜRİB’de ise 15.752 TL oldu.",
+      "content": "ANKARA — TMO-TOBB Tarım Ürünleri Lisanslı Depoculuk San. ve Tic. A.Ş., 20 Ağustos 2026 tarihli hububat fiyatlarını paylaştı. 15 Ticaret Borsasından alınan ortalama fiyatlarda ekmeklik buğday 15.524 TL/ton, makarnalık buğday 16.312 TL/ton, arpa 13.026 TL/ton, mısır 13.528 TL/ton, yulaf 16.954 TL/ton ve çavdar 12.955 TL/ton olarak açıklandı.\n\nTÜRİB ortalama fiyatlarında ise ekmeklik buğday 15.752 TL/ton, makarnalık buğday 13.836 TL/ton, arpa 12.657 TL/ton ve mısır 14.340 TL/ton oldu.\n\n15 BORSADA YULAF EN YÜKSEK FİYATLI ÜRÜN\n\n15 Ticaret Borsasından alınan ortalama fiyatlara göre listede yer alan ürünler arasında en yüksek fiyat 16.954 TL/ton ile yulafta görüldü.\n\nYulafı 16.312 TL/ton ile makarnalık buğday, 15.524 TL/ton ile ekmeklik buğday izledi.\n\nArpa ortalaması 13.026 TL/ton, mısır ortalaması 13.528 TL/ton, çavdar ortalaması ise 12.955 TL/ton olarak açıklandı.\n\nBu verilere göre 15 borsa ortalamasında yulaf ile çavdar arasındaki fiyat farkı 3.999 TL/ton oldu.\n\nTÜRİB’DE EKMEKLİK BUĞDAY 15.752 TL\n\nTürkiye Ürün İhtisas Borsası (TÜRİB) ortalama fiyatlarında ekmeklik buğday 15.752 TL/ton seviyesinde yer aldı.\n\nTÜRİB verilerinde mısırın ortalama fiyatı 14.340 TL/ton, arpanın 12.657 TL/ton, makarnalık buğdayın ise 13.836 TL/ton olduğu bildirildi.\n\nTÜRİB verilerinde yer alan dört ürün arasında en yüksek ortalama fiyat 15.752 TL/ton ile ekmeklik buğdayda, en düşük fiyat ise 12.657 TL/ton ile arpada kaydedildi.\n\nBAZI ÜRÜNLERDE BORSALAR İLE TÜRİB FARKI\n\nHem 15 borsa hem de TÜRİB için verilen dört ortak ürün karşılaştırıldığında fiyatların aynı seviyede olmadığı görülüyor.\n\nEkmeklik buğdayda TÜRİB ortalaması 15 borsa ortalamasının 228 TL/ton üzerinde bulunuyor. Bu fark yaklaşık %1,5 seviyesinde.\n\nMakarnalık buğdayda ise 15 borsa ortalaması 16.312 TL/ton iken TÜRİB ortalaması 13.836 TL/ton olarak açıklandı. İki veri arasındaki fark 2.476 TL/ton ve TÜRİB fiyatı 15 borsa ortalamasının yaklaşık %15,2 altında.\n\nArpada 15 borsa ortalaması 13.026 TL/ton, TÜRİB ortalaması 12.657 TL/ton oldu. Aradaki fark 369 TL/ton.\n\nMısırda ise 15 borsa ortalaması 13.528 TL/ton, TÜRİB ortalaması 14.340 TL/ton olarak açıklandı. TÜRİB ortalaması 15 borsa ortalamasının 812 TL/ton üzerinde bulunuyor.\n\n20 AĞUSTOS HUBUBAT FİYATLARI\n\nÜrün\n\n15 Borsa Ortalaması (TL/ton)\n\nTÜRİB Ortalaması (TL/ton)\n\nEkmeklik buğday\n\n15.524\n\n15.752\n\nMakarnalık buğday\n\n16.312\n\n13.836\n\nArpa\n\n13.026\n\n12.657\n\nMısır\n\n13.528\n\n14.340\n\nYulaf\n\n16.954\n\n—\n\nÇavdar\n\n12.955\n\n—\n\nTARIM PUSULASI HABER MERKEZİ"
+    },
     {
       "title": "Tekirdağ’da 89 üreticiye 104 bin kışlık sebze fidesi desteği",
       "url": "https://www.tarimpusulasi.com/haber/tekirdagda-89-ureticiye-104-bin-kislik-sebze-fidesi-destegi-47451",
@@ -109,14 +117,6 @@
       "date": "2026-08-20",
       "summary": "Pernod Ricard Türkiye’nin Bodrum Yeşili projesinin üçüncü yılında, Bodrum Mandalini için dijital MandalinimİZ rotası hayata geçirilecek.",
       "content": "MUĞLA / BODRUM — Pernod Ricard Türkiye’nin, Türkiye’nin coğrafi işaretli değerlerinden Bodrum Mandalini’nin korunması, ekonomik değerinin artırılması ve yerel üretimin desteklenmesi amacıyla yürüttüğü Bodrum Yeşili projesi üçüncü yılında yeni bir aşamaya taşındı. Proje kapsamında Bodrum Mandalini’nin farklı yönlerini ziyaretçilere tanıtacak “MandalinimİZ” dijital rotasının hayata geçirileceği duyuruldu.\n\nBu yıl üçüncüsü düzenlenen Yeşil Bodrum Mandalini Erken Hasat Buluşması, Bodrum Belediye Başkanı Tamer Mandalinci’nin katılımıyla Bitez’deki Trattoria il Mandarino’da gerçekleştirildi. Buluşmada Bodrum Mandalini’nin üreticiler ve gelecek nesiller açısından taşıdığı öneme dikkat çekilirken, Bodrum Yeşili projesinin yerel üretime ve mandalina bahçelerinin korunmasına yönelik çalışmaları ele alındı.\n\nMandalinimİZ dijital rotasının altyapı ve yatırımının Pernod Ricard Türkiye tarafından üstlenileceği belirtildi. Rota, şubat ayında Bodrum Yeşili projesi kapsamında gerçekleştirilen Arama Konferansı’nın çıktıları arasında yer alan projelerden biri olarak geliştirilecek.\n\nBodrum Mandalini farklı deneyimlerle buluşacak\n\nMandalinimİZ ile Bodrum’un farklı noktalarındaki deneyimlerin bir araya getirilmesi ve Bodrum Mandalini’nin gastronomiden kültüre, doğadan yerel yaşama uzanan farklı duraklarla buluşturulması hedefleniyor.\n\nRota kapsamında ziyaretçilerin Bodrum Mandalini kullanılarak hazırlanan lezzetleri keşfetmesinin yanı sıra Bodrum’un doğası, kültürü ve yerel üretim hikâyesiyle de buluşması amaçlanıyor.\n\nGeçen yıl “Bir Dilim Bodrum Zamanı” kampanyasıyla başlayan deneyim yolculuğunun yeni aşaması olarak tanımlanan MandalinimİZ ile Bodrum Mandalini’nin yalnızca bir tarım ürünü olarak değil, Bodrum’un kültürel hafızasının ve yaşam biçiminin bir parçası olarak daha geniş kitlelere ulaştırılması hedefleniyor.\n\nProje üçüncü yılında büyüyor\n\nBodrum Yeşili projesi, üç yıllık süreçte erken hasat buluşmaları, sanat günleri, workshop’lar, Arama Konferansı ve farklı iş birlikleriyle genişletildi.\n\nProje kapsamında Bodrum Mandalini’nin kullanım alanlarının ve bilinirliğinin artırılmasının yanı sıra üreticilerin ve mandalina bahçelerinin korunması ile yerel ekonomik döngünün güçlendirilmesine katkı sağlanması amaçlanıyor.\n\nPernod Ricard Afrika ve Ortadoğu CEO’su Selçuk Tümay, Bodrum Yeşili’nin üç yıllık sürecine ilişkin değerlendirmesinde, çalışmanın yalnızca ürünün korunmasına değil, Bodrum’un kültürü, hafızası ve kimliğinin yaşatılmasına da odaklandığını belirtti.\n\nTümay, proje kapsamında yerel işletmelerin ve paydaşların sürece dahil edilmesinin yeni iş birlikleri ve fırsatlar yaratabileceğini ifade etti.\n\nMandalin rotasının dijital altyapısını Pernod Ricard üstlenecek\n\nPernod Ricard Türkiye Hukuk, Kurumsal İletişim ve Dış İlişkiler Direktörü Zümrüt Yezdani Kedik ise Arama Konferansı’ndan elde edilen çıktıların hayata geçirilmeye başlanmasının önemine dikkat çekti.\n\nKedik, Pernod Ricard Türkiye’nin Bodrum Mandalini rotasının dijital altyapı ve yatırımlarını üstleneceğini belirterek, MandalinimİZ ile Bodrum’un farklı noktalarında Bodrum Mandalini kullanılan lezzetlerin izinin sürülebileceğini ifade etti.\n\nSanatçı Ege’nin sahne aldığı etkinlikte duyurulan MandalinimİZ rotasının, Bodrum Mandalini’ni gastronomi, kültür, doğa ve yerel üretim ekseninde farklı deneyimlerle buluşturması planlanıyor.\n\nPernod Ricard Türkiye, Bodrum Yeşili projesi kapsamında önümüzdeki dönemde de yerel üretimi desteklemeyi, Bodrum Mandalini’nin farklı kullanım alanlarını geliştirmeyi ve bu yerel değerin gelecek nesillere aktarılmasına katkı sağlamayı sürdüreceğini bildirdi.\n\nTARIM PUSULASI HABER MERKEZİ"
-    },
-    {
-      "title": "Matlı, güneş enerjisinde kapasitesini iki katına çıkaracak",
-      "url": "https://www.tarimpusulasi.com/haber/matli-gunes-enerjisinde-kapasitesini-iki-katina-cikaracak-47443",
-      "source": "Tarım Pusulası",
-      "date": "2026-08-20",
-      "summary": "Matlı Şirketler Grubu, 27 güneş santraline 10 yeni tesis ekleyerek güneş enerjisinin elektrik tüketimindeki payını yüzde 60’a çıkarmayı hedefliyor.",
-      "content": "BURSA — Matlı Şirketler Grubu, üretim faaliyetlerinde kullandığı yenilenebilir enerjinin payını artırmak amacıyla güneş enerjisi yatırımlarını genişletmeye hazırlanıyor. Bünyesinde 27 güneş enerjisi santrali bulunan şirket grubu, mevcut yatırımlarına 10 yeni santral eklemeyi planlıyor.\n\nMatlı, yeni yatırımlarla bugün toplam elektrik tüketiminin yüzde 30’unu karşılayan güneş enerjisinin payını bir yıl içinde yüzde 60’a çıkarmayı hedefliyor. Şirket ayrıca önümüzdeki dönemde rüzgâr enerjisini de enerji kaynakları arasına eklemek için çalışmalar yürütüyor.\n\nGüneş santrali sayısı artırılacak\n\nMatlı’nın mevcut güneş enerjisi santralleri arasında üretim tesislerinin çatılarında ve arazi üzerinde bulunan santraller yer alıyor.\n\nÇatı üzerindeki santrallerde üretilen elektrik, kurulu oldukları tesislerin elektrik ihtiyacının bir bölümünü karşılıyor. Arazi üzerine kurulan santrallerde üretilen elektrik ise Matlı’nın üretim ağı içerisinde değerlendiriliyor.\n\nKaynak metne göre Kırıkkale’deki güneş enerjisi santralinin üretimi Proyem’in Diyarbakır ve Turgutlu fabrikalarında, Afyonkarahisar’daki santralin üretimi ise Keskinoğlu kesimhanesinde kullanılıyor.\n\nBu uygulamayla arazi üzerine kurulan güneş santrallerinde üretilen elektriğin şirketin farklı üretim tesislerinde değerlendirilmesi sağlanıyor.\n\n2025’te 60 milyon kWh elektrik üretildi\n\nMatlı Şirketler Grubu bünyesindeki 27 güneş enerjisi santralinde 2025 yılında yaklaşık 60 milyon kWh elektrik üretildi.\n\nŞirketin verdiği bilgilere göre bu üretim miktarı yaklaşık 20 bin hanenin bir yıllık elektrik tüketimine karşılık geliyor.\n\nAynı dönemde güneş enerjisinden sağlanan üretim sayesinde yaklaşık 40 bin ton karbon emisyonunun önüne geçildiği belirtildi. Bu çevresel katkının ise yaklaşık 700 bin ağacın karbon tutumuna eşdeğer olduğu ifade edildi.\n\n“Enerji yatırımlarımızı uzun vadeli üretim planlarının parçası hâline getiriyoruz”\n\nMatlı Şirketler Grubu Yönetim Kurulu Başkanı Özer Matlı, yenilenebilir enerji yatırımlarında yeni bir döneme girdiklerini belirtti.\n\nTarım ve gıda üretimindeki sürekliliğin enerjiye kesintisiz erişimle bağlantılı olduğunu ifade eden Matlı, güneş enerjisinde oluşturulan altyapının ardından rüzgâr enerjisinin de sisteme dahil edilmesinin planlandığını söyledi.\n\nMatlı, enerji kaynaklarını çeşitlendirirken yatırımları uzun vadeli üretim planlarının bir parçası olarak ele aldıklarını belirterek, çevreye duyarlı enerji üretiminin şirketin entegre yapısında yer aldığını ifade etti.\n\nYenilenebilir enerjinin yalnızca çevresel katkı açısından değil, verimlilik, üretim sürekliliği ve uzun vadeli rekabetçilik bakımından da önem taşıdığını belirten Matlı, enerji ihtiyacının daha büyük bölümünün şirketin kendi yenilenebilir kaynaklarından karşılanmasının hedeflendiğini kaydetti.\n\nRüzgâr enerjisi için dört bölgede ölçüm yapılıyor\n\nMatlı’nın rüzgâr enerjisi yatırımları kapsamında dört bölgede çalışma yürüttüğü bildirildi.\n\nPotansiyel yatırım alanlarının belirlenmesi amacıyla söz konusu bölgelerde rüzgâr ölçüm direkleri kuruldu. Yıl sonuna kadar devam etmesi planlanan ölçümlerle bölgelerin rüzgâr potansiyelinin belirlenmesi amaçlanıyor.\n\nÖlçüm sonuçlarının ardından yatırım yapılacak alanların ve projelerin ayrıntılarının netleştirilmesi planlanıyor.\n\nMatlı Şirketler Grubu, güneş ve rüzgâr enerjisini birlikte değerlendirdiği yatırım programıyla yenilenebilir enerjinin üretimdeki payını artırmayı, enerji kaynaklarını çeşitlendirmeyi ve karbon ayak izini azaltmayı hedefliyor.\n\nTARIM PUSULASI HABER MERKEZİ"
     },
     {
       "title": "Dünya tarım devinde dikkat çeken dönüşüm: Hayvancılığın ağırlığı artıyor",
@@ -328,17 +328,5 @@
   "defaultBorsa": "5ED10",
   "defaultCity": "CANAKKALE",
   "note": "Fiyatlar TOBB ticaret borsasından (borsa seçilebilir). Kanola manuel (Trakya 2025).",
-  "inputsNote": "Mazot: akaryakıt bayi fiyatı, günlük (şehir seçilebilir). Gübre: manuel (yaklaşık).",
-  "errors": [
-    "mazot ANKARA: fetch failed",
-    "mazot ISTANBUL: fetch failed",
-    "mazot IZMIR: fetch failed",
-    "mazot KONYA: fetch failed",
-    "mazot ADANA: fetch failed",
-    "mazot BURSA: fetch failed",
-    "mazot ANTALYA: fetch failed",
-    "mazot SAMSUN: fetch failed",
-    "mazot TEKIRDAG: fetch failed",
-    "mazot CANAKKALE: fetch failed"
-  ]
+  "inputsNote": "Mazot: akaryakıt bayi fiyatı, günlük (şehir seçilebilir). Gübre: manuel (yaklaşık)."
 }
