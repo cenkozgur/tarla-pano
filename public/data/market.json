@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-20T07:43:08.570Z",
+  "updatedAt": "2026-08-20T08:18:23.481Z",
   "fx": [
     {
       "code": "USD",
@@ -11,16 +11,16 @@
     {
       "code": "EUR",
       "name": "Euro",
-      "buy": 56.18,
-      "sell": 56.2,
-      "change": 0.33
+      "buy": 56.2,
+      "sell": 56.22,
+      "change": 0.36
     },
     {
       "code": "GRA",
       "name": "Gram Altın",
-      "buy": 6925.01,
-      "sell": 6925.92,
-      "change": -0.61
+      "buy": 6934.25,
+      "sell": 6935.05,
+      "change": -0.48
     },
     {
       "code": "CEYREKALTIN",
@@ -38,6 +38,14 @@
     }
   ],
   "news": [
+    {
+      "title": "Tarım-GFE Haziran 2026'da yıllık yüzde 32,06 arttı",
+      "url": "https://www.tarimpusulasi.com/haber/tarim-gfe-haziran-2026da-yillik-yuzde-3206-artti-47445",
+      "source": "Tarım Pusulası",
+      "date": "2026-08-20",
+      "summary": "TÜİK verilerine göre Tarım-GFE, Haziran 2026'da aylık yüzde 0,92 gerilerken yıllık yüzde 32,06, 12 aylık ortalamalarda yüzde 34,02 arttı.",
+      "content": "ANKARA — Türkiye İstatistik Kurumunun (TÜİK) Haziran 2026 dönemine ilişkin açıkladığı Tarımsal Girdi Fiyat Endeksi (Tarım-GFE), bir önceki aya göre yüzde 0,92 azaldı. Endeks, geçen yılın aynı ayına göre yüzde 32,06, 12 aylık ortalamalara göre ise yüzde 34,02 arttı.\n\nTarım-GFE'de (2020=100), 2026 yılı Haziran ayında bir önceki aya göre %0,92 azalış, bir önceki yılın Aralık ayına göre %16,92 artış, bir önceki yılın aynı ayına göre %32,06 artış ve on iki aylık ortalamalara göre %34,02 artış gerçekleşti.\n\nAna gruplarda bir önceki aya göre, tarımda kullanılan mal ve hizmetler endeksinde %1,20 azalış, tarımsal yatırıma katkı sağlayan mal ve hizmetler endeksinde %0,93 artış gerçekleşti. Bir önceki yılın aynı ayına göre tarımda kullanılan mal ve hizmetler endeksinde %33,88 artış, tarımsal yatırıma katkı sağlayan mal ve hizmetler endeksinde %21,49 artış gerçekleşti.\n\nAna gruplara göre Tarım-GFE ve değişim oranları (%), Haziran 2026\n\nEndeks\n\nBir önceki aya göre değişim oranı (%)\n\nBir önceki yılın Aralık ayına göre değişim oranı (%)\n\nBir önceki yılın aynı ayına göre değişim oranı (%)\n\nOn iki aylık ortalamalara göre değişim oranı (%)\n\nTarım-GFE\n\n998,81\n\n-0,92\n\n16,92\n\n32,06\n\n34,02\n\nTarımda kullanılan mal ve hizmetler\n\n972,37\n\n-1,20\n\n17,77\n\n33,88\n\n35,50\n\nTarımsal yatırıma katkı sağlayan mal ve hizmetler\n\n1 210,00\n\n0,93\n\n11,78\n\n21,49\n\n25,49\n\nTarım-GFE yıllık değişim oranı (%), Haziran 2026\n\nYıllık değişimin en yüksek olduğu alt grup %50,99 artış ile gübre ve toprak geliştiriciler, aylık değişimin en yüksek olduğu alt grup %3,88 artış ile bina bakım masrafları oldu.\n\nAlt gruplara göre Tarım-GFE yıllık değişim oranları (%), Haziran 2026\n\nAlt gruplara göre Tarım-GFE aylık değişim oranları (%), Haziran 2026"
+    },
     {
       "title": "Pernod Ricard Türkiye, Bodrum Mandalini için rota kuruyor",
       "url": "https://www.tarimpusulasi.com/haber/pernod-ricard-turkiye-bodrum-mandalini-icin-rota-kuruyor-47444",
@@ -95,14 +103,6 @@
       "content": "GAZİANTEP — Güneydoğu Anadolu bölgesinde hububat, bakliyat, yağlı tohumlar ve mamulleri sektörünün ihracatı, yılın ilk 7 ayında geçen yılın aynı dönemine göre yüzde 7,4 artarak 2,2 milyar dolara yükseldi.\n\nBölge ihracatında önemli ağırlığa sahip hububat sektörü, toplam bölge ihracatının yüzde 30,8’ini gerçekleştirdi. Sektörün Türkiye genelindeki toplam hububat ihracatından aldığı yüzde 31,4’lük pay da Güneydoğu Anadolu’nun sektördeki lider konumunu ortaya koydu.\n\nYedi aylık dönemde bölgeden 2,5 milyon tonun üzerinde hububat, bakliyat, yağlı tohumlar ve mamulleri ihraç edildi.\n\nİhracat miktarında yaklaşık 736 bin tonla makarna ilk sırada yer alırken, makarnayı 467 bin ton buğday unu ve 280 bin ton ayçiçek yağı izledi.\n\nAyçiçek yağı ihracat geliri 461,5 milyon dolara çıktı\n\nSektörde en yüksek ihracat gelirinin elde edildiği ürün ayçiçek yağı oldu.\n\nAyçiçek yağı ihracatı, önceki döneme göre yüzde 26,4 artarak 461,5 milyon dolara ulaştı.\n\nİhracat gelirinde ikinci sırada bulunan makarnada ise yüzde 14,1’lik artış kaydedildi. Makarnanın ihracat geliri 394,1 milyon dolar olarak gerçekleşti.\n\nOrta Doğu en büyük pazar oldu\n\nGüneydoğu Anadolu'nun sektör ihracatında Orta Doğu en büyük pazar konumunu korudu. Bu bölgeye gerçekleştirilen ihracat 900 milyon doların üzerine çıktı.\n\nAfrika pazarı da ihracat artışıyla öne çıktı. Bu bölgeye yapılan ihracat 775,5 milyon dolar olurken, geçen yılın aynı dönemine göre yüzde 22,4 artış sağlandı.\n\nKadooğlu: Stratejik pazarlardaki kazanımlar korunmalı\n\nTİM Yönetim Kurulu Üyesi ve GAİB Hububat Birliği Başkanı Celal Kadooğlu, Güneydoğu Anadolu'nun küresel belirsizlikler ve jeopolitik riskler karşısında yüksek uyum kabiliyeti gösterdiğini belirtti.\n\nKadooğlu, sektörün uluslararası rekabet gücünün korunması ve yakın coğrafyanın gıda arz güvenliğinin sürdürülebilmesi için üretimden lojistiğe kadar tüm süreçleri güncel gelişmelerle birlikte değerlendirdiklerini ifade etti.\n\nKaradeniz'de son dönemde artan güvenlik risklerinin hammadde tedarik hatları ve navlun maliyetleri üzerinde baskı oluşturduğunu belirten Kadooğlu, Suriye pazarındaki yüksek gümrük tarifeleri ile Irak'ta ASYCUDA altyapısı ve bankacılık kanallarında ortaya çıkan ilave maliyetleri de yakından takip ettiklerini söyledi.\n\nKadooğlu, ihracatçıların maliyetlerini dengelemek ve ticari dayanıklılığını artırmak amacıyla döviz dönüşüm desteklerinin artırılması ve navlun giderlerini azaltacak bölgesel mekanizmalar oluşturulması gibi başlıklar üzerinde çalıştıklarını aktardı.\n\nSöz konusu konulara ilişkin tespit ve çözüm önerilerinin, Ankara'da gerçekleştirilen temaslarda ilgili bakanlıklarla paylaşıldığını belirten Kadooğlu, kamu otoritesinin sanayici ve ihracatçıların rekabet gücünü artıracak adımlar atacağına inandığını ifade etti.\n\n“Lojistik tıkanıklıkların çözülmesi kritik”\n\nKadooğlu, yağışların olumlu seyretmesinin bu yıl ayçiçeği rekoltesindeki artışa katkı sağladığını belirterek, özellikle Karadeniz başta olmak üzere bölgedeki lojistik tıkanıklıkların çözülmesinin hem iç piyasa hem de ihracat açısından kritik olduğunu vurguladı.\n\nYıllar içinde oluşturulan ihracat pazarlarındaki konumun korunması ve güçlendirilmesi için ürün tedarik zincirinin kesintiye uğramaması gerektiğini belirten Kadooğlu, ihracatın sürdürülebilirliğinin sektör açısından önem taşıdığını kaydetti.\n\nKadooğlu ayrıca Güneydoğu Anadolu'nun limanlara olan coğrafi uzaklığından kaynaklanan navlun dezavantajının azaltılması ve devlet desteklerinin etkinliğinin artırılmasına yönelik politikaların, Afrika'dan Asya'ya kadar uzanan hedef pazarlarda ihracatçıların rekabet gücünü destekleyeceğini belirtti.\n\nTürkiye'nin gıda ticaretindeki stratejik konumunun sürdürülebilmesi için kamu ve sektörün ortak akıl çerçevesinde hareket etmesi gerektiğini ifade eden Kadooğlu, ülkenin dış ticaret hedeflerine katkı sunmaya devam edeceklerini söyledi.\n\nTARIM PUSULASI HABER MERKEZİ"
     },
     {
-      "title": "Tam Tahıl Tam Destek Projesi İkinci Yılında Kadın Girişimcilere Destek Verecek",
-      "url": "https://www.tarimpusulasi.com/haber/tam-tahil-tam-destek-projesi-ikinci-yilinda-kadin-girisimcilere-destek-verecek-47437",
-      "source": "Tarım Pusulası",
-      "date": "2026-08-20",
-      "summary": "Nestlé Kahvaltılık Gevrekler ve Migros’un projesi ikinci yılında kadın girişimcilere eğitim, mentorluk ve hibe desteği sunacak.",
-      "content": "İSTANBUL — Nestlé Kahvaltılık Gevrekler ve Migros iş birliğiyle yürütülen Tam Tahıl Tam Destek Projesi, ikinci yılında da tarım ve gıda alanında değer yaratacak iş fikirlerine sahip kadın girişimcileri desteklemeyi sürdürecek.\n\nProje kapsamında kadın girişimcilere girişimcilik eğitimleri, uzman mentorluk desteği ve Fikir Maratonu aracılığıyla iş fikirlerini geliştirme fırsatı sunulacak. Program sonunda başarılı bulunan üç projenin hibe desteğiyle ödüllendirilmesi ve katılımcıların profesyonel iş ağına erişim sağlayarak yeni iş birlikleri geliştirmesi hedefleniyor.\n\nVerilen proje açıklamasında, ikinci yılın sonunda başarılı üç projeye toplam 800 bin TL değerinde hibe desteği sağlanacağı belirtiliyor. Ancak bu rakam, erişilebilen Nestlé ve Migros'un resmi proje sayfalarında bağımsız olarak doğrulanamadığından haber metninde proje açıklamasındaki bilgi olarak aktarılıyor.\n\nİlk yılda 1.000'e yakın kadın girişimci yer aldı\n\nProjenin ilk yılında 1.000'e varan kadın girişimci programa dahil oldu. Nestlé'nin resmi açıklamasına göre ilk dönem sonunda başarılı üç projeye toplam 600 bin TL hibe verildi. Birinci proje 300 bin TL, ikinci proje 200 bin TL, üçüncü proje ise 100 bin TL destek aldı.\n\nKatılımcılar ilk dönemde marka ve hikâye tasarımı, dijital pazarlama, tasarım odaklı düşünme, iyi tarım uygulamaları, üretimden rafa kalite süreçleri ve iş fikri sunum teknikleri gibi alanlarda eğitim aldı.\n\nFikir Maratonu'nun ardından dereceye giren girişimcilere verilen hibe desteğinin yanı sıra, kazanan girişimciler üç ay boyunca mentorluk desteğinden yararlandı.\n\nİkinci yılda eğitim ve mentorluk desteği\n\nProjenin ikinci döneminde kadın girişimciler, eğitim ve uzman mentorluk desteğinin yanı sıra Fikir Maratonu sürecinde iş fikirlerini geliştirme fırsatı bulacak.\n\nProgramda girişimcilik, dijital pazarlama, iyi tarım uygulamaları, üretimden rafa kalite süreçleri ve iş fikrinin sunulması gibi başlıkların öne çıkması bekleniyor. Migros da ikinci yılda projenin kadın girişimcilere eğitim, mentorluk ve Fikir Maratonu yoluyla gelişim fırsatı sunduğunu açıklıyor.\n\nNestlé: Kadın girişimciler dönüşümün önemli aktörleri\n\nNestlé Kahvaltılık Gevrekler Genel Müdürü Esra Ateş, projenin ilk yılında tarım ve gıda alanında değer yaratmak isteyen kadın girişimcilerin fikirlerini yakından görme fırsatı bulduklarını belirtti.\n\nAteş, eğitimler, mentorluk ve Fikir Maratonu sürecinde ortaya çıkan projelerin tarımın geleceği açısından önem taşıdığını ifade ederek, ikinci yılda da girişimcilerin fikirlerini geliştirmelerine yönelik eğitim, mentorluk ve iş birlikleriyle destek vermeyi sürdüreceklerini bildirdi.\n\nMigros: Yenilikçi fikirlerin geliştirilmesine destek\n\nMigros FMCG Gıda Pazarlama Direktörü Caner Yaman ise projenin ikinci yılında kadın girişimcilerin tarım ve gıda alanındaki yenilikçi fikirlerinin geliştirilmesine destek olmaktan memnuniyet duyduklarını belirtti.\n\nYaman, eğitim ve gelişim fırsatlarının yanı sıra profesyonel iş ağına erişimin de girişimcilerin iş süreçlerine katkı sağlayacağını ifade etti. Projenin tarımın ve kadın girişimcilerin geleceğini güçlendirmeye yönelik bir çalışma olduğunu söyledi.\n\nTARIM PUSULASI HABER MERKEZİ"
-    },
-    {
       "title": "Dünya tarım devinde dikkat çeken dönüşüm: Hayvancılığın ağırlığı artıyor",
       "url": "https://www.tarimdanhaber.com/dunya-tarim-devinde-dikkat-ceken-donusum-hayvanciligin-agirligi-artiyor",
       "source": "Tarımdan Haber",
@@ -153,7 +153,7 @@
           "name": "Arpa",
           "unit": "₺/kg",
           "price": 13.26,
-          "change": 13.14,
+          "change": 0,
           "source": "Edirne TB",
           "date": "2026-08-20"
         },
@@ -162,7 +162,7 @@
           "name": "Ayçiçeği (yağlık)",
           "unit": "₺/kg",
           "price": 39.97,
-          "change": 1.42,
+          "change": 0,
           "source": "Edirne TB",
           "date": "2026-08-20"
         },
@@ -254,7 +254,7 @@
       "name": "Arpa",
       "unit": "₺/kg",
       "price": 13.26,
-      "change": 13.14,
+      "change": 0,
       "source": "Edirne TB",
       "date": "2026-08-20"
     },
@@ -263,7 +263,7 @@
       "name": "Ayçiçeği (yağlık)",
       "unit": "₺/kg",
       "price": 39.97,
-      "change": 1.42,
+      "change": 0,
       "source": "Edirne TB",
       "date": "2026-08-20"
     },
