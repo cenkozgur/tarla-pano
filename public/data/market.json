@@ -1,33 +1,33 @@
 {
-  "updatedAt": "2026-08-20T11:10:06.231Z",
+  "updatedAt": "2026-08-20T11:43:42.938Z",
   "fx": [
     {
       "code": "USD",
       "name": "Dolar",
-      "buy": 479494,
-      "sell": 4796,
-      "change": 7
+      "buy": 47.95,
+      "sell": 47.96,
+      "change": 0.07
     },
     {
       "code": "EUR",
       "name": "Euro",
-      "buy": 562073,
-      "sell": 562199,
-      "change": 37
+      "buy": 56.19,
+      "sell": 56.21,
+      "change": 0.34
     },
     {
       "code": "GRA",
       "name": "Gram Altın",
-      "buy": 691593,
-      "sell": 691672,
-      "change": -75
+      "buy": 6903.93,
+      "sell": 6904.73,
+      "change": -0.92
     },
     {
       "code": "CEYREKALTIN",
       "name": "Çeyrek Altın",
-      "buy": 1098525,
-      "sell": 1124365,
-      "change": 96
+      "buy": 10967.54,
+      "sell": 11220.01,
+      "change": 0.75
     },
     {
       "code": "CUMHURIYETALTINI",
@@ -38,6 +38,14 @@
     }
   ],
   "news": [
+    {
+      "title": "Danimarka, tarım bakanlığı olmayan ilk AB ülkesi oldu",
+      "url": "https://www.tarimpusulasi.com/haber/danimarka-tarim-bakanligi-olmayan-ilk-ab-ulkesi-oldu-47447",
+      "source": "Tarım Pusulası",
+      "date": "2026-08-20",
+      "summary": "Euractiv'in haberine göre Danimarka'nın yeni koalisyon hükümeti tarım bakanlığı görevini kaldırarak sorumlulukları farklı bakanlıklar arasında dağıttı.",
+      "content": "RİZE — Rize’nin Pazar ilçesine bağlı Balıkçı Köyü’nde, Zelek Limanı açıklarında hayata geçirilmek istenen kafes balıkçılığı projesine yönelik bölge halkının tepkisi sürüyor. Yaklaşık üç aydır liman çevresinde nöbet tutan köylüler, 18 Ağustos sabahı yaşanan jandarma müdahalesinde dört kişinin gözaltına alınmasının ardından yeniden gündeme geldi.\n\nKöylüler, kafes balıkçılığı faaliyetlerinin yıllardır geçimlerini sağladıkları geleneksel balıkçılık alanlarını daraltabileceğini ve deniz ekosistemi üzerinde olumsuz etkiler oluşturabileceğini savunuyor.\n\nBölgeye kafes balıkçılığında kullanılacak ekipmanların getirilmesinin ardından yaşanan müdahalede Hacer Kanbay, Ahmet Tafralı, İbrahim Oğuz ve Muhammet Yağcı gözaltına alındı. Verilen bilgilere göre dört kişi, Pazar Cumhuriyet Savcılığı’nın talimatıyla ifadeleri alınmadan serbest bırakıldı.\n\nKöylülerin serbest bırakılmasının ardından kafes malzemelerinin güvenlik güçleri eşliğinde limana indirildiği de aktarıldı.\n\nKöylüler projenin durdurulmasını istiyor\n\nBalıkçı Köyü sakinleri, kafeslerin kıyıya ve geleneksel avlanma alanlarına yakınlığının balıkçılık faaliyetlerini olumsuz etkileyebileceğini belirtiyor. Köylüler ayrıca projenin çevresel etkilerinin dikkate alınmasını ve bölge halkının karar sürecinde görüşlerinin değerlendirilmesini talep ediyor.\n\nZafer Partisi Çevre, Şehircilik ve Kültür Politikaları Başkanı Esmaül Hüsna Aslan da gelişmelerin ardından yaptığı açıklamada Balıkçı Köyü sakinlerinin yaklaşık üç aydır geçim kaynakları, deniz ve yaşam alanlarına ilişkin taleplerini dile getirdiğini belirtti.\n\nAslan, köylülerin temel talebinin, yıllardır geçimlerini sağladıkları kıyılarda kafes balıkçılığı yapılmaması olduğunu ifade etti. Sürecin hukuk, çevre ve kamu yararı temelinde yürütülmesi gerektiğini savunan Aslan, partisinin bölgedeki gelişmeleri takip edeceğini söyledi.\n\nProjeye ilişkin toplantı 2025’te yapıldı\n\nBalıkçı Köyü’ndeki kafes balıkçılığı tartışmasının yeni olmadığı da verilen bilgiler arasında yer alıyor.\n\nRize İl Tarım ve Orman Müdürlüğü’nün resmi kayıtlarına göre, 17 Eylül 2025’te Rize Valisi İhsan Selim Baydaş başkanlığında Balıkçı Köyü’nde yapılması planlanan kafes balıkçılığına ilişkin bir değerlendirme toplantısı gerçekleştirildi.\n\nToplantıya Tarım ve Orman Bakanlığı Su Ürünleri Genel Müdürü, Pazar Kaymakamı, ilgili daire başkanları, İl Tarım ve Orman Müdürlüğü yetkilileri, Balıkçı Köyü Muhtarı ve balıkçıların katıldığı belirtildi.\n\nResmi açıklamada, bölgede faaliyet gösteren avcı balıkçıların taleplerinin dinlendiği ve geleneksel balıkçılığın zarar görmemesi ile kafes balıkçılığı faaliyetlerinin yürütülebilmesi amacıyla çalışmalar yapılacağının ifade edildiği aktarıldı.\n\nÇevresel etkilerin değerlendirilmesi talep ediliyor\n\nAslan, kafes balıkçılığının yalnızca ekonomik faaliyet olarak değerlendirilmemesi gerektiğini belirterek deniz ekosistemi üzerindeki etkilerin de bilimsel olarak incelenmesini istedi.\n\nAçıklamada; yoğun üretim yapılan ve su sirkülasyonunun yeterli olmadığı alanlarda yem artıkları ve balık dışkılarının deniz tabanında birikmesi, organik yükün artması, su kalitesinin değişmesi ve çözünmüş oksijen seviyelerinin düşmesi gibi risklere dikkat çekildi.\n\nBunun yanında hastalık ve parazitlerin yayılması, kullanılan ilaç ve kimyasalların ekosistem üzerindeki etkileri ile yetiştirilen balıkların kafeslerden kaçmasının doğal türlerle etkileşimi gibi konuların da değerlendirilmesi gerektiği savunuldu.\n\nAslan, üretime karşı olmadıklarını, üretimin yeri, kapasitesi ve yönteminin bilimsel verilerle belirlenmesini ve kümülatif çevresel etkilerin bağımsız biçimde ortaya konulmasını istediklerini ifade etti.\n\nKöylülerin nöbeti yaklaşık üç aydır sürüyor\n\nBalıkçı Köyü sakinlerinin nöbetinin, köy limanı açıklarına kafes yerleştirilmesinin ardından başladığı belirtildi.\n\nKöylüler, projenin iptal edilmesini ve bölgeye yerleştirilen kafesin kaldırılmasını talep ediyor. Bölge sakinleri, kafeslerin geleneksel avlanma alanlarına yakınlığının balıkçılık faaliyetlerini etkileyebileceğini savunurken, projenin çevresel etkilerinin de değerlendirilmesini istiyor.\n\nVerilen metinde, projenin Kuzuoğlu Grup ile Günvak 1 ve Günvak 2 tarafından hayata geçirilmesinin planlandığı bilgisi yer alıyor.\n\nTARIM PUSULASI HABER MERKEZİ"
+    },
     {
       "title": "Hüseyin Akay’dan şeker operasyonuna destek: Kimyasal tatlandırıcılar da soruşturulmalı",
       "url": "https://www.tarimdanhaber.com/huseyin-akaydan-seker-operasyonuna-destek-kimyasal-tatlandiricilar-da-sorusturulmali",
@@ -109,14 +117,6 @@
       "date": "2026-08-20",
       "summary": "Antalya Büyükşehir Belediyesi’nin Halk Süt Projesi kapsamında 2026’nın ilk 7 ayında 10 bin 88 çocuğa 450 bin 496 litre süt ulaştırıldı.",
       "content": "ANTALYA — Antalya Büyükşehir Belediyesi’nin 2020 yılından bu yana sürdürdüğü Halk Süt Projesi kapsamında, 2026 yılının ilk 7 ayında 10 bin 88 çocuğa toplam 450 bin 496 litre süt ulaştırıldı.\n\nBüyükşehir Belediyesi Sosyal Hizmetler Dairesi tarafından yürütülen proje kapsamında, ihtiyaç sahibi ailelerin 2-5 yaş arasındaki çocuklarına aylık 8 litre süt desteği sağlanıyor. Hijyenik koşullarda hazırlanıp paketlenen sütler, ailelere ücretsiz olarak ulaştırılıyor.\n\nSütler ailelerin evlerine teslim ediliyor\n\nHalk Süt Projesi kapsamında hazırlanan süt paketleri, belediye ekipleri tarafından ihtiyaç sahibi ailelerin evlerine kadar teslim ediliyor.\n\nProjeden yararlanacak ailelerin başvuruları ise sosyal hizmet uzmanları ve sosyologlar tarafından değerlendiriliyor. Böylece desteğin ihtiyaç sahibi ailelere ulaştırılması amaçlanıyor.\n\nBaşvurular online yapılabiliyor\n\nAntalya Büyükşehir Belediyesi’nin Halk Süt Projesi’nden yararlanmak isteyen aileler, belediyenin internet sitesi üzerinden online başvuru yapabiliyor.\n\nKaynak metne göre ailelerin, antalya.bel.tr adresindeki başvuru formunu doldurarak projeye başvurması mümkün.\n\n2026’nın ilk 7 ayında 450 bin litreyi aşkın süt dağıtıldı\n\nProjenin 2026 yılının ilk 7 aylık dönemindeki verilerine göre 10 bin 88 çocuk toplam 450 bin 496 litre süt desteğinden yararlandı.\n\nAylık destek miktarı çocuk başına 8 litre olarak belirtilirken, ilk 7 ayda ulaşılan toplam süt miktarı 450 bin litreyi aştı.\n\nAntalya Büyükşehir Belediyesi, Halk Süt Projesiyle ihtiyaç sahibi ailelerin 2-5 yaş arasındaki çocuklarına ücretsiz süt ulaştırmayı sürdürüyor.\n\nTARIM PUSULASI HABER MERKEZİ"
-    },
-    {
-      "title": "Ağcaşar Barajı’nda 6 bin 750 metre kaçak ağa el konuldu",
-      "url": "https://www.tarimpusulasi.com/haber/agcasar-barajinda-6-bin-750-metre-kacak-aga-el-konuldu-47439",
-      "source": "Tarım Pusulası",
-      "date": "2026-08-20",
-      "summary": "Kayseri’nin Yahyalı ilçesindeki Ağcaşar Barajı’nda yapılan denetimde 6 bin 750 metre kaçak ağa el konuldu, yaklaşık 950 kilogram sazan kurtarıldı.",
-      "content": "KAYSERİ / YAHYALI — Kayseri İl Tarım ve Orman Müdürlüğü Balıkçılık ve Su Ürünleri Şube Müdürlüğü ekiplerinin Ağcaşar Barajı’nda gerçekleştirdiği denetimde 6 bin 750 metre kaçak ağa el konuldu. Denetim sırasında yaklaşık 950 kilogram sazan balığı canlı olarak kurtarılarak yeniden suya bırakıldı.\n\nDenetimlerde ele geçirilen kaçak ağların toplam uzunluğu 6 bin 750 metre olarak açıklanırken, ağlardan kurtarılan yaklaşık 950 kilogram sazan yeniden suya bırakıldı.\n\nKayseri İl Tarım ve Orman Müdürlüğü, kaçak avcılıkla mücadelenin su kaynaklarının ve su ürünlerinin korunması amacıyla kararlılıkla sürdürüldüğünü bildirdi.\n\nTARIM PUSULASI HABER MERKEZİ"
     },
     {
       "title": "Dünya tarım devinde dikkat çeken dönüşüm: Hayvancılığın ağırlığı artıyor",
@@ -328,5 +328,17 @@
   "defaultBorsa": "5ED10",
   "defaultCity": "CANAKKALE",
   "note": "Fiyatlar TOBB ticaret borsasından (borsa seçilebilir). Kanola manuel (Trakya 2025).",
-  "inputsNote": "Mazot: akaryakıt bayi fiyatı, günlük (şehir seçilebilir). Gübre: manuel (yaklaşık)."
+  "inputsNote": "Mazot: akaryakıt bayi fiyatı, günlük (şehir seçilebilir). Gübre: manuel (yaklaşık).",
+  "errors": [
+    "mazot ANKARA: fetch failed",
+    "mazot ISTANBUL: fetch failed",
+    "mazot IZMIR: fetch failed",
+    "mazot KONYA: fetch failed",
+    "mazot ADANA: fetch failed",
+    "mazot BURSA: fetch failed",
+    "mazot ANTALYA: fetch failed",
+    "mazot SAMSUN: fetch failed",
+    "mazot TEKIRDAG: fetch failed",
+    "mazot CANAKKALE: fetch failed"
+  ]
 }
