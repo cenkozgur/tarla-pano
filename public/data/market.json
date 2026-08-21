@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-21T07:49:10.328Z",
+  "updatedAt": "2026-08-21T08:20:48.500Z",
   "fx": [
     {
       "code": "USD",
@@ -11,16 +11,16 @@
     {
       "code": "EUR",
       "name": "Euro",
-      "buy": 56.21,
-      "sell": 56.23,
-      "change": 0.03
+      "buy": 56.25,
+      "sell": 56.27,
+      "change": 0.1
     },
     {
       "code": "GRA",
       "name": "Gram Altın",
-      "buy": 7056.66,
-      "sell": 7057.43,
-      "change": 1.4
+      "buy": 7060.88,
+      "sell": 7061.75,
+      "change": 1.46
     },
     {
       "code": "CEYREKALTIN",
@@ -152,19 +152,19 @@
           "key": "arpa",
           "name": "Arpa",
           "unit": "₺/kg",
-          "price": 13.26,
-          "change": 0,
+          "price": 13.52,
+          "change": 1.96,
           "source": "Edirne TB",
-          "date": "2026-08-20"
+          "date": "2026-08-21"
         },
         {
           "key": "aycicegi",
           "name": "Ayçiçeği (yağlık)",
           "unit": "₺/kg",
-          "price": 39.97,
-          "change": 0,
+          "price": 40,
+          "change": 0.08,
           "source": "Edirne TB",
-          "date": "2026-08-20"
+          "date": "2026-08-21"
         },
         {
           "key": "kanola",
@@ -253,19 +253,19 @@
       "key": "arpa",
       "name": "Arpa",
       "unit": "₺/kg",
-      "price": 13.26,
-      "change": 0,
+      "price": 13.52,
+      "change": 1.96,
       "source": "Edirne TB",
-      "date": "2026-08-20"
+      "date": "2026-08-21"
     },
     {
       "key": "aycicegi",
       "name": "Ayçiçeği (yağlık)",
       "unit": "₺/kg",
-      "price": 39.97,
-      "change": 0,
+      "price": 40,
+      "change": 0.08,
       "source": "Edirne TB",
-      "date": "2026-08-20"
+      "date": "2026-08-21"
     },
     {
       "key": "kanola",
