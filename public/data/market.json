@@ -1,26 +1,26 @@
 {
-  "updatedAt": "2026-08-21T05:41:07.116Z",
+  "updatedAt": "2026-08-21T06:04:51.352Z",
   "fx": [
     {
       "code": "USD",
       "name": "Dolar",
-      "buy": 48.04,
+      "buy": 48.06,
       "sell": 48.07,
-      "change": 0.32
+      "change": 0.33
     },
     {
       "code": "EUR",
       "name": "Euro",
-      "buy": 56.22,
-      "sell": 56.28,
+      "buy": 56.24,
+      "sell": 56.26,
       "change": 0.09
     },
     {
       "code": "GRA",
       "name": "Gram Altın",
-      "buy": 7007.6,
-      "sell": 7008.48,
-      "change": 0.69
+      "buy": 7028.82,
+      "sell": 7029.68,
+      "change": 1
     },
     {
       "code": "CEYREKALTIN",
@@ -38,6 +38,14 @@
     }
   ],
   "news": [
+    {
+      "title": "Kuraklık tohum üreticisini vurdu, Ziraat Bankası’ndan bir darbe de faizle geldi!",
+      "url": "https://www.tarimdanhaber.com/kuraklik-tohum-ureticisini-vurdu-ziraat-bankasindan-bir-darbe-de-faizle-geldi",
+      "source": "Tarımdan Haber",
+      "date": "2026-08-21",
+      "summary": "2025 kuraklığında ciddi kayıp yaşayan tohum üreticileri, şimdi de Ziraat Bankası’nın faiz uygulamasıyla karşı karşıya. Üreticiler, kuraklık nedeniyle sertifikaya dönüşmeyen üretim için faiz talep edilmesine tepki göstererek, “Üretemediğimiz tohumun faizini neden ödüyoruz?” diye soruyor.",
+      "content": "Haber Merkezi / 2025 yılında tarımsal üretimi derinden etkileyen kuraklığın faturası tohum üreticileri açısından kapanmış değil.\n\nKuraklık nedeniyle bazı bölgelerde tohumluk üretimi için ekilen alanlardan beklenen ürün alınamazken, sertifikalı tohum üreticileri şimdi de kullandıkları kredilerin kapatılması sırasında ortaya çıkan faiz yüküyle karşı karşıya kaldıklarını belirtiyor.\n\nSektör içinden Tarımdan Haber’e aktarılan bilgilere göre sorun, Ziraat Bankası’nın sertifikalı tohum üretimine yönelik kullandırdığı faiz indirimli kredilerde, kredi tahsisi sırasında esas alınan tohumluk beyannamesi ile üretim sonunda ortaya çıkan sertifikalı tohum miktarı arasındaki farktan kaynaklanıyor.\n\nKREDİ TOHUMLUK BEYANNAMESİNE GÖRE KULLANDIRILDI\n\nTohum üreticileri üretim sezonunun başında Tohum Veri Yönetim Sistemi üzerinden sözleşmeli üretim alanlarını sisteme girerek tohumluk beyannamelerini oluşturuyor.\n\nZiraat Bankası’nın da kredi tahsisinde bu beyannamelerde yer alan üretim alanı ve buna bağlı üretim miktarlarını esas aldığı belirtiliyor.\n\nSektörden verilen örneğe göre, bir firmanın 10 bin dekar tohumluk üretim alanı beyan ettiğini ve bunun karşılığında 5 bin tonluk üretim üzerinden kredi kullandığını düşünelim.\n\nKredi kullandırıldığı tarihte henüz ürün hasat edilmiş ve sertifikalandırılmış değil. Kredi, üretim sezonunun başında beyan edilen tohumluk üretim alanı üzerinden tahsis ediliyor.\n\nKURAKLIK VURDU, BEYAN EDİLEN ALANIN TAMAMI TOHUMLUĞA DÖNÜŞMEDİ\n\nSorun ise üretim sezonu ilerledikçe ortaya çıkıyor. Tarım ve Orman Bakanlığı tarafından gerçekleştirilen tarla kontrolleri sonucunda, başlangıçta tohumluk üretimi için beyan edilen alanların tamamı sertifikalı tohum üretimine uygun çıkmayabiliyor.\n\n2025 yılında yaşanan kuraklık da bu kayıpların önemli nedenlerinden biri oldu.\n\nSektör temsilcilerinin verdiği bilgiye göre bazı işletmelerde başlangıçta beyan edilen alanın yüzde 35-40’a varan kısmı çeşitli nedenlerle tohumluk üretiminden düşebiliyor.\n\nÖrneğin 5 bin ton üretim öngörüsü üzerinden kredi kullanan bir üreticinin, tarla kontrolleri ve üretim kayıpları sonrasında ancak 3 bin ton ürünü sertifikalandırabilecek duruma gelmesi mümkün olabiliyor.\n\nKURAKLIKTAN ÜRÜN ALAMADI, ŞİMDİ SERTİFİKA İSTENİYOR\n\nTohum üreticilerinin itiraz ettiği nokta tam da burada başlıyor. Sektörden aktarılan bilgilere göre Ziraat Bankası, kredilerin kapatılması aşamasında krediye konu üretim miktarının sertifikalarını talep ediyor.\n\nAncak 2025 yılında kuraklıktan zarar gören bazı üreticilerin beyan ettikleri alanlardan ürün elde edememeleri nedeniyle sertifika oluşturmaları da mümkün olmadı.\n\nÜreticiler, kuraklık nedeniyle tohumluk vasfını kazanamayan alanların tarla kontrol raporlarıyla kayıt altına alındığını ve bu alanlara ilişkin “tohumluk olamaz” belgelerinin bulunduğunu belirtiyor.\n\nBuna rağmen kredi başlangıcında beyan edilen miktar ile sonradan sertifikalandırılabilen miktar arasındaki fark için faiz talep edildiği ifade ediliyor.\n\n5 BİN TON ÜZERİNDEN KREDİ, 3 BİN TON SERTİFİKA: 2 BİN TONLUK FARKA FAİZ\n\nSektör temsilcileri yaşanan sorunu şu örnek üzerinden anlattı.\n\nBir üretici 10 bin dekar üretim alanı için tohumluk beyannamesi veriyor ve 5 bin ton üretim karşılığı kredi kullanıyor.\n\nAncak üretim sezonunda yaşanan kuraklık ve tarla kontrolleri sonrasında sertifikalandırılabilir üretim 3 bin tona düşüyor.\n\nÜreticilerin aktardığına göre banka, kredi kapatılırken başlangıçta krediye esas alınan 5 bin ton ile sertifikalandırılabilen 3 bin ton arasındaki 2 bin tonluk fark için faiz hesaplıyor.\n\nTohum üreticilerinin tepkisi ise şu noktada yoğunlaşıyor:\n\n“Biz 2 bin ton tohumu üretip sertifikasız olarak piyasaya satmadık. Kuraklık nedeniyle bu ürünü zaten elde edemedik.”\n\n“KURAKLIKTAN ZARAR ETTİK, BİR DE FAİZLE KARŞILAŞIYORUZ”\n\nSektör temsilcileri, uygulamanın özellikle 2025 gibi ağır kuraklık yaşanan bir üretim yılında ciddi mağduriyet oluşturduğunu belirtti.\n\nTohum üreticileri bir taraftan ekim, gübre, ilaç, işçilik, enerji ve finansman maliyetlerini karşılayıp kuraklık nedeniyle beklediği ürünü alamazken, diğer taraftan elde edilemeyen üretim nedeniyle sertifika sunamadığı için faiz yüküyle karşı karşıya kaldığını dile getirdi.\n\nÜreticiler yaşanan durumu, “Kuraklıktan dolayı ürünümüzü alamadık, şimdi üretmediğimiz ürünün sertifikası isteniyor. Sertifika olmadığı için de faiz çıkarılıyor” sözleriyle özetledi.\n\nÜRETİCİLER: BEYANNAME DEĞİL TARLA KONTROL RAPORU ESAS ALINSIN\n\nTohum üreticileri Ziraat Bankası’nın kredi kapatma işlemlerinde yalnızca başlangıçtaki tohumluk beyannamesi ile nihai sertifika miktarını karşılaştırmasının mağduriyet oluşturduğunu savunuyor.\n\nSektör, özellikle üreticinin kusurundan kaynaklanmayan kayıplarda Tarım ve Orman Bakanlığı tarafından düzenlenen tarla kontrol raporlarının da dikkate alınmasını talep ediyor.\n\nÜreticilere göre, Bakanlığın yaptığı kontrol sonucunda bir alanın kuraklık nedeniyle “tohumluk olamaz” olduğunun resmi olarak tespit edilmesi durumunda, bu alana karşılık gelen üretimin sertifikasının isten"
+    },
     {
       "title": "Türkiye’nin yakından bildiği hayvancılık krizi ABD’yi vurdu: Bedeli ağır oluyor",
       "url": "https://www.tarimdanhaber.com/turkiyenin-yakindan-bildigi-hayvancilik-krizi-abdyi-vurdu-bedeli-agir-oluyor",
@@ -125,14 +133,6 @@
       "date": "2026-08-20",
       "summary": "TÜİK verilerine göre Tarım-GFE, Haziran 2026'da aylık yüzde 0,92 gerilerken yıllık yüzde 32,06, 12 aylık ortalamalarda yüzde 34,02 arttı.",
       "content": "ANKARA — Türkiye İstatistik Kurumunun (TÜİK) Haziran 2026 dönemine ilişkin açıkladığı Tarımsal Girdi Fiyat Endeksi (Tarım-GFE), bir önceki aya göre yüzde 0,92 azaldı. Endeks, geçen yılın aynı ayına göre yüzde 32,06, 12 aylık ortalamalara göre ise yüzde 34,02 arttı.\n\nTarım-GFE'de (2020=100), 2026 yılı Haziran ayında bir önceki aya göre %0,92 azalış, bir önceki yılın Aralık ayına göre %16,92 artış, bir önceki yılın aynı ayına göre %32,06 artış ve on iki aylık ortalamalara göre %34,02 artış gerçekleşti.\n\nAna gruplarda bir önceki aya göre, tarımda kullanılan mal ve hizmetler endeksinde %1,20 azalış, tarımsal yatırıma katkı sağlayan mal ve hizmetler endeksinde %0,93 artış gerçekleşti. Bir önceki yılın aynı ayına göre tarımda kullanılan mal ve hizmetler endeksinde %33,88 artış, tarımsal yatırıma katkı sağlayan mal ve hizmetler endeksinde %21,49 artış gerçekleşti.\n\nAna gruplara göre Tarım-GFE ve değişim oranları (%), Haziran 2026\n\nEndeks\n\nBir önceki aya göre değişim oranı (%)\n\nBir önceki yılın Aralık ayına göre değişim oranı (%)\n\nBir önceki yılın aynı ayına göre değişim oranı (%)\n\nOn iki aylık ortalamalara göre değişim oranı (%)\n\nTarım-GFE\n\n998,81\n\n-0,92\n\n16,92\n\n32,06\n\n34,02\n\nTarımda kullanılan mal ve hizmetler\n\n972,37\n\n-1,20\n\n17,77\n\n33,88\n\n35,50\n\nTarımsal yatırıma katkı sağlayan mal ve hizmetler\n\n1 210,00\n\n0,93\n\n11,78\n\n21,49\n\n25,49\n\nTarım-GFE yıllık değişim oranı (%), Haziran 2026\n\nYıllık değişimin en yüksek olduğu alt grup %50,99 artış ile gübre ve toprak geliştiriciler, aylık değişimin en yüksek olduğu alt grup %3,88 artış ile bina bakım masrafları oldu.\n\nAlt gruplara göre Tarım-GFE yıllık değişim oranları (%), Haziran 2026\n\nAlt gruplara göre Tarım-GFE aylık değişim oranları (%), Haziran 2026"
-    },
-    {
-      "title": "Dünya tarım devinde dikkat çeken dönüşüm: Hayvancılığın ağırlığı artıyor",
-      "url": "https://www.tarimdanhaber.com/dunya-tarim-devinde-dikkat-ceken-donusum-hayvanciligin-agirligi-artiyor",
-      "source": "Tarımdan Haber",
-      "date": "2026-08-19",
-      "summary": "Brezilya tarımında dikkat çekici bir değişim yaşanıyor. Tarım ekonomisi üzerine değerlendirmelerde bulunan Ergin Kahveci, Brezilya Tarım Bakanlığı'nın Temmuz 2026 verilerine dikkat çekerek, son yıllarda bitkisel üretimin toplam tarımsal üretim değeri içindeki payı gerilerken hayvancılığın payının be",
-      "content": "Haber Merkezi / Dünyanın en büyük tarım üreticileri ve ihracatçıları arasında bulunan Brezilya'da tarımsal üretimin kendi içindeki dengeleri değişiyor.\n\nTarım ekonomisi üzerine değerlendirmelerde bulunan Ergin Kahveci, Brezilya Tarım Bakanlığı'nın Temmuz 2026 verilerini analiz ederek, ülkede bitkisel üretimin ağırlığının azalmasına karşılık hayvancılığın tarımsal üretim değerindeki payının yükseldiğine dikkat çekti.\n\nBrezilya tarımının üretim değeri 269 milyar dolara yaklaştı\n\nKahveci'nin aktardığı verilere göre, Brezilya tarım sektörünün 2026 yılı brüt üretim değerinin 1,398 trilyon real olması bekleniyor.\n\n1 doların 5,20 real olduğu kur üzerinden hesaplandığında bu rakam yaklaşık 268,8 milyar dolarlık bir üretim değerine karşılık geliyor.\n\nBrezilya tarımı 2025 yılında 1,464 trilyon real ile rekor kırarken, 2026 tahmini geçen yıla göre yaklaşık yüzde 4,5'lik düşüşe işaret ediyor.\n\nAncak Kahveci'ye göre rakamlardaki yıllık gerilemeden daha önemli olan gelişme, tarımsal üretimin kendi içindeki dağılımında yaşanıyor.\n\nBitkisel üretimin payı yüzde 69'dan yüzde 63,9'a geriledi\n\nBrezilya'da 2022-2023 döneminde toplam tarımsal üretim değerinin yaklaşık yüzde 69'unu oluşturan bitkisel üretimin payının 2026 tahmininde yüzde 63,9'a gerilediği belirtiliyor.\n\nBitkisel üretimin toplam değerinin 893,3 milyar real, yani yaklaşık 171,8 milyar dolar olması bekleniyor.\n\nBuna karşılık hayvancılığın toplam tarımsal üretim değerindeki payı yüzde 36,1'e yükselirken, sektörün üretim değerinin 504,8 milyar reale, yaklaşık 97,1 milyar dolara ulaşacağı tahmin ediliyor.\n\nKahveci, son beş yıllık süreçte bitkisel üretimin payında ortaya çıkan bu gerilemeyi Brezilya tarımında uzun vadeli bir dönüşümün önemli göstergelerinden biri olarak değerlendiriyor.\n\nSoya liderliğini koruyor, sığır eti yükseliyor\n\nÜrün bazında bakıldığında ise Brezilya tarımının en büyük ekonomik değerini soya üretmeye devam ediyor.\n\nSoyanın 2026 yılı üretim değerinin 336 milyar real, yaklaşık 64,6 milyar dolar olacağı tahmin ediliyor.\n\nHayvancılık tarafında ise en dikkat çekici gelişme sığır etinde yaşanıyor. Sığır eti üretim değerinin yüzde 9,7 artışla 246,5 milyar reale, yaklaşık 47,4 milyar dolara ulaşması bekleniyor.\n\nBöylece sığır eti, Brezilya tarımındaki yapısal değişimin en güçlü kalemlerinden biri olarak öne çıkıyor.\n\nMısır, şeker kamışı ve kahvede gerileme\n\nBitkisel üretimin önemli ürünlerinde ise 2026 yılı için değer kayıpları dikkat çekiyor.\n\nMısırın üretim değerinin yüzde 6,6 düşüşle 158,4 milyar real, şeker kamışının yüzde 8,8 düşüşle 108,7 milyar real ve kahvenin yüzde 11,6 düşüşle 103,5 milyar real seviyesinde gerçekleşeceği tahmin ediliyor.\n\nTavuk eti üretim değerinde de yüzde 9,3'lük düşüş öngörülürken, toplam değerin 106,2 milyar real seviyesinde olması bekleniyor.\n\nTarım Brezilya ekonomisinin dörtte birini oluşturuyor\n\nBrezilya açısından tarımın önemi yalnızca tarlada ve çiftlikte gerçekleştirilen üretimle sınırlı değil.\n\nKahveci'nin paylaştığı verilere göre, birincil tarımsal üretimin yanı sıra tarıma dayalı sanayi, hizmetler ve lojistik de hesaba katıldığında Brezilya'nın tarım ve tarıma dayalı ekonomisinin büyüklüğü 2025 itibarıyla 3,20 trilyon reale ulaşıyor.\n\nBu rakamın ülke ekonomisi içindeki payı ise yüzde 25,13 seviyesinde bulunuyor."
     }
   ],
   "commoditiesByBorsa": {
