@@ -1,33 +1,33 @@
 {
-  "updatedAt": "2026-08-21T08:20:48.500Z",
+  "updatedAt": "2026-08-21T09:07:57.529Z",
   "fx": [
     {
       "code": "USD",
       "name": "Dolar",
       "buy": 48.06,
       "sell": 48.07,
-      "change": 0.33
+      "change": 0.34
     },
     {
       "code": "EUR",
       "name": "Euro",
-      "buy": 56.25,
-      "sell": 56.27,
-      "change": 0.1
+      "buy": 56.3,
+      "sell": 56.31,
+      "change": 0.18
     },
     {
       "code": "GRA",
       "name": "Gram Altın",
-      "buy": 7060.88,
-      "sell": 7061.75,
-      "change": 1.46
+      "buy": 7086.37,
+      "sell": 7087.12,
+      "change": 1.82
     },
     {
       "code": "CEYREKALTIN",
       "name": "Çeyrek Altın",
-      "buy": 10984.41,
-      "sell": 11234.92,
-      "change": 0
+      "buy": 11222.83,
+      "sell": 11478.61,
+      "change": 2.17
     },
     {
       "code": "CUMHURIYETALTINI",
@@ -153,7 +153,7 @@
           "name": "Arpa",
           "unit": "₺/kg",
           "price": 13.52,
-          "change": 1.96,
+          "change": 0,
           "source": "Edirne TB",
           "date": "2026-08-21"
         },
@@ -162,7 +162,7 @@
           "name": "Ayçiçeği (yağlık)",
           "unit": "₺/kg",
           "price": 40,
-          "change": 0.08,
+          "change": 0,
           "source": "Edirne TB",
           "date": "2026-08-21"
         },
@@ -254,7 +254,7 @@
       "name": "Arpa",
       "unit": "₺/kg",
       "price": 13.52,
-      "change": 1.96,
+      "change": 0,
       "source": "Edirne TB",
       "date": "2026-08-21"
     },
@@ -263,7 +263,7 @@
       "name": "Ayçiçeği (yağlık)",
       "unit": "₺/kg",
       "price": 40,
-      "change": 0.08,
+      "change": 0,
       "source": "Edirne TB",
       "date": "2026-08-21"
     },
@@ -328,5 +328,17 @@
   "defaultBorsa": "5ED10",
   "defaultCity": "CANAKKALE",
   "note": "Fiyatlar TOBB ticaret borsasından (borsa seçilebilir). Kanola manuel (Trakya 2025).",
-  "inputsNote": "Mazot: akaryakıt bayi fiyatı, günlük (şehir seçilebilir). Gübre: manuel (yaklaşık)."
+  "inputsNote": "Mazot: akaryakıt bayi fiyatı, günlük (şehir seçilebilir). Gübre: manuel (yaklaşık).",
+  "errors": [
+    "mazot ANKARA: fetch failed",
+    "mazot ISTANBUL: fetch failed",
+    "mazot IZMIR: fetch failed",
+    "mazot KONYA: fetch failed",
+    "mazot ADANA: fetch failed",
+    "mazot BURSA: fetch failed",
+    "mazot ANTALYA: fetch failed",
+    "mazot SAMSUN: fetch failed",
+    "mazot TEKIRDAG: fetch failed",
+    "mazot CANAKKALE: fetch failed"
+  ]
 }
