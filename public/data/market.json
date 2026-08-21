@@ -1,26 +1,26 @@
 {
-  "updatedAt": "2026-08-21T20:50:56.696Z",
+  "updatedAt": "2026-08-21T21:27:31.825Z",
   "fx": [
     {
       "code": "USD",
       "name": "Dolar",
-      "buy": 48,
-      "sell": 48.12,
-      "change": 0.33
+      "buy": 47.96,
+      "sell": 48.08,
+      "change": 0.24
     },
     {
       "code": "EUR",
       "name": "Euro",
-      "buy": 56.09,
-      "sell": 56.34,
-      "change": 0.02
+      "buy": 56.06,
+      "sell": 56.19,
+      "change": -0.13
     },
     {
       "code": "GRA",
       "name": "Gram Altın",
-      "buy": 7115.02,
-      "sell": 7116.02,
-      "change": 2.24
+      "buy": 7106.52,
+      "sell": 7107.39,
+      "change": 2.12
     },
     {
       "code": "CEYREKALTIN",
@@ -277,24 +277,24 @@
     }
   ],
   "dieselByCity": {
-    "ANKARA": 80.83,
-    "ISTANBUL": 79.64,
-    "IZMIR": 81.1,
-    "KONYA": 82,
-    "ADANA": 81.66,
-    "BURSA": 80.71,
-    "ANTALYA": 82.15,
-    "SAMSUN": 81.4,
-    "TEKIRDAG": 80.56,
-    "CANAKKALE": 81.46
+    "ANKARA": 83.75,
+    "ISTANBUL": 82.56,
+    "IZMIR": 84.02,
+    "KONYA": 84.92,
+    "ADANA": 84.58,
+    "BURSA": 83.63,
+    "ANTALYA": 85.07,
+    "SAMSUN": 84.32,
+    "TEKIRDAG": 83.48,
+    "CANAKKALE": 84.38
   },
   "inputs": [
     {
       "key": "motorin",
       "name": "Motorin (mazot)",
       "unit": "₺/lt",
-      "price": 81.46,
-      "change": 0,
+      "price": 84.38,
+      "change": 3.58,
       "source": "CANAKKALE ort."
     },
     {
