@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-21T21:27:31.825Z",
+  "updatedAt": "2026-08-21T21:50:08.158Z",
   "fx": [
     {
       "code": "USD",
@@ -294,7 +294,7 @@
       "name": "Motorin (mazot)",
       "unit": "₺/lt",
       "price": 84.38,
-      "change": 3.58,
+      "change": 0,
       "source": "CANAKKALE ort."
     },
     {
