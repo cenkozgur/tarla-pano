@@ -1,26 +1,26 @@
 {
-  "updatedAt": "2026-08-21T16:04:13.989Z",
+  "updatedAt": "2026-08-21T16:45:07.691Z",
   "fx": [
     {
       "code": "USD",
       "name": "Dolar",
-      "buy": 48.06,
-      "sell": 48.07,
-      "change": 0.33
+      "buy": 48.04,
+      "sell": 48.06,
+      "change": 0.3
     },
     {
       "code": "EUR",
       "name": "Euro",
-      "buy": 56.19,
-      "sell": 56.22,
-      "change": 0
+      "buy": 56.16,
+      "sell": 56.19,
+      "change": -0.04
     },
     {
       "code": "GRA",
       "name": "Gram Altın",
-      "buy": 7131.29,
-      "sell": 7132.28,
-      "change": 2.47
+      "buy": 7138.91,
+      "sell": 7139.88,
+      "change": 2.58
     },
     {
       "code": "CEYREKALTIN",
@@ -38,6 +38,14 @@
     }
   ],
   "news": [
+    {
+      "title": "Bakan Yumaklı açıkladı: 195,6 milyon TL destek bugün hesaplarda",
+      "url": "https://www.tarimpusulasi.com/haber/bakan-yumakli-acikladi-1956-milyon-tl-destek-bugun-hesaplarda-47459",
+      "source": "Tarım Pusulası",
+      "date": "2026-08-21",
+      "summary": "Tarım ve Orman Bakanı İbrahim Yumaklı, 195 milyon 560 bin liralık tarımsal destek ödemesinin bugün üreticilerin hesaplarına aktarılacağını açıkladı.",
+      "content": "ANKARA — Tarım ve Orman Bakanı İbrahim Yumaklı, 195 milyon 560 bin liralık tarımsal destek ödemesinin bugün üreticilerin hesaplarına aktarılacağını açıkladı.\n\nYumaklı, tarımsal destekleme ödemelerine ilişkin yaptığı açıklamada, üreticilerin desteklenmeye devam edildiğini belirtti.\n\nBakan Yumaklı, açıklamasında, 195 milyon TL tarımsal destek ödemesinin çiftçilerin hesaplarına aktarılacağını bildirerek ödemenin üreticiler için hayırlı ve bereketli olmasını diledi.\n\nÖdemenin dağılımı belli oldu\n\nBakanlık açıklamasında yer alan bilgilere göre, toplam 195 milyon 560 bin TL tutarındaki desteğin büyük bölümünü kırsal kalkınma yatırım desteği oluşturuyor.\n\nBuna göre;\n\nKırsal kalkınma yatırım desteği: 190 milyon 972 bin TL\n\nAr-Ge desteği: 4 milyon 588 bin TL\n\nolmak üzere toplam 195 milyon 560 bin TL ödeme yapılacak.\n\nKırsal kalkınma yatırım desteğinin toplam ödeme içerisindeki payı yaklaşık %97,7, Ar-Ge desteğinin payı ise yaklaşık %2,3 olarak hesaplandı.\n\nBakan Yumaklı, destek ödemelerinin üreticilerin hesaplarına aktarılacağını belirterek, tarımsal üretime katkı sağlayan ödemelerin hayırlı ve bereketli olmasını diledi.\n\nTARIM PUSULASI HABER MERKEZİ"
+    },
     {
       "title": "33. Dünya Buiatri Kongresi ilk kez Türkiye’de düzenlenecek",
       "url": "https://www.tarimpusulasi.com/haber/33-dunya-buiatri-kongresi-ilk-kez-turkiyede-duzenlenecek-47458",
@@ -117,14 +125,6 @@
       "date": "2026-08-20",
       "summary": "TMO-TOBB’un 20 Ağustos verilerine göre 15 borsada ekmeklik buğday ortalaması 15.524 TL, TÜRİB’de ise 15.752 TL oldu.",
       "content": "ANKARA — TMO-TOBB Tarım Ürünleri Lisanslı Depoculuk San. ve Tic. A.Ş., 20 Ağustos 2026 tarihli hububat fiyatlarını paylaştı. 15 Ticaret Borsasından alınan ortalama fiyatlarda ekmeklik buğday 15.524 TL/ton, makarnalık buğday 16.312 TL/ton, arpa 13.026 TL/ton, mısır 13.528 TL/ton, yulaf 16.954 TL/ton ve çavdar 12.955 TL/ton olarak açıklandı.\n\nTÜRİB ortalama fiyatlarında ise ekmeklik buğday 15.752 TL/ton, makarnalık buğday 13.836 TL/ton, arpa 12.657 TL/ton ve mısır 14.340 TL/ton oldu.\n\n15 BORSADA YULAF EN YÜKSEK FİYATLI ÜRÜN\n\n15 Ticaret Borsasından alınan ortalama fiyatlara göre listede yer alan ürünler arasında en yüksek fiyat 16.954 TL/ton ile yulafta görüldü.\n\nYulafı 16.312 TL/ton ile makarnalık buğday, 15.524 TL/ton ile ekmeklik buğday izledi.\n\nArpa ortalaması 13.026 TL/ton, mısır ortalaması 13.528 TL/ton, çavdar ortalaması ise 12.955 TL/ton olarak açıklandı.\n\nBu verilere göre 15 borsa ortalamasında yulaf ile çavdar arasındaki fiyat farkı 3.999 TL/ton oldu.\n\nTÜRİB’DE EKMEKLİK BUĞDAY 15.752 TL\n\nTürkiye Ürün İhtisas Borsası (TÜRİB) ortalama fiyatlarında ekmeklik buğday 15.752 TL/ton seviyesinde yer aldı.\n\nTÜRİB verilerinde mısırın ortalama fiyatı 14.340 TL/ton, arpanın 12.657 TL/ton, makarnalık buğdayın ise 13.836 TL/ton olduğu bildirildi.\n\nTÜRİB verilerinde yer alan dört ürün arasında en yüksek ortalama fiyat 15.752 TL/ton ile ekmeklik buğdayda, en düşük fiyat ise 12.657 TL/ton ile arpada kaydedildi.\n\nBAZI ÜRÜNLERDE BORSALAR İLE TÜRİB FARKI\n\nHem 15 borsa hem de TÜRİB için verilen dört ortak ürün karşılaştırıldığında fiyatların aynı seviyede olmadığı görülüyor.\n\nEkmeklik buğdayda TÜRİB ortalaması 15 borsa ortalamasının 228 TL/ton üzerinde bulunuyor. Bu fark yaklaşık %1,5 seviyesinde.\n\nMakarnalık buğdayda ise 15 borsa ortalaması 16.312 TL/ton iken TÜRİB ortalaması 13.836 TL/ton olarak açıklandı. İki veri arasındaki fark 2.476 TL/ton ve TÜRİB fiyatı 15 borsa ortalamasının yaklaşık %15,2 altında.\n\nArpada 15 borsa ortalaması 13.026 TL/ton, TÜRİB ortalaması 12.657 TL/ton oldu. Aradaki fark 369 TL/ton.\n\nMısırda ise 15 borsa ortalaması 13.528 TL/ton, TÜRİB ortalaması 14.340 TL/ton olarak açıklandı. TÜRİB ortalaması 15 borsa ortalamasının 812 TL/ton üzerinde bulunuyor.\n\n20 AĞUSTOS HUBUBAT FİYATLARI\n\nÜrün\n\n15 Borsa Ortalaması (TL/ton)\n\nTÜRİB Ortalaması (TL/ton)\n\nEkmeklik buğday\n\n15.524\n\n15.752\n\nMakarnalık buğday\n\n16.312\n\n13.836\n\nArpa\n\n13.026\n\n12.657\n\nMısır\n\n13.528\n\n14.340\n\nYulaf\n\n16.954\n\n—\n\nÇavdar\n\n12.955\n\n—\n\nTARIM PUSULASI HABER MERKEZİ"
-    },
-    {
-      "title": "Tekirdağ’da 89 üreticiye 104 bin kışlık sebze fidesi desteği",
-      "url": "https://www.tarimpusulasi.com/haber/tekirdagda-89-ureticiye-104-bin-kislik-sebze-fidesi-destegi-47451",
-      "source": "Tarım Pusulası",
-      "date": "2026-08-20",
-      "summary": "Tekirdağ Büyükşehir Belediyesi, proje kapsamında 4 ilçede 89 üreticiye toplam 104 bin 208 kışlık sebze fidesi desteği sağlıyor.",
-      "content": "TEKİRDAĞ — Tekirdağ Büyükşehir Belediyesi, kentte sebze üretimini yaygınlaştırmak ve üreticilerin girdi maliyetlerini azaltmak amacıyla yürütülen Sebzeciliği Geliştirme Projesi kapsamında 4 ilçede 89 üreticiye toplam 104 bin 208 adet kışlık sebze fidesi desteği sağlıyor.\n\nTekirdağ Büyükşehir Belediyesi ile Tekirdağ İli Ziraat Odası Başkanlıklarının işbirliğinde yürütülen proje kapsamında Malkara, Çorlu, Çerkezköy ve Süleymanpaşa’daki üreticilere kırmızı lahana, beyaz lahana, kıvırcık marul, karnabahar ve brokoli fideleri dağıtılıyor.\n\nFİDE BEDELİNİN YÜZDE 70’İ BELEDİYEDEN\n\nProje kapsamında fide bedelinin yüzde 70’i Tekirdağ Büyükşehir Belediyesi, yüzde 30’u ise Ziraat Odaları tarafından karşılanıyor.\n\nToplam proje bedeli 496 bin 786,68 TL olarak açıklanırken, bunun 347 bin 750,68 TL’lik kısmının KDV dahil olmak üzere Tekirdağ Büyükşehir Belediyesi tarafından karşılandığı belirtildi.\n\nBelediyenin açıklamasına göre proje, üreticilerin tohum, fide, gübre ve sulama gibi temel tarımsal girdilerdeki maliyet artışlarından daha az etkilenmesini amaçlıyor.\n\n104 BİN 208 FİDENİN ÜRÜN DAĞILIMI\n\nProje kapsamında dağıtılacak toplam 104 bin 208 fidenin ürünlere göre dağılımı şöyle:\n\n23 bin 88 kırmızı lahana\n\n24 bin 24 beyaz lahana\n\n21 bin 216 kıvırcık marul\n\n19 bin 968 karnabahar\n\n15 bin 912 brokoli\n\nÜrün gruplarındaki fide miktarlarının toplamı 104 bin 208 adede ulaşıyor.\n\nEN FAZLA ÜRETİCİ SÜLEYMANPAŞA’DA\n\nProjeden toplam 89 üretici yararlanıyor.\n\nİlçelere göre üretici dağılımı ise şöyle:\n\nSüleymanpaşa: 40 üretici\n\nÇerkezköy: 21 üretici\n\nMalkara: 19 üretici\n\nÇorlu: 9 üretici\n\nBu dağılımın toplamı da 89 üretici olarak açıklanan proje toplamıyla örtüşüyor.\n\nDAĞITIMLAR 12 AĞUSTOS’TA BAŞLADI\n\nKışlık sebze fidesi dağıtımları 12 Ağustos'ta Malkara ve Süleymanpaşa’da gerçekleştirildi. Dağıtım programının 13 Ağustos Perşembe günü Çerkezköy ve Çorlu’da devam ettiği bildirildi.\n\nSonbahar döneminde dikilen ve kış ile ilkbahar aylarında hasat edilen kışlık sebzelerin Tekirdağ’ın iklim koşullarına uygun bir üretim alternatifi sunduğu belirtildi.\n\nProje ile üretici maliyetlerinin azaltılmasının yanı sıra tarımsal faaliyetlerin yılın daha uzun bir dönemine yayılması ve mevcut tarım alanlarının daha verimli kullanılması hedefleniyor.\n\nYAZLIK FİDE DESTEĞİ DE VERİLDİ\n\nTekirdağ Büyükşehir Belediyesi, kışlık fide desteğinin yanı sıra daha önce yazlık fide destekleri de gerçekleştirdi.\n\nBelediyenin açıklamasına göre sofralık ve salçalık domates, kapya biber, kavun ve karpuz başta olmak üzere farklı ürün gruplarında toplam 482 bin adet yazlık sebze fidesi üreticilerle buluşturuldu.\n\nBöylece açıklamada yer alan yazlık ve mevcut kışlık fide destekleri birlikte değerlendirildiğinde, iki proje döneminde toplam 586 bin 208 fide üreticilerle buluşturulmuş veya buluşturuluyor.\n\nBELEDİYEDEN FARKLI ALANLARDA TARIMSAL DESTEK\n\nTekirdağ Büyükşehir Belediyesi, açıklamasında üreticilere yönelik farklı destek çalışmalarının da sürdürüldüğünü belirtti.\n\nBu kapsamda Mazot Desteği Projesi ile yakıt desteği sağlandığı, Hadi Gel Köyümüzde Sürümüzü Büyütelim Projesi ile küçükbaş hayvan yetiştiriciliğinin desteklendiği aktarıldı.\n\nArıcılık alanında Arı Yaşam Gücü Projesi ve Arıcılık Malzeme Desteği kapsamında destekler sunulduğu, hayvancılıkla uğraşan üreticilere ise kaba ve kesif yem desteği ulaştırıldığı belirtildi.\n\nAçıklamada ayrıca bağcılık potansiyeli yüksek ilçelerde yerel türlerin yaygınlaştırılması amacıyla fidan dağıtımları yapıldığı, tarla yollarının bakım ve iyileştirilmesi ile mera ve hayvan sulama tesislerinin yapım ve bakım çalışmalarının sürdüğü kaydedildi.\n\nKırsal bölgelerde üretilen yerel ve doğal ürünlerin tüketiciyle buluşturulması amacıyla TEK Marketler aracılığıyla üreticilere pazar imkânı sağlandığı da ifade edildi.\n\nTARIM PUSULASI HABER MERKEZİ"
     },
     {
       "title": "Hüseyin Akay’dan şeker operasyonuna destek: Kimyasal tatlandırıcılar da soruşturulmalı",
@@ -328,5 +328,17 @@
   "defaultBorsa": "5ED10",
   "defaultCity": "CANAKKALE",
   "note": "Fiyatlar TOBB ticaret borsasından (borsa seçilebilir). Kanola manuel (Trakya 2025).",
-  "inputsNote": "Mazot: akaryakıt bayi fiyatı, günlük (şehir seçilebilir). Gübre: manuel (yaklaşık)."
+  "inputsNote": "Mazot: akaryakıt bayi fiyatı, günlük (şehir seçilebilir). Gübre: manuel (yaklaşık).",
+  "errors": [
+    "mazot ANKARA: fetch failed",
+    "mazot ISTANBUL: fetch failed",
+    "mazot IZMIR: fetch failed",
+    "mazot KONYA: fetch failed",
+    "mazot ADANA: fetch failed",
+    "mazot BURSA: fetch failed",
+    "mazot ANTALYA: fetch failed",
+    "mazot SAMSUN: fetch failed",
+    "mazot TEKIRDAG: fetch failed",
+    "mazot CANAKKALE: fetch failed"
+  ]
 }
