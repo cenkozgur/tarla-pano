@@ -1,43 +1,51 @@
 {
-  "updatedAt": "2026-08-22T11:59:58.457Z",
+  "updatedAt": "2026-08-22T12:44:54.760Z",
   "fx": [
     {
       "code": "USD",
       "name": "Dolar",
-      "buy": 479621,
-      "sell": 480792,
-      "change": 24
+      "buy": 47.96,
+      "sell": 48.08,
+      "change": 0.24
     },
     {
       "code": "EUR",
       "name": "Euro",
-      "buy": 560614,
-      "sell": 561921,
-      "change": -13
+      "buy": 56.06,
+      "sell": 56.19,
+      "change": -0.13
     },
     {
       "code": "GRA",
       "name": "Gram Altın",
-      "buy": 710652,
-      "sell": 710739,
-      "change": 212
+      "buy": 7106.52,
+      "sell": 7107.39,
+      "change": 2.12
     },
     {
       "code": "CEYREKALTIN",
       "name": "Çeyrek Altın",
-      "buy": 1125314,
-      "sell": 1150959,
-      "change": 244
+      "buy": 11253.14,
+      "sell": 11509.59,
+      "change": 2.44
     },
     {
       "code": "CUMHURIYETALTINI",
       "name": "Cumhuriyet Altını",
       "buy": 46646,
       "sell": 47350,
-      "change": 274
+      "change": 2.74
     }
   ],
   "news": [
+    {
+      "title": "ABB, 600 keklik ve bıldırcını doğaya saldı",
+      "url": "https://www.tarimpusulasi.com/haber/abb-600-keklik-ve-bildircini-dogaya-saldi-47464",
+      "source": "Tarım Pusulası",
+      "date": "2026-08-22",
+      "summary": "Ankara Büyükşehir Belediyesi, ekosistemi korumak ve zararlı haşerelerle biyolojik mücadeleyi desteklemek için 600 keklik ile bıldırcını belirlenen alanlarda salıverdi.",
+      "content": "ANKARA — Ankara Büyükşehir Belediyesi, ekosistemin korunması, biyoçeşitliliğin artırılması ve zararlı haşerelerle biyolojik mücadeleye katkı sağlamak amacıyla toplam 600 keklik ve bıldırcını doğaya saldı.\n\nKeklik ve bıldırcınlar; ATA Çiftliği, Atatürk Çocukları Doğal Yaşam Parkı, Mavi Göl, Göksu Parkı, Harikalar Diyarı ve Gençlik Parkı’nda serbest bırakıldı. Çalışma, Kırsal Hizmetler Daire Başkanlığı ile Veteriner İşleri Daire Başkanlığı iş birliğinde yürütüldü.\n\nKırsal Hizmetler Daire Başkanı Hüseyin Şemsi Uysal, projenin hem ekosisteme hem de tarımsal alanlara katkı sağlayacağını belirtti. Uysal, ATA Çiftliği’ndeki yaklaşık 110 dekarlık meyve bahçelerinde vişne, erik ve kayısı gibi ürünlerin üst kısımlarının hayvanlar tarafından tüketileceğini, aynı zamanda park alanlarındaki zararlı böceklerle biyolojik mücadele yapılacağını söyledi.\n\nVeteriner İşleri Daire Başkanı Mustafa Şener ise bu yıl ilk kez hem tarımsal alanlarda hem de park ve rekreasyon alanlarında salım gerçekleştirdiklerini açıkladı. Şener, çalışmanın tarımsal verimliliğe katkı, halk sağlığı açısından biyolojik haşere mücadelesi ve biyoçeşitliliğin artırılmasını hedeflediğini ifade etti.\n\nTARIM PUSULASI HABER MERKEZİ"
+    },
     {
       "title": "İtalya’da bankalar peyniri altın gibi saklıyor! 500 bin tekerlek kredi teminatı",
       "url": "https://www.tarimdanhaber.com/italyada-bankalar-peyniri-altin-gibi-sakliyor-500-bin-tekerlek-kredi-teminati",
@@ -125,14 +133,6 @@
       "date": "2026-08-21",
       "summary": "Antalya Büyükşehir Belediyesi’nin kooperatiflere hibe ettiği süt soğutma tankları, üreticilerin soğuk zincir desteğinden yararlanarak ek gelir elde etmesini sağlıyor.",
       "content": "ANTALYA — Antalya Büyükşehir Belediyesi’nin Kırsal Kalkınma Kooperatifleri aracılığıyla süt üreticilerine sağladığı soğutma tankı desteği, üreticilerin sütlerini soğuk zincir şartlarında muhafaza etmesine ve süt soğutma primi üzerinden ek gelir elde etmesine katkı sağlıyor.\n\nAntalya Büyükşehir Belediyesi Tarımsal Hizmetler Dairesi Başkanlığı Kırsal Kalkınma ve Kooperatifçilik Şube Müdürü Dr. Asaf Özalp, 2019-2026 döneminde hayvancılık ve süt üretiminin yoğun olduğu bölgelerdeki kooperatiflere 34 adet, 4 ton kapasiteli süt soğutma tankı hibe edildiğini açıkladı.\n\nÖzalp'in verdiği bilgiye göre, bu tanklardan yararlanan üreticiler süt fiyatına ek olarak litre başına 1,8 TL süt soğutma primi elde edebiliyor.\n\nTankların ortalama yüzde 80 kapasiteyle kullanılması üzerinden yapılan hesaplamaya göre günlük yaklaşık 108 ton, yıllık ise yaklaşık 40 bin ton süt soğutuluyor. Özalp, sağlanan desteklerle üreticilerin yıllık toplam 70 milyon TL'nin üzerinde prim kazanmasının sağlandığını belirtti.\n\nSüt soğutma tankları kooperatifler üzerinden kullanılıyor\n\nAntalya Büyükşehir Belediyesi'nin desteği, süt üretiminin yoğun olduğu bölgelerde faaliyet gösteren kırsal kalkınma kooperatifleri üzerinden yürütülüyor.\n\nSoğutma tankları sayesinde üreticilerden toplanan sütün uygun koşullarda muhafaza edilmesi ve soğuk zincire dahil edilmesi amaçlanıyor.\n\nElmalı ilçesine bağlı Yuva Mahallesi'nde faaliyet gösteren Yuva Mahallesi Tarımsal Kalkınma Kooperatifi Başkanı Muhammed Tonbul, kooperatiflerine Büyükşehir Belediyesi tarafından 2 adet süt soğutma tankı hibe edildiğini belirtti.\n\nTonbul, Yuva Mahallesi'nde sabah ve akşam toplanan sütün tanklarda yaklaşık 3 derece sıcaklığa kadar soğutulduğunu ve günlük ortalama 14-15 ton süt toplandığını söyledi.\n\nTonbul, soğutma tanklarının sütlerin uygun koşullarda korunması açısından önemli olduğunu ifade ederek, uygulamanın üreticilerin süt soğutma priminden yararlanmasına da imkan sağladığını kaydetti.\n\nÜretici sütünü tankta soğutarak ek gelir elde ediyor\n\nYuva Mahallesi'nde hayvancılık yapan Necati Toy da sütlerin kooperatif tarafından sabah erken saatlerde toplandığını ve soğutma tankına aktarıldığını anlattı.\n\nToy, süt soğutma tankının kooperatifin sütü toplu şekilde almasını kolaylaştırdığını ve üreticinin süt soğutma priminden yararlanmasına imkan sağladığını belirtti.\n\nSoğuk zincir desteği üretimden pazara uzanan sürecin parçası\n\nAntalya Büyükşehir Belediyesi'nin uygulamasında süt soğutma tankları, üreticiden toplanan sütün soğuk zincire dahil edilmesinde kullanılıyor.\n\nBelediyenin performans programlarında da süt soğutma tankı uygulamasının, üreticinin elde ettiği sütün gıda güvenliği kurallarına uygun olarak kısa sürede soğuk zincire dahil edilmesini sağlamaya yönelik bir faaliyet olarak yer aldığı görülüyor.\n\nBu kapsamda verilen tank desteğiyle üreticilerin sütü uygun koşullarda muhafaza etmesi, kooperatiflerin toplama sürecini kolaylaştırması ve üreticilerin süt soğutma priminden yararlanması hedefleniyor.\n\nTARIM PUSULASI HABER MERKEZİ"
-    },
-    {
-      "title": "Türkcan: Yağ seçiminde kaynağın ötesine bakılmalı",
-      "url": "https://www.tarimpusulasi.com/haber/turkcan-yag-seciminde-kaynagin-otesine-bakilmali-47456",
-      "source": "Tarım Pusulası",
-      "date": "2026-08-21",
-      "summary": "Doç. Dr. Ceren Türkcan, yağ seçiminde bitkisel veya hayvansal kaynağın tek başına yeterli olmadığını, bileşim ve miktarın da değerlendirilmesi gerektiğini belirtti.",
-      "content": "İSTANBUL — Yağ seçiminde yalnızca ürünün bitkisel veya hayvansal kaynaklı olmasına bakmanın yeterli olmadığı belirtildi. İstanbul Arel Üniversitesi Biyomedikal Mühendisliği Öğretim Üyesi Doç. Dr. Ceren Türkcan, yağların değerlendirilmesinde yağ asidi bileşimi, tüketim miktarı ve günlük beslenmedeki diğer yağ kaynaklarının birlikte ele alınması gerektiğini söyledi.\n\nTürkcan, tek bir yağın bütün beslenme ihtiyaçları açısından en iyi seçenek olarak değerlendirilemeyeceğini belirterek, farklı yağların içerdiği doymuş ve doymamış yağ oranlarının dikkate alınması gerektiğini ifade etti.\n\nDünya Sağlık Örgütü'nün önerilerine de dikkat çekilen değerlendirmede, tüketilen yağların ağırlıklı olarak doymamış yağlardan gelmesi; doymuş yağlardan sağlanan enerjinin toplam günlük enerjinin yüzde 10'unu, trans yağlardan sağlanan enerjinin ise yüzde 1'ini aşmaması gerektiği aktarıldı.\n\nAyçiçek, mısır ve soya yağlarında doymamış yağlar öne çıkıyor\n\nAyçiçek, mısır ve soya yağlarının yağ asidi bileşimlerinin birbirinden farklı olduğu belirtildi.\n\nBu yağlarda özellikle omega-6 yağ asitlerinin önemli yer tuttuğu, soya yağının ise belirli miktarda omega-3 yağ asidi içermesiyle ayçiçek ve mısır yağından ayrıldığı kaydedildi.\n\nTürkcan, farklı yağların dengeli biçimde kullanılmasının beslenmede çeşitlilik sağlayabileceğini belirtti.\n\nZeytinyağı ve kanola yağı farklı bileşenleriyle öne çıkıyor\n\nZeytinyağı ve kanola yağının oleik asit bakımından zengin yağlar arasında bulunduğu ifade edildi.\n\nZeytinyağının doğal antioksidan bileşenleriyle Akdeniz tipi beslenmenin temel yağ kaynaklarından biri olduğu, kanola yağının ise omega-3 ve omega-6 yağ asitlerini bir arada içerdiği belirtildi.\n\nZeytinyağında yağ asidi bileşiminin yanı sıra ürünün güvenilirliği ve izlenebilirliğinin de önem taşıdığına dikkat çekildi. Taklit ve tağşiş riskine karşı ambalajlı, güvenilir ve kaynağı takip edilebilen ürünlerin tercih edilmesi gerektiği ifade edildi.\n\nPalm yağı yalnızca doymuş yağ oranıyla değerlendirilmemeli\n\nPalm yağının doymuş ve doymamış yağları birlikte içeren bitkisel yağlardan biri olduğu belirtildi.\n\nOda sıcaklığında doğal olarak yarı katı halde bulunmasının palm yağını ayçiçek, mısır ve soya yağı gibi sıvı yağlardan ayırdığı kaydedildi.\n\nBu özelliğin gıda üretiminde kıvam, yapı, pürüzsüzlük ve raf ömrü açısından kullanılabildiği belirtildi. Palm yağının bazı ürünlerde kısmi hidrojenasyona ihtiyaç duyulmadan istenen yapının elde edilmesine ve trans yağ oluşumunun önlenmesine katkı sağlayabildiği aktarıldı.\n\nTürkcan, palm yağının yalnızca doymuş yağ içeriği üzerinden değerlendirilmemesi gerektiğini belirterek, ürünün toplam doymuş yağ içeriği, tüketim sıklığı, porsiyon miktarı ve genel beslenme düzenindeki diğer yağ kaynaklarının birlikte değerlendirilmesi gerektiğini söyledi.\n\nBitkisel kaynaklı yağlar da yüksek doymuş yağ içerebilir\n\nHindistancevizi yağının bitkisel kaynaklı olmasına rağmen doymuş yağ oranı yüksek yağlar arasında yer aldığı belirtildi.\n\nBu nedenle bir yağın yalnızca “doğal” veya “bitkisel” olarak tanımlanmasının beslenme açısından otomatik olarak daha avantajlı olduğu anlamına gelmediği ifade edildi.\n\nTürkcan, hindistancevizi yağının bu duruma örnek oluşturduğunu belirterek, tüketicilerin ürünün popülerliğinden önce bileşimine ve tüketim miktarına bakması gerektiğini kaydetti.\n\nTereyağında tüketim miktarına dikkat çekildi\n\nTereyağının süt yağından elde edilen ve doymuş yağ oranı yüksek hayvansal kaynaklı bir yağ olduğu belirtildi.\n\nGeleneksel mutfaktaki yeri ve kendine özgü aroması nedeniyle tercih edilen tereyağının tüketim miktarının ise günlük beslenme düzeni içerisinde değerlendirilmesi gerektiği ifade edildi.\n\nTürkcan, tereyağının tamamen dışlanması veya sınırsız tüketilmesi yerine, günlük beslenmedeki yeri ve miktarının dikkate alınması gerektiğini söyledi.\n\nYağ seçiminde temel ölçüt yalnızca kaynak değil\n\nDeğerlendirmede, yağların yalnızca bitkisel ve hayvansal olarak iki gruba ayrılmasının beslenme açısından yeterli bir değerlendirme sunmadığı vurgulandı.\n\nHindistancevizi yağının bitkisel kaynaklı olmasına rağmen doymuş yağ içeriğinin yüksek olabileceği, tereyağının da doymuş yağ oranı yüksek hayvansal kaynaklı bir yağ olduğu belirtildi.\n\nBu nedenle yağ seçiminde ürünün kaynağının yanı sıra yağ asidi bileşimi, tüketim sıklığı, porsiyon büyüklüğü ve gün içinde diğer besinlerden alınan yağların birlikte değerlendirilmesi gerektiği ifade edildi.\n\nTARIM PUSULASI HABER MERKEZİ"
     }
   ],
   "commoditiesByBorsa": {
