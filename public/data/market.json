@@ -1,43 +1,51 @@
 {
-  "updatedAt": "2026-08-22T11:47:07.866Z",
+  "updatedAt": "2026-08-22T11:59:58.457Z",
   "fx": [
     {
       "code": "USD",
       "name": "Dolar",
-      "buy": 47.96,
-      "sell": 48.08,
-      "change": 0.24
+      "buy": 479621,
+      "sell": 480792,
+      "change": 24
     },
     {
       "code": "EUR",
       "name": "Euro",
-      "buy": 56.06,
-      "sell": 56.19,
-      "change": -0.13
+      "buy": 560614,
+      "sell": 561921,
+      "change": -13
     },
     {
       "code": "GRA",
       "name": "Gram Altın",
-      "buy": 7106.52,
-      "sell": 7107.39,
-      "change": 2.12
+      "buy": 710652,
+      "sell": 710739,
+      "change": 212
     },
     {
       "code": "CEYREKALTIN",
       "name": "Çeyrek Altın",
-      "buy": 11253.14,
-      "sell": 11509.59,
-      "change": 2.44
+      "buy": 1125314,
+      "sell": 1150959,
+      "change": 244
     },
     {
       "code": "CUMHURIYETALTINI",
       "name": "Cumhuriyet Altını",
       "buy": 46646,
       "sell": 47350,
-      "change": 2.74
+      "change": 274
     }
   ],
   "news": [
+    {
+      "title": "İtalya’da bankalar peyniri altın gibi saklıyor! 500 bin tekerlek kredi teminatı",
+      "url": "https://www.tarimdanhaber.com/italyada-bankalar-peyniri-altin-gibi-sakliyor-500-bin-tekerlek-kredi-teminati",
+      "source": "Tarımdan Haber",
+      "date": "2026-08-22",
+      "summary": "İtalya’da Parmigiano Reggiano peyniri yalnızca sofralarda değil, bankaların kasalarında da değer görüyor. Üreticiler yıllandırılmayı bekleyen peynirlerini kredi teminatı olarak kullanırken, aşırı sıcaklar süt veriminden soğutma maliyetlerine kadar bütün sistemi zorluyor. Yüzyıllardır devam eden peyn",
+      "content": "Haber Merkezi / İtalya'nın dünyaca ünlü Parmigiano Reggiano peyniri, tarımsal üretim ile finans sisteminin nasıl bir araya getirilebileceğinin sıra dışı örneklerinden birini oluşturuyor.\n\nİtalya'nın Emilia-Romagna bölgesinde üretilen ve uzun süre olgunlaştırıldıktan sonra satışa sunulan Parmigiano Reggiano, üreticiler açısından önemli bir finansman aracına dönüşmüş durumda.\n\nCredito Emiliano (Credem) bankası, 1953 yılından bu yana süt üreticileri ve peynir imalatçılarına kullandırdığı krediler karşılığında henüz olgunlaşmamış Parmigiano Reggiano tekerleklerini teminat olarak kabul ediyor.\n\nBöylece üretici, peynirinin yıllandırılıp satılmasını beklemeden finansmana ulaşabiliyor.\n\nPEYNİR BANKADA KREDİ TEMİNATI OLUYOR\n\nSistemin temelinde Parmigiano Reggiano'nun uzun olgunlaşma süresi ve ekonomik değeri bulunuyor.\n\nPeynirlerin olgunlaşması 12 aydan başlayarak birkaç yıla kadar uzayabiliyor. Üretici açısından bu süre, üretilen malın depoda beklemesi ve sermayenin ürüne bağlı kalması anlamına geliyor.\n\nCredem'in uyguladığı model ise bu sorunu finansmana dönüştürüyor.\n\nÜreticiler, depoya bırakılan peynirlerin ekonomik değerinin belirli bir bölümü karşılığında kredi kullanabiliyor. Böylece henüz satılmamış ürün, üreticinin işletme sermayesini finanse eden bir varlığa dönüşüyor.\n\nBankanın iklim kontrollü depolarında yaklaşık 500 bin peynir tekerleğinin saklandığı ve bunların toplam değerinin yüz milyonlarca dolara ulaştığı belirtiliyor.\n\nBANKA SADECE PEYNİRİ SAKLAMIYOR, KALİTESİNİ DE TAKİP EDİYOR\n\nSistemin dikkat çekici taraflarından biri de teminat olarak alınan peynirlerin sıradan bir depoda bekletilmemesi.\n\nOlgunlaşma süreci boyunca peynirlerin kalitesi kontrol ediliyor.\n\nRöntgen benzeri tarama yöntemlerinin yanında uzmanlar, geleneksel yöntemlerle peynir tekerleklerine küçük çekiçlerle vurarak oluşan sesi dinliyor ve ürünün içerisinde kalite kusuru bulunup bulunmadığını değerlendiriyor.\n\nDolayısıyla banka açısından teminatın değeri yalnızca miktara değil, peynirin olgunlaşma sonunda sahip olacağı kaliteye ve ticari değere de bağlı.\n\nAŞIRI SICAKLAR BU KEZ BANKADAKİ PEYNİRİ DE VURDU\n\nAncak iklim değişikliği bu sıra dışı finansman modelinin maliyetlerini de artırmaya başladı.\n\n2026 yazında İtalya'da yaşanan aşırı sıcaklıkların özellikle kuzeydeki peynir depolarının soğutma ihtiyacını artırdığı belirtiliyor.\n\nDepoların belirli sıcaklık ve nem koşullarında tutulması gerektiği için sıcak hava dalgaları doğrudan enerji tüketimine yansıyor.\n\nCredem'in de bu süreçte soğutma sistemleri, yalıtım ve enerji altyapısına yönelik yatırımlarını artırdığı ifade ediliyor.\n\nBöylece iklim değişikliğinin faturası yalnızca tarlaya veya ahıra değil, peynirin teminat olarak tutulduğu finansman sistemine kadar uzanıyor.\n\nSICAKLIK İNEĞİ VURUYOR, SÜT VERİMİ DÜŞÜYOR\n\nSorunun başlangıç noktası ise aslında banka depoları değil, süt çiftlikleri.\n\nAşırı sıcaklıklar süt sığırlarında ısı stresine neden olarak hayvanların yem tüketimini ve süt verimini düşürebiliyor.\n\nKuraklık ise yem bitkilerinin üretimini ve maliyetini etkileyerek süt üreticisinin üzerindeki baskıyı artırıyor.\n\nParmigiano Reggiano Konsorsiyumu Başkanı Nicola Bertinelli de yüksek sıcaklıkların sütün yalnızca miktarını değil, kalitesini de etkileyebildiğine dikkat çekiyor.\n\nOrtaya böylece birbirini takip eden bir zincir çıkıyor:\n\nSıcaklık artıyor → hayvan ısı stresine giriyor → süt üretimi ve kalitesi etkileniyor → yem üretimi zorlaşıyor → peynir üretiminin maliyeti yükseliyor → depoların soğutma gideri artıyor → finansman sisteminin maliyeti de bundan etkileniyor.\n\n800 YILLIK GELENEK İKLİM SINAVI VERİYOR\n\nParmigiano Reggiano'nun geçmişi yaklaşık 800 yıl öncesine dayanıyor.\n\nAncak yüzyıllardır devam eden üretim geleneğinin bugün karşı karşıya bulunduğu sorun, yalnızca peynir yapım tekniğinin korunması değil.\n\nİklim değişikliği artık hayvanın beslendiği yemden süt verimine, peynirin olgunlaştırılmasından depolama için kullanılan enerjiye kadar üretim zincirinin hemen her halkasını etkiliyor.\n\nBu nedenle İtalya'daki gelişmeler aynı zamanda tarımsal ürünlerin finansmanında iklim riskinin nasıl hesaba katılacağı konusunda da dikkat çekici bir örnek oluşturuyor.\n\nTÜRKİYE İÇİN DE DİKKAT ÇEKİCİ BİR MODEL\n\nİtalya örneğinin Türkiye açısından iki ayrı mesajı bulunuyor.\n\nBirincisi, yüksek katma değerli ve standartları belirlenmiş bir tarımsal ürünün finansal teminata dönüştürülebilmesi.\n\nİkincisi ise iklim değişikliğinin tarımsal üretimi yalnızca verim üzerinden etkilemediği gerçeği.\n\nSıcaklık arttığında süt verimi düşebiliyor, yem maliyeti artabiliyor, soğuk zincir ve depolama giderleri yükseliyor. Dolayısıyla iklim riskinin faturası üreticiden sanayiciye ve finans kuruluşuna kadar uzanabiliyor.\n\nPEYNİR ÜRETMEK SADECE SÜTÜ MAYALAMAK DEĞİL\n\nİtalya'daki sistem aynı zamanda peynir üretiminde bilgi, standart ve uzmanlığın ekonomik değerini de ortaya koyuyor.\n\nPeynir üretimi yalnızca sütün işlenmesinden ibaret değil; mikrobiyoloji, süt kimyası, hijyen, sıcaklık, pH, olgunlaştırma koşulları ve ka"
+    },
     {
       "title": "Uşak’ta çilek üreticisi Yeter’in üretim hikâyesi",
       "url": "https://www.tarimpusulasi.com/haber/usakta-cilek-ureticisi-yeterin-uretim-hikayesi-47463",
@@ -125,14 +133,6 @@
       "date": "2026-08-21",
       "summary": "Doç. Dr. Ceren Türkcan, yağ seçiminde bitkisel veya hayvansal kaynağın tek başına yeterli olmadığını, bileşim ve miktarın da değerlendirilmesi gerektiğini belirtti.",
       "content": "İSTANBUL — Yağ seçiminde yalnızca ürünün bitkisel veya hayvansal kaynaklı olmasına bakmanın yeterli olmadığı belirtildi. İstanbul Arel Üniversitesi Biyomedikal Mühendisliği Öğretim Üyesi Doç. Dr. Ceren Türkcan, yağların değerlendirilmesinde yağ asidi bileşimi, tüketim miktarı ve günlük beslenmedeki diğer yağ kaynaklarının birlikte ele alınması gerektiğini söyledi.\n\nTürkcan, tek bir yağın bütün beslenme ihtiyaçları açısından en iyi seçenek olarak değerlendirilemeyeceğini belirterek, farklı yağların içerdiği doymuş ve doymamış yağ oranlarının dikkate alınması gerektiğini ifade etti.\n\nDünya Sağlık Örgütü'nün önerilerine de dikkat çekilen değerlendirmede, tüketilen yağların ağırlıklı olarak doymamış yağlardan gelmesi; doymuş yağlardan sağlanan enerjinin toplam günlük enerjinin yüzde 10'unu, trans yağlardan sağlanan enerjinin ise yüzde 1'ini aşmaması gerektiği aktarıldı.\n\nAyçiçek, mısır ve soya yağlarında doymamış yağlar öne çıkıyor\n\nAyçiçek, mısır ve soya yağlarının yağ asidi bileşimlerinin birbirinden farklı olduğu belirtildi.\n\nBu yağlarda özellikle omega-6 yağ asitlerinin önemli yer tuttuğu, soya yağının ise belirli miktarda omega-3 yağ asidi içermesiyle ayçiçek ve mısır yağından ayrıldığı kaydedildi.\n\nTürkcan, farklı yağların dengeli biçimde kullanılmasının beslenmede çeşitlilik sağlayabileceğini belirtti.\n\nZeytinyağı ve kanola yağı farklı bileşenleriyle öne çıkıyor\n\nZeytinyağı ve kanola yağının oleik asit bakımından zengin yağlar arasında bulunduğu ifade edildi.\n\nZeytinyağının doğal antioksidan bileşenleriyle Akdeniz tipi beslenmenin temel yağ kaynaklarından biri olduğu, kanola yağının ise omega-3 ve omega-6 yağ asitlerini bir arada içerdiği belirtildi.\n\nZeytinyağında yağ asidi bileşiminin yanı sıra ürünün güvenilirliği ve izlenebilirliğinin de önem taşıdığına dikkat çekildi. Taklit ve tağşiş riskine karşı ambalajlı, güvenilir ve kaynağı takip edilebilen ürünlerin tercih edilmesi gerektiği ifade edildi.\n\nPalm yağı yalnızca doymuş yağ oranıyla değerlendirilmemeli\n\nPalm yağının doymuş ve doymamış yağları birlikte içeren bitkisel yağlardan biri olduğu belirtildi.\n\nOda sıcaklığında doğal olarak yarı katı halde bulunmasının palm yağını ayçiçek, mısır ve soya yağı gibi sıvı yağlardan ayırdığı kaydedildi.\n\nBu özelliğin gıda üretiminde kıvam, yapı, pürüzsüzlük ve raf ömrü açısından kullanılabildiği belirtildi. Palm yağının bazı ürünlerde kısmi hidrojenasyona ihtiyaç duyulmadan istenen yapının elde edilmesine ve trans yağ oluşumunun önlenmesine katkı sağlayabildiği aktarıldı.\n\nTürkcan, palm yağının yalnızca doymuş yağ içeriği üzerinden değerlendirilmemesi gerektiğini belirterek, ürünün toplam doymuş yağ içeriği, tüketim sıklığı, porsiyon miktarı ve genel beslenme düzenindeki diğer yağ kaynaklarının birlikte değerlendirilmesi gerektiğini söyledi.\n\nBitkisel kaynaklı yağlar da yüksek doymuş yağ içerebilir\n\nHindistancevizi yağının bitkisel kaynaklı olmasına rağmen doymuş yağ oranı yüksek yağlar arasında yer aldığı belirtildi.\n\nBu nedenle bir yağın yalnızca “doğal” veya “bitkisel” olarak tanımlanmasının beslenme açısından otomatik olarak daha avantajlı olduğu anlamına gelmediği ifade edildi.\n\nTürkcan, hindistancevizi yağının bu duruma örnek oluşturduğunu belirterek, tüketicilerin ürünün popülerliğinden önce bileşimine ve tüketim miktarına bakması gerektiğini kaydetti.\n\nTereyağında tüketim miktarına dikkat çekildi\n\nTereyağının süt yağından elde edilen ve doymuş yağ oranı yüksek hayvansal kaynaklı bir yağ olduğu belirtildi.\n\nGeleneksel mutfaktaki yeri ve kendine özgü aroması nedeniyle tercih edilen tereyağının tüketim miktarının ise günlük beslenme düzeni içerisinde değerlendirilmesi gerektiği ifade edildi.\n\nTürkcan, tereyağının tamamen dışlanması veya sınırsız tüketilmesi yerine, günlük beslenmedeki yeri ve miktarının dikkate alınması gerektiğini söyledi.\n\nYağ seçiminde temel ölçüt yalnızca kaynak değil\n\nDeğerlendirmede, yağların yalnızca bitkisel ve hayvansal olarak iki gruba ayrılmasının beslenme açısından yeterli bir değerlendirme sunmadığı vurgulandı.\n\nHindistancevizi yağının bitkisel kaynaklı olmasına rağmen doymuş yağ içeriğinin yüksek olabileceği, tereyağının da doymuş yağ oranı yüksek hayvansal kaynaklı bir yağ olduğu belirtildi.\n\nBu nedenle yağ seçiminde ürünün kaynağının yanı sıra yağ asidi bileşimi, tüketim sıklığı, porsiyon büyüklüğü ve gün içinde diğer besinlerden alınan yağların birlikte değerlendirilmesi gerektiği ifade edildi.\n\nTARIM PUSULASI HABER MERKEZİ"
-    },
-    {
-      "title": "Şeker operasyonu sonrası PANKOBİRLİK’e dikkat çeken tepki: “Pancarın pazarını kim koruyacak?”",
-      "url": "https://www.tarimdanhaber.com/seker-operasyonu-sonrasi-pankobirlike-dikkat-ceken-tepki-pancarin-pazarini-kim-koruyacak",
-      "source": "Tarımdan Haber",
-      "date": "2026-08-21",
-      "summary": "Şeker operasyonuna özel ve kooperatif şeker fabrikalarının çatı kuruluşu PANŞEK’ten resmi açıklama gelirken, pancar üreticisinin çatı örgütü PANKOBİRLİK’in kurumsal bir açıklama yapmaması dikkat çekti. PANKOBİRLİK’in görev ve sorumluluğunu tartışmaya açan bu sessizliğe Servet Sarı, “Takip etmek yetm",
-      "content": "Haber Merkezi / Nişasta bazlı şeker üretimi ve ticaretine yönelik yürütülen soruşturma, şeker sektöründe kayıt dışılık ve haksız rekabet tartışmalarını yeniden gündeme getirirken, tartışma pancar şekerinin geleceğine kadar uzandı.\n\nPancar üreticisinin çatı örgütü PANKOBİRLİK’in soruşturmaya ilişkin kapsamlı bir kurumsal açıklama yapmaması dikkat çekerken, PANKOBİRLİK Genel Başkanı Ramazan Erkoyuncu kişisel sosyal medya hesabından yaptığı paylaşımda soruşturmayı yakından takip ettiklerini bildirdi.\n\nErkoyuncu, “Yıllardır mücadelesini verdiğimiz bu konuda, nişasta bazlı şeker üretimi ve ticaretindeki iç piyasaya yönelik usulsüz uygulamalara ilişkin yürütülen soruşturmayı yakından takip ediyoruz” dedi.\n\nPANŞEK AÇIKLAMA YAPTI, PANKOBİRLİK’İN SESSİZLİĞİ DİKKAT ÇEKTİ\n\nŞeker operasyonunun ardından özel ve kooperatif şeker fabrikalarının çatı kuruluşu PANŞEK’in konuyla ilgili kurumsal bir açıklama yapmasına karşılık, pancar üreticilerinin çatı örgütü PANKOBİRLİK’ten kapsamlı bir açıklama gelmemesi sektörde dikkat çekti.\n\nBu duruma, aynı zamanda pancar üreticisi olan ve geçmişte Konya Şeker’de üst düzey yöneticilik yapan Ziraat Yüksek Mühendisi Servet Sarı sert tepki gösterdi.\n\nErkoyuncu’nun açıklamasını değerlendiren Sarı, tartışmayı yalnızca NBŞ soruşturmasıyla sınırlı tutmayarak PANKOBİRLİK’in pancar şekerinin pazarını korumadaki sorumluluğunu gündeme getirdi.\n\n“TAKİP EDİYORUZ DEMEK YETMEZ”\n\nErkoyuncu’nun “yakından takip ediyoruz” açıklamasına tepki gösteren Sarı, “Sayın Erkoyuncu; ‘Takip ediyoruz’ demek yetmez, pancarın pazarını kim koruyacak?” diye sordu.\n\nPancar üreticisinin artık sözden çok somut icraat görmek istediğini belirten Sarı, Erkoyuncu’nun yalnızca Konya Pancar Ekicileri Kooperatifi Başkanı değil, Türkiye’deki pancar üreticilerinin çatı örgütü PANKOBİRLİK’in Genel Başkanı olduğunun altını çizdi.\n\nPANKOBİRLİK’in sorumluluğunun ortaya çıkan soruşturmaları takip etmekten ibaret olmadığını kaydeden Sarı, “Asıl mesele, pancar şekerinin pazarının daralma riski karşısında PANKOBİRLİK’in ne yaptığıdır” ifadelerini kullandı.\n\n“SAĞLIKLI HAYATA KATKI FONU” PANCAR ŞEKERİ İÇİN NEDEN KRİTİK?\n\nSarı’nın gündeme getirdiği önemli başlıklardan biri de kamuoyuna “Sağlıklı Hayata Katkı Fonu” olarak yansıyan düzenleme oldu.\n\nDüzenlemenin mevcut haliyle hayata geçmesi durumunda pancar şekeri kullanılan ürünlerle yüksek yoğunluklu tatlandırıcı kullanılan ürünler arasında farklı maliyetlerin ortaya çıkabileceğine dikkat çeken Sarı, bunun pancar şekeri açısından oluşturabileceği riski şöyle dile getirdi:\n\n“Eğer böyle bir düzenleme pancar şekeri kullanan ürünleri maliyet açısından dezavantajlı, yüksek yoğunluklu tatlandırıcıları ise görece avantajlı hale getirirse bunun pancar şekeri pazarına ve dolayısıyla üreticiye etkisi ne olacaktır?”\n\nBöyle bir maliyet farklılığının gıda sanayisini alternatif tatlandırıcılara yöneltebileceğine dikkat çeken Sarı, pancar şekerinin pazar payının daralması halinde bunun fabrikalardan pancar kotalarına, oradan da çiftçinin üretimine kadar uzanabilecek sonuçları olabileceğini kaydetti.\n\nPANKOBİRLİK’E SOMUT SORULAR: “VARSA AÇIKLAYIN”\n\nPANKOBİRLİK’in bugüne kadar pancar şekeri pazarını korumaya yönelik hangi çalışmaları yaptığının kamuoyuna açıklanmasını isteyen Sarı, Genel Başkan Ramazan Erkoyuncu’ya şu soruları yöneltti:\n\nHangi Bakanlıklara görüş bildirdiniz?\n\nYüksek yoğunluklu tatlandırıcıların pancar şekeri pazarına etkisi konusunda hangi raporları hazırlattınız?\n\nSon beş yıldaki yüksek yoğunluklu tatlandırıcı ithalatının kristal şeker eşdeğeri hesaplandı mı?\n\nSağlıklı Hayata Katkı Fonu’nun pancar şekeri ve pancar üreticisi üzerindeki muhtemel ekonomik sonuçları inceletildi mi?\n\nMilletvekilleri, ilgili komisyonlar ve bürokratlar nezdinde hangi girişimlerde bulunuldu?\n\nSarı, yapılan çalışmalar varsa bunların üreticiden saklanmaması gerektiğini belirterek, “Varsa açıklayın. Üretici de öğrensin, biz de öğrenelim. Görüş bildirildiyse yazıyı açıklayın, rapor hazırlandıysa raporu açıklayın, girişimde bulunulduysa sonucunu açıklayın” dedi.\n\n“ÇİFTÇİ TARLASINDA SADECE TAKİP ETMİYOR”\n\nPANKOBİRLİK’in “takip ediyoruz” açıklamasını çiftçinin üretim mücadelesi üzerinden eleştiren Sarı, dikkat çeken ifadeler kullandı.\n\n“Pancar çiftçisi tarlasında yalnızca ‘takip’ etmiyor Sayın Başkan” diyen Sarı, şöyle devam etti:\n\n“Çiftçi mazot yakıyor, gübre atıyor, sulama yapıyor, ilaç kullanıyor, işçi çalıştırıyor, borçlanıyor, gece gündüz emek veriyor. Sonunda pancarını fabrikaya teslim ediyor. O halde üreticinin temsil makamında bulunanların da bu pancardan üretilen şekerin pazarını korumak için somut mücadele ortaya koyması gerekir.”\n\nSarı, pancar şekerinin pazarının korunmasının yalnızca çiftçiyi ilgilendiren bir konu olmadığını da belirterek, “Pancar; tarladır, fabrikadır, hayvancılıktır, nakliyedir, istihdamdır, sanayidir ve Anadolu ekonomisidir” ifadelerini kullandı.\n\n“PANCAR ŞEKERİNİN PAZARI DARALIRSA NE OLACAK?”\n\nPancar şekerinin pazar kaybetmesinin oluşturabileceği zincirleme etkiye dikkat çeken Sarı, “Pancar"
     }
   ],
   "commoditiesByBorsa": {
@@ -330,6 +330,15 @@
   "note": "Fiyatlar TOBB ticaret borsasından (borsa seçilebilir). Kanola manuel (Trakya 2025).",
   "inputsNote": "Mazot: akaryakıt bayi fiyatı, günlük (şehir seçilebilir). Gübre: manuel (yaklaşık).",
   "errors": [
-    "fx: fetch failed"
+    "mazot ANKARA: fetch failed",
+    "mazot ISTANBUL: fetch failed",
+    "mazot IZMIR: fetch failed",
+    "mazot KONYA: fetch failed",
+    "mazot ADANA: fetch failed",
+    "mazot BURSA: fetch failed",
+    "mazot ANTALYA: fetch failed",
+    "mazot SAMSUN: fetch failed",
+    "mazot TEKIRDAG: fetch failed",
+    "mazot CANAKKALE: fetch failed"
   ]
 }
