@@ -1,43 +1,59 @@
 {
-  "updatedAt": "2026-08-23T06:54:02.956Z",
+  "updatedAt": "2026-08-23T07:35:34.376Z",
   "fx": [
     {
       "code": "USD",
       "name": "Dolar",
-      "buy": 479621,
-      "sell": 480792,
-      "change": 24
+      "buy": 47.96,
+      "sell": 48.08,
+      "change": 0.24
     },
     {
       "code": "EUR",
       "name": "Euro",
-      "buy": 560614,
-      "sell": 561921,
-      "change": -13
+      "buy": 56.06,
+      "sell": 56.19,
+      "change": -0.13
     },
     {
       "code": "GRA",
       "name": "Gram Altın",
-      "buy": 710652,
-      "sell": 710739,
-      "change": 212
+      "buy": 7106.52,
+      "sell": 7107.39,
+      "change": 2.12
     },
     {
       "code": "CEYREKALTIN",
       "name": "Çeyrek Altın",
-      "buy": 1125314,
-      "sell": 1150959,
-      "change": 244
+      "buy": 11253.14,
+      "sell": 11509.59,
+      "change": 2.44
     },
     {
       "code": "CUMHURIYETALTINI",
       "name": "Cumhuriyet Altını",
       "buy": 46646,
       "sell": 47350,
-      "change": 274
+      "change": 2.74
     }
   ],
   "news": [
+    {
+      "title": "Amasya Valisi Bakan: Çiçek Bamyası Önemli Üretim Merkezi",
+      "url": "https://www.tarimpusulasi.com/haber/amasya-valisi-bakan-cicek-bamyasi-onemli-uretim-merkezi-47480",
+      "source": "Tarım Pusulası",
+      "date": "2026-08-23",
+      "summary": "Amasya Valisi Önder Bakan, coğrafi işaretli Çiçek Bamyasının Taşova, Göynücek ve bazı köylerde önemli bir üretim alanı oluşturduğunu söyledi.",
+      "content": "AMASYA — Amasya’nın coğrafi işaretli ürünlerinden Çiçek Bamyası, kentteki önemli tarımsal üretim alanlarından biri olarak öne çıkıyor. Amasya Valisi Önder Bakan, Taşova’da gerçekleştirilen hasat etkinliğinde Çiçek Bamyasının Amasya için önemine dikkat çekerek, ürünün Taşova ve Göynücek ilçeleri ile merkezdeki bazı köylerde önemli üretim alanlarına sahip olduğunu söyledi.\n\nTaşova ilçesine bağlı Alparslan Köyü’nde gerçekleştirilen Çiçek Bamyası hasat etkinliğine Amasya Valisi Önder Bakan, AK Parti Amasya Milletvekili Haluk İpek, İl Tarım ve Orman Müdürü Ahmet Arslan ve il protokolü katıldı.\n\nAncak etkinliğin öne çıkan mesajı, protokol üyelerinin hasada katılmasından çok Amasya Çiçek Bamyasının bölgedeki üretim konumu ve üreticilerin desteklenmesinin önemi oldu.\n\nVali Bakan: Amasya önemli üretim merkezlerinden biri\n\nAmasya Valisi Önder Bakan, Çiçek Bamyasının Amasya’nın coğrafi işaretli ürünlerinden biri olduğunu belirterek, Amasya’nın Türkiye’de önemli üretim merkezlerinden biri olduğunu ifade etti.\n\nBakan, üretimin yalnızca Taşova ile sınırlı olmadığını, Göynücek ilçesi ve Amasya merkezdeki bazı köylerde de önemli üretim alanlarının bulunduğunu söyledi.\n\nVali Bakan, Çiçek Bamyası üretiminin bölgedeki üreticiler açısından önemine dikkat çekerek, köylerde vatandaşların üretimle uğraşmasının değerli olduğunu vurguladı.\n\n“Üreticilerimizin yanında olduğumuzu görmeleri çok kıymetli”\n\nÜreticilerin emeğine teşekkür eden Bakan, kamu yönetiminin üreticilerin yanında olduğunun sahada görülmesinin önem taşıdığını dile getirdi.\n\nBakan, açıklamasında, “Köylerimizin tarımla uğraşması, üretimle uğraşması çok kıymetli” ifadelerini kullanarak, üreticilerin emeklerine teşekkür etti.\n\nAmasya Valisi, Çiçek Bamyasının Amasya’nın coğrafi işaretli ürünlerinden biri olduğuna dikkat çekerken, ürünün Taşova, Göynücek ve bazı merkez köylerinde üretildiğini belirtti.\n\nHasat Taşova Alparslan Köyü’nde yapıldı\n\nÇiçek Bamyası hasat etkinliği Taşova ilçesine bağlı Alparslan Köyü’nde gerçekleştirildi. Etkinlikte üreticilerle bir araya gelen protokol üyeleri, hasat çalışmalarını yerinde takip etti.\n\nAmasya İl Tarım ve Orman Müdürlüğü de üreticilerin alın terine ve hasat sevincine dikkat çekerek, çiftçilere bereketli ve kazançlı bir sezon temennisinde bulundu.\n\nAmasya Çiçek Bamyasının coğrafi işaretli bir ürün olması, ürünün yalnızca yöresel bir değer olarak değil, Amasya’nın tarımsal üretim kimliğinin önemli unsurlarından biri olarak öne çıkmasını sağlıyor.\n\nTARIM PUSULASI HABER MERKEZİ"
+    },
+    {
+      "title": "Afyonkarahisar’da otel çalışanlarına su verimliliği eğitimi",
+      "url": "https://www.tarimpusulasi.com/haber/afyonkarahisarda-otel-calisanlarina-su-verimliligi-egitimi-47479",
+      "source": "Tarım Pusulası",
+      "date": "2026-08-23",
+      "summary": "Afyonkarahisar İl Tarım ve Orman Müdürlüğü, Ulusal Su Seferberliği Su Verimliliği çalışmaları kapsamında DoubleTree by Hilton Otel çalışanlarına su tasarrufu ve su kaynaklarının korunmasına yönelik farkındalık eğitimi düzenledi.",
+      "content": "AFYONKARAHİSAR — Afyonkarahisar İl Tarım ve Orman Müdürlüğü, su kaynaklarının etkin ve sürdürülebilir kullanımını sağlamak, su verimliliği bilincini artırmak ve su tasarrufu konusunda farkındalık oluşturmak amacıyla eğitim çalışmalarını sürdürüyor.\n\nBu kapsamda, 2023 yılında başlatılan Ulusal Su Seferberliği Su Verimliliği çalışmaları doğrultusunda Afyonkarahisar’da hizmet veren DoubleTree by Hilton Otel çalışanlarına yönelik su verimliliği farkındalık eğitimi gerçekleştirildi.\n\nTermal turizm tesislerinde ve bireysel kullanımda su verimliliğinin sağlanmasına yönelik konuların ele alındığı eğitime 73 otel personeli katıldı.\n\nSu tasarrufu ve kaynakların korunması anlatıldı\n\nEğitim programında bireysel kullanımda su verimliliği, su tasarrufu yöntemleri ve su kaynaklarının korunmasına yönelik bilgiler paylaşıldı.\n\nKatılımcılara, azalt, değiştir ve yeniden kullan stratejilerini içeren bilgilendirici el broşürleri dağıtıldı.\n\nKarşılıklı etkileşim içerisinde gerçekleştirilen eğitimde katılımcıların su verimliliği ve su kaynaklarının korunmasına ilişkin soruları da yanıtlandı.\n\nProgram kapsamında su kaynaklarının korunmasına yönelik farkındalığın artırılması konusunda değerlendirmelerde bulunuldu.\n\nOtel yetkililerine teşekkür belgesi\n\nEğitim programının sonunda Afyonkarahisar İl Tarım ve Orman Müdürü Özkan Parlak tarafından, su kaynaklarının korunması ve suyun verimli kullanımına yönelik gösterdikleri hassasiyet dolayısıyla DoubleTree by Hilton Otel yetkililerine teşekkür belgesi takdim edildi.\n\nİl Tarım ve Orman Müdürlüğü, su kaynaklarının etkin ve sürdürülebilir kullanımına yönelik eğitim ve bilgilendirme faaliyetlerinin devam ettiğini bildirdi.\n\nTARIM PUSULASI HABER MERKEZİ"
+    },
     {
       "title": "Gürer: Mercimekte ithalat üretimi geçti",
       "url": "https://www.tarimpusulasi.com/haber/gurer-mercimekte-ithalat-uretimi-gecti-47478",
@@ -85,22 +101,6 @@
       "date": "2026-08-22",
       "summary": "Mersin Büyükşehir Belediyesi, girişimcilik ve e-ticaret eğitimleriyle kadın üreticileri desteklerken ürünlerin satış ve tanıtımına da katkı sağlıyor.",
       "content": "MERSİN — Mersin Büyükşehir Belediyesi, kadınların ekonomik hayatta daha güçlü yer alması amacıyla 13 ilçede yürüttüğü çalışmalar kapsamında üretici kadınlara girişimcilik, e-ticaret, sosyal medya kullanımı ve paketleme eğitimleri veriyor. Üretici stantları ve Mersinden Kadın Kooperatifi aracılığıyla da kadınların ürünlerini daha geniş kitlelere ulaştırmasına destek sağlanıyor.\n\nGülnar’da faaliyet gösteren Duru Lavanta Köyü de Büyükşehir Belediyesi’nin eğitim, tanıtım ve satış desteklerinden yararlanan kadın girişimciler arasında yer alıyor. Lavantayı farklı ürünlere dönüştüren işletme, ziyaretçilerin de ilgisini çekiyor.\n\nLavantadan katma değerli ürünler üretiyor\n\nMersin Büyükşehir Belediyesi Kadın ve Aile Hizmetleri Dairesi Başkanlığı’nda görev yapan Burcu Sert, kadın üreticilerin ekonomik açıdan güçlenmesi amacıyla 13 ilçede çalışmalar yürüttüklerini söyledi.\n\nGülnar’daki kadın üreticinin lavantayı katma değerli ürünlere dönüştürdüğünü belirten Sert, işletmede lavanta yağı, lavanta sabunu ve lavantalı dondurma gibi ürünlerin üretildiğini ifade etti.\n\nSert, Mersin’in merkez ve ilçelerinin yanı sıra yurt dışından gelen ziyaretçilerin de lavanta bahçesine ilgi gösterdiğini belirtti.\n\nBüyükşehir Belediyesi olarak üretici kadınlara girişimcilik, e-ticaret, sosyal medya kullanımı ve paketleme gibi alanlarda eğitim verdiklerini aktaran Sert, Duru Lavanta Köyü’ne üretici kadın stantlarında yer vererek tanıtım desteği sunduklarını söyledi.\n\nSert ayrıca ürünlerin Mersinden Kadın Kooperatifi aracılığıyla satın alındığını, kooperatif marketleri ve Denizkızı A.Ş. marketlerinde satışa sunularak üreticinin desteklendiğini belirtti.\n\n“Üretim yapan kadınların her zaman yanındayız”\n\n“Doğa Bizi Çağırıyor” projesi kapsamında Duru Lavanta Köyü’ne geziler düzenlediklerini belirten Sert, bu çalışmalarla bölgenin ve üretici kadınların görünürlüğünü artırmayı amaçladıklarını söyledi.\n\nSert, üretim yapan kadınların emeklerini görünür kılmak amacıyla çalışmaların sürdüğünü ifade etti.\n\n“Kapıdan çıkmadan ödemem mutlaka yapılıyor”\n\nYaklaşık dört yıldır faaliyet gösteren Duru Lavanta Köyü’nün işletmecisi Fatma Can, işletmenin ilk döneminde Mersinden Kadın Kooperatifi’nin kendilerini ziyaret ettiğini anlattı.\n\nKooperatif yetkililerinin ürünler ve işletme hakkında bilgi aldığını, ürünlerin fotoğraflarını çektiğini belirten Can, ilk yıl sipariş gelip gelmeyeceğini bilmediğini söyledi.\n\nSonraki dönemde toplu siparişlerin gelmeye başladığını ifade eden Can, kooperatifin her yıl düzenli olarak sipariş verdiğini belirtti. Ürünlerini teslim ettiğinde ödemenin yapıldığını söyleyen Can, bunun kendisi için motive edici olduğunu dile getirdi.\n\nEğitimler ürünlerin sunumuna katkı sağladı\n\nBüyükşehir Belediyesi’nin eğitimlerine de katıldığını anlatan Can, özellikle paketleme eğitiminin ürünlerini hazırlama ve sunma konusunda kendisine katkı sağladığını söyledi.\n\nCan, Büyükşehir Belediyesi’nin üretici kadın stantlarında yer aldığında ürünlerini daha iyi tanıtma fırsatı bulduğunu belirtti.\n\nLavantadan sabun, peeling ve reçel üretiyor\n\nLavandaya katma değer kazandırmak amacıyla farklı eğitimler aldığını belirten Can, doğal kozmetik alanında kendisini geliştirerek sabun, peeling, nemlendirici, doğal sinek kovucu ve lavanta reçeli gibi ürünler üretmeye başladığını anlattı.\n\nYaklaşık dört yıl önce yalnızca kahvaltı salonu olarak hizmet verdiklerini ifade eden Can, zaman içinde ürün çeşidini ve menüyü genişlettiklerini söyledi.\n\nAkkuyu Nükleer Santrali’ne yakın konumda olduklarını belirten Can, yabancı uyruklu çalışanların da doğal ürünlere ilgi gösterdiğini ve işletmeyi ziyaret ettiğini ifade etti. Can, özellikle lavanta reçelinin yabancı ziyaretçiler tarafından beğenildiğini söyledi.\n\n“Birçok kadına ilham olduk”\n\nCan, yedi yıl önce köydeki kadınlarla birlikte diktikleri lavantaların birçok kadına ilham olduğunu belirtti.\n\nGirişimcilik hayali kuran kadınlara da seslenen Can, olumsuz yorumlara kulak asmamaları, Büyükşehir Belediyesi’nin üretici kadın stantları ve e-ticaret eğitimlerinden yararlanmaları ve inandıkları yolda ilerlemeleri çağrısında bulundu.\n\nZiyaretçilerden kadın girişimciye destek\n\nDuru Lavanta Köyü’nü ziyaret eden Hidayet Nimet Uygun ise işletmeden etkilendiğini belirtti.\n\nUygun, kadın emeğinin üretime ve halka hizmete dönüşmesinin güzel olduğunu ifade ederek işletmenin kahvaltısını da beğendiğini söyledi. Uygun, kadın girişimcinin başarısının kendisini onurlandırdığını dile getirdi.\n\nTARIM PUSULASI HABER MERKEZİ"
-    },
-    {
-      "title": "Manisa’da selde zarar gören üreticiye yüzde 100 hibe fide desteği",
-      "url": "https://www.tarimpusulasi.com/haber/manisada-selde-zarar-goren-ureticiye-yuzde-100-hibe-fide-destegi-47472",
-      "source": "Tarım Pusulası",
-      "date": "2026-08-22",
-      "summary": "Manisa’da sel nedeniyle marul ve karnabahar ürünleri zarar gören Ufuk Aktaş’a, talebi üzerine yüzde 100 hibe patlıcan fidesi desteği sağlandı.",
-      "content": "MANİSA — Manisa’da geçtiğimiz kış yaşanan yoğun yağış ve sel nedeniyle marul ve karnabahar ürünleri tamamen zarar gören üretici Ufuk Aktaş’ın yardım çağrısına Manisa Büyükşehir Belediyesi yanıt verdi. Üreticinin talebi doğrultusunda, kısa sürede yetişen ve bahar sezonuna uygun patlıcan fideleri yüzde 100 hibe olarak teslim edildi.\n\nManisa Büyükşehir Belediyesi Kırsal Hizmetler Dairesi Başkanlığı ekipleri tarafından teslim edilen fideleri kısa sürede toprağa diken Aktaş, bakım sürecinin ardından ilk patlıcan hasadını gerçekleştirdi.\n\nSelde ürünleri tamamen zarar gördü\n\nÜretici Ufuk Aktaş, geçtiğimiz kış yaşanan sel felaketinde marul ve karnabahar ürünlerinin tamamen zarar gördüğünü belirterek belediyeye dilekçeyle başvurduğunu söyledi.\n\nAktaş, başvurunun ardından Büyükşehir Belediyesi ekiplerinin tarlada inceleme yaptığını ve hasarın yerinde tespit edildiğini belirtti. Hasat sezonunun sonuna gelinmesi nedeniyle zarar gören ürünlere müdahale edilemediğini aktaran Aktaş, bunun üzerine kısa sürede yetişebilecek patlıcan fidesi talebinde bulunduğunu ifade etti.\n\nTalebinin kabul edilmesinin ardından fidelerin kendisine yüzde 100 hibe olarak teslim edildiğini belirten Aktaş, fideleri dikerek bakımını yaptığını ve hasada ulaştığını söyledi.\n\nAktaş, sağlanan desteğin kendisine umut olduğunu ve borçlarının bir bölümünü ödemesine katkı sağladığını dile getirdi.\n\n“25 yıllık yol çilesi de sona erdi”\n\nTarlasındaki üretimin yanı sıra bölgedeki yol sorununa da değinen Aktaş, Kuşlubahçe ve Barbaros mahallelerinin alt tarafındaki ova bölgesinde 25 yıldır kış aylarında ulaşım sorunu yaşadıklarını söyledi.\n\nYağışlı dönemlerde yolların çamur nedeniyle kullanılamadığını ve traktörlerin dahi yollarda kaldığını belirten Aktaş, bölgede asfalt çalışması da yapıldığını ifade etti.\n\nAktaş, hem fide desteğinden hem de yol çalışmasından dolayı Manisa Büyükşehir Belediye Başkanı Besim Dutlulu ve ekibine teşekkür etti.\n\nDutlulu: “Çiftçimiz yalnız değil”\n\nManisa Büyükşehir Belediye Başkanı Besim Dutlulu da üreticilerin yanında olduklarını belirterek, hiçbir vatandaşın yalnız bırakılmayacağını söyledi.\n\nDutlulu, geçtiğimiz kış yaşanan olumsuz hava şartları nedeniyle marul ve karnabahar ürünleri zarar gören Ufuk Aktaş’ın yaralarını sarmak için harekete geçtiklerini belirtti.\n\nZarar gören ürünlerin yerine, üreticinin talebi doğrultusunda ücretsiz patlıcan fidelerinin teslim edildiğini aktaran Dutlulu, üreticilerin yeni sezonda yeniden üretime başlamasına katkı sağladıklarını ifade etti.\n\nDutlulu, Manisa’nın tarımsal üretim yapılan topraklarında emek veren üreticilerin yanında olmaya devam edeceklerini belirterek, zor dönemlerin dayanışmayla aşılacağını ve çiftçiye desteğin sürdürüleceğini kaydetti.\n\n“Mağduriyetleri yerinde tespitle gidermeye devam edeceğiz”\n\nÇalışmaları sahada takip eden Manisa Büyükşehir Belediyesi Kırsal Hizmetler Dairesi Ziraat Mühendisi Ahmet Kınalı da kış aylarında yaşanan afette üreticinin tarlasındaki zararı yerinde tespit ettiklerini söyledi.\n\nKınalı, üreticinin kısa sürede yetişebilecek ürün talebi üzerine patlıcan fidelerinin yüzde 100 hibe olarak teslim edildiğini belirtti.\n\nFidelerin meyveye dönüştüğünü ve hasadının yapıldığını görmenin kendileri açısından mutluluk verici olduğunu ifade eden Kınalı, Manisa Büyükşehir Belediyesi olarak üreticilerin farklı koşullarda da yanında olmaya devam edeceklerini söyledi.\n\nTARIM PUSULASI HABER MERKEZİ"
-    },
-    {
-      "title": "Eskişehir’de kırsal ilçelerde öğrencilere kırtasiye desteği başladı",
-      "url": "https://www.tarimpusulasi.com/haber/eskisehirde-kirsal-ilcelerde-ogrencilere-kirtasiye-destegi-basladi-47471",
-      "source": "Tarım Pusulası",
-      "date": "2026-08-22",
-      "summary": "Eskişehir Büyükşehir Belediyesi, 2026-2027 eğitim öğretim yılı öncesinde 12 kırsal ilçedeki ilkokul ve ortaokul öğrencilerine kırtasiye desteği sağlıyor.",
-      "content": "ESKİŞEHİR — Eskişehir Büyükşehir Belediyesi, 2026-2027 eğitim öğretim yılı öncesinde kırsal ilçelerde eğitim gören ilkokul ve ortaokul öğrencilerine yönelik kırtasiye desteğinin dağıtımına başladı. Büyükşehir Belediye Başkanı Ayşe Ünlüce’nin hediyesi olarak hazırlanan kırtasiye setleri, 12 kırsal ilçedeki öğrencilerle buluşturuluyor.\n\nBüyükşehir Belediyesi Sosyal Hizmetler Dairesi Başkanlığı öncülüğünde yürütülen çalışma ile kırsal ilçelerdeki öğrencilerin yeni eğitim öğretim yılına daha güçlü ve eksiksiz şekilde hazırlanmasına katkı sağlanması hedefleniyor. Kırtasiye setlerinin öğrencilerin ihtiyaçlarına katkı sunarken ailelerin eğitim giderlerini de desteklemesi amaçlanıyor.\n\nİlk dağıtım İnönü’de başladı\n\nKırtasiye desteğinin ilk dağıtımı İnönü ilçesinde gerçekleştirildi. Çalışmaların ardından Sivrihisar ve Seyitgazi’de de öğrencilere kırtasiye setleri ulaştırıldı.\n\nSeyitgazi’deki dağıtıma Belediye Başkanı Uğur Tepe de katıldı. Tepe, öğrencilere ve ailelerine kırtasiye desteklerini teslim ederek Eskişehir Büyükşehir Belediye Başkanı Ayşe Ünlüce’ye teşekkür etti.\n\nBelirlenen program doğrultusunda diğer kırsal ilçelerdeki öğrenciler için de kırtasiye setlerinin dağıtımı gerçekleştirilecek.\n\nKırtasiye desteğinden yararlanacak öğrencilerin belirlenen dağıtım noktalarına öğrenci belgesi ve kimlik kartı ile başvurmaları gerekiyor. Dağıtımlar tüm ilçelerde 11.00-16.00 saatleri arasında yapılacak.\n\nKırtasiye desteği dağıtım takvimi\n\n21 Ağustos Cuma – Sarıcakaya: Sarıcakaya Eğitim Merkezi (ESMEK), Bilali Habeşi Mahallesi, Çağlayan Caddesi No:36/C\n\n21 Ağustos Cuma – Mihalgazi: Mihalgazi Eğitim Merkezi (ESMEK)\n\n24 Ağustos Pazartesi – Günyüzü: Eski Genel Müdürlük, Özler Mahallesi, Cumhuriyet Meydanı No:26\n\n25 Ağustos Salı – Çifteler: Çifteler Eğitim Merkezi (ESMEK), Adalar Mahallesi, Yıldırım Caddesi No:26\n\n26 Ağustos Çarşamba – Alpu: Alpu Eğitim Merkezi (ESMEK), Fatih Mahallesi, Altın Sokak No:4, Kültür Evi\n\n27 Ağustos Perşembe – Mahmudiye: Mahmudiye Belediyesi Düğün Salonu\n\n28 Ağustos Cuma – Mihalıççık: Mihalıççık Eğitim Merkezi (ESMEK), Camikebir Mahallesi, Selami Vardar Caddesi No:8/C\n\n31 Ağustos Pazartesi – Beylikova: Beylikova Belediyesi Küçük Düğün Salonu, Yeni İnönü Caddesi No:63\n\n1 Eylül Salı – Han: Han Meydanı\n\nKırtasiye desteği hakkında ayrıntılı bilgi almak isteyen vatandaşlar, 0 222 211 55 00 numaralı telefondan 1668, 1669 ve 1670 dahili hatları aracılığıyla bilgi alabilecek.\n\nTARIM PUSULASI HABER MERKEZİ"
     },
     {
       "title": "İtalya’da bankalar peyniri altın gibi saklıyor! 500 bin tekerlek kredi teminatı",
