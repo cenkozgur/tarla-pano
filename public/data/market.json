@@ -1,43 +1,67 @@
 {
-  "updatedAt": "2026-08-23T06:02:43.983Z",
+  "updatedAt": "2026-08-23T06:54:02.956Z",
   "fx": [
     {
       "code": "USD",
       "name": "Dolar",
-      "buy": 47.96,
-      "sell": 48.08,
-      "change": 0.24
+      "buy": 479621,
+      "sell": 480792,
+      "change": 24
     },
     {
       "code": "EUR",
       "name": "Euro",
-      "buy": 56.06,
-      "sell": 56.19,
-      "change": -0.13
+      "buy": 560614,
+      "sell": 561921,
+      "change": -13
     },
     {
       "code": "GRA",
       "name": "Gram Altın",
-      "buy": 7106.52,
-      "sell": 7107.39,
-      "change": 2.12
+      "buy": 710652,
+      "sell": 710739,
+      "change": 212
     },
     {
       "code": "CEYREKALTIN",
       "name": "Çeyrek Altın",
-      "buy": 11253.14,
-      "sell": 11509.59,
-      "change": 2.44
+      "buy": 1125314,
+      "sell": 1150959,
+      "change": 244
     },
     {
       "code": "CUMHURIYETALTINI",
       "name": "Cumhuriyet Altını",
       "buy": 46646,
       "sell": 47350,
-      "change": 2.74
+      "change": 274
     }
   ],
   "news": [
+    {
+      "title": "Gürer: Mercimekte ithalat üretimi geçti",
+      "url": "https://www.tarimpusulasi.com/haber/gurer-mercimekte-ithalat-uretimi-gecti-47478",
+      "source": "Tarım Pusulası",
+      "date": "2026-08-23",
+      "summary": "CHP Niğde Milletvekili Ömer Fethi Gürer, son 7 yılda 4,46 milyon ton mercimek ithal edildiğini belirterek, yerli üretimin desteklenmesi ve mercimekte yeniden kendine yeterli hale gelinmesi çağrısında bulundu.",
+      "content": "NİĞDE — CHP Niğde Milletvekili ve TBMM Tarım, Orman ve Köyişleri Komisyonu Üyesi Ömer Fethi Gürer, mercimek üretimi ve ithalatına ilişkin değerlendirmelerde bulundu. Gürer, son 7 yılda 4 milyon 463 bin 769 ton kırmızı ve yeşil mercimek ithal edildiğini, bu ithalat karşılığında 2 milyar 897 milyon 698 bin dolar döviz ödendiğini belirtti.\n\nMercimeğin Anadolu kökenli bir ürün olduğunu ifade eden Gürer, Orta Anadolu’da yeşil mercimek, Güneydoğu Anadolu’da ise kırmızı mercimek üretildiğini ve ülkemizde yetiştirilen mercimeklerin dünyanın kaliteli ürünleri arasında olduğunu söyledi.\n\n“İthalat üretimi geçti”\n\nMercimek ithalatının yüzde 87,9’unun kırmızı mercimekten oluştuğunu belirten Gürer, bu yıl için 433 bin 320 ton mercimek üretimi beklendiğini, buna karşılık 495 bin 572 ton mercimek ithalatı gerçekleştiğini ifade etti.\n\nGürer, yıl sonuna kadar mercimek ithalatının üretimin üzerinde gerçekleşebileceğini savundu.\n\nCHP’li Gürer, mercimekte yaşanan tabloyu tarım politikalarıyla ilişkilendirerek üreticilerin en önemli sorunlarından birinin girdi maliyetlerindeki artış olduğunu söyledi. Üreticinin artan maliyetlere karşılık tarlada yeterli gelir elde edememesi durumunda ürün desenini değiştirdiğini belirten Gürer, bunun her yıl üretimde gerilemeye yol açtığını ifade etti.\n\n“Mercimekte kendi kendimize yeterli olabiliriz”\n\nMercimekteki üretim açığının doğru politikalarla giderilebileceğini belirten Gürer, kamucu bir yaklaşımla üreticinin girdi maliyetlerinin düşürülmesi, uygun alım fiyatlarının belirlenmesi ve üreticiye makul bir kâr bırakacak bir sistem oluşturulması gerektiğini söyledi.\n\nGürer, bu şekilde mercimek üretimindeki açığın giderek daraltılabileceğini ve ülkemizin yeniden mercimekte kendi kendine yeterli hale gelebileceğini savundu.\n\n“Raflardaki mercimeğin menşeine bakın”\n\nÜlkemizde kaliteli mercimek üretildiğini ve üretimin bir bölümünün ihraç edildiğini belirten Gürer, buna rağmen iç piyasada önemli miktarda mercimeğin ithal edildiğini söyledi.\n\nGürer, marketlerde satılan mercimek paketlerinin menşeine bakıldığında Kanada, Kazakistan veya Rusya gibi ülkelerin görülebildiğini ifade etti.\n\n“Mercimek çorbasının iki tanesinden biri ithal mercimekten”\n\nMercimek ithalatının tüketici açısından da beklenen faydayı sağlamadığını savunan Gürer, ithal ürünlere rağmen mercimek çorbasının fiyatının düşmediğini, aksine arttığını söyledi.\n\nGürer, mercimeğin özellikle dar gelirli kesimlerin sofrasında önemli bir ürün olduğunu belirterek, ithalata dayalı yapının hem tüketici açısından fiyat sorununu çözmediğini hem de üreticinin üretimden uzaklaşmasına neden olduğunu ifade etti.\n\nÜretimde planlama ve destek çağrısı\n\nÜlkemizin mercimekteki arz açığının giderilebileceğini belirten Gürer, Tarım ve Orman Bakanlığı’nın doğru bir planlamayla bu konuda çalışma yapabileceğini söyledi.\n\nGürer, ülkemizde arz açığı bulunan 21 ürün arasında mercimeğin de önemli bir ürün olduğunu belirterek, mercimeğe yönelik doğru bir planlamayla sorunun azaltılması gerektiğini savundu.\n\nYerli üretimin desteklenmesi gerektiğini vurgulayan Gürer, üreticilere doğru zamanda ve doğru teşviklerin verilmesi, desteklerin zamanında ödenmesi ve mercimek üretiminin planlı şekilde artırılması çağrısında bulundu.\n\nTARIM PUSULASI HABER MERKEZİ"
+    },
+    {
+      "title": "Sütaş, Pakistan’daki süt şirketinde ortaklığını sona erdiriyor",
+      "url": "https://www.tarimpusulasi.com/haber/sutas-pakistandaki-sut-sirketinde-ortakligini-sona-erdiriyor-47477",
+      "source": "Tarım Pusulası",
+      "date": "2026-08-23",
+      "summary": "Sütaş, 2018’de Nishat Grubu ile yüzde 50-50 ortaklıkla kurduğu Nishat Sütaş Dairy Limited’deki ortağının tüm hisselerini satın almak üzere mutabakata vardı.",
+      "content": "İSTANBUL — Sütaş, Pakistan süt sektörünün potansiyeline ve ülkedeki uzun vadeli büyüme fırsatlarına yönelik güveni doğrultusunda Pakistan’daki yatırımında yeni bir adım attı. Şirket, 2018 yılında Nishat Grubu ile yüzde 50-50 ortaklıkla kurduğu Nishat Sütaş Dairy Limited şirketinde Nishat Grubu’na ait hisselerin tamamını satın almak üzere mutabakata vardı.\n\nHisse devrinin, gerekli onayların alınması ve nihai sözleşmelerin imzalanmasının ardından tamamlanması öngörülüyor.\n\nİşlemin tamamlanmasıyla birlikte Pakistan’ın Faisalabad kentinde bulunan süt ve süt ürünleri üretim tesisi ile Milkfields markasıyla yürütülen faaliyetler Sütaş yönetiminde devam edecek.\n\nSütaş’tan Pakistan süt sektörüne uzun vadeli yatırım mesajı\n\nSütaş Yönetim Kurulu Başkanı Muharrem Yılmaz, Pakistan’daki faaliyetlere ilişkin değerlendirmesinde, 2018 yılında Nishat Grubu ile başlayan ortaklık sürecinde Sütaş’ın sütçülük alanındaki bilgi ve deneyimi ile Nishat Grubu’nun Pakistan’daki deneyiminin bir araya getirildiğini belirtti.\n\nYılmaz, ortaklık döneminde Pakistan’da önemli bir yatırım gerçekleştirildiğini ifade ederek Nishat Grubu’na bugüne kadar verdiği destek ve katkılarından dolayı teşekkür etti.\n\nPakistan’a ve ülkenin süt sektörünün potansiyeline inandıklarını belirten Yılmaz, Sütaş’ın sütçülük alanındaki 50 yılı aşkın deneyimiyle Pakistan’da süt sektörünün gelişmesine ve Pakistanlı tüketicilere katkı sağlamayı hedeflediğini söyledi.\n\nSütaş’ın Türkiye’deki faaliyetleri\n\nSütaş, Türkiye’de Karacabey, Aksaray, Tire ve Bingöl’de bulunan 4 entegre tesisiyle faaliyet gösteriyor.\n\nŞirketin verdiği bilgilere göre Sütaş, yaklaşık 8 bin kişiye doğrudan istihdam sağlıyor ve yaklaşık 20 bin üretici aileden süt tedarik ediyor. Ürünlerini 171 bin satış noktasında tüketicilerle buluşturan şirket, Türkiye’de her 10 sofranın 9’unda bir Sütaş ürünü bulunduğunu belirtiyor.\n\nSütaş’ın 2025 konsolide net cirosu 56,7 milyar TL olarak açıklanıyor.\n\nŞirketin dört entegre tesisinde günlük 7 milyon paket süt ürünü üretilip dağıtılıyor. Sütaş ayrıca sözleşmeli modelle 84 bin dekar alanda kaba yem üretimi gerçekleştiriyor ve yem fabrikalarında yılda 617 bin ton karma yem üretiyor.\n\nŞirket tarafından paylaşılan bilgilere göre endüstriyel tesislerin elektrik ihtiyacının yüzde 100’ü çiftliklerden elde edilen gübre ve organik atıklardan karşılanıyor. Sütaş’ın yıllık organik gübre üretimi ise 755 bin ton seviyesinde bulunuyor.\n\nTARIM PUSULASI HABER MERKEZİ"
+    },
+    {
+      "title": "Antalya’da afet sonrası üreticiye 657 bin metrekare sera örtüsü desteği",
+      "url": "https://www.tarimpusulasi.com/haber/antalyada-afet-sonrasi-ureticiye-657-bin-metrekare-sera-ortusu-destegi-47476",
+      "source": "Tarım Pusulası",
+      "date": "2026-08-23",
+      "summary": "Antalya Büyükşehir Belediyesi, fırtına, hortum ve yangınlarda sera örtüleri zarar gören üreticilere toplam 657 bin 400 metrekare plastik sera örtüsü desteği sağladı.",
+      "content": "ANTALYA — Antalya Büyükşehir Belediyesi, fırtına, hortum ve yangın gibi doğal afetler nedeniyle sera örtüleri zarar gören üreticilere plastik sera örtüsü desteği sağlıyor. Tarımsal Hizmetler Dairesi Başkanlığı tarafından yürütülen desteklerle, afetlerden zarar gören örtü altı üretim alanlarının yeniden üretime kazandırılması ve üreticilerin turfanda üretimlerini sürdürebilmesine katkı sağlanması amaçlanıyor.\n\nEn fazla destek Kumluca’ya verildi\n\nAntalya’nın tarımsal üretimin yoğun olduğu bölgeleri başta olmak üzere kentin farklı ilçelerinde gerçekleştirilen destekler kapsamında en fazla sera naylonu desteği 157 bin 200 metrekare ile Kumluca’ya sağlandı.\n\nKumluca’yı 110 bin metrekare ile Aksu, 107 bin 100 metrekare ile Gazipaşa, 78 bin 400 metrekare ile Finike ve 51 bin 900 metrekare ile Manavgat izledi.\n\nİlçelere göre sağlanan sera naylonu destekleri şöyle:\n\nİlçe\n\nDestek miktarı\n\nKumluca\n\n157.200 m²\n\nAksu\n\n110.000 m²\n\nGazipaşa\n\n107.100 m²\n\nFinike\n\n78.400 m²\n\nManavgat\n\n51.900 m²\n\nDemre\n\n45.500 m²\n\nKaş\n\n38.000 m²\n\nKepez\n\n35.900 m²\n\nSerik\n\n23.200 m²\n\nMuratpaşa\n\n6.000 m²\n\nKorkuteli\n\n2.800 m²\n\nElmalı\n\n1.400 m²\n\nAfet sonrası üretim yeniden güçlendiriliyor\n\nAntalya Büyükşehir Belediyesi tarafından sağlanan sera naylonu desteği, doğal afetlerin ardından üretim alanlarında oluşan zararların giderilmesine katkı sağlıyor.\n\nÖrtü altı tarımın yoğun olarak yapıldığı Antalya’da üreticilerin yeniden üretime dönebilmesine destek olmak amacıyla sağlanan destek kapsamında toplam 657 bin 400 metrekare sera naylonu dağıtıldı.\n\nBüyükşehir Belediyesi, afetlerin ardından üreticilerin zarar gören sera örtülerinin yenilenmesine katkı sağlayarak Antalya’nın tarımsal üretim gücünün korunmasına yönelik çalışmalarını sürdürüyor.\n\nTARIM PUSULASI HABER MERKEZİ"
+    },
     {
       "title": "Güler: “Üreticilerimizi tırpandan, oraktan kurtardık”",
       "url": "https://www.tarimpusulasi.com/haber/guler-ureticilerimizi-tirpandan-oraktan-kurtardik-47475",
@@ -77,30 +101,6 @@
       "date": "2026-08-22",
       "summary": "Eskişehir Büyükşehir Belediyesi, 2026-2027 eğitim öğretim yılı öncesinde 12 kırsal ilçedeki ilkokul ve ortaokul öğrencilerine kırtasiye desteği sağlıyor.",
       "content": "ESKİŞEHİR — Eskişehir Büyükşehir Belediyesi, 2026-2027 eğitim öğretim yılı öncesinde kırsal ilçelerde eğitim gören ilkokul ve ortaokul öğrencilerine yönelik kırtasiye desteğinin dağıtımına başladı. Büyükşehir Belediye Başkanı Ayşe Ünlüce’nin hediyesi olarak hazırlanan kırtasiye setleri, 12 kırsal ilçedeki öğrencilerle buluşturuluyor.\n\nBüyükşehir Belediyesi Sosyal Hizmetler Dairesi Başkanlığı öncülüğünde yürütülen çalışma ile kırsal ilçelerdeki öğrencilerin yeni eğitim öğretim yılına daha güçlü ve eksiksiz şekilde hazırlanmasına katkı sağlanması hedefleniyor. Kırtasiye setlerinin öğrencilerin ihtiyaçlarına katkı sunarken ailelerin eğitim giderlerini de desteklemesi amaçlanıyor.\n\nİlk dağıtım İnönü’de başladı\n\nKırtasiye desteğinin ilk dağıtımı İnönü ilçesinde gerçekleştirildi. Çalışmaların ardından Sivrihisar ve Seyitgazi’de de öğrencilere kırtasiye setleri ulaştırıldı.\n\nSeyitgazi’deki dağıtıma Belediye Başkanı Uğur Tepe de katıldı. Tepe, öğrencilere ve ailelerine kırtasiye desteklerini teslim ederek Eskişehir Büyükşehir Belediye Başkanı Ayşe Ünlüce’ye teşekkür etti.\n\nBelirlenen program doğrultusunda diğer kırsal ilçelerdeki öğrenciler için de kırtasiye setlerinin dağıtımı gerçekleştirilecek.\n\nKırtasiye desteğinden yararlanacak öğrencilerin belirlenen dağıtım noktalarına öğrenci belgesi ve kimlik kartı ile başvurmaları gerekiyor. Dağıtımlar tüm ilçelerde 11.00-16.00 saatleri arasında yapılacak.\n\nKırtasiye desteği dağıtım takvimi\n\n21 Ağustos Cuma – Sarıcakaya: Sarıcakaya Eğitim Merkezi (ESMEK), Bilali Habeşi Mahallesi, Çağlayan Caddesi No:36/C\n\n21 Ağustos Cuma – Mihalgazi: Mihalgazi Eğitim Merkezi (ESMEK)\n\n24 Ağustos Pazartesi – Günyüzü: Eski Genel Müdürlük, Özler Mahallesi, Cumhuriyet Meydanı No:26\n\n25 Ağustos Salı – Çifteler: Çifteler Eğitim Merkezi (ESMEK), Adalar Mahallesi, Yıldırım Caddesi No:26\n\n26 Ağustos Çarşamba – Alpu: Alpu Eğitim Merkezi (ESMEK), Fatih Mahallesi, Altın Sokak No:4, Kültür Evi\n\n27 Ağustos Perşembe – Mahmudiye: Mahmudiye Belediyesi Düğün Salonu\n\n28 Ağustos Cuma – Mihalıççık: Mihalıççık Eğitim Merkezi (ESMEK), Camikebir Mahallesi, Selami Vardar Caddesi No:8/C\n\n31 Ağustos Pazartesi – Beylikova: Beylikova Belediyesi Küçük Düğün Salonu, Yeni İnönü Caddesi No:63\n\n1 Eylül Salı – Han: Han Meydanı\n\nKırtasiye desteği hakkında ayrıntılı bilgi almak isteyen vatandaşlar, 0 222 211 55 00 numaralı telefondan 1668, 1669 ve 1670 dahili hatları aracılığıyla bilgi alabilecek.\n\nTARIM PUSULASI HABER MERKEZİ"
-    },
-    {
-      "title": "Balıkesir’de lisanslı depo yatırımı üreticiye destek sağlayacak",
-      "url": "https://www.tarimpusulasi.com/haber/balikesirde-lisansli-depo-yatirimi-ureticiye-destek-saglayacak-47470",
-      "source": "Tarım Pusulası",
-      "date": "2026-08-22",
-      "summary": "BTB LİDAŞ lisanslı deposunun açılışında konuşan Ahmet Akın, ürünlerin değerini koruyarak muhafaza edilmesinin üretici açısından önem taşıdığını söyledi.",
-      "content": "BALIKESİR — Balıkesir Ticaret Borsası iştiraki BTB LİDAŞ’ın lisanslı deposunun açılışı gerçekleştirildi. Açılışta konuşan Balıkesir Büyükşehir Belediye Başkanı Ahmet Akın, üreticilerin hasat döneminde ürünlerini değerinin altında satmak zorunda kalmadan güvenli koşullarda muhafaza edebilmesinin önemine dikkat çekti.\n\nAçılış törenine Balıkesir Büyükşehir Belediye Başkanı Ahmet Akın’ın yanı sıra Dünya Odalar Federasyonu Başkanı ve Türkiye Odalar ve Borsalar Birliği (TOBB) Başkanı M. Rifat Hisarcıklıoğlu, il protokolü, davetliler ve basın mensupları katıldı.\n\nAkın, yatırımın hayata geçirilmesinde emeği geçen başta Balıkesir Ticaret Borsası yönetimi olmak üzere herkese teşekkür ederek BTB LİDAŞ lisanslı deposunun Balıkesir ve üreticiler için hayırlı olmasını diledi.\n\n“Daha çok üreten bir Balıkesir için çalışıyoruz”\n\nBalıkesir’in geniş coğrafyası ve verimli topraklarıyla tarımsal üretim açısından önemli bir konumda olduğunu belirten Akın, “Tarımda Balıkesir Modeli” projesi kapsamında işlenmeyen toprakların kalmamasını amaçladıklarını söyledi.\n\nAkın, verimli toprakların potansiyelini en üst seviyeye çıkarmak istediklerini belirterek, daha fazla üretim yapan bir Balıkesir için odalar ve borsalarla iş birliği içerisinde çalıştıklarını ifade etti.\n\n“Lisanslı depoculuk çok önemli”\n\nBalıkesir’de önemli bir yatırımın hayata geçirildiğini belirten Akın, bir ürünün üretilmesi kadar doğru koşullarda muhafaza edilmesinin de önem taşıdığını söyledi.\n\nÜrünlerin doğru koşullarda saklanması, değerinin korunması ve doğru zamanda pazarlanabilmesinin üreticinin emeğinin karşılığını bulmasına katkı sağlayacağını belirten Akın, lisanslı depoculuğun bu açıdan önem taşıdığını ifade etti.\n\nAkın, lisanslı depoculuk sistemiyle çiftçinin hasat döneminde ürününü değerinin altında satmak zorunda kalmayacağını, ürünlerin güvenli koşullarda muhafaza edilebileceğini ve kalitesinin objektif kriterlerle belirlenebileceğini söyledi. Sistemin ticareti daha şeffaf ve kayıtlı hale getireceğini belirten Akın, yatırımın Balıkesir’e önemli katkılar sağlayacağını dile getirdi.\n\nDünya Odalar Federasyonu Başkanı ve TOBB Başkanı M. Rifat Hisarcıklıoğlu da lisanslı deponun Balıkesir için hayırlı olması temennisinde bulundu.\n\nTARIM PUSULASI HABER MERKEZİ"
-    },
-    {
-      "title": "Payamlı’da Bardacık Festivali öncesi üretici desteği mesajı",
-      "url": "https://www.tarimpusulasi.com/haber/payamlida-bardacik-festivali-oncesi-uretici-destegi-mesaji-47469",
-      "source": "Tarım Pusulası",
-      "date": "2026-08-22",
-      "summary": "İzmir Büyükşehir Belediyesi, Tarım Master Planı kapsamında topladığı veriler doğrultusunda kırsal bölgelerde üretici desteklerini artırmayı planlıyor.",
-      "content": "İZMİR — İzmir Büyükşehir Belediyesi Başkan Vekili Dr. Zafer Levent Yıldır, Tarım Master Planı kapsamında Payamlı, Kavacık ve diğer kırsal mahallelerde üreticilerin sorunlarına ilişkin veriler toplandığını belirterek, kentteki üreticilere yönelik desteklerin artacağını söyledi.\n\nGüzelbahçe’nin tarımsal faaliyetlerin yoğun olarak sürdürüldüğü Payamlı Mahallesi, 22-23 Ağustos tarihlerinde 12’ncisi düzenlenecek Bardacık Festivali’ne ev sahipliği yapacak. Festival öncesinde Payamlı’yı ziyaret eden Yıldır, Güzelbahçe Belediyesi Başkan Vekili Ayşe Akın ile birlikte vatandaşlar ve üreticilerle bir araya geldi.\n\nZiyarette Yıldır ve Akın’a İzmir Büyükşehir Belediye Meclisi ve Güzelbahçe Belediyesi Meclis Üyesi Memet Eren, Payamlı Muhtarı Celal Tekin, Payamlı Kooperatifi Başkanı Uğur Kahya ile meclis üyeleri eşlik etti.\n\n“Ciddi veriler topladık”\n\nİzmir Büyükşehir Belediyesi Başkan Vekili Dr. Zafer Levent Yıldır, Payamlı’yı Bardacık Festivali öncesinde ziyaret ettiklerini belirterek, Tarım Master Planı doğrultusunda Payamlı, Kavacık ve diğer mahallelerde yaşanan sorunlara ilişkin kapsamlı veriler topladıklarını söyledi.\n\nYıldır, İzmir Büyükşehir Belediyesi’nin imkânları doğrultusunda üreticilere destek vermeye devam edeceğini ifade ederek, Büyükşehir Belediye Başkanı Cemil Tugay’ın da bu konuda kararlı olduğunu belirtti.\n\nYıldır ayrıca Bardacık Festivali’nin başarılı geçmesini ve katılımcıların memnun kalmasını diledi.\n\nAkın’dan festivale davet\n\nGüzelbahçe Belediyesi Başkan Vekili Ayşe Akın ise üreticilere verilen destekler nedeniyle İzmir Büyükşehir Belediye Başkanı Cemil Tugay’a teşekkür etti.\n\nAkın, Payamlı’da yetiştirilen bardacık, üzüm ve buzlu badem gibi ürünlerin festival kapsamında ziyaretçilerle buluşacağını belirterek, Güzelbahçeli ve İzmirli vatandaşları 22-23 Ağustos’ta Payamlı’ya davet etti.\n\nTARIM PUSULASI HABER MERKEZİ"
-    },
-    {
-      "title": "Bursa’da mevsimlik tarım işçilerine yönelik program başladı",
-      "url": "https://www.tarimpusulasi.com/haber/bursada-mevsimlik-tarim-iscilerine-yonelik-program-basladi-47468",
-      "source": "Tarım Pusulası",
-      "date": "2026-08-22",
-      "summary": "Bursa Büyükşehir Belediyesi, İnegöl’de mevsimlik tarım işçileri ve ailelerinin ihtiyaçlarını yerinde tespit ederek sağlık ve sosyal destek programı başlattı.",
-      "content": "BURSA — Bursa Büyükşehir Belediyesi, mevsimlik tarım işçileri ve ailelerinin ihtiyaçlarının yerinde tespit edilmesi, çocukların sosyal ve kültürel etkinliklerle buluşturulması ve ailelerle dayanışmanın güçlendirilmesi amacıyla planladığı programları İnegöl’ün Çitli Mahallesi’nde başlattı.\n\nBüyükşehir Belediyesi Kent Tarihi, Tanıtım ve Turizm Dairesi Başkanlığı koordinasyonunda planlanan “Mevsimlik Tarım İşçileri Ziyaretleri” kapsamında ilk program İnegöl’de gerçekleştirildi. Etkinlikler; Kültür, Sanat ve Sosyal İşler Dairesi Başkanlığı, Gençlik ve Spor Hizmetleri Dairesi Başkanlığı, Park ve Bahçeler Dairesi Başkanlığı, Sosyal Hizmetler Dairesi Başkanlığı, Sağlık İşleri Dairesi Başkanlığı, Veteriner İşleri Dairesi Başkanlığı ve Bursa Kent Konseyi iş birliğiyle düzenlendi.\n\nSağlık taraması ve çocuklara yönelik etkinlikler\n\nÇitli Mahallesi’nde mevsimlik tarım işçileri ve aileleriyle bir araya gelen belediye ekipleri, işçilerin çalışma ve yaşam koşulları hakkında bilgi aldı. Karşılaşılan sorunlar ve talepler yerinde dinlendi.\n\nProgram kapsamında çocuklar için çeşitli atölyeler, spor aktiviteleri ve film gösterimi düzenlendi. İşçiler ve ailelerine yönelik sağlık taramaları gerçekleştirilirken, yaşam alanlarında temizlik ve ilaçlama çalışmaları da yapıldı.\n\nMevsimlik tarım işçilerine yönelik takip\n\nBursa Büyükşehir Belediyesi Başkan Vekili Şahin Biba, program kapsamında yaptığı değerlendirmede, Bursa’nın tarım kenti kimliğiyle ülkenin önemli üretim üslerinden biri olduğunu belirtti.\n\nBiba, özellikle sebze ve meyve hasadında ihtiyaç duyulan iş gücünün ülkenin farklı bölgelerinden gelen mevsimlik işçiler tarafından karşılandığını ifade ederek, her yıl hasat döneminde farklı bölgelerden 15 binden fazla mevsimlik işçinin Bursa’ya geldiğini söyledi.\n\nKaracabey, Mustafakemalpaşa, Yenişehir ve İnegöl gibi üretimin yoğun olduğu ilçelere gelen mevsimlik işçilerin sorunlarının giderilmesi ve taleplerinin karşılanması için çalıştıklarını belirten Biba, Büyükşehir Belediyesi olarak işçilerin yaşam şartlarını yakından takip ettiklerini ve ihtiyaç duydukları hizmetlerin sağlanması için kapsamlı planlamalar yaptıklarını kaydetti.\n\nMevsimlik tarım işçileri ve aileleri de kendilerine sağlanan hizmetler nedeniyle Büyükşehir Belediyesi Başkan Vekili Şahin Biba’ya teşekkür etti. Etkinlikleri Bursa Kent Konseyi Başkanı Orhan Samast da takip etti.\n\nProgram Mustafakemalpaşa ve Yenişehir’de sürecek\n\n“Mevsimlik Tarım İşçileri Ziyaretleri” kapsamında programın İnegöl’ün ardından Mustafakemalpaşa ve Yenişehir’de devam edeceği bildirildi.\n\nBu kapsamda 24 Ağustos’ta Mustafakemalpaşa Koşuboğazı Mahallesi’nde, 27 Ağustos’ta ise Yenişehir Menteşe Mahallesi’nde mevsimlik tarım işçileri ve aileleriyle bir araya gelinecek.\n\nTARIM PUSULASI HABER MERKEZİ"
     },
     {
       "title": "İtalya’da bankalar peyniri altın gibi saklıyor! 500 bin tekerlek kredi teminatı",
@@ -328,5 +328,17 @@
   "defaultBorsa": "5ED10",
   "defaultCity": "CANAKKALE",
   "note": "Fiyatlar TOBB ticaret borsasından (borsa seçilebilir). Kanola manuel (Trakya 2025).",
-  "inputsNote": "Mazot: akaryakıt bayi fiyatı, günlük (şehir seçilebilir). Gübre: manuel (yaklaşık)."
+  "inputsNote": "Mazot: akaryakıt bayi fiyatı, günlük (şehir seçilebilir). Gübre: manuel (yaklaşık).",
+  "errors": [
+    "mazot ANKARA: fetch failed",
+    "mazot ISTANBUL: fetch failed",
+    "mazot IZMIR: fetch failed",
+    "mazot KONYA: fetch failed",
+    "mazot ADANA: fetch failed",
+    "mazot BURSA: fetch failed",
+    "mazot ANTALYA: fetch failed",
+    "mazot SAMSUN: fetch failed",
+    "mazot TEKIRDAG: fetch failed",
+    "mazot CANAKKALE: fetch failed"
+  ]
 }
