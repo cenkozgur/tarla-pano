@@ -1,32 +1,32 @@
 {
-  "updatedAt": "2026-08-23T21:02:16.283Z",
+  "updatedAt": "2026-08-23T21:29:06.083Z",
   "fx": [
     {
       "code": "USD",
       "name": "Dolar",
-      "buy": 48,
-      "sell": 48.09,
-      "change": 0.05
+      "buy": 480304,
+      "sell": 480987,
+      "change": 9
     },
     {
       "code": "EUR",
       "name": "Euro",
-      "buy": 56.11,
-      "sell": 56.22,
-      "change": 0.07
+      "buy": 561421,
+      "sell": 562244,
+      "change": 1
     },
     {
       "code": "GRA",
       "name": "Gram Altın",
-      "buy": 7110.27,
-      "sell": 7111.13,
-      "change": 0.05
+      "buy": 711302,
+      "sell": 711389,
+      "change": 9
     },
     {
       "code": "CEYREKALTIN",
       "name": "Çeyrek Altın",
-      "buy": 11283.74,
-      "sell": 11540.86,
+      "buy": 1128374,
+      "sell": 1154086,
       "change": 0
     },
     {
@@ -34,10 +34,18 @@
       "name": "Cumhuriyet Altını",
       "buy": 46777,
       "sell": 47448,
-      "change": 0.21
+      "change": 21
     }
   ],
   "news": [
+    {
+      "title": "Konya Pancar’ın Mali Genel Kurulu’na bu kare damga vurdu! Erkoyuncu’nun yanındaki isim dikkat çekti",
+      "url": "https://www.tarimdanhaber.com/konya-pancarin-mali-genel-kuruluna-bu-kare-damga-vurdu-erkoyuncunun-yanindaki-isim-dikkat-cekti",
+      "source": "Tarımdan Haber",
+      "date": "2026-08-23",
+      "summary": "Konya Pancar Ekicileri Kooperatifi’nin 74. Mali Genel Kurulu gerçekleştirilirken, genel kurul sonuçlarından çok yönetim masasındaki dikkat çekici görüntü konuşuldu. Recep Konuk döneminin önemli isimlerinden Kooperatif eski Yönetim Kurulu Üyesi Savaş Kayhan’ın, Başkan Ramazan Erkoyuncu’nun hemen sağı",
+      "content": "Haber Merkezi / Konya Pancar Ekicileri Kooperatifi’nin 74. Mali Genel Kurulu gerçekleştirildi. Kooperatifin mali yapısı ve faaliyetlerinin görüşüldüğü genel kurulda gündem maddeleri kadar yönetim masasındaki dikkat çekici oturma düzeni de öne çıktı.\n\nGenel kurulda Konya Pancar Ekicileri Kooperatifi Yönetim Kurulu Başkanı Ramazan Erkoyuncu’nun hemen sağında Recep Konuk döneminde Yönetim Kurulu Üyesi olan Savaş Kayhan’ın yer alması dikkatlerden kaçmadı.\n\nMALİ GENEL KURULDA SAVAŞ KAYHAN DETAYI\n\nKayhan, Konya Pancar ve Konya Şeker’in önceki dönemlerinde Recep Konuk’a yakınlığıyla bilinen isimlerden biri olarak öne çıkarken, Konuk dönemindeki konumu nedeniyle kooperatif çevrelerinde yakından tanınan bir isim.\n\nBu nedenle Kayhan’ın 74. Mali Genel Kurul’da Erkoyuncu’nun hemen yanında yer alması sıradan bir oturma düzeninin ötesinde değerlendirildi.\n\nGENEL KURUL SONUÇLARINDAN ÇOK BU GÖRÜNTÜ KONUŞULDU\n\nMali Genel Kurul sonrasında kooperatif çevrelerinde yapılan değerlendirmelerde, gündem maddeleri ve alınan kararların yanında Kayhan’ın Erkoyuncu’nun yanında verdiği görüntü de konuşulan başlıklardan biri oldu.\n\nOrtaya çıkan fotoğraf, Recep Konuk döneminin önemli isimlerinden Kayhan’ın mevcut Başkan Ramazan Erkoyuncu’ya destek verdiği yönünde yorumlara neden oldu.\n\nRECEP KONUK DÖNEMİNİN ÖNEMLİ İSMİ NEDEN ERKOYUNCU’NUN YANINDA?\n\nKonya Pancar Ekicileri Kooperatifi’nde yönetim dengeleri, yalnızca kooperatif açısından değil, Konya Şeker ve binlerce pancar üreticisi açısından da yakından takip ediliyor.\n\nBundan dolayı geçmiş dönemde Recep Konuk’a yakınlığıyla bilinen bir yönetim kurulu üyesinin, mevcut başkanın hemen yanında verdiği görüntü doğal olarak farklı yorumları da beraberinde getirdi.\n\nBu kare, “Konuk döneminin önemli isimlerinden Erkoyuncu yönetimine destek mi geliyor?” sorusunu da gündeme taşıdı.\n\nBİR OTURMA DÜZENİ Mİ, YENİ BİR MESAJ MI?\n\nMali Genel Kurul’un ardından cevap bekleyen soru da tam olarak burada ortaya çıkıyor: Savaş Kayhan’ın Ramazan Erkoyuncu’nun hemen yanında yer alması yalnızca yönetim kurulundaki eski görevinden kaynaklanan bir oturma düzeni miydi, yoksa Konya Pancar’daki mevcut yönetim dengelerine ilişkin bir destek mesajı mıydı?"
+    },
     {
       "title": "Karakoçan’da Coğrafi İşaretli Geven Balı Hasadı Yapıldı",
       "url": "https://www.tarimpusulasi.com/haber/karakocanda-cografi-isaretli-geven-bali-hasadi-yapildi-47488",
@@ -125,14 +133,6 @@
       "date": "2026-08-22",
       "summary": "İtalya’da Parmigiano Reggiano peyniri yalnızca sofralarda değil, bankaların kasalarında da değer görüyor. Üreticiler yıllandırılmayı bekleyen peynirlerini kredi teminatı olarak kullanırken, aşırı sıcaklar süt veriminden soğutma maliyetlerine kadar bütün sistemi zorluyor. Yüzyıllardır devam eden peyn",
       "content": "Haber Merkezi / İtalya'nın dünyaca ünlü Parmigiano Reggiano peyniri, tarımsal üretim ile finans sisteminin nasıl bir araya getirilebileceğinin sıra dışı örneklerinden birini oluşturuyor.\n\nİtalya'nın Emilia-Romagna bölgesinde üretilen ve uzun süre olgunlaştırıldıktan sonra satışa sunulan Parmigiano Reggiano, üreticiler açısından önemli bir finansman aracına dönüşmüş durumda.\n\nCredito Emiliano (Credem) bankası, 1953 yılından bu yana süt üreticileri ve peynir imalatçılarına kullandırdığı krediler karşılığında henüz olgunlaşmamış Parmigiano Reggiano tekerleklerini teminat olarak kabul ediyor.\n\nBöylece üretici, peynirinin yıllandırılıp satılmasını beklemeden finansmana ulaşabiliyor.\n\nPEYNİR BANKADA KREDİ TEMİNATI OLUYOR\n\nSistemin temelinde Parmigiano Reggiano'nun uzun olgunlaşma süresi ve ekonomik değeri bulunuyor.\n\nPeynirlerin olgunlaşması 12 aydan başlayarak birkaç yıla kadar uzayabiliyor. Üretici açısından bu süre, üretilen malın depoda beklemesi ve sermayenin ürüne bağlı kalması anlamına geliyor.\n\nCredem'in uyguladığı model ise bu sorunu finansmana dönüştürüyor.\n\nÜreticiler, depoya bırakılan peynirlerin ekonomik değerinin belirli bir bölümü karşılığında kredi kullanabiliyor. Böylece henüz satılmamış ürün, üreticinin işletme sermayesini finanse eden bir varlığa dönüşüyor.\n\nBankanın iklim kontrollü depolarında yaklaşık 500 bin peynir tekerleğinin saklandığı ve bunların toplam değerinin yüz milyonlarca dolara ulaştığı belirtiliyor.\n\nBANKA SADECE PEYNİRİ SAKLAMIYOR, KALİTESİNİ DE TAKİP EDİYOR\n\nSistemin dikkat çekici taraflarından biri de teminat olarak alınan peynirlerin sıradan bir depoda bekletilmemesi.\n\nOlgunlaşma süreci boyunca peynirlerin kalitesi kontrol ediliyor.\n\nRöntgen benzeri tarama yöntemlerinin yanında uzmanlar, geleneksel yöntemlerle peynir tekerleklerine küçük çekiçlerle vurarak oluşan sesi dinliyor ve ürünün içerisinde kalite kusuru bulunup bulunmadığını değerlendiriyor.\n\nDolayısıyla banka açısından teminatın değeri yalnızca miktara değil, peynirin olgunlaşma sonunda sahip olacağı kaliteye ve ticari değere de bağlı.\n\nAŞIRI SICAKLAR BU KEZ BANKADAKİ PEYNİRİ DE VURDU\n\nAncak iklim değişikliği bu sıra dışı finansman modelinin maliyetlerini de artırmaya başladı.\n\n2026 yazında İtalya'da yaşanan aşırı sıcaklıkların özellikle kuzeydeki peynir depolarının soğutma ihtiyacını artırdığı belirtiliyor.\n\nDepoların belirli sıcaklık ve nem koşullarında tutulması gerektiği için sıcak hava dalgaları doğrudan enerji tüketimine yansıyor.\n\nCredem'in de bu süreçte soğutma sistemleri, yalıtım ve enerji altyapısına yönelik yatırımlarını artırdığı ifade ediliyor.\n\nBöylece iklim değişikliğinin faturası yalnızca tarlaya veya ahıra değil, peynirin teminat olarak tutulduğu finansman sistemine kadar uzanıyor.\n\nSICAKLIK İNEĞİ VURUYOR, SÜT VERİMİ DÜŞÜYOR\n\nSorunun başlangıç noktası ise aslında banka depoları değil, süt çiftlikleri.\n\nAşırı sıcaklıklar süt sığırlarında ısı stresine neden olarak hayvanların yem tüketimini ve süt verimini düşürebiliyor.\n\nKuraklık ise yem bitkilerinin üretimini ve maliyetini etkileyerek süt üreticisinin üzerindeki baskıyı artırıyor.\n\nParmigiano Reggiano Konsorsiyumu Başkanı Nicola Bertinelli de yüksek sıcaklıkların sütün yalnızca miktarını değil, kalitesini de etkileyebildiğine dikkat çekiyor.\n\nOrtaya böylece birbirini takip eden bir zincir çıkıyor:\n\nSıcaklık artıyor → hayvan ısı stresine giriyor → süt üretimi ve kalitesi etkileniyor → yem üretimi zorlaşıyor → peynir üretiminin maliyeti yükseliyor → depoların soğutma gideri artıyor → finansman sisteminin maliyeti de bundan etkileniyor.\n\n800 YILLIK GELENEK İKLİM SINAVI VERİYOR\n\nParmigiano Reggiano'nun geçmişi yaklaşık 800 yıl öncesine dayanıyor.\n\nAncak yüzyıllardır devam eden üretim geleneğinin bugün karşı karşıya bulunduğu sorun, yalnızca peynir yapım tekniğinin korunması değil.\n\nİklim değişikliği artık hayvanın beslendiği yemden süt verimine, peynirin olgunlaştırılmasından depolama için kullanılan enerjiye kadar üretim zincirinin hemen her halkasını etkiliyor.\n\nBu nedenle İtalya'daki gelişmeler aynı zamanda tarımsal ürünlerin finansmanında iklim riskinin nasıl hesaba katılacağı konusunda da dikkat çekici bir örnek oluşturuyor.\n\nTÜRKİYE İÇİN DE DİKKAT ÇEKİCİ BİR MODEL\n\nİtalya örneğinin Türkiye açısından iki ayrı mesajı bulunuyor.\n\nBirincisi, yüksek katma değerli ve standartları belirlenmiş bir tarımsal ürünün finansal teminata dönüştürülebilmesi.\n\nİkincisi ise iklim değişikliğinin tarımsal üretimi yalnızca verim üzerinden etkilemediği gerçeği.\n\nSıcaklık arttığında süt verimi düşebiliyor, yem maliyeti artabiliyor, soğuk zincir ve depolama giderleri yükseliyor. Dolayısıyla iklim riskinin faturası üreticiden sanayiciye ve finans kuruluşuna kadar uzanabiliyor.\n\nPEYNİR ÜRETMEK SADECE SÜTÜ MAYALAMAK DEĞİL\n\nİtalya'daki sistem aynı zamanda peynir üretiminde bilgi, standart ve uzmanlığın ekonomik değerini de ortaya koyuyor.\n\nPeynir üretimi yalnızca sütün işlenmesinden ibaret değil; mikrobiyoloji, süt kimyası, hijyen, sıcaklık, pH, olgunlaştırma koşulları ve ka"
-    },
-    {
-      "title": "Et kesim fiyatları 2026 | Güncel karkas et, dana ve kuzu kesim fiyatları",
-      "url": "https://www.tarimdanhaber.com/sigir-kesim-fiyatlari",
-      "source": "Tarımdan Haber",
-      "date": "2026-08-22",
-      "summary": "Et kesim fiyatlarında yukarı yönlü hareket devam ediyor. UKON’un 20 Ağustos haftası verilerine göre dana karkas kesim fiyatı 594 TL/kg, kuzu karkas kesim fiyatı ise 623 TL/kg’a yükseldi. Ankara Ticaret Borsası’nda dana karkas ortalaması 623 TL olurken, sahadan gelen üretici paylaşımlarında 640-650 T",
-      "content": "Haber Merkezi - Et kesim fiyatları 2026 | Güncel karkas et, dana ve kuzu kesim fiyatları üreticiler tarafından yakından takip ediliyor. Karkas et piyasasında son haftalarda başlayan yükseliş 20 Ağustos haftasında da devam etti.\n\nUlusal Kırmızı Et Konseyi’nin (UKON) son verilerine göre bölgeler arası ortalama dana karkas kesim fiyatı 594 TL/kg’a, kuzu karkas kesim fiyatı ise 623 TL/kg’a çıktı. Bir önceki haftaya göre dana karkas fiyatında 4 TL, kuzu karkas fiyatında 5 TL artış yaşandı.\n\nAnkara Ticaret Borsası’nın 22 Ağustos kırmızı et fiyatlarında ise dana karkas en düşük 613 TL, en yüksek 640 TL ve ortalama 623 TL/kg olarak kayıtlara geçti.\n\nResmi ve kurumsal fiyatların yanında sahadan gelen üretici paylaşımları da dikkat çekiyor. Kırşehir’de 620-630 TL, İzmir’de 620-640 TL, Elazığ’da 645 TL, Amasya’da ise 640-650 TL/kg seviyelerinde kesim fiyatları bildiriliyor. Bu rakamlar resmi kotasyon olmayıp üreticilerin sahadan paylaştığı fiyatları yansıtıyor.\n\nBöylece UKON’un 594 TL/kg’lık Türkiye ortalaması ile bazı bölgelerde bildirilen saha fiyatları arasındaki fark 50 TL/kg’ın üzerine çıkmış durumda. Kesim fiyatlarında bölge, ırk, randıman, yağ durumu ve ödeme vadesine göre önemli farklılıklar görülebiliyor.\n\nPeki bugün dana kesim fiyatı kaç lira? İnek kesim fiyatları ne kadar? Kuzu karkas fiyatı kaç TL? UKON, birlikler, borsalar ve sahadan gelen güncel et kesim fiyatlarını aşağıdaki tablolardan takip edebilirsiniz.\n\nSon güncelleme: 22 Ağustos 2026\n\nGüncel karkas et fiyatları ve kesim fiyatları\n\nDana, düve, inek ve kuzu kesim fiyatları UKON ve piyasadan alınan güncel veriler doğrultusunda aşağıdaki tablolarda yer almaktadır.\n\nUKON (20 Ağustos) Karkas Kesim Fiyatı\n\nTarih\n\nDana Kesim Fiyatı (TL)\n\nKuzu Kesim Fiyatı (TL)\n\n20 Ağustos 2026\n\n594,29\n\n623,71\n\nBursa Damızlık Sığır Yetiştiricileri Birliği (22 Ağustos) Güncel Et Kesim Fiyatı\n\nBursa Damızlık Sığır Yetiştiricileri Birliği 17-21 Ağustos tarihleri arasında uygulanacak güncel dana, inek ve düve kesim fiyatlarını ilan etti. Birlikten yapılan açıklamada \"Birlik üyelerimizin hayvanları için 17.08.2026 - 21.08.2026 tarihleri arasında kesim organizasyonu yapılacaktır\" denildi. Birlik karkas kesim fiyatlarında bir değişikliğe gitmedi.\n\nTarih: 17 Ağustos - 21 Ağustos 2026\n\nİnek Kesim Fiyatı: 400 TL (199 kg altı)\n\nDana Kesim Fiyatı: (Holstein) 480 TL (250 kg altı)\n\nDana Kesim Fiyatı: (Diğer Irklar) 510 TL (250 kg altı)\n\nDüve Kesim Fiyatı: 420 TL (199 kg altı)\n\nAnkara Ticaret Borsası Kırmızı Et Fiyatları (22 Ağustos 2026)\n\nAnkara Ticaret Borsasında güncel karkas kesim ve et fiyatları ne oldu? 22 Ağustos kırmızı et fiyatları listesinde dana but 674 lira, dana kol fiyatı 566 lira ve dana karkas fiyatı ortalama 623 lira olarak açıklandı.\n\n2026 yılı karkas kesim fiyatları (Arşiv)\n\nUKON tarafından Türkiye genelinde yayınlanan güncel karkas et, dana ve kuzu kesim fiyatları, haftalık olarak aşağıdaki tabloda kronolojik şekilde listelenmektedir.\n\nTarih\n\nDana Kesim Fiyatı (TL)\n\nKuzu Kesim Fiyatı (TL)\n\n20 Ağustos 2026\n\n594,29\n\n623,71\n\n13 Ağustos 2026\n\n590,49\n\n618,29\n\n6 Ağustos 2026\n\n583,37\n\n607,86\n\n30 Temmuz 2026\n\n581,01\n\n606,57\n\n23 Temmuz 2026\n\n575,57\n\n600,14\n\n16 Temmuz 2026\n\n570,56\n\n593,69\n\n9 Temmuz 2026\n\n576,77\n\n602,14\n\n2 Temmuz 2026\n\n584,76\n\n608,57\n\n25 Haziran 2026\n\n591,36\n\n612,14\n\n18 Haziran 2026\n\n594,61\n\n615,00\n\n11 Haziran 2026\n\n593,21\n\n610,71\n\n4 Haziran 2026\n\n593,73\n\n609,17\n\n21 Mayıs 2026\n\n595,11\n\n617,31\n\n14 Mayıs 2026\n\n592,17\n\n611,43\n\n7 Mayıs 2026\n\n592,73\n\n609,61\n\n30 Nisan 2026\n\n597,73\n\n603,93\n\n24 Nisan 2026\n\n595,36\n\n600,71\n\n16 Nisan 2026\n\n590,90\n\n595,61\n\n9 Nisan 2026\n\n595,39\n\n590,16\n\n2 Nisan 2026\n\n607,17\n\n595,71\n\n26 Mart 2026\n\n612,10\n\n591,00\n\n12 Mart 2026\n\n607,30\n\n587,71\n\n5 Mart 2026\n\n604,45\n\n572,56\n\n26 Şubat 2026\n\n601,86\n\n573,27\n\n12 Şubat 2026\n\n606,24\n\n571,50\n\n5 Şubat 2026\n\n584,20\n\n565,44\n\n29 Ocak 2026\n\n579,64\n\n566,87\n\n22 Ocak 2026\n\n588,46\n\n562,20\n\n15 Ocak 2026\n\n601,24\n\n566,79\n\n8 Ocak 2026\n\n587,19\n\n552,57\n\n/* Kart/Stack Tasarımı */\n\n.price-cards {\n\ndisplay: flex;\n\nflex-direction: column;\n\ngap: 15px; /* Kartlar arası boşluk */\n\n}\n\n.price-card {\n\nborder: 1px solid #ccc;\n\nborder-radius: 8px;\n\npadding: 12px 16px;\n\nbackground-color: #fafafa;\n\nbox-shadow: 0 2px 5px rgba(0,0,0,0.05);\n\n}\n\n.card-row {\n\nmargin-bottom: 6px;\n\nfont-size: 1em;\n\n}\n\n.card-row strong {\n\ncolor: #2a6ebb; /* Başlık rengi */\n\n}\n\n.et-fiyat-baslik {\n\nfont-size: 18px;\n\nfont-weight: 600;\n\nmargin-bottom: 12px;\n\n}\n\n.et-fiyatlari {\n\nwidth: 100%;\n\nborder-collapse: collapse;\n\nfont-size: 15px;\n\n}\n\n.et-fiyatlari thead {\n\nbackground: rgba(0,0,0,0.04);\n\n}\n\n.et-fiyatlari th,\n\n.et-fiyatlari td {\n\npadding: 10px;\n\nborder-bottom: 1px solid #eee;\n\ntext-align: left;\n\n}\n\n.fiyat {\n\nfont-weight: 700;\n\ncolor: #1a7f37;\n\n}\n\n/* Mobil Kart Tasarımı */\n\n@media (max-width: 768px) {\n\n.et-fiyatlari thead {\n\ndisplay: none;\n\n}\n\n.et-fiyatlari,\n\n.et-fiyatlari tbody,\n\n.et-fiyatlari tr,\n\n.et-fiyatlari td {\n\ndisplay: block;\n\nwidth: 100%;\n\n}\n\n.et-fiyatlari tr {\n\nbackground: #fff;\n\nborder: 1px solid #eee;\n\nborder-radius: 10px;\n\npadding: 14px;\n\nmarg"
     }
   ],
   "commoditiesByBorsa": {
