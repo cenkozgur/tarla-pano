@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-24T18:16:15.733Z",
+  "updatedAt": "2026-08-24T19:00:48.983Z",
   "fx": [
     {
       "code": "USD",
@@ -11,16 +11,16 @@
     {
       "code": "EUR",
       "name": "Euro",
-      "buy": 56.08,
-      "sell": 56.11,
-      "change": -0.06
+      "buy": 56.1,
+      "sell": 56.12,
+      "change": -0.03
     },
     {
       "code": "GRA",
       "name": "Gram Altın",
-      "buy": 7159.23,
-      "sell": 7160.24,
-      "change": 0.74
+      "buy": 7166.4,
+      "sell": 7167.3,
+      "change": 0.84
     },
     {
       "code": "CEYREKALTIN",
@@ -38,6 +38,30 @@
     }
   ],
   "news": [
+    {
+      "title": "Almanya'da yem kıtlığı sığır sürülerini küçültüyor",
+      "url": "https://www.tarimpusulasi.com/haber/almanyada-yem-kitligi-sigir-surulerini-kucultuyor-47504",
+      "source": "Tarım Pusulası",
+      "date": "2026-08-24",
+      "summary": "Almanya'nın güneyinde yem arzının azalması ve saman fiyatlarının yükselmesi, bazı bölgelerde sığır varlığının yüzde 15'e kadar azaltılmasına yol açıyor.",
+      "content": "ALMANYA — Almanya'nın güneyinde yaşanan yem sıkıntısı ve saman fiyatlarındaki artış, sığır yetiştiricilerini sürülerini azaltmaya zorluyor. ElDala.kz'in agrarheute.com'a dayandırdığı haberine göre özellikle Bavyera ve Baden-Württemberg eyaletlerinde önümüzdeki kış için yeterli miktarda yem temin edilmesinde sorun yaşanıyor. \n\nBaden-Württemberg Çiftçiler Birliği verilerine göre çiftçilerin elindeki yem miktarı, yılın bu döneminde normalde bulunması gereken seviyenin yüzde 30-40 altında. Kuruyan çayırlarda yeni bitki biyokütlesinin de yeterince gelişmediği bildiriliyor. \n\nYem arzındaki daralma, kaba ve sulu yem fiyatlarını yukarı çekerken çiftçileri hayvan sayısını azaltmaya yöneltiyor. Kaynakta, öncelikle yaşlı ineklerin kesime gönderildiği, Esslingen ve Reutlingen gibi bazı bölgelerde sığır varlığının yüzde 15'ine kadarının kesime sevk edildiği aktarılıyor. Bazı Almanya mezbahalarında ise kesim için kuyrukların oluştuğu belirtiliyor. \n\nYem sıkıntısı hayvan fiyatlarını da etkiliyor\n\nYaşanan gelişmeler sığır fiyatlarına farklı yönlerde yansıyor. Almanya Sığır ve Et Üreticileri Birliği (VEZG), kesime gönderilen ineklerde arzın yükselmesi nedeniyle fiyatların yaklaşık 5 avro/kg kesim ağırlığı seviyesinde istikrarlı kaldığını bildirdi.\n\nBuna karşılık genç erkek ve dişi sığırlarda arzın azalması fiyatları yukarı taşıyor. Kaynakta, söz konusu hayvanların fiyatlarının haftanın başında 10 avro sent artarak 6,2 avro/kg kesim ağırlığına yükseldiği belirtiliyor.\n\nÇiftçiler sonbahar yağışlarını bekliyor\n\nÇiftçiler, sonbaharda yeterli yağış gerçekleşmemesi halinde sürü azaltımının devam edebileceğini ifade ediyor. Sektör kuruluşları ise hükümetten acil önlem alınmasını istiyor.\n\nBu kapsamda, nadasa bırakılmış ve kullanılmayan alanlarda saman üretimine izin verilmesi talepler arasında yer alıyor. \n\nElDala'nın aktardığı gelişme, Avrupa'da kuraklık ve yüksek sıcaklıkların yalnızca bitkisel üretimi değil, hayvancılıkta kışlık yem tedarikini de etkilediğini ortaya koyuyor. Ancak bu haber kapsamında söz konusu gelişmenin Avrupa genelindeki etkilerine ilişkin ayrıca bir değerlendirme yapılmıyor.\n\nKaynak: ElDala.kz / agrarheute.com\n\nTARIM PUSULASI HABER MERKEZİ"
+    },
+    {
+      "title": "Kazakistan’da kuraklığa dayanıklı yeni arpa çeşidi geliştirildi",
+      "url": "https://www.tarimpusulasi.com/haber/kazakistanda-kurakliga-dayanikli-yeni-arpa-cesidi-gelistirildi-47503",
+      "source": "Tarım Pusulası",
+      "date": "2026-08-24",
+      "summary": "Kazakistan’da geliştirilen “Batırhan” adlı yazlık arpa çeşidi, kuraklık ve toprak tuzluluğuna dayanıklılığıyla öne çıkarken devlet çeşit sınavına sunuldu.",
+      "content": "KAZAKİSTAN — Kazakistan’da kuraklık ve toprak tuzluluğuna dayanıklı yeni bir yazlık arpa çeşidi geliştirildi. “Batırhan” adı verilen çeşidin, yüksek ve istikrarlı verimi, iri taneleri ve bazı hastalıklara karşı dayanıklılığıyla öne çıktığı bildirildi. Çeşit, devlet çeşit sınavına sunulurken ıslah başarısı için patent başvurusunda da bulunuldu.\n\nElDala.kz’in Kazakistan Tarım Bakanlığı basın servisine dayandırdığı habere göre, “Batırhan” çeşidi Kazak Pirinç Yetiştiriciliği Bilimsel Araştırma Enstitüsü ile Bitki Biyolojisi ve Biyoteknolojisi Enstitüsü bilim insanları tarafından geliştirildi.\n\nKuraklık ve tuzluluğa dayanıklılığıyla öne çıkıyor\n\nBakanlık tarafından aktarılan bilgilere göre “Batırhan”, yüksek ve istikrarlı verimin yanı sıra iri daneleri, yatmaya ve bazı hastalıklara dayanıklılığı ile kuraklık ve toprak tuzluluğuna yüksek tolerans göstermesiyle öne çıkıyor.\n\nYazlık gelişme tipine sahip olan çeşidin vejetasyon süresinin 75-85 gün olduğu bildirildi. Çeşidin ayrıca 1.000 dane ağırlığının yüksek olması ve başakta daha fazla dane bulunması özellikleriyle tanımlandığı belirtildi.\n\n“Batırhan”ın tozlu ve sert rastığa dayanıklı olduğu, buna karşılık fusarium kök çürüklüğüne daha düşük düzeyde hassasiyet gösterdiği aktarıldı.\n\nTohumdan üretime geçiş için çeşit sınavı aşamasında\n\nYeni çeşidin dikkat çeken özelliklerinden biri de kardeşlenme ile sapa kalkma arasındaki dönemin en az 20 gün sürmesi. Kaynakta, bu dönemin nispeten uzun olmasının bitkinin yeterli vejetatif kütle oluşturmasına ve danesi iyi dolmuş verimli başakların meydana gelmesine uygun koşullar sağladığı belirtildi.\n\n“Batırhan”ın devlet çeşit sınavına sunulması, çeşidin ticari tarımsal üretime kazandırılması açısından önemli bir aşama olarak değerlendiriliyor. Sınav sürecinde çeşidin ekonomik kullanım değeri ve Kazakistan’ın farklı agroekolojik koşullarında yetiştirilme potansiyelinin ortaya konulması bekleniyor.\n\nKaynak: ElDala.kz / Kazakistan Tarım Bakanlığı\n\nTARIM PUSULASI HABER MERKEZİ"
+    },
+    {
+      "title": "Belarus’ta yerli tohum çeşitlerinin payı yüzde 68’e ulaştı",
+      "url": "https://www.tarimpusulasi.com/haber/belarusta-yerli-tohum-cesitlerinin-payi-yuzde-68e-ulasti-47502",
+      "source": "Tarım Pusulası",
+      "date": "2026-08-24",
+      "summary": "Belarus’ta tahıl ve kanola üretiminde yerli çeşitlerin payı geçen yıl yüzde 68’e yükseldi. Ülke, tarımda dışa bağımlılığı azaltmayı hedefliyor.",
+      "content": "MİNSK — Belarus’ta tahıl ve kanola üretiminde yerli bitki çeşitlerinin kullanım oranı geçen yıl yüzde 68’e ulaştı. Belarus Bilimler Akademisi Tarım Bilimsel-Pratik Merkezi verilerine göre ülke, tarımsal üretimde yabancı şirketlere olan bağımlılığı azaltmak amacıyla yerli ıslah çalışmalarına ağırlık veriyor.\n\nMerkezin Genel Müdürü Sergey Kravtsov, yerli çeşitlerin geliştirilmesinin tarımsal üretimde stratejik bağımlılığın azaltılmasına katkı sağladığını belirtti. Kravtsov’a göre yerli çeşitlerin kullanılması, ithal tohum ve buna bağlı girdiler için yapılan döviz harcamalarının azaltılmasına ve gıda maliyetlerinin düşürülmesine katkı sağlayabilir.\n\nBelarus’taki çalışmalarda, yabancı şirketler tarafından sunulan tohum ve üretim teknolojilerine alternatif oluşturulması hedefleniyor. Kaynakta, Bayer, BASF ve Syngenta gibi küresel şirketlerin yalnızca tohum değil, aynı zamanda bitki yetiştirme teknolojileri ve bitki koruma ürünleri de sunduğu belirtiliyor.\n\nYeni çeşitler üç yıl test ediliyor\n\nBelarus’ta geliştirilen her yeni bitki çeşidi, üretime alınmadan önce üç yıl boyunca zorunlu devlet testlerinden geçiriliyor. Bir çeşidin üretime kabul edilebilmesi için ülkede hâlihazırda kullanılan çeşitlere göre belirli özellikler açısından daha iyi sonuç vermesi gerekiyor.\n\nTestler, RUP “Shipyany-ASK”, Belarus Bilimler Akademisine bağlı beş deneme istasyonu ve ülkedeki önde gelen tarım işletmelerinde gerçekleştiriliyor.\n\nIslah çalışmalarında iklim koşullarına dayanıklılık öne çıkıyor\n\nBelaruslu ıslahçıların öncelikleri arasında hava koşullarının verim üzerindeki etkisini azaltmak da bulunuyor. Bu kapsamda özellikle mayıs ayındaki donlara ve mayıs-haziran ile ağustos-eylül dönemlerinde görülebilen kuraklıklara dayanıklı çeşitler üzerinde çalışılıyor.\n\nKravtsov, genetikten tarımsal kimyaya kadar uzanan önlemler sayesinde verimin hava koşullarına bağımlılığının yüzde 95’ten yüzde 40’a düşürüldüğünü ifade etti.\n\nBu yaklaşım, Belarus’un yalnızca tohum ihtiyacında dışa bağımlılığı azaltmayı değil, aynı zamanda iklim kaynaklı verim kayıplarını sınırlamayı da hedeflediğini ortaya koyuyor.\n\nTARIM PUSULASI HABER MERKEZİ"
+    },
     {
       "title": "Brezilya Gübrede İthalata Bağımlılığı Azaltacak Programı Onayladı",
       "url": "https://www.tarimpusulasi.com/haber/brezilya-gubrede-ithalata-bagimliligi-azaltacak-programi-onayladi-47501",
@@ -77,30 +101,6 @@
       "date": "2026-08-24",
       "summary": "ABD Tarım Bakanlığı (USDA), 2026/27 pazarlama yılı için Rusya’nın mısır üretim tahminini 17,2 milyon tona yükseltirken, Avrupa Birliği’nin üretim beklentisini 50,2 milyon tona indirdi. Tahminlerdeki farklılaşmada hava koşulları etkili oldu.",
       "content": "MOSKOVA — ABD Tarım Bakanlığı (USDA), 2026/27 pazarlama yılına ilişkin mısır üretim tahminlerinde Rusya ve Avrupa Birliği için farklı yönlerde revizyona gitti. USDA'nın ağustos ayı World Agricultural Production raporunda Rusya'nın mısır üretim tahmini 17,2 milyon tona yükseltilirken, Avrupa Birliği'nin üretim beklentisi 50,2 milyon tona düşürüldü.\n\nRusya için açıklanan 17,2 milyon tonluk üretim tahmini, temmuz ayındaki beklentinin yüzde 9, geçen yılki üretimin ise yüzde 16 üzerinde bulunuyor. Bu seviyenin gerçekleşmesi halinde Rusya'nın 2026/27 pazarlama yılında rekor mısır üretimine ulaşması bekleniyor.\n\nRusya'da üretim tahmini yükseldi\n\nUSDA, Rusya'nın mısır verim tahminini de bir önceki aya göre yüzde 9 artırarak hektar başına 6,88 tona çıkardı. Hasat alanının 2,5 milyon hektar seviyesinde kalması beklenirken, bu alanın geçen yıla göre yüzde 9 daha yüksek olacağı öngörüldü.\n\nÜretim tahminindeki artışın temel nedeni, Rusya'nın başlıca mısır üretim bölgelerindeki hava koşullarının olumlu seyretmesi olarak gösterildi. Mayıs, haziran, temmuz ve ağustos ayının başında yağışların çoğunlukla normalin üzerinde gerçekleşmesinin bitkilerin ihtiyaç duyduğu nemi sağladığı belirtildi.\n\nMısırın şu anda verim oluşumu açısından kritik olan çiçeklenmeden tane dolumunun başlangıcına kadar olan dönemde bulunduğu kaydedildi. Uydu tabanlı Evaporatif Stres Endeksi'nin de bitkilerde stres belirtisi göstermediği aktarıldı.\n\nAB'nin mısır üretim tahmini geriledi\n\nUSDA, Avrupa Birliği'nin 2026/27 sezonuna ilişkin mısır üretim tahminini ise bir ayda yüzde 7 düşürerek 50,2 milyon tona çekti. Bu tahmin, geçen yılki üretimin yüzde 12 altında bulunurken, son beş yıllık ortalamanın da yüzde 17 gerisinde kaldı.\n\nTahminin gerçekleşmesi halinde AB'nin mısır üretiminin 2007/08 sezonundan bu yana en düşük seviyeye gerilemesi bekleniyor.\n\nAB'de hasat alanının da 7,5 milyon hektara düşeceği tahmin edildi. Bu rakamın 1990/91 sezonundan bu yana en düşük seviye olacağı belirtildi. Verim tahmini ise hektar başına 6,74 ton olarak açıklandı. Bu değer temmuz tahmininin yüzde 5, geçen yılki verimin ise yüzde 3 altında bulunuyor.\n\nBatı Avrupa'daki sıcak ve kurak hava etkili oldu\n\nAB'deki üretim tahmininin aşağı çekilmesinde Batı Avrupa'da uzun süren sıcak hava ve kuraklık etkili oldu. Mısırın 35 derecenin üzerindeki uzun süreli sıcaklıklara karşı hassas olduğu ve üretim döneminde yüksek miktarda neme ihtiyaç duyduğu belirtildi.\n\nKuraklık nedeniyle bazı dane mısır ekili alanlarının silaj üretimine yönlendirildiği aktarıldı.\n\nEn ciddi kayıpların Fransa ve Macaristan'da yaşanması bekleniyor. USDA, Fransa'nın mısır üretim tahminini 1,5 milyon ton, Macaristan'ın tahminini ise 1,2 milyon ton düşürdü. Polonya, Slovakya ve Avusturya için de üretim tahminleri aşağı yönlü revize edildi.\n\nBulgaristan'ın üretim tahmini ise daha elverişli hava koşulları nedeniyle yükseltildi.\n\nTARIM PUSULASI HABER MERKEZİ"
-    },
-    {
-      "title": "Rusya'nın AB'ye gübre ihracatı 3,9 kat geriledi",
-      "url": "https://www.tarimpusulasi.com/haber/rusyanin-abye-gubre-ihracati-39-kat-geriledi-47496",
-      "source": "Tarım Pusulası",
-      "date": "2026-08-24",
-      "summary": "Rusya'nın Avrupa Birliği'ne gübre sevkiyatı 2026'nın ilk yarısında 297,9 milyon euroya gerilerken, haziranda en fazla alımı Slovenya yaptı.",
-      "content": "BRÜKSEL — Rusya'nın Avrupa Birliği'ne gübre tedariki, 2026'nın ilk yarısında geçen yılın aynı dönemine göre 3,9 kat azalarak 297,9 milyon euroya geriledi. Veriler, Vedomosti gazetesinin RIA Novosti'ye dayandırdığı haberde yer aldı.\n\nAvrupa ülkelerinin Rusya'dan yaptığı gübre alımlarında en büyük payı 142,7 milyon euroyla karma gübreler oluşturdu. Bunu 111,9 milyon euroyla potasyumlu gübreler ve 42,9 milyon euroyla azotlu gübreler izledi. Organik gübre siparişlerinin toplamı ise 474 bin euroda kaldı.\n\nHaziranda gübre alımı 93,97 milyon euro oldu\n\nAvrupa Birliği'nin Rusya'dan gübre alımı haziran ayında 93,97 milyon euro olarak gerçekleşti. Bu tutar, geçen yılın haziran ayına göre 3,5 kat daha düşük oldu.\n\nBuna karşılık haziran ayındaki ithalat, mayıs ayına kıyasla 1,6 kat arttı. Kaynak haberde, haziran ayındaki alım tutarının aralık ayından bu yana en yüksek seviyeye ulaştığı belirtildi.\n\nHaziranda en fazla gübreyi Slovenya aldı\n\nHaziran ayında Rusya'dan en fazla gübre ithal eden AB ülkesi Slovenya oldu. Slovenya'nın alım tutarı 29,5 milyon euro olarak kaydedildi.\n\nSlovenya'yı 12,45 milyon euroyla Almanya, 12,44 milyon euroyla Bulgaristan ve 10,2 milyon euroyla Polonya takip etti.\n\nİlk yarıdaki toplam sevkiyat verilerinde ise gübre türleri arasında karma gübreler öne çıkarken, organik gübrelerin payı diğer kategorilerin oldukça gerisinde kaldı.\n\nTARIM PUSULASI HABER MERKEZİ"
-    },
-    {
-      "title": "Ordu Büyükşehir Belediyesi arıcılara Varroa desteği verecek",
-      "url": "https://www.tarimpusulasi.com/haber/ordu-buyuksehir-belediyesi-aricilara-varroa-destegi-verecek-47495",
-      "source": "Tarım Pusulası",
-      "date": "2026-08-24",
-      "summary": "Ordu Büyükşehir Belediye Başkanı Mehmet Hilmi Güler, Mesudiye’deki bal hasadında arıcılara Varroa ile mücadele için ilaç desteği verileceğini açıkladı.",
-      "content": "ORDU — Ordu’da bal hasadı sürerken, arıcıların önemli sorunlarından biri olan Varroa zararlısıyla mücadele için yeni bir destek açıklaması geldi. Ordu Büyükşehir Belediye Başkanı Dr. Mehmet Hilmi Güler, Mesudiye’de katıldığı bal hasadında, Varroa ile mücadelede kullanılacak ilacın arıcılara Büyükşehir Belediyesi tarafından destek kapsamında sağlanacağını açıkladı.\n\nMesudiye’de düzenlenen bal hasadına katılan Güler, arıcılarla bir araya gelerek kovanların başında bal sağımına eşlik etti. Hasat programında arıcılarla görüşen Güler, Varroa zararlısına karşı kullanılacak ilaç konusunda destek vereceklerini belirtti.\n\nBaşkan Güler, açıklamasında Ordu’nun bal üretimindeki konumuna da değinerek, “Türkiye’de 110 bin ton bal üretiliyor. Ordu olarak biz bunun 17 binini tonu üretiyoruz” ifadelerini kullandı. Güler, Ordu’da 3 bin ailenin baldan geçimini sağladığını belirterek, Büyükşehir Belediyesi olarak arıcıları desteklediklerini söyledi.\n\nVarroa ilacı desteği açıklaması\n\nGüler, arıcılara yönelik destek kapsamında “Üreticilerimize de Varroa ilacını dağıtma müjdesini verdik” dedi.\n\nSöz konusu desteğin arıcıların üretim maliyetlerini azaltmasına ve kolonilerin sağlığının korunmasına katkı sağlaması hedefleniyor. Güler, desteğin yanı sıra bal üretiminin artırılması ve katma değeri yüksek ürünlere geçilmesi amacıyla çalışmalar yürütüldüğünü ifade etti.\n\nOrdu Büyükşehir Belediye Başkanı, kentteki Bal Araştırma Enstitüsü ve bal merkezi ile İl Tarım ve Orman Müdürlüğü ile birlik başkanlığının da içinde bulunduğu bir çalışma yapısına dikkat çekerek, “Hem birinciliği devam ettireceğiz hem de üretimi katma değerli ürünlere dönüştürmek için çalışacağız” diye konuştu.\n\nArıcılar destekten memnun\n\nMesudiye’deki üreticiler de açıklanan Varroa ilacı desteğinin kendileri açısından önemli olduğunu belirtti.\n\nArıcılar, “Varroa ilacında bize destek olacak. Bu bizim için büyük bir sorundu” diyerek Başkan Güler’e teşekkür etti.\n\nProgramda konuşan Ordu İl Tarım ve Orman Müdürü Bayram Ay da arıcılık sektörüne yönelik bakanlık ve il müdürlüğü desteklerinin bulunduğunu belirterek, yerelde Büyükşehir Belediyesi tarafından sağlanan desteklerin önemine dikkat çekti.\n\n“Arıcılığımız daha iyi noktalara gelecek”\n\nArıcılar Birliği Başkanı Akın Çiftçi ise Büyükşehir Belediyesi, birlik ve İl Tarım ve Orman Müdürlüğü iş birliğiyle katma değerli ürünler üretmek için çalışacaklarını söyledi.\n\nÇiftçi, açıklanan ilaç desteğiyle ilgili olarak “İnşallah en kısa zamanda Büyükşehir Belediyemizden ilaç desteğimizi alacağız” ifadelerini kullandı. Arıcılar Birliği Başkanı, desteklerle birlikte Ordu arıcılığının daha iyi noktalara taşınmasını hedeflediklerini belirtti.\n\nOrdu Büyükşehir Belediyesi tarafından yapılan açıklamada, üreticilere yönelik desteklerin yanı sıra Ordu balının marka değerinin artırılması ve daha geniş pazarlara ulaştırılması için çalışmaların sürdürüldüğü belirtildi.\n\nTARIM PUSULASI HABER MERKEZİ"
-    },
-    {
-      "title": "Eskişehir’de üreticilere kooperatifçilik ve pazarlama eğitimi",
-      "url": "https://www.tarimpusulasi.com/haber/eskisehirde-ureticilere-kooperatifcilik-ve-pazarlama-egitimi-47494",
-      "source": "Tarım Pusulası",
-      "date": "2026-08-24",
-      "summary": "Eskişehir Büyükşehir Belediyesi ile Ziraat Mühendisleri Odası iş birliğinde düzenlenen eğitimde üreticilere kooperatifçilik ve tarımsal pazarlama anlatıldı.",
-      "content": "ESKİŞEHİR — Eskişehir Büyükşehir Belediyesi Tarımsal Hizmetler Dairesi Başkanlığı ile TMMOB Ziraat Mühendisleri Odası Eskişehir Şubesi iş birliği ve protokolü kapsamında üreticilere yönelik kooperatifçilik ve tarımsal pazarlama eğitimi düzenlendi.\n\nESMEK Sarıcakaya Eğitim Merkezi’nde gerçekleştirilen eğitimde, üreticilerin kooperatifçilik ve pazarlama konularındaki bilgi birikimlerinin geliştirilmesi hedeflendi.\n\nEğitimin eğitmenliğini Eskişehir Osmangazi Üniversitesi Ziraat Fakültesi Öğretim Üyesi Prof. Dr. Fatma Handan Giray üstlendi. Programa TMMOB Ziraat Mühendisleri Odası Eskişehir Şube Başkanı Selma Güder, Sarıcakaya Ziraat Odası Başkanı Nevzat Aldemir, bölgede faaliyet gösteren tarımsal kooperatiflerin başkan ve üyeleri ile bölgedeki üreticiler katıldı.\n\nÜreticilerin pazarlama gücünün artırılması ele alındı\n\nEğitimde tarımsal kooperatiflerin pazarlama süreçlerindeki rolü, üreticilerin birlikte hareket ederek pazarlama gücünü artırması ve ortak karar alma mekanizmaları ele alındı.\n\nProgramda ayrıca tarımsal ürünlerde katma değer oluşturulması ve üreticilerin pazardaki konumlarının güçlendirilmesine yönelik yaklaşımlar değerlendirildi.\n\nTarımsal üretimde sürdürülebilirliğin ve üretici gelirlerinin artırılmasında kooperatifleşmenin önemine dikkat çekilirken, üreticilerin örgütlü bir yapı içerisinde hareket ederek ürünlerini daha etkin şekilde pazarlayabilmelerine yönelik bilgi ve deneyimler paylaşıldı.\n\nEğitim soru-cevap bölümüyle tamamlandı\n\nEğitimin sonunda gerçekleştirilen soru-cevap bölümünde katılımcılar, kooperatifçilik ve tarımsal ürünlerin pazarlanmasına ilişkin sorularını yöneltti.\n\nKarşılıklı görüş ve deneyimlerin paylaşıldığı bölümle birlikte eğitim tamamlandı.\n\nTARIM PUSULASI HABER MERKEZİ"
     },
     {
       "title": "Konya Pancar’ın Mali Genel Kurulu’na bu kare damga vurdu! Erkoyuncu’nun yanındaki isim dikkat çekti",
@@ -337,10 +337,5 @@
   "defaultBorsa": "5ED10",
   "defaultCity": "CANAKKALE",
   "note": "Fiyatlar TOBB ticaret borsasından (borsa seçilebilir). Kanola manuel (Trakya 2025).",
-  "inputsNote": "Mazot: akaryakıt bayi fiyatı, günlük (şehir seçilebilir). Gübre: manuel (yaklaşık).",
-  "errors": [
-    "borsa 5ED10: fetch failed",
-    "borsa 5KO10: fetch failed",
-    "borsa 5ES10: fetch failed"
-  ]
+  "inputsNote": "Mazot: akaryakıt bayi fiyatı, günlük (şehir seçilebilir). Gübre: manuel (yaklaşık)."
 }
