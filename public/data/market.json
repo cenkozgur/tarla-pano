@@ -1,43 +1,59 @@
 {
-  "updatedAt": "2026-08-24T13:57:01.523Z",
+  "updatedAt": "2026-08-24T14:45:47.176Z",
   "fx": [
     {
       "code": "USD",
       "name": "Dolar",
       "buy": 48.08,
-      "sell": 48.08,
+      "sell": 48.09,
       "change": 0.13
     },
     {
       "code": "EUR",
       "name": "Euro",
-      "buy": 56.15,
-      "sell": 56.16,
-      "change": 0.05
+      "buy": 56.13,
+      "sell": 56.14,
+      "change": 0.01
     },
     {
       "code": "GRA",
       "name": "Gram Altın",
-      "buy": 7217.93,
-      "sell": 7218.92,
-      "change": 1.57
+      "buy": 7221.03,
+      "sell": 7221.94,
+      "change": 1.61
     },
     {
       "code": "CEYREKALTIN",
       "name": "Çeyrek Altın",
-      "buy": 11485.08,
-      "sell": 11746.66,
-      "change": 1.78
+      "buy": 11475.87,
+      "sell": 11739.69,
+      "change": 1.72
     },
     {
       "code": "CUMHURIYETALTINI",
       "name": "Cumhuriyet Altını",
-      "buy": 47294,
-      "sell": 48010,
-      "change": 1.18
+      "buy": 47664,
+      "sell": 48380,
+      "change": 1.96
     }
   ],
   "news": [
+    {
+      "title": "Buğdayın Baltık FOB fiyatı 255 dolara yükseldi",
+      "url": "https://www.tarimpusulasi.com/haber/bugdayin-baltik-fob-fiyati-255-dolara-yukseldi-47500",
+      "source": "Tarım Pusulası",
+      "date": "2026-08-24",
+      "summary": "Karadeniz’deki güvenlik sorunları ve limanlardan yapılan sevkiyatlara yönelik kısıtlamalar, Rusya’nın ağustos ayı buğday ihracatı beklentisinin 1,8 milyon tona indirilmesine yol açtı. Rusagrotrans verilerine göre buğday fiyatlarında ise farklı yönlerde hareket görüldü.",
+      "content": "MOSKOVA — Karadeniz’deki güvenlik sorunları ve bölgedeki limanlardan yapılan sevkiyatlara yönelik kısıtlamalar, Rusya’nın buğday ihracatı beklentisini aşağı çekti. Rusagrotrans Analiz Merkezi’nin değerlendirmesine göre, Rusya’nın ağustos ayı buğday ihracatı tahmini 1,8 milyon tona indirildi. Bu miktar, geçen yılın aynı ayına göre yaklaşık 2,5 kat daha düşük ve Ağustos 2010’dan bu yana en düşük seviye olarak değerlendiriliyor.\n\nRusagrotrans analistlerine göre geçen hafta buğday piyasasındaki hareketliliğin başlıca nedeni, insansız hava aracı saldırılarının yaşandığı Karadeniz’de durumun kötüleşmesi oldu.\n\nNovorossiysk'te buğday fiyatı geriledi\n\nRusagrotrans verilerine göre Novorossiysk’te ihracata yönelik buğdayın fiyatı bir haftada ton başına 6 dolar gerileyerek 215 dolara düştü.\n\nBaltık Denizi’nde FOB bazındaki fiyat ise aynı dönemde ton başına 15 dolar artarak 255 dolara yükseldi.\n\nUluslararası piyasalarda da farklı yönlü fiyat hareketleri görüldü. ABD menşeli SRW buğdayının fiyatı ton başına 283 dolara yükselirken, Romanya buğdayı yüzde 12,5 artışla 268 dolara çıktı. Fransa buğdayının fiyatı ise 1 dolar gerileyerek ton başına 259 dolara düştü.\n\nRusya'nın temmuz buğday ihracatı da geriledi\n\nRus Tahıl Birliği’nin izleme ve analiz departmanı tarafından ağustos ayının başında açıklanan verilere göre Rusya’nın buğday ihracatı temmuz ayında geçen yılın aynı dönemine kıyasla yüzde 17,7 azalarak 1,8 milyon tona geriledi. Geçen yıl temmuz ayında ihracat yaklaşık 2,2 milyon ton seviyesindeydi.\n\nRusya’nın temmuz ayında gerçekleştirdiği başlıca tahıl ihracatı ise toplam 2,026 milyon ton oldu. Bu rakam, Temmuz 2025’e göre yüzde 37,6 daha düşük gerçekleşti.\n\nUkrayna'nın tahıl sevkiyatında da düşüş yaşandı\n\nVedomosti'nin aktardığı bilgilere göre, Ukrayna’nın Odesa bölgesindeki limanlara yönelik karşılıklı saldırıların ardından 1 Temmuz’dan itibaren buğday ihracatı yüzde 18, arpa ihracatı yüzde 28 ve un sevkiyatı yüzde 54 azaldı.\n\nAğustos ayının başlamasıyla birlikte sevkiyatlarda daha belirgin bir yavaşlama görüldü. Haberde, Rus saldırılarının temmuz ayının sonunda Odesa bölgesindeki limanların faaliyetlerinin durmasına yol açtığı belirtildi.\n\nKaradeniz’deki gelişmelerin Rusya ve Ukrayna’nın tahıl sevkiyatlarını etkilemesi, bölgeden yapılan buğday ticaretinin seyrini de doğrudan etkileyen unsurlar arasında yer aldı.\n\nTARIM PUSULASI HABER MERKEZİ"
+    },
+    {
+      "title": "Argus: Çatışmalar ve iklim deniz taşımacılığı maliyetini artırdı",
+      "url": "https://www.tarimpusulasi.com/haber/argus-catismalar-ve-iklim-deniz-tasimaciligi-maliyetini-artirdi-47499",
+      "source": "Tarım Pusulası",
+      "date": "2026-08-24",
+      "summary": "Çatışmalar, kuraklık ve su seviyelerindeki düşüş, Panama Kanalı, Ren Nehri, Kızıldeniz ve Karadeniz gibi kritik güzergâhlarda deniz ve nehir taşımacılığı maliyetlerini yükseltti. Argus verilerine göre bazı navlun oranları son 20 yılın en yüksek seviyelerine çıktı.",
+      "content": "İSTANBUL — Çatışmalar ve iklim kaynaklı gelişmeler, Panama Kanalı, Ren Nehri, Kızıldeniz ve Karadeniz dahil olmak üzere önemli deniz ve nehir taşımacılığı güzergâhlarında maliyetlerin sert biçimde yükselmesine yol açtı. Argus verilerine göre Kızıldeniz ve Karadeniz'de Akdeniz'e giden tankerler için navlun oranları, son 20 yılın en yüksek seviyesine ulaştı.\n\nTASS'ın Financial Times'a dayandırdığı habere göre, çatışmaların yanı sıra Avrupa ve Latin Amerika'daki uzun süreli kuraklıklar, başlıca taşımacılık güzergâhlarında navlun tarifelerinde rekor artışlara neden oldu. Gelişmeler arasında Hürmüz Boğazı'ndaki fiili kapanma da gösterildi.\n\nPetrol taşımacılığında navlun 15,22 dolara çıktı\n\nArgus verilerine göre Basra Körfezi'nden Asya'ya petrol taşımacılığında navlun oranları geçen hafta varil başına 15,22 dolara yükseldi. Bu seviye, Argus'un navlun oranlarını değerlendirmeye başladığı 2005'ten bu yana kaydedilen en yüksek değer oldu.\n\nAsya ülkelerinden ABD'nin Doğu Yakası limanlarına konteyner taşımacılığında ise ortalama spot navlun oranları geçen yılın aynı dönemine göre yüzde 234 arttı. 40 fitlik standart bir konteyner için fiyatlar 10 bin 200 doların üzerine çıktı.\n\nPanama Kanalı'nda geçiş maliyeti yükseldi\n\nPasifik Okyanusu'nun ekvatoral kesiminde deniz suyu sıcaklıklarının normalin üzerine çıkmasıyla ilişkilendirilen El Niño'nun etkileri, Panama Kanalı'ndaki su seviyesinin düşmesine neden oldu.\n\nTASS'ın Financial Times'a aktardığı bilgilere göre, kanaldaki geçiş talebinin Hürmüz Boğazı'ndaki kriz nedeniyle artması da maliyetleri etkiledi. Ağustos ayında Panama Kanalı'ndaki günlük açık artırmalı geçiş slotlarının ortalama fiyatı 1,1 milyon ila 2,5 milyon dolar seviyesine yükseldi.\n\nTaşımacılık zincirinde maliyet baskısı\n\nArgus temsilcisi John Ollett, yaşanan gelişmeleri deniz taşımacılığı piyasasında bugüne kadar görülen en kapsamlı aksamalardan biri olarak değerlendirdi.\n\nAnaliz şirketi Xeneta'dan Peter Sand ise Orta Doğu'daki savaşla bağlantılı taşımacılık aksamalarının kısa vadede ortadan kalkmayabilecek yapısal bir sorun haline geldiğini belirtti. Sand, oluşan maliyetlerin tedarik zincirinin tamamına yansıyacağını ifade etti.\n\nKritik güzergâhlarda birden fazla risk etkili oluyor\n\nVeriler, küresel taşımacılık maliyetlerinde yalnızca çatışmaların değil, iklim kaynaklı gelişmelerin de etkili olduğunu ortaya koyuyor. Hürmüz Boğazı'ndaki kriz taşımacılık talebini ve maliyetleri artırırken, Panama Kanalı'ndaki su seviyesinin düşmesi geçiş kapasitesi ve fiyatlar üzerinde baskı oluşturdu.\n\nAvrupa'daki kuraklık ise Ren Nehri gibi önemli iç su yolu taşımacılığı güzergâhlarında operasyonel koşulları etkileyen unsurlar arasında yer aldı.\n\nTARIM PUSULASI HABER MERKEZİ"
+    },
     {
       "title": "Rusya'nın Türkiye'ye buğday ihracatı 7,3 milyon tona çıktı",
       "url": "https://www.tarimpusulasi.com/haber/rusyanin-turkiyeye-bugday-ihracati-73-milyon-tona-cikti-47498",
@@ -85,22 +101,6 @@
       "date": "2026-08-24",
       "summary": "Manisa Büyükşehir Belediyesi, Sarıgöl’de üzüm hasadı öncesi üreticilerin kullandığı yaklaşık 6 kilometrelik güzergahta sathi kaplama çalışması yapıyor.",
       "content": "MANİSA — Manisa Büyükşehir Belediyesi, Sarıgöl ilçesinde Yeşiltepe, Bahadırlar ve Tekeliler mahallelerini birbirine bağlayan yaklaşık 6 kilometrelik güzergahta emisyonlu sathi kaplama çalışması gerçekleştiriyor.\n\nÜzüm hasadının başladığı Sarıgöl’de yoğun kullanılan güzergâhta yürütülen çalışmayla, üreticilerin bağlarına ve mahallelere ulaşımının daha güvenli hale getirilmesi amaçlanıyor.\n\nManisa Büyükşehir Belediyesi, il genelindeki ulaşım altyapısını güçlendirmeye yönelik çalışmalarını sürdürürken, tarımsal üretimin yoğun olduğu Sarıgöl’de üreticilerin sıklıkla kullandığı yollara da müdahale ediyor.\n\nHasat dönemindeki ulaşım hedefleniyor\n\nYeşiltepe, Bahadırlar ve Tekeliler mahallelerini birbirine bağlayan yaklaşık 6 kilometrelik yolda sürdürülen sathi kaplama çalışmasının özellikle üzüm hasadı döneminde artan araç trafiğinin daha sağlıklı şekilde sürdürülmesine katkı sağlaması hedefleniyor.\n\nÇalışmanın tamamlanmasıyla üreticilerin bağlarına ve mahallelere ulaşımının kolaylaştırılması planlanıyor.\n\nDutlulu: Üreticimizin emeğine sahip çıkıyoruz\n\nManisa Büyükşehir Belediye Başkanı Besim Dutlulu, tarımsal üretimin yoğun olduğu bölgelerde üreticilerin ulaşımını kolaylaştırmak amacıyla yol çalışmalarını sürdürdüklerini belirtti.\n\nSarıgöl’ün önemli geçim kaynaklarından birinin üzüm olduğunu ifade eden Dutlulu, hasat döneminde üreticilerin bağlarına ve ürünlerini taşıyacakları yollara güvenli şekilde ulaşmasının önemine dikkat çekti.\n\nDutlulu, Yeşiltepe, Bahadırlar ve Tekeliler mahallelerini birbirine bağlayan yaklaşık 6 kilometrelik güzergâhta çalışma yürüttüklerini belirterek, “Manisa’nın çiftçisi için çalışmaya, tarımsal üretimin önündeki engelleri ortadan kaldırmaya devam edeceğiz” dedi.\n\nAkdeniz: Çiftçimizin yanındayız\n\nSarıgöl Belediye Başkanı Tahsin Akdeniz de üzüm hasadı döneminin geldiğini belirterek, üreticilerin bağ ve tarlalarına daha kolay ulaşabilmesi amacıyla mahalleler arasındaki yolda sathi kaplama çalışması yapıldığını ifade etti.\n\nAkdeniz, çalışmadan dolayı Manisa Büyükşehir Belediye Başkanı Besim Dutlulu’ya teşekkür etti.\n\nMuhtar: Hasat öncesinde yenilenmesini talep etmiştik\n\nYeşiltepe Mahalle Muhtarı Mustafa Keşkekoğlu, Yeşiltepe, Bahadırlar ve Tekeliler arasındaki yolun bozuk olduğunu belirterek, üzüm hasat dönemi öncesinde yolun yenilenmesini talep ettiklerini söyledi.\n\nKeşkekoğlu, güzergâhta sathi kaplama çalışmasının sürdüğünü belirterek Manisa Büyükşehir Belediye Başkanı Besim Dutlulu ve Sarıgöl Belediye Başkanı Tahsin Akdeniz’e teşekkür etti.\n\nTARIM PUSULASI HABER MERKEZİ"
-    },
-    {
-      "title": "Denizli’de çiftçiye mazot desteği dağıtımı sürüyor",
-      "url": "https://www.tarimpusulasi.com/haber/denizlide-ciftciye-mazot-destegi-dagitimi-suruyor-47492",
-      "source": "Tarım Pusulası",
-      "date": "2026-08-24",
-      "summary": "Denizli Büyükşehir Belediyesi’nin mazot desteği projesinde ilk etap tamamlanırken ikinci hafta dağıtımları 24-28 Ağustos’ta 7 ilçede sürecek.",
-      "content": "DENİZLİ — Denizli Büyükşehir Belediyesi tarafından tarımsal üretimi teşvik etmek ve kent genelinde sürdürülebilir kalkınmaya katkı sağlamak amacıyla yürütülen “Üreticilere Mazot Desteği Projesi” kapsamında dağıtımlar devam ediyor.\n\nKırsal Hizmetler Dairesi Başkanlığı koordinasyonunda yürütülen projenin 3 haftalık planlamasında Beyağaç, Çameli, Bekilli, Baklan, Sarayköy, Kale ve Serinhisar ilçelerindeki ilk etap dağıtımları tamamlandı. Programın ikinci haftasında ise üreticilere yönelik akaryakıt desteği dağıtımları sürdürülecek.\n\nBelediyenin açıklamasına göre ekipler, 24 Ağustos Pazartesi Buldan, 25 Ağustos Tavas, 26 Ağustos Çal, 27 Ağustos Babadağ, 28 Ağustos’ta ise Çardak ve Bozkurt ilçelerinde üreticilere akaryakıt desteklerini teslim edecek.\n\nÇavuşoğlu: Üreticimizin mali yükünü hafifletmek istiyoruz\n\nDenizli Büyükşehir Belediye Başkanı Bülent Nuri Çavuşoğlu, projenin temel amacının üreticilerin artan mazot ve girdi maliyetleri karşısındaki yükünü azaltmak ve tarımsal üretimin devamlılığına katkı sağlamak olduğunu belirtti.\n\nÇavuşoğlu, açıklamasında çiftçilerin alın terine sahip çıkmayı temel görev olarak gördüklerini ifade ederek, “Bu hibe desteğiyle amacımız; hem üreticimizin mali yükünü bir nebze olsun hafifletmek hem de Denizli’mizde bir karış dahi ekilmedik alan bırakmamaktır” dedi.\n\nÇavuşoğlu ayrıca üretimin devam etmesinin Denizli ve Türkiye açısından önemine dikkat çekerek, “Üreticimiz ürettikçe Denizli kazanacak, Türkiye kazanacak” ifadelerini kullandı.\n\nDağıtım takvimi 4 Eylül’de tamamlanacak\n\nDenizli Büyükşehir Belediyesi’nin açıklamasında, il genelindeki saha çalışmasının belirlenen takvim doğrultusunda devam edeceği belirtildi.\n\nProjenin final programının ise 4 Eylül 2026 tarihinde Merkezefendi ve Pamukkale ilçelerinde gerçekleştirileceği bildirildi.\n\nBöylece açıklamada yer alan planlamaya göre mazot desteği dağıtımları, il genelindeki ilçelerde kademeli olarak sürdürülecek.\n\nTARIM PUSULASI HABER MERKEZİ"
-    },
-    {
-      "title": "Cargill, Dilovası’nda FR3® üretim kapasitesini ikiye çıkardı",
-      "url": "https://www.tarimpusulasi.com/haber/cargill-dilovasinda-fr3-uretim-kapasitesini-ikiye-cikardi-47491",
-      "source": "Tarım Pusulası",
-      "date": "2026-08-24",
-      "summary": "Cargill, Dilovası Biyoendüstriyel Tesisi’ne eklediği üretim hattıyla FR3® bitkisel trafo yağı kapasitesini iki katına çıkardı.",
-      "content": "DİLOVASI — Cargill, Türkiye’deki Dilovası Biyoendüstriyel Tesisi’nde FR3® bitkisel trafo yağı üretim kapasitesini iki katına çıkardı. Tesise eklenen yeni üretim hattıyla şirket, Türkiye ve uluslararası pazarlardan gelen yüksek performanslı trafo sıvılarına yönelik artan talebe yanıt vermeyi hedefliyor.\n\nCargill’in açıklamasına göre yatırım; yangın güvenliği, enerji şebekelerinin dayanıklılığı ve sürdürülebilirlik hedeflerini destekleyen trafo sıvılarına yönelik talebin artmasıyla gerçekleştirildi. Yeni üretim hattının Dilovası tesisinin Cargill’in küresel Biyoendüstriyel üretim ağı içindeki rolünü de güçlendirmesi bekleniyor.\n\nFR3® üretim kapasitesi iki katına çıkarıldı\n\nDilovası Biyoendüstriyel Tesisi’ne eklenen yeni hat, FR3® trafo yağı üretim kapasitesini iki katına çıkaracak şekilde devreye alındı. Cargill, yatırımın mühendislik, operasyon ve bakım ekiplerinin iş birliğiyle, kayıp zamanlı iş kazası yaşanmadan tamamlandığını bildirdi.\n\nCargill Trafo Sıvıları Global Ürün Grubu Kıdemli Direktörü Renee van Schijndel, yatırımın özellikle veri merkezleri ve diğer kritik altyapıların ihtiyaç duyduğu güvenli ve dayanıklı enerji sistemlerine yönelik talebin karşılanmasına katkı sağlayacağını belirtti.\n\nVan Schijndel, “Dilovası’ndaki üretimimizi artırarak, hızla artan talebi karşılamak üzere tasarlanan enerji sistemlerine yatırım yapan müşterilerimize daha etkili şekilde hizmet sunabileceğiz” değerlendirmesinde bulundu.\n\nFR3® yüzde 99’dan fazla biyo bazlı içerik taşıyor\n\nCargill’in verdiği bilgilere göre FR3® trafo yağı, ASTM D6866 standardına göre yüzde 99’dan fazla biyo bazlı içerik barındıran, K sınıfı ve yüksek yanma noktasına sahip doğal ester bazlı bir dielektrik sıvı olarak tanımlanıyor.\n\nÜrünün tipik yanma noktasının 350-360 derece olduğu belirtilirken, bu özelliğin geleneksel mineral yağlara kıyasla yangın riskinin azaltılmasına yardımcı olduğu ifade ediliyor.\n\nFR3® trafo yağının yüksek sıcaklıkta çalışmak üzere tasarlanan trafolarda daha yüksek yük esnekliği ve daha uzun izolasyon ömrü sağlayabileceği aktarılıyor. Ürünün termal özelliklerinin trafolardaki selülozik izolasyon malzemelerinin yaşlanmasını yavaşlatabildiği, bunun da trafo tasarımı ve işletme koşullarına bağlı olarak daha yüksek yüklerin yönetilmesine veya ekipman ömrünün uzatılmasına imkân sağlayabildiği belirtiliyor.\n\nÜretim kapasitesindeki artış sürdürülebilirlik hedeflerine bağlandı\n\nCargill, FR3® trafo yağının yenilenebilir bitkisel yağlardan elde edildiğini ve ASTM D6866 standardına göre yüzde 99’dan fazla biyo bazlı içerik taşıdığını açıkladı.\n\nŞirket ayrıca ürünün OPPTS 835.3100 standardına göre 10 gün gibi kısa bir sürede yüzde 100 biyolojik olarak parçalanabildiğini belirtti.\n\nAçıklamada, FR3® trafo yağının performans özelliklerinin trafo verimliliği ve ekipman ömrünün desteklenmesine, fosil bazlı malzemelere bağımlılığın azaltılmasına katkı sağlayabileceği ifade edildi. Ürünün özellikle veri merkezleri, yenilenebilir enerji projeleri ve elektrik şebekeleri açısından önem taşıdığı kaydedildi.\n\nDilovası’ndaki yeni üretim hattının proses ve enerji verimliliğini artıracak şekilde tasarlandığı bildirildi.\n\nCargill: Türkiye’deki trafo üreticilerine tedarik gücü artacak\n\nCargill Türkiye Yönetim Kurulu Üyesi Ramadan Küçük, Dilovası’ndaki doğal ester dielektrik trafo yağı üretim kapasitesinin iki katına çıkarılmasının müşterilerin ihtiyaçlarına daha hızlı yanıt verilmesini sağlayacağını belirtti.\n\nKüçük, yatırımın Türkiye’deki ekiplerin ve Dilovası tesisinin Cargill’in küresel operasyonlarındaki rolünü ortaya koyduğunu ifade ederek, şirketin Türkiye’de inovasyon, operasyonel mükemmellik ve endüstriyel büyümeye yönelik uzun vadeli yaklaşımını sürdürdüğünü kaydetti.\n\nKapasite artışının Türkiye’deki trafo üreticilerine tedarik sağlama ve yüksek performanslı dielektrik sıvılara yönelik uluslararası talebe yanıt verme kabiliyetini güçlendirmesi hedefleniyor.\n\nCargill açıklamasında, Türkiye’nin dünyanın önde gelen trafo üreticisi ülkelerinden biri olduğu belirtilerek, FR3® üretim kapasitesindeki artışın yerel üretim ekosistemini desteklemesinin ve Türkiye’nin ileri enerji teknolojilerinin değer zincirindeki konumuna katkı sağlamasının amaçlandığı aktarıldı.\n\nEnerji altyapısındaki talep artışına dikkat çekildi\n\nŞirket, yapay zekâ, veri merkezleri, yenilenebilir enerji ve elektrifikasyonun yaygınlaşmasıyla güvenilir enerji altyapısına yönelik talebin arttığına dikkat çekti.\n\nCargill’in aktardığı Uluslararası Enerji Ajansı öngörüsüne göre veri merkezlerinin küresel elektrik tüketiminin 2030 yılına kadar iki katından fazla artarak yaklaşık 945 teravat-saate ulaşması bekleniyor.\n\nBu gelişmenin veri merkezleri başta olmak üzere hastaneler, havalimanları, metro sistemleri, batarya enerji depolama sistemleri, güneş enerjisi tesisleri ve rüzgâr santralleri gibi kritik altyapılarda yüksek yük koşullarında güvenilir çalışabilen trafo teknolojilerine yönelik ihtiyacı artırması bekleniyor.\n\nCargill, Dilovası’ndaki kapasite artışıyla Türkiye ve uluslararası p"
     },
     {
       "title": "Konya Pancar’ın Mali Genel Kurulu’na bu kare damga vurdu! Erkoyuncu’nun yanındaki isim dikkat çekti",
@@ -337,8 +337,5 @@
   "defaultBorsa": "5ED10",
   "defaultCity": "CANAKKALE",
   "note": "Fiyatlar TOBB ticaret borsasından (borsa seçilebilir). Kanola manuel (Trakya 2025).",
-  "inputsNote": "Mazot: akaryakıt bayi fiyatı, günlük (şehir seçilebilir). Gübre: manuel (yaklaşık).",
-  "errors": [
-    "fx: fetch failed"
-  ]
+  "inputsNote": "Mazot: akaryakıt bayi fiyatı, günlük (şehir seçilebilir). Gübre: manuel (yaklaşık)."
 }
