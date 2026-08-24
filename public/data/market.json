@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-24T17:49:29.736Z",
+  "updatedAt": "2026-08-24T18:16:15.733Z",
   "fx": [
     {
       "code": "USD",
@@ -11,16 +11,16 @@
     {
       "code": "EUR",
       "name": "Euro",
-      "buy": 56.07,
-      "sell": 56.08,
-      "change": -0.09
+      "buy": 56.08,
+      "sell": 56.11,
+      "change": -0.06
     },
     {
       "code": "GRA",
       "name": "Gram Altın",
-      "buy": 7166.3,
-      "sell": 7167.22,
-      "change": 0.84
+      "buy": 7159.23,
+      "sell": 7160.24,
+      "change": 0.74
     },
     {
       "code": "CEYREKALTIN",
@@ -38,6 +38,14 @@
     }
   ],
   "news": [
+    {
+      "title": "Brezilya Gübrede İthalata Bağımlılığı Azaltacak Programı Onayladı",
+      "url": "https://www.tarimpusulasi.com/haber/brezilya-gubrede-ithalata-bagimliligi-azaltacak-programi-onayladi-47501",
+      "source": "Tarım Pusulası",
+      "date": "2026-08-24",
+      "summary": "Brezilya Senatosu, gübrede ithalata bağımlılığı azaltmayı hedefleyen Profert programını onayladı; üreticilere yönelik desteklerin kapsamı da genişletilecek.",
+      "content": "BREZİLYA — Brezilya Senatosu, ülkenin gübre üretimini geliştirmeyi ve ithalata olan bağımlılığını azaltmayı amaçlayan Profert Ulusal Gübre Üretimini Geliştirme Programına ilişkin yasa tasarısını onayladı. Düzenlemenin yürürlüğe girmesi için Brezilya Devlet Başkanı'nın onayı gerekiyor.\n\nYeni program kapsamında 2027-2031 döneminde gübre üreticilerine 1,8 milyar dolara kadar vergi teşviki sağlanması planlanıyor. Devlet, yeni üretim tesislerinin kurulması veya mevcut tesislerin genişletilmesi için yapılan harcamaların yüzde 20'sine kadarını karşılayacak.\n\nDüzenlemede ayrıca, küresel gübre fiyatlarındaki artışın etkilerini azaltmak amacıyla 2026 yılında 1 milyar reala kadar, yaklaşık 192 milyon dolarlık finansman kredisi sağlanması öngörülüyor.\n\nYerli gübre kullanımına kademeli artış\n\nProgramın bir diğer önemli ayağını ise piyasada satılan ürünlerde yerli gübre kullanımının artırılması oluşturuyor.\n\nBuna göre satılan ürünlerdeki asgari yerli gübre payının 1 Temmuz 2027'de yüzde 2'den başlaması, 1 Ocak 2037'ye kadar yüzde 10'a çıkarılması planlanıyor. Bu oranın ilerleyen dönemde yüzde 30'a kadar yeniden düzenlenebilmesine de imkan tanınıyor.\n\nBrezilya gübrede büyük ölçüde dışa bağımlı\n\nBrezilya'nın gübre politikasındaki değişikliğin arka planında yüksek ithalat bağımlılığı bulunuyor. Ülke, 2025 yılında 43,3 milyon ton mineral ürün ithal etti. Bu miktarın 11 milyon tonu Rusya'dan geldi.\n\nKaynak metne göre ithalatın Brezilya'nın toplam gübre tüketimindeki payı yüzde 85-90 seviyesinde bulunuyor.\n\nBu tablo, gübre tedarikindeki küresel fiyat ve arz değişimlerinin Brezilyalı üreticiler üzerindeki etkisini artırıyor. Yeni programla yerli üretimin geliştirilmesi ve gübreye erişimin desteklenmesi hedefleniyor.\n\nGübre fiyatları üreticinin maliyetini etkiliyor\n\nYara Brazil Başkanı Marcelo Altieri'nin değerlendirmesine göre Brezilya gübre piyasasının 2026 yılında yüzde 12 daralması bekleniyor. Bu gerilemenin nedenleri arasında gübre fiyatlarındaki yükseliş ve ürünün çiftçiler açısından daha az erişilebilir hale gelmesi gösteriliyor.\n\nBrezilya'nın aldığı karar, bu açıdan yalnızca sanayi yatırımlarına yönelik bir teşvik olarak değil, üreticinin temel girdilerinden biri olan gübrenin maliyeti ve erişilebilirliği açısından da önem taşıyor.\n\nGübre fiyatlarındaki yükseliş, doğrudan üretim maliyetlerini etkilediği için dünyanın farklı ülkelerindeki çiftçiler açısından benzer bir sorun oluşturabiliyor. Brezilya'nın yeni programı ise bu baskıyı azaltmak amacıyla yerli üretim kapasitesinin artırılmasını hedefliyor.\n\nTARIM PUSULASI HABER MERKEZİ"
+    },
     {
       "title": "Buğdayın Baltık FOB fiyatı 255 dolara yükseldi",
       "url": "https://www.tarimpusulasi.com/haber/bugdayin-baltik-fob-fiyati-255-dolara-yukseldi-47500",
@@ -93,14 +101,6 @@
       "date": "2026-08-24",
       "summary": "Eskişehir Büyükşehir Belediyesi ile Ziraat Mühendisleri Odası iş birliğinde düzenlenen eğitimde üreticilere kooperatifçilik ve tarımsal pazarlama anlatıldı.",
       "content": "ESKİŞEHİR — Eskişehir Büyükşehir Belediyesi Tarımsal Hizmetler Dairesi Başkanlığı ile TMMOB Ziraat Mühendisleri Odası Eskişehir Şubesi iş birliği ve protokolü kapsamında üreticilere yönelik kooperatifçilik ve tarımsal pazarlama eğitimi düzenlendi.\n\nESMEK Sarıcakaya Eğitim Merkezi’nde gerçekleştirilen eğitimde, üreticilerin kooperatifçilik ve pazarlama konularındaki bilgi birikimlerinin geliştirilmesi hedeflendi.\n\nEğitimin eğitmenliğini Eskişehir Osmangazi Üniversitesi Ziraat Fakültesi Öğretim Üyesi Prof. Dr. Fatma Handan Giray üstlendi. Programa TMMOB Ziraat Mühendisleri Odası Eskişehir Şube Başkanı Selma Güder, Sarıcakaya Ziraat Odası Başkanı Nevzat Aldemir, bölgede faaliyet gösteren tarımsal kooperatiflerin başkan ve üyeleri ile bölgedeki üreticiler katıldı.\n\nÜreticilerin pazarlama gücünün artırılması ele alındı\n\nEğitimde tarımsal kooperatiflerin pazarlama süreçlerindeki rolü, üreticilerin birlikte hareket ederek pazarlama gücünü artırması ve ortak karar alma mekanizmaları ele alındı.\n\nProgramda ayrıca tarımsal ürünlerde katma değer oluşturulması ve üreticilerin pazardaki konumlarının güçlendirilmesine yönelik yaklaşımlar değerlendirildi.\n\nTarımsal üretimde sürdürülebilirliğin ve üretici gelirlerinin artırılmasında kooperatifleşmenin önemine dikkat çekilirken, üreticilerin örgütlü bir yapı içerisinde hareket ederek ürünlerini daha etkin şekilde pazarlayabilmelerine yönelik bilgi ve deneyimler paylaşıldı.\n\nEğitim soru-cevap bölümüyle tamamlandı\n\nEğitimin sonunda gerçekleştirilen soru-cevap bölümünde katılımcılar, kooperatifçilik ve tarımsal ürünlerin pazarlanmasına ilişkin sorularını yöneltti.\n\nKarşılıklı görüş ve deneyimlerin paylaşıldığı bölümle birlikte eğitim tamamlandı.\n\nTARIM PUSULASI HABER MERKEZİ"
-    },
-    {
-      "title": "Dutlulu: Sarıgöl’de üretici için yol çalışması sürüyor",
-      "url": "https://www.tarimpusulasi.com/haber/dutlulu-sarigolde-uretici-icin-yol-calismasi-suruyor-47493",
-      "source": "Tarım Pusulası",
-      "date": "2026-08-24",
-      "summary": "Manisa Büyükşehir Belediyesi, Sarıgöl’de üzüm hasadı öncesi üreticilerin kullandığı yaklaşık 6 kilometrelik güzergahta sathi kaplama çalışması yapıyor.",
-      "content": "MANİSA — Manisa Büyükşehir Belediyesi, Sarıgöl ilçesinde Yeşiltepe, Bahadırlar ve Tekeliler mahallelerini birbirine bağlayan yaklaşık 6 kilometrelik güzergahta emisyonlu sathi kaplama çalışması gerçekleştiriyor.\n\nÜzüm hasadının başladığı Sarıgöl’de yoğun kullanılan güzergâhta yürütülen çalışmayla, üreticilerin bağlarına ve mahallelere ulaşımının daha güvenli hale getirilmesi amaçlanıyor.\n\nManisa Büyükşehir Belediyesi, il genelindeki ulaşım altyapısını güçlendirmeye yönelik çalışmalarını sürdürürken, tarımsal üretimin yoğun olduğu Sarıgöl’de üreticilerin sıklıkla kullandığı yollara da müdahale ediyor.\n\nHasat dönemindeki ulaşım hedefleniyor\n\nYeşiltepe, Bahadırlar ve Tekeliler mahallelerini birbirine bağlayan yaklaşık 6 kilometrelik yolda sürdürülen sathi kaplama çalışmasının özellikle üzüm hasadı döneminde artan araç trafiğinin daha sağlıklı şekilde sürdürülmesine katkı sağlaması hedefleniyor.\n\nÇalışmanın tamamlanmasıyla üreticilerin bağlarına ve mahallelere ulaşımının kolaylaştırılması planlanıyor.\n\nDutlulu: Üreticimizin emeğine sahip çıkıyoruz\n\nManisa Büyükşehir Belediye Başkanı Besim Dutlulu, tarımsal üretimin yoğun olduğu bölgelerde üreticilerin ulaşımını kolaylaştırmak amacıyla yol çalışmalarını sürdürdüklerini belirtti.\n\nSarıgöl’ün önemli geçim kaynaklarından birinin üzüm olduğunu ifade eden Dutlulu, hasat döneminde üreticilerin bağlarına ve ürünlerini taşıyacakları yollara güvenli şekilde ulaşmasının önemine dikkat çekti.\n\nDutlulu, Yeşiltepe, Bahadırlar ve Tekeliler mahallelerini birbirine bağlayan yaklaşık 6 kilometrelik güzergâhta çalışma yürüttüklerini belirterek, “Manisa’nın çiftçisi için çalışmaya, tarımsal üretimin önündeki engelleri ortadan kaldırmaya devam edeceğiz” dedi.\n\nAkdeniz: Çiftçimizin yanındayız\n\nSarıgöl Belediye Başkanı Tahsin Akdeniz de üzüm hasadı döneminin geldiğini belirterek, üreticilerin bağ ve tarlalarına daha kolay ulaşabilmesi amacıyla mahalleler arasındaki yolda sathi kaplama çalışması yapıldığını ifade etti.\n\nAkdeniz, çalışmadan dolayı Manisa Büyükşehir Belediye Başkanı Besim Dutlulu’ya teşekkür etti.\n\nMuhtar: Hasat öncesinde yenilenmesini talep etmiştik\n\nYeşiltepe Mahalle Muhtarı Mustafa Keşkekoğlu, Yeşiltepe, Bahadırlar ve Tekeliler arasındaki yolun bozuk olduğunu belirterek, üzüm hasat dönemi öncesinde yolun yenilenmesini talep ettiklerini söyledi.\n\nKeşkekoğlu, güzergâhta sathi kaplama çalışmasının sürdüğünü belirterek Manisa Büyükşehir Belediye Başkanı Besim Dutlulu ve Sarıgöl Belediye Başkanı Tahsin Akdeniz’e teşekkür etti.\n\nTARIM PUSULASI HABER MERKEZİ"
     },
     {
       "title": "Konya Pancar’ın Mali Genel Kurulu’na bu kare damga vurdu! Erkoyuncu’nun yanındaki isim dikkat çekti",
@@ -339,15 +339,8 @@
   "note": "Fiyatlar TOBB ticaret borsasından (borsa seçilebilir). Kanola manuel (Trakya 2025).",
   "inputsNote": "Mazot: akaryakıt bayi fiyatı, günlük (şehir seçilebilir). Gübre: manuel (yaklaşık).",
   "errors": [
-    "mazot ANKARA: fetch failed",
-    "mazot ISTANBUL: fetch failed",
-    "mazot IZMIR: fetch failed",
-    "mazot KONYA: fetch failed",
-    "mazot ADANA: fetch failed",
-    "mazot BURSA: fetch failed",
-    "mazot ANTALYA: fetch failed",
-    "mazot SAMSUN: fetch failed",
-    "mazot TEKIRDAG: fetch failed",
-    "mazot CANAKKALE: fetch failed"
+    "borsa 5ED10: fetch failed",
+    "borsa 5KO10: fetch failed",
+    "borsa 5ES10: fetch failed"
   ]
 }
