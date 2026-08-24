@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-24T12:02:17.962Z",
+  "updatedAt": "2026-08-24T13:04:50.988Z",
   "fx": [
     {
       "code": "USD",
@@ -11,23 +11,23 @@
     {
       "code": "EUR",
       "name": "Euro",
-      "buy": 56.13,
-      "sell": 56.14,
-      "change": 0.01
+      "buy": 56.15,
+      "sell": 56.16,
+      "change": 0.05
     },
     {
       "code": "GRA",
       "name": "Gram Altın",
-      "buy": 7198.59,
-      "sell": 7199.58,
-      "change": 1.3
+      "buy": 7217.93,
+      "sell": 7218.92,
+      "change": 1.57
     },
     {
       "code": "CEYREKALTIN",
       "name": "Çeyrek Altın",
-      "buy": 11460.4,
-      "sell": 11721.44,
-      "change": 1.56
+      "buy": 11485.08,
+      "sell": 11746.66,
+      "change": 1.78
     },
     {
       "code": "CUMHURIYETALTINI",
@@ -38,6 +38,38 @@
     }
   ],
   "news": [
+    {
+      "title": "Ordu Büyükşehir Belediyesi arıcılara Varroa desteği verecek",
+      "url": "https://www.tarimpusulasi.com/haber/ordu-buyuksehir-belediyesi-aricilara-varroa-destegi-verecek-47495",
+      "source": "Tarım Pusulası",
+      "date": "2026-08-24",
+      "summary": "Ordu Büyükşehir Belediye Başkanı Mehmet Hilmi Güler, Mesudiye’deki bal hasadında arıcılara Varroa ile mücadele için ilaç desteği verileceğini açıkladı.",
+      "content": "ORDU — Ordu’da bal hasadı sürerken, arıcıların önemli sorunlarından biri olan Varroa zararlısıyla mücadele için yeni bir destek açıklaması geldi. Ordu Büyükşehir Belediye Başkanı Dr. Mehmet Hilmi Güler, Mesudiye’de katıldığı bal hasadında, Varroa ile mücadelede kullanılacak ilacın arıcılara Büyükşehir Belediyesi tarafından destek kapsamında sağlanacağını açıkladı.\n\nMesudiye’de düzenlenen bal hasadına katılan Güler, arıcılarla bir araya gelerek kovanların başında bal sağımına eşlik etti. Hasat programında arıcılarla görüşen Güler, Varroa zararlısına karşı kullanılacak ilaç konusunda destek vereceklerini belirtti.\n\nBaşkan Güler, açıklamasında Ordu’nun bal üretimindeki konumuna da değinerek, “Türkiye’de 110 bin ton bal üretiliyor. Ordu olarak biz bunun 17 binini tonu üretiyoruz” ifadelerini kullandı. Güler, Ordu’da 3 bin ailenin baldan geçimini sağladığını belirterek, Büyükşehir Belediyesi olarak arıcıları desteklediklerini söyledi.\n\nVarroa ilacı desteği açıklaması\n\nGüler, arıcılara yönelik destek kapsamında “Üreticilerimize de Varroa ilacını dağıtma müjdesini verdik” dedi.\n\nSöz konusu desteğin arıcıların üretim maliyetlerini azaltmasına ve kolonilerin sağlığının korunmasına katkı sağlaması hedefleniyor. Güler, desteğin yanı sıra bal üretiminin artırılması ve katma değeri yüksek ürünlere geçilmesi amacıyla çalışmalar yürütüldüğünü ifade etti.\n\nOrdu Büyükşehir Belediye Başkanı, kentteki Bal Araştırma Enstitüsü ve bal merkezi ile İl Tarım ve Orman Müdürlüğü ile birlik başkanlığının da içinde bulunduğu bir çalışma yapısına dikkat çekerek, “Hem birinciliği devam ettireceğiz hem de üretimi katma değerli ürünlere dönüştürmek için çalışacağız” diye konuştu.\n\nArıcılar destekten memnun\n\nMesudiye’deki üreticiler de açıklanan Varroa ilacı desteğinin kendileri açısından önemli olduğunu belirtti.\n\nArıcılar, “Varroa ilacında bize destek olacak. Bu bizim için büyük bir sorundu” diyerek Başkan Güler’e teşekkür etti.\n\nProgramda konuşan Ordu İl Tarım ve Orman Müdürü Bayram Ay da arıcılık sektörüne yönelik bakanlık ve il müdürlüğü desteklerinin bulunduğunu belirterek, yerelde Büyükşehir Belediyesi tarafından sağlanan desteklerin önemine dikkat çekti.\n\n“Arıcılığımız daha iyi noktalara gelecek”\n\nArıcılar Birliği Başkanı Akın Çiftçi ise Büyükşehir Belediyesi, birlik ve İl Tarım ve Orman Müdürlüğü iş birliğiyle katma değerli ürünler üretmek için çalışacaklarını söyledi.\n\nÇiftçi, açıklanan ilaç desteğiyle ilgili olarak “İnşallah en kısa zamanda Büyükşehir Belediyemizden ilaç desteğimizi alacağız” ifadelerini kullandı. Arıcılar Birliği Başkanı, desteklerle birlikte Ordu arıcılığının daha iyi noktalara taşınmasını hedeflediklerini belirtti.\n\nOrdu Büyükşehir Belediyesi tarafından yapılan açıklamada, üreticilere yönelik desteklerin yanı sıra Ordu balının marka değerinin artırılması ve daha geniş pazarlara ulaştırılması için çalışmaların sürdürüldüğü belirtildi.\n\nTARIM PUSULASI HABER MERKEZİ"
+    },
+    {
+      "title": "Eskişehir’de üreticilere kooperatifçilik ve pazarlama eğitimi",
+      "url": "https://www.tarimpusulasi.com/haber/eskisehirde-ureticilere-kooperatifcilik-ve-pazarlama-egitimi-47494",
+      "source": "Tarım Pusulası",
+      "date": "2026-08-24",
+      "summary": "Eskişehir Büyükşehir Belediyesi ile Ziraat Mühendisleri Odası iş birliğinde düzenlenen eğitimde üreticilere kooperatifçilik ve tarımsal pazarlama anlatıldı.",
+      "content": "ESKİŞEHİR — Eskişehir Büyükşehir Belediyesi Tarımsal Hizmetler Dairesi Başkanlığı ile TMMOB Ziraat Mühendisleri Odası Eskişehir Şubesi iş birliği ve protokolü kapsamında üreticilere yönelik kooperatifçilik ve tarımsal pazarlama eğitimi düzenlendi.\n\nESMEK Sarıcakaya Eğitim Merkezi’nde gerçekleştirilen eğitimde, üreticilerin kooperatifçilik ve pazarlama konularındaki bilgi birikimlerinin geliştirilmesi hedeflendi.\n\nEğitimin eğitmenliğini Eskişehir Osmangazi Üniversitesi Ziraat Fakültesi Öğretim Üyesi Prof. Dr. Fatma Handan Giray üstlendi. Programa TMMOB Ziraat Mühendisleri Odası Eskişehir Şube Başkanı Selma Güder, Sarıcakaya Ziraat Odası Başkanı Nevzat Aldemir, bölgede faaliyet gösteren tarımsal kooperatiflerin başkan ve üyeleri ile bölgedeki üreticiler katıldı.\n\nÜreticilerin pazarlama gücünün artırılması ele alındı\n\nEğitimde tarımsal kooperatiflerin pazarlama süreçlerindeki rolü, üreticilerin birlikte hareket ederek pazarlama gücünü artırması ve ortak karar alma mekanizmaları ele alındı.\n\nProgramda ayrıca tarımsal ürünlerde katma değer oluşturulması ve üreticilerin pazardaki konumlarının güçlendirilmesine yönelik yaklaşımlar değerlendirildi.\n\nTarımsal üretimde sürdürülebilirliğin ve üretici gelirlerinin artırılmasında kooperatifleşmenin önemine dikkat çekilirken, üreticilerin örgütlü bir yapı içerisinde hareket ederek ürünlerini daha etkin şekilde pazarlayabilmelerine yönelik bilgi ve deneyimler paylaşıldı.\n\nEğitim soru-cevap bölümüyle tamamlandı\n\nEğitimin sonunda gerçekleştirilen soru-cevap bölümünde katılımcılar, kooperatifçilik ve tarımsal ürünlerin pazarlanmasına ilişkin sorularını yöneltti.\n\nKarşılıklı görüş ve deneyimlerin paylaşıldığı bölümle birlikte eğitim tamamlandı.\n\nTARIM PUSULASI HABER MERKEZİ"
+    },
+    {
+      "title": "Dutlulu: Sarıgöl’de üretici için yol çalışması sürüyor",
+      "url": "https://www.tarimpusulasi.com/haber/dutlulu-sarigolde-uretici-icin-yol-calismasi-suruyor-47493",
+      "source": "Tarım Pusulası",
+      "date": "2026-08-24",
+      "summary": "Manisa Büyükşehir Belediyesi, Sarıgöl’de üzüm hasadı öncesi üreticilerin kullandığı yaklaşık 6 kilometrelik güzergahta sathi kaplama çalışması yapıyor.",
+      "content": "MANİSA — Manisa Büyükşehir Belediyesi, Sarıgöl ilçesinde Yeşiltepe, Bahadırlar ve Tekeliler mahallelerini birbirine bağlayan yaklaşık 6 kilometrelik güzergahta emisyonlu sathi kaplama çalışması gerçekleştiriyor.\n\nÜzüm hasadının başladığı Sarıgöl’de yoğun kullanılan güzergâhta yürütülen çalışmayla, üreticilerin bağlarına ve mahallelere ulaşımının daha güvenli hale getirilmesi amaçlanıyor.\n\nManisa Büyükşehir Belediyesi, il genelindeki ulaşım altyapısını güçlendirmeye yönelik çalışmalarını sürdürürken, tarımsal üretimin yoğun olduğu Sarıgöl’de üreticilerin sıklıkla kullandığı yollara da müdahale ediyor.\n\nHasat dönemindeki ulaşım hedefleniyor\n\nYeşiltepe, Bahadırlar ve Tekeliler mahallelerini birbirine bağlayan yaklaşık 6 kilometrelik yolda sürdürülen sathi kaplama çalışmasının özellikle üzüm hasadı döneminde artan araç trafiğinin daha sağlıklı şekilde sürdürülmesine katkı sağlaması hedefleniyor.\n\nÇalışmanın tamamlanmasıyla üreticilerin bağlarına ve mahallelere ulaşımının kolaylaştırılması planlanıyor.\n\nDutlulu: Üreticimizin emeğine sahip çıkıyoruz\n\nManisa Büyükşehir Belediye Başkanı Besim Dutlulu, tarımsal üretimin yoğun olduğu bölgelerde üreticilerin ulaşımını kolaylaştırmak amacıyla yol çalışmalarını sürdürdüklerini belirtti.\n\nSarıgöl’ün önemli geçim kaynaklarından birinin üzüm olduğunu ifade eden Dutlulu, hasat döneminde üreticilerin bağlarına ve ürünlerini taşıyacakları yollara güvenli şekilde ulaşmasının önemine dikkat çekti.\n\nDutlulu, Yeşiltepe, Bahadırlar ve Tekeliler mahallelerini birbirine bağlayan yaklaşık 6 kilometrelik güzergâhta çalışma yürüttüklerini belirterek, “Manisa’nın çiftçisi için çalışmaya, tarımsal üretimin önündeki engelleri ortadan kaldırmaya devam edeceğiz” dedi.\n\nAkdeniz: Çiftçimizin yanındayız\n\nSarıgöl Belediye Başkanı Tahsin Akdeniz de üzüm hasadı döneminin geldiğini belirterek, üreticilerin bağ ve tarlalarına daha kolay ulaşabilmesi amacıyla mahalleler arasındaki yolda sathi kaplama çalışması yapıldığını ifade etti.\n\nAkdeniz, çalışmadan dolayı Manisa Büyükşehir Belediye Başkanı Besim Dutlulu’ya teşekkür etti.\n\nMuhtar: Hasat öncesinde yenilenmesini talep etmiştik\n\nYeşiltepe Mahalle Muhtarı Mustafa Keşkekoğlu, Yeşiltepe, Bahadırlar ve Tekeliler arasındaki yolun bozuk olduğunu belirterek, üzüm hasat dönemi öncesinde yolun yenilenmesini talep ettiklerini söyledi.\n\nKeşkekoğlu, güzergâhta sathi kaplama çalışmasının sürdüğünü belirterek Manisa Büyükşehir Belediye Başkanı Besim Dutlulu ve Sarıgöl Belediye Başkanı Tahsin Akdeniz’e teşekkür etti.\n\nTARIM PUSULASI HABER MERKEZİ"
+    },
+    {
+      "title": "Denizli’de çiftçiye mazot desteği dağıtımı sürüyor",
+      "url": "https://www.tarimpusulasi.com/haber/denizlide-ciftciye-mazot-destegi-dagitimi-suruyor-47492",
+      "source": "Tarım Pusulası",
+      "date": "2026-08-24",
+      "summary": "Denizli Büyükşehir Belediyesi’nin mazot desteği projesinde ilk etap tamamlanırken ikinci hafta dağıtımları 24-28 Ağustos’ta 7 ilçede sürecek.",
+      "content": "DENİZLİ — Denizli Büyükşehir Belediyesi tarafından tarımsal üretimi teşvik etmek ve kent genelinde sürdürülebilir kalkınmaya katkı sağlamak amacıyla yürütülen “Üreticilere Mazot Desteği Projesi” kapsamında dağıtımlar devam ediyor.\n\nKırsal Hizmetler Dairesi Başkanlığı koordinasyonunda yürütülen projenin 3 haftalık planlamasında Beyağaç, Çameli, Bekilli, Baklan, Sarayköy, Kale ve Serinhisar ilçelerindeki ilk etap dağıtımları tamamlandı. Programın ikinci haftasında ise üreticilere yönelik akaryakıt desteği dağıtımları sürdürülecek.\n\nBelediyenin açıklamasına göre ekipler, 24 Ağustos Pazartesi Buldan, 25 Ağustos Tavas, 26 Ağustos Çal, 27 Ağustos Babadağ, 28 Ağustos’ta ise Çardak ve Bozkurt ilçelerinde üreticilere akaryakıt desteklerini teslim edecek.\n\nÇavuşoğlu: Üreticimizin mali yükünü hafifletmek istiyoruz\n\nDenizli Büyükşehir Belediye Başkanı Bülent Nuri Çavuşoğlu, projenin temel amacının üreticilerin artan mazot ve girdi maliyetleri karşısındaki yükünü azaltmak ve tarımsal üretimin devamlılığına katkı sağlamak olduğunu belirtti.\n\nÇavuşoğlu, açıklamasında çiftçilerin alın terine sahip çıkmayı temel görev olarak gördüklerini ifade ederek, “Bu hibe desteğiyle amacımız; hem üreticimizin mali yükünü bir nebze olsun hafifletmek hem de Denizli’mizde bir karış dahi ekilmedik alan bırakmamaktır” dedi.\n\nÇavuşoğlu ayrıca üretimin devam etmesinin Denizli ve Türkiye açısından önemine dikkat çekerek, “Üreticimiz ürettikçe Denizli kazanacak, Türkiye kazanacak” ifadelerini kullandı.\n\nDağıtım takvimi 4 Eylül’de tamamlanacak\n\nDenizli Büyükşehir Belediyesi’nin açıklamasında, il genelindeki saha çalışmasının belirlenen takvim doğrultusunda devam edeceği belirtildi.\n\nProjenin final programının ise 4 Eylül 2026 tarihinde Merkezefendi ve Pamukkale ilçelerinde gerçekleştirileceği bildirildi.\n\nBöylece açıklamada yer alan planlamaya göre mazot desteği dağıtımları, il genelindeki ilçelerde kademeli olarak sürdürülecek.\n\nTARIM PUSULASI HABER MERKEZİ"
+    },
     {
       "title": "Cargill, Dilovası’nda FR3® üretim kapasitesini ikiye çıkardı",
       "url": "https://www.tarimpusulasi.com/haber/cargill-dilovasinda-fr3-uretim-kapasitesini-ikiye-cikardi-47491",
@@ -85,38 +117,6 @@
       "date": "2026-08-23",
       "summary": "Çiftçi ortaklı Tarım Kredi Kooperatifleri Merkez Birliği’nden, 2026’nın ilk yarısında Tarımkredi Yağ’a sermaye artırımı amacıyla 1,25 milyar TL aktarıldı. Ancak şirket aynı dönemde yaklaşık 470 milyon TL zarar ederken, faiz gideri 1 milyar TL’yi aştı. Mali tablolar, Tarım Kredi kaynaklarının zarar e",
       "content": "Haber Merkezi / Çiftçinin finansman ve girdi ihtiyacının arttığı bir dönemde, çiftçi ortaklı Tarım Kredi Kooperatifleri Merkez Birliği'nin iştiraklerine aktardığı kaynaklar dikkat çekiyor. Tarımkredi Yağ'ın 2026 ilk yarı finansal tablolarına göre Merkez Birliği, sermaye artırımı amacıyla şirkete 1 milyar 250 milyon TL sermaye avansı gönderdi. Ancak aynı dönemde şirket 469,9 milyon TL zarar açıkladı.\n\nTürkiye Tarım Kredi Kooperatifleri Merkez Birliği’nin yüzde 100 iştiraki olan Tarımkredi Yağ Sanayi ve Ticaret A.Ş.’nin 30 Haziran 2026 tarihli sınırlı denetimden geçmiş finansal tabloları, şirketin faaliyet ve finansman yapısındaki ciddi baskıyı ortaya koydu.\n\nŞirketin 2026 yılının ilk altı ayında satışları geçen yılın aynı dönemine göre reel olarak sınırlı artış gösterirken, satışların maliyetindeki yükseliş şirketi brüt kardan brüt zarara taşıdı.\n\n3,1 MİLYAR LİRALIK SATIŞA KARŞI 215 MİLYON TL BRÜT ZARAR\n\nTarımkredi Yağ’ın 2026 ilk yarı hasılatı 3 milyar 103,6 milyon TL olarak gerçekleşti. Satışların maliyeti ise 3 milyar 319,2 milyon TL oldu. Böylece şirket 2026’nın ilk altı ayında 215,6 milyon TL brüt zarar yazdı. Oysa 2025’in aynı döneminde şirketin brüt karı 161,7 milyon TL seviyesindeydi.\n\nBu tablo, şirketin zararının yalnızca faiz ve finansman giderlerinden kaynaklanmadığını, ana faaliyet marjında da ciddi bir bozulma yaşandığını gösteriyor.\n\nESAS FAALİYET ZARARI 1 MİLYAR TL’Yİ AŞTI\n\nBrüt zararın üzerine yönetim, pazarlama ve diğer faaliyet giderlerinin eklenmesiyle esas faaliyet zararı daha da büyüdü. Şirketin esas faaliyet zararı 2025’in ilk yarısında 424,7 milyon TL iken, 2026’nın aynı döneminde 1 milyar 62,6 milyon TL’ye çıktı.\n\nEsas faaliyetlerden diğer giderler içinde özellikle vade farkı giderleri 673,5 milyon TL, ertelenmiş finansman giderleri ise 110,2 milyon TL olarak kaydedildi.\n\nFAİZ GİDERİ 1 MİLYAR LİRAYI GEÇTİ\n\nTarımkredi Yağ’ın finansman yükü de mali tabloda dikkat çeken en önemli kalemlerden biri oldu. Şirketin 2026’nın ilk yarısındaki toplam finansman gideri 1 milyar 40,8 milyon TL olarak gerçekleşirken, bunun 1 milyar 21,5 milyon TL’sini faiz giderleri oluşturdu.\n\nGeçen yılın aynı döneminde faiz gideri 717,6 milyon TL düzeyindeydi. Buna göre şirketin altı aylık faiz gideri, aynı dönemde elde edilen 3,1 milyar TL’lik satış gelirinin yaklaşık üçte birine ulaştı.\n\nNakit akış tablosunda ise altı ayda 1 milyar 201,6 milyon TL faiz ödemesi yapıldığı görülüyor.\n\n469,9 MİLYON TL NET ZARAR\n\nŞirket 2026 yılının ilk yarısını 469 milyon 852 bin TL net zararla kapattı. Ancak tablonun dikkat çekici taraflarından biri, TMS 29 enflasyon muhasebesinden kaynaklanan 1 milyar 758,8 milyon TL net parasal pozisyon kazancı oldu.\n\nBu muhasebe etkisi, şirketin faaliyet ve finansman giderlerinin önemli bölümünü dengeledi. Buna rağmen dönem sonunda 469,9 milyon TL zarar oluştu.\n\n2,87 MİLYAR TL’LİK İŞLETME SERMAYESİ AÇIĞI\n\nBilançoda dikkat çeken bir başka önemli gösterge ise kısa vadeli borç ödeme kapasitesi. 30 Haziran 2026 itibarıyla şirketin dönen varlıkları 4 milyar 565,9 milyon TL, kısa vadeli yükümlülükleri ise 7 milyar 435,1 milyon TL seviyesinde bulunuyor.\n\nBuna göre kısa vadeli yükümlülükler dönen varlıkları 2 milyar 869,2 milyon TL aşıyor. Şirket de finansal tablo dipnotlarında bu farkı açıkça kayıt altına aldı. Bu rakamlar üzerinden hesaplandığında şirketin cari oranı yaklaşık 0,61 seviyesinde bulunuyor.\n\nDÖNEN VARLIKLARIN YÜZDE 80’İ STOK\n\nŞirketin dönen varlık yapısında stokların yüksek payı da dikkat çekiyor. 30 Haziran 2026 itibarıyla toplam stoklar 3 milyar 670,5 milyon TL seviyesinde bulunuyor. Dönen varlıkların yaklaşık yüzde 80’ini stoklar oluşturuyor.\n\nStokların kendi içinde dağılımına bakıldığında ise hammadde stoklarının 2,4 milyar TL’den 1,24 milyar TL’ye gerilediği, yarı mamullerin 2,12 milyar TL’den 2,19 milyar TL’ye, mamullerin ise 151,5 milyon TL’den 231,7 milyon TL’ye yükseldiği görülüyor.\n\n1,25 MİLYAR TL SERMAYE AVANSI VERİLDİ\n\nTarım Kredi Kooperatifleri Merkez Birliği’nin 2026 yılında şirkete yaptığı sermaye desteği de bilançonun en dikkat çekici unsurlarından biri oldu.\n\n31 Aralık 2025 itibarıyla şirketin özkaynakları 600,9 milyon TL negatif seviyedeydi. 2026’nın ilk altı ayında Tarım Kredi Kooperatifleri ve Merkez Birliği tarafından şirkete 1 milyar 250 milyon TL sermaye avansı aktarıldı. Raporda söz konusu tutarın sermaye artırımı amacıyla şirkete gönderildiği açıkça belirtiliyor.\n\nBuna rağmen 30 Haziran 2026 itibarıyla şirketin toplam özkaynağı yalnızca 175 milyon TL seviyesinde kaldı.\n\nBaşka bir ifadeyle, şirketin özkaynağının pozitife dönmesinde faaliyetlerden oluşan kardan ziyade ana ortağın yaptığı sermaye enjeksiyonu belirleyici oldu.\n\nGEÇMİŞ YIL ZARARLARI 2,37 MİLYAR TL\n\nŞirketin bilançosunda geçmiş yıllar zararları da 2 milyar 375 milyon TL’ye ulaşmış durumda. Buna 2026 ilk yarısındaki 469,9 milyon TL net dönem zararı da eklendi.\n\nNET BORÇ / ÖZKAYNAK ORANI YÜZDE 2.136\n\nŞirketin finansal risk yönetimi dipnotunda açıklanan verilere göre toplam borçlanmalar 3 milyar 765 milyon"
-    },
-    {
-      "title": "Çankırı Kızılırmak’ta Kavun Hasadı Başladı",
-      "url": "https://www.tarimpusulasi.com/haber/cankiri-kizilirmakta-kavun-hasadi-basladi-47487",
-      "source": "Tarım Pusulası",
-      "date": "2026-08-23",
-      "summary": "Çankırı’nın Kızılırmak ilçesinde kavun hasadı başladı. Üreticiler ürünün aroması ve dayanıklılığından, pazar talebinden ise memnun olduklarını belirtti.",
-      "content": "ÇANKIRI — Çankırı’nın Kızılırmak ilçesinde kavun hasadı başladı. Bölgede yetiştirilen kavunlarda hasat dönemine girilirken, üreticiler ürünün aroması, doğal şeker oranı ve dayanıklılığından memnun olduklarını belirtti.\n\nÇankırı İl Tarım ve Orman Müdürü Latif Candan, Kızılırmak’ta kavun üreticilerini ziyaret ederek tarlada hasada katıldı. Candan, ürünün verim ve kalitesini yerinde inceleyerek üreticilerle sezonu değerlendirdi; üretimde karşılaşılan sorunlar ve çözüm önerileri hakkında bilgi aldı.\n\nCandan, İl ve İlçe Tarım ve Orman Müdürlüğü teknik ekiplerinin kavun üretiminin her aşamasında üreticilerin yanında olduğunu belirterek, “Ekiminden pazarlamasına kadar çiftçilerimizin yanındayız. Teknik ekiplerimizle sezon boyunca sahada üreticilerimize teknik ve pratik bilgiler vererek yardımcı oluyoruz.” dedi.\n\nKızılırmaklı üreticiler, bu yıl kavunun özellikle aroması, doğal şeker oranı ve dayanıklılığıyla öne çıktığını, ürünün pazar talebinden memnun olduklarını ifade etti.\n\nTarla ziyaretinin ardından Kızılırmak ilçe pazarında kavunlarını pazarlayan üreticilerle de bir araya gelen Candan, pazarlama, fiyat, üretim maliyetleri ve hasat döneminde yaşanan sorunlara ilişkin üreticilerin görüşlerini dinledi.\n\nCandan, üreticilerin taleplerini ve önerilerini değerlendirirken, pazarlama sürecinde kooperatifleşmenin önemine dikkat çekti. Üreticilerin emeğinin karşılığını alabilmesi ve ürünlerin daha güçlü pazarlara ulaştırılabilmesi açısından iş birliğinin önem taşıdığını belirtti.\n\nCandan, Kızılırmaklı kavun üreticilerine bol bereketli ve kazançlı bir hasat sezonu diledi.\n\nTARIM PUSULASI HABER MERKEZİ"
-    },
-    {
-      "title": "Çanakkaleli Üretici: “Başta Tedirgindik, Ama Hiç Öyle Olmadı”",
-      "url": "https://www.tarimpusulasi.com/haber/canakkaleli-uretici-basta-tedirgindik-ama-hic-oyle-olmadi-47486",
-      "source": "Tarım Pusulası",
-      "date": "2026-08-23",
-      "summary": "Çanakkale’nin Çan ilçesinde üretici Nagehan Güler, Kırsalda Bereket Projesi kapsamında aldığı 15 Angus’u oğullarıyla birlikte yetiştiriyor.",
-      "content": "ÇANAKKALE — Çanakkale’nin Çan ilçesine bağlı Karlı Köyü’nde üretici Nagehan Güler, Kırsalda Bereket Hayvancılığa Destek Projesi kapsamında aldığı 15 Angus’u oğullarıyla birlikte yetiştiriyor. Güler, TİGEM’den temin ettiği hayvanları 200 dönümlük arazisinde yetiştirdiğini ve üretim sürecinden memnun olduğunu belirtti.\n\nProjeye başvurduğunu ve 15 Angus aldığını anlatan Güler, hayvanların bakımını oğullarıyla birlikte sürdürdüklerini söyledi.\n\nGüler, üretim sürecinin başlangıcında bazı endişeler yaşadıklarını belirterek, “Baştan tedirgin olduk nasıl olacak, nasıl gidecek diye korktuk biraz, kaçırır mıyız, bakamaz mıyız diye. Ama hiç de öyle bir şey yaşamadık.” dedi.\n\nHayvanlarla kurduğu ilişkiyi de anlatan Güler, Anguslara “kızlarım” diye seslendiğini belirterek, “Onlar hemen geliyorlar kapıya.” ifadelerini kullandı.\n\nGüler’in oğlu da hayvanların yetiştirilmesi sürecinde kardeşiyle birlikte annelerine destek olduklarını söyledi. “Biz bu hayvanları annemden istedik, ‘yazılalım alalım’ diye. Bir kardeşim daha var, ikimiz bakıyoruz. Anneme hem çok iş bırakmıyoruz, ailecek yapmaya çalışıyoruz.” dedi.\n\nÜretim sürecinde ikiz buzağılarının da dünyaya geldiğini anlatan Güler, buzağılardan birine Caner, diğerine ise Mehmet adını verdiğini söyledi.\n\nGüler, proje ve üretim sürecine ilişkin değerlendirmesinde ise, “Destek Tarım Bakanlığından, üretmek bizden.” ifadelerini kullandı.\n\nTARIM PUSULASI HABER MERKEZİ"
-    },
-    {
-      "title": "Burdur’da Süt Üreticilerine Yüzde 50 Hibeli Tank Desteği",
-      "url": "https://www.tarimpusulasi.com/haber/burdurda-sut-ureticilerine-yuzde-50-hibeli-tank-destegi-47485",
-      "source": "Tarım Pusulası",
-      "date": "2026-08-23",
-      "summary": "Burdur’da 5-20 sağmal süt sığırı bulunan aile tipi işletmeler için yüzde 50 hibeli 300 litrelik süt soğutma tankı desteğinde başvurular başladı.",
-      "content": "BURDUR — Burdur’da aile tipi büyükbaş süt sığırcılığı işletmelerine yönelik %50 hibeli süt soğutma tankı desteği için başvurular başladı.\n\nProje kapsamında il genelinde faaliyet gösteren, 5-20 sağmal süt sığırı bulunan aile tipi büyükbaş süt sığırı işletmelerine birer adet 300 litrelik süt soğutma tankı desteği sağlanacak.\n\nDestek kapsamında verilecek tankların dikey tip, AISI 304 paslanmaz çelik özellikte ve kontrol panelli olacağı bildirildi.\n\nBaşvurular 28 Ağustos 2026 Cuma günü mesai bitimine kadar işletmenin bağlı bulunduğu İl veya İlçe Tarım ve Orman Müdürlüklerine şahsen yapılabilecek.\n\nBaşvuru süreci ve proje hakkında ayrıntılı bilgi almak isteyen üreticiler, bağlı bulundukları İl veya İlçe Tarım ve Orman Müdürlükleriyle iletişime geçebilecek. Burdur İl Tarım ve Orman Müdürlüğünün iletişim numarası ise 0248 233 10 45 olarak açıklandı.\n\nTARIM PUSULASI HABER MERKEZİ"
-    },
-    {
-      "title": "Bingöl’de 15 Arıcıya Organik Bal İçin Sağım Çadırı Verildi",
-      "url": "https://www.tarimpusulasi.com/haber/bingolde-15-ariciya-organik-bal-icin-sagim-cadiri-verildi-47484",
-      "source": "Tarım Pusulası",
-      "date": "2026-08-23",
-      "summary": "Bingöl’de organik bal üreten 15 üreticiye, yüzde 50 hibe desteğiyle 15 bal sağım çadırı temin edildi; proje destekleri sürüyor.",
-      "content": "BİNGÖL — Bingöl’de organik bal üretimi yapan 15 üreticiye, %50 hibe desteğiyle 15 bal sağım çadırı temin edildi. Tarım ve Orman Bakanlığı Bitkisel Üretim Genel Müdürlüğü tarafından finanse edilen Organik Arıcılığın Geliştirilmesi ve Üreticilerin Desteklenmesi Projesi kapsamında sağlanan desteğin, bal sağım işlemlerinin daha hijyenik ve kontrollü ortamlarda gerçekleştirilmesine katkı sağlaması hedefleniyor.\n\nProje kapsamında 2022 yılından bugüne kadar organik bal üreticilerine %75 hibe desteğiyle toplam 740 organik arı kovanı dağıtıldı. Organik üretimin sürdürülebilirliği açısından önem taşıyan kontrol ve sertifikasyon hizmetleri de proje uygulama yıllarında Bakanlık tarafından %100 oranında desteklendi.\n\nProjenin 2026 yılı uygulaması kapsamında temin edilen bal sağım çadırlarının, ürün kalitesinin korunması ile Bingöl’de üretilen organik balın kalite ve marka değerinin artırılmasına katkı sağlaması amaçlanıyor.\n\nPrograma katılan Bingöl Vali Yardımcısı Ayşegül Tunç, sağlanan desteklerle bal sağım işlemlerinin daha hijyenik ve kontrollü ortamlarda gerçekleştirilmesinin hedeflendiğini belirtti.\n\nTunç, program kapsamında organik bal üreticileriyle bir araya gelerek yürütülen çalışmalar hakkında bilgi aldı; üreticilerin talep, görüş ve önerilerini dinledi.\n\nBingöl’ün zengin florası ve arıcılık potansiyelinin ekonomik değere dönüştürülmesi, organik bal üretiminin yaygınlaştırılması ve üreticilerin gelirlerinin artırılması amacıyla yürütülen proje kapsamında desteklerin önümüzdeki dönemlerde de sürdürülmesi hedefleniyor.\n\nProgramda Bingöl İl Tarım ve Orman Müdürlüğünün idari ve teknik ekipleri de yer alarak üreticilerle bir araya geldi.\n\nTARIM PUSULASI HABER MERKEZİ"
     },
     {
       "title": "Yıllardır yurt dışından inek getiriyoruz! Türkiye’nin inek sayısında ortaya çıkan tablo şaşırttı",
@@ -227,6 +227,15 @@
           "change": 0,
           "source": "Eskişehir TB",
           "date": "2026-05-06"
+        },
+        {
+          "key": "aycicegi",
+          "name": "Ayçiçeği (yağlık)",
+          "unit": "₺/kg",
+          "price": 41.7,
+          "change": 0,
+          "source": "Eskişehir TB",
+          "date": "2026-08-24"
         },
         {
           "key": "kanola",
