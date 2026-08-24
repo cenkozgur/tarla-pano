@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-24T19:33:27.183Z",
+  "updatedAt": "2026-08-24T19:57:08.955Z",
   "fx": [
     {
       "code": "USD",
@@ -11,16 +11,16 @@
     {
       "code": "EUR",
       "name": "Euro",
-      "buy": 56.08,
-      "sell": 56.11,
-      "change": -0.06
+      "buy": 56.1,
+      "sell": 56.12,
+      "change": -0.03
     },
     {
       "code": "GRA",
       "name": "Gram Altın",
-      "buy": 7174.59,
-      "sell": 7175.57,
-      "change": 0.96
+      "buy": 7190.01,
+      "sell": 7190.91,
+      "change": 1.18
     },
     {
       "code": "CEYREKALTIN",
@@ -38,6 +38,14 @@
     }
   ],
   "news": [
+    {
+      "title": "NYT: Savaş ve kuraklık buğday piyasasını zorluyor",
+      "url": "https://www.tarimpusulasi.com/haber/nyt-savas-ve-kuraklik-bugday-piyasasini-zorluyor-47505",
+      "source": "Tarım Pusulası",
+      "date": "2026-08-24",
+      "summary": "The New York Times’a göre savaş, kuraklık ve aşırı hava koşulları, dünyanın önemli buğday üretim ve ticaret bölgelerinde arz ve taşımacılık risklerini artırıyor.",
+      "content": "DÜNYA — Küresel buğday piyasası, üretim bölgelerinde etkili olan kuraklık ve aşırı sıcakların yanı sıra savaşların tahıl ticaretinde oluşturduğu risklerle karşı karşıya. The New York Times’ın 23 Ağustos tarihli haberinde, bu gelişmelerin dünyanın önemli tahıl üretim ve ticaret merkezleri üzerindeki baskıyı artırdığı belirtildi.\n\nHaberde özellikle Karadeniz’deki savaş ortamı, bazı önemli üretim bölgelerindeki olumsuz hava koşulları ve tahıl taşımacılığında kullanılan güzergâhlardaki sorunların aynı dönemde ortaya çıkmasının küresel gıda sistemi açısından risk oluşturduğu aktarıldı.\n\nÜretimde hava koşulları etkili\n\nThe New York Times’ın değerlendirmesine göre, sıcaklık artışları ve kuraklık bazı önemli buğday üretim bölgelerinde verim beklentilerini baskılıyor. Haberde ABD'de son yılların zayıf hasat beklentisine, Avrupa'daki bazı üretim bölgelerinde yaşanan olumsuz koşullara da dikkat çekildi.\n\nBu durum, küresel piyasada yalnızca üretim miktarını değil, dünya ticaretine sunulabilecek buğdayın miktarını da gündeme getiriyor.\n\nKaradeniz'deki gelişmeler ticaret açısından önemli\n\nHaberde, küresel buğday ticaretinin önemli güzergâhlarından biri olan Karadeniz'deki savaşın tahıl sevkiyatları açısından risk oluşturduğu belirtildi. Kızıldeniz'deki güvenlik sorunlarının da gemilerin daha uzun güzergâhlara yönelmesine neden olarak taşımacılık maliyetlerini artırdığı aktarıldı.\n\nBu gelişmeler, buğdayın yalnızca tarladaki üretim maliyetiyle değil, limandan alıcı pazara ulaşana kadar oluşan taşıma maliyetleriyle de şekillendiğini gösteriyor.\n\nSu seviyeleri de taşımacılığı etkiliyor\n\nHaberde ayrıca Avrupa'daki bazı nehirlerde ve Panama Kanalı'nda su seviyelerinin düşmesinin tahıl ve diğer ürünlerin taşınması açısından sorun oluşturabileceği ifade edildi. Panama Kanalı'ndaki gelişmelerin El Niño koşullarıyla bağlantılı olduğu aktarıldı.\n\nBöylece küresel buğday piyasasında üretim, savaş ve lojistik birbirinden bağımsız sorunlar olmaktan çıkıp aynı anda fiyatlama üzerinde etkili olabilecek unsurlar haline geliyor.\n\nÇiftçi açısından asıl mesele: Buğday para edecek mi?\n\nKüresel piyasalardaki bu gelişmelerin üretici açısından önemi, yalnızca dünya genelindeki hasat miktarıyla sınırlı değil.\n\nBir tarafta kuraklık ve sıcaklık nedeniyle üretim riski, diğer tarafta savaş nedeniyle ticaret yollarında yaşanan sorunlar bulunuyor. Ürünün üretimden pazara ulaşma maliyetindeki değişimler de fiyat oluşumunda etkili oluyor.\n\nDolayısıyla dünya buğday piyasasında önümüzdeki dönemde üretim kadar arzın pazara hangi maliyetle ulaşacağı da yakından izlenecek.\n\nKaynak: The New York Times\n\nTARIM PUSULASI HABER MERKEZİ"
+    },
     {
       "title": "Almanya'da yem kıtlığı sığır sürülerini küçültüyor",
       "url": "https://www.tarimpusulasi.com/haber/almanyada-yem-kitligi-sigir-surulerini-kucultuyor-47504",
@@ -93,14 +101,6 @@
       "date": "2026-08-24",
       "summary": "Rusya, 2025/26 tarım sezonunda 46,5 milyon ton buğday ihraç ederek dünya pazarındaki lider konumunu sürdürdü. Türkiye’ye yapılan buğday ihracatı ise önceki sezona göre 2,2 kat artarak yaklaşık 7,3 milyon tona ulaştı.",
       "content": "MOSKOVA — Rusya, yüksek rekabetin yaşandığı 2025/26 tarım sezonunda dünya buğday ihracatındaki liderliğini korudu. Rusya Federal Agroexport Merkezi'nin Interfax'a yaptığı açıklamaya göre ülke, temmuz-haziran dönemini kapsayan sezonda yurt dışına 46,5 milyon ton buğday gönderdi.\n\nAgroexport, Rusya'nın ihracat performansında 2025 yılında buğday üretiminin 8,5 milyon ton artarak 91,1 milyon tona yükselmesinin yanı sıra geleneksel alıcılardan gelen talep artışının da etkili olduğunu belirtti.\n\nTürkiye'ye buğday ihracatı 2,2 kat arttı\n\nRusya'nın önemli ticaret ortakları arasında Türkiye de yer aldı. 2025/26 tarım sezonunda Rusya'nın Türkiye'ye buğday ihracatı, bir önceki sezona göre 2,2 kat artarak yaklaşık 7,3 milyon tona ulaştı.\n\nSudan'a yapılan buğday ihracatı da aynı dönemde iki katına çıkarak 2,2 milyon tona yükseldi.\n\nAgroexport'un verilerine göre Rusya'nın buğday satışlarını artırdığı diğer önemli pazarlar arasında Mısır ve İsrail de bulunuyor. Mısır'a yapılan ihracat yüzde 6, İsrail'e yapılan ihracat ise yüzde 21 arttı.\n\nIrak pazarı Rus buğdayına açıldı\n\nAgroexport, 2025/26 sezonunun Rusya açısından önemli gelişmelerinden birinin Irak pazarına yönelik düzenli buğday sevkiyatlarının başlaması olduğunu bildirdi.\n\nMerkez tarafından yapılan değerlendirmeye göre Rus buğdayının Irak pazarına erişimi daha önce mümkün olmasına rağmen önceki sezonlarda bu ülkeye önemli ve düzenli miktarlarda sevkiyat yapılmadı. 2025/26 sezonunda ise Irak'a yaklaşık 560 bin ton buğday gönderildi.\n\nBu miktar, bir önceki sezondaki 82 bin tonluk sevkiyatın oldukça üzerinde gerçekleşti.\n\nRusya'nın ihracatı bir önceki sezonu da aştı\n\nRusya'nın 2024/25 tarım sezonundaki buğday ihracatı 44 milyon ton olarak açıklanmıştı.\n\n2025/26 sezonunda ulaşılan 46,5 milyon tonluk ihracat, böylece önceki sezona göre daha yüksek bir seviyeye çıktı.\n\nAB ve Kanada da başlıca ihracatçılar arasında\n\nRusya'nın yanı sıra Avrupa Birliği ve Kanada da 2025/26 sezonunda dünya buğday pazarının başlıca tedarikçileri arasında yer aldı.\n\nAgroexport'un ABD Tarım Bakanlığı (USDA) verilerine dayandırdığı bilgilere göre, Avrupa Birliği'nin buğday ihracatı 31,5 milyon ton, Kanada'nın ihracatı ise 29,6 milyon ton oldu.\n\nBu veriler, Rusya'nın 2025/26 sezonunda dünya buğday ihracatındaki konumunu koruduğunu ve Türkiye'nin de Rus buğdayının önemli alıcılarından biri olduğunu gösteriyor.\n\nTARIM PUSULASI HABER MERKEZİ"
-    },
-    {
-      "title": "USDA Rusya’nın mısır rekorunu yükseltti, AB tahminini düşürdü",
-      "url": "https://www.tarimpusulasi.com/haber/usda-rusyanin-misir-rekorunu-yukseltti-ab-tahminini-dusurdu-47497",
-      "source": "Tarım Pusulası",
-      "date": "2026-08-24",
-      "summary": "ABD Tarım Bakanlığı (USDA), 2026/27 pazarlama yılı için Rusya’nın mısır üretim tahminini 17,2 milyon tona yükseltirken, Avrupa Birliği’nin üretim beklentisini 50,2 milyon tona indirdi. Tahminlerdeki farklılaşmada hava koşulları etkili oldu.",
-      "content": "MOSKOVA — ABD Tarım Bakanlığı (USDA), 2026/27 pazarlama yılına ilişkin mısır üretim tahminlerinde Rusya ve Avrupa Birliği için farklı yönlerde revizyona gitti. USDA'nın ağustos ayı World Agricultural Production raporunda Rusya'nın mısır üretim tahmini 17,2 milyon tona yükseltilirken, Avrupa Birliği'nin üretim beklentisi 50,2 milyon tona düşürüldü.\n\nRusya için açıklanan 17,2 milyon tonluk üretim tahmini, temmuz ayındaki beklentinin yüzde 9, geçen yılki üretimin ise yüzde 16 üzerinde bulunuyor. Bu seviyenin gerçekleşmesi halinde Rusya'nın 2026/27 pazarlama yılında rekor mısır üretimine ulaşması bekleniyor.\n\nRusya'da üretim tahmini yükseldi\n\nUSDA, Rusya'nın mısır verim tahminini de bir önceki aya göre yüzde 9 artırarak hektar başına 6,88 tona çıkardı. Hasat alanının 2,5 milyon hektar seviyesinde kalması beklenirken, bu alanın geçen yıla göre yüzde 9 daha yüksek olacağı öngörüldü.\n\nÜretim tahminindeki artışın temel nedeni, Rusya'nın başlıca mısır üretim bölgelerindeki hava koşullarının olumlu seyretmesi olarak gösterildi. Mayıs, haziran, temmuz ve ağustos ayının başında yağışların çoğunlukla normalin üzerinde gerçekleşmesinin bitkilerin ihtiyaç duyduğu nemi sağladığı belirtildi.\n\nMısırın şu anda verim oluşumu açısından kritik olan çiçeklenmeden tane dolumunun başlangıcına kadar olan dönemde bulunduğu kaydedildi. Uydu tabanlı Evaporatif Stres Endeksi'nin de bitkilerde stres belirtisi göstermediği aktarıldı.\n\nAB'nin mısır üretim tahmini geriledi\n\nUSDA, Avrupa Birliği'nin 2026/27 sezonuna ilişkin mısır üretim tahminini ise bir ayda yüzde 7 düşürerek 50,2 milyon tona çekti. Bu tahmin, geçen yılki üretimin yüzde 12 altında bulunurken, son beş yıllık ortalamanın da yüzde 17 gerisinde kaldı.\n\nTahminin gerçekleşmesi halinde AB'nin mısır üretiminin 2007/08 sezonundan bu yana en düşük seviyeye gerilemesi bekleniyor.\n\nAB'de hasat alanının da 7,5 milyon hektara düşeceği tahmin edildi. Bu rakamın 1990/91 sezonundan bu yana en düşük seviye olacağı belirtildi. Verim tahmini ise hektar başına 6,74 ton olarak açıklandı. Bu değer temmuz tahmininin yüzde 5, geçen yılki verimin ise yüzde 3 altında bulunuyor.\n\nBatı Avrupa'daki sıcak ve kurak hava etkili oldu\n\nAB'deki üretim tahmininin aşağı çekilmesinde Batı Avrupa'da uzun süren sıcak hava ve kuraklık etkili oldu. Mısırın 35 derecenin üzerindeki uzun süreli sıcaklıklara karşı hassas olduğu ve üretim döneminde yüksek miktarda neme ihtiyaç duyduğu belirtildi.\n\nKuraklık nedeniyle bazı dane mısır ekili alanlarının silaj üretimine yönlendirildiği aktarıldı.\n\nEn ciddi kayıpların Fransa ve Macaristan'da yaşanması bekleniyor. USDA, Fransa'nın mısır üretim tahminini 1,5 milyon ton, Macaristan'ın tahminini ise 1,2 milyon ton düşürdü. Polonya, Slovakya ve Avusturya için de üretim tahminleri aşağı yönlü revize edildi.\n\nBulgaristan'ın üretim tahmini ise daha elverişli hava koşulları nedeniyle yükseltildi.\n\nTARIM PUSULASI HABER MERKEZİ"
     },
     {
       "title": "Konya Pancar’ın Mali Genel Kurulu’na bu kare damga vurdu! Erkoyuncu’nun yanındaki isim dikkat çekti",
