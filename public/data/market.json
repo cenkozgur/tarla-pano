@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-24T08:01:52.289Z",
+  "updatedAt": "2026-08-24T08:57:03.732Z",
   "fx": [
     {
       "code": "USD",
@@ -161,10 +161,10 @@
           "key": "aycicegi",
           "name": "Ayçiçeği (yağlık)",
           "unit": "₺/kg",
-          "price": 40,
-          "change": 0,
+          "price": 41.3,
+          "change": 3.25,
           "source": "Edirne TB",
-          "date": "2026-08-21"
+          "date": "2026-08-24"
         },
         {
           "key": "kanola",
@@ -262,10 +262,10 @@
       "key": "aycicegi",
       "name": "Ayçiçeği (yağlık)",
       "unit": "₺/kg",
-      "price": 40,
-      "change": 0,
+      "price": 41.3,
+      "change": 3.25,
       "source": "Edirne TB",
-      "date": "2026-08-21"
+      "date": "2026-08-24"
     },
     {
       "key": "kanola",
@@ -330,15 +330,6 @@
   "note": "Fiyatlar TOBB ticaret borsasından (borsa seçilebilir). Kanola manuel (Trakya 2025).",
   "inputsNote": "Mazot: akaryakıt bayi fiyatı, günlük (şehir seçilebilir). Gübre: manuel (yaklaşık).",
   "errors": [
-    "mazot ANKARA: fetch failed",
-    "mazot ISTANBUL: fetch failed",
-    "mazot IZMIR: fetch failed",
-    "mazot KONYA: fetch failed",
-    "mazot ADANA: fetch failed",
-    "mazot BURSA: fetch failed",
-    "mazot ANTALYA: fetch failed",
-    "mazot SAMSUN: fetch failed",
-    "mazot TEKIRDAG: fetch failed",
-    "mazot CANAKKALE: fetch failed"
+    "fx: fetch failed"
   ]
 }
