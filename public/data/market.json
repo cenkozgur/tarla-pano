@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-25T13:56:42.353Z",
+  "updatedAt": "2026-08-25T14:49:36.963Z",
   "fx": [
     {
       "code": "USD",
@@ -11,30 +11,30 @@
     {
       "code": "EUR",
       "name": "Euro",
-      "buy": 56.17,
-      "sell": 56.17,
-      "change": 0.11
+      "buy": 56.18,
+      "sell": 56.19,
+      "change": 0.13
     },
     {
       "code": "GRA",
       "name": "Gram Altın",
-      "buy": 7129.49,
-      "sell": 7130.38,
-      "change": -0.84
+      "buy": 7169.32,
+      "sell": 7170.19,
+      "change": -0.28
     },
     {
       "code": "CEYREKALTIN",
       "name": "Çeyrek Altın",
-      "buy": 11366.96,
-      "sell": 11628.35,
-      "change": -0.95
+      "buy": 11392.54,
+      "sell": 11652.08,
+      "change": -0.75
     },
     {
       "code": "CUMHURIYETALTINI",
       "name": "Cumhuriyet Altını",
-      "buy": 47364,
-      "sell": 48080,
-      "change": -0.62
+      "buy": 47074,
+      "sell": 47790,
+      "change": -1.22
     }
   ],
   "news": [
@@ -232,10 +232,10 @@
           "key": "aycicegi",
           "name": "Ayçiçeği (yağlık)",
           "unit": "₺/kg",
-          "price": 41.7,
-          "change": 0,
+          "price": 36.57,
+          "change": -12.3,
           "source": "Eskişehir TB",
-          "date": "2026-08-24"
+          "date": "2026-08-25"
         },
         {
           "key": "kanola",
