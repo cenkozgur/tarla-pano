@@ -1,33 +1,33 @@
 {
-  "updatedAt": "2026-08-25T12:03:49.446Z",
+  "updatedAt": "2026-08-25T13:03:59.229Z",
   "fx": [
     {
       "code": "USD",
       "name": "Dolar",
-      "buy": 48.09,
+      "buy": 48.1,
       "sell": 48.1,
       "change": 0.05
     },
     {
       "code": "EUR",
       "name": "Euro",
-      "buy": 56.13,
-      "sell": 56.13,
-      "change": 0.04
+      "buy": 56.15,
+      "sell": 56.16,
+      "change": 0.07
     },
     {
       "code": "GRA",
       "name": "Gram Altın",
-      "buy": 7175.18,
-      "sell": 7176.08,
-      "change": -0.2
+      "buy": 7164.94,
+      "sell": 7165.9,
+      "change": -0.34
     },
     {
       "code": "CEYREKALTIN",
       "name": "Çeyrek Altın",
-      "buy": 11417.56,
-      "sell": 11677.66,
-      "change": -0.53
+      "buy": 11412.51,
+      "sell": 11674.92,
+      "change": -0.55
     },
     {
       "code": "CUMHURIYETALTINI",
@@ -38,6 +38,14 @@
     }
   ],
   "news": [
+    {
+      "title": "Çumra’da 700 metrekare alanda safran ekimi yapıldı",
+      "url": "https://www.tarimpusulasi.com/haber/cumrada-700-metrekare-alanda-safran-ekimi-yapildi-47513",
+      "source": "Tarım Pusulası",
+      "date": "2026-08-25",
+      "summary": "Konya’nın Çumra ilçesinde genç kadın girişimci ziraat mühendisine ait 700 metrekarelik alanda safran ekimi gerçekleştirildi.",
+      "content": "KONYA — Konya’nın Çumra ilçesine bağlı Karkın Mahallesi’nde genç kadın girişimci ziraat mühendisine ait 700 metrekarelik alanda safran ekimi gerçekleştirildi.\n\nÇumra İlçe Tarım ve Orman Müdürü Hüseyin Yasin Düğmeci, teknik personel ile Konya Büyükşehir Belediyesi teknik personelinin katıldığı çalışmada girişimci üreticiyle tarlada bir araya gelindi.\n\nEkim çalışması sırasında safran yetiştiriciliği, bakım uygulamaları ve verimlilik konusunda üreticiye teknik bilgiler aktarıldı.\n\nSafran alternatif tarımsal üretim kapsamında değerlendiriliyor\n\nKonya İl Tarım ve Orman Müdürlüğünün açıklamasında, bölgede küçük aile işletmelerinin alternatif tarım ürünleri kapsamında güçlendirilmesi, üreticilerin emeğine değer katılması ve tarımsal üretimin geliştirilmesine yönelik çalışmaların sürdürüldüğü belirtildi.\n\nÇumra’daki çalışmanın da bu kapsamda gerçekleştirildiği bildirildi.\n\nSafran ekiminin gerçekleştirildiği alanın genç kadın girişimci bir ziraat mühendisine ait olduğu belirtildi.\n\nTARIM PUSULASI HABER MERKEZİ"
+    },
     {
       "title": "Bayburt’ta 430 kovanda bal sağımı gerçekleştirildi",
       "url": "https://www.tarimpusulasi.com/haber/bayburtta-430-kovanda-bal-sagimi-gerceklestirildi-47512",
@@ -109,14 +117,6 @@
       "date": "2026-08-25",
       "summary": "Kahta Ziraat Odası Başkanı Fatin Rüştü Zorlu Turanlı, 2026 badem hasadı öncesinde Tarım Kredi Kooperatifleri ve ilgili kurumlara çağrıda bulundu. Rekoltenin 25 bin tondan 18–20 bin tona gerilemesinin beklendiğini belirten Turanlı, badem alım fiyatlarının hasattan önce açıklanmasını ve hasat dönemind",
       "content": "Haber Merkezi / Adıyaman’ın önemli badem üretim merkezlerinden Kahta’da üreticiler, 2026 hasat sezonuna belirsizlik içinde hazırlanıyor. Kahta Ziraat Odası Başkanı Fatin Rüştü Zorlu Turanlı, hem fiyat politikasına hem de ithalat uygulamalarına ilişkin dikkat çeken çağrılarda bulundu.\n\nTuranlı, badem üreticisinin en büyük sorununun hasat döneminde yaşanan fiyat belirsizliği olduğunu belirterek, Tarım Kredi Kooperatifleri başta olmak üzere alım yapan kurumların fiyatları hasattan önce açıklaması gerektiğini söyledi.\n\n“Üretici ne üreteceğini ve ürününü kaça satacağını önceden bilmelidir. Hasat döneminde oluşan fiyat belirsizliği kabul edilemez.”\n\nRekolte 18–20 bin tona gerileyebilir\n\nAdıyaman’da 2025 yılında yaklaşık 25 bin ton olan badem üretiminin, bu yıl 18–20 bin ton seviyesine düşmesinin beklendiğini ifade eden Turanlı, ekonomik nedenlerle yapılan bahçe sökümleri ile çiçeklenme dönemindeki aşırı yağışların üretimi olumsuz etkilediğini söyledi.\n\nYaklaşık 5–7 bin tonluk üretim kaybı beklendiğini belirten Turanlı, bunun sektör açısından ciddi bir uyarı niteliği taşıdığını kaydetti.\n\n“5 bin dönüm bahçe söküldü”\n\nGeçen yıl Adıyaman’da yaklaşık 5 bin dönüm badem bahçesinin söküldüğünü hatırlatan Turanlı, bu eğilimin sürmesi halinde üretimde daha büyük kayıpların yaşanacağını söyledi.\n\n“Bugün sökülen bir bahçenin yerine kısa sürede yenisini koymak mümkün değildir.”\n\n“Badem bahçeleri milli servettir”\n\nBadem üretiminin yalnızca çiftçiyi değil, ülke ekonomisini de ilgilendirdiğini vurgulayan Turanlı, üreticinin zarar etmesi nedeniyle bahçelerin sökülmesinin yapısal bir soruna işaret ettiğini belirtti.\n\n“Bu bahçeler milli servettir. Üretimi kaybedersek ithalata bağımlı hale geliriz.”\n\nHasat döneminde ithalat uyarısı\n\nKahta Ziraat Odası Başkanı, özellikle yerli üreticinin ürününü pazara sunduğu hasat döneminde ithal bademin fiyatları baskıladığını belirterek gümrük vergilerinin artırılması ve ithalatın kontrol altına alınması gerektiğini söyledi.\n\n“Hiç olmazsa hasat döneminde ithal bademin gümrük vergileri artırılmalı. Yerli üreticimiz ürününü pazarlarken ithal ürünle rekabet etmek zorunda bırakılmamalıdır.”\n\n“Maliyetler esas alınmalı”\n\nArtan gübre, sulama ve işçilik maliyetlerine dikkat çeken Turanlı, badem alım fiyatlarının üretim maliyetleri dikkate alınarak belirlenmesini istedi.\n\nTarım Kredi Kooperatifleri ve ilgili kurumlara çağrıda bulunan Turanlı, sürdürülebilir bir alım politikası oluşturulmasının hem üreticinin hem de sektörün geleceği açısından zorunlu olduğunu ifade etti.\n\nAçıklamasını, “Üretici kazanmazsa üretim azalır, üretim azalırsa ithalat artar. Badem üreticisini korumak, Türkiye’nin tarımsal geleceğini korumaktır” sözleriyle tamamladı."
-    },
-    {
-      "title": "NYT: Savaş ve kuraklık buğday piyasasını zorluyor",
-      "url": "https://www.tarimpusulasi.com/haber/nyt-savas-ve-kuraklik-bugday-piyasasini-zorluyor-47505",
-      "source": "Tarım Pusulası",
-      "date": "2026-08-24",
-      "summary": "The New York Times’a göre savaş, kuraklık ve aşırı hava koşulları, dünyanın önemli buğday üretim ve ticaret bölgelerinde arz ve taşımacılık risklerini artırıyor.",
-      "content": "DÜNYA — Küresel buğday piyasası, üretim bölgelerinde etkili olan kuraklık ve aşırı sıcakların yanı sıra savaşların tahıl ticaretinde oluşturduğu risklerle karşı karşıya. The New York Times’ın 23 Ağustos tarihli haberinde, bu gelişmelerin dünyanın önemli tahıl üretim ve ticaret merkezleri üzerindeki baskıyı artırdığı belirtildi.\n\nHaberde özellikle Karadeniz’deki savaş ortamı, bazı önemli üretim bölgelerindeki olumsuz hava koşulları ve tahıl taşımacılığında kullanılan güzergâhlardaki sorunların aynı dönemde ortaya çıkmasının küresel gıda sistemi açısından risk oluşturduğu aktarıldı.\n\nÜretimde hava koşulları etkili\n\nThe New York Times’ın değerlendirmesine göre, sıcaklık artışları ve kuraklık bazı önemli buğday üretim bölgelerinde verim beklentilerini baskılıyor. Haberde ABD'de son yılların zayıf hasat beklentisine, Avrupa'daki bazı üretim bölgelerinde yaşanan olumsuz koşullara da dikkat çekildi.\n\nBu durum, küresel piyasada yalnızca üretim miktarını değil, dünya ticaretine sunulabilecek buğdayın miktarını da gündeme getiriyor.\n\nKaradeniz'deki gelişmeler ticaret açısından önemli\n\nHaberde, küresel buğday ticaretinin önemli güzergâhlarından biri olan Karadeniz'deki savaşın tahıl sevkiyatları açısından risk oluşturduğu belirtildi. Kızıldeniz'deki güvenlik sorunlarının da gemilerin daha uzun güzergâhlara yönelmesine neden olarak taşımacılık maliyetlerini artırdığı aktarıldı.\n\nBu gelişmeler, buğdayın yalnızca tarladaki üretim maliyetiyle değil, limandan alıcı pazara ulaşana kadar oluşan taşıma maliyetleriyle de şekillendiğini gösteriyor.\n\nSu seviyeleri de taşımacılığı etkiliyor\n\nHaberde ayrıca Avrupa'daki bazı nehirlerde ve Panama Kanalı'nda su seviyelerinin düşmesinin tahıl ve diğer ürünlerin taşınması açısından sorun oluşturabileceği ifade edildi. Panama Kanalı'ndaki gelişmelerin El Niño koşullarıyla bağlantılı olduğu aktarıldı.\n\nBöylece küresel buğday piyasasında üretim, savaş ve lojistik birbirinden bağımsız sorunlar olmaktan çıkıp aynı anda fiyatlama üzerinde etkili olabilecek unsurlar haline geliyor.\n\nÇiftçi açısından asıl mesele: Buğday para edecek mi?\n\nKüresel piyasalardaki bu gelişmelerin üretici açısından önemi, yalnızca dünya genelindeki hasat miktarıyla sınırlı değil.\n\nBir tarafta kuraklık ve sıcaklık nedeniyle üretim riski, diğer tarafta savaş nedeniyle ticaret yollarında yaşanan sorunlar bulunuyor. Ürünün üretimden pazara ulaşma maliyetindeki değişimler de fiyat oluşumunda etkili oluyor.\n\nDolayısıyla dünya buğday piyasasında önümüzdeki dönemde üretim kadar arzın pazara hangi maliyetle ulaşacağı da yakından izlenecek.\n\nKaynak: The New York Times\n\nTARIM PUSULASI HABER MERKEZİ"
     },
     {
       "title": "Konya Pancar’ın Mali Genel Kurulu’na bu kare damga vurdu! Erkoyuncu’nun yanındaki isim dikkat çekti",
