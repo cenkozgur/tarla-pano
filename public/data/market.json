@@ -1,43 +1,59 @@
 {
-  "updatedAt": "2026-08-25T11:05:21.452Z",
+  "updatedAt": "2026-08-25T11:44:34.663Z",
   "fx": [
     {
       "code": "USD",
       "name": "Dolar",
       "buy": 48.09,
-      "sell": 48.11,
+      "sell": 48.1,
       "change": 0.05
     },
     {
       "code": "EUR",
       "name": "Euro",
       "buy": 56.13,
-      "sell": 56.14,
-      "change": 0.05
+      "sell": 56.13,
+      "change": 0.03
     },
     {
       "code": "GRA",
       "name": "Gram Altın",
-      "buy": 7174.42,
-      "sell": 7175.37,
-      "change": -0.21
+      "buy": 7179.3,
+      "sell": 7180.28,
+      "change": -0.14
     },
     {
       "code": "CEYREKALTIN",
       "name": "Çeyrek Altın",
-      "buy": 11421.12,
-      "sell": 11681.3,
-      "change": -0.5
+      "buy": 11422.92,
+      "sell": 11683.13,
+      "change": -0.48
     },
     {
       "code": "CUMHURIYETALTINI",
       "name": "Cumhuriyet Altını",
-      "buy": 47309,
-      "sell": 48024,
-      "change": -0.74
+      "buy": 47364,
+      "sell": 48080,
+      "change": -0.62
     }
   ],
   "news": [
+    {
+      "title": "Düzce’de TMO fındık alım sezonuna kilosu 255 liradan almaya başladı",
+      "url": "https://www.tarimpusulasi.com/haber/duzcede-tmo-findik-alim-sezonuna-kilosu-255-liradan-almaya-basladi-47511",
+      "source": "Tarım Pusulası",
+      "date": "2026-08-25",
+      "summary": "TMO, Düzce’de 2026 sezonu kabuklu fındık alımlarına başladı. Giresun kalite fındık için 255 TL/kg, Levant için 250 TL/kg fiyat uygulanıyor.",
+      "content": "DÜZCE — Toprak Mahsulleri Ofisi (TMO), 2026/2027 sezonu kabuklu fındık alımlarına Düzce’de başladı. TMO’nun 2026 yılı için belirlediği alım fiyatları Giresun kalite fındıkta 255 TL/kg, Levant kalite fındıkta 250 TL/kg, Sivri ve diğer kalite fındıklarda ise 245 TL/kg olarak uygulanıyor.\n\nDüzce Çilimli Topçular’da bulunan TMO fındık alım deposunda sezonun ilk alımları gerçekleştirilirken, AK Parti MKYK Üyesi Düzce Milletvekili Ayşe Keşir, Düzce Milletvekili Ercan Öztürk ve Düzce İl Tarım ve Orman Müdürü Esra Uzun alım sürecini yerinde inceledi. Heyete TMO Sakarya Başmüdürü Dursun Esen de eşlik etti.\n\nTMO fındık alımında kalite kriterleri\n\nTMO tarafından alıma sunulacak fındıklarda belirli kalite kriterleri aranıyor. Buna göre ürünlerde rutubet oranının yüzde 6,5’e kadar, sağlam iç fındık oranının yüzde 40 ve üzeri, buruşuk iç fındık oranının yüzde 10 ve altı, çürük ve bozuk iç fındık oranının yüzde 7 ve altı, yabancı madde oranının ise yüzde 0,5 ve altında olması gerekiyor.\n\nBelirlenen kriterleri karşılayan ve Çiftçi Kayıt Sistemi’ne (ÇKS) kayıtlı olan fındıklar TMO tarafından satın alınıyor.\n\nAlım sürecinde üreticilerin randevu sistemiyle getirdiği ürünlerin teslim alınması, numune alınması, nem ve kalite kriterlerinin belirlenmesi ile fiyatlandırma işlemleri gerçekleştiriliyor.\n\nDüzce’de 2025’te 53 bin 723 ton fındık üretildi\n\nDüzce İl Tarım ve Orman Müdürlüğünün açıklamasında yer verilen 2025 yılı TÜİK verilerine göre, Düzce’de 631 bin 347 dekar alanda 53 bin 723 ton fındık üretildi. Düzce, bu üretim miktarıyla Türkiye genelinde 5’inci sırada yer aldı.\n\nİl Müdürlüğünün 2026 yılı rekolte tahmin çalışmalarına göre ise Düzce’de 102 bin 71 ton fındık üretimi bekleniyor.\n\nÜreticinin ürününü değerlendirebileceği alternatif vurgusu\n\nDüzce Milletvekili Ayşe Keşir, TMO’nun piyasada önemli bir denge unsuru olduğunu belirterek üreticilerin ürünlerini değerinde pazarlayabilmesinin önemine dikkat çekti.\n\nDüzce Milletvekili Ercan Öztürk de TMO alımlarının üreticiler açısından alternatif oluşturduğunu ifade etti.\n\nDüzce İl Tarım ve Orman Müdürü Esra Uzun ise fındığın Düzce tarımı açısından önemli ürünlerden biri olduğunu belirterek, ürünün değerinde pazarlanması ve sağlıklı piyasa koşullarının oluşmasının önem taşıdığını söyledi. Uzun, üreticilerin ürünlerini açıklanan alım kriterlerine uygun şekilde hazırlayarak randevu günlerinde teslim etmelerinin sürecin sağlıklı yürütülmesine katkı sağlayacağını kaydetti.\n\nTARIM PUSULASI HABER MERKEZİ"
+    },
+    {
+      "title": "Trabzon’da küçükbaş yetiştiricilere portatif barınak desteği",
+      "url": "https://www.tarimpusulasi.com/haber/trabzonda-kucukbas-yetistiricilere-portatif-barinak-destegi-47510",
+      "source": "Tarım Pusulası",
+      "date": "2026-08-25",
+      "summary": "Trabzon’da küçükbaş hayvancılığın geliştirilmesi amacıyla yürütülen proje kapsamında yetiştiricilere portatif barınak ve ekipman desteği sağlandı.",
+      "content": "Harun GÖKSEL / TRABZON — Trabzon’da küçükbaş hayvancılığın geliştirilmesi amacıyla yürütülen proje kapsamında yetiştiricilere portatif barınak ve çeşitli ekipmanlar teslim edildi.\n\nTrabzon İl Tarım ve Orman Müdürlüğü tarafından projelendirilen, Doğu Karadeniz Projesi Bölge Kalkınma İdaresi Başkanlığı (DOKAP) ve Trabzon Damızlık Koyun ve Keçi Yetiştiricileri Birliği tarafından finanse edilen “Küçükbaş Hayvancılığın Geliştirilmesi Projesi” kapsamında portatif barınak ve ekipman dağıtım töreni düzenlendi.\n\nTörende konuşan Trabzon İl Tarım ve Orman Müdürü İsa Kaplan, projenin küçükbaş hayvancılığın geliştirilmesi, yetiştiricilerin üretim şartlarının iyileştirilmesi ve işletmelerin daha modern imkânlara kavuşturulması amacı taşıdığını belirtti.\n\nKaplan, özellikle yayla alanlarında hayvanların barınma ihtiyaçlarının karşılanmasına yönelik desteğin üreticilerin ihtiyaçlarına doğrudan katkı sağlamasının hedeflendiğini ifade etti.\n\nYaylalardaki barınma ihtiyacına yönelik destek\n\nProje kapsamında sağlanan portatif barınak ve ekipmanlarla küçükbaş hayvan yetiştiricilerinin işletme koşullarının iyileştirilmesi ve hayvan refahının artırılması hedefleniyor.\n\nDesteklerin aynı zamanda mera alanlarının korunmasına katkı sağlaması ve yaylalarda otlatılan hayvanların geçici barınak ihtiyacının karşılanması amaçlanıyor.\n\nTörende sektörün ihtiyaçları değerlendirildi\n\nDağıtım törenine DOKAP Başkanı Hakan Gültekin, AK Parti İl Başkan Yardımcısı Serdar Topaçlıoğlu, Trabzon Büyükşehir Belediyesi Tarım Dairesi Başkanı Bülent Sağıroğlu, SÜMAE Müdürü Nazlı Kasapoğlu, MÜSİAD Trabzon Şube Başkanı Avukat Mesut İskenderoğlu, Akçaabat Ziraat Odası Başkanı Mustafa Hikmet Eyüpoğlu, Trabzon Damızlık Koyun ve Keçi Yetiştiricileri Birliği Başkanı Taşkın Hamzaoğlu ile kurum ve kuruluşların temsilcileri katıldı.\n\nTörende üreticilere teslim edilen portatif barınak ve ekipmanlar incelenirken, küçükbaş hayvancılığın geliştirilmesine yönelik çalışmalar ve sektörün ihtiyaçları hakkında değerlendirmelerde bulunuldu.\n\nTrabzon İl Tarım ve Orman Müdürlüğü, küçükbaş hayvancılık faaliyetlerinin geliştirilmesi, yetiştiricilerin üretim maliyetlerinin azaltılması ve modern üretim imkânlarının yaygınlaştırılması amacıyla proje ve destek çalışmalarının sürdürüleceğini bildirdi.\n\nTARIM PUSULASI HABER MERKEZİ"
+    },
     {
       "title": "Yozgat’ta arpa denemelerinde dekara 760 kilo verim alındı",
       "url": "https://www.tarimpusulasi.com/haber/yozgatta-arpa-denemelerinde-dekara-760-kilo-verim-alindi-47509",
@@ -101,22 +117,6 @@
       "date": "2026-08-24",
       "summary": "Almanya'nın güneyinde yem arzının azalması ve saman fiyatlarının yükselmesi, bazı bölgelerde sığır varlığının yüzde 15'e kadar azaltılmasına yol açıyor.",
       "content": "ALMANYA — Almanya'nın güneyinde yaşanan yem sıkıntısı ve saman fiyatlarındaki artış, sığır yetiştiricilerini sürülerini azaltmaya zorluyor. ElDala.kz'in agrarheute.com'a dayandırdığı haberine göre özellikle Bavyera ve Baden-Württemberg eyaletlerinde önümüzdeki kış için yeterli miktarda yem temin edilmesinde sorun yaşanıyor. \n\nBaden-Württemberg Çiftçiler Birliği verilerine göre çiftçilerin elindeki yem miktarı, yılın bu döneminde normalde bulunması gereken seviyenin yüzde 30-40 altında. Kuruyan çayırlarda yeni bitki biyokütlesinin de yeterince gelişmediği bildiriliyor. \n\nYem arzındaki daralma, kaba ve sulu yem fiyatlarını yukarı çekerken çiftçileri hayvan sayısını azaltmaya yöneltiyor. Kaynakta, öncelikle yaşlı ineklerin kesime gönderildiği, Esslingen ve Reutlingen gibi bazı bölgelerde sığır varlığının yüzde 15'ine kadarının kesime sevk edildiği aktarılıyor. Bazı Almanya mezbahalarında ise kesim için kuyrukların oluştuğu belirtiliyor. \n\nYem sıkıntısı hayvan fiyatlarını da etkiliyor\n\nYaşanan gelişmeler sığır fiyatlarına farklı yönlerde yansıyor. Almanya Sığır ve Et Üreticileri Birliği (VEZG), kesime gönderilen ineklerde arzın yükselmesi nedeniyle fiyatların yaklaşık 5 avro/kg kesim ağırlığı seviyesinde istikrarlı kaldığını bildirdi.\n\nBuna karşılık genç erkek ve dişi sığırlarda arzın azalması fiyatları yukarı taşıyor. Kaynakta, söz konusu hayvanların fiyatlarının haftanın başında 10 avro sent artarak 6,2 avro/kg kesim ağırlığına yükseldiği belirtiliyor.\n\nÇiftçiler sonbahar yağışlarını bekliyor\n\nÇiftçiler, sonbaharda yeterli yağış gerçekleşmemesi halinde sürü azaltımının devam edebileceğini ifade ediyor. Sektör kuruluşları ise hükümetten acil önlem alınmasını istiyor.\n\nBu kapsamda, nadasa bırakılmış ve kullanılmayan alanlarda saman üretimine izin verilmesi talepler arasında yer alıyor. \n\nElDala'nın aktardığı gelişme, Avrupa'da kuraklık ve yüksek sıcaklıkların yalnızca bitkisel üretimi değil, hayvancılıkta kışlık yem tedarikini de etkilediğini ortaya koyuyor. Ancak bu haber kapsamında söz konusu gelişmenin Avrupa genelindeki etkilerine ilişkin ayrıca bir değerlendirme yapılmıyor.\n\nKaynak: ElDala.kz / agrarheute.com\n\nTARIM PUSULASI HABER MERKEZİ"
-    },
-    {
-      "title": "Kazakistan’da kuraklığa dayanıklı yeni arpa çeşidi geliştirildi",
-      "url": "https://www.tarimpusulasi.com/haber/kazakistanda-kurakliga-dayanikli-yeni-arpa-cesidi-gelistirildi-47503",
-      "source": "Tarım Pusulası",
-      "date": "2026-08-24",
-      "summary": "Kazakistan’da geliştirilen “Batırhan” adlı yazlık arpa çeşidi, kuraklık ve toprak tuzluluğuna dayanıklılığıyla öne çıkarken devlet çeşit sınavına sunuldu.",
-      "content": "KAZAKİSTAN — Kazakistan’da kuraklık ve toprak tuzluluğuna dayanıklı yeni bir yazlık arpa çeşidi geliştirildi. “Batırhan” adı verilen çeşidin, yüksek ve istikrarlı verimi, iri taneleri ve bazı hastalıklara karşı dayanıklılığıyla öne çıktığı bildirildi. Çeşit, devlet çeşit sınavına sunulurken ıslah başarısı için patent başvurusunda da bulunuldu.\n\nElDala.kz’in Kazakistan Tarım Bakanlığı basın servisine dayandırdığı habere göre, “Batırhan” çeşidi Kazak Pirinç Yetiştiriciliği Bilimsel Araştırma Enstitüsü ile Bitki Biyolojisi ve Biyoteknolojisi Enstitüsü bilim insanları tarafından geliştirildi.\n\nKuraklık ve tuzluluğa dayanıklılığıyla öne çıkıyor\n\nBakanlık tarafından aktarılan bilgilere göre “Batırhan”, yüksek ve istikrarlı verimin yanı sıra iri daneleri, yatmaya ve bazı hastalıklara dayanıklılığı ile kuraklık ve toprak tuzluluğuna yüksek tolerans göstermesiyle öne çıkıyor.\n\nYazlık gelişme tipine sahip olan çeşidin vejetasyon süresinin 75-85 gün olduğu bildirildi. Çeşidin ayrıca 1.000 dane ağırlığının yüksek olması ve başakta daha fazla dane bulunması özellikleriyle tanımlandığı belirtildi.\n\n“Batırhan”ın tozlu ve sert rastığa dayanıklı olduğu, buna karşılık fusarium kök çürüklüğüne daha düşük düzeyde hassasiyet gösterdiği aktarıldı.\n\nTohumdan üretime geçiş için çeşit sınavı aşamasında\n\nYeni çeşidin dikkat çeken özelliklerinden biri de kardeşlenme ile sapa kalkma arasındaki dönemin en az 20 gün sürmesi. Kaynakta, bu dönemin nispeten uzun olmasının bitkinin yeterli vejetatif kütle oluşturmasına ve danesi iyi dolmuş verimli başakların meydana gelmesine uygun koşullar sağladığı belirtildi.\n\n“Batırhan”ın devlet çeşit sınavına sunulması, çeşidin ticari tarımsal üretime kazandırılması açısından önemli bir aşama olarak değerlendiriliyor. Sınav sürecinde çeşidin ekonomik kullanım değeri ve Kazakistan’ın farklı agroekolojik koşullarında yetiştirilme potansiyelinin ortaya konulması bekleniyor.\n\nKaynak: ElDala.kz / Kazakistan Tarım Bakanlığı\n\nTARIM PUSULASI HABER MERKEZİ"
-    },
-    {
-      "title": "Belarus’ta yerli tohum çeşitlerinin payı yüzde 68’e ulaştı",
-      "url": "https://www.tarimpusulasi.com/haber/belarusta-yerli-tohum-cesitlerinin-payi-yuzde-68e-ulasti-47502",
-      "source": "Tarım Pusulası",
-      "date": "2026-08-24",
-      "summary": "Belarus’ta tahıl ve kanola üretiminde yerli çeşitlerin payı geçen yıl yüzde 68’e yükseldi. Ülke, tarımda dışa bağımlılığı azaltmayı hedefliyor.",
-      "content": "MİNSK — Belarus’ta tahıl ve kanola üretiminde yerli bitki çeşitlerinin kullanım oranı geçen yıl yüzde 68’e ulaştı. Belarus Bilimler Akademisi Tarım Bilimsel-Pratik Merkezi verilerine göre ülke, tarımsal üretimde yabancı şirketlere olan bağımlılığı azaltmak amacıyla yerli ıslah çalışmalarına ağırlık veriyor.\n\nMerkezin Genel Müdürü Sergey Kravtsov, yerli çeşitlerin geliştirilmesinin tarımsal üretimde stratejik bağımlılığın azaltılmasına katkı sağladığını belirtti. Kravtsov’a göre yerli çeşitlerin kullanılması, ithal tohum ve buna bağlı girdiler için yapılan döviz harcamalarının azaltılmasına ve gıda maliyetlerinin düşürülmesine katkı sağlayabilir.\n\nBelarus’taki çalışmalarda, yabancı şirketler tarafından sunulan tohum ve üretim teknolojilerine alternatif oluşturulması hedefleniyor. Kaynakta, Bayer, BASF ve Syngenta gibi küresel şirketlerin yalnızca tohum değil, aynı zamanda bitki yetiştirme teknolojileri ve bitki koruma ürünleri de sunduğu belirtiliyor.\n\nYeni çeşitler üç yıl test ediliyor\n\nBelarus’ta geliştirilen her yeni bitki çeşidi, üretime alınmadan önce üç yıl boyunca zorunlu devlet testlerinden geçiriliyor. Bir çeşidin üretime kabul edilebilmesi için ülkede hâlihazırda kullanılan çeşitlere göre belirli özellikler açısından daha iyi sonuç vermesi gerekiyor.\n\nTestler, RUP “Shipyany-ASK”, Belarus Bilimler Akademisine bağlı beş deneme istasyonu ve ülkedeki önde gelen tarım işletmelerinde gerçekleştiriliyor.\n\nIslah çalışmalarında iklim koşullarına dayanıklılık öne çıkıyor\n\nBelaruslu ıslahçıların öncelikleri arasında hava koşullarının verim üzerindeki etkisini azaltmak da bulunuyor. Bu kapsamda özellikle mayıs ayındaki donlara ve mayıs-haziran ile ağustos-eylül dönemlerinde görülebilen kuraklıklara dayanıklı çeşitler üzerinde çalışılıyor.\n\nKravtsov, genetikten tarımsal kimyaya kadar uzanan önlemler sayesinde verimin hava koşullarına bağımlılığının yüzde 95’ten yüzde 40’a düşürüldüğünü ifade etti.\n\nBu yaklaşım, Belarus’un yalnızca tohum ihtiyacında dışa bağımlılığı azaltmayı değil, aynı zamanda iklim kaynaklı verim kayıplarını sınırlamayı da hedeflediğini ortaya koyuyor.\n\nTARIM PUSULASI HABER MERKEZİ"
     },
     {
       "title": "Konya Pancar’ın Mali Genel Kurulu’na bu kare damga vurdu! Erkoyuncu’nun yanındaki isim dikkat çekti",
