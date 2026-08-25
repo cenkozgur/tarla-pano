@@ -1,26 +1,26 @@
 {
-  "updatedAt": "2026-08-25T14:49:36.963Z",
+  "updatedAt": "2026-08-25T15:28:29.471Z",
   "fx": [
     {
       "code": "USD",
       "name": "Dolar",
-      "buy": 48.1,
+      "buy": 48.09,
       "sell": 48.1,
       "change": 0.05
     },
     {
       "code": "EUR",
       "name": "Euro",
-      "buy": 56.18,
-      "sell": 56.19,
-      "change": 0.13
+      "buy": 56.17,
+      "sell": 56.17,
+      "change": 0.11
     },
     {
       "code": "GRA",
       "name": "Gram Altın",
-      "buy": 7169.32,
-      "sell": 7170.19,
-      "change": -0.28
+      "buy": 7172.3,
+      "sell": 7173.15,
+      "change": -0.24
     },
     {
       "code": "CEYREKALTIN",
@@ -233,7 +233,7 @@
           "name": "Ayçiçeği (yağlık)",
           "unit": "₺/kg",
           "price": 36.57,
-          "change": -12.3,
+          "change": 0,
           "source": "Eskişehir TB",
           "date": "2026-08-25"
         },
