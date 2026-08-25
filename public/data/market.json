@@ -1,26 +1,26 @@
 {
-  "updatedAt": "2026-08-25T18:00:04.647Z",
+  "updatedAt": "2026-08-25T18:42:40.050Z",
   "fx": [
     {
       "code": "USD",
       "name": "Dolar",
       "buy": 48.08,
-      "sell": 48.1,
+      "sell": 48.09,
       "change": 0.03
     },
     {
       "code": "EUR",
       "name": "Euro",
-      "buy": 56.16,
-      "sell": 56.17,
-      "change": 0.09
+      "buy": 56.17,
+      "sell": 56.18,
+      "change": 0.12
     },
     {
       "code": "GRA",
       "name": "Gram Altın",
-      "buy": 7171.67,
-      "sell": 7172.52,
-      "change": -0.25
+      "buy": 7186.13,
+      "sell": 7187.09,
+      "change": -0.05
     },
     {
       "code": "CEYREKALTIN",
@@ -38,6 +38,14 @@
     }
   ],
   "news": [
+    {
+      "title": "Hatay Tarım Müdürü Türkmen Antakya’da üreticileri ziyaret etti",
+      "url": "https://www.tarimpusulasi.com/haber/hatay-tarim-muduru-turkmen-antakyada-ureticileri-ziyaret-etti-47516",
+      "source": "Tarım Pusulası",
+      "date": "2026-08-25",
+      "summary": "Hatay İl Tarım ve Orman Müdürü Abdurrahman Türkmen, Antakya’da arıcılık ve mısır üretimi yapan üreticileri ziyaret ederek sahadaki çalışmaları inceledi.",
+      "content": "HATAY — Hatay İl Tarım ve Orman Müdürü Abdurrahman Türkmen, Antakya ilçesinde arıcılık faaliyeti yürüten ve mısır üretimi yapan üreticileri ziyaret ederek üretim alanlarında incelemelerde bulundu.\n\nArıcılık işletmesindeki ziyarette arı kolonilerinin durumu, üretim faaliyetleri ve sezonun genel seyri hakkında üreticiden bilgi alındı. Türkmen, arıcılıkta verimliliğin artırılması, arı sağlığının korunması ve kaliteli bal üretiminin önemine dikkat çekerek üreticiyle görüş alışverişinde bulundu.\n\nMısır üretim alanında gerçekleştirilen ziyarette ise bitkilerin gelişim durumu, üretim süreci ve sezonun genel seyri değerlendirildi. Türkmen, mısır üretiminde verimliliğin artırılması, bitki sağlığının korunması ve sürdürülebilir üretimin sağlanmasının önemini vurgulayarak üreticinin talep ve önerilerini dinledi.\n\nHatay İl Tarım ve Orman Müdürlüğü, arıcılığın geliştirilmesi, üreticilerin desteklenmesi ve tarımsal üretimin geliştirilmesine yönelik çalışmaların sahada sürdürüldüğünü bildirdi.\n\nTARIM PUSULASI HABER MERKEZİ"
+    },
     {
       "title": "Tarım Müdürlüğü Kürtün’de fındıkta pestisit denetimi yaptı",
       "url": "https://www.tarimpusulasi.com/haber/tarim-mudurlugu-kurtunde-findikta-pestisit-denetimi-yapti-47515",
@@ -93,14 +101,6 @@
       "date": "2026-08-25",
       "summary": "Yozgat’ta 5 ilçede 12 köyde yürütülen arpa demonstrasyonlarında 15 çeşit, 210 dekar alanda denendi. Verimler 400-760 kg/da arasında gerçekleşti.",
       "content": "YOZGAT — Yozgat İl Tarım ve Orman Müdürlüğü tarafından bu yıl yürütülen arpa çeşit demonstrasyonlarının hasatları tamamlandı. 5 ilçede 12 köyde, 14 çiftçiyle ve toplam 210 dekar alanda gerçekleştirilen 15 demonstrasyonda 400 ile 760 kilogram/dekar arasında verim alındı.\n\nİl Tarım ve Orman Müdürlüğünün açıklamasına göre demonstrasyonların amacı, Bakanlığa bağlı araştırma kuruluşları ile yerli tohumculuk firmaları tarafından geliştirilen yeni arpa çeşitlerinin çiftçi şartlarında denenmesi ve yerli tohumlukların üreticilere tanıtılması oldu.\n\nTeknik personelin kontrolünde yürütülen demonstrasyonlarda farklı arpa çeşitleri üretim sezonu boyunca takip edildi.\n\n15 farklı arpa çeşidi denendi\n\nYozgat’taki çalışmalarda Ankara Tarla Bitkileri Merkez Araştırma Enstitüsü tarafından geliştirilen Anka06, Sayım40, Burakbey, Bozlak, Sinanbey, Asil, Misket, Tosunpaşa, Cacabey ve Kaşmir çeşitleri denendi.\n\nKonya Bahri Dağdaş Tarımsal Araştırma Enstitüsü tarafından geliştirilen Ayrancı ve Keykubat çeşitleri ile özel bir firma tarafından geliştirilerek tescil edilen Asur, Dörtköşe ve Sentoza çeşitleri de demonstrasyonlarda yer aldı.\n\nBöylece toplam 15 farklı arpa çeşidi, çiftçi şartlarında üretim sezonu boyunca gözlemlendi.\n\nVerimler 400-760 kg/da arasında gerçekleşti\n\nİl Müdürlüğünün açıklamasında, bu yıl bahar dönemindeki yağışların iyi olmasının il genelindeki verim ortalamalarını olumlu etkilediği belirtildi.\n\nDemonstrasyonlarda elde edilen verimlerin dekara 400 kilogram ile 760 kilogram arasında gerçekleştiği bildirildi.\n\nBuradaki 760 kg/da değerinin demonstrasyonlarda elde edilen en yüksek verim seviyesi olduğu, 15 çeşidin tamamının bu seviyede verim verdiği anlamına gelmediği belirtilen rakamlardan anlaşılmaktadır.\n\nİl Tarım ve Orman Müdürlüğü, elde edilen sonuçların ardından söz konusu çeşitleri çiftçilere tavsiye etti. Çeşitler hakkında daha ayrıntılı bilgi almak isteyen üreticilerin İl Müdürlüğüne başvurabileceği bildirildi.\n\nTARIM PUSULASI HABER MERKEZİ"
-    },
-    {
-      "title": "Karabük’te safran üretiminde 2026 dikim sezonu başladı",
-      "url": "https://www.tarimpusulasi.com/haber/karabukte-safran-uretiminde-2026-dikim-sezonu-basladi-47508",
-      "source": "Tarım Pusulası",
-      "date": "2026-08-25",
-      "summary": "Karabük’ün Safranbolu ilçesinde 2026 safran dikim sezonu başladı. Proje kapsamında verim ve kaliteyi artırmaya yönelik çalışmalar iki yıl sürdürülecek.",
-      "content": "KARABÜK — Safranbolu’da, “Kontrollü Koşullarda Bilimle Yeşeren Safran Yetiştiriciliği Projesi” kapsamında 2026 yılı safran dikim sezonu başladı.\n\nProje kapsamında Yukarıçiftlik Köyü Keten Mahallesi’nde İsmail Yılmaz’a ait 20 dönümlük safran üretim çiftliğinde ve Safranbolu Eski Çarşı’da Onur Şen’e ait Lokum ve Safran Müzesi bahçesindeki 2 dönümlük alanda safran soğanlarının (yumru) dikimi gerçekleştirildi.\n\nDikim etkinliğine Safranbolu Kaymakamı Hayrettin Baskın, Safranbolu Cumhuriyet Savcısı Muhammet Refik Çavuş, Karabük İl Tarım ve Orman Müdürü Yasin Önder, İl Tarım ve Orman Müdür Yardımcısı Fatoş Şahin, Safranbolu İlçe Tarım ve Orman Müdürü Erdal Kaya ile il ve ilçe protokolü, sivil toplum kuruluşlarının temsilcileri, şube müdürleri ve teknik personel katıldı.\n\nİki yıl boyunca verim ve kalite izlenecek\n\nSafran üretim çiftliğinin işletmecisi ve Ziraat Mühendisi Mine Yılmaz, proje kapsamında safranın daha yüksek verim ve kalitede yetiştirilebilmesi için uygun toprak ve yetiştirme koşullarının belirlenmesinin amaçlandığını belirtti.\n\nYılmaz, iki yıl sürecek proje sonunda elde edilen sonuçların paylaşılacağını ifade ederek, safran üretiminde verimlilik ve sürdürülebilirliğin artırılmasıyla üreticilere, bölgeye ve ülke ekonomisine katkı sağlanmasının hedeflendiğini kaydetti.\n\nSafranbolu İlçe Tarım ve Orman Müdürü Erdal Kaya ise proje kapsamında safran üretim alanlarında sorun oluşturan köstebek ve benzeri zararlılar ile yabancı otların kontrolü, hastalıkların önlenmesi ve üretimde verimliliğin artırılması amacıyla çalışmalar yürütüldüğünü aktardı.\n\nKarabük’te 110 dekar alanda safran üretimi\n\nKarabük İl Tarım ve Orman Müdürü Yasin Önder, safranın Safranbolu ve Karabük açısından önemine dikkat çekerek, bitkinin üreticilerin emeğiyle gelecek nesillere aktarılması gerektiğini belirtti.\n\nÖnder, Safranbolu Safranı’nın Avrupa Birliği nezdinde Coğrafi İşaret tescili aldığını ve bu sayede uluslararası alanda önemli bir değere ulaştığını ifade etti.\n\nİl Tarım ve Orman Müdürlüğünün açıklamasına göre, Safranbolu’da 52 üretici tarafından 110 dekar alanda safran üretimi gerçekleştiriliyor.\n\nKonuşmaların ardından protokol üyeleri ve üreticilerin katılımıyla safran soğanları toprakla buluşturularak 2026 yılı dikim sezonu başlatıldı.\n\nTARIM PUSULASI HABER MERKEZİ"
     },
     {
       "title": "Çin süt ithalatını sert düşürdü! Dünyada oluşan arz fazlası Türkiye'yi nasıl etkileyecek?",
@@ -339,6 +339,15 @@
   "note": "Fiyatlar TOBB ticaret borsasından (borsa seçilebilir). Kanola manuel (Trakya 2025).",
   "inputsNote": "Mazot: akaryakıt bayi fiyatı, günlük (şehir seçilebilir). Gübre: manuel (yaklaşık).",
   "errors": [
-    "fx: fetch failed"
+    "mazot ANKARA: fetch failed",
+    "mazot ISTANBUL: fetch failed",
+    "mazot IZMIR: fetch failed",
+    "mazot KONYA: fetch failed",
+    "mazot ADANA: fetch failed",
+    "mazot BURSA: fetch failed",
+    "mazot ANTALYA: fetch failed",
+    "mazot SAMSUN: fetch failed",
+    "mazot TEKIRDAG: fetch failed",
+    "mazot CANAKKALE: fetch failed"
   ]
 }
