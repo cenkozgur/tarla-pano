@@ -1,43 +1,51 @@
 {
-  "updatedAt": "2026-08-25T16:56:14.301Z",
+  "updatedAt": "2026-08-25T17:34:19.568Z",
   "fx": [
     {
       "code": "USD",
       "name": "Dolar",
-      "buy": 480918,
-      "sell": 481064,
-      "change": 5
+      "buy": 48.08,
+      "sell": 48.1,
+      "change": 0.03
     },
     {
       "code": "EUR",
       "name": "Euro",
-      "buy": 561695,
-      "sell": 561812,
-      "change": 12
+      "buy": 56.16,
+      "sell": 56.17,
+      "change": 0.09
     },
     {
       "code": "GRA",
       "name": "Gram Altın",
-      "buy": 718182,
-      "sell": 718258,
-      "change": -11
+      "buy": 7171.67,
+      "sell": 7172.52,
+      "change": -0.25
     },
     {
       "code": "CEYREKALTIN",
       "name": "Çeyrek Altın",
-      "buy": 1139254,
-      "sell": 1165208,
-      "change": -75
+      "buy": 11392.54,
+      "sell": 11652.08,
+      "change": -0.75
     },
     {
       "code": "CUMHURIYETALTINI",
       "name": "Cumhuriyet Altını",
       "buy": 47074,
       "sell": 47790,
-      "change": -122
+      "change": -1.22
     }
   ],
   "news": [
+    {
+      "title": "TMO, Giresun’da ilk fındığı 280,50 TL’den aldı",
+      "url": "https://www.tarimpusulasi.com/haber/tmo-giresunda-ilk-findigi-28050-tlden-aldi-47514",
+      "source": "Tarım Pusulası",
+      "date": "2026-08-25",
+      "summary": "Giresun’un Bulancak ilçesinde 2026 fındık sezonunun ilk TMO alımı yapılırken, üreticinin ürünü 280,50 TL/kg fiyatla satın alındı.",
+      "content": "GİRESUN — Toprak Mahsulleri Ofisi (TMO), 2026 fındık sezonunda Giresun’un Bulancak ilçesindeki ilk alımını gerçekleştirdi. Sezonun ilk ürününün alım fiyatı 280,50 TL/kg olarak uygulandı.\n\nBulancak TMO Alım Merkezinde gerçekleştirilen alım programına Giresun Valisi Mustafa Koç, TMO Yönetim Kurulu Başkanı ve Genel Müdürü Ahmet Güldal ile il protokolü katıldı. Sezonun ilk ürünü, fındık üreticisi Hasan Çakmak’tan teslim alındı.\n\nAlım ve analiz sürecinde Çakmak’ın ürününün yüzde 3,6 nem oranına ve 53,5 randıman değerine sahip olduğu belirlendi. Ürün, TMO tarafından 280,50 TL/kg fiyat üzerinden satın alındı.\n\nVali Mustafa Koç, Giresun’da ilk kez fındık alımına şahitlik ettiğini belirterek sezonun üreticiler için hayırlı, bereketli ve bol kazançlı geçmesi temennisinde bulundu.\n\nPrograma Bulancak Kaymakamı Ömer Faruk Tuncer, Giresun İl Tarım ve Orman Müdürü Mustafa Ensar Yılmaz, Bulancak Belediye Başkanı Necmi Sıbıç, Giresun Ticaret ve Sanayi Odası Yönetim Kurulu Başkanı Hasan Çakırmelikoğlu, Giresun Ticaret Borsası Yönetim Kurulu Başkanı Hamza Bölük, Fındık Araştırma Enstitüsü Müdürü Yusuf Bilgen, Giresun Ziraat Odası Başkanı Nurittin Karan ve Bulancak Ziraat Odası Başkanı Naci Karamanoğlu da katıldı.\n\nTMO, fındık alım faaliyetlerini son üreticinin son ürününü teslim etmesine kadar sürdüreceğini bildirdi ve yeni hasat sezonunun üreticiler ile ülke için hayırlı ve bereketli olması temennisinde bulundu.\n\nTARIM PUSULASI HABER MERKEZİ"
+    },
     {
       "title": "Çumra’da 700 metrekare alanda safran ekimi yapıldı",
       "url": "https://www.tarimpusulasi.com/haber/cumrada-700-metrekare-alanda-safran-ekimi-yapildi-47513",
@@ -93,14 +101,6 @@
       "date": "2026-08-25",
       "summary": "Giresun’da yürütülen Karayaka Koyunu Halk Elinde Islah Projesi kapsamında ekipler, Kazıkbeli Yaylası çevresindeki yetiştiricileri ziyaret etti.",
       "content": "GİRESUN — Giresun’da sürdürülen Karayaka Koyunu Halk Elinde Islah Projesi kapsamında, Kazıkbeli Yaylası çevresindeki obalarda konaklayan proje paydaşı yetiştiricilere saha ziyareti gerçekleştirildi.\n\nGiresun İl Tarım ve Orman Müdürlüğünün açıklamasına göre ziyarete, Tarımsal Araştırmalar ve Politikalar Genel Müdürlüğünden Veteriner Hekim Harun Alhan ve Veteriner Hekim Yasin Ergiden, Giresun Koyun ve Keçi Yetiştiricileri Birliği Başkanı Ali Kılıç, proje teknik elemanı Haluk Ordu ile İl Tarım ve Orman Müdürlüğü personelinden oluşan ekip katıldı.\n\nKarayaka koyununda genetik yapının korunması hedefleniyor\n\nTarım ve Orman Bakanlığı tarafından uygulanan projenin temel hedefinin, Karadeniz iklimine ve coğrafi koşullarına uyum sağlayan yerli Karayaka koyun ırkının saf gen yapısını korumak olduğu belirtildi.\n\nAçıklamada, Karayaka koyununun yabancı ırklarla melezlenmesinin önlenmesinin yanı sıra, ırkın et, süt, döl ve yapağı veriminin bilimsel yöntemlerle artırılmasının amaçlandığı bildirildi.\n\nSaha ziyaretleri kapsamında proje paydaşı yetiştiricilerle yerinde görüşmeler gerçekleştirilirken, çalışmaların Karayaka koyununun mevcut özelliklerinin korunması ve verim özelliklerinin geliştirilmesine yönelik sürdürüldüğü aktarıldı.\n\nTARIM PUSULASI HABER MERKEZİ"
-    },
-    {
-      "title": "Gürer: Tarım ve gıdada dış ticaret dengesi 2026’da bozuldu",
-      "url": "https://www.tarimpusulasi.com/haber/gurer-tarim-ve-gidada-dis-ticaret-dengesi-2026da-bozuldu-47506",
-      "source": "Tarım Pusulası",
-      "date": "2026-08-25",
-      "summary": "CHP Niğde Milletvekili Ömer Fethi Gürer, tarım, gıda ve içecek sektörünün 2026’nın ilk 6 ayında 190 milyon dolar dış ticaret açığı verdiğini açıkladı.",
-      "content": "ANKARA — CHP Niğde Milletvekili ve TBMM Tarım, Orman ve Köyişleri Komisyonu Üyesi Ömer Fethi Gürer, Türkiye’nin tarım, gıda ve içecek sektörünün 2024, 2025 ve 2026 yıllarının ilk 6 ayına ilişkin dış ticaret verilerini değerlendirdi.\n\nGürer’in verdiği rakamlara göre sektör, 2024’ün ilk 6 ayında 3,2 milyar dolar, 2025’in aynı döneminde ise yaklaşık 1,42 milyar dolar dış ticaret fazlası verdi. 2026’nın ilk 6 ayında ise ihracatın ithalatın gerisinde kalmasıyla yaklaşık 190 milyon dolarlık dış ticaret açığı oluştu.\n\nGürer, 2024’ün Ocak-Haziran döneminde tarım, gıda ve içecek sektöründe 12,9 milyar dolar ihracat ve 9,7 milyar dolar ithalat gerçekleştiğini belirtti.\n\n2025’in ilk 6 ayında ise ihracatın 13,42 milyar dolara, ithalatın da 12 milyar dolara yükseldiğini aktaran Gürer, sektörün bu dönemde yaklaşık 1,42 milyar dolar dış ticaret fazlası verdiğini ifade etti.\n\n2026’da ithalat ihracatı geçti\n\nGürer’in paylaştığı verilere göre 2026 yılının ilk 6 ayında sektörün ihracat ve ithalatındaki kümülatif seyir şöyle gerçekleşti:\n\nOcak: 2,40 milyar dolar ihracat, 2,18 milyar dolar ithalat\n\nOcak-Şubat: 4,68 milyar dolar ihracat, 4,10 milyar dolar ithalat\n\nOcak-Mart: 6,98 milyar dolar ihracat, 6,43 milyar dolar ithalat\n\nOcak-Nisan: 9,52 milyar dolar ihracat, 9,25 milyar dolar ithalat\n\nOcak-Mayıs: 11,64 milyar dolar ihracat, 11,34 milyar dolar ithalat\n\nOcak-Haziran: 14,00 milyar dolar ihracat, 14,19 milyar dolar ithalat\n\nBuna göre 2026’nın ilk 6 ayında ihracat 14 milyar dolar seviyesinde kalırken ithalat 14,19 milyar dolara ulaştı. Böylece Gürer’in hesabına göre sektörün dış ticaretinde yaklaşık 190 milyon dolarlık açık oluştu.\n\nGürer, 2024’ün ilk 6 ayında 3,2 milyar dolar fazla veren ve 2025’in aynı döneminde yaklaşık 1,42 milyar dolar fazla kaydeden sektörün 2026’da açığa geçmesinin değerlendirilmesi gerektiğini söyledi.\n\nGürer’den tarımda ithalat eleştirisi\n\nGürer, tarım ve gıda ürünlerinde ithalatın artmasının yalnızca dış ticaret rakamları açısından değerlendirilmemesi gerektiğini belirterek, gelişmenin üretici ve tüketici üzerindeki etkilerine dikkat çekti.\n\nTarımda rekor üretim açıklamalarına rağmen ithalatın neden arttığının sorgulanması gerektiğini savunan Gürer, çiftçinin ürettiği ürünün tarlada yeterince değer bulmadığını ve girdi maliyetlerinin yükseldiğini ifade etti.\n\n“Üreticiyi korumazsanız ithalatçı olursunuz”\n\nGürer, tarımsal üretim maliyetlerinin düşürülmesi, çiftçinin desteklenmesi ve ürün bazında planlı üretime geçilmesi gerektiğini söyledi.\n\nGübre, mazot, ilaç, yem, elektrik ve sulama suyu maliyetlerinin yüksek olduğunu belirten Gürer, üreticinin yüksek maliyetlerle üretim yaparken ithalat yoluyla fiyat baskısı oluşturulmaya çalışıldığını savundu. Gürer, ithalata rağmen raf fiyatlarının da düşmediğini ifade etti.\n\nTARIM PUSULASI HABER MERKEZİ"
     },
     {
       "title": "Çin süt ithalatını sert düşürdü! Dünyada oluşan arz fazlası Türkiye'yi nasıl etkileyecek?",
