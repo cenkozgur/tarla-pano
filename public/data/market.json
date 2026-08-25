@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-25T10:35:47.722Z",
+  "updatedAt": "2026-08-25T11:05:21.452Z",
   "fx": [
     {
       "code": "USD",
@@ -11,23 +11,23 @@
     {
       "code": "EUR",
       "name": "Euro",
-      "buy": 56.12,
-      "sell": 56.12,
-      "change": 0.02
+      "buy": 56.13,
+      "sell": 56.14,
+      "change": 0.05
     },
     {
       "code": "GRA",
       "name": "Gram Altın",
-      "buy": 7168.84,
-      "sell": 7169.72,
-      "change": -0.29
+      "buy": 7174.42,
+      "sell": 7175.37,
+      "change": -0.21
     },
     {
       "code": "CEYREKALTIN",
       "name": "Çeyrek Altın",
-      "buy": 11413.39,
-      "sell": 11673.39,
-      "change": -0.56
+      "buy": 11421.12,
+      "sell": 11681.3,
+      "change": -0.5
     },
     {
       "code": "CUMHURIYETALTINI",
@@ -38,6 +38,22 @@
     }
   ],
   "news": [
+    {
+      "title": "Yozgat’ta arpa denemelerinde dekara 760 kilo verim alındı",
+      "url": "https://www.tarimpusulasi.com/haber/yozgatta-arpa-denemelerinde-dekara-760-kilo-verim-alindi-47509",
+      "source": "Tarım Pusulası",
+      "date": "2026-08-25",
+      "summary": "Yozgat’ta 5 ilçede 12 köyde yürütülen arpa demonstrasyonlarında 15 çeşit, 210 dekar alanda denendi. Verimler 400-760 kg/da arasında gerçekleşti.",
+      "content": "YOZGAT — Yozgat İl Tarım ve Orman Müdürlüğü tarafından bu yıl yürütülen arpa çeşit demonstrasyonlarının hasatları tamamlandı. 5 ilçede 12 köyde, 14 çiftçiyle ve toplam 210 dekar alanda gerçekleştirilen 15 demonstrasyonda 400 ile 760 kilogram/dekar arasında verim alındı.\n\nİl Tarım ve Orman Müdürlüğünün açıklamasına göre demonstrasyonların amacı, Bakanlığa bağlı araştırma kuruluşları ile yerli tohumculuk firmaları tarafından geliştirilen yeni arpa çeşitlerinin çiftçi şartlarında denenmesi ve yerli tohumlukların üreticilere tanıtılması oldu.\n\nTeknik personelin kontrolünde yürütülen demonstrasyonlarda farklı arpa çeşitleri üretim sezonu boyunca takip edildi.\n\n15 farklı arpa çeşidi denendi\n\nYozgat’taki çalışmalarda Ankara Tarla Bitkileri Merkez Araştırma Enstitüsü tarafından geliştirilen Anka06, Sayım40, Burakbey, Bozlak, Sinanbey, Asil, Misket, Tosunpaşa, Cacabey ve Kaşmir çeşitleri denendi.\n\nKonya Bahri Dağdaş Tarımsal Araştırma Enstitüsü tarafından geliştirilen Ayrancı ve Keykubat çeşitleri ile özel bir firma tarafından geliştirilerek tescil edilen Asur, Dörtköşe ve Sentoza çeşitleri de demonstrasyonlarda yer aldı.\n\nBöylece toplam 15 farklı arpa çeşidi, çiftçi şartlarında üretim sezonu boyunca gözlemlendi.\n\nVerimler 400-760 kg/da arasında gerçekleşti\n\nİl Müdürlüğünün açıklamasında, bu yıl bahar dönemindeki yağışların iyi olmasının il genelindeki verim ortalamalarını olumlu etkilediği belirtildi.\n\nDemonstrasyonlarda elde edilen verimlerin dekara 400 kilogram ile 760 kilogram arasında gerçekleştiği bildirildi.\n\nBuradaki 760 kg/da değerinin demonstrasyonlarda elde edilen en yüksek verim seviyesi olduğu, 15 çeşidin tamamının bu seviyede verim verdiği anlamına gelmediği belirtilen rakamlardan anlaşılmaktadır.\n\nİl Tarım ve Orman Müdürlüğü, elde edilen sonuçların ardından söz konusu çeşitleri çiftçilere tavsiye etti. Çeşitler hakkında daha ayrıntılı bilgi almak isteyen üreticilerin İl Müdürlüğüne başvurabileceği bildirildi.\n\nTARIM PUSULASI HABER MERKEZİ"
+    },
+    {
+      "title": "Karabük’te safran üretiminde 2026 dikim sezonu başladı",
+      "url": "https://www.tarimpusulasi.com/haber/karabukte-safran-uretiminde-2026-dikim-sezonu-basladi-47508",
+      "source": "Tarım Pusulası",
+      "date": "2026-08-25",
+      "summary": "Karabük’ün Safranbolu ilçesinde 2026 safran dikim sezonu başladı. Proje kapsamında verim ve kaliteyi artırmaya yönelik çalışmalar iki yıl sürdürülecek.",
+      "content": "KARABÜK — Safranbolu’da, “Kontrollü Koşullarda Bilimle Yeşeren Safran Yetiştiriciliği Projesi” kapsamında 2026 yılı safran dikim sezonu başladı.\n\nProje kapsamında Yukarıçiftlik Köyü Keten Mahallesi’nde İsmail Yılmaz’a ait 20 dönümlük safran üretim çiftliğinde ve Safranbolu Eski Çarşı’da Onur Şen’e ait Lokum ve Safran Müzesi bahçesindeki 2 dönümlük alanda safran soğanlarının (yumru) dikimi gerçekleştirildi.\n\nDikim etkinliğine Safranbolu Kaymakamı Hayrettin Baskın, Safranbolu Cumhuriyet Savcısı Muhammet Refik Çavuş, Karabük İl Tarım ve Orman Müdürü Yasin Önder, İl Tarım ve Orman Müdür Yardımcısı Fatoş Şahin, Safranbolu İlçe Tarım ve Orman Müdürü Erdal Kaya ile il ve ilçe protokolü, sivil toplum kuruluşlarının temsilcileri, şube müdürleri ve teknik personel katıldı.\n\nİki yıl boyunca verim ve kalite izlenecek\n\nSafran üretim çiftliğinin işletmecisi ve Ziraat Mühendisi Mine Yılmaz, proje kapsamında safranın daha yüksek verim ve kalitede yetiştirilebilmesi için uygun toprak ve yetiştirme koşullarının belirlenmesinin amaçlandığını belirtti.\n\nYılmaz, iki yıl sürecek proje sonunda elde edilen sonuçların paylaşılacağını ifade ederek, safran üretiminde verimlilik ve sürdürülebilirliğin artırılmasıyla üreticilere, bölgeye ve ülke ekonomisine katkı sağlanmasının hedeflendiğini kaydetti.\n\nSafranbolu İlçe Tarım ve Orman Müdürü Erdal Kaya ise proje kapsamında safran üretim alanlarında sorun oluşturan köstebek ve benzeri zararlılar ile yabancı otların kontrolü, hastalıkların önlenmesi ve üretimde verimliliğin artırılması amacıyla çalışmalar yürütüldüğünü aktardı.\n\nKarabük’te 110 dekar alanda safran üretimi\n\nKarabük İl Tarım ve Orman Müdürü Yasin Önder, safranın Safranbolu ve Karabük açısından önemine dikkat çekerek, bitkinin üreticilerin emeğiyle gelecek nesillere aktarılması gerektiğini belirtti.\n\nÖnder, Safranbolu Safranı’nın Avrupa Birliği nezdinde Coğrafi İşaret tescili aldığını ve bu sayede uluslararası alanda önemli bir değere ulaştığını ifade etti.\n\nİl Tarım ve Orman Müdürlüğünün açıklamasına göre, Safranbolu’da 52 üretici tarafından 110 dekar alanda safran üretimi gerçekleştiriliyor.\n\nKonuşmaların ardından protokol üyeleri ve üreticilerin katılımıyla safran soğanları toprakla buluşturularak 2026 yılı dikim sezonu başlatıldı.\n\nTARIM PUSULASI HABER MERKEZİ"
+    },
     {
       "title": "Giresun’da Karayaka koyunu için ıslah çalışmaları sürüyor",
       "url": "https://www.tarimpusulasi.com/haber/giresunda-karayaka-koyunu-icin-islah-calismalari-suruyor-47507",
@@ -101,22 +117,6 @@
       "date": "2026-08-24",
       "summary": "Belarus’ta tahıl ve kanola üretiminde yerli çeşitlerin payı geçen yıl yüzde 68’e yükseldi. Ülke, tarımda dışa bağımlılığı azaltmayı hedefliyor.",
       "content": "MİNSK — Belarus’ta tahıl ve kanola üretiminde yerli bitki çeşitlerinin kullanım oranı geçen yıl yüzde 68’e ulaştı. Belarus Bilimler Akademisi Tarım Bilimsel-Pratik Merkezi verilerine göre ülke, tarımsal üretimde yabancı şirketlere olan bağımlılığı azaltmak amacıyla yerli ıslah çalışmalarına ağırlık veriyor.\n\nMerkezin Genel Müdürü Sergey Kravtsov, yerli çeşitlerin geliştirilmesinin tarımsal üretimde stratejik bağımlılığın azaltılmasına katkı sağladığını belirtti. Kravtsov’a göre yerli çeşitlerin kullanılması, ithal tohum ve buna bağlı girdiler için yapılan döviz harcamalarının azaltılmasına ve gıda maliyetlerinin düşürülmesine katkı sağlayabilir.\n\nBelarus’taki çalışmalarda, yabancı şirketler tarafından sunulan tohum ve üretim teknolojilerine alternatif oluşturulması hedefleniyor. Kaynakta, Bayer, BASF ve Syngenta gibi küresel şirketlerin yalnızca tohum değil, aynı zamanda bitki yetiştirme teknolojileri ve bitki koruma ürünleri de sunduğu belirtiliyor.\n\nYeni çeşitler üç yıl test ediliyor\n\nBelarus’ta geliştirilen her yeni bitki çeşidi, üretime alınmadan önce üç yıl boyunca zorunlu devlet testlerinden geçiriliyor. Bir çeşidin üretime kabul edilebilmesi için ülkede hâlihazırda kullanılan çeşitlere göre belirli özellikler açısından daha iyi sonuç vermesi gerekiyor.\n\nTestler, RUP “Shipyany-ASK”, Belarus Bilimler Akademisine bağlı beş deneme istasyonu ve ülkedeki önde gelen tarım işletmelerinde gerçekleştiriliyor.\n\nIslah çalışmalarında iklim koşullarına dayanıklılık öne çıkıyor\n\nBelaruslu ıslahçıların öncelikleri arasında hava koşullarının verim üzerindeki etkisini azaltmak da bulunuyor. Bu kapsamda özellikle mayıs ayındaki donlara ve mayıs-haziran ile ağustos-eylül dönemlerinde görülebilen kuraklıklara dayanıklı çeşitler üzerinde çalışılıyor.\n\nKravtsov, genetikten tarımsal kimyaya kadar uzanan önlemler sayesinde verimin hava koşullarına bağımlılığının yüzde 95’ten yüzde 40’a düşürüldüğünü ifade etti.\n\nBu yaklaşım, Belarus’un yalnızca tohum ihtiyacında dışa bağımlılığı azaltmayı değil, aynı zamanda iklim kaynaklı verim kayıplarını sınırlamayı da hedeflediğini ortaya koyuyor.\n\nTARIM PUSULASI HABER MERKEZİ"
-    },
-    {
-      "title": "Brezilya Gübrede İthalata Bağımlılığı Azaltacak Programı Onayladı",
-      "url": "https://www.tarimpusulasi.com/haber/brezilya-gubrede-ithalata-bagimliligi-azaltacak-programi-onayladi-47501",
-      "source": "Tarım Pusulası",
-      "date": "2026-08-24",
-      "summary": "Brezilya Senatosu, gübrede ithalata bağımlılığı azaltmayı hedefleyen Profert programını onayladı; üreticilere yönelik desteklerin kapsamı da genişletilecek.",
-      "content": "BREZİLYA — Brezilya Senatosu, ülkenin gübre üretimini geliştirmeyi ve ithalata olan bağımlılığını azaltmayı amaçlayan Profert Ulusal Gübre Üretimini Geliştirme Programına ilişkin yasa tasarısını onayladı. Düzenlemenin yürürlüğe girmesi için Brezilya Devlet Başkanı'nın onayı gerekiyor.\n\nYeni program kapsamında 2027-2031 döneminde gübre üreticilerine 1,8 milyar dolara kadar vergi teşviki sağlanması planlanıyor. Devlet, yeni üretim tesislerinin kurulması veya mevcut tesislerin genişletilmesi için yapılan harcamaların yüzde 20'sine kadarını karşılayacak.\n\nDüzenlemede ayrıca, küresel gübre fiyatlarındaki artışın etkilerini azaltmak amacıyla 2026 yılında 1 milyar reala kadar, yaklaşık 192 milyon dolarlık finansman kredisi sağlanması öngörülüyor.\n\nYerli gübre kullanımına kademeli artış\n\nProgramın bir diğer önemli ayağını ise piyasada satılan ürünlerde yerli gübre kullanımının artırılması oluşturuyor.\n\nBuna göre satılan ürünlerdeki asgari yerli gübre payının 1 Temmuz 2027'de yüzde 2'den başlaması, 1 Ocak 2037'ye kadar yüzde 10'a çıkarılması planlanıyor. Bu oranın ilerleyen dönemde yüzde 30'a kadar yeniden düzenlenebilmesine de imkan tanınıyor.\n\nBrezilya gübrede büyük ölçüde dışa bağımlı\n\nBrezilya'nın gübre politikasındaki değişikliğin arka planında yüksek ithalat bağımlılığı bulunuyor. Ülke, 2025 yılında 43,3 milyon ton mineral ürün ithal etti. Bu miktarın 11 milyon tonu Rusya'dan geldi.\n\nKaynak metne göre ithalatın Brezilya'nın toplam gübre tüketimindeki payı yüzde 85-90 seviyesinde bulunuyor.\n\nBu tablo, gübre tedarikindeki küresel fiyat ve arz değişimlerinin Brezilyalı üreticiler üzerindeki etkisini artırıyor. Yeni programla yerli üretimin geliştirilmesi ve gübreye erişimin desteklenmesi hedefleniyor.\n\nGübre fiyatları üreticinin maliyetini etkiliyor\n\nYara Brazil Başkanı Marcelo Altieri'nin değerlendirmesine göre Brezilya gübre piyasasının 2026 yılında yüzde 12 daralması bekleniyor. Bu gerilemenin nedenleri arasında gübre fiyatlarındaki yükseliş ve ürünün çiftçiler açısından daha az erişilebilir hale gelmesi gösteriliyor.\n\nBrezilya'nın aldığı karar, bu açıdan yalnızca sanayi yatırımlarına yönelik bir teşvik olarak değil, üreticinin temel girdilerinden biri olan gübrenin maliyeti ve erişilebilirliği açısından da önem taşıyor.\n\nGübre fiyatlarındaki yükseliş, doğrudan üretim maliyetlerini etkilediği için dünyanın farklı ülkelerindeki çiftçiler açısından benzer bir sorun oluşturabiliyor. Brezilya'nın yeni programı ise bu baskıyı azaltmak amacıyla yerli üretim kapasitesinin artırılmasını hedefliyor.\n\nTARIM PUSULASI HABER MERKEZİ"
-    },
-    {
-      "title": "Buğdayın Baltık FOB fiyatı 255 dolara yükseldi",
-      "url": "https://www.tarimpusulasi.com/haber/bugdayin-baltik-fob-fiyati-255-dolara-yukseldi-47500",
-      "source": "Tarım Pusulası",
-      "date": "2026-08-24",
-      "summary": "Karadeniz’deki güvenlik sorunları ve limanlardan yapılan sevkiyatlara yönelik kısıtlamalar, Rusya’nın ağustos ayı buğday ihracatı beklentisinin 1,8 milyon tona indirilmesine yol açtı. Rusagrotrans verilerine göre buğday fiyatlarında ise farklı yönlerde hareket görüldü.",
-      "content": "MOSKOVA — Karadeniz’deki güvenlik sorunları ve bölgedeki limanlardan yapılan sevkiyatlara yönelik kısıtlamalar, Rusya’nın buğday ihracatı beklentisini aşağı çekti. Rusagrotrans Analiz Merkezi’nin değerlendirmesine göre, Rusya’nın ağustos ayı buğday ihracatı tahmini 1,8 milyon tona indirildi. Bu miktar, geçen yılın aynı ayına göre yaklaşık 2,5 kat daha düşük ve Ağustos 2010’dan bu yana en düşük seviye olarak değerlendiriliyor.\n\nRusagrotrans analistlerine göre geçen hafta buğday piyasasındaki hareketliliğin başlıca nedeni, insansız hava aracı saldırılarının yaşandığı Karadeniz’de durumun kötüleşmesi oldu.\n\nNovorossiysk'te buğday fiyatı geriledi\n\nRusagrotrans verilerine göre Novorossiysk’te ihracata yönelik buğdayın fiyatı bir haftada ton başına 6 dolar gerileyerek 215 dolara düştü.\n\nBaltık Denizi’nde FOB bazındaki fiyat ise aynı dönemde ton başına 15 dolar artarak 255 dolara yükseldi.\n\nUluslararası piyasalarda da farklı yönlü fiyat hareketleri görüldü. ABD menşeli SRW buğdayının fiyatı ton başına 283 dolara yükselirken, Romanya buğdayı yüzde 12,5 artışla 268 dolara çıktı. Fransa buğdayının fiyatı ise 1 dolar gerileyerek ton başına 259 dolara düştü.\n\nRusya'nın temmuz buğday ihracatı da geriledi\n\nRus Tahıl Birliği’nin izleme ve analiz departmanı tarafından ağustos ayının başında açıklanan verilere göre Rusya’nın buğday ihracatı temmuz ayında geçen yılın aynı dönemine kıyasla yüzde 17,7 azalarak 1,8 milyon tona geriledi. Geçen yıl temmuz ayında ihracat yaklaşık 2,2 milyon ton seviyesindeydi.\n\nRusya’nın temmuz ayında gerçekleştirdiği başlıca tahıl ihracatı ise toplam 2,026 milyon ton oldu. Bu rakam, Temmuz 2025’e göre yüzde 37,6 daha düşük gerçekleşti.\n\nUkrayna'nın tahıl sevkiyatında da düşüş yaşandı\n\nVedomosti'nin aktardığı bilgilere göre, Ukrayna’nın Odesa bölgesindeki limanlara yönelik karşılıklı saldırıların ardından 1 Temmuz’dan itibaren buğday ihracatı yüzde 18, arpa ihracatı yüzde 28 ve un sevkiyatı yüzde 54 azaldı.\n\nAğustos ayının başlamasıyla birlikte sevkiyatlarda daha belirgin bir yavaşlama görüldü. Haberde, Rus saldırılarının temmuz ayının sonunda Odesa bölgesindeki limanların faaliyetlerinin durmasına yol açtığı belirtildi.\n\nKaradeniz’deki gelişmelerin Rusya ve Ukrayna’nın tahıl sevkiyatlarını etkilemesi, bölgeden yapılan buğday ticaretinin seyrini de doğrudan etkileyen unsurlar arasında yer aldı.\n\nTARIM PUSULASI HABER MERKEZİ"
     },
     {
       "title": "Konya Pancar’ın Mali Genel Kurulu’na bu kare damga vurdu! Erkoyuncu’nun yanındaki isim dikkat çekti",
