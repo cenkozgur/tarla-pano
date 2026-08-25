@@ -1,11 +1,11 @@
 {
-  "updatedAt": "2026-08-25T09:08:49.364Z",
+  "updatedAt": "2026-08-25T09:51:54.694Z",
   "fx": [
     {
       "code": "USD",
       "name": "Dolar",
-      "buy": 48.1,
-      "sell": 48.1,
+      "buy": 48.09,
+      "sell": 48.11,
       "change": 0.06
     },
     {
@@ -18,26 +18,42 @@
     {
       "code": "GRA",
       "name": "Gram Altın",
-      "buy": 7155.75,
-      "sell": 7156.76,
-      "change": -0.47
+      "buy": 7175.14,
+      "sell": 7176.1,
+      "change": -0.2
     },
     {
       "code": "CEYREKALTIN",
       "name": "Çeyrek Altın",
-      "buy": 11475.87,
-      "sell": 11739.69,
-      "change": 0
+      "buy": 11418.75,
+      "sell": 11678.87,
+      "change": -0.52
     },
     {
       "code": "CUMHURIYETALTINI",
       "name": "Cumhuriyet Altını",
-      "buy": 47664,
-      "sell": 48380,
-      "change": 1.96
+      "buy": 47248,
+      "sell": 47962,
+      "change": -0.86
     }
   ],
   "news": [
+    {
+      "title": "Giresun’da Karayaka koyunu için ıslah çalışmaları sürüyor",
+      "url": "https://www.tarimpusulasi.com/haber/giresunda-karayaka-koyunu-icin-islah-calismalari-suruyor-47507",
+      "source": "Tarım Pusulası",
+      "date": "2026-08-25",
+      "summary": "Giresun’da yürütülen Karayaka Koyunu Halk Elinde Islah Projesi kapsamında ekipler, Kazıkbeli Yaylası çevresindeki yetiştiricileri ziyaret etti.",
+      "content": "GİRESUN — Giresun’da sürdürülen Karayaka Koyunu Halk Elinde Islah Projesi kapsamında, Kazıkbeli Yaylası çevresindeki obalarda konaklayan proje paydaşı yetiştiricilere saha ziyareti gerçekleştirildi.\n\nGiresun İl Tarım ve Orman Müdürlüğünün açıklamasına göre ziyarete, Tarımsal Araştırmalar ve Politikalar Genel Müdürlüğünden Veteriner Hekim Harun Alhan ve Veteriner Hekim Yasin Ergiden, Giresun Koyun ve Keçi Yetiştiricileri Birliği Başkanı Ali Kılıç, proje teknik elemanı Haluk Ordu ile İl Tarım ve Orman Müdürlüğü personelinden oluşan ekip katıldı.\n\nKarayaka koyununda genetik yapının korunması hedefleniyor\n\nTarım ve Orman Bakanlığı tarafından uygulanan projenin temel hedefinin, Karadeniz iklimine ve coğrafi koşullarına uyum sağlayan yerli Karayaka koyun ırkının saf gen yapısını korumak olduğu belirtildi.\n\nAçıklamada, Karayaka koyununun yabancı ırklarla melezlenmesinin önlenmesinin yanı sıra, ırkın et, süt, döl ve yapağı veriminin bilimsel yöntemlerle artırılmasının amaçlandığı bildirildi.\n\nSaha ziyaretleri kapsamında proje paydaşı yetiştiricilerle yerinde görüşmeler gerçekleştirilirken, çalışmaların Karayaka koyununun mevcut özelliklerinin korunması ve verim özelliklerinin geliştirilmesine yönelik sürdürüldüğü aktarıldı.\n\nTARIM PUSULASI HABER MERKEZİ"
+    },
+    {
+      "title": "Gürer: Tarım ve gıdada dış ticaret dengesi 2026’da bozuldu",
+      "url": "https://www.tarimpusulasi.com/haber/gurer-tarim-ve-gidada-dis-ticaret-dengesi-2026da-bozuldu-47506",
+      "source": "Tarım Pusulası",
+      "date": "2026-08-25",
+      "summary": "CHP Niğde Milletvekili Ömer Fethi Gürer, tarım, gıda ve içecek sektörünün 2026’nın ilk 6 ayında 190 milyon dolar dış ticaret açığı verdiğini açıkladı.",
+      "content": "ANKARA — CHP Niğde Milletvekili ve TBMM Tarım, Orman ve Köyişleri Komisyonu Üyesi Ömer Fethi Gürer, Türkiye’nin tarım, gıda ve içecek sektörünün 2024, 2025 ve 2026 yıllarının ilk 6 ayına ilişkin dış ticaret verilerini değerlendirdi.\n\nGürer’in verdiği rakamlara göre sektör, 2024’ün ilk 6 ayında 3,2 milyar dolar, 2025’in aynı döneminde ise yaklaşık 1,42 milyar dolar dış ticaret fazlası verdi. 2026’nın ilk 6 ayında ise ihracatın ithalatın gerisinde kalmasıyla yaklaşık 190 milyon dolarlık dış ticaret açığı oluştu.\n\nGürer, 2024’ün Ocak-Haziran döneminde tarım, gıda ve içecek sektöründe 12,9 milyar dolar ihracat ve 9,7 milyar dolar ithalat gerçekleştiğini belirtti.\n\n2025’in ilk 6 ayında ise ihracatın 13,42 milyar dolara, ithalatın da 12 milyar dolara yükseldiğini aktaran Gürer, sektörün bu dönemde yaklaşık 1,42 milyar dolar dış ticaret fazlası verdiğini ifade etti.\n\n2026’da ithalat ihracatı geçti\n\nGürer’in paylaştığı verilere göre 2026 yılının ilk 6 ayında sektörün ihracat ve ithalatındaki kümülatif seyir şöyle gerçekleşti:\n\nOcak: 2,40 milyar dolar ihracat, 2,18 milyar dolar ithalat\n\nOcak-Şubat: 4,68 milyar dolar ihracat, 4,10 milyar dolar ithalat\n\nOcak-Mart: 6,98 milyar dolar ihracat, 6,43 milyar dolar ithalat\n\nOcak-Nisan: 9,52 milyar dolar ihracat, 9,25 milyar dolar ithalat\n\nOcak-Mayıs: 11,64 milyar dolar ihracat, 11,34 milyar dolar ithalat\n\nOcak-Haziran: 14,00 milyar dolar ihracat, 14,19 milyar dolar ithalat\n\nBuna göre 2026’nın ilk 6 ayında ihracat 14 milyar dolar seviyesinde kalırken ithalat 14,19 milyar dolara ulaştı. Böylece Gürer’in hesabına göre sektörün dış ticaretinde yaklaşık 190 milyon dolarlık açık oluştu.\n\nGürer, 2024’ün ilk 6 ayında 3,2 milyar dolar fazla veren ve 2025’in aynı döneminde yaklaşık 1,42 milyar dolar fazla kaydeden sektörün 2026’da açığa geçmesinin değerlendirilmesi gerektiğini söyledi.\n\nGürer’den tarımda ithalat eleştirisi\n\nGürer, tarım ve gıda ürünlerinde ithalatın artmasının yalnızca dış ticaret rakamları açısından değerlendirilmemesi gerektiğini belirterek, gelişmenin üretici ve tüketici üzerindeki etkilerine dikkat çekti.\n\nTarımda rekor üretim açıklamalarına rağmen ithalatın neden arttığının sorgulanması gerektiğini savunan Gürer, çiftçinin ürettiği ürünün tarlada yeterince değer bulmadığını ve girdi maliyetlerinin yükseldiğini ifade etti.\n\n“Üreticiyi korumazsanız ithalatçı olursunuz”\n\nGürer, tarımsal üretim maliyetlerinin düşürülmesi, çiftçinin desteklenmesi ve ürün bazında planlı üretime geçilmesi gerektiğini söyledi.\n\nGübre, mazot, ilaç, yem, elektrik ve sulama suyu maliyetlerinin yüksek olduğunu belirten Gürer, üreticinin yüksek maliyetlerle üretim yaparken ithalat yoluyla fiyat baskısı oluşturulmaya çalışıldığını savundu. Gürer, ithalata rağmen raf fiyatlarının da düşmediğini ifade etti.\n\nTARIM PUSULASI HABER MERKEZİ"
+    },
     {
       "title": "Çin süt ithalatını sert düşürdü! Dünyada oluşan arz fazlası Türkiye'yi nasıl etkileyecek?",
       "url": "https://www.tarimdanhaber.com/cin-sut-ithalatini-sert-dusurdu-dunyada-olusan-arz-fazlasi-turkiyeyi-nasil-etkileyecek",
@@ -103,22 +119,6 @@
       "content": "MOSKOVA — Karadeniz’deki güvenlik sorunları ve bölgedeki limanlardan yapılan sevkiyatlara yönelik kısıtlamalar, Rusya’nın buğday ihracatı beklentisini aşağı çekti. Rusagrotrans Analiz Merkezi’nin değerlendirmesine göre, Rusya’nın ağustos ayı buğday ihracatı tahmini 1,8 milyon tona indirildi. Bu miktar, geçen yılın aynı ayına göre yaklaşık 2,5 kat daha düşük ve Ağustos 2010’dan bu yana en düşük seviye olarak değerlendiriliyor.\n\nRusagrotrans analistlerine göre geçen hafta buğday piyasasındaki hareketliliğin başlıca nedeni, insansız hava aracı saldırılarının yaşandığı Karadeniz’de durumun kötüleşmesi oldu.\n\nNovorossiysk'te buğday fiyatı geriledi\n\nRusagrotrans verilerine göre Novorossiysk’te ihracata yönelik buğdayın fiyatı bir haftada ton başına 6 dolar gerileyerek 215 dolara düştü.\n\nBaltık Denizi’nde FOB bazındaki fiyat ise aynı dönemde ton başına 15 dolar artarak 255 dolara yükseldi.\n\nUluslararası piyasalarda da farklı yönlü fiyat hareketleri görüldü. ABD menşeli SRW buğdayının fiyatı ton başına 283 dolara yükselirken, Romanya buğdayı yüzde 12,5 artışla 268 dolara çıktı. Fransa buğdayının fiyatı ise 1 dolar gerileyerek ton başına 259 dolara düştü.\n\nRusya'nın temmuz buğday ihracatı da geriledi\n\nRus Tahıl Birliği’nin izleme ve analiz departmanı tarafından ağustos ayının başında açıklanan verilere göre Rusya’nın buğday ihracatı temmuz ayında geçen yılın aynı dönemine kıyasla yüzde 17,7 azalarak 1,8 milyon tona geriledi. Geçen yıl temmuz ayında ihracat yaklaşık 2,2 milyon ton seviyesindeydi.\n\nRusya’nın temmuz ayında gerçekleştirdiği başlıca tahıl ihracatı ise toplam 2,026 milyon ton oldu. Bu rakam, Temmuz 2025’e göre yüzde 37,6 daha düşük gerçekleşti.\n\nUkrayna'nın tahıl sevkiyatında da düşüş yaşandı\n\nVedomosti'nin aktardığı bilgilere göre, Ukrayna’nın Odesa bölgesindeki limanlara yönelik karşılıklı saldırıların ardından 1 Temmuz’dan itibaren buğday ihracatı yüzde 18, arpa ihracatı yüzde 28 ve un sevkiyatı yüzde 54 azaldı.\n\nAğustos ayının başlamasıyla birlikte sevkiyatlarda daha belirgin bir yavaşlama görüldü. Haberde, Rus saldırılarının temmuz ayının sonunda Odesa bölgesindeki limanların faaliyetlerinin durmasına yol açtığı belirtildi.\n\nKaradeniz’deki gelişmelerin Rusya ve Ukrayna’nın tahıl sevkiyatlarını etkilemesi, bölgeden yapılan buğday ticaretinin seyrini de doğrudan etkileyen unsurlar arasında yer aldı.\n\nTARIM PUSULASI HABER MERKEZİ"
     },
     {
-      "title": "Argus: Çatışmalar ve iklim deniz taşımacılığı maliyetini artırdı",
-      "url": "https://www.tarimpusulasi.com/haber/argus-catismalar-ve-iklim-deniz-tasimaciligi-maliyetini-artirdi-47499",
-      "source": "Tarım Pusulası",
-      "date": "2026-08-24",
-      "summary": "Çatışmalar, kuraklık ve su seviyelerindeki düşüş, Panama Kanalı, Ren Nehri, Kızıldeniz ve Karadeniz gibi kritik güzergâhlarda deniz ve nehir taşımacılığı maliyetlerini yükseltti. Argus verilerine göre bazı navlun oranları son 20 yılın en yüksek seviyelerine çıktı.",
-      "content": "İSTANBUL — Çatışmalar ve iklim kaynaklı gelişmeler, Panama Kanalı, Ren Nehri, Kızıldeniz ve Karadeniz dahil olmak üzere önemli deniz ve nehir taşımacılığı güzergâhlarında maliyetlerin sert biçimde yükselmesine yol açtı. Argus verilerine göre Kızıldeniz ve Karadeniz'de Akdeniz'e giden tankerler için navlun oranları, son 20 yılın en yüksek seviyesine ulaştı.\n\nTASS'ın Financial Times'a dayandırdığı habere göre, çatışmaların yanı sıra Avrupa ve Latin Amerika'daki uzun süreli kuraklıklar, başlıca taşımacılık güzergâhlarında navlun tarifelerinde rekor artışlara neden oldu. Gelişmeler arasında Hürmüz Boğazı'ndaki fiili kapanma da gösterildi.\n\nPetrol taşımacılığında navlun 15,22 dolara çıktı\n\nArgus verilerine göre Basra Körfezi'nden Asya'ya petrol taşımacılığında navlun oranları geçen hafta varil başına 15,22 dolara yükseldi. Bu seviye, Argus'un navlun oranlarını değerlendirmeye başladığı 2005'ten bu yana kaydedilen en yüksek değer oldu.\n\nAsya ülkelerinden ABD'nin Doğu Yakası limanlarına konteyner taşımacılığında ise ortalama spot navlun oranları geçen yılın aynı dönemine göre yüzde 234 arttı. 40 fitlik standart bir konteyner için fiyatlar 10 bin 200 doların üzerine çıktı.\n\nPanama Kanalı'nda geçiş maliyeti yükseldi\n\nPasifik Okyanusu'nun ekvatoral kesiminde deniz suyu sıcaklıklarının normalin üzerine çıkmasıyla ilişkilendirilen El Niño'nun etkileri, Panama Kanalı'ndaki su seviyesinin düşmesine neden oldu.\n\nTASS'ın Financial Times'a aktardığı bilgilere göre, kanaldaki geçiş talebinin Hürmüz Boğazı'ndaki kriz nedeniyle artması da maliyetleri etkiledi. Ağustos ayında Panama Kanalı'ndaki günlük açık artırmalı geçiş slotlarının ortalama fiyatı 1,1 milyon ila 2,5 milyon dolar seviyesine yükseldi.\n\nTaşımacılık zincirinde maliyet baskısı\n\nArgus temsilcisi John Ollett, yaşanan gelişmeleri deniz taşımacılığı piyasasında bugüne kadar görülen en kapsamlı aksamalardan biri olarak değerlendirdi.\n\nAnaliz şirketi Xeneta'dan Peter Sand ise Orta Doğu'daki savaşla bağlantılı taşımacılık aksamalarının kısa vadede ortadan kalkmayabilecek yapısal bir sorun haline geldiğini belirtti. Sand, oluşan maliyetlerin tedarik zincirinin tamamına yansıyacağını ifade etti.\n\nKritik güzergâhlarda birden fazla risk etkili oluyor\n\nVeriler, küresel taşımacılık maliyetlerinde yalnızca çatışmaların değil, iklim kaynaklı gelişmelerin de etkili olduğunu ortaya koyuyor. Hürmüz Boğazı'ndaki kriz taşımacılık talebini ve maliyetleri artırırken, Panama Kanalı'ndaki su seviyesinin düşmesi geçiş kapasitesi ve fiyatlar üzerinde baskı oluşturdu.\n\nAvrupa'daki kuraklık ise Ren Nehri gibi önemli iç su yolu taşımacılığı güzergâhlarında operasyonel koşulları etkileyen unsurlar arasında yer aldı.\n\nTARIM PUSULASI HABER MERKEZİ"
-    },
-    {
-      "title": "Rusya'nın Türkiye'ye buğday ihracatı 7,3 milyon tona çıktı",
-      "url": "https://www.tarimpusulasi.com/haber/rusyanin-turkiyeye-bugday-ihracati-73-milyon-tona-cikti-47498",
-      "source": "Tarım Pusulası",
-      "date": "2026-08-24",
-      "summary": "Rusya, 2025/26 tarım sezonunda 46,5 milyon ton buğday ihraç ederek dünya pazarındaki lider konumunu sürdürdü. Türkiye’ye yapılan buğday ihracatı ise önceki sezona göre 2,2 kat artarak yaklaşık 7,3 milyon tona ulaştı.",
-      "content": "MOSKOVA — Rusya, yüksek rekabetin yaşandığı 2025/26 tarım sezonunda dünya buğday ihracatındaki liderliğini korudu. Rusya Federal Agroexport Merkezi'nin Interfax'a yaptığı açıklamaya göre ülke, temmuz-haziran dönemini kapsayan sezonda yurt dışına 46,5 milyon ton buğday gönderdi.\n\nAgroexport, Rusya'nın ihracat performansında 2025 yılında buğday üretiminin 8,5 milyon ton artarak 91,1 milyon tona yükselmesinin yanı sıra geleneksel alıcılardan gelen talep artışının da etkili olduğunu belirtti.\n\nTürkiye'ye buğday ihracatı 2,2 kat arttı\n\nRusya'nın önemli ticaret ortakları arasında Türkiye de yer aldı. 2025/26 tarım sezonunda Rusya'nın Türkiye'ye buğday ihracatı, bir önceki sezona göre 2,2 kat artarak yaklaşık 7,3 milyon tona ulaştı.\n\nSudan'a yapılan buğday ihracatı da aynı dönemde iki katına çıkarak 2,2 milyon tona yükseldi.\n\nAgroexport'un verilerine göre Rusya'nın buğday satışlarını artırdığı diğer önemli pazarlar arasında Mısır ve İsrail de bulunuyor. Mısır'a yapılan ihracat yüzde 6, İsrail'e yapılan ihracat ise yüzde 21 arttı.\n\nIrak pazarı Rus buğdayına açıldı\n\nAgroexport, 2025/26 sezonunun Rusya açısından önemli gelişmelerinden birinin Irak pazarına yönelik düzenli buğday sevkiyatlarının başlaması olduğunu bildirdi.\n\nMerkez tarafından yapılan değerlendirmeye göre Rus buğdayının Irak pazarına erişimi daha önce mümkün olmasına rağmen önceki sezonlarda bu ülkeye önemli ve düzenli miktarlarda sevkiyat yapılmadı. 2025/26 sezonunda ise Irak'a yaklaşık 560 bin ton buğday gönderildi.\n\nBu miktar, bir önceki sezondaki 82 bin tonluk sevkiyatın oldukça üzerinde gerçekleşti.\n\nRusya'nın ihracatı bir önceki sezonu da aştı\n\nRusya'nın 2024/25 tarım sezonundaki buğday ihracatı 44 milyon ton olarak açıklanmıştı.\n\n2025/26 sezonunda ulaşılan 46,5 milyon tonluk ihracat, böylece önceki sezona göre daha yüksek bir seviyeye çıktı.\n\nAB ve Kanada da başlıca ihracatçılar arasında\n\nRusya'nın yanı sıra Avrupa Birliği ve Kanada da 2025/26 sezonunda dünya buğday pazarının başlıca tedarikçileri arasında yer aldı.\n\nAgroexport'un ABD Tarım Bakanlığı (USDA) verilerine dayandırdığı bilgilere göre, Avrupa Birliği'nin buğday ihracatı 31,5 milyon ton, Kanada'nın ihracatı ise 29,6 milyon ton oldu.\n\nBu veriler, Rusya'nın 2025/26 sezonunda dünya buğday ihracatındaki konumunu koruduğunu ve Türkiye'nin de Rus buğdayının önemli alıcılarından biri olduğunu gösteriyor.\n\nTARIM PUSULASI HABER MERKEZİ"
-    },
-    {
       "title": "Konya Pancar’ın Mali Genel Kurulu’na bu kare damga vurdu! Erkoyuncu’nun yanındaki isim dikkat çekti",
       "url": "https://www.tarimdanhaber.com/konya-pancarin-mali-genel-kuruluna-bu-kare-damga-vurdu-erkoyuncunun-yanindaki-isim-dikkat-cekti",
       "source": "Tarımdan Haber",
@@ -153,7 +153,7 @@
           "name": "Arpa",
           "unit": "₺/kg",
           "price": 13.76,
-          "change": 1.78,
+          "change": 0,
           "source": "Edirne TB",
           "date": "2026-08-25"
         },
@@ -162,7 +162,7 @@
           "name": "Ayçiçeği (yağlık)",
           "unit": "₺/kg",
           "price": 41.14,
-          "change": -0.39,
+          "change": 0,
           "source": "Edirne TB",
           "date": "2026-08-25"
         },
@@ -263,7 +263,7 @@
       "name": "Arpa",
       "unit": "₺/kg",
       "price": 13.76,
-      "change": 1.78,
+      "change": 0,
       "source": "Edirne TB",
       "date": "2026-08-25"
     },
@@ -272,7 +272,7 @@
       "name": "Ayçiçeği (yağlık)",
       "unit": "₺/kg",
       "price": 41.14,
-      "change": -0.39,
+      "change": 0,
       "source": "Edirne TB",
       "date": "2026-08-25"
     },
@@ -337,17 +337,5 @@
   "defaultBorsa": "5ED10",
   "defaultCity": "CANAKKALE",
   "note": "Fiyatlar TOBB ticaret borsasından (borsa seçilebilir). Kanola manuel (Trakya 2025).",
-  "inputsNote": "Mazot: akaryakıt bayi fiyatı, günlük (şehir seçilebilir). Gübre: manuel (yaklaşık).",
-  "errors": [
-    "mazot ANKARA: fetch failed",
-    "mazot ISTANBUL: fetch failed",
-    "mazot IZMIR: fetch failed",
-    "mazot KONYA: fetch failed",
-    "mazot ADANA: fetch failed",
-    "mazot BURSA: fetch failed",
-    "mazot ANTALYA: fetch failed",
-    "mazot SAMSUN: fetch failed",
-    "mazot TEKIRDAG: fetch failed",
-    "mazot CANAKKALE: fetch failed"
-  ]
+  "inputsNote": "Mazot: akaryakıt bayi fiyatı, günlük (şehir seçilebilir). Gübre: manuel (yaklaşık)."
 }
