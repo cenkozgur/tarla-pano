@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-26T08:24:55.217Z",
+  "updatedAt": "2026-08-26T09:12:23.820Z",
   "fx": [
     {
       "code": "USD",
@@ -162,7 +162,7 @@
           "name": "Ayçiçeği (yağlık)",
           "unit": "₺/kg",
           "price": 41.25,
-          "change": 0.27,
+          "change": 0,
           "source": "Edirne TB",
           "date": "2026-08-26"
         },
@@ -272,7 +272,7 @@
       "name": "Ayçiçeği (yağlık)",
       "unit": "₺/kg",
       "price": 41.25,
-      "change": 0.27,
+      "change": 0,
       "source": "Edirne TB",
       "date": "2026-08-26"
     },
@@ -337,5 +337,8 @@
   "defaultBorsa": "5ED10",
   "defaultCity": "CANAKKALE",
   "note": "Fiyatlar TOBB ticaret borsasından (borsa seçilebilir). Kanola manuel (Trakya 2025).",
-  "inputsNote": "Mazot: akaryakıt bayi fiyatı, günlük (şehir seçilebilir). Gübre: manuel (yaklaşık)."
+  "inputsNote": "Mazot: akaryakıt bayi fiyatı, günlük (şehir seçilebilir). Gübre: manuel (yaklaşık).",
+  "errors": [
+    "fx: fetch failed"
+  ]
 }
