@@ -1,43 +1,67 @@
 {
-  "updatedAt": "2026-08-26T16:50:06.375Z",
+  "updatedAt": "2026-08-26T18:27:42.489Z",
   "fx": [
     {
       "code": "USD",
       "name": "Dolar",
-      "buy": 481146,
-      "sell": 4812,
-      "change": 6
+      "buy": 48.11,
+      "sell": 48.12,
+      "change": 0.05
     },
     {
       "code": "EUR",
       "name": "Euro",
-      "buy": 561063,
-      "sell": 561148,
-      "change": -12
+      "buy": 56.09,
+      "sell": 56.11,
+      "change": -0.13
     },
     {
       "code": "GRA",
       "name": "Gram Altın",
-      "buy": 711984,
-      "sell": 712079,
-      "change": -114
+      "buy": 7106.35,
+      "sell": 7107.35,
+      "change": -1.33
     },
     {
       "code": "CEYREKALTIN",
       "name": "Çeyrek Altın",
-      "buy": 113908,
-      "sell": 116503,
-      "change": -2
+      "buy": 11390.8,
+      "sell": 11650.3,
+      "change": -0.02
     },
     {
       "code": "CUMHURIYETALTINI",
       "name": "Cumhuriyet Altını",
       "buy": 47216,
       "sell": 47928,
-      "change": 29
+      "change": 0.29
     }
   ],
   "news": [
+    {
+      "title": "Tarım Müdürlüğü Kars’ta biçerdöver denetimlerini sürdürüyor",
+      "url": "https://www.tarimpusulasi.com/haber/tarim-mudurlugu-karsta-bicerdover-denetimlerini-surduruyor-47523",
+      "source": "Tarım Pusulası",
+      "date": "2026-08-26",
+      "summary": "Kars’ta hububat hasadının güvenli ve verimli tamamlanması amacıyla biçerdöverlerin teknik ve hasat kurallarına uygunluğu sahada kontrol ediliyor.",
+      "content": "KARS — Kars’ta hububat hasadının güvenli ve verimli şekilde tamamlanması amacıyla biçerdöver kontrolleri sahada sürdürülüyor.\n\nKars İl Tarım ve Orman Müdürlüğü ekipleri tarafından gerçekleştirilen kontrollerde biçerdöverlerin teknik ve hasat kurallarına uygunluğu inceleniyor. Çalışmalarla dane ve ürün kayıplarının en aza indirilmesi hedefleniyor.\n\nİl Tarım ve Orman Müdürlüğü, üreticilerin emeğinin ve alın terinin korunması amacıyla biçerdöver kontrollerinin sahada sürdürüldüğünü bildirdi.\n\nİl Müdürlüğü tarafında yapılan açıklamada kontrol edilen biçerdöver sayısı, tespit edilen uygunsuzluklar veya herhangi bir ceza uygulamasına ilişkin bilgi yer almadı.\n\nTARIM PUSULASI HABER MERKEZİ"
+    },
+    {
+      "title": "Isparta Tarım Müdürlüğü sulama projesine 2,2 milyon TL hibe",
+      "url": "https://www.tarimpusulasi.com/haber/isparta-tarim-mudurlugu-sulama-projesine-22-milyon-tl-hibe-47522",
+      "source": "Tarım Pusulası",
+      "date": "2026-08-26",
+      "summary": "Isparta’da S.S. Yukarı Gökdere Köyü Sulama Kooperatifinin enerji tasarruflu yatırım projesine 2 milyon 237 bin 651,26 TL Bakanlık hibesi sağlandı.",
+      "content": "ISPARTA — S.S. Yukarı Gökdere Köyü Sulama Kooperatifi tarafından uygulanan “Enerji Tasarruflu Yatırım” projesine, Kırsal Kalkınma Yatırımlarının Desteklenmesi Programı 16. Etap Ekonomik Altyapı Yatırımları kapsamında 2.237.651,26 TL Bakanlık hibe desteği sağlandı.\n\nToplam yatırım tutarı 4.475.302,52 TL olan projenin yüzde 50’si Bakanlık tarafından hibe olarak karşılandı. Böylece proje kapsamında sağlanan hibe tutarı, toplam yatırım bedelinin yarısına karşılık geldi.\n\nEnerji tasarrufu sağlaması ve üretim maliyetlerinin azaltılmasına katkı sunması hedeflenen yatırımın, tarımsal sulamanın sürdürülebilirliğine katkı sağlaması amaçlanıyor.\n\nIsparta İl Tarım ve Orman Müdürlüğü, kırsal kalkınmayı destekleyen ve üretimde verimliliği artıran yatırımlara yönelik çalışmaların sürdürüldüğünü bildirdi.\n\nTARIM PUSULASI HABER MERKEZİ"
+    },
+    {
+      "title": "Buğdaydan mısıra, fındıktan üzüme üretici diken üstünde! Anahtar Parti’den hükümete dikkat çeken çağrı",
+      "url": "https://www.tarimdanhaber.com/bugdaydan-misira-findiktan-uzume-uretici-diken-ustunde-anahtar-partiden-hukumete-dikkat-ceken-cagri",
+      "source": "Tarımdan Haber",
+      "date": "2026-08-26",
+      "summary": "Anahtar Parti Genel Başkan Yardımcısı Hasan Hüseyin Demiröz, tarım ürünlerinde yaşanan fiyat ve pazarlama sorunlarına dikkat çekerek hükümete çağrıda bulundu. Buğdaydan mısıra, fındıktan üzüme kadar birçok üründe üreticinin sorun yaşadığını belirten Demiröz, “Devlet girdiyi verip mahsulü alırsa üret",
+      "content": "Haber Merkezi / Anahtar Parti Genel Başkan Yardımcısı Hasan Hüseyin Demiröz, tarımda üreticilerin yaşadığı fiyat ve pazarlama sorunları üzerinden dikkat çeken bir çıkış yaptı.\n\nDevletin üretim sürecine daha etkin şekilde müdahil olması gerektiğini savunan Demiröz, çiftçinin üretim girdilerinin karşılanması ve üretilen mahsulün devlet tarafından alınmasına dayanan bir model önerdi.\n\nDemiröz, “Devlet girdiyi verip mahsulü alırsa üreticinin, sanayicinin, perakendecinin ve tüketicinin tüm sorunları biter” ifadelerini kullandı.\n\n“BUĞDAY ÜRETİCİSİNİN ELİNE 12-13 TL GEÇTİ”\n\nHububat piyasasına ilişkin değerlendirmelerde bulunan Demiröz, buğday alımlarında üreticinin yeterince korunamadığını savundu.\n\nTMO'nun buğdayın önemli bölümünü doğrudan üreticiden değil tüccardan aldığını kaydeden Demiröz, çiftçinin eline geçen fiyatın 12-13 TL/kg seviyesinde kaldığını belirtti.\n\nDemiröz, yüksek miktarda ürünü bulunan büyük üreticilerin ise 16,5 TL/kg seviyesinden satış yapabildiğini ancak bu kesimin toplam üreticilerin yaklaşık yüzde 5'ini oluşturduğunu dile getirdi.\n\n“MISIR HASADI BAŞLADI, HALA FİYAT VERMEDİNİZ”\n\nMısır üreticisinin de belirsizlik içinde olduğunu belirten Demiröz, hasat başlamasına rağmen alım fiyatının açıklanmamasına tepki gösterdi.\n\n“Mısır hasadı başladı, hala fiyat vermediniz” diyen Demiröz, Ege'de üzüm üreticisinin de açıklanacak fiyatı beklediğine dikkat çekti.\n\nFINDIK FİYATINA ELEŞTİRİ\n\nFındıkta açıklanan 250 TL/kg alım fiyatını da eleştiren Demiröz, bu rakamın üretim maliyetini ancak karşıladığını savundu.\n\nHasadın yaklaşık 20 gün önce başladığını ancak kamu alımlarının yeni devreye girdiğini belirten Demiröz, 300 bin ton civarında fındığın kamu tarafından alınmasını beklediklerini ifade etti.\n\n“ÜRETİCİ DİKEN ÜSTÜNDE”\n\nKayısı ve kiraz üreticisinin zarar ettiğini belirten Demiröz; üzüm, zeytin, incir, fındık ve mısır üreticilerinin de fiyat ve pazarlama konusunda endişeli olduğunu söyledi.\n\nTarımda farklı ürün gruplarında benzer sorunların yaşandığını savunan Demiröz, hükümete şu sözlerle seslendi:\n\n“Kayısı üreticisi, kiraz üreticisi zarar etti. Üzüm, zeytin, incir, fındık ve mısır üreticisi diken üstünde. Sizden bir el uzatmanızı bekliyor. Hala neyi bekliyorsunuz?”\n\nDemiröz, üreticinin girdi maliyetinden ürünün pazarlanmasına kadar yaşadığı sorunların çözümü için devletin üretim ve alım politikasının yeniden ele alınması gerektiğini kaydetti."
+    },
     {
       "title": "TMO hububat alım ödemelerinde 16,3 milyar TL aktardı",
       "url": "https://www.tarimpusulasi.com/haber/tmo-hububat-alim-odemelerinde-163-milyar-tl-aktardi-47521",
@@ -103,36 +127,12 @@
       "content": "HATAY — Hatay İl Tarım ve Orman Müdürü Abdurrahman Türkmen, Antakya ilçesinde arıcılık faaliyeti yürüten ve mısır üretimi yapan üreticileri ziyaret ederek üretim alanlarında incelemelerde bulundu.\n\nArıcılık işletmesindeki ziyarette arı kolonilerinin durumu, üretim faaliyetleri ve sezonun genel seyri hakkında üreticiden bilgi alındı. Türkmen, arıcılıkta verimliliğin artırılması, arı sağlığının korunması ve kaliteli bal üretiminin önemine dikkat çekerek üreticiyle görüş alışverişinde bulundu.\n\nMısır üretim alanında gerçekleştirilen ziyarette ise bitkilerin gelişim durumu, üretim süreci ve sezonun genel seyri değerlendirildi. Türkmen, mısır üretiminde verimliliğin artırılması, bitki sağlığının korunması ve sürdürülebilir üretimin sağlanmasının önemini vurgulayarak üreticinin talep ve önerilerini dinledi.\n\nHatay İl Tarım ve Orman Müdürlüğü, arıcılığın geliştirilmesi, üreticilerin desteklenmesi ve tarımsal üretimin geliştirilmesine yönelik çalışmaların sahada sürdürüldüğünü bildirdi.\n\nTARIM PUSULASI HABER MERKEZİ"
     },
     {
-      "title": "Tarım Müdürlüğü Kürtün’de fındıkta pestisit denetimi yaptı",
-      "url": "https://www.tarimpusulasi.com/haber/tarim-mudurlugu-kurtunde-findikta-pestisit-denetimi-yapti-47515",
-      "source": "Tarım Pusulası",
-      "date": "2026-08-25",
-      "summary": "Gümüşhane’nin Kürtün ilçesinde hasat öncesi pestisit denetimi kapsamında fındık numuneleri sahada teknik personel tarafından alındı.",
-      "content": "GÜMÜŞHANE — Gümüşhane’nin Kürtün ilçesinde, hasat öncesi pestisit denetimi kapsamında fındık numunesi alma çalışması gerçekleştirildi.\n\nGümüşhane İl Tarım ve Orman Müdürlüğü teknik personeli tarafından sahada yürütülen çalışmada, Hasat Öncesi Pestisit Denetim Programı kapsamında fındık numuneleri alındı.\n\nİl Tarım ve Orman Müdürlüğü, çalışmaların güvenilir ve sağlıklı gıda arzının sağlanması amacıyla sürdürüldüğünü belirterek denetimlerin aralıksız devam ettiğini bildirdi.\n\nTARIM PUSULASI HABER MERKEZİ"
-    },
-    {
-      "title": "TMO, Giresun’da ilk fındığı 280,50 TL’den aldı",
-      "url": "https://www.tarimpusulasi.com/haber/tmo-giresunda-ilk-findigi-28050-tlden-aldi-47514",
-      "source": "Tarım Pusulası",
-      "date": "2026-08-25",
-      "summary": "Giresun’un Bulancak ilçesinde 2026 fındık sezonunun ilk TMO alımı yapılırken, üreticinin ürünü 280,50 TL/kg fiyatla satın alındı.",
-      "content": "GİRESUN — Toprak Mahsulleri Ofisi (TMO), 2026 fındık sezonunda Giresun’un Bulancak ilçesindeki ilk alımını gerçekleştirdi. Sezonun ilk ürününün alım fiyatı 280,50 TL/kg olarak uygulandı.\n\nBulancak TMO Alım Merkezinde gerçekleştirilen alım programına Giresun Valisi Mustafa Koç, TMO Yönetim Kurulu Başkanı ve Genel Müdürü Ahmet Güldal ile il protokolü katıldı. Sezonun ilk ürünü, fındık üreticisi Hasan Çakmak’tan teslim alındı.\n\nAlım ve analiz sürecinde Çakmak’ın ürününün yüzde 3,6 nem oranına ve 53,5 randıman değerine sahip olduğu belirlendi. Ürün, TMO tarafından 280,50 TL/kg fiyat üzerinden satın alındı.\n\nVali Mustafa Koç, Giresun’da ilk kez fındık alımına şahitlik ettiğini belirterek sezonun üreticiler için hayırlı, bereketli ve bol kazançlı geçmesi temennisinde bulundu.\n\nPrograma Bulancak Kaymakamı Ömer Faruk Tuncer, Giresun İl Tarım ve Orman Müdürü Mustafa Ensar Yılmaz, Bulancak Belediye Başkanı Necmi Sıbıç, Giresun Ticaret ve Sanayi Odası Yönetim Kurulu Başkanı Hasan Çakırmelikoğlu, Giresun Ticaret Borsası Yönetim Kurulu Başkanı Hamza Bölük, Fındık Araştırma Enstitüsü Müdürü Yusuf Bilgen, Giresun Ziraat Odası Başkanı Nurittin Karan ve Bulancak Ziraat Odası Başkanı Naci Karamanoğlu da katıldı.\n\nTMO, fındık alım faaliyetlerini son üreticinin son ürününü teslim etmesine kadar sürdüreceğini bildirdi ve yeni hasat sezonunun üreticiler ile ülke için hayırlı ve bereketli olması temennisinde bulundu.\n\nTARIM PUSULASI HABER MERKEZİ"
-    },
-    {
       "title": "Çin süt ithalatını sert düşürdü! Dünyada oluşan arz fazlası Türkiye'yi nasıl etkileyecek?",
       "url": "https://www.tarimdanhaber.com/cin-sut-ithalatini-sert-dusurdu-dunyada-olusan-arz-fazlasi-turkiyeyi-nasil-etkileyecek",
       "source": "Tarımdan Haber",
       "date": "2026-08-25",
       "summary": "Dünyanın en büyük süt ürünleri pazarlarından Çin'de yaşanan dönüşüm küresel süt ticaretinin dengelerini değiştiriyor. Çin'in uzun yıllar boyunca büyüttüğü yerli süt üretimi ithalata bağımlılığı azaltırken, bazı süt ürünlerinde ithalatın gerilemesi ihracatçı ülkeleri yeni pazar arayışına yöneltiyor. ",
       "content": "Haber Merkezi / Küresel süt ve süt ürünleri piyasasının en önemli alıcılarından Çin'de yaşanan yapısal değişim, dünya ticaretinde yeni bir dönemin işaretlerini veriyor.\n\nTarım politikaları uzmanı Ergin Kahveci, Çin'in süt üretimi ve dış ticaret verilerini değerlendirdiği çalışmasında, ülkenin uzun vadede kendi üretim kapasitesini önemli ölçüde artırırken süt ürünleri ithalatındaki eski yüksek büyüme döneminin de sona erdiğine dikkat çekti.\n\nKahveci'nin değerlendirmesi, Çin'deki dönüşümün yalnızca bu ülkenin süt sektörünü değil, Avrupa Birliği, Yeni Zelanda, ABD gibi büyük ihracatçıları ve Türkiye'nin rekabet ettiği pazarları da yakından ilgilendirdiğini ortaya koyuyor.\n\nÇİN'İN SÜT ÜRETİMİ 40 MİLYON TONUN ÜZERİNDE\n\nÇin'in süt üretiminde son birkaç on yılda yaşanan büyüme dikkat çekiyor. Ülkenin resmi istatistiklerine göre süt üretimi 2023 yılında yaklaşık 41,97 milyon tona kadar yükseldi.\n\nAncak üretimdeki kesintisiz büyüme 2024'te bozuldu. Çin Ulusal İstatistik Bürosu verilerine göre üretim 2024'te yüzde 2,8 azalarak 40,79 milyon tona geriledi. Bu, 2018'den bu yana kaydedilen ilk yıllık düşüş oldu. 2025 yılında ise üretim yüzde 0,3 artarak 40,91 milyon tona çıktı.\n\nBu rakamlar Çin'in üretiminin son iki yılda hızlı biçimde büyümesinden ziyade, 40 milyon tonun üzerinde çok büyük bir yerli üretim kapasitesini koruduğunu gösteriyor.\n\nÇİN'İN KENDİ KENDİNE YETERLİLİĞİ YÜKSELDİ\n\nAsıl dikkat çekici değişim ise Çin'in yerli üretiminin toplam süt arzındaki ağırlığında yaşandı.\n\nSektör verilerine göre Çin'in süt ve süt ürünlerinde kendine yeterlilik oranı 2021'de yüzde 62 seviyesindeyken, 2024'te yüzde 72'ye yükseldi. Aynı dönemde ithal süt ürünlerinin çiğ süt eşdeğeri 22,51 milyon tondan 15,87 milyon tona geriledi.\n\nBu değişim, dünyanın en büyük süt ürünleri pazarlarından birinin dışarıdan ürüne olan ihtiyacının önceki yıllardaki kadar hızlı büyümemesinin nedenlerinden birini ortaya koyuyor.\n\nİTHALATTA HER ÜRÜNDE AYNI TABLO YOK\n\nBununla birlikte Çin'in süt ürünleri ithalatında bütün ürünleri kapsayan bir çöküşten söz etmek doğru değil.\n\n2026'nın ilk altı ayında Çin'in toplam süt ürünleri ithalatı 1,4125 milyon tona ulaşarak yüzde 2,2 arttı. Ancak ürün gruplarında ciddi ayrışma yaşandı.\n\nAynı dönemde paketli süt ithalatı yüzde 6,7 gerileyerek 172,8 bin tona düşerken, büyük ambalajlı süt tozu ithalatı yüzde 0,2 azaldı. Buna karşılık peynir ithalatı yüzde 24,8, tereyağı grubu yüzde 13 arttı.\n\nDolayısıyla Çin'deki değişimi “Çin artık süt ürünü ithal etmiyor” şeklinde değil, ithalatın ürün bazında yeniden şekillendiği bir dönüşüm olarak okumak gerekiyor.\n\nÇİN ALMAZSA BU ÜRÜNLER NEREYE GİDECEK?\n\nKahveci'nin dikkat çektiği gelişmenin Türkiye açısından kritik tarafı da burada başlıyor.\n\nÇin'in belirli süt ürünlerinde ithalat talebinin zayıflaması halinde, Yeni Zelanda, Avrupa Birliği ve diğer büyük ihracatçı ülkeler ellerindeki ürünü satabilecekleri alternatif pazarlara yönelmek zorunda kalacak.\n\nBu durum özellikle Güneydoğu Asya, Orta Doğu ve Kuzey Afrika'da rekabeti artırabilir.\n\nDolayısıyla Çin'in ithalatındaki gerileme Türkiye açısından iki farklı sonuç doğurabilir.\n\nBir taraftan Çin'in bıraktığı pazar boşlukları Türk süt sanayisi için yeni ihracat fırsatları yaratabilirken, diğer taraftan büyük süt ihracatçılarının Türkiye'nin hedef pazarlarına daha agresif fiyatlarla yönelmesi Türk ihracatçısının rekabet gücünü zorlayabilir.\n\nKÜRESEL FİYAT BASKISI TÜRK ÜRETİCİYİ DE İLGİLENDİRİYOR\n\nÇin'deki gelişmelerin yalnızca ihracatçı sanayiciler açısından değerlendirilmemesi gerekiyor.\n\nDünya piyasasında süt tozu ve diğer süt ürünlerinin fiyatlarının baskı altında kalması halinde, Türkiye'deki yüksek üretim maliyetleriyle küresel fiyatlar arasındaki makasın açılması riski bulunuyor.\n\nBu nedenle Çin'in süt ithalatındaki gelişmeler, Türkiye'deki çiğ süt fiyatlarından sanayicinin rekabet gücüne ve ithalat-ihracat politikalarına kadar uzanan geniş bir alanı ilgilendiriyor.\n\nKAHVECİ: ÇİN'İN OLUŞTURDUĞU BOŞLUK TÜRKİYE İÇİN HEM RİSK HEM FIRSAT\n\nErgin Kahveci, Çin'in küresel süt ürünleri piyasasındaki ağırlığına dikkat çekerek, ithalattaki değişimin dünya ticaretinin yönünü yeniden şekillendirdiğini değerlendirdi.\n\nÇin'in çekildiği veya talebini azalttığı ürün gruplarında özellikle Güneydoğu Asya ülkelerinin giderek daha önemli hale geldiğine işaret eden Kahveci'ye göre, Türkiye'nin de bu yeni ticaret haritasını yakından takip etmesi gerekiyor.\n\nOrtaya çıkan tablo Türkiye açısından iki taraflı bir risk-fırsat dengesi oluşturuyor: Çin'in bıraktığı alanlarda yeni ihracat fırsatları doğarken, Çin'e satış yapamayan büyük ihracatçıların Türkiye'nin mevcut pazarlarına yönelmesi fiyat rekabetini daha da sertleştirebilir."
-    },
-    {
-      "title": "\"5 bin dönüm bahçe söküldü” Badem üreticisinden acil destek çağrısı",
-      "url": "https://www.tarimdanhaber.com/5-bin-donum-bahce-sokuldu-badem-ureticisinden-acil-destek-cagrisi",
-      "source": "Tarımdan Haber",
-      "date": "2026-08-25",
-      "summary": "Kahta Ziraat Odası Başkanı Fatin Rüştü Zorlu Turanlı, 2026 badem hasadı öncesinde Tarım Kredi Kooperatifleri ve ilgili kurumlara çağrıda bulundu. Rekoltenin 25 bin tondan 18–20 bin tona gerilemesinin beklendiğini belirten Turanlı, badem alım fiyatlarının hasattan önce açıklanmasını ve hasat dönemind",
-      "content": "Haber Merkezi / Adıyaman’ın önemli badem üretim merkezlerinden Kahta’da üreticiler, 2026 hasat sezonuna belirsizlik içinde hazırlanıyor. Kahta Ziraat Odası Başkanı Fatin Rüştü Zorlu Turanlı, hem fiyat politikasına hem de ithalat uygulamalarına ilişkin dikkat çeken çağrılarda bulundu.\n\nTuranlı, badem üreticisinin en büyük sorununun hasat döneminde yaşanan fiyat belirsizliği olduğunu belirterek, Tarım Kredi Kooperatifleri başta olmak üzere alım yapan kurumların fiyatları hasattan önce açıklaması gerektiğini söyledi.\n\n“Üretici ne üreteceğini ve ürününü kaça satacağını önceden bilmelidir. Hasat döneminde oluşan fiyat belirsizliği kabul edilemez.”\n\nRekolte 18–20 bin tona gerileyebilir\n\nAdıyaman’da 2025 yılında yaklaşık 25 bin ton olan badem üretiminin, bu yıl 18–20 bin ton seviyesine düşmesinin beklendiğini ifade eden Turanlı, ekonomik nedenlerle yapılan bahçe sökümleri ile çiçeklenme dönemindeki aşırı yağışların üretimi olumsuz etkilediğini söyledi.\n\nYaklaşık 5–7 bin tonluk üretim kaybı beklendiğini belirten Turanlı, bunun sektör açısından ciddi bir uyarı niteliği taşıdığını kaydetti.\n\n“5 bin dönüm bahçe söküldü”\n\nGeçen yıl Adıyaman’da yaklaşık 5 bin dönüm badem bahçesinin söküldüğünü hatırlatan Turanlı, bu eğilimin sürmesi halinde üretimde daha büyük kayıpların yaşanacağını söyledi.\n\n“Bugün sökülen bir bahçenin yerine kısa sürede yenisini koymak mümkün değildir.”\n\n“Badem bahçeleri milli servettir”\n\nBadem üretiminin yalnızca çiftçiyi değil, ülke ekonomisini de ilgilendirdiğini vurgulayan Turanlı, üreticinin zarar etmesi nedeniyle bahçelerin sökülmesinin yapısal bir soruna işaret ettiğini belirtti.\n\n“Bu bahçeler milli servettir. Üretimi kaybedersek ithalata bağımlı hale geliriz.”\n\nHasat döneminde ithalat uyarısı\n\nKahta Ziraat Odası Başkanı, özellikle yerli üreticinin ürününü pazara sunduğu hasat döneminde ithal bademin fiyatları baskıladığını belirterek gümrük vergilerinin artırılması ve ithalatın kontrol altına alınması gerektiğini söyledi.\n\n“Hiç olmazsa hasat döneminde ithal bademin gümrük vergileri artırılmalı. Yerli üreticimiz ürününü pazarlarken ithal ürünle rekabet etmek zorunda bırakılmamalıdır.”\n\n“Maliyetler esas alınmalı”\n\nArtan gübre, sulama ve işçilik maliyetlerine dikkat çeken Turanlı, badem alım fiyatlarının üretim maliyetleri dikkate alınarak belirlenmesini istedi.\n\nTarım Kredi Kooperatifleri ve ilgili kurumlara çağrıda bulunan Turanlı, sürdürülebilir bir alım politikası oluşturulmasının hem üreticinin hem de sektörün geleceği açısından zorunlu olduğunu ifade etti.\n\nAçıklamasını, “Üretici kazanmazsa üretim azalır, üretim azalırsa ithalat artar. Badem üreticisini korumak, Türkiye’nin tarımsal geleceğini korumaktır” sözleriyle tamamladı."
     }
   ],
   "commoditiesByBorsa": {
@@ -337,8 +337,5 @@
   "defaultBorsa": "5ED10",
   "defaultCity": "CANAKKALE",
   "note": "Fiyatlar TOBB ticaret borsasından (borsa seçilebilir). Kanola manuel (Trakya 2025).",
-  "inputsNote": "Mazot: akaryakıt bayi fiyatı, günlük (şehir seçilebilir). Gübre: manuel (yaklaşık).",
-  "errors": [
-    "fx: fetch failed"
-  ]
+  "inputsNote": "Mazot: akaryakıt bayi fiyatı, günlük (şehir seçilebilir). Gübre: manuel (yaklaşık)."
 }
