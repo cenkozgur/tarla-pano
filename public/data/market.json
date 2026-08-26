@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-26T12:15:46.370Z",
+  "updatedAt": "2026-08-26T13:17:38.026Z",
   "fx": [
     {
       "code": "USD",
@@ -11,33 +11,41 @@
     {
       "code": "EUR",
       "name": "Euro",
-      "buy": 56.17,
-      "sell": 56.18,
-      "change": -0.01
+      "buy": 56.13,
+      "sell": 56.13,
+      "change": -0.09
     },
     {
       "code": "GRA",
       "name": "Gram Altın",
-      "buy": 7145.06,
-      "sell": 7146.02,
-      "change": -0.79
+      "buy": 7128.6,
+      "sell": 7129.59,
+      "change": -1.02
     },
     {
       "code": "CEYREKALTIN",
       "name": "Çeyrek Altın",
-      "buy": 11371.47,
-      "sell": 11630.54,
-      "change": -0.18
+      "buy": 11355.15,
+      "sell": 11613.86,
+      "change": -0.33
     },
     {
       "code": "CUMHURIYETALTINI",
       "name": "Cumhuriyet Altını",
-      "buy": 47094,
-      "sell": 47810,
-      "change": 0.04
+      "buy": 47126,
+      "sell": 47838,
+      "change": 0.1
     }
   ],
   "news": [
+    {
+      "title": "Pancar Kooperatifindeki “mutlak butlan” davasında savcılıktan dikkat çeken karar",
+      "url": "https://www.tarimdanhaber.com/pancar-kooperatifindeki-mutlak-butlan-davasinda-savciliktan-dikkat-ceken-karar",
+      "source": "Tarımdan Haber",
+      "date": "2026-08-26",
+      "summary": "Akşehir-Ilgın Pancar Ekicileri Kooperatifi'nin 23 Mayıs'ta yapılan seçimlerinin iptali için açılan “mutlak butlan” davasında tartışmaların odağındaki mazot fişleriyle ilgili dikkat çeken bir gelişme yaşandı. Aynı olayla ilgili rüşvet iddiasını soruşturan Ilgın Cumhuriyet Başsavcılığı, suçun yasal un",
+      "content": "Haber Merkezi / Türkiye genel siyasetinde gündem olan “mutlak butlan” tartışması, Akşehir-Ilgın Pancar Ekicileri Kooperatifi seçimleriyle birlikte tarım sektörünün de gündemine girmişti.\n\n23 Mayıs 2026 tarihinde yapılan kooperatif seçimlerinin ardından Yusuf Yazır ve Abdullah Demirtaş, seçim sürecinde uzak bölgelerdeki çiftçilerin sandığa katılımını sağlamak amacıyla mazot giderlerinin karşılandığını ve bunun seçim iradesini etkilediğini ileri sürerek Konya 1. Asliye Ticaret Mahkemesi'ne başvurmuştu. → Tarımda 'mutlak butlan' davası! Pancar kooperatifi seçimleri yargıya taşındı\n\nDavacı taraf, söz konusu uygulamanın seçim iradesini sakatladığını savunarak seçimlerin “mutlak butlan” kapsamında iptalini talep etmişti.\n\nKarşı taraf ise mazot desteğinin iddia edildiği büyüklükte olmadığını ve seçim sonucunu değiştirecek bir durum oluşturmadığını savundu.\n\nAYNI OLAY RÜŞVET İDDİASIYLA SAVCILIĞA TAŞINDI\n\nKooperatif seçimleriyle ilgili tartışmalar devam ederken mazot fişleri konusunda Ilgın Cumhuriyet Başsavcılığı'na da suç duyurusunda bulunuldu.\n\nBaşsavcılık olayla ilgili rüşvet suçundan soruşturma başlattı.\n\n21 Ağustos'ta tamamlanan soruşturmanın ardından ise dikkat çeken bir karar çıktı.\n\nIlgın Cumhuriyet Başsavcılığı, Ahmet Kara'nın olay tarihinde kooperatif adına hareket etme yetkisinin bulunmadığını değerlendirerek, rüşvet suçunun yasal unsurlarının oluşmadığı gerekçesiyle kovuşturmaya yer olmadığına karar verdi.\n\nMAZOT FİŞİ KARŞILIĞINDA 360 BİN TL ÖDENDİĞİ BEYANI\n\nSavcılık soruşturması mazot fişlerinin miktarıyla ilgili tartışma açısından da dikkat çeken bir bilgi ortaya koydu.\n\nSoruşturma dosyasına yansıyan petrol işletmesi sahibinin ifadesinde, seçim döneminde kullanılan yakıt fişlerinin karşılığı olarak kendisine 360 bin TL ödeme yapıldığı belirtildi.\n\nBu rakamın savcılık tarafından yapılmış bir mali inceleme sonucunda belirlenen toplam tutar değil, petrol işletmesi sahibinin soruşturma kapsamında verdiği ifadede belirttiği tutar olduğu da önem taşıyor.\n\nSavcılık ayrıca mazot fişlerinin dağıtılmadığı yönünde bir tespitte bulunmadı. Takipsizlik kararını, soruşturulan rüşvet suçunun yasal unsurlarının oluşmadığı yönündeki hukuki değerlendirmeye dayandırdı.\n\nŞİMDİ GÖZLER TİCARET MAHKEMESİNDE\n\nSavcılığın takipsizlik kararı ile Konya 1. Asliye Ticaret Mahkemesi'nde devam eden “mutlak butlan” davası ise iki ayrı hukuki süreci oluşturuyor.\n\nSavcılık olayın rüşvet suçu oluşturup oluşturmadığını değerlendirirken, Ticaret Mahkemesi'nin önündeki temel tartışma mazot desteğinin kooperatif ortaklarının seçim iradesini ve seçim sonucunu etkileyecek nitelikte olup olmadığı.\n\nBu nedenle savcılığın takipsizlik kararının ardından gözler şimdi Konya 1. Asliye Ticaret Mahkemesi'nin vereceği karara çevrildi."
+    },
     {
       "title": "IAOM Avrasya Başkanı Ulusoy: Türkiye’nin tahıl tedariki güvende",
       "url": "https://www.tarimpusulasi.com/haber/iaom-avrasya-baskani-ulusoy-turkiyenin-tahil-tedariki-guvende-47520",
@@ -125,14 +133,6 @@
       "date": "2026-08-25",
       "summary": "Kahta Ziraat Odası Başkanı Fatin Rüştü Zorlu Turanlı, 2026 badem hasadı öncesinde Tarım Kredi Kooperatifleri ve ilgili kurumlara çağrıda bulundu. Rekoltenin 25 bin tondan 18–20 bin tona gerilemesinin beklendiğini belirten Turanlı, badem alım fiyatlarının hasattan önce açıklanmasını ve hasat dönemind",
       "content": "Haber Merkezi / Adıyaman’ın önemli badem üretim merkezlerinden Kahta’da üreticiler, 2026 hasat sezonuna belirsizlik içinde hazırlanıyor. Kahta Ziraat Odası Başkanı Fatin Rüştü Zorlu Turanlı, hem fiyat politikasına hem de ithalat uygulamalarına ilişkin dikkat çeken çağrılarda bulundu.\n\nTuranlı, badem üreticisinin en büyük sorununun hasat döneminde yaşanan fiyat belirsizliği olduğunu belirterek, Tarım Kredi Kooperatifleri başta olmak üzere alım yapan kurumların fiyatları hasattan önce açıklaması gerektiğini söyledi.\n\n“Üretici ne üreteceğini ve ürününü kaça satacağını önceden bilmelidir. Hasat döneminde oluşan fiyat belirsizliği kabul edilemez.”\n\nRekolte 18–20 bin tona gerileyebilir\n\nAdıyaman’da 2025 yılında yaklaşık 25 bin ton olan badem üretiminin, bu yıl 18–20 bin ton seviyesine düşmesinin beklendiğini ifade eden Turanlı, ekonomik nedenlerle yapılan bahçe sökümleri ile çiçeklenme dönemindeki aşırı yağışların üretimi olumsuz etkilediğini söyledi.\n\nYaklaşık 5–7 bin tonluk üretim kaybı beklendiğini belirten Turanlı, bunun sektör açısından ciddi bir uyarı niteliği taşıdığını kaydetti.\n\n“5 bin dönüm bahçe söküldü”\n\nGeçen yıl Adıyaman’da yaklaşık 5 bin dönüm badem bahçesinin söküldüğünü hatırlatan Turanlı, bu eğilimin sürmesi halinde üretimde daha büyük kayıpların yaşanacağını söyledi.\n\n“Bugün sökülen bir bahçenin yerine kısa sürede yenisini koymak mümkün değildir.”\n\n“Badem bahçeleri milli servettir”\n\nBadem üretiminin yalnızca çiftçiyi değil, ülke ekonomisini de ilgilendirdiğini vurgulayan Turanlı, üreticinin zarar etmesi nedeniyle bahçelerin sökülmesinin yapısal bir soruna işaret ettiğini belirtti.\n\n“Bu bahçeler milli servettir. Üretimi kaybedersek ithalata bağımlı hale geliriz.”\n\nHasat döneminde ithalat uyarısı\n\nKahta Ziraat Odası Başkanı, özellikle yerli üreticinin ürününü pazara sunduğu hasat döneminde ithal bademin fiyatları baskıladığını belirterek gümrük vergilerinin artırılması ve ithalatın kontrol altına alınması gerektiğini söyledi.\n\n“Hiç olmazsa hasat döneminde ithal bademin gümrük vergileri artırılmalı. Yerli üreticimiz ürününü pazarlarken ithal ürünle rekabet etmek zorunda bırakılmamalıdır.”\n\n“Maliyetler esas alınmalı”\n\nArtan gübre, sulama ve işçilik maliyetlerine dikkat çeken Turanlı, badem alım fiyatlarının üretim maliyetleri dikkate alınarak belirlenmesini istedi.\n\nTarım Kredi Kooperatifleri ve ilgili kurumlara çağrıda bulunan Turanlı, sürdürülebilir bir alım politikası oluşturulmasının hem üreticinin hem de sektörün geleceği açısından zorunlu olduğunu ifade etti.\n\nAçıklamasını, “Üretici kazanmazsa üretim azalır, üretim azalırsa ithalat artar. Badem üreticisini korumak, Türkiye’nin tarımsal geleceğini korumaktır” sözleriyle tamamladı."
-    },
-    {
-      "title": "Konya Pancar’ın Mali Genel Kurulu’na bu kare damga vurdu! Erkoyuncu’nun yanındaki isim dikkat çekti",
-      "url": "https://www.tarimdanhaber.com/konya-pancarin-mali-genel-kuruluna-bu-kare-damga-vurdu-erkoyuncunun-yanindaki-isim-dikkat-cekti",
-      "source": "Tarımdan Haber",
-      "date": "2026-08-23",
-      "summary": "Konya Pancar Ekicileri Kooperatifi’nin 74. Mali Genel Kurulu gerçekleştirilirken, genel kurul sonuçlarından çok yönetim masasındaki dikkat çekici görüntü konuşuldu. Recep Konuk döneminin önemli isimlerinden Kooperatif eski Yönetim Kurulu Üyesi Savaş Kayhan’ın, Başkan Ramazan Erkoyuncu’nun hemen sağı",
-      "content": "Haber Merkezi / Konya Pancar Ekicileri Kooperatifi’nin 74. Mali Genel Kurulu gerçekleştirildi. Kooperatifin mali yapısı ve faaliyetlerinin görüşüldüğü genel kurulda gündem maddeleri kadar yönetim masasındaki dikkat çekici oturma düzeni de öne çıktı.\n\nGenel kurulda Konya Pancar Ekicileri Kooperatifi Yönetim Kurulu Başkanı Ramazan Erkoyuncu’nun hemen sağında Recep Konuk döneminde Yönetim Kurulu Üyesi olan Savaş Kayhan’ın yer alması dikkatlerden kaçmadı.\n\nMALİ GENEL KURULDA SAVAŞ KAYHAN DETAYI\n\nKayhan, Konya Pancar ve Konya Şeker’in önceki dönemlerinde Recep Konuk’a yakınlığıyla bilinen isimlerden biri olarak öne çıkarken, Konuk dönemindeki konumu nedeniyle kooperatif çevrelerinde yakından tanınan bir isim.\n\nBu nedenle Kayhan’ın 74. Mali Genel Kurul’da Erkoyuncu’nun hemen yanında yer alması sıradan bir oturma düzeninin ötesinde değerlendirildi.\n\nGENEL KURUL SONUÇLARINDAN ÇOK BU GÖRÜNTÜ KONUŞULDU\n\nMali Genel Kurul sonrasında kooperatif çevrelerinde yapılan değerlendirmelerde, gündem maddeleri ve alınan kararların yanında Kayhan’ın Erkoyuncu’nun yanında verdiği görüntü de konuşulan başlıklardan biri oldu.\n\nOrtaya çıkan fotoğraf, Recep Konuk döneminin önemli isimlerinden Kayhan’ın mevcut Başkan Ramazan Erkoyuncu’ya destek verdiği yönünde yorumlara neden oldu.\n\nRECEP KONUK DÖNEMİNİN ÖNEMLİ İSMİ NEDEN ERKOYUNCU’NUN YANINDA?\n\nKonya Pancar Ekicileri Kooperatifi’nde yönetim dengeleri, yalnızca kooperatif açısından değil, Konya Şeker ve binlerce pancar üreticisi açısından da yakından takip ediliyor.\n\nBundan dolayı geçmiş dönemde Recep Konuk’a yakınlığıyla bilinen bir yönetim kurulu üyesinin, mevcut başkanın hemen yanında verdiği görüntü doğal olarak farklı yorumları da beraberinde getirdi.\n\nBu kare, “Konuk döneminin önemli isimlerinden Erkoyuncu yönetimine destek mi geliyor?” sorusunu da gündeme taşıdı.\n\nBİR OTURMA DÜZENİ Mİ, YENİ BİR MESAJ MI?\n\nMali Genel Kurul’un ardından cevap bekleyen soru da tam olarak burada ortaya çıkıyor: Savaş Kayhan’ın Ramazan Erkoyuncu’nun hemen yanında yer alması yalnızca yönetim kurulundaki eski görevinden kaynaklanan bir oturma düzeni miydi, yoksa Konya Pancar’daki mevcut yönetim dengelerine ilişkin bir destek mesajı mıydı?"
     }
   ],
   "commoditiesByBorsa": {
@@ -339,7 +339,6 @@
   "note": "Fiyatlar TOBB ticaret borsasından (borsa seçilebilir). Kanola manuel (Trakya 2025).",
   "inputsNote": "Mazot: akaryakıt bayi fiyatı, günlük (şehir seçilebilir). Gübre: manuel (yaklaşık).",
   "errors": [
-    "fx: fetch failed",
     "mazot ANKARA: fetch failed",
     "mazot ISTANBUL: fetch failed",
     "mazot IZMIR: fetch failed",
