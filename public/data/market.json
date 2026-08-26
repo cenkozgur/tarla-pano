@@ -1,43 +1,51 @@
 {
-  "updatedAt": "2026-08-26T13:17:38.026Z",
+  "updatedAt": "2026-08-26T14:06:09.339Z",
   "fx": [
     {
       "code": "USD",
       "name": "Dolar",
-      "buy": 48.11,
+      "buy": 48.12,
       "sell": 48.12,
       "change": 0.06
     },
     {
       "code": "EUR",
       "name": "Euro",
-      "buy": 56.13,
-      "sell": 56.13,
-      "change": -0.09
+      "buy": 56.1,
+      "sell": 56.11,
+      "change": -0.14
     },
     {
       "code": "GRA",
       "name": "Gram Altın",
-      "buy": 7128.6,
-      "sell": 7129.59,
-      "change": -1.02
+      "buy": 7152.7,
+      "sell": 7153.65,
+      "change": -0.68
     },
     {
       "code": "CEYREKALTIN",
       "name": "Çeyrek Altın",
-      "buy": 11355.15,
-      "sell": 11613.86,
-      "change": -0.33
+      "buy": 11390.8,
+      "sell": 11650.3,
+      "change": -0.02
     },
     {
       "code": "CUMHURIYETALTINI",
       "name": "Cumhuriyet Altını",
-      "buy": 47126,
-      "sell": 47838,
-      "change": 0.1
+      "buy": 47216,
+      "sell": 47928,
+      "change": 0.29
     }
   ],
   "news": [
+    {
+      "title": "TMO hububat alım ödemelerinde 16,3 milyar TL aktardı",
+      "url": "https://www.tarimpusulasi.com/haber/tmo-hububat-alim-odemelerinde-163-milyar-tl-aktardi-47521",
+      "source": "Tarım Pusulası",
+      "date": "2026-08-26",
+      "summary": "TMO, 30 Temmuz-5 Ağustos'ta teslim edilen hububat için 16,3 milyar TL, haşhaş için 19 milyon TL ödeme yaptı; ödemelerin süreceğini açıkladı.",
+      "content": "ANKARA — Toprak Mahsulleri Ofisi (TMO), 2026 yılı alım ödemeleri kapsamında üreticilere yönelik yeni ödeme bilgilerini sosyal medya hesaplarından paylaştı. TMO'nun paylaşımına göre, 30 Temmuz-5 Ağustos 2026 tarihleri arasında teslim edilen hububat ürünlerinin bedeli olarak 16 milyar 335 milyon TL, 3-11 Ağustos 2026 tarihleri arasında teslim edilen haşhaş kapsüllerinin bedeli olarak ise 19 milyon TL üreticilerin banka hesaplarına aktarıldı.\n\nHububat ödemesi 16 milyar 335 milyon TL ile toplam açıklanan tutarın büyük bölümünü oluştururken, haşhaş kapsülü ödemesi 19 milyon TL olarak gerçekleşti. Görselde yer alan iki ödeme kaleminin toplamı 16 milyar 354 milyon TL'ye ulaşıyor.\n\nTMO, hububat ürün bedeli ödemesinin 30 Temmuz-5 Ağustos tarihleri arasında teslim edilen ürünleri, haşhaş kapsülü ürün bedeli ödemesinin ise 3-11 Ağustos tarihleri arasında teslim edilen ürünleri kapsadığını bildirdi.\n\nKurumun paylaşımında, söz konusu ödemelerin üreticilerin banka hesaplarına aktarıldığı belirtildi. Ödemesi yapılan üreticilere ayrıca SMS ile bilgilendirme yapıldığı ifade edildi.\n\nTMO, alım ödemelerinin periyodik olarak devam edeceğini duyurdu.\n\nTARIM PUSULASI HABER MERKEZİ"
+    },
     {
       "title": "Pancar Kooperatifindeki “mutlak butlan” davasında savcılıktan dikkat çeken karar",
       "url": "https://www.tarimdanhaber.com/pancar-kooperatifindeki-mutlak-butlan-davasinda-savciliktan-dikkat-ceken-karar",
@@ -109,14 +117,6 @@
       "date": "2026-08-25",
       "summary": "Giresun’un Bulancak ilçesinde 2026 fındık sezonunun ilk TMO alımı yapılırken, üreticinin ürünü 280,50 TL/kg fiyatla satın alındı.",
       "content": "GİRESUN — Toprak Mahsulleri Ofisi (TMO), 2026 fındık sezonunda Giresun’un Bulancak ilçesindeki ilk alımını gerçekleştirdi. Sezonun ilk ürününün alım fiyatı 280,50 TL/kg olarak uygulandı.\n\nBulancak TMO Alım Merkezinde gerçekleştirilen alım programına Giresun Valisi Mustafa Koç, TMO Yönetim Kurulu Başkanı ve Genel Müdürü Ahmet Güldal ile il protokolü katıldı. Sezonun ilk ürünü, fındık üreticisi Hasan Çakmak’tan teslim alındı.\n\nAlım ve analiz sürecinde Çakmak’ın ürününün yüzde 3,6 nem oranına ve 53,5 randıman değerine sahip olduğu belirlendi. Ürün, TMO tarafından 280,50 TL/kg fiyat üzerinden satın alındı.\n\nVali Mustafa Koç, Giresun’da ilk kez fındık alımına şahitlik ettiğini belirterek sezonun üreticiler için hayırlı, bereketli ve bol kazançlı geçmesi temennisinde bulundu.\n\nPrograma Bulancak Kaymakamı Ömer Faruk Tuncer, Giresun İl Tarım ve Orman Müdürü Mustafa Ensar Yılmaz, Bulancak Belediye Başkanı Necmi Sıbıç, Giresun Ticaret ve Sanayi Odası Yönetim Kurulu Başkanı Hasan Çakırmelikoğlu, Giresun Ticaret Borsası Yönetim Kurulu Başkanı Hamza Bölük, Fındık Araştırma Enstitüsü Müdürü Yusuf Bilgen, Giresun Ziraat Odası Başkanı Nurittin Karan ve Bulancak Ziraat Odası Başkanı Naci Karamanoğlu da katıldı.\n\nTMO, fındık alım faaliyetlerini son üreticinin son ürününü teslim etmesine kadar sürdüreceğini bildirdi ve yeni hasat sezonunun üreticiler ile ülke için hayırlı ve bereketli olması temennisinde bulundu.\n\nTARIM PUSULASI HABER MERKEZİ"
-    },
-    {
-      "title": "Çumra’da 700 metrekare alanda safran ekimi yapıldı",
-      "url": "https://www.tarimpusulasi.com/haber/cumrada-700-metrekare-alanda-safran-ekimi-yapildi-47513",
-      "source": "Tarım Pusulası",
-      "date": "2026-08-25",
-      "summary": "Konya’nın Çumra ilçesinde genç kadın girişimci ziraat mühendisine ait 700 metrekarelik alanda safran ekimi gerçekleştirildi.",
-      "content": "KONYA — Konya’nın Çumra ilçesine bağlı Karkın Mahallesi’nde genç kadın girişimci ziraat mühendisine ait 700 metrekarelik alanda safran ekimi gerçekleştirildi.\n\nÇumra İlçe Tarım ve Orman Müdürü Hüseyin Yasin Düğmeci, teknik personel ile Konya Büyükşehir Belediyesi teknik personelinin katıldığı çalışmada girişimci üreticiyle tarlada bir araya gelindi.\n\nEkim çalışması sırasında safran yetiştiriciliği, bakım uygulamaları ve verimlilik konusunda üreticiye teknik bilgiler aktarıldı.\n\nSafran alternatif tarımsal üretim kapsamında değerlendiriliyor\n\nKonya İl Tarım ve Orman Müdürlüğünün açıklamasında, bölgede küçük aile işletmelerinin alternatif tarım ürünleri kapsamında güçlendirilmesi, üreticilerin emeğine değer katılması ve tarımsal üretimin geliştirilmesine yönelik çalışmaların sürdürüldüğü belirtildi.\n\nÇumra’daki çalışmanın da bu kapsamda gerçekleştirildiği bildirildi.\n\nSafran ekiminin gerçekleştirildiği alanın genç kadın girişimci bir ziraat mühendisine ait olduğu belirtildi.\n\nTARIM PUSULASI HABER MERKEZİ"
     },
     {
       "title": "Çin süt ithalatını sert düşürdü! Dünyada oluşan arz fazlası Türkiye'yi nasıl etkileyecek?",
@@ -232,10 +232,10 @@
           "key": "aycicegi",
           "name": "Ayçiçeği (yağlık)",
           "unit": "₺/kg",
-          "price": 36.57,
-          "change": 0,
+          "price": 38.41,
+          "change": 5.03,
           "source": "Eskişehir TB",
-          "date": "2026-08-25"
+          "date": "2026-08-26"
         },
         {
           "key": "kanola",
@@ -337,17 +337,5 @@
   "defaultBorsa": "5ED10",
   "defaultCity": "CANAKKALE",
   "note": "Fiyatlar TOBB ticaret borsasından (borsa seçilebilir). Kanola manuel (Trakya 2025).",
-  "inputsNote": "Mazot: akaryakıt bayi fiyatı, günlük (şehir seçilebilir). Gübre: manuel (yaklaşık).",
-  "errors": [
-    "mazot ANKARA: fetch failed",
-    "mazot ISTANBUL: fetch failed",
-    "mazot IZMIR: fetch failed",
-    "mazot KONYA: fetch failed",
-    "mazot ADANA: fetch failed",
-    "mazot BURSA: fetch failed",
-    "mazot ANTALYA: fetch failed",
-    "mazot SAMSUN: fetch failed",
-    "mazot TEKIRDAG: fetch failed",
-    "mazot CANAKKALE: fetch failed"
-  ]
+  "inputsNote": "Mazot: akaryakıt bayi fiyatı, günlük (şehir seçilebilir). Gübre: manuel (yaklaşık)."
 }
