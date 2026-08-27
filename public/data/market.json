@@ -1,43 +1,59 @@
 {
-  "updatedAt": "2026-08-27T09:52:14.871Z",
+  "updatedAt": "2026-08-27T20:12:48.124Z",
   "fx": [
     {
       "code": "USD",
       "name": "Dolar",
-      "buy": 481311,
-      "sell": 481391,
-      "change": 7
+      "buy": 48.13,
+      "sell": 48.14,
+      "change": 0.07
     },
     {
       "code": "EUR",
       "name": "Euro",
-      "buy": 561749,
-      "sell": 561894,
-      "change": 14
+      "buy": 56.2,
+      "sell": 56.23,
+      "change": 0.2
     },
     {
       "code": "GRA",
       "name": "Gram Altın",
-      "buy": 709024,
-      "sell": 709112,
-      "change": -19
+      "buy": 7127.13,
+      "sell": 7128,
+      "change": 0.33
     },
     {
       "code": "CEYREKALTIN",
       "name": "Çeyrek Altın",
-      "buy": 1129331,
-      "sell": 1155305,
-      "change": -83
+      "buy": 11254.54,
+      "sell": 11511.02,
+      "change": -1.2
     },
     {
       "code": "CUMHURIYETALTINI",
       "name": "Cumhuriyet Altını",
-      "buy": 47216,
-      "sell": 47928,
-      "change": 0
+      "buy": 46667,
+      "sell": 47372,
+      "change": -1.16
     }
   ],
   "news": [
+    {
+      "title": "Üretimi Tarım Bakanlığı planlıyor ama piyasayı kim yönetiyor? Ayçiçeği kararı tartışma başlattı",
+      "url": "https://www.tarimdanhaber.com/uretimi-tarim-bakanligi-planliyor-ama-piyasayi-kim-yonetiyor-aycicegi-karari-tartisma-baslatti",
+      "source": "Tarımdan Haber",
+      "date": "2026-08-27",
+      "summary": "Ayçiçeği ithalatında gümrük vergisinin 1 Ekim’den itibaren yüzde 12’ye düşürülmesi, tarımda “karar mercii kim?” tartışmasını gündeme getirdi. Tarım politikaları uzmanı Ergin Kahveci, Ticaret Bakanlığı’nın “Tarım Bakanlığı ile mutabakata varıldı” açıklamasına dikkat çekerek, üretimi planlayan Tarım B",
+      "content": "Üretimi Tarım Bakanlığı planlıyor, piyasayı kim yönetiyor? Ayçiçeği kararındaki “mutabakat” tartışma yarattı\n\nAyçiçeğinde gümrük vergisinin hasat döneminde yüzde 20'de tutulup 1 Ekim'den itibaren yüzde 12'ye indirilmesi, tarımda üretim planlamasının yanında “piyasa düzenini kim yönetmeli?” tartışmasını da gündeme getirdi. Tarım politikaları uzmanı Ergin Kahveci, Ticaret Bakanlığı'nın kararın Tarım ve Orman Bakanlığı ile “mutabakata varılarak” alındığını açıklamasına dikkat çekerek, “Tarım bütünlüklü olarak kendi ayakları üzerinde dursun isteniyorsa kamu otoritesi tek otorite olmalıdır” değerlendirmesinde bulundu.\n\nTicaret Bakanlığı, yağlık ayçiçeği tohumu ithalatında uygulanan gümrük vergisinin dönemini yeniden düzenledi.\n\nBakanlığın 27 Ağustos tarihli açıklamasına göre, yerli üreticiyi hasat döneminde korumak amacıyla yağlık ayçiçeği tohumu ithalatında mevcut yüzde 20 oranındaki gümrük vergisi 30 Kasım'a kadar uygulanmaya devam edecek.\n\n1 Ekim 2026 tarihinden itibaren ise yağlık ayçiçeği tohumunda gümrük vergisi yüzde 12'ye indirilecek.\n\nTicaret Bakanlığı düzenlemenin gerekçesini; Karadeniz Bölgesi'ndeki gelişmeler, Avrupa'da etkili olan kuraklık nedeniyle yağlık ayçiçeği tohumunda meydana gelmesi olası arz güvenliği ve fiyat artışı riski ile sanayicilerin uygun fiyatlı ve yeterli hammaddeye zamanında ulaşmasının sağlanması olarak açıkladı.\n\nAncak açıklamadaki bir ifade, tarım politikalarının nasıl yönetildiğine ilişkin daha temel bir tartışmayı beraberinde getirdi.\n\n“Tarım ve Orman Bakanlığı ile mutabakata varılmıştır”\n\nTicaret Bakanlığı açıklamasında, 1 Aralık'tan itibaren uygulanacak yüzde 12'lik gümrük vergisine ilişkin “Tarım ve Orman Bakanlığı ile mutabakata varılmıştır” ifadesini kullandı.\n\nTarım politikaları uzmanı Ergin Kahveci ise bu ifadeden hareketle, tarım sektörünün üretimden piyasaya kadar farklı kamu otoriteleri tarafından yönetilmesini eleştirdi.\n\nKahveci, değerlendirmesinde şu ifadeleri kullandı: “Neden tarım bir bütündür ve neden tarım bir tek kamu otoritesi tarafından yönetilmelidir sorusunun yanıtı bu açıklamada... Kırk kapıda kırk kere kapısı çalınan bir sektör, kendi ayaklarını bile göremez.”\n\n“Her gelen Tarım Bakanlığına söz ediyor”\n\nKahveci'nin üzerinde durduğu temel nokta, tarımsal üretimin planlanmasından sorumlu olan Tarım ve Orman Bakanlığı'nın, üreticinin piyasada karşılaşacağı koşulları doğrudan etkileyen dış ticaret kararlarında hangi konumda bulunduğu.\n\nTicaret Bakanlığı'nın kullandığı “mutabakat” ifadesini eleştiren Kahveci, şunları kaydetti: “Her gelen Tarım Bakanlığına söz ediyor. Mutabakat nedir? Tarım Bakanlığının regülasyonu ayarlamasıdır. Mutabık kalınması değildir.”\n\nBu tartışma özellikle Türkiye'nin uygulamaya koyduğu tarımsal üretim planlaması açısından önem taşıyor.\n\nÜretim planlaması varsa piyasayı kim planlayacak?\n\nTarım ve Orman Bakanlığı yeni üretim planlaması modeliyle hangi ürünün hangi bölgelerde üretileceğini, stratejik ürünleri, destekleme sistemini ve su kısıtı bulunan havzalardaki üretimi planlamaya başladı.\n\nAncak çiftçinin üretim kararını ve gelirini yalnızca ne kadar üretildiği belirlemiyor.\n\nİthalatın hangi tarihte açılacağı, hangi gümrük vergisinin uygulanacağı, ihracata yönelik düzenlemeler ve piyasa müdahaleleri de üreticinin karşılaşacağı fiyatı doğrudan etkiliyor.\n\nAyçiçeğinde alınan son karar bunun somut örneklerinden birini oluşturuyor.\n\nYerli ayçiçeğinin piyasaya çıktığı hasat döneminde ithalat vergisinin yüzde 20'de tutulması üreticiyi dışarıdan gelecek düşük fiyatlı ürüne karşı korumayı amaçlarken, hasat döneminin ardından verginin yüzde 12'ye düşürülmesi sanayinin daha uygun maliyetle hammadde teminine yönelik bir piyasa düzenlemesi niteliği taşıyor.\n\nDolayısıyla üretim planlaması ile ithalat politikası birbirinden bağımsız iki alan olmaktan çıkıyor.\n\nKahveci'den dikkat çeken soru: Üretim planına ne oldu?\n\nKahveci de bu noktaya dikkat çekerek; “Üretim planı diye bir şey vardı, ne oldu? Regülasyon kurumu kim?” sorularını gündeme getirdi.\n\nKahveci, şunları kaydetti: \"Üretim planı diye bir şey vardı ne oldu? Regülasyon kurumu kim? Tarım, bütünlüklü olarak, kendi ayakları üzerinde dursun isteniyorsa, kamu otoritesi tek otorite olmalıdır. İktidarın bu alandaki en doğru işlerinden biri, tarım sektörünün üretim /uygulama bileşenlerini bir araya toplayıp bugünkü yapıyı kurmasıdır.\n\nEksik ayak, ise \"piyasa düzeni\" ayağıdır. Bütün dünyada olduğu gibi piyasa düzeni de ait olduğu yere yani Tarım otoritesine bağlanmalıdır. Karar mercii olarak. Uygulama mercii ,başka kamusal otoriteler olabilir.\""
+    },
+    {
+      "title": "Türkşeker 50 bin tonluk sistemi değiştirdi! Tarımdan Haber'in gündeme getirdiği satış sisteminde dikkat çeken geri adım",
+      "url": "https://www.tarimdanhaber.com/turkseker-50-bin-tonluk-sistemi-degistirdi-tarimdan-haberin-gundeme-getirdigi-satis-sisteminde-dikkat-ceken-geri-adim",
+      "source": "Tarımdan Haber",
+      "date": "2026-08-27",
+      "summary": "Tarımdan Haber’in, Türkşeker’in indirimli şeker satışının yüksek tonaj baremiyle iki firma üzerinde yoğunlaştığını ortaya koyan yayınlarının ardından dikkat çeken bir değişikliğe gidildi. Türkşeker, en yüksek indirim için 50 bin ton olan alım eşiğini 5 bin tona düşürerek, avantajlı şeker satışını da",
+      "content": "Sadettin İnan / Türkiye Şeker Fabrikaları AŞ'nin (Türkşeker) indirimli şeker satışında uyguladığı miktar bazlı fiyatlandırmada dikkat çeken bir değişiklik yapıldı.\n\nTarımdan Haber, Türkşeker'in daha önce uyguladığı baremli şeker satış sistemini mercek altına almış; yüksek miktarda şeker alabilen firmalara daha yüksek indirim uygulanmasının piyasadaki rekabet açısından doğurduğu sonuçları gündeme taşımıştı.\n\n\"Türkşeker'in şeker satışında dikkat çeken kurgu: Sistem iki firmaya çalışıyor!\" ve “Türkşeker’in 'Baremli Şeker' kurgusu: Piyasa iki firmaya nasıl peşkeş çekiliyor?” başlıklı dosya haberlerimizde, özellikle en yüksek indirimin 50 bin tonun üzerindeki alımlara verilmesinin üzerinde durmuştuk.\n\nEn ucuz şekeri iki firma alıyor, piyasa yine bu iki firmaya kalıyordu\n\nÇünkü 50 bin ton ve üzerindeki alımı gerçekleştirebilecek finansal güce sahip iki firma bulunurken, Türkşeker’in en yüksek indirim uyguladığı bu baremden de fiilen sadece söz konusu iki firma yararlanıyordu. En düşük fiyattan şekere ulaşan bu firmalar karşısında diğer baremler cazibesini kaybederken, piyasadaki diğer firmalar ihtiyaçlarını Türkşeker’den doğrudan almak yerine bu iki firma üzerinden karşılamak durumunda kalıyordu. Böylece Türkşeker’in miktara bağlı indirim sistemi, rekabeti genişletmek yerine iki firmaya önemli bir fiyat avantajı sağlıyor; şeker ticaretinin de bu iki firma üzerinden yoğunlaşmasına yol açıyordu.\n\nŞeker operasyonunun ardından 50 bin tonluk baremin kaldırılması dikkat çekti!\n\nTürkşeker'in satış sistemindeki değişikliğin zamanlaması da dikkat çekti. Daha önce 50 bin ton ve üzerindeki en avantajlı baremden yararlanan Remzi Çakar Gıda ile İşmen Gıda'nın temsilcilerinin şeker soruşturması kapsamında ifadeye çağrılmasının ardından, Türkşeker yeni satış ilanında 50 bin tonluk baremi tamamen kaldırarak en avantajlı fiyat için eşiği 5 bin tona düşürdü. Türkşeker değişikliğin gerekçesine ilişkin bir açıklama yapmazken, şeker operasyonunun ardından satış sisteminin değiştirilmesi dikkat çekti.\n\n50 bin tonun üzerindeki alıma en yüksek indirim uygulanıyordu\n\nTürkşeker'in Temmuz ayında yayımladığı indirimli vadeli şeker satış ilanında miktara göre dört ayrı fiyat uygulanmıştı.\n\n2 bin 500 tona kadar alımlarda kilogram fiyatı KDV hariç 41,5842 TL olurken, 2 bin 501–25 bin ton arasında 40,5941 TL, 25 bin 1–50 bin ton arasında 39,6040 TL olarak belirlenmişti. 50 bin 1 ton ve üzerindeki alımlarda ise fiyat 38,6139 TL/kg'a kadar düşüyordu.\n\nTürkşeker'in 45 TL/kg satış fiyatı üzerinden hesapladığı iskonto oranı da alım miktarı büyüdükçe yüzde 7,59'dan yüzde 14,19'a kadar yükseliyordu.\n\nDolayısıyla en avantajlı fiyata ulaşabilmek için bir firmanın 50 bin tonun üzerinde şeker alması gerekiyordu.\n\nTarımdan Haber bu sistemi neden eleştirmişti?\n\nTarımdan Haber'in eleştirisinin merkezinde şekerin indirimli satılması değil, en büyük indirimin olağanüstü yüksek bir alım miktarına bağlanması bulunuyordu.\n\n50 bin ton ve üzerindeki bir şeker alımı, yalnızca ticari kapasite değil çok yüksek finansman gücü de gerektiriyor.\n\nBu nedenle sistem, küçük ve orta ölçekli şeker tüccarları ile sanayicilerin en avantajlı fiyat seviyesine ulaşmasını güçleştirirken, yüksek finansman kapasitesine sahip az sayıdaki firmanın önemli bir fiyat avantajı elde etmesine imkan sağlıyordu.\n\nTarımdan Haber, söz konusu yapının Türkşeker'in şeker satışını geniş bir alıcı kitlesine yaymak yerine piyasanın belirli firmalar üzerinden yoğunlaşmasına neden olup olmadığını kamuoyunun gündemine taşımıştı.\n\nYeni ilanda 50 bin tonluk barem kaldırıldı\n\nTürkşeker'in 28 Ağustos 2026 mesai bitimine kadar geçerli yeni “İndirimli Vadeli Şeker Satışı” duyurusunda ise önceki sistemde dikkat çeken önemli bir değişikliğe gidildi.\n\nDaha önce dört ayrı miktar baremi bulunurken yeni satışta sadece iki kademe belirlendi: 0–5 bin tona kadar ve 5 bin ton ve üzeri.\n\nBöylece 25 bin ve 50 bin tonluk baremler tamamen kaldırıldı.\n\nDaha da önemlisi, en avantajlı satış fiyatından yararlanmak için daha önce 50 bin tonun üzerinde şeker alınması gerekirken, yeni uygulamada 5 bin ton ve üzerindeki alımlar yeterli hale geldi.\n\nBaşka bir ifadeyle Türkşeker, en avantajlı fiyat için gereken miktar eşiğini 50 bin ton seviyesinden 5 bin tona indirerek onda bire düşürdü.\n\n5 bin ton ve üzerindeki alımlara aynı fiyat\n\nYeni duyuruya göre 0–5 bin tona kadar şeker alımında peşin fiyat KDV hariç 38,6139 TL/kg, 5 bin ton ve üzerindeki alımlarda ise 37,6238 TL/kg olarak belirlendi.\n\nÜç eşit taksitli satışlarda ise 0–5 bin tona kadar 43,4159 TL/kg, 5 bin ton ve üzerindeki alımlarda 42,3269 TL/kg fiyat uygulanacak.\n\nTaksitler 15 Aralık 2026, 15 Ocak 2027 ve 15 Şubat 2027 tarihlerinde ödenecek. Şekerin fabrikalardan son çekim tarihi ise 31 Aralık 2026 olarak belirlendi.\n\nSatış Burdur, Ereğli, Ilgın, Kastamonu ve Yozgat Şeker Fabrikalarından gerçekleştirilecek.\n\nEn avantajlı fiyata ulaşmak artık daha düşük tonajla mümkün\n\nYeni sistemin en dikkat çekici sonucu, daha fazla firmanın en düşük fiyat kademesine erişebilmesinin önünün "
+    },
     {
       "title": "Konya Şeker’de Netafim tartışması! PanPlast varken neden İsrail merkezli firmanın ürünü kullanıldı?",
       "url": "https://www.tarimdanhaber.com/konya-sekerde-netafim-tartismasi-panplast-varken-neden-israil-merkezli-firmanin-urunu-kullanildi",
@@ -117,22 +133,6 @@
       "date": "2026-08-26",
       "summary": "YENİ Parti Adana Milletvekili Ayhan Barut, 31 Ağustos sulama ödemelerinin hasat sonuna ertelenmesini ve mağdur üreticilere destek verilmesini istedi.",
       "content": "ADANA — YENİ Parti Adana Milletvekili ve TBMM Tarım, Orman ve Köyişleri Komisyonu Üyesi Ayhan Barut, hasat yapamayan, ürününü satamayan ve artan üretim maliyetleriyle karşı karşıya kalan çiftçilerden 31 Ağustos 2026’ya kadar sulama ücretlerini ödemelerinin istenmesine tepki gösterdi. Barut, başta sulama borçları olmak üzere çiftçilerin kamuya ve ilgili kurumlara olan tarımsal borçlarının en azından hasat sonuna kadar ertelenmesini istedi.\n\nÇukurova’da hasat gecikti\n\nBu üretim sezonunda yaşanan aşırı yağış, sel ve dolu olaylarının tarımsal üretimi olumsuz etkilediğini belirten Barut, özellikle Çukurova Bölgesi’nde mısır hasadının geciktiğini ifade etti.\n\nBarut, üreticilerin tarlalarına zamanında girememesi nedeniyle ekim ve dikimlerin geciktiğini, ürünlerde verim ve kalite kayıpları yaşandığını ve bu durumun çiftçilerin borç ödeme takvimini etkilediğini söyledi.\n\nAdana ve Çukurova’nın Türkiye’nin önemli tarımsal üretim merkezleri arasında bulunduğunu belirten Barut, 2026 sezonunda bölgede yaşanan aşırı yağış, sel ve dolu olaylarının üreticileri zor durumda bıraktığını dile getirdi. Özellikle bazı bölgelerde mısır üretimindeki verim kayıplarının önemli boyutlara ulaştığını aktardı.\n\n“Çiftçi kazanırsa her şey düzelir”\n\nÇukurova’da mevsim koşullarına bağlı olarak mısır hasadının geciktiğini ve az sayıda çiftçinin hasat yapabildiğini belirten Barut, üreticilerin henüz ürünlerinden gelir elde etmeden sulama borçlarını ödeme baskısıyla karşı karşıya bırakılmasını eleştirdi.\n\nBarut, “Çiftçilerin henüz ürününü hasat edip gelir elde edememişken, sulama borcunu 31 Ağustos’a kadar ödeme baskısıyla karşı karşıya bırakılması kabul edilemez” dedi.\n\nOlumsuz hava koşullarının üreticilerin iradesi dışında geliştiğini belirten Barut, ekimlerin gecikmesi, ürünlerin gelişme dönemlerinin uzaması ve hasadın ötelenmesinin çiftçilerin kontrolünde olmadığını ifade etti.\n\nÜretim maliyetlerine dikkat çekti\n\nÇiftçilerin üretim maliyetlerinin de arttığını belirten Barut; mazot, gübre, tohum, zirai ilaç, işçilik, elektrik ve sulama giderlerindeki artışların üreticilerin maliyet yükünü ağırlaştırdığını söyledi.\n\nBarut, buna karşılık ürün fiyatlarının artan maliyetleri karşılamaktan uzak kalmasının çiftçilerin ekonomik sıkıntılarını derinleştirdiğini savundu.\n\nSulama ücretlerinin 31 Ağustos 2026’ya kadar ödenmesinin zorunlu tutulmasının Çukurova çiftçisinin mevcut üretim koşullarıyla bağdaşmadığını belirten Barut, üreticilerin önce ürünlerini hasat etmesi, ardından ürünlerini gerçek değerinden satarak borçlarını ödeyebilecek gelire ulaşması gerektiğini ifade etti.\n\nSulama borçlarının ertelenmesini istedi\n\nAyhan Barut, başta sulama borçları olmak üzere çiftçilerin kamuya ve ilgili kurumlara olan tarımsal borçlarının ertelenmesi çağrısında bulundu.\n\n31 Ağustos 2026 olarak belirlenen sulama ücreti ödeme süresinin bölgedeki hasat takvimi dikkate alınarak uzatılmasını isteyen Barut, aşırı yağış, sel ve dolu nedeniyle oluşan verim ve kalite kayıplarının da dikkate alınarak üreticilere acil ve etkin destek sağlanmasını talep etti.\n\nTARIM PUSULASI HABER MERKEZİ"
-    },
-    {
-      "title": "Motorinde 4-5 TL indirim beklentisi",
-      "url": "https://www.tarimpusulasi.com/haber/motorinde-4-5-tl-indirim-beklentisi-47518",
-      "source": "Tarım Pusulası",
-      "date": "2026-08-26",
-      "summary": "Motorin fiyatlarında 4-5 TL arasında indirim beklentisi oluştu. Cumhuriyet’in haberine göre değişikliğin bugün netleşmesi ve yarından itibaren uygulanması bekleniyor.",
-      "content": "ANKARA — Motorin fiyatlarında 4 ile 5 TL arasında indirim yapılması bekleniyor. Cumhuriyet’in Ekonomi Servisi tarafından yayımlanan habere göre, fiyat değişikliğinin bugün saat 16.00’da netleşmesi, indirimin gerçekleşmesi halinde yeni fiyatların yarından itibaren pompaya yansıması öngörülüyor.\n\nMotorin fiyatlarına ilişkin indirim beklentisinin, Brent petrol fiyatındaki gerilemenin ardından gündeme geldiği belirtildi. Cumhuriyet’in haberinde Brent petrolün 85 ABD Doları’nın altına gerilemesinin akaryakıt fiyatlarında düşüş beklentisini artırdığı aktarıldı.\n\nHaberde ayrıca ABD ile İran arasındaki gerilimin azalması, saldırıların durması ve normalleşme çağrılarının artmasının küresel petrol piyasalarına yansıdığı ifade edildi. Bu gelişmelerin ardından petrol fiyatlarında aşağı yönlü hareket görüldüğü kaydedildi.\n\nMotorinde 4-5 TL indirim bekleniyor\n\nCumhuriyet’in haberine göre motorinde 4 ile 5 TL arasında indirim beklentisi bulunuyor. Fiyat değişikliğinin bugün saat 16.00’da netleşmesi beklenirken, indirimin gerçekleşmesi halinde yeni fiyatların yarından itibaren geçerli olacağı öngörülüyor.\n\n26 Ağustos güncel akaryakıt fiyatları\n\nCumhuriyet’in haberinde 26 Ağustos itibarıyla İstanbul, Ankara ve İzmir’deki akaryakıt fiyatları da paylaşıldı. Buna göre güncel fiyatlar şöyle:\n\nİstanbul Avrupa Yakası\n\nBenzin: 74,26 TL\n\nMotorin: 82,73 TL\n\nLPG: 33,79 TL\n\nİstanbul Anadolu Yakası\n\nBenzin: 74,11 TL\n\nMotorin: 82,58 TL\n\nLPG: 33,19 TL\n\nAnkara\n\nBenzin: 75,23 TL\n\nMotorin: 83,83 TL\n\nLPG: 33,89 TL\n\nİzmir\n\nBenzin: 75,53 TL\n\nMotorin: 84,12 TL\n\nLPG: 33,79 TL\n\n5 TL indirim gerçekleşirse fiyatlar hangi seviyeye gelebilir?\n\nCumhuriyet’in haberinde, motorine 5 TL indirim uygulanması halinde bazı bölgelerde oluşabilecek fiyat seviyelerine ilişkin de hesaplama yer aldı.\n\nBuna göre 5 TL’lik indirim gerçekleşmesi durumunda motorin fiyatının İstanbul’da 77,73 TL, Ankara’da 78,83 TL, İzmir’de 79,12 TL ve Doğu illerinde 80,57 TL seviyelerine gerileyebileceği belirtildi.\n\nBu rakamların kesinleşmiş pompa fiyatları değil, 5 TL’lik indirim senaryosuna göre öngörülen seviyeler olduğu kaydedildi.\n\nTARIM PUSULASI HABER MERKEZİ\n\nKaynak: Cumhuriyet\n\nKaynak haber: Motorinde dev indirim yolda: Litre fiyatı ne kadar düşecek?"
-    },
-    {
-      "title": "Nilüfer Belediyesi Konaklı’da Hırsız Almaz Kavununu Hasat Etti",
-      "url": "https://www.tarimpusulasi.com/haber/nilufer-belediyesi-konaklida-hirsiz-almaz-kavununu-hasat-etti-47517",
-      "source": "Tarım Pusulası",
-      "date": "2026-08-26",
-      "summary": "Nilüfer Belediye Başkanı Şadi Özdemir, Konaklı’da Hırsız Almaz kavununun hasadına katıldı; üreticilerin örgütlenmesi ve tarımın korunmasına vurgu yaptı.",
-      "content": "BURSA — Nilüfer Belediye Başkanı Şadi Özdemir, Konaklı Mahallesi’ni ziyaret ederek vatandaşlar ve üreticilerle bir araya geldi. Özdemir, Konaklı Mahallesi Muhtarı Hasan Tosun ve NİLKOOP Başkanı Resul Tarman ile birlikte tarlaya girerek “Hırsız Almaz Kavunu” olarak da bilinen kavunun hasadına katıldı.\n\nHasat sırasında konuşan Şadi Özdemir, Konaklı, Çaylı, Büyükbalıklı ve Karacaoba bölgelerinin kavun üretiminde önemli bir yere sahip olduğunu belirtti. Özdemir, Türkiye İstatistik Kurumu (TÜİK) verilerine göre bölgede 3 bin 282 dönüm arazide kavun ekildiğini ifade etti.\n\nÜreticilerin desteklenmesi ve ürünlerin daha değerli hale gelmesi için örgütlü üretimin önemine dikkat çeken Özdemir, Konaklı’da bir kooperatif kurduklarını söyledi. Üreticilerin ürünlerini kooperatife vermesi, NİLKOOP ve diğer satış noktalarıyla yapılacak anlaşmalarla daha örgütlü bir yapı oluşturulmasının hedeflendiğini belirtti.\n\nHırsız Almaz Kavunu İçin Coğrafi İşaret Hazırlığı\n\nÖzdemir, “Hırsız Almaz Kavunu” olarak adlandırılan ürünün geleneksel yetiştiricilik özellikleri taşıdığını ve uzun yıllardır ata tohumu kullanılarak üretildiğini söyledi.\n\nKavunun şeklinin çok güzel görünmeyebileceğini ancak lezzetli olduğunu belirten Özdemir, ürünün eski kuşaklardan aktarılarak günümüze ulaştığını ifade etti. Özdemir ayrıca Hırsız Almaz Kavunu için coğrafi işaret alınmasına yönelik hazırlıkların sürdüğünü açıkladı.\n\nNilüfer’de Tarımsal Üretime Destek Vurgusu\n\nNilüfer Belediyesi’nin tarım politikalarına da değinen Özdemir, üreticilerin üretimden vazgeçmemesi gerektiğini belirterek tarımsal üretimi desteklemeye devam edeceklerini söyledi.\n\nTarımda sürdürülebilirliğin sağlanmasının toprakların korunması açısından önemli olduğunu ifade eden Özdemir, insanların bölgede geleceklerini görebilmesi gerektiğini dile getirdi. Özdemir, bölgede tarıma yatırım yapan genç girişimcilerin bulunduğunu ve tarımsal üretimin kazançlı olabileceğinin gösterilmesi gerektiğini belirtti.\n\n“Tarımı Koruma Mücadelemiz Devam Edecek”\n\nGöreve geldikleri günden bu yana gençlerin, kadınların, dezavantajlı grupların ve tarımın öncelikleri arasında olduğunu ifade eden Özdemir, tarım alanlarını koruma çalışmalarının sürdürüleceğini söyledi.\n\nÖzdemir, “Nilüfer’in köylüsü Nilüfer’in efendisi olsun” anlayışıyla çalıştıklarını belirterek vatandaşları Nilüfer’de üretilen ürünleri tüketmeye davet etti.\n\nHırsız Almaz Kavunu Satış Noktalarında Tüketiciyle Buluşacak\n\nHasadı gerçekleştirilen Hırsız Almaz Kavunu, NİLKOOP aracılığıyla Nilüfer Bostan ve Kantin Nilüfer satış noktalarında tüketicilere sunulacak.\n\nTARIM PUSULASI HABER MERKEZİ"
     }
   ],
   "commoditiesByBorsa": {
@@ -286,24 +286,24 @@
     }
   ],
   "dieselByCity": {
-    "ANKARA": 83.84,
-    "ISTANBUL": 82.65,
-    "IZMIR": 84.11,
-    "KONYA": 85.01,
-    "ADANA": 84.67,
-    "BURSA": 83.72,
-    "ANTALYA": 85.16,
-    "SAMSUN": 84.41,
-    "TEKIRDAG": 83.57,
-    "CANAKKALE": 84.47
+    "ANKARA": 78.51,
+    "ISTANBUL": 77.32,
+    "IZMIR": 78.78,
+    "KONYA": 79.68,
+    "ADANA": 79.34,
+    "BURSA": 78.39,
+    "ANTALYA": 79.83,
+    "SAMSUN": 79.08,
+    "TEKIRDAG": 78.24,
+    "CANAKKALE": 79.14
   },
   "inputs": [
     {
       "key": "motorin",
       "name": "Motorin (mazot)",
       "unit": "₺/lt",
-      "price": 84.47,
-      "change": 0,
+      "price": 79.14,
+      "change": -6.31,
       "source": "CANAKKALE ort."
     },
     {
@@ -341,16 +341,6 @@
   "errors": [
     "borsa 5ED10: fetch failed",
     "borsa 5KO10: fetch failed",
-    "borsa 5ES10: fetch failed",
-    "mazot ANKARA: fetch failed",
-    "mazot ISTANBUL: fetch failed",
-    "mazot IZMIR: fetch failed",
-    "mazot KONYA: fetch failed",
-    "mazot ADANA: fetch failed",
-    "mazot BURSA: fetch failed",
-    "mazot ANTALYA: fetch failed",
-    "mazot SAMSUN: fetch failed",
-    "mazot TEKIRDAG: fetch failed",
-    "mazot CANAKKALE: fetch failed"
+    "borsa 5ES10: fetch failed"
   ]
 }
