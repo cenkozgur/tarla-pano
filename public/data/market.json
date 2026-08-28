@@ -1,43 +1,59 @@
 {
-  "updatedAt": "2026-08-28T04:22:30.065Z",
+  "updatedAt": "2026-08-28T16:50:58.167Z",
   "fx": [
     {
       "code": "USD",
       "name": "Dolar",
       "buy": 48.23,
-      "sell": 48.26,
-      "change": 0.2
+      "sell": 48.25,
+      "change": 0.19
     },
     {
       "code": "EUR",
       "name": "Euro",
-      "buy": 56.19,
-      "sell": 56.26,
-      "change": 0.05
+      "buy": 55.93,
+      "sell": 55.95,
+      "change": -0.46
     },
     {
       "code": "GRA",
       "name": "Gram Altın",
-      "buy": 7106.62,
-      "sell": 7107.36,
-      "change": -0.22
+      "buy": 6946.54,
+      "sell": 6947.52,
+      "change": -2.46
     },
     {
       "code": "CEYREKALTIN",
       "name": "Çeyrek Altın",
-      "buy": 11254.54,
-      "sell": 11511.02,
-      "change": 0
+      "buy": 11292.3,
+      "sell": 11552.02,
+      "change": 0.36
     },
     {
       "code": "CUMHURIYETALTINI",
       "name": "Cumhuriyet Altını",
-      "buy": 46667,
-      "sell": 47372,
-      "change": -1.16
+      "buy": 46877,
+      "sell": 47587,
+      "change": 0.45
     }
   ],
   "news": [
+    {
+      "title": "6 ay önce başkan seçildi, görevden alındığını Ticaret Sicili’nden öğrendi! Çorum Damızlık Birliği’nde neler oluyor?",
+      "url": "https://www.tarimdanhaber.com/6-ay-once-baskan-secildi-gorevden-alindigini-ticaret-sicilinden-ogrendi-corum-damizlik-birliginde-neler-oluyor",
+      "source": "Tarımdan Haber",
+      "date": "2026-08-28",
+      "summary": "Çorum Damızlık Koyun Keçi Yetiştiricileri Birliği’nde dikkat çeken bir yönetim değişikliği yaşandı. Geçtiğimiz Şubat ayında yapılan seçimlerde en fazla oyu alarak başkanlığa seçilen Ercan Şenal, yönetim kurulundaki 4 üyenin aldığı gizli kararla görevden alındı. Görevden alındığını Ticaret Sicili’nde",
+      "content": "Haber Merkezi / Çorum Damızlık Koyun Keçi Yetiştiricileri Birliği’nde geçtiğimiz şubat ayında gerçekleştirilen seçimlerde üç isim başkanlık için yarıştı.\n\nSeçim sonucunda en fazla oyu alan Ercan Şenal, Birlik başkanlığına seçildi.\n\nŞenal’in yönetim kurulunda İsa Kaya, Kerem Tokmak, Satılmış Tan, Emrah Şahin, Musa İçtüzer ve Hüseyin Çelik yer aldı.\n\nAncak seçimlerin üzerinden yaklaşık 6 ay geçtikten sonra Birlik yönetiminde dikkat çeken bir gelişme yaşandı.\n\n4 yönetim kurulu üyesi başkan değişikliği için gizli karar aldı\n\nEdinilen bilgilere göre yönetim kurulu üyeleri İsa Kaya, Hüseyin Çelik, Kerem Tokmak ve Musa İçtüzer, Ercan Şenal’in başkanlık görevinden alınması yönünde gizli karar aldı.\n\nBaşkan değişikliğinin Ticaret Sicili’ne de tescil edilmesiyle birlikte Birlikte yeni bir süreç başladı. Ancak söz konusu kararın alınma yöntemi tartışmaya neden oldu.\n\nKarar defterinin iki hafta saklandığı iddiası\n\nGörev değişikliği sürecine ilişkin en dikkat çekici iddialardan biri Birliğin karar defteriyle ilgili. Edinilen bilgilere göre karar defterinin yaklaşık iki hafta boyunca Birlik Başkanı Ercan Şenal ile bazı yönetim kurulu üyelerinden saklandığı ileri sürülüyor.\n\nŞenal’e başkanlık değişikliğinin ele alınacağı bir yönetim kurulu toplantısı için çağrı yapılmadığı ve görevden alındığını Ticaret Sicili’nde yayımlanan değişiklikten öğrendiği belirtiliyor.\n\nBaşkan değişikliğinin mevzuata ve Birlik ana sözleşmesindeki usullere uygun gerçekleştirilip gerçekleştirilmediği de yaşanan tartışmanın temel başlıklarından birini oluşturuyor.\n\nGörevden alma kararı savcılığa taşındı\n\nYaşanan gelişmelerin ardından Ercan Şenal'in, görevden alma işleminin hukuka aykırı olduğu gerekçesiyle savcılığa suç duyurusunda bulunduğu kaydediliyor.\n\nBöylece Çorum Damızlık Koyun Keçi Yetiştiricileri Birliği’ndeki yönetim değişikliği yalnızca Birlik içindeki bir tartışma olmaktan çıkarak hukuki sürece taşındı.\n\nYönetimdeki krizin arkasında 3 personelin maliyeti mi var?\n\nBaşkan değişikliğinin arka planına ilişkin ise dikkat çeken iddialar bulunuyor. Edinilen bilgilere göre Birlikte çaycı, sekreter ve çoban olmak üzere üç personel çalışıyor. Bu üç personelin maaş ve SGK ödemeleriyle birlikte Birliğe aylık maliyetinin 170 ila 200 bin lirayı bulduğu belirtiliyor.\n\nBirliğin gelirlerinin söz konusu personel giderlerini karşılamakta yetersiz kaldığı gerekçesiyle Şenal’in bu maliyetlere itiraz ettiği, bu durumun da çalışanların tepkisini çektiği ileri sürülüyor.\n\nÇalışan ile yönetim kurulu üyesi arasında ortaklık iddiası\n\nBirlikteki tartışmanın bir başka boyutunu ise personel ile yönetim kurulu arasındaki ilişkilere yönelik iddialar oluşturuyor.\n\nBirlikte çaycı olarak çalışan personelin, başkan değişikliği yönünde karar alan yönetim kurulu üyelerinden İsa Kaya ile koyun ortaklığı bulunduğu ileri sürülüyor.\n\nÇorum Damızlık Birliği’nde şimdi gözler hukuki süreçte\n\nŞubat ayında yapılan seçimden yalnızca yaklaşık 6 ay sonra yaşanan başkan değişikliği, Çorum Damızlık Koyun Keçi Yetiştiricileri Birliği’nde yönetim tartışmasını beraberinde getirdi.\n\nBir tarafta dört yönetim kurulu üyesinin aldığı gizli başkan değişikliği kararı, diğer tarafta kararın usulsüz olduğu gerekçesiyle yapılan suç duyurusu bulunuyor."
+    },
+    {
+      "title": "1 milyon kişi gördü, Tarım Bakanlığı görmedi mi? İthal hayvan görüntülerine sessizlik",
+      "url": "https://www.tarimdanhaber.com/1-milyon-kisi-gordu-tarim-bakanligi-gormedi-mi-ithal-hayvan-goruntulerine-sessizlik",
+      "source": "Tarımdan Haber",
+      "date": "2026-08-28",
+      "summary": "Et ve Süt Kurumu’nun Uruguay’dan ithal ettiği besilik sığırların görüntüleri kamuoyunda büyük yankı uyandırdı. Tarımdan Haber’in paylaşımı X’te 1 milyon, Instagram’da 304 binin üzerinde görüntülenirken, üreticilerin şikayetlerine ilişkin Tarım ve Orman Bakanlığı’ndan kamuoyuna yansıyan bir açıklama ",
+      "content": "Haber Merkezi / Türkiye’nin kırmızı et açığını azaltmak ve yerli üretimi artırmak amacıyla Et ve Süt Kurumu (ESK) tarafından Uruguay’dan ithal edilen besilik sığırların üreticilere teslim edilmesinin ardından ortaya çıkan görüntüler tartışma konusu oldu.\n\nÜreticilerin Tarımdan Haber’e gönderdiği farklı görüntülerde, bazı hayvanların yoğun dışkıyla kaplı olduğu, bazılarının ise yerde yattığı ve ayağa kalkmakta zorlandığı görülüyordu.\n\nÜreticiler, teslim aldıkları bazı hayvanlarda ayak ve sağlık sorunları bulunduğunu belirterek, besiye başlamadan veteriner ve ilaç masrafıyla karşı karşıya kaldıklarını dile getirdi.\n\nTarımdan Haber, üreticilerden gelen görüntüleri bir araya getirerek konuyu sosyal medya hesaplarından kamuoyunun gündemine taşıdı.\n\n[youtube-video]https://www.youtube.com/shorts/sIUdNE0AHMs[/youtube-video]\n\nİthal hayvanların görüntüleri 1 milyonu aştı\n\nPaylaşım kısa sürede büyük bir etkileşim aldı. Tarımdan Haber’in X hesabındaki paylaşımı 1 milyon görüntülenmeye ulaştı. Paylaşım ayrıca 558 kez yeniden paylaşılırken, yaklaşık 1.800 beğeni aldı.\n\nInstagram’da ise aynı konuya ilişkin Reel 304 bin 500 görüntüleme elde etti ve 225 bin 371 farklı hesaba ulaştı.\n\nInstagram istatistiklerindeki bir başka veri ise konunun Tarımdan Haber’in mevcut takipçi kitlesinin çok ötesine ulaştığını gösterdi. Görüntülemelerin yüzde 86,6’sı takipçi olmayan kullanıcılardan geldi.\n\nÜreticinin yaşadığı sorun artık milyonların önünde\n\nOrtaya çıkan rakamlar, ithal besilik hayvanlarla ilgili üretici şikayetlerinin sınırlı bir çevrede kalan münferit bir tartışma olmaktan çıkarak geniş bir kamuoyuna ulaştığını gösteriyor.\n\nBurada tartışılan konu yalnızca sosyal medyada bir videonun kaç kez izlendiği de değil.\n\nESK tarafından üretimi artırmak amacıyla ithal edilen hayvanları teslim alan üreticiler, besiye başlayacakları noktada veteriner, ilaç ve hayvan sağlığı sorunlarıyla uğraştıklarını belirtiyor.\n\nDolayısıyla üreticilerin gündeme getirdiği iddialar hem hayvan refahı ve sağlığı, hem üreticinin ekonomik kaybı, hem de kamu eliyle gerçekleştirilen canlı hayvan ithalatının teslim koşulları açısından cevap bekleyen soruları beraberinde getiriyor.\n\n1 milyon kişi gördü, Bakanlık görmedi mi?\n\nÜreticilerin yaşadığı sorunların görüntülerle kamuoyuna yansımasının ve X'te 1 milyon görüntülenmeye ulaşmasının ardından gözler Et ve Süt Kurumu ile Tarım ve Orman Bakanlığı’na çevrildi.\n\nAncak kamuoyunda bu kadar geniş yankı uyandıran görüntülerle ilgili olarak, haberimizin hazırlandığı saate kadar Tarım ve Orman Bakanlığı tarafından kamuoyuna yansıyan kapsamlı bir açıklama bulunmuyor.\n\nOysa üreticilerin iddiaları çerçevesinde cevaplanması gereken önemli sorular bulunuyor.\n\nİthal edilen hayvanların Türkiye’ye girişinde ve üreticilere teslim edilmeden önce sağlık kontrolleri nasıl gerçekleştirildi? Üreticilerin şikayetlerinin ardından hayvanlarla ilgili inceleme yapıldı mı? Sağlık problemi bulunan hayvan sayısı tespit edildi mi? Veteriner ve ilaç giderleriyle karşılaşan üreticilerin mağduriyetleri için herhangi bir çalışma yürütülüyor mu?\n\nVe belki de en temel soru:\n\nTürkiye'nin et sorununu çözmek ve üretimi artırmak amacıyla yapılan ithalatta, üretici besiye başlamadan hayvanların tedavisiyle uğraşıyorsa sistemin hangi aşamasında sorun yaşanıyor?\n\nÜretici açıklama bekliyor\n\nCanlı hayvan ithalatı yalnızca kaç baş hayvanın Türkiye’ye getirildiği veya üreticiye kaç liradan verildiği üzerinden değerlendirilebilecek bir konu değil.\n\nHayvanın limana hangi şartlarda geldiği, sağlık durumu, teslim öncesindeki kontrolleri ve üreticinin ahırına ulaştığında besiye uygun olup olmadığı da ithalat politikasının doğrudan bir parçası.\n\nÜreticilerden gelen görüntüler artık milyonlarca kez izlendi.\n\nŞimdi cevap beklenen yer sosyal medya değil; Et ve Süt Kurumu ile Tarım ve Orman Bakanlığı."
+    },
     {
       "title": "Üretimi Tarım Bakanlığı planlıyor ama piyasayı kim yönetiyor? Ayçiçeği kararı tartışma başlattı",
       "url": "https://www.tarimdanhaber.com/uretimi-tarim-bakanligi-planliyor-ama-piyasayi-kim-yonetiyor-aycicegi-karari-tartisma-baslatti",
@@ -111,28 +127,12 @@
       "content": "ANKARA — Toprak Mahsulleri Ofisi (TMO), 2026 yılı alım ödemeleri kapsamında üreticilere yönelik yeni ödeme bilgilerini sosyal medya hesaplarından paylaştı. TMO'nun paylaşımına göre, 30 Temmuz-5 Ağustos 2026 tarihleri arasında teslim edilen hububat ürünlerinin bedeli olarak 16 milyar 335 milyon TL, 3-11 Ağustos 2026 tarihleri arasında teslim edilen haşhaş kapsüllerinin bedeli olarak ise 19 milyon TL üreticilerin banka hesaplarına aktarıldı.\n\nHububat ödemesi 16 milyar 335 milyon TL ile toplam açıklanan tutarın büyük bölümünü oluştururken, haşhaş kapsülü ödemesi 19 milyon TL olarak gerçekleşti. Görselde yer alan iki ödeme kaleminin toplamı 16 milyar 354 milyon TL'ye ulaşıyor.\n\nTMO, hububat ürün bedeli ödemesinin 30 Temmuz-5 Ağustos tarihleri arasında teslim edilen ürünleri, haşhaş kapsülü ürün bedeli ödemesinin ise 3-11 Ağustos tarihleri arasında teslim edilen ürünleri kapsadığını bildirdi.\n\nKurumun paylaşımında, söz konusu ödemelerin üreticilerin banka hesaplarına aktarıldığı belirtildi. Ödemesi yapılan üreticilere ayrıca SMS ile bilgilendirme yapıldığı ifade edildi.\n\nTMO, alım ödemelerinin periyodik olarak devam edeceğini duyurdu.\n\nTARIM PUSULASI HABER MERKEZİ"
     },
     {
-      "title": "Pancar Kooperatifindeki “mutlak butlan” davasında savcılıktan dikkat çeken karar",
-      "url": "https://www.tarimdanhaber.com/pancar-kooperatifindeki-mutlak-butlan-davasinda-savciliktan-dikkat-ceken-karar",
-      "source": "Tarımdan Haber",
-      "date": "2026-08-26",
-      "summary": "Akşehir-Ilgın Pancar Ekicileri Kooperatifi'nin 23 Mayıs'ta yapılan seçimlerinin iptali için açılan “mutlak butlan” davasında tartışmaların odağındaki mazot fişleriyle ilgili dikkat çeken bir gelişme yaşandı. Aynı olayla ilgili rüşvet iddiasını soruşturan Ilgın Cumhuriyet Başsavcılığı, suçun yasal un",
-      "content": "Haber Merkezi / Türkiye genel siyasetinde gündem olan “mutlak butlan” tartışması, Akşehir-Ilgın Pancar Ekicileri Kooperatifi seçimleriyle birlikte tarım sektörünün de gündemine girmişti.\n\n23 Mayıs 2026 tarihinde yapılan kooperatif seçimlerinin ardından Yusuf Yazır ve Abdullah Demirtaş, seçim sürecinde uzak bölgelerdeki çiftçilerin sandığa katılımını sağlamak amacıyla mazot giderlerinin karşılandığını ve bunun seçim iradesini etkilediğini ileri sürerek Konya 1. Asliye Ticaret Mahkemesi'ne başvurmuştu. → Tarımda 'mutlak butlan' davası! Pancar kooperatifi seçimleri yargıya taşındı\n\nDavacı taraf, söz konusu uygulamanın seçim iradesini sakatladığını savunarak seçimlerin “mutlak butlan” kapsamında iptalini talep etmişti.\n\nKarşı taraf ise mazot desteğinin iddia edildiği büyüklükte olmadığını ve seçim sonucunu değiştirecek bir durum oluşturmadığını savundu.\n\nAYNI OLAY RÜŞVET İDDİASIYLA SAVCILIĞA TAŞINDI\n\nKooperatif seçimleriyle ilgili tartışmalar devam ederken mazot fişleri konusunda Ilgın Cumhuriyet Başsavcılığı'na da suç duyurusunda bulunuldu.\n\nBaşsavcılık olayla ilgili rüşvet suçundan soruşturma başlattı.\n\n21 Ağustos'ta tamamlanan soruşturmanın ardından ise dikkat çeken bir karar çıktı.\n\nIlgın Cumhuriyet Başsavcılığı, Ahmet Kara'nın olay tarihinde kooperatif adına hareket etme yetkisinin bulunmadığını değerlendirerek, rüşvet suçunun yasal unsurlarının oluşmadığı gerekçesiyle kovuşturmaya yer olmadığına karar verdi.\n\nMAZOT FİŞİ KARŞILIĞINDA 360 BİN TL ÖDENDİĞİ BEYANI\n\nSavcılık soruşturması mazot fişlerinin miktarıyla ilgili tartışma açısından da dikkat çeken bir bilgi ortaya koydu.\n\nSoruşturma dosyasına yansıyan petrol işletmesi sahibinin ifadesinde, seçim döneminde kullanılan yakıt fişlerinin karşılığı olarak kendisine 360 bin TL ödeme yapıldığı belirtildi.\n\nBu rakamın savcılık tarafından yapılmış bir mali inceleme sonucunda belirlenen toplam tutar değil, petrol işletmesi sahibinin soruşturma kapsamında verdiği ifadede belirttiği tutar olduğu da önem taşıyor.\n\nSavcılık ayrıca mazot fişlerinin dağıtılmadığı yönünde bir tespitte bulunmadı. Takipsizlik kararını, soruşturulan rüşvet suçunun yasal unsurlarının oluşmadığı yönündeki hukuki değerlendirmeye dayandırdı.\n\nŞİMDİ GÖZLER TİCARET MAHKEMESİNDE\n\nSavcılığın takipsizlik kararı ile Konya 1. Asliye Ticaret Mahkemesi'nde devam eden “mutlak butlan” davası ise iki ayrı hukuki süreci oluşturuyor.\n\nSavcılık olayın rüşvet suçu oluşturup oluşturmadığını değerlendirirken, Ticaret Mahkemesi'nin önündeki temel tartışma mazot desteğinin kooperatif ortaklarının seçim iradesini ve seçim sonucunu etkileyecek nitelikte olup olmadığı.\n\nBu nedenle savcılığın takipsizlik kararının ardından gözler şimdi Konya 1. Asliye Ticaret Mahkemesi'nin vereceği karara çevrildi."
-    },
-    {
       "title": "IAOM Avrasya Başkanı Ulusoy: Türkiye’nin tahıl tedariki güvende",
       "url": "https://www.tarimpusulasi.com/haber/iaom-avrasya-baskani-ulusoy-turkiyenin-tahil-tedariki-guvende-47520",
       "source": "Tarım Pusulası",
       "date": "2026-08-26",
       "summary": "IAOM Avrasya Başkanı Eren Günhan Ulusoy, Karadeniz gerilimi ve Avrupa’daki kuraklığa rağmen Türkiye’nin iç pazarda arz sorunu beklemediğini söyledi.",
       "content": "ANKARA — Uluslararası Un Sanayicileri ve Hububatçılar Birliği (IAOM) Avrasya Başkanı Dr. Eren Günhan Ulusoy, Karadeniz’de artan askeri gerilim ve Avrupa’daki kuraklığın küresel tahıl piyasalarını etkilediğini belirterek, Türkiye’nin iç pazarda tahıl tedariki açısından güvende olduğunu söyledi.\n\nUlusoy, Rusya-Ukrayna savaşında liman altyapıları ve yük gemilerinin doğrudan hedef alınmasının 2022’deki ilk kriz dönemine göre daha hassas bir tablo oluşturduğunu ifade etti. Her iki ülkenin lojistik ve liman altyapılarının saldırılardan etkilenmesinin küresel tahıl piyasaları açısından riski artırdığını belirten Ulusoy, dünya buğday tedarikinin yaklaşık yüzde 30’unu sağlayan Rusya ve Ukrayna’nın ihracat kapasitelerindeki aksaklıkların piyasaya doğrudan yansıdığını söyledi.\n\nABD Tarım Bakanlığı’nın son tahminlerine göre Rusya’nın ihracat beklentisinin 43-46 milyon tona, Ukrayna’nın ihracat beklentisinin ise 13,5 milyon tona çekildiğini aktaran Ulusoy, lojistik sorunların küresel tedarik açısından önem taşıdığını dile getirdi.\n\nTürkiye’nin buğday üretiminde rekor beklentisi\n\nTürkiye’nin iç pazarda daha avantajlı bir konumda bulunduğunu belirten Ulusoy, bu yıl tahıl üretiminin verimli geçtiğini söyledi.\n\nYağışların geçen yıla göre yüzde 76 arttığını ifade eden Ulusoy, buğday rekoltesinin 24,5 milyon ton olmasının beklendiğini açıkladı. Yerli hasadın başarılı geçmesi ve güçlü stok yapısının Türkiye’nin kısa vadeli küresel tedarik sorunlarından etkilenmesini sınırladığını belirten Ulusoy, iç pazarda kısa ve orta vadede arz veya tedarik problemi beklemediklerini söyledi.\n\nTürkiye un sektörünün yıllık 32 milyon ton üretim kapasitesine sahip olduğunu belirten Ulusoy, sektörün küresel un ticaretinden yüzde 23 pay aldığını ve Türkiye’nin 11 yıldır dünyanın un ihracat şampiyonu olduğunu ifade etti.\n\nAvrupa’daki kuraklık ihracat açısından fırsat oluşturuyor\n\nAvrupa’da etkisini artıran kuraklığın rekolte kayıplarına yol açtığını belirten Ulusoy, gelişmenin Türkiye’nin un ve unlu mamuller ihracatı açısından yeni fırsatlar oluşturabileceğini söyledi.\n\nUlusoy, Avrupa’daki üretim kayıplarının yanı sıra küresel buğday ticaretinde Rusya ve Ukrayna’nın ihracat paylarının azalmasının ABD, Kanada ve Kazakistan gibi ülkelerin önemini artırdığını belirtti. İşlenmiş hububat ürünlerinde ise Türkiye’nin Avrupa’daki açığın karşılanması ve yeni pazarlarda konumunu güçlendirmesi açısından önemli bir üretim ve lojistik kapasiteye sahip olduğunu ifade etti.\n\nIAOM Eurasia Konferansı Taşkent’te yapılacak\n\nIAOM’in Avrasya Bölgesi’nin 32 ülkeden oluştuğunu belirten Ulusoy, bölgenin 2 milyarı aşkın nüfusa ve 7,1 trilyon dolarlık ekonomik büyüklüğe sahip olduğunu söyledi. Bölgenin dünya buğday üretiminin yüzde 30’unu ve dünya un ihracatının yüzde 55’ini temsil ettiğini aktardı.\n\nUlusoy, 28-29 Eylül 2026 tarihlerinde Özbekistan’ın Taşkent kentinde ilk kez düzenlenecek 5. IAOM Eurasia Konferansı ve Sergisinin Rusya, Ukrayna, Orta ve Doğu Avrupa, Baltık ülkeleri, Kazakistan, Orta Asya Cumhuriyetleri, ABD, Orta Doğu ve Afrika’dan 1000’in üzerinde sektör profesyonelini bir araya getireceğini açıkladı.\n\n“Avrasya’da Tahıl, Değirmencilik ve Pazarlar” temasıyla gerçekleştirilecek etkinlikte hububat, un, makarna, bulgur ve yem üreticilerinin yanı sıra değirmen makineleri, laboratuvar ekipmanları, lojistik, depolama ve paketleme alanlarında faaliyet gösteren firmalar yer alacak.\n\nUlusoy, kongrenin Özbekistan’da düzenlenmesinin ülkenin güçlü değirmencilik sektörü ve Kazakistan’dan sağladığı buğdayla komşu ülkelere yaptığı un ihracatı nedeniyle stratejik önem taşıdığını belirtti.\n\nEtkinliğin açılış konuşmalarını Tarım ve Orman Bakanı İbrahim Yumaklı, Özbekistan Tarım Bakanı İbrohim Abdurahmonov, TMO Genel Müdürü Ahmet Güldal ve IAOM ABD Başkanı Mike Wiechman yapacak.\n\nTARIM PUSULASI HABER MERKEZİ"
-    },
-    {
-      "title": "Ayhan Barut, Adana’da çiftçi borçlarının ertelenmesini istedi",
-      "url": "https://www.tarimpusulasi.com/haber/ayhan-barut-adanada-ciftci-borclarinin-ertelenmesini-istedi-47519",
-      "source": "Tarım Pusulası",
-      "date": "2026-08-26",
-      "summary": "YENİ Parti Adana Milletvekili Ayhan Barut, 31 Ağustos sulama ödemelerinin hasat sonuna ertelenmesini ve mağdur üreticilere destek verilmesini istedi.",
-      "content": "ADANA — YENİ Parti Adana Milletvekili ve TBMM Tarım, Orman ve Köyişleri Komisyonu Üyesi Ayhan Barut, hasat yapamayan, ürününü satamayan ve artan üretim maliyetleriyle karşı karşıya kalan çiftçilerden 31 Ağustos 2026’ya kadar sulama ücretlerini ödemelerinin istenmesine tepki gösterdi. Barut, başta sulama borçları olmak üzere çiftçilerin kamuya ve ilgili kurumlara olan tarımsal borçlarının en azından hasat sonuna kadar ertelenmesini istedi.\n\nÇukurova’da hasat gecikti\n\nBu üretim sezonunda yaşanan aşırı yağış, sel ve dolu olaylarının tarımsal üretimi olumsuz etkilediğini belirten Barut, özellikle Çukurova Bölgesi’nde mısır hasadının geciktiğini ifade etti.\n\nBarut, üreticilerin tarlalarına zamanında girememesi nedeniyle ekim ve dikimlerin geciktiğini, ürünlerde verim ve kalite kayıpları yaşandığını ve bu durumun çiftçilerin borç ödeme takvimini etkilediğini söyledi.\n\nAdana ve Çukurova’nın Türkiye’nin önemli tarımsal üretim merkezleri arasında bulunduğunu belirten Barut, 2026 sezonunda bölgede yaşanan aşırı yağış, sel ve dolu olaylarının üreticileri zor durumda bıraktığını dile getirdi. Özellikle bazı bölgelerde mısır üretimindeki verim kayıplarının önemli boyutlara ulaştığını aktardı.\n\n“Çiftçi kazanırsa her şey düzelir”\n\nÇukurova’da mevsim koşullarına bağlı olarak mısır hasadının geciktiğini ve az sayıda çiftçinin hasat yapabildiğini belirten Barut, üreticilerin henüz ürünlerinden gelir elde etmeden sulama borçlarını ödeme baskısıyla karşı karşıya bırakılmasını eleştirdi.\n\nBarut, “Çiftçilerin henüz ürününü hasat edip gelir elde edememişken, sulama borcunu 31 Ağustos’a kadar ödeme baskısıyla karşı karşıya bırakılması kabul edilemez” dedi.\n\nOlumsuz hava koşullarının üreticilerin iradesi dışında geliştiğini belirten Barut, ekimlerin gecikmesi, ürünlerin gelişme dönemlerinin uzaması ve hasadın ötelenmesinin çiftçilerin kontrolünde olmadığını ifade etti.\n\nÜretim maliyetlerine dikkat çekti\n\nÇiftçilerin üretim maliyetlerinin de arttığını belirten Barut; mazot, gübre, tohum, zirai ilaç, işçilik, elektrik ve sulama giderlerindeki artışların üreticilerin maliyet yükünü ağırlaştırdığını söyledi.\n\nBarut, buna karşılık ürün fiyatlarının artan maliyetleri karşılamaktan uzak kalmasının çiftçilerin ekonomik sıkıntılarını derinleştirdiğini savundu.\n\nSulama ücretlerinin 31 Ağustos 2026’ya kadar ödenmesinin zorunlu tutulmasının Çukurova çiftçisinin mevcut üretim koşullarıyla bağdaşmadığını belirten Barut, üreticilerin önce ürünlerini hasat etmesi, ardından ürünlerini gerçek değerinden satarak borçlarını ödeyebilecek gelire ulaşması gerektiğini ifade etti.\n\nSulama borçlarının ertelenmesini istedi\n\nAyhan Barut, başta sulama borçları olmak üzere çiftçilerin kamuya ve ilgili kurumlara olan tarımsal borçlarının ertelenmesi çağrısında bulundu.\n\n31 Ağustos 2026 olarak belirlenen sulama ücreti ödeme süresinin bölgedeki hasat takvimi dikkate alınarak uzatılmasını isteyen Barut, aşırı yağış, sel ve dolu nedeniyle oluşan verim ve kalite kayıplarının da dikkate alınarak üreticilere acil ve etkin destek sağlanmasını talep etti.\n\nTARIM PUSULASI HABER MERKEZİ"
     }
   ],
   "commoditiesByBorsa": {
@@ -341,6 +341,16 @@
   "errors": [
     "borsa 5ED10: fetch failed",
     "borsa 5KO10: fetch failed",
-    "borsa 5ES10: fetch failed"
+    "borsa 5ES10: fetch failed",
+    "mazot ANKARA: fetch failed",
+    "mazot ISTANBUL: fetch failed",
+    "mazot IZMIR: fetch failed",
+    "mazot KONYA: fetch failed",
+    "mazot ADANA: fetch failed",
+    "mazot BURSA: fetch failed",
+    "mazot ANTALYA: fetch failed",
+    "mazot SAMSUN: fetch failed",
+    "mazot TEKIRDAG: fetch failed",
+    "mazot CANAKKALE: fetch failed"
   ]
 }
