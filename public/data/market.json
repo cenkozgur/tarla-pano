@@ -1,26 +1,26 @@
 {
-  "updatedAt": "2026-08-31T15:18:54.052Z",
+  "updatedAt": "2026-08-31T20:52:12.674Z",
   "fx": [
     {
       "code": "USD",
       "name": "Dolar",
       "buy": 48.25,
-      "sell": 48.26,
+      "sell": 48.27,
       "change": 0.04
     },
     {
       "code": "EUR",
       "name": "Euro",
-      "buy": 56.09,
-      "sell": 56.1,
-      "change": 0.31
+      "buy": 56.08,
+      "sell": 56.13,
+      "change": 0.33
     },
     {
       "code": "GRA",
       "name": "Gram Altın",
-      "buy": 6880.06,
-      "sell": 6880.98,
-      "change": -0.4
+      "buy": 6898.67,
+      "sell": 6899.94,
+      "change": -0.13
     },
     {
       "code": "CEYREKALTIN",
@@ -101,38 +101,6 @@
       "date": "2026-08-27",
       "summary": "Tarımdan Haber’in, Türkşeker’in indirimli şeker satışının yüksek tonaj baremiyle iki firma üzerinde yoğunlaştığını ortaya koyan yayınlarının ardından dikkat çeken bir değişikliğe gidildi. Türkşeker, en yüksek indirim için 50 bin ton olan alım eşiğini 5 bin tona düşürerek, avantajlı şeker satışını da",
       "content": "Sadettin İnan / Türkiye Şeker Fabrikaları AŞ'nin (Türkşeker) indirimli şeker satışında uyguladığı miktar bazlı fiyatlandırmada dikkat çeken bir değişiklik yapıldı.\n\nTarımdan Haber, Türkşeker'in daha önce uyguladığı baremli şeker satış sistemini mercek altına almış; yüksek miktarda şeker alabilen firmalara daha yüksek indirim uygulanmasının piyasadaki rekabet açısından doğurduğu sonuçları gündeme taşımıştı.\n\n\"Türkşeker'in şeker satışında dikkat çeken kurgu: Sistem iki firmaya çalışıyor!\" ve “Türkşeker’in 'Baremli Şeker' kurgusu: Piyasa iki firmaya nasıl peşkeş çekiliyor?” başlıklı dosya haberlerimizde, özellikle en yüksek indirimin 50 bin tonun üzerindeki alımlara verilmesinin üzerinde durmuştuk.\n\nEn ucuz şekeri iki firma alıyor, piyasa yine bu iki firmaya kalıyordu\n\nÇünkü 50 bin ton ve üzerindeki alımı gerçekleştirebilecek finansal güce sahip iki firma bulunurken, Türkşeker’in en yüksek indirim uyguladığı bu baremden de fiilen sadece söz konusu iki firma yararlanıyordu. En düşük fiyattan şekere ulaşan bu firmalar karşısında diğer baremler cazibesini kaybederken, piyasadaki diğer firmalar ihtiyaçlarını Türkşeker’den doğrudan almak yerine bu iki firma üzerinden karşılamak durumunda kalıyordu. Böylece Türkşeker’in miktara bağlı indirim sistemi, rekabeti genişletmek yerine iki firmaya önemli bir fiyat avantajı sağlıyor; şeker ticaretinin de bu iki firma üzerinden yoğunlaşmasına yol açıyordu.\n\nŞeker operasyonunun ardından 50 bin tonluk baremin kaldırılması dikkat çekti!\n\nTürkşeker'in satış sistemindeki değişikliğin zamanlaması da dikkat çekti. Daha önce 50 bin ton ve üzerindeki en avantajlı baremden yararlanan Remzi Çakar Gıda ile İşmen Gıda'nın temsilcilerinin şeker soruşturması kapsamında ifadeye çağrılmasının ardından, Türkşeker yeni satış ilanında 50 bin tonluk baremi tamamen kaldırarak en avantajlı fiyat için eşiği 5 bin tona düşürdü. Türkşeker değişikliğin gerekçesine ilişkin bir açıklama yapmazken, şeker operasyonunun ardından satış sisteminin değiştirilmesi dikkat çekti.\n\n50 bin tonun üzerindeki alıma en yüksek indirim uygulanıyordu\n\nTürkşeker'in Temmuz ayında yayımladığı indirimli vadeli şeker satış ilanında miktara göre dört ayrı fiyat uygulanmıştı.\n\n2 bin 500 tona kadar alımlarda kilogram fiyatı KDV hariç 41,5842 TL olurken, 2 bin 501–25 bin ton arasında 40,5941 TL, 25 bin 1–50 bin ton arasında 39,6040 TL olarak belirlenmişti. 50 bin 1 ton ve üzerindeki alımlarda ise fiyat 38,6139 TL/kg'a kadar düşüyordu.\n\nTürkşeker'in 45 TL/kg satış fiyatı üzerinden hesapladığı iskonto oranı da alım miktarı büyüdükçe yüzde 7,59'dan yüzde 14,19'a kadar yükseliyordu.\n\nDolayısıyla en avantajlı fiyata ulaşabilmek için bir firmanın 50 bin tonun üzerinde şeker alması gerekiyordu.\n\nTarımdan Haber bu sistemi neden eleştirmişti?\n\nTarımdan Haber'in eleştirisinin merkezinde şekerin indirimli satılması değil, en büyük indirimin olağanüstü yüksek bir alım miktarına bağlanması bulunuyordu.\n\n50 bin ton ve üzerindeki bir şeker alımı, yalnızca ticari kapasite değil çok yüksek finansman gücü de gerektiriyor.\n\nBu nedenle sistem, küçük ve orta ölçekli şeker tüccarları ile sanayicilerin en avantajlı fiyat seviyesine ulaşmasını güçleştirirken, yüksek finansman kapasitesine sahip az sayıdaki firmanın önemli bir fiyat avantajı elde etmesine imkan sağlıyordu.\n\nTarımdan Haber, söz konusu yapının Türkşeker'in şeker satışını geniş bir alıcı kitlesine yaymak yerine piyasanın belirli firmalar üzerinden yoğunlaşmasına neden olup olmadığını kamuoyunun gündemine taşımıştı.\n\nYeni ilanda 50 bin tonluk barem kaldırıldı\n\nTürkşeker'in 28 Ağustos 2026 mesai bitimine kadar geçerli yeni “İndirimli Vadeli Şeker Satışı” duyurusunda ise önceki sistemde dikkat çeken önemli bir değişikliğe gidildi.\n\nDaha önce dört ayrı miktar baremi bulunurken yeni satışta sadece iki kademe belirlendi: 0–5 bin tona kadar ve 5 bin ton ve üzeri.\n\nBöylece 25 bin ve 50 bin tonluk baremler tamamen kaldırıldı.\n\nDaha da önemlisi, en avantajlı satış fiyatından yararlanmak için daha önce 50 bin tonun üzerinde şeker alınması gerekirken, yeni uygulamada 5 bin ton ve üzerindeki alımlar yeterli hale geldi.\n\nBaşka bir ifadeyle Türkşeker, en avantajlı fiyat için gereken miktar eşiğini 50 bin ton seviyesinden 5 bin tona indirerek onda bire düşürdü.\n\n5 bin ton ve üzerindeki alımlara aynı fiyat\n\nYeni duyuruya göre 0–5 bin tona kadar şeker alımında peşin fiyat KDV hariç 38,6139 TL/kg, 5 bin ton ve üzerindeki alımlarda ise 37,6238 TL/kg olarak belirlendi.\n\nÜç eşit taksitli satışlarda ise 0–5 bin tona kadar 43,4159 TL/kg, 5 bin ton ve üzerindeki alımlarda 42,3269 TL/kg fiyat uygulanacak.\n\nTaksitler 15 Aralık 2026, 15 Ocak 2027 ve 15 Şubat 2027 tarihlerinde ödenecek. Şekerin fabrikalardan son çekim tarihi ise 31 Aralık 2026 olarak belirlendi.\n\nSatış Burdur, Ereğli, Ilgın, Kastamonu ve Yozgat Şeker Fabrikalarından gerçekleştirilecek.\n\nEn avantajlı fiyata ulaşmak artık daha düşük tonajla mümkün\n\nYeni sistemin en dikkat çekici sonucu, daha fazla firmanın en düşük fiyat kademesine erişebilmesinin önünün "
-    },
-    {
-      "title": "Tarım Müdürlüğü Kars’ta biçerdöver denetimlerini sürdürüyor",
-      "url": "https://www.tarimpusulasi.com/haber/tarim-mudurlugu-karsta-bicerdover-denetimlerini-surduruyor-47523",
-      "source": "Tarım Pusulası",
-      "date": "2026-08-26",
-      "summary": "Kars’ta hububat hasadının güvenli ve verimli tamamlanması amacıyla biçerdöverlerin teknik ve hasat kurallarına uygunluğu sahada kontrol ediliyor.",
-      "content": "KARS — Kars’ta hububat hasadının güvenli ve verimli şekilde tamamlanması amacıyla biçerdöver kontrolleri sahada sürdürülüyor.\n\nKars İl Tarım ve Orman Müdürlüğü ekipleri tarafından gerçekleştirilen kontrollerde biçerdöverlerin teknik ve hasat kurallarına uygunluğu inceleniyor. Çalışmalarla dane ve ürün kayıplarının en aza indirilmesi hedefleniyor.\n\nİl Tarım ve Orman Müdürlüğü, üreticilerin emeğinin ve alın terinin korunması amacıyla biçerdöver kontrollerinin sahada sürdürüldüğünü bildirdi.\n\nİl Müdürlüğü tarafında yapılan açıklamada kontrol edilen biçerdöver sayısı, tespit edilen uygunsuzluklar veya herhangi bir ceza uygulamasına ilişkin bilgi yer almadı.\n\nTARIM PUSULASI HABER MERKEZİ"
-    },
-    {
-      "title": "Isparta Tarım Müdürlüğü sulama projesine 2,2 milyon TL hibe",
-      "url": "https://www.tarimpusulasi.com/haber/isparta-tarim-mudurlugu-sulama-projesine-22-milyon-tl-hibe-47522",
-      "source": "Tarım Pusulası",
-      "date": "2026-08-26",
-      "summary": "Isparta’da S.S. Yukarı Gökdere Köyü Sulama Kooperatifinin enerji tasarruflu yatırım projesine 2 milyon 237 bin 651,26 TL Bakanlık hibesi sağlandı.",
-      "content": "ISPARTA — S.S. Yukarı Gökdere Köyü Sulama Kooperatifi tarafından uygulanan “Enerji Tasarruflu Yatırım” projesine, Kırsal Kalkınma Yatırımlarının Desteklenmesi Programı 16. Etap Ekonomik Altyapı Yatırımları kapsamında 2.237.651,26 TL Bakanlık hibe desteği sağlandı.\n\nToplam yatırım tutarı 4.475.302,52 TL olan projenin yüzde 50’si Bakanlık tarafından hibe olarak karşılandı. Böylece proje kapsamında sağlanan hibe tutarı, toplam yatırım bedelinin yarısına karşılık geldi.\n\nEnerji tasarrufu sağlaması ve üretim maliyetlerinin azaltılmasına katkı sunması hedeflenen yatırımın, tarımsal sulamanın sürdürülebilirliğine katkı sağlaması amaçlanıyor.\n\nIsparta İl Tarım ve Orman Müdürlüğü, kırsal kalkınmayı destekleyen ve üretimde verimliliği artıran yatırımlara yönelik çalışmaların sürdürüldüğünü bildirdi.\n\nTARIM PUSULASI HABER MERKEZİ"
-    },
-    {
-      "title": "TMO hububat alım ödemelerinde 16,3 milyar TL aktardı",
-      "url": "https://www.tarimpusulasi.com/haber/tmo-hububat-alim-odemelerinde-163-milyar-tl-aktardi-47521",
-      "source": "Tarım Pusulası",
-      "date": "2026-08-26",
-      "summary": "TMO, 30 Temmuz-5 Ağustos'ta teslim edilen hububat için 16,3 milyar TL, haşhaş için 19 milyon TL ödeme yaptı; ödemelerin süreceğini açıkladı.",
-      "content": "ANKARA — Toprak Mahsulleri Ofisi (TMO), 2026 yılı alım ödemeleri kapsamında üreticilere yönelik yeni ödeme bilgilerini sosyal medya hesaplarından paylaştı. TMO'nun paylaşımına göre, 30 Temmuz-5 Ağustos 2026 tarihleri arasında teslim edilen hububat ürünlerinin bedeli olarak 16 milyar 335 milyon TL, 3-11 Ağustos 2026 tarihleri arasında teslim edilen haşhaş kapsüllerinin bedeli olarak ise 19 milyon TL üreticilerin banka hesaplarına aktarıldı.\n\nHububat ödemesi 16 milyar 335 milyon TL ile toplam açıklanan tutarın büyük bölümünü oluştururken, haşhaş kapsülü ödemesi 19 milyon TL olarak gerçekleşti. Görselde yer alan iki ödeme kaleminin toplamı 16 milyar 354 milyon TL'ye ulaşıyor.\n\nTMO, hububat ürün bedeli ödemesinin 30 Temmuz-5 Ağustos tarihleri arasında teslim edilen ürünleri, haşhaş kapsülü ürün bedeli ödemesinin ise 3-11 Ağustos tarihleri arasında teslim edilen ürünleri kapsadığını bildirdi.\n\nKurumun paylaşımında, söz konusu ödemelerin üreticilerin banka hesaplarına aktarıldığı belirtildi. Ödemesi yapılan üreticilere ayrıca SMS ile bilgilendirme yapıldığı ifade edildi.\n\nTMO, alım ödemelerinin periyodik olarak devam edeceğini duyurdu.\n\nTARIM PUSULASI HABER MERKEZİ"
-    },
-    {
-      "title": "IAOM Avrasya Başkanı Ulusoy: Türkiye’nin tahıl tedariki güvende",
-      "url": "https://www.tarimpusulasi.com/haber/iaom-avrasya-baskani-ulusoy-turkiyenin-tahil-tedariki-guvende-47520",
-      "source": "Tarım Pusulası",
-      "date": "2026-08-26",
-      "summary": "IAOM Avrasya Başkanı Eren Günhan Ulusoy, Karadeniz gerilimi ve Avrupa’daki kuraklığa rağmen Türkiye’nin iç pazarda arz sorunu beklemediğini söyledi.",
-      "content": "ANKARA — Uluslararası Un Sanayicileri ve Hububatçılar Birliği (IAOM) Avrasya Başkanı Dr. Eren Günhan Ulusoy, Karadeniz’de artan askeri gerilim ve Avrupa’daki kuraklığın küresel tahıl piyasalarını etkilediğini belirterek, Türkiye’nin iç pazarda tahıl tedariki açısından güvende olduğunu söyledi.\n\nUlusoy, Rusya-Ukrayna savaşında liman altyapıları ve yük gemilerinin doğrudan hedef alınmasının 2022’deki ilk kriz dönemine göre daha hassas bir tablo oluşturduğunu ifade etti. Her iki ülkenin lojistik ve liman altyapılarının saldırılardan etkilenmesinin küresel tahıl piyasaları açısından riski artırdığını belirten Ulusoy, dünya buğday tedarikinin yaklaşık yüzde 30’unu sağlayan Rusya ve Ukrayna’nın ihracat kapasitelerindeki aksaklıkların piyasaya doğrudan yansıdığını söyledi.\n\nABD Tarım Bakanlığı’nın son tahminlerine göre Rusya’nın ihracat beklentisinin 43-46 milyon tona, Ukrayna’nın ihracat beklentisinin ise 13,5 milyon tona çekildiğini aktaran Ulusoy, lojistik sorunların küresel tedarik açısından önem taşıdığını dile getirdi.\n\nTürkiye’nin buğday üretiminde rekor beklentisi\n\nTürkiye’nin iç pazarda daha avantajlı bir konumda bulunduğunu belirten Ulusoy, bu yıl tahıl üretiminin verimli geçtiğini söyledi.\n\nYağışların geçen yıla göre yüzde 76 arttığını ifade eden Ulusoy, buğday rekoltesinin 24,5 milyon ton olmasının beklendiğini açıkladı. Yerli hasadın başarılı geçmesi ve güçlü stok yapısının Türkiye’nin kısa vadeli küresel tedarik sorunlarından etkilenmesini sınırladığını belirten Ulusoy, iç pazarda kısa ve orta vadede arz veya tedarik problemi beklemediklerini söyledi.\n\nTürkiye un sektörünün yıllık 32 milyon ton üretim kapasitesine sahip olduğunu belirten Ulusoy, sektörün küresel un ticaretinden yüzde 23 pay aldığını ve Türkiye’nin 11 yıldır dünyanın un ihracat şampiyonu olduğunu ifade etti.\n\nAvrupa’daki kuraklık ihracat açısından fırsat oluşturuyor\n\nAvrupa’da etkisini artıran kuraklığın rekolte kayıplarına yol açtığını belirten Ulusoy, gelişmenin Türkiye’nin un ve unlu mamuller ihracatı açısından yeni fırsatlar oluşturabileceğini söyledi.\n\nUlusoy, Avrupa’daki üretim kayıplarının yanı sıra küresel buğday ticaretinde Rusya ve Ukrayna’nın ihracat paylarının azalmasının ABD, Kanada ve Kazakistan gibi ülkelerin önemini artırdığını belirtti. İşlenmiş hububat ürünlerinde ise Türkiye’nin Avrupa’daki açığın karşılanması ve yeni pazarlarda konumunu güçlendirmesi açısından önemli bir üretim ve lojistik kapasiteye sahip olduğunu ifade etti.\n\nIAOM Eurasia Konferansı Taşkent’te yapılacak\n\nIAOM’in Avrasya Bölgesi’nin 32 ülkeden oluştuğunu belirten Ulusoy, bölgenin 2 milyarı aşkın nüfusa ve 7,1 trilyon dolarlık ekonomik büyüklüğe sahip olduğunu söyledi. Bölgenin dünya buğday üretiminin yüzde 30’unu ve dünya un ihracatının yüzde 55’ini temsil ettiğini aktardı.\n\nUlusoy, 28-29 Eylül 2026 tarihlerinde Özbekistan’ın Taşkent kentinde ilk kez düzenlenecek 5. IAOM Eurasia Konferansı ve Sergisinin Rusya, Ukrayna, Orta ve Doğu Avrupa, Baltık ülkeleri, Kazakistan, Orta Asya Cumhuriyetleri, ABD, Orta Doğu ve Afrika’dan 1000’in üzerinde sektör profesyonelini bir araya getireceğini açıkladı.\n\n“Avrasya’da Tahıl, Değirmencilik ve Pazarlar” temasıyla gerçekleştirilecek etkinlikte hububat, un, makarna, bulgur ve yem üreticilerinin yanı sıra değirmen makineleri, laboratuvar ekipmanları, lojistik, depolama ve paketleme alanlarında faaliyet gösteren firmalar yer alacak.\n\nUlusoy, kongrenin Özbekistan’da düzenlenmesinin ülkenin güçlü değirmencilik sektörü ve Kazakistan’dan sağladığı buğdayla komşu ülkelere yaptığı un ihracatı nedeniyle stratejik önem taşıdığını belirtti.\n\nEtkinliğin açılış konuşmalarını Tarım ve Orman Bakanı İbrahim Yumaklı, Özbekistan Tarım Bakanı İbrohim Abdurahmonov, TMO Genel Müdürü Ahmet Güldal ve IAOM ABD Başkanı Mike Wiechman yapacak.\n\nTARIM PUSULASI HABER MERKEZİ"
     }
   ],
   "commoditiesByBorsa": {
@@ -341,16 +309,6 @@
   "errors": [
     "borsa 5ED10: fetch failed",
     "borsa 5KO10: fetch failed",
-    "borsa 5ES10: fetch failed",
-    "mazot ANKARA: fetch failed",
-    "mazot ISTANBUL: fetch failed",
-    "mazot IZMIR: fetch failed",
-    "mazot KONYA: fetch failed",
-    "mazot ADANA: fetch failed",
-    "mazot BURSA: fetch failed",
-    "mazot ANTALYA: fetch failed",
-    "mazot SAMSUN: fetch failed",
-    "mazot TEKIRDAG: fetch failed",
-    "mazot CANAKKALE: fetch failed"
+    "borsa 5ES10: fetch failed"
   ]
 }
