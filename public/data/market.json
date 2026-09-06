@@ -1,40 +1,40 @@
 {
-  "updatedAt": "2026-09-06T19:32:43.432Z",
+  "updatedAt": "2026-09-06T21:37:44.414Z",
   "fx": [
     {
       "code": "USD",
       "name": "Dolar",
-      "buy": 48.38,
-      "sell": 48.49,
-      "change": 0.22
+      "buy": 48.37,
+      "sell": 48.48,
+      "change": -0.02
     },
     {
       "code": "EUR",
       "name": "Euro",
-      "buy": 56.12,
-      "sell": 56.36,
-      "change": -0.25
+      "buy": 56.19,
+      "sell": 56.35,
+      "change": 0.05
     },
     {
       "code": "GRA",
       "name": "Gram Altın",
-      "buy": 6898.04,
-      "sell": 6898.85,
-      "change": -0.74
+      "buy": 6896.44,
+      "sell": 6897.25,
+      "change": -0.02
     },
     {
       "code": "CEYREKALTIN",
       "name": "Çeyrek Altın",
-      "buy": 10908.86,
-      "sell": 11165.67,
-      "change": -1.14
+      "buy": 10962.51,
+      "sell": 11214.89,
+      "change": 0
     },
     {
       "code": "CUMHURIYETALTINI",
       "name": "Cumhuriyet Altını",
-      "buy": 45276,
-      "sell": 45961,
-      "change": -1.43
+      "buy": 45176,
+      "sell": 45861,
+      "change": -0.22
     }
   ],
   "news": [
@@ -43,8 +43,8 @@
       "url": "https://www.tarimdanhaber.com/turksekerin-seker-satisina-iki-firmadan-karsi-hamle-muhiddin-sahin-doneminde-kamu-sirketi-bu-noktaya-nasil-geldi",
       "source": "Tarımdan Haber",
       "date": "2026-09-06",
-      "summary": "Türkşeker’in 6 ay vadeli indirimli şeker satışının ardından İşmen Gıda ve Remzi Çakar’ın aynı vadede kilogramda 2-3 lira daha düşük fiyatla piyasaya çıkarak 60-70 bin ton şeker sattığı belirtiliyor. Cumhurbaşkanı Erdoğan’ın başkanlık ettiği Türkiye Varlık Fonu bünyesindeki Türkşeker’in, geçmişte yük",
-      "content": "Sadettin İnan / Türkiye Şeker Fabrikaları A.Ş.’nin (Türkşeker) 21 Ağustos’ta çıktığı 6 ay vadeli indirimli şeker satışının ardından şeker piyasasında dikkat çekici bir fiyat rekabeti yaşandı.\n\nTürkşeker; Burdur, Ereğli, Ilgın, Kastamonu ve Yozgat şeker fabrikalarından yapılacak satışlarda ödemeleri Aralık 2026, Ocak 2027 ve Şubat 2027 olmak üzere üç eşit taksite bağladı. KDV hariç kilogram fiyatını 5 bin tona kadar 43,41 TL, 5 bin ton ve üzerindeki alımlarda ise 42,32 TL olarak belirledi.\n\nİşmen Gıda ve Remzi Çakar'dan Türkşeker'e rakip satış!\n\nAncak sektör kaynaklarından edinilen bilgilere göre Türkşeker’in satış ilanının hemen ardından İşmen Gıda ve Remzi Çakar da benzer vadelerle piyasaya şeker vermeye başladı.\n\nİki firmanın Türkşeker’in fiyatının kilogramda 2-3 TL altına kadar indiği ve bu süreçte toplam 60-70 bin ton şeker sattığı kaydediliyor.\n\nBu iki firmanın Türkşeker’in 6 ay vadeli satışının hemen ardından benzer vadeler ve daha düşük fiyatla rakip olarak karşısına çıkması dikkat çekti.\n\nPeki neden İşmen Gıda ve Remzi Çakar Türkşeker’in karşısına rakip olarak çıktı?\n\nTürkşeker’in önceki indirimli satışlarında en yüksek fiyat avantajı 50 bin ton ve üzerindeki alımlara uygulanıyordu.\n\nAncak tek seferde 50 bin ton şeker alabilecek finansal güce sahip firma sayısının sınırlı olması nedeniyle bu sistemden özellikle İşmen Gıda ile Remzi Çakar Gıda’nın yararlanması dikkat çekiyordu.\n\nTarımdan Haber’in söz konusu satış sistemini gündeme taşımasının ardından Türkşeker son kampanyasında 50 bin tonluk baremi kaldırdı ve en yüksek indirimi 5 bin ton ve üzerindeki alımlara uyguladı.\n\nBöylece Türkşeker, daha geniş bir müşteri grubuna doğrudan uygun fiyatla şeker satabilecek bir modele yöneldi.\n\nAncak Türkşeker, geçmişte yüksek tonajlı satışlarla önemli miktarda şeker verdiği iki şirketi, daha düşük fiyatlı rakip olarak karşısında buldu.\n\nMayıs ayında aynı iki firmaya 100 bin ton kıyak şeker satılmıştı\n\nÜstelik Türkşeker ile bu iki şirket arasındaki ilişki geçtiğimiz Mayıs ayında yapılan tartışmalı satışla da gündeme gelmişti.\n\nTarımdan Haber’in ortaya çıkardığı kıyak şeker satışında, Türkşeker, duyuru ve ilan yapmadan İşmen Gıda ve Remzi Çakar’a satış fiyatının altında 100 bin ton şeker satmış ve bir gün sonra da şeker fiyatlarına zam yaparak bu iki firmaya 600 milyon liralık bir kıyak geçmişti.\n\nŞimdi aynı iki şirketin Türkşeker’in yeni vadeli satışının hemen ardından kamu şirketinden daha düşük fiyatla piyasaya çıkması, geçmişte yapılan bu kıyak satış ile 50 bin ton baremlik şeker satışlarını yeniden sorgulanmasını gündeme getirdi.\n\nİki firma Cumhurbaşkanı’nın başkanlık ettiği Varlık Fonu bünyesindeki Türkşeker’e nasıl kafa tutar hale geldi?\n\nMeselenin en çarpıcı tarafı ise Türkşeker’in sıradan bir şeker fabrikası olmaması.\n\nTürkşeker, Cumhurbaşkanı Recep Tayyip Erdoğan’ın Yönetim Kurulu Başkanlığını yaptığı Türkiye Varlık Fonu bünyesinde bulunan bir kamu şirketi.\n\nBuna rağmen kamu şirketinin kendi ürettiği şekeri piyasaya satmaya çalışırken, geçmişte yüksek miktarlarda şeker sattığı iki ticaret şirketinin fiyat rekabetiyle karşı karşıya kalması ciddi bir yönetim sorusunu gündeme getiriyor:\n\nGeçmiş yıllarda etkin bir satış ağı bulunan Türkşeker neden Muhiddin Şahin döneminde kendi güçlü satış ve müşteri ağını kuramadı da bu iki tüccarın finansman gücüne ihtiyaç duyan bir yapıya sürüklendi?\n\nDahası, Türkşeker bile iki büyük tüccarın stok ve fiyatlama gücü karşısında kendi satışlarını korumakta zorlanıyorsa, finansal imkanları çok daha sınırlı olan kooperatif ve özel şeker fabrikaları bu şirketler karşısında nasıl pazarlık yapacak?\n\nGenel Müdürlüğün satış politikası şeker piyasasını iki firmanın hakimiyetine bıraktı!\n\nOrtaya çıkan tablo Türkşeker Genel Müdürü ve Yönetim Kurulu Başkanı Muhiddin Şahin döneminde uygulanan satış politikalarını da tartışmaya açıyor.\n\nÇünkü mesele artık yalnızca iki şirketin ne kadar güçlü olduğu değil, bu şirketlerin Türkşeker’in karşısına daha düşük fiyatla çıkabilecek stok ve piyasa gücüne nasıl ulaştığı.\n\nMuhiddin Şahin döneminden önce etkin bir satış ağı bulunan Türkşeker, bu satış ağının etkinliğinin son yıllarda neden kaybetti?\n\nNeden en yüksek indirimin 50 bin ton gibi yalnızca çok güçlü sermayeye sahip şirketlerin ulaşabileceği miktarlara bağlandığı bir sistem uygulandı?\n\nGeçmişte bu şirketlere yapılan yüksek tonajlı satışların piyasada oluşturacağı stok ve fiyatlama gücü neden dikkate alınmadı?\n\nVe bugün Türkşeker satış sistemini değiştirdiğinde, neden geçmişte yüksek miktarlarda şeker sattığı aynı şirketleri kendi karşısında daha düşük fiyatla rakip olarak buluyor?\n\nCumhurbaşkanı’nın başkanlık ettiği Türkiye Varlık Fonu bünyesindeki Türkşeker’in geldiği bu nokta, iki özel şirketin ticari başarısından çok Türkşeker’in satış politikasının ve Genel Müdür Muhiddin Şahin’in yönetim performansının sorgulanmasını gerektiriyor."
+      "summary": "Türkşeker’in 6 ay vadeli indirimli şeker satışının ardından İşmen Gıda ve Remzi Çakar’ın aynı vadede çuvalda 2-3 lira daha düşük fiyatla piyasaya çıkarak 60-70 bin ton şeker sattığı belirtiliyor. Cumhurbaşkanı Erdoğan’ın başkanlık ettiği Türkiye Varlık Fonu bünyesindeki Türkşeker’in, geçmişte yüksek",
+      "content": "Sadettin İnan / Türkiye Şeker Fabrikaları A.Ş.’nin (Türkşeker) 21 Ağustos’ta çıktığı 6 ay vadeli indirimli şeker satışının ardından şeker piyasasında dikkat çekici bir fiyat rekabeti yaşandı.\n\nTürkşeker; Burdur, Ereğli, Ilgın, Kastamonu ve Yozgat şeker fabrikalarından yapılacak satışlarda ödemeleri Aralık 2026, Ocak 2027 ve Şubat 2027 olmak üzere üç eşit taksite bağladı. KDV hariç kilogram fiyatını 5 bin tona kadar 43,41 TL, 5 bin ton ve üzerindeki alımlarda ise 42,32 TL olarak belirledi.\n\nİşmen Gıda ve Remzi Çakar'dan Türkşeker'e rakip satış!\n\nAncak sektör kaynaklarından edinilen bilgilere göre Türkşeker’in satış ilanının hemen ardından İşmen Gıda ve Remzi Çakar da benzer vadelerle piyasaya şeker vermeye başladı.\n\nİki firmanın Türkşeker’in çuval fiyatı 2-3 TL altına kadar indiği ve bu süreçte toplam 60-70 bin ton şeker sattığı kaydediliyor.\n\nBu iki firmanın Türkşeker’in 6 ay vadeli satışının hemen ardından benzer vadeler ve daha düşük fiyatla rakip olarak karşısına çıkması dikkat çekti.\n\nPeki neden İşmen Gıda ve Remzi Çakar Türkşeker’in karşısına rakip olarak çıktı?\n\nTürkşeker’in önceki indirimli satışlarında en yüksek fiyat avantajı 50 bin ton ve üzerindeki alımlara uygulanıyordu.\n\nAncak tek seferde 50 bin ton şeker alabilecek finansal güce sahip firma sayısının sınırlı olması nedeniyle bu sistemden özellikle İşmen Gıda ile Remzi Çakar Gıda’nın yararlanması dikkat çekiyordu.\n\nTarımdan Haber’in söz konusu satış sistemini gündeme taşımasının ardından Türkşeker son kampanyasında 50 bin tonluk baremi kaldırdı ve en yüksek indirimi 5 bin ton ve üzerindeki alımlara uyguladı.\n\nBöylece Türkşeker, daha geniş bir müşteri grubuna doğrudan ve uygun fiyatla şeker satabileceği bir modele yöneldi. Ancak bu değişiklik, yıllardır yüksek tonajlı satışlardan yararlanan iki firmanın karşı hamlesiyle karşılaştı. Türkşeker, geçmişte önemli miktarda şeker sattığı İşmen Gıda ve Remzi Çakar’ı bu kez benzer vadeler ve daha düşük fiyatlarla kendi karşısında rakip olarak buldu.\n\nMayıs ayında aynı iki firmaya 100 bin ton kıyak şeker satılmıştı\n\nÜstelik Türkşeker ile bu iki şirket arasındaki ilişki geçtiğimiz Mayıs ayında yapılan tartışmalı satışla da gündeme gelmişti. Tarımdan Haber’in ortaya çıkardığı kıyak şeker satışında, Türkşeker, duyuru ve ilan yapmadan İşmen Gıda ve Remzi Çakar’a satış fiyatının altında 100 bin ton şeker satmış ve bir gün sonra da şeker fiyatlarına zam yaparak bu iki firmaya 600 milyon liralık bir kıyak geçmişti.\n\nŞimdi aynı iki şirketin Türkşeker’in yeni vadeli satışının hemen ardından kamu şirketinden daha düşük fiyatla piyasaya çıkması, geçmişte yapılan bu kıyak satış ile 50 bin ton baremlik şeker satışlarını yeniden sorgulanmasını gündeme getirdi.\n\nİki firma Cumhurbaşkanı’nın başkanlık ettiği Varlık Fonu bünyesindeki Türkşeker’e nasıl kafa tutar hale geldi?\n\nMeselenin en çarpıcı tarafı ise Türkşeker’in sıradan bir şeker fabrikası olmaması.\n\nTürkşeker, Cumhurbaşkanı Recep Tayyip Erdoğan’ın Yönetim Kurulu Başkanlığını yaptığı Türkiye Varlık Fonu bünyesinde bulunan bir kamu şirketi.\n\nBuna rağmen kamu şirketinin kendi ürettiği şekeri piyasaya satmaya çalışırken, geçmişte yüksek miktarlarda şeker sattığı iki ticaret şirketinin fiyat rekabetiyle karşı karşıya kalması ciddi bir yönetim sorusunu gündeme getiriyor:\n\nGeçmiş yıllarda etkin bir satış ağı bulunan Türkşeker neden Muhiddin Şahin döneminde kendi güçlü satış ve müşteri ağını kuramadı da bu iki tüccarın finansman gücüne ihtiyaç duyan bir yapıya sürüklendi?\n\nDahası, Türkşeker bile iki büyük tüccarın stok ve fiyatlama gücü karşısında kendi satışlarını korumakta zorlanıyorsa, finansal imkanları çok daha sınırlı olan kooperatif ve özel şeker fabrikaları bu şirketler karşısında nasıl pazarlık yapacak?\n\nGenel Müdürlüğün satış politikası şeker piyasasını iki firmanın hakimiyetine bıraktı!\n\nOrtaya çıkan tablo Türkşeker Genel Müdürü ve Yönetim Kurulu Başkanı Muhiddin Şahin döneminde uygulanan satış politikalarını da tartışmaya açıyor.\n\nÇünkü mesele artık yalnızca iki şirketin ne kadar güçlü olduğu değil, bu şirketlerin Türkşeker’in karşısına daha düşük fiyatla çıkabilecek stok ve piyasa gücüne nasıl ulaştığı.\n\nMuhiddin Şahin döneminden önce etkin bir satış ağı bulunan Türkşeker, bu satış ağının etkinliğinin son yıllarda neden kaybetti?\n\nNeden en yüksek indirimin 50 bin ton gibi yalnızca çok güçlü sermayeye sahip şirketlerin ulaşabileceği miktarlara bağlandığı bir sistem uygulandı?\n\nGeçmişte bu şirketlere yapılan yüksek tonajlı satışların piyasada oluşturacağı stok ve fiyatlama gücü neden dikkate alınmadı?\n\nVe bugün Türkşeker satış sistemini değiştirdiğinde, neden geçmişte yüksek miktarlarda şeker sattığı aynı şirketleri kendi karşısında daha düşük fiyatla rakip olarak buluyor?\n\nCumhurbaşkanı’nın başkanlık ettiği Türkiye Varlık Fonu bünyesindeki Türkşeker’in geldiği bu nokta, iki özel şirketin ticari başarısından çok Türkşeker’in satış politikasının ve Genel Müdür Muhiddin Şahin’in yönetim performansının sorgulanmasını gerektiriyor."
     },
     {
       "title": "Buğday fiyatları haftayı nasıl kapattı? 1 kilo buğday kaç TL oldu?",
