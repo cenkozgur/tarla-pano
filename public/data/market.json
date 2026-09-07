@@ -1,43 +1,51 @@
 {
-  "updatedAt": "2026-09-07T11:58:46.924Z",
+  "updatedAt": "2026-09-07T17:33:00.288Z",
   "fx": [
     {
       "code": "USD",
       "name": "Dolar",
-      "buy": 48.43,
+      "buy": 48.42,
       "sell": 48.43,
       "change": -0.01
     },
     {
       "code": "EUR",
       "name": "Euro",
-      "buy": 56.33,
-      "sell": 56.34,
-      "change": 0.17
+      "buy": 56.32,
+      "sell": 56.36,
+      "change": 0.18
     },
     {
       "code": "GRA",
       "name": "Gram Altın",
-      "buy": 6829.98,
-      "sell": 6830.91,
-      "change": -0.98
+      "buy": 6868.47,
+      "sell": 6869.2,
+      "change": -0.43
     },
     {
       "code": "CEYREKALTIN",
       "name": "Çeyrek Altın",
-      "buy": 10858.03,
-      "sell": 11108.09,
-      "change": -0.95
+      "buy": 10903.64,
+      "sell": 11152.4,
+      "change": -0.56
     },
     {
       "code": "CUMHURIYETALTINI",
       "name": "Cumhuriyet Altını",
-      "buy": 45031,
-      "sell": 45712,
-      "change": -0.32
+      "buy": 45161,
+      "sell": 45842,
+      "change": -0.04
     }
   ],
   "news": [
+    {
+      "title": "Afyonkarahisar’a yapılacak 300 dönümlük dev sera yatırımı Konya’ya kaydırıldı",
+      "url": "https://www.tarimdanhaber.com/afyonkarahisara-yapilacak-300-donumluk-dev-sera-yatirimi-konyaya-kaydirildi",
+      "source": "Tarımdan Haber",
+      "date": "2026-09-07",
+      "summary": "Arı Tarım A.Ş., Afyonkarahisar’ın Sandıklı ilçesinde planladığı 300 dönümlük jeotermal sera yatırımının rotasını Konya’nın Tuzlukçu ilçesine çevirdi. Tuzlukçu’da yatırıma başlayan şirket, 300 bin metrekarelik serayı yıl sonuna kadar tamamlayarak domates üretimine geçmeyi ve üretimin önemli bölümünü ",
+      "content": "Haber Merkezi / Afyonkarahisar’ın Sandıklı ilçesinde yapılması planlanan büyük ölçekli jeotermal sera yatırımında adres değişti. Arı Tarım A.Ş., toplam 300 dönümlük sera yatırımını Konya’nın Tuzlukçu ilçesine kaydırdı.\n\nŞirket, Tuzlukçu’da 300 bin metrekarelik alanda sera yatırımına başlarken, tesisin yıl sonuna kadar tamamlanarak üretime geçmesi hedefleniyor.\n\n300 dönüm serada domates üretilecek\n\nYeni yatırımın ana üretim kalemini domates oluşturacak. Arı Tarım, modern sera koşullarında yetiştirilecek domatesleri iç pazarın yanı sıra ihracata da yönlendirmeyi planlıyor.\n\n300 dönüm, yani 300 bin metrekarelik büyüklüğüyle yatırımın tamamlanması, Tuzlukçu açısından da önemli bir örtü altı üretim kapasitesinin devreye girmesi anlamına gelecek.\n\nSandıklı yerine neden Tuzlukçu tercih edildi?\n\nYatırımla ilgili en dikkat çekici nokta ise başlangıçta Afyonkarahisar’ın Sandıklı ilçesinde planlanan projenin Konya’ya kaydırılması oldu.\n\nArı Tarım’ın Tuzlukçu’da yatırıma başlamasıyla birlikte projenin yıl sonuna kadar tamamlanması ve ilk ürünlerin alınması hedefleniyor."
+    },
     {
       "title": "Türkşeker’in şeker satışına iki firmadan karşı hamle! Muhiddin Şahin döneminde kamu şirketi bu noktaya nasıl geldi?",
       "url": "https://www.tarimdanhaber.com/turksekerin-seker-satisina-iki-firmadan-karsi-hamle-muhiddin-sahin-doneminde-kamu-sirketi-bu-noktaya-nasil-geldi",
@@ -93,14 +101,6 @@
       "date": "2026-09-05",
       "summary": "Eski TİGEM Genel Müdürü ve Tarım ve Orman Bakanlığı Müşaviri İsmail Şanlı’nın 1 Haziran 2026 tarihi itibarıyla memuriyetten ayrıldığı ortaya çıktı. Şanlı, 2021 yılında FETÖ soruşturması kapsamında gözaltına alınmış, savcılık ifadesinin ardından adli kontrol şartıyla serbest bırakılmış ve Bakanlık ta",
       "content": "Haber Merkezi / Tarım İşletmeleri Genel Müdürlüğü’nün (TİGEM) eski Genel Müdürü İsmail Şanlı’nın Tarım ve Orman Bakanlığındaki kamu görevinden ayrıldığı ortaya çıktı.\n\nEdinilen bilgilere göre, TİGEM Genel Müdürlüğü görevinin ardından Tarım ve Orman Bakanlığında müşavir olarak görev yapan Şanlı’nın memuriyet görevi 1 Haziran 2026 tarihi itibarıyla sona erdi.\n\nŞanlı’nın kamu görevinden ayrılması, geçmişte hakkında yürütülen adli ve idari süreçler nedeniyle dikkat çekti.\n\n2021 YILINDA GÖZALTINA ALINMIŞTI\n\nİsmail Şanlı, 2021 yılında yürütülen FETÖ soruşturması kapsamında gözaltına alınmıştı. Savcılıkta ifadesi alınan Şanlı, daha sonra adli kontrol şartıyla serbest bırakılmıştı.\n\nSöz konusu soruşturmanın ardından Şanlı hakkında Tarım ve Orman Bakanlığı tarafından görevden uzaklaştırma tedbiri de uygulanmıştı. Şanlı bir süre Bakanlıktaki görevinden uzak kalmıştı.\n\nADLİ SÜRECİN SONUCU KAMUOYUNA AÇIKLANMADI\n\nAradan geçen süreçte Şanlı hakkındaki adli takibatın hangi aşamada sonuçlandığına ilişkin kamuoyuna kapsamlı bir açıklama yapılmadı.\n\nBu nedenle Şanlı hakkındaki 2021 yılındaki soruşturma ile 1 Haziran 2026 tarihinde memuriyetten ayrılması arasında doğrudan bir bağlantı bulunduğuna ilişkin kamuoyuna açıklanmış bir bilgi bulunmuyor.\n\nAncak Bakanlık müşaviri kadrosunda bulunan Şanlı’nın memuriyetten ayrılması dikkat çekti.\n\n1 HAZİRAN 2026 İTİBARIYLA MEMURİYETİ SONA ERDİ\n\nŞanlı’nın kamu görevinden ayrılış tarihinin 1 Haziran 2026 olduğu öğrenildi. Şanlı’nın kendi isteğiyle istifa ederek ayrıldığı kaydediliyor.\n\nŞanlı'nın Genel Müdürlüğü döneminde Genç Çiftçi Projesi Yolsuzluğu İddiamarı Gündeme Gelmişti!\n\n2016-2018 yıllarında uygulanan Genç Çiftçi Projesi'nin en önemli ayaklarından birini hayvancılık hibeleri oluşturmuştu. Yıllık yaklaşık 500 milyon liralık hibe desteğinin yüzde 70'e yakını hayvancılık başvurularına ayrılırken, hak sahiplerine 30 bin liralık hibe kapsamında küçükbaş ve büyükbaş hayvan dağıtılmıştı.\n\nHak sahiplerine ilişkin planlama ve organizasyon Tarım Reformu Genel Müdürlüğü tarafından yürütülürken, proje kapsamında dağıtılacak hayvanların tedarikinde TİGEM görev almıştı.\n\n2018'DE HAYVAN TEDARİKİ TARTIŞMA KONUSU OLMUŞTU\n\nİsmail Şanlı'nın TİGEM Genel Müdürü olduğu 2018 yılında, Genç Çiftçi Projesi kapsamında gerçekleştirilen hayvan tedariki kamuoyunda tartışmalara neden olmuştu.\n\nMilli Gazete ve Tarımdan Haber'in o dönemde gündeme getirdiği bilgilere göre, hayvan temini için gerçekleştirilen ihale iptal edilmiş; hayvanların daha sonra doğrudan alım yöntemiyle belirli firmalardan ve ihalede oluşan fiyatların üzerinde temin edildiği gündeme gelmişti.\n\nBAKAN FAKIBABA'NIN İHALE TALİMATI DA GÜNDEME GELMİŞTİ\n\nSöz konusu süreçte dönemin Tarım ve Orman Bakanı Ahmet Eşref Fakıbaba'nın hayvan tedarikinin herhangi bir şaibeye yol açmaması için ihale yöntemiyle gerçekleştirilmesini istediği de kamuoyuna yansımıştı.\n\nBuna karşın Şanlı'nın Genel Müdürlüğü döneminde hayvanların doğrudan alım yöntemiyle temin edilmesi ve alım fiyatlarının daha önceki ihalede oluşan fiyatların üzerinde olması tartışmaların odağında yer almıştı."
-    },
-    {
-      "title": "ABD Tarım Bakanlığı açıkladı: Türkiye’de çiftçi pamuk ekmekten vazgeçiyor, ithalat artıyor",
-      "url": "https://www.tarimdanhaber.com/abd-tarim-bakanligi-acikladi-turkiyede-ciftci-pamuk-ekmekten-vazgeciyor-ithalat-artiyor",
-      "source": "Tarımdan Haber",
-      "date": "2026-09-05",
-      "summary": "ABD Tarım Bakanlığı'nın (USDA) Türkiye'ye ilişkin Eylül pamuk raporu dikkat çekici bir tablo ortaya koydu. 2026/27 sezonunda pamuk ekim alanı tahmini 275 bin hektara, üretim 495 bin tona gerilerken ithalat beklentisi 1,1 milyon tona yükseldi. Raporu değerlendiren Tarım Politikaları Uzmanı Ergin Kahv",
-      "content": "Haber Merkezi / Türkiye'de pamuk üreticisi tarladan çekilirken, tekstil sanayisinin hammadde ihtiyacı giderek daha fazla ithalatla karşılanıyor.\n\n2026/27 sezonunda Türkiye'nin pamuk üretiminin 495 bin tona kadar gerilemesi beklenirken, pamuk ithalatının 1,1 milyon tona çıkacağı tahmin ediliyor.\n\nBaşka bir ifadeyle Türkiye, önümüzdeki sezonda kendi tarlalarında üretmesi beklenen pamuk miktarının iki katından fazlasını yurt dışından ithal edebilir.\n\nAncak sorun yalnızca pamuk tarlalarında yaşanmıyor. Yeni veriler, Türkiye'nin önemli ihracat sektörlerinden tekstilde yaşanan sıkıntının hazır giyimden pamuklu kumaşa doğru genişlediğine de işaret ediyor.\n\nPamukta tarladan fabrikaya dikkat çeken tablo\n\nABD Tarım Bakanlığı'nın (USDA) Türkiye pamuk sektörüne ilişkin 2026/27 sezonu Eylül güncellemesini değerlendiren Tarım Politikaları Uzmanı Ergin Kahveci, Mart ayında yapılan tahminlerle Eylül verileri arasında önemli değişiklikler bulunduğuna dikkat çekti.\n\nKahveci'ye göre ortaya çıkan tablo, yalnızca tarımsal üretimdeki gerilemeyi değil, tarladan ipliğe, kumaştan hazır giyime kadar uzanan üretim zincirindeki yapısal sorunları da gösteriyor.\n\nMart ayında Türkiye'nin pamuk üretiminin 525 bin ton olacağı tahmin edilirken, Eylül güncellemesinde beklenti 495 bin tona düşürüldü.\n\nDaha çarpıcı değişimlerden biri ise ekim alanlarında yaşandı.\n\nMart ayında 310 bin hektar olarak tahmin edilen pamuk ekim alanı, Eylül güncellemesinde 275 bin hektara çekildi.\n\nÇiftçi neden pamuktan uzaklaşıyor?\n\nKahveci, ekim alanlarındaki gerilemenin arkasında pamuk üreticisinin ekonomik koşullarının bulunduğunu belirtti.\n\nYüksek girdi maliyetleri karşısında yaklaşık 86 TL/kg düzeyindeki yerel pamuk fiyatlarının üretici açısından yeterli bir karlılık oluşturmadığını ifade eden Kahveci, desteklerin de çiftçinin üretim kararını değiştirecek seviyede olmadığı değerlendirmesinde bulundu.\n\nBunun sonucunda üreticinin pamuktan uzaklaştığını, özellikle ikinci ürün ekimlerinin yapılmadığını kaydetti.\n\nOrtaya çıkan rakamlar da bu geri çekilmeyi ortaya koyuyor:\n\nMart tahmini: 310 bin hektar\n\nEylül tahmini: 275 bin hektar\n\nBuna göre yalnızca iki tahmin arasında pamuk ekim alanı beklentisi 35 bin hektar aşağı çekilmiş durumda.\n\nÜretim azalıyor, ithalat yükseliyor\n\nPamuktaki asıl dikkat çekici tablo ise üretim ve ithalat rakamları yan yana getirildiğinde ortaya çıkıyor.\n\nMart ayında Türkiye'nin 2026/27 sezonunda 980 bin ton pamuk ithal edeceği tahmin edilirken, Eylül güncellemesinde ithalat beklentisi 1,1 milyon tona yükseltildi.\n\nAynı dönemde üretim beklentisinin 525 bin tondan 495 bin tona düşürülmesi, tekstil sanayisinin ihtiyaç duyduğu hammaddede dış kaynakların ağırlığının daha da artacağına işaret ediyor.\n\n495 bin ton üretim, 1,1 milyon ton ithalat\n\nBöylece Türkiye'nin ithal edeceği pamuk miktarının, kendi üreteceği pamuğun 2 katından fazla olması bekleniyor.\n\nTürkiye'nin pamuk ithalatında ise dikkat çekici bir ülke öne çıkıyor: Brezilya.\n\nKahveci'nin aktardığı verilere göre Brezilya, bol ve rekabetçi fiyatlı pamuk arzıyla Türkiye pazarında yüzde 43 paya ulaşarak ilk sıraya yerleşti.\n\nABD ise yüzde 25'lik payla ikinci sırada bulunuyor.\n\nTekstil sanayisi ithal pamukla üretimini sürdürüyor\n\nPamukta ortaya çıkan tabloyu önemli kılan noktalardan biri, ürünün yalnızca tarımsal bir emtia olmaması.\n\nTarlada üretilen pamuk; çırçırdan ipliğe, dokumadan kumaşa ve hazır giyime kadar Türkiye'nin en köklü sanayi ve ihracat zincirlerinden birinin hammaddesini oluşturuyor.\n\nBu nedenle pamuk üretimindeki gerileme yalnızca çiftçinin ne ekip ekmediğiyle sınırlı kalmıyor. Yerli hammaddenin azalması, tekstil sanayisinin ithal pamuğa duyduğu ihtiyacın artması anlamına geliyor.\n\nUSDA'nın Eylül güncellemesinde pamuk tüketim beklentisinin yukarı yönlü revize edilmesi de bu açıdan dikkat çekiyor.\n\nMart ayında 1,45 milyon ton olarak öngörülen tüketim, Eylül ayında 1,50 milyon tona yükseltildi.\n\nİran'daki gelişmeler Türkiye tekstiline geçici nefes aldırdı\n\nKahveci, tüketimdeki artışın önemli nedenlerinden birinin ilkbaharda İran'da yaşanan çatışmaların oluşturduğu lojistik ve enerji sorunları olduğunu belirtti.\n\nUzak Doğu'daki tedarik risklerinin ardından bazı Avrupalı markaların teslimat güvencesi amacıyla siparişlerini kısa süreli olarak Türkiye'ye yönlendirdiğini kaydeden Kahveci, bu gelişmenin iplik fabrikalarının stoklarının azalmasına katkı sağladığını ifade etti.\n\nAncak Kahveci'ye göre bu hareketlilik kalıcı hale gelmedi.\n\nTürk lirasının değer seviyesi başta olmak üzere makroekonomik koşullar, Türkiye tekstil sektörünün uluslararası rekabet gücü üzerindeki baskısını sürdürüyor.\n\nSorun hazır giyimden kumaşa doğru genişliyor\n\nTürkiye tekstil sektöründeki bir başka önemli gösterge ise pamuklu kumaş ihracatında ortaya çıktı.\n\nKahveci, daha önce hazır giyim siparişlerinde yaşanan kaybın doğrudan kumaş ihracatıyla kısmen telafi edildiğine dikkat çekerken, Eylül verilerinin bu alanda da bozulmaya işaret ettiğini belirtti.\n\n2026'nın ilk yarısında Türkiye'nin pamuklu kumaş ihraca"
     }
   ],
   "commoditiesByBorsa": {
@@ -309,16 +309,6 @@
   "errors": [
     "borsa 5ED10: fetch failed",
     "borsa 5KO10: fetch failed",
-    "borsa 5ES10: fetch failed",
-    "mazot ANKARA: fetch failed",
-    "mazot ISTANBUL: fetch failed",
-    "mazot IZMIR: fetch failed",
-    "mazot KONYA: fetch failed",
-    "mazot ADANA: fetch failed",
-    "mazot BURSA: fetch failed",
-    "mazot ANTALYA: fetch failed",
-    "mazot SAMSUN: fetch failed",
-    "mazot TEKIRDAG: fetch failed",
-    "mazot CANAKKALE: fetch failed"
+    "borsa 5ES10: fetch failed"
   ]
 }
