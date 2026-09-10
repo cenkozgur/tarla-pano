@@ -1,43 +1,51 @@
 {
-  "updatedAt": "2026-09-10T14:55:10.943Z",
+  "updatedAt": "2026-09-10T18:12:11.536Z",
   "fx": [
     {
       "code": "USD",
       "name": "Dolar",
-      "buy": 484911,
-      "sell": 484972,
+      "buy": 484886,
+      "sell": 485008,
       "change": 3
     },
     {
       "code": "EUR",
       "name": "Euro",
-      "buy": 565574,
-      "sell": 565991,
-      "change": 24
+      "buy": 564473,
+      "sell": 564862,
+      "change": 4
     },
     {
       "code": "GRA",
       "name": "Gram Altın",
-      "buy": 690025,
-      "sell": 690114,
-      "change": 58
+      "buy": 676822,
+      "sell": 676924,
+      "change": -134
     },
     {
       "code": "CEYREKALTIN",
       "name": "Çeyrek Altın",
-      "buy": 1095408,
-      "sell": 1120629,
-      "change": 0
+      "buy": 1085504,
+      "sell": 1110275,
+      "change": -92
     },
     {
       "code": "CUMHURIYETALTINI",
       "name": "Cumhuriyet Altını",
-      "buy": 45388,
-      "sell": 46076,
-      "change": 12
+      "buy": 45064,
+      "sell": 45740,
+      "change": -73
     }
   ],
   "news": [
+    {
+      "title": "TMO kuru üzüm fiyatını 85-100 TL açıkladı! Şenol Sunat: “Maliyeti zaten 100 TL",
+      "url": "https://www.tarimdanhaber.com/tmo-kuru-uzum-fiyatini-85-100-tl-acikladi-senol-sunat-maliyeti-zaten-100-tl",
+      "source": "Tarımdan Haber",
+      "date": "2026-09-10",
+      "summary": "TMO, 2026 yılı çekirdeksiz kuru üzüm alım fiyatlarını kaliteye göre kilogram başına 85 ile 100 TL arasında açıkladı. En yüksek kalite olan 10 numara üzüm için 100 TL/kg fiyat belirlenirken, İYİ Parti Genel Başkan Yardımcısı Şenol Sunat karara sert tepki gösterdi. Kuru üzümün kilogram maliyetinin 100",
+      "content": "Haber Merkezi / Toprak Mahsulleri Ofisi, üreticinin günlerdir beklediği 2026 yılı çekirdeksiz kuru üzüm alım fiyatlarını açıkladı.\n\nTMO tarafından yapılan açıklamaya göre bandırmalı çekirdeksiz kuru üzümde alım fiyatları ürünün kalitesine göre kilogram başına 85 TL ile 100 TL arasında değişecek.\n\nTMO kuru üzüm fiyatları: 10 numara 100 TL, 7 numara 85 TL\n\nTMO'nun açıkladığı 2026 yılı çekirdeksiz kuru üzüm alım fiyatları şöyle belirlendi:\n\nTMO, kuru üzüm piyasalarının yakından izlendiğini ve gelinen süreçte alım fiyatı açıklanmasına ihtiyaç duyulduğunu bildirdi.\n\nKuru üzüm alımları 15 Eylül'de başlayacak\n\nTMO, üzüm alımlarına 15 Eylül 2026'dan itibaren başlayacak.\n\nÜrün bedelleri, teslimatın ardından 21. günden itibaren üreticilerin banka hesaplarına aktarılacak.\n\nAlımlar Manisa'da Yeniköy, Alaşehir'de 2, Salihli'de 2 noktanın yanı sıra Saruhanlı, Sarıgöl, Turgutlu ve Gölmarmara ile Denizli'de Buldan ve Çal olmak üzere toplam 11 noktada gerçekleştirilecek.\n\nÜreticiler ürün teslimi için TMO'nun randevu sistemini kullanacak.\n\nŞenol Sunat'tan TMO'nun üzüm fiyatına sert tepki: “El insaf!”\n\nTMO'nun fiyatları açıklamasının ardından İYİ Parti Genel Başkan Yardımcısı Şenol Sunat'tan sert tepki geldi.\n\nSunat, Manisa'daki üzüm üreticilerinin yaşadığı maliyet sorunlarına dikkat çekerek açıklamasına “El insaf!” sözleriyle başladı.\n\nSunat, Tarım ve Orman Bakanı İbrahim Yumaklı'ya seslenerek şöyle dedi: “Günlerdir bağlarda, sergi alanlarında feryadını dinlediğimiz Manisalı üreticimize TMO'nun reva gördüğü fiyat bu mu?”\n\n“Kuru üzümün kilogram maliyeti zaten 100 TL”\n\nSunat'ın açıklamasında en dikkat çekici nokta ise üretim maliyeti ile TMO'nun açıkladığı en yüksek alım fiyatını karşılaştırması oldu.\n\nKuru üzüm üretim maliyetinin kilogram başına 100 TL olduğunu belirten Sunat, TMO'nun en yüksek kaliteli ürüne verdiği fiyatın da 100 TL olduğuna dikkat çekti: “Kuru üzümün kilogram maliyeti zaten 100 TL iken, siz en yüksek kalite ürüne bile 100 TL fiyat biçtiniz!”\n\nBu hesaba göre TMO'nun açıkladığı 10 numara kuru üzüm fiyatı Sunat'ın verdiği maliyet rakamıyla aynı seviyede bulunurken, daha düşük kalitedeki ürünlerde açıklanan fiyat maliyet hesabının altında kalıyor.\n\n“85 TL üreticiye zararına sat demektir”\n\nTMO'nun 7 numara çekirdeksiz kuru üzüm için açıkladığı 85 TL/kg fiyatı da eleştiren Sunat, açıklamasını şu sözlerle sürdürdü: “7 numara üzüme verdiğiniz 85 TL, üreticiye ‘zararına sat, toprağı terk et’ demektir.”\n\nSunat, TMO'nun açıkladığı fiyatların üreticinin maliyetlerini karşılamadığı görüşünü dile getirerek, “Üreticimizin hakkını ezdiren bu tablodan ve çiftçiyi maliyetine mahkûm eden bu düzenden utanmalısınız” ifadelerini kullandı.\n\nTMO fiyatı açıkladı, şimdi gözler piyasada\n\nTMO'nun 15 Eylül'de alımlara başlamasıyla birlikte açıklanan fiyatların serbest piyasaya nasıl yansıyacağı da yakından takip edilecek.\n\nÖzellikle Türkiye'nin önemli kuru üzüm üretim merkezi Manisa'da üreticinin 85-100 TL/kg arasındaki TMO fiyatlarına nasıl karşılık vereceği ve piyasa fiyatlarının TMO alımları sonrasında hangi seviyede oluşacağı önem taşıyor.\n\nBaşlıkta daha çarpıcı bir seçenek ise bence şu:\n\nBu başlık haberin meselesini çok daha net ortaya koyuyor. “Fiyat düşük” gibi genel bir tepki yerine maliyet 100 TL → en yüksek TMO fiyatı 100 TL çelişkisini doğrudan okuyucuya gösteriyor."
+    },
     {
       "title": "Brezilya’dan sığır ithalatında çarpıcı tablo! Her 10 hayvandan 4’ünü Türkiye aldı",
       "url": "https://www.tarimdanhaber.com/brezilyadan-sigir-ithalatinda-carpici-tablo-her-10-hayvandan-4unu-turkiye-aldi",
@@ -93,14 +101,6 @@
       "date": "2026-09-08",
       "summary": "Eskişehir'de 2027 üretim yılında havza bazında desteklenecek ürünlerin yeni listesi belli oldu. 14 ilçenin 11'inde ürün deseninde değişikliğe gidilirken, bazı ilçelerde kuru fasulye, aspir, kanola ve mercimek listeye eklendi, bazı ilçelerde ise patates desteklenen ürünler arasından çıkarıldı. Dane m",
       "content": "Haber Merkezi / Tarım ve Orman Bakanlığının bitkisel üretim planlaması kapsamında Eskişehir'de 2027 üretim yılında havza bazında desteklenecek ürünler belli oldu.\n\nYeni 2027 havza ürün deseni, geçtiğimiz yıl uygulanan listeyle karşılaştırıldığında Eskişehir'de önemli değişiklikler yapıldığını ortaya koydu.\n\nTarımdan Haber'in 2026 ve 2027 listeleri üzerinden yaptığı karşılaştırmaya göre, Eskişehir'in 14 ilçesinden 11'inde destek kapsamındaki ürünlerden en az biri değişti.\n\nEskişehir'de 2027 havza desteklerinde ne değişti?\n\nDeğişikliğin en fazla dikkat çektiği ilçelerin başında Alpu geliyor. Alpu'da kuru fasulye ve kolza (kanola) 2027 ürün desenine eklenirken, patates listeden çıkarıldı.\n\nBeylikova ve Çifteler'de kuru fasulye, Günyüzü'nde ise aspir yeni listeye eklendi.\n\nİnönü'de kuru fasulye destek kapsamına alınırken kolza (kanola) listeden çıkarıldı.\n\nMahmudiye'de patates, 2027 havza ürün deseninden çıkarılan ürün oldu.\n\nMihalıççık'ta ise aspir ve kolza (kanola) listeye eklenirken patates çıkarıldı.\n\nOdunpazarı'nda aspir ve kuru fasulye, Seyitgazi'de kuru fasulye yeni ürün desenine dahil edildi.\n\nSivrihisar'da kuru fasulye ve mercimek eklenirken patates listeden çıkarıldı.\n\nTepebaşı'nda ise 2027 listesi aspir, kuru fasulye ve mercimeğin eklenmesiyle genişledi.\n\nHan, Mihalgazi ve Sarıcakaya ilçelerinde ise 2026'ya göre desteklenen ürün deseninde değişiklik yapılmadı.\n\nEskişehir 2027 havza destekleri: İlçe ilçe tam liste\n\nAlpu*: Arpa, Ayçiçeği (Yağlık), Buğday, Fasulye (Kuru), Kolza (Kanola), Mısır (Dane), Nohut, Soğan (Kuru), Yem Bitkileri\n\nBeylikova: Arpa, Ayçiçeği (Yağlık), Buğday, Fasulye (Kuru), Mısır (Dane), Nohut, Soğan (Kuru), Yem Bitkileri\n\nÇifteler*: Arpa, Ayçiçeği (Yağlık), Buğday, Fasulye (Kuru), Kolza (Kanola), Mısır (Dane), Nohut, Patates, Soğan (Kuru), Yem Bitkileri\n\nGünyüzü: Arpa, Aspir, Ayçiçeği (Yağlık), Buğday, Kolza (Kanola), Nohut, Soğan (Kuru), Yem Bitkileri\n\nHan: Arpa, Aspir, Buğday, Nohut, Yem Bitkileri\n\nİnönü: Arpa, Ayçiçeği (Yağlık), Buğday, Fasulye (Kuru), Mercimek, Mısır (Dane), Nohut, Yem Bitkileri\n\nMahmudiye*: Arpa, Ayçiçeği (Yağlık), Buğday, Kolza (Kanola), Mısır (Dane), Nohut, Soğan (Kuru), Yem Bitkileri\n\nMihalgazi: Arpa, Buğday, Yem Bitkileri\n\nMihalıççık: Arpa, Aspir, Ayçiçeği (Yağlık), Buğday, Kolza (Kanola), Mısır (Dane), Nohut, Soğan (Kuru), Yem Bitkileri\n\nOdunpazarı: Arpa, Aspir, Ayçiçeği (Yağlık), Buğday, Fasulye (Kuru), Mısır (Dane), Nohut, Patates, Soğan (Kuru), Yem Bitkileri\n\nSarıcakaya: Arpa, Buğday, Yem Bitkileri\n\nSeyitgazi: Arpa, Ayçiçeği (Yağlık), Buğday, Fasulye (Kuru), Kolza (Kanola), Mısır (Dane), Nohut, Patates, Soğan (Kuru), Yem Bitkileri\n\nSivrihisar*: Arpa, Aspir, Ayçiçeği (Yağlık), Buğday, Fasulye (Kuru), Kolza (Kanola), Mercimek, Mısır (Dane), Nohut, Soğan (Kuru), Yem Bitkileri\n\nTepebaşı: Arpa, Aspir, Ayçiçeği (Yağlık), Buğday, Fasulye (Kuru), Kolza (Kanola), Mercimek, Mısır (Dane), Nohut, Patates, Soğan (Kuru), Yem Bitkileri\n\nSu kısıtı bulunan ilçe sayısı 6'dan 4'e düştü\n\n2027 listesindeki dikkat çekici değişikliklerden biri de dane mısır üretiminde damla sulama şartı uygulanan ilçelerde yaşandı.\n\n2026 listesinde Alpu, Beylikova, Çifteler, Mahmudiye, Mihalıççık ve Sivrihisar su kısıtı kapsamında yer alıyordu ve bu ilçelerde dane mısır üretiminde damla sulama şartı aranıyordu.\n\n2027 tablosunda ise yıldızla işaretlenen ilçeler Alpu, Çifteler, Mahmudiye ve Sivrihisar oldu.\n\nBuna göre Beylikova ve Mihalıççık 2027 listesinde su kısıtı işareti bulunan ilçeler arasında yer almadı. Böylece dane mısır üretiminde damla sulama şartının belirtildiği ilçe sayısı 6'dan 4'e geriledi.\n\nPatates 4 ilçede listeden çıkarıldı\n\n2027 ürün desenindeki bir başka dikkat çekici değişiklik patateste yaşandı.\n\n2026 listesinde patatesin bulunduğu Alpu, Mahmudiye, Mihalıççık ve Sivrihisar'da bu ürün 2027 havza listesinden çıkarıldı. Buna karşılık Çifteler, Odunpazarı, Seyitgazi ve Tepebaşı'nda patates yeni listede yer almaya devam etti.\n\nKuru fasulyenin destek alanı genişledi\n\nYeni listenin öne çıkan ürünlerinden biri de kuru fasulye oldu.\n\nAlpu, Beylikova, Çifteler, İnönü, Odunpazarı, Seyitgazi, Sivrihisar ve Tepebaşı'nda kuru fasulye 2027 ürün deseninde yer aldı. Bu ilçelerin tamamında kuru fasulye 2026 listesinin dışında bulunuyordu.\n\nBu değişiklikle birlikte kuru fasulyenin Eskişehir'deki havza bazlı üretim planlamasındaki ağırlığı önemli ölçüde artmış oldu.\n\nÇiftçi 2027 ekim planında yeni listeyi dikkate almalı\n\n2026 ve 2027 listeleri arasındaki değişiklikler nedeniyle Eskişehir'de üreticilerin yeni sezon ekim planlarını eski liste üzerinden yapmaması önem taşıyor.\n\nÖzellikle patates, kuru fasulye, aspir, kolza ve mercimek üretimi yapacak çiftçilerin kendi ilçelerinin 2027 havza ürün desenini kontrol etmeleri gerekiyor.\n\nTürkiye genelinde hangi ilde hangi ürünün havza bazında desteklendiğini görmek isteyen üreticiler, Tarımdan Haber'in 2027 havza destekleri il il ürün listesi üzerinden güncel bilgilere ulaşabilir.\n\nEskişehir’de tarla bitkileri üretimi: Hangi ürünlerde öne çıkıyor?"
-    },
-    {
-      "title": "2027 sertifikalı tohum desteği ne kadar? Buğdaydan nohuta ürün ürün yeni destekler",
-      "url": "https://www.tarimdanhaber.com/2027-sertifikali-tohum-destegi-ne-kadar-bugdaydan-nohuta-urun-urun-yeni-destekler",
-      "source": "Tarımdan Haber",
-      "date": "2026-09-08",
-      "summary": "2027 üretim yılı sertifikalı tohum kullanım destekleri belli oldu. Yeni destek katsayısının 442 TL'ye çıkarılmasıyla nohutta destek 442 TL/dekara, mercimekte 353,60 TL/dekara, patateste 972,40 TL/dekara yükseldi. Peki buğday, arpa, kuru fasulye, soya, yonca ve diğer ürünlerde 2027 sertifikalı tohum ",
-      "content": "Haber Merkezi / 2027 sertifikalı tohum kullanım destekleri belli oldu. Yeni destek katsayısının 442 TL'ye çıkarılmasıyla sertifikalı tohum kullanan çiftçiye patateste 972,40 TL, kuru fasulyede 663 TL, nohut ve yem bezelyesinde 442 TL, mercimekte 353,60 TL dekar başına destek ödenecek. Peki buğday, arpa, soya, yonca ve diğer ürünlerde 2027 sertifikalı tohum desteği ne kadar olacak?\n\n2027 üretim yılında uygulanacak tarımsal desteklerle birlikte çiftçinin sertifikalı tohum kullanımında alacağı destekler de yeniden belirlendi.\n\n8 Eylül 2026 tarihinde açıklanan yeni düzenlemeyle bitkisel üretim desteklerinde kullanılan destek katsayı değeri 2027 yılı için 442 TL/dekara yükseltildi. Tarım ve Orman Bakanlığı, 2026 üretim yılı için 367 TL olarak güncellenen katsayının 2027'de 442 TL olacağını açıkladı.\n\n2027 sertifikalı tohum desteği ne kadar?\n\n2027 üretim yılı için belirlenen 442 TL'lik katsayı ve ürünlere ait sertifikalı tohum kullanım desteği katsayıları dikkate alındığında dekar başına ödenecek destekler şöyle olacak:\n\nNot: Tutarlar, 442 TL'lik 2027 destek katsayı değeri ile ürün bazındaki sertifikalı tohum kullanım katsayılarının çarpılmasıyla hesaplanmıştır.\n\nPatateste sertifikalı tohum desteği 972 lirayı aşacak\n\n2027 sertifikalı tohum kullanım desteğinde dekar başına en yüksek tutarlardan biri patateste uygulanacak.\n\nPatates için belirlenen 2,20 katsayı üzerinden hesaplandığında çiftçinin alacağı sertifikalı tohum kullanım desteği 972,40 TL/dekar olacak.\n\nBuna göre 100 dekar patates üretiminde, diğer şartların da sağlanması halinde sertifikalı tohum kullanım desteği 97 bin 240 TL'ye ulaşabilecek.\n\nKuru fasulye ve çeltikte 663 TL destek\n\nKuru fasulye ve çeltikte sertifikalı tohum kullanım desteği katsayısı 1,50 olarak uygulanacak.\n\n442 TL'lik 2027 katsayısıyla birlikte her iki üründe de destek 663 TL/dekara çıkacak.\n\nBuna göre 100 dekar üretim üzerinden hesaplandığında sertifikalı tohum kullanım desteği 66 bin 300 TL olacak.\n\nNohut desteğinde dikkat çeken artış\n\nYeni düzenlemede en dikkat çekici değişikliklerden biri nohutta yaşandı.\n\nTarım ve Orman Bakanlığı da 2027 sertifikalı tohum kullanım desteklerini açıklarken nohutta meydana gelen artışa özellikle dikkat çekti. Buna göre nohut ve yem bezelyesinde destek 442 TL/dekara çıkacak. Bakanlık nohuttaki artışı yüzde 201 olarak açıkladı.\n\n100 dekar nohut üretiminde sertifikalı tohum kullanım desteği 44 bin 200 TL olacak.\n\nMercimekte sertifikalı tohum desteği 353,60 TL\n\nMercimekte de destek katsayısı yükseltildi.\n\n2027 yılında mercimek için uygulanacak 0,80 katsayı üzerinden sertifikalı tohum desteği 353,60 TL/dekar olarak hesaplanıyor.\n\nBakanlık, mercimekteki sertifikalı tohum desteği artışının yüzde 141'e ulaştığını bildirdi.\n\nBuğday ve arpa sertifikalı tohum desteği ne kadar?\n\nTürkiye'nin en fazla ekilen ürünlerinin başında gelen buğday ve arpada 2027 sertifikalı tohum kullanım desteği katsayısı 0,56 olarak belirlendi.\n\nBuna göre 442 TL'lik katsayı üzerinden:\n\nBuğday: 247,52 TL/dekar\n\nArpa: 247,52 TL/dekar\n\ndestek ödenecek.\n\n100 dekar buğday veya arpa üretiminde sertifikalı tohum kullanım desteği 24 bin 752 TL olacak.\n\nSoya ve yer fıstığında destek 442 TL\n\nSoya ve yer fıstığında sertifikalı tohum kullanım desteği 442 TL/dekara çıkıyor.\n\nTarım ve Orman Bakanlığı, bu iki üründe 2027 sertifikalı tohum kullanım desteğinin bir önceki uygulamaya göre yüzde 101 artırıldığını açıkladı.\n\nHer üründe havza şartı aynı değil\n\nSertifikalı tohum kullanım desteğinden yararlanacak çiftçiler açısından yalnızca destek tutarı değil, ürünün yetiştirildiği havza da önem taşıyor.\n\nMevcut uygulama esaslarına göre çavdar, çeltik, susam, tritikale, yer fıstığı ve yulaf için tüm havzalarda ödeme yapılabilirken; arpa, buğday, kuru fasulye, mercimek, nohut, aspir, kanola, patates, soya ile bazı yem bitkilerinde ürünün ilgili havza listesinde bulunması gerekiyor.\n\nBu nedenle çiftçinin 2027 ekim planını yaparken hem sertifikalı tohum destek tutarını hem de bulunduğu il ve ilçenin 2027 havza ürün desenini kontrol etmesi önem taşıyor.\n\nSertifikalı tohum desteği toplam tarımsal destekle karıştırılmamalı\n\nBuradaki rakamlar çiftçinin ürüne ilişkin alabileceği toplam destek tutarı değil, yalnızca sertifikalı tohum kullanım desteğini ifade ediyor.\n\nÖrneğin 2027 üretim yılında buğday ve arpada temel destek ile planlı üretim desteğinin toplamı 1.149 TL/dekar olarak belirlenirken, sertifikalı tohum kullanılması halinde bunun dışında ilgili şartlara göre sertifikalı tohum kullanım desteği de söz konusu olabilecek. Bakanlık 2027 yılında buğday, arpa ve mısır için temel destek ile planlı üretim desteği toplamını 1.149 TL/dekar olarak açıkladı."
     }
   ],
   "commoditiesByBorsa": {
@@ -307,7 +307,6 @@
   "note": "Fiyatlar TOBB ticaret borsasından (borsa seçilebilir). Kanola manuel (Trakya 2025).",
   "inputsNote": "Mazot: akaryakıt bayi fiyatı, günlük (şehir seçilebilir). Gübre: manuel (yaklaşık).",
   "errors": [
-    "fx: fetch failed",
     "borsa 5ED10: fetch failed",
     "borsa 5KO10: fetch failed",
     "borsa 5ES10: fetch failed"
