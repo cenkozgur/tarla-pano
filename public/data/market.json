@@ -1,40 +1,40 @@
 {
-  "updatedAt": "2026-09-10T20:53:05.768Z",
+  "updatedAt": "2026-09-10T22:59:55.762Z",
   "fx": [
     {
       "code": "USD",
       "name": "Dolar",
-      "buy": 484886,
-      "sell": 485008,
-      "change": 3
+      "buy": 48.58,
+      "sell": 48.61,
+      "change": 0.14
     },
     {
       "code": "EUR",
       "name": "Euro",
-      "buy": 564473,
-      "sell": 564862,
-      "change": 4
+      "buy": 56.43,
+      "sell": 56.51,
+      "change": -0.04
     },
     {
       "code": "GRA",
       "name": "Gram Altın",
-      "buy": 676822,
-      "sell": 676924,
-      "change": -134
+      "buy": 6746.22,
+      "sell": 6747.22,
+      "change": 0.16
     },
     {
       "code": "CEYREKALTIN",
       "name": "Çeyrek Altın",
-      "buy": 1085504,
-      "sell": 1110275,
-      "change": -92
+      "buy": 10855.04,
+      "sell": 11102.75,
+      "change": 0
     },
     {
       "code": "CUMHURIYETALTINI",
       "name": "Cumhuriyet Altını",
       "buy": 45064,
       "sell": 45740,
-      "change": -73
+      "change": -0.73
     }
   ],
   "news": [
@@ -254,24 +254,24 @@
     }
   ],
   "dieselByCity": {
-    "ANKARA": 90.02,
-    "ISTANBUL": 88.83,
-    "IZMIR": 90.29,
-    "KONYA": 91.19,
-    "ADANA": 90.85,
-    "BURSA": 89.9,
-    "ANTALYA": 91.34,
-    "SAMSUN": 90.59,
-    "TEKIRDAG": 89.75,
-    "CANAKKALE": 90.65
+    "ANKARA": 90.1,
+    "ISTANBUL": 88.91,
+    "IZMIR": 90.37,
+    "KONYA": 91.27,
+    "ADANA": 90.93,
+    "BURSA": 89.98,
+    "ANTALYA": 91.42,
+    "SAMSUN": 90.67,
+    "TEKIRDAG": 89.82,
+    "CANAKKALE": 90.73
   },
   "inputs": [
     {
       "key": "motorin",
       "name": "Motorin (mazot)",
       "unit": "₺/lt",
-      "price": 90.65,
-      "change": 0,
+      "price": 90.73,
+      "change": 0.09,
       "source": "CANAKKALE ort."
     },
     {
@@ -307,19 +307,8 @@
   "note": "Fiyatlar TOBB ticaret borsasından (borsa seçilebilir). Kanola manuel (Trakya 2025).",
   "inputsNote": "Mazot: akaryakıt bayi fiyatı, günlük (şehir seçilebilir). Gübre: manuel (yaklaşık).",
   "errors": [
-    "fx: fetch failed",
     "borsa 5ED10: fetch failed",
     "borsa 5KO10: fetch failed",
-    "borsa 5ES10: fetch failed",
-    "mazot ANKARA: fetch failed",
-    "mazot ISTANBUL: fetch failed",
-    "mazot IZMIR: fetch failed",
-    "mazot KONYA: fetch failed",
-    "mazot ADANA: fetch failed",
-    "mazot BURSA: fetch failed",
-    "mazot ANTALYA: fetch failed",
-    "mazot SAMSUN: fetch failed",
-    "mazot TEKIRDAG: fetch failed",
-    "mazot CANAKKALE: fetch failed"
+    "borsa 5ES10: fetch failed"
   ]
 }
