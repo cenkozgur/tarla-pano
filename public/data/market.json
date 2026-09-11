@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-11T10:00:46.523Z",
+  "updatedAt": "2026-09-11T14:09:40.455Z",
   "fx": [
     {
       "code": "USD",
@@ -11,33 +11,41 @@
     {
       "code": "EUR",
       "name": "Euro",
-      "buy": 56.4,
-      "sell": 56.41,
-      "change": -0.15
+      "buy": 56.49,
+      "sell": 56.49,
+      "change": 0
     },
     {
       "code": "GRA",
       "name": "Gram Altın",
-      "buy": 6792.16,
-      "sell": 6793.02,
-      "change": 0.84
+      "buy": 6854.76,
+      "sell": 6855.7,
+      "change": 1.77
     },
     {
       "code": "CEYREKALTIN",
       "name": "Çeyrek Altın",
-      "buy": 10810.52,
-      "sell": 11057.24,
-      "change": -0.41
+      "buy": 10909.59,
+      "sell": 11166.46,
+      "change": 0.57
     },
     {
       "code": "CUMHURIYETALTINI",
       "name": "Cumhuriyet Altını",
-      "buy": 44821,
-      "sell": 45498,
-      "change": -0.53
+      "buy": 45238,
+      "sell": 45915,
+      "change": 0.38
     }
   ],
   "news": [
+    {
+      "title": "Çiftçilerin hesabına bugün 4,1 milyar TL yatacak! Bakan Yumaklı destek kalemlerini açıkladı",
+      "url": "https://www.tarimdanhaber.com/ciftcilerin-hesabina-bugun-41-milyar-tl-yatacak-bakan-yumakli-destek-kalemlerini-acikladi",
+      "source": "Tarımdan Haber",
+      "date": "2026-09-11",
+      "summary": "Tarım ve Orman Bakanı İbrahim Yumaklı, çiftçilere toplam 4 milyar 108 milyon 5 bin 938 TL destekleme ödemesinin bugün hesaplara aktarılacağını açıkladı. Ödemenin büyük bölümünü 4 milyar 51 milyon TL ile buzağı desteği oluştururken; malak, bitkisel üretim temel ve planlı üretim destekleri kapsamında ",
+      "content": "Haber Merkezi / Tarım ve Orman Bakanlığı, çiftçilerin beklediği destekleme ödemelerine ilişkin açıklama yaptı. Tarım ve Orman Bakanı İbrahim Yumaklı, toplam 4 milyar 108 milyon 5 bin 938 TL'lik tarımsal destekleme ödemesinin bugün çiftçilerin hesaplarına aktarılacağını bildirdi.\n\nYumaklı, açıklamasında, “Üreticimizin emeğine destek, üretime güç olmaya devam ediyoruz. 4 milyar 108 milyon TL destekleme ödemesini bugün çiftçilerimizin hesaplarına aktarıyoruz. Hayırlı ve bereketli olsun” ifadelerini kullandı.\n\nDESTEĞİN BÜYÜK BÖLÜMÜ BUZAĞI ÖDEMELERİNDEN OLUŞUYOR\n\nBakanlığın açıkladığı ödeme takviminde en büyük pay büyükbaş hayvancılık desteklerine ayrıldı.\n\nBüyükbaş Hayvancılık Desteği (Buzağı) kapsamında üreticilere 4 milyar 51 milyon 204 bin 220 TL ödeme yapılacak.\n\nBüyükbaş Hayvancılık Desteği (Malak) kapsamında ise yetiştiricilerin hesaplarına 45 milyon 810 bin 800 TL aktarılacak.\n\nBöylece yalnızca buzağı ve malak destekleri kapsamında hayvancılık sektörüne yapılacak ödeme 4 milyar 97 milyon TL'yi aşacak.\n\nBİTKİSEL ÜRETİM DESTEKLERİ DE HESAPLARA YATACAK\n\nBugünkü ödeme kapsamında bitkisel üretim yapan çiftçilere de iki ayrı kalemde destek verilecek.\n\nBitkisel Üretim Temel Desteği kapsamında 5 milyon 702 bin 714 TL, Planlı Üretim Desteği (Bitkisel) kapsamında ise 5 milyon 288 bin 204 TL çiftçilerin hesaplarına aktarılacak.\n\nBakanlığın açıkladığı dört destek kaleminin toplamı 4 milyar 108 milyon 5 bin 938 TL olarak gerçekleşiyor.\n\nÖDEME KALEMLERİ\n\nBuzağı desteği: 4 milyar 51 milyon 204 bin 220 TL\n\nMalak desteği: 45 milyon 810 bin 800 TL\n\nBitkisel üretim temel desteği: 5 milyon 702 bin 714 TL\n\nPlanlı üretim desteği: 5 milyon 288 bin 204 TL\n\nToplam: 4 milyar 108 milyon 5 bin 938 TL"
+    },
     {
       "title": "TMO kuru üzüm fiyatını 85-100 TL açıkladı! Şenol Sunat: “Maliyeti zaten 100 TL",
       "url": "https://www.tarimdanhaber.com/tmo-kuru-uzum-fiyatini-85-100-tl-acikladi-senol-sunat-maliyeti-zaten-100-tl",
@@ -93,14 +101,6 @@
       "date": "2026-09-08",
       "summary": "2027 havza destekleri belli oldu. Türkiye genelinde hangi il ve ilçede hangi ürünün destekleneceğini gösteren yeni havza ürün deseni yayımlandı. Buğday, arpa, mısır, ayçiçeği, nohut, kuru fasulye, patates ve diğer ürünlerde il ve ilçe bazında destek kapsamı değişebiliyor. İşte 2027 yılı il il havza ",
       "content": "Haber Merkezi / Türkiye'de 2027 üretim yılında havza bazında desteklenecek ürünlerin yeni listesi belli oldu. Tarım ve Orman Bakanlığının bitkisel üretim planlaması kapsamında hazırlanan 2027 yılı havza ürün deseni, 8 Eylül 2026 tarihli Resmî Gazete'de yayımlanan Cumhurbaşkanı Kararı ile güncellendi. Bakanlığın duyurusuna göre değişiklik 11781 sayılı Cumhurbaşkanı Kararı ile yürürlüğe girdi.\n\nYeni listeyle birlikte çiftçiler açısından “Hangi ilde hangi ürün destekleniyor?” sorusu yeniden önem kazandı. Çünkü havza bazlı üretim planlamasında destek kapsamındaki ürünler il ve ilçelere göre farklılık gösterirken, 2027 listesinde bazı ilçelerin ürün desenlerinde de değişiklikler yapıldı.\n\nTarımdan Haber olarak 81 ilin 2027 havza desteklerini il ve ilçe bazında bu sayfada bir araya getiriyoruz. Güncellenen il sayfalarında yalnızca 2027 ürün listesini değil, 2026'ya göre hangi ürünlerin eklendiğini veya çıkarıldığını ve su kısıtı bulunan ilçelerdeki şartları da karşılaştırmalı olarak yayımlıyoruz.\n\n2027 havza desteklerinde ne değişti?\n\n2027 üretim yılı için yayımlanan yeni havza ürün deseni, önceki yılın listesinin aynen devamından oluşmuyor. Bazı il ve ilçelerde destek kapsamındaki ürünlerde değişiklikler bulunuyor.\n\nÖrneğin Tarımdan Haber'in yaptığı karşılaştırmada Konya'da 5 ilçenin, Eskişehir'de ise 11 ilçenin ürün deseninde değişiklik tespit edildi. Bu nedenle 2027 üretim planı yapan çiftçilerin önceki yılın havza listesini değil, 2027 yılı için güncellenen ilçe bazlı listeyi kontrol etmesi önem taşıyor.\n\n2027'de tarımsal destekler de arttı\n\nHavza ürün desenindeki değişikliğin yanında 2027 bitkisel üretim destek tutarları da yeniden belirlendi. 2027 üretim yılı için destek katsayı değeri 442 TL/dekara çıkarıldı.\n\nBuğday, arpa ve mısırda temel destek ile planlı üretim desteği toplamı 1.149 TL/dekara, ayçiçeği, kuru fasulye, soya ve kanolada 1.326 TL/dekara, patates, kuru soğan ve aspirde ise 884 TL/dekara yükseldi. Nohut ve mercimekte temel destek ile planlı üretim desteği toplamı 2027 için 1.326 TL/dekar olarak açıklandı.\n\nİl il havza destekleri\n\nAşağıda Türkiye’de illere göre desteklenen ürünleri inceleyebilirsiniz.\n\nİç Anadolu Bölgesi\n\nAksaray havza destekleri\n\nAnkara havza destekleri\n\nÇankırı havza destekleri\n\nEskişehir havza destekleri\n\nKaraman havza destekleri\n\nKayseri havza destekleri\n\nKırıkkale havza destekleri\n\nKırşehir havza destekleri\n\nKonya havza destekleri\n\nNevşehir havza destekleri\n\nNiğde havza destekleri\n\nSivas havza destekleri\n\nYozgat havza destekleri\n\nGüneydoğu Anadolu Bölgesi\n\nAdıyaman havza destekleri\n\nBatman havza destekleri\n\nDiyarbakır havza destekleri\n\nGaziantep havza destekleri\n\nKilis havza destekleri\n\nMardin havza destekleri\n\nŞanlıurfa havza destekleri\n\nSiirt havza destekleri\n\nŞırnak havza destekleri\n\nMarmara Bölgesi\n\nİstanbul havza destekleri\n\nKocaeli havza destekleri\n\nBursa havza destekleri\n\nSakarya havza destekleri\n\nBilecik havza destekleri\n\nBalıkesir havza destekleri\n\nYalova havza destekleri\n\nTekirdağ havza destekleri\n\nEdirne havza destekleri\n\nKırklareli havza destekleri\n\nÇanakkale havza destekleri\n\nEge Bölgesi\n\nAfyon havza destekleri\n\nAydın havza destekleri\n\nDenizli havza destekleri\n\nİzmir havza destekleri\n\nKütahya havza destekleri\n\nManisa havza destekleri\n\nMuğla havza destekleri\n\nUşak havza destekleri\n\nKaradeniz Bölgesi\n\nArtvin havza destekleri\n\nRize havza destekleri\n\nBayburt havza destekleri\n\nTrabzon havza destekleri\n\nGümüşhane havza destekleri\n\nGiresun havza destekleri\n\nOrdu havza destekleri\n\nTokat havza destekleri\n\nAmasya havza destekleri\n\nSamsun havza destekleri\n\nSinop havza destekleri\n\nÇorum havza destekleri\n\nKastamonu havza destekleri\n\nBartın havza destekleri\n\nKarabük havza destekleri\n\nZonguldak havza destekleri\n\nDüzce havza destekleri\n\nBolu havza destekleri\n\nAkdeniz Bölgesi\n\nAdana havza destekleri\n\nAntalya havza destekleri\n\nBurdur havza destekleri\n\nHatay havza destekleri\n\nIsparta havza destekleri\n\nKahramanmaraş havza destekleri\n\nMersin havza destekleri\n\nOsmaniye havza destekleri\n\nDoğu Anadolu Bölgesi\n\nAğrı havza destekleri\n\nArdahan havza destekleri\n\nBingöl havza destekleri\n\nBitlis havza destekleri\n\nElazığ havza destekleri\n\nErzincan havza destekleri\n\nErzurum havza destekleri\n\nHakkari havza destekleri\n\nIğdır havza destekleri\n\nKars havza destekleri\n\nMalatya havza destekleri\n\nMuş havza destekleri\n\nTunceli havza destekleri\n\nVan havza destekleri"
-    },
-    {
-      "title": "Eskişehir havza destekleri 2027: 11 ilçede desteklenen ürünler değişti",
-      "url": "https://www.tarimdanhaber.com/havza-destekleri-eskisehir",
-      "source": "Tarımdan Haber",
-      "date": "2026-09-08",
-      "summary": "Eskişehir'de 2027 üretim yılında havza bazında desteklenecek ürünlerin yeni listesi belli oldu. 14 ilçenin 11'inde ürün deseninde değişikliğe gidilirken, bazı ilçelerde kuru fasulye, aspir, kanola ve mercimek listeye eklendi, bazı ilçelerde ise patates desteklenen ürünler arasından çıkarıldı. Dane m",
-      "content": "Haber Merkezi / Tarım ve Orman Bakanlığının bitkisel üretim planlaması kapsamında Eskişehir'de 2027 üretim yılında havza bazında desteklenecek ürünler belli oldu.\n\nYeni 2027 havza ürün deseni, geçtiğimiz yıl uygulanan listeyle karşılaştırıldığında Eskişehir'de önemli değişiklikler yapıldığını ortaya koydu.\n\nTarımdan Haber'in 2026 ve 2027 listeleri üzerinden yaptığı karşılaştırmaya göre, Eskişehir'in 14 ilçesinden 11'inde destek kapsamındaki ürünlerden en az biri değişti.\n\nEskişehir'de 2027 havza desteklerinde ne değişti?\n\nDeğişikliğin en fazla dikkat çektiği ilçelerin başında Alpu geliyor. Alpu'da kuru fasulye ve kolza (kanola) 2027 ürün desenine eklenirken, patates listeden çıkarıldı.\n\nBeylikova ve Çifteler'de kuru fasulye, Günyüzü'nde ise aspir yeni listeye eklendi.\n\nİnönü'de kuru fasulye destek kapsamına alınırken kolza (kanola) listeden çıkarıldı.\n\nMahmudiye'de patates, 2027 havza ürün deseninden çıkarılan ürün oldu.\n\nMihalıççık'ta ise aspir ve kolza (kanola) listeye eklenirken patates çıkarıldı.\n\nOdunpazarı'nda aspir ve kuru fasulye, Seyitgazi'de kuru fasulye yeni ürün desenine dahil edildi.\n\nSivrihisar'da kuru fasulye ve mercimek eklenirken patates listeden çıkarıldı.\n\nTepebaşı'nda ise 2027 listesi aspir, kuru fasulye ve mercimeğin eklenmesiyle genişledi.\n\nHan, Mihalgazi ve Sarıcakaya ilçelerinde ise 2026'ya göre desteklenen ürün deseninde değişiklik yapılmadı.\n\nEskişehir 2027 havza destekleri: İlçe ilçe tam liste\n\nAlpu*: Arpa, Ayçiçeği (Yağlık), Buğday, Fasulye (Kuru), Kolza (Kanola), Mısır (Dane), Nohut, Soğan (Kuru), Yem Bitkileri\n\nBeylikova: Arpa, Ayçiçeği (Yağlık), Buğday, Fasulye (Kuru), Mısır (Dane), Nohut, Soğan (Kuru), Yem Bitkileri\n\nÇifteler*: Arpa, Ayçiçeği (Yağlık), Buğday, Fasulye (Kuru), Kolza (Kanola), Mısır (Dane), Nohut, Patates, Soğan (Kuru), Yem Bitkileri\n\nGünyüzü: Arpa, Aspir, Ayçiçeği (Yağlık), Buğday, Kolza (Kanola), Nohut, Soğan (Kuru), Yem Bitkileri\n\nHan: Arpa, Aspir, Buğday, Nohut, Yem Bitkileri\n\nİnönü: Arpa, Ayçiçeği (Yağlık), Buğday, Fasulye (Kuru), Mercimek, Mısır (Dane), Nohut, Yem Bitkileri\n\nMahmudiye*: Arpa, Ayçiçeği (Yağlık), Buğday, Kolza (Kanola), Mısır (Dane), Nohut, Soğan (Kuru), Yem Bitkileri\n\nMihalgazi: Arpa, Buğday, Yem Bitkileri\n\nMihalıççık: Arpa, Aspir, Ayçiçeği (Yağlık), Buğday, Kolza (Kanola), Mısır (Dane), Nohut, Soğan (Kuru), Yem Bitkileri\n\nOdunpazarı: Arpa, Aspir, Ayçiçeği (Yağlık), Buğday, Fasulye (Kuru), Mısır (Dane), Nohut, Patates, Soğan (Kuru), Yem Bitkileri\n\nSarıcakaya: Arpa, Buğday, Yem Bitkileri\n\nSeyitgazi: Arpa, Ayçiçeği (Yağlık), Buğday, Fasulye (Kuru), Kolza (Kanola), Mısır (Dane), Nohut, Patates, Soğan (Kuru), Yem Bitkileri\n\nSivrihisar*: Arpa, Aspir, Ayçiçeği (Yağlık), Buğday, Fasulye (Kuru), Kolza (Kanola), Mercimek, Mısır (Dane), Nohut, Soğan (Kuru), Yem Bitkileri\n\nTepebaşı: Arpa, Aspir, Ayçiçeği (Yağlık), Buğday, Fasulye (Kuru), Kolza (Kanola), Mercimek, Mısır (Dane), Nohut, Patates, Soğan (Kuru), Yem Bitkileri\n\nSu kısıtı bulunan ilçe sayısı 6'dan 4'e düştü\n\n2027 listesindeki dikkat çekici değişikliklerden biri de dane mısır üretiminde damla sulama şartı uygulanan ilçelerde yaşandı.\n\n2026 listesinde Alpu, Beylikova, Çifteler, Mahmudiye, Mihalıççık ve Sivrihisar su kısıtı kapsamında yer alıyordu ve bu ilçelerde dane mısır üretiminde damla sulama şartı aranıyordu.\n\n2027 tablosunda ise yıldızla işaretlenen ilçeler Alpu, Çifteler, Mahmudiye ve Sivrihisar oldu.\n\nBuna göre Beylikova ve Mihalıççık 2027 listesinde su kısıtı işareti bulunan ilçeler arasında yer almadı. Böylece dane mısır üretiminde damla sulama şartının belirtildiği ilçe sayısı 6'dan 4'e geriledi.\n\nPatates 4 ilçede listeden çıkarıldı\n\n2027 ürün desenindeki bir başka dikkat çekici değişiklik patateste yaşandı.\n\n2026 listesinde patatesin bulunduğu Alpu, Mahmudiye, Mihalıççık ve Sivrihisar'da bu ürün 2027 havza listesinden çıkarıldı. Buna karşılık Çifteler, Odunpazarı, Seyitgazi ve Tepebaşı'nda patates yeni listede yer almaya devam etti.\n\nKuru fasulyenin destek alanı genişledi\n\nYeni listenin öne çıkan ürünlerinden biri de kuru fasulye oldu.\n\nAlpu, Beylikova, Çifteler, İnönü, Odunpazarı, Seyitgazi, Sivrihisar ve Tepebaşı'nda kuru fasulye 2027 ürün deseninde yer aldı. Bu ilçelerin tamamında kuru fasulye 2026 listesinin dışında bulunuyordu.\n\nBu değişiklikle birlikte kuru fasulyenin Eskişehir'deki havza bazlı üretim planlamasındaki ağırlığı önemli ölçüde artmış oldu.\n\nÇiftçi 2027 ekim planında yeni listeyi dikkate almalı\n\n2026 ve 2027 listeleri arasındaki değişiklikler nedeniyle Eskişehir'de üreticilerin yeni sezon ekim planlarını eski liste üzerinden yapmaması önem taşıyor.\n\nÖzellikle patates, kuru fasulye, aspir, kolza ve mercimek üretimi yapacak çiftçilerin kendi ilçelerinin 2027 havza ürün desenini kontrol etmeleri gerekiyor.\n\nTürkiye genelinde hangi ilde hangi ürünün havza bazında desteklendiğini görmek isteyen üreticiler, Tarımdan Haber'in 2027 havza destekleri il il ürün listesi üzerinden güncel bilgilere ulaşabilir.\n\nEskişehir’de tarla bitkileri üretimi: Hangi ürünlerde öne çıkıyor?"
     }
   ],
   "commoditiesByBorsa": {
