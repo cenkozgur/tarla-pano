@@ -1,43 +1,51 @@
 {
-  "updatedAt": "2026-09-11T14:09:40.455Z",
+  "updatedAt": "2026-09-11T17:45:26.357Z",
   "fx": [
     {
       "code": "USD",
       "name": "Dolar",
-      "buy": 48.6,
-      "sell": 48.61,
-      "change": 0.16
+      "buy": 485933,
+      "sell": 486075,
+      "change": 15
     },
     {
       "code": "EUR",
       "name": "Euro",
-      "buy": 56.49,
-      "sell": 56.49,
-      "change": 0
+      "buy": 564092,
+      "sell": 564239,
+      "change": -14
     },
     {
       "code": "GRA",
       "name": "Gram Altın",
-      "buy": 6854.76,
-      "sell": 6855.7,
-      "change": 1.77
+      "buy": 681575,
+      "sell": 68165,
+      "change": 118
     },
     {
       "code": "CEYREKALTIN",
       "name": "Çeyrek Altın",
-      "buy": 10909.59,
-      "sell": 11166.46,
-      "change": 0.57
+      "buy": 1090959,
+      "sell": 1116646,
+      "change": 57
     },
     {
       "code": "CUMHURIYETALTINI",
       "name": "Cumhuriyet Altını",
       "buy": 45238,
       "sell": 45915,
-      "change": 0.38
+      "change": 38
     }
   ],
   "news": [
+    {
+      "title": "Bakan Yumaklı’nın saksılı fidan görüntüsünün faturası protokol ekibine kesildi!",
+      "url": "https://www.tarimdanhaber.com/bakan-yumaklinin-saksili-fidan-goruntusunun-faturasi-protokol-ekibine-kesildi",
+      "source": "Tarımdan Haber",
+      "date": "2026-09-11",
+      "summary": "Tarım ve Orman Bakanı İbrahim Yumaklı’nın Aydın’daki fidan dikim etkinliğinde ortaya çıkan görüntüler gündem olmuştu. Tarımdan Haber’in edindiği bilgilere göre, görüntülerin ardından Bakanlıkta dikkat çeken bir gelişme yaşandı. Bakan Yumaklı’nın protokol ekibinde bulunan Süleyman Kaplan’ın, program ",
+      "content": "Tarımdan Haber Özel / Tarım ve Orman Bakanı İbrahim Yumaklı’nın geçtiğimiz günlerde Aydın’da katıldığı fidan dikim etkinliğinde ortaya çıkan görüntülerin yankıları devam ediyor.\n\nAydın’da bulunan İncir Araştırma Enstitüsü Müdürlüğü bahçesinde gerçekleştirilen etkinlikte Bakan Yumaklı, incir fidanını saksısından çıkarmadan çukura koymuş, ancak bunun doğru bir dikim olup olmadığını TAGEM Genel Müdürü Mustafa Altuğ Atalay'a sormuştu. Atalay’ın fidanın saksıdan çıkarılmasının daha doğru olacağını söylemesi üzerine fidan saksıdan çıkarılarak dikim tamamlanmıştı.\n\nSAKSILI FİDANIN FATURASI KİME KESİLDİ?\n\nSöz konusu görüntüler kamuoyunda gündem olurken, olayın Bakanlık içinde de karşılıksız kalmadığı öğrenildi. Program öncesinde gerekli kontrollerin yapılmamasının faturası protokol ekibinde bulunan Süleyman Kaplan’a kesildi.\n\nTarımdan Haber’in edindiği bilgilere göre, daha önce Özel Kalemde görev yapan ve daha sonra Bakan Yumaklı’nın protokol ekibine alınan Süleyman Kaplan, fidan dikim etkinliğinde gerekli ön kontrollerin yapılmaması ve fidanın saksısından çıkarılmadan Bakana verilmesine kadar uzanan sürecin önlenememesi gerekçesiyle protokol görevinden uzaklaştırıldı.\n\nPROTOKOL EKİBİ PROGRAM ALANINA BAKANDAN ÖNCE GİDİYOR\n\nTarım ve Orman Bakanlığında Bakanın katılacağı programların önceden incelenmesine yönelik protokol uygulaması Ahmet Eşref Fakıbaba döneminde başlamıştı. Daha önce protokol ekibinde 2 personel bulunurken, bu sayı zaman içinde 6’ya çıkarıldı.\n\nBu uygulama kapsamında protokol personeli, Bakanın gelişinden önce program alanına giderek organizasyonun akışını ve hazırlıkları yerinde inceliyor.\n\nBakanın katılacağı açılışlardan yemekli programlara, basın açıklamalarından diğer etkinliklere kadar program alanı protokol ekibi tarafından önceden kontrol ediliyor. Böylece program sırasında yaşanabilecek aksaklıkların önceden tespit edilerek giderilmesi amaçlanıyor."
+    },
     {
       "title": "Çiftçilerin hesabına bugün 4,1 milyar TL yatacak! Bakan Yumaklı destek kalemlerini açıkladı",
       "url": "https://www.tarimdanhaber.com/ciftcilerin-hesabina-bugun-41-milyar-tl-yatacak-bakan-yumakli-destek-kalemlerini-acikladi",
@@ -93,14 +101,6 @@
       "date": "2026-09-08",
       "summary": "2027 yılı için tarımsal destek katsayısının 442 TL’ye çıkarılması tarım sektöründe tartışılmaya devam ederken, tarım politikaları uzmanı Ergin Kahveci destek artışının çiftçinin yaşadığı güncel piyasa krizine çözüm olarak görülmesine karşı çıktı. Kahveci, “Destekleme ödenekleri fiyatı, yani sürdürül",
       "content": "Haber Merkezi / 2027 üretim yılına yönelik bitkisel üretim desteklerinde katsayı değeri 442 TL/dekara çıkarılırken, desteklerdeki artışın çiftçinin bugün yaşadığı fiyat ve gelir sorunlarını ne ölçüde çözebileceği tartışılıyor.\n\nTarım politikaları uzmanı Ergin Kahveci, destekleme politikalarının piyasa düzenlemesinin yerine konulmaması gerektiğini belirterek, çiftçinin üretim yılında karşı karşıya kaldığı zarar ve gelir kayıplarına ayrı ve zamanında müdahale edilmesi gerektiğini savundu.\n\n“2027 bütçesi 2026 üretiminin hak edişi”\n\nKahveci'nin değerlendirmesinin önemli ayaklarından birini desteklerin ödeme takvimi oluşturuyor.\n\n2026 yılı bütçesindeki tarımsal destek ödeneğinin ağırlıklı olarak 2025 üretim döneminde oluşan hak edişlerin ödenmesinde kullanıldığını belirten Kahveci, aynı şekilde 2027 yılı ödeneğinin de 2026 üretim döneminin hak edişlerini karşılayacağını ifade etti.\n\nBu nedenle 2026 yılında üreticinin karşılaştığı olağanüstü zarar veya piyasa kaynaklı kayıpların bir sonraki yılın rutin destekleme sistemi içinde eritilmesine karşı çıkan Kahveci, bu tür durumların ayrı bir “acil müdahale” mekanizmasıyla karşılanması gerektiğini savundu.\n\n“Kriz varsa müdahale aynı yıl yapılmalı”\n\nKahveci, ABD ve Avrupa Birliği gibi büyük tarım ekonomilerindeki uygulamalara işaret ederek, piyasa krizlerine yönelik olağanüstü ödemelerin normal tarımsal desteklerden ayrı değerlendirilmesi gerektiğini kaydetti.\n\nTürkiye'de 2026 yılı için böyle ayrı bir kaynak bulunmaması halinde dahi üreticinin kaybının bekletilmemesi gerektiğini belirten Kahveci, 2027 için belirlenen destek katsayısıyla 2026 katsayısı arasındaki fark üzerinden bir ödeme yapılabileceğini gündeme getirdi.\n\n2026 destek katsayısının 310 TL, 2027 için açıklanan katsayının ise 442 TL olduğunu hatırlatan Kahveci, aradaki 132 TL/dekar farkın 2026 yılında zarar yaşayan üreticiye acil ödeme olarak verilmesinin tartışılması gerektiğini belirtti.\n\nKahveci: Destekleme fiyatı garanti etmez\n\nKahveci'nin değerlendirmesindeki temel itiraz ise destek tutarından çok tarımsal fiyatların nasıl oluştuğuna yönelik oldu.\n\n“Destekleme ödenekleri fiyatı, yani sürdürülebilirliği garanti etmez. Asıl olan fiyat ve piyasa düzenlemesidir.”\n\nÜreticinin sattığı ürünün fiyatının teknik maliyeti ve üretimin devamını sağlayacak makul kârlılığı karşılamaması halinde destek miktarını artırmanın tek başına çözüm olmayacağını savunan Kahveci, yanlış fiyat oluşumunun desteklerle telafi edilmeye çalışılmasının arz-talep dengesini de bozabileceğine dikkat çekti.\n\n“Piyasa düzenlemesi yoksa destekler bütçenin yüküne dönüşür”\n\nKahveci'ye göre tarım politikasının temel hedefi, üreticinin gelirini yalnızca kamu desteği üzerinden oluşturmak yerine ürün fiyatının üretimin sürdürülebilirliğini sağlayabileceği bir piyasa yapısını kurmak olmalı.\n\nKahveci bu noktadaki eleştirisini şöyle dile getirdi: “Piyasa düzenlemesi yoksa desteklemeler bütçenin ve hazinenin yüküdür. Politika değil siyasetin aracıdır.”\n\nÜretici fiyatının maliyet ve sürdürülebilir karlılığı karşılamadığı bir sistemde verilen desteklerin esas sorunu çözmeyeceğini belirten Kahveci, desteklerin yanlış arz-talep yapısını finanse eden bir araca dönüşebileceğini savundu.\n\n“Destek maliyet unsuru değildir”\n\nKahveci ayrıca tarımsal desteklerin üretim maliyetinin bir parçası gibi değerlendirilmesine de karşı çıktı.\n\nDesteklerin üreticinin maliyet hesabının içine sokulmaması gerektiğini belirten Kahveci, “Desteklemeler maliyet unsuru değildir. Desteklemeler sürdürülebilirlik için ödüldür” değerlendirmesinde bulundu.\n\nKahveci, açıklanan destek artışının çiftçi açısından olumlu olduğunu da teslim ederek, “Bunu da vermeseydik?” yaklaşımıyla destek artışına teşekkür etti ancak bunun tarım piyasalarındaki temel yapısal sorunun üzerini örtmemesi gerektiğini vurguladı."
-    },
-    {
-      "title": "Havza destekleri 2027: Hangi ilde hangi ürün destekleniyor?",
-      "url": "https://www.tarimdanhaber.com/havza-destekleri",
-      "source": "Tarımdan Haber",
-      "date": "2026-09-08",
-      "summary": "2027 havza destekleri belli oldu. Türkiye genelinde hangi il ve ilçede hangi ürünün destekleneceğini gösteren yeni havza ürün deseni yayımlandı. Buğday, arpa, mısır, ayçiçeği, nohut, kuru fasulye, patates ve diğer ürünlerde il ve ilçe bazında destek kapsamı değişebiliyor. İşte 2027 yılı il il havza ",
-      "content": "Haber Merkezi / Türkiye'de 2027 üretim yılında havza bazında desteklenecek ürünlerin yeni listesi belli oldu. Tarım ve Orman Bakanlığının bitkisel üretim planlaması kapsamında hazırlanan 2027 yılı havza ürün deseni, 8 Eylül 2026 tarihli Resmî Gazete'de yayımlanan Cumhurbaşkanı Kararı ile güncellendi. Bakanlığın duyurusuna göre değişiklik 11781 sayılı Cumhurbaşkanı Kararı ile yürürlüğe girdi.\n\nYeni listeyle birlikte çiftçiler açısından “Hangi ilde hangi ürün destekleniyor?” sorusu yeniden önem kazandı. Çünkü havza bazlı üretim planlamasında destek kapsamındaki ürünler il ve ilçelere göre farklılık gösterirken, 2027 listesinde bazı ilçelerin ürün desenlerinde de değişiklikler yapıldı.\n\nTarımdan Haber olarak 81 ilin 2027 havza desteklerini il ve ilçe bazında bu sayfada bir araya getiriyoruz. Güncellenen il sayfalarında yalnızca 2027 ürün listesini değil, 2026'ya göre hangi ürünlerin eklendiğini veya çıkarıldığını ve su kısıtı bulunan ilçelerdeki şartları da karşılaştırmalı olarak yayımlıyoruz.\n\n2027 havza desteklerinde ne değişti?\n\n2027 üretim yılı için yayımlanan yeni havza ürün deseni, önceki yılın listesinin aynen devamından oluşmuyor. Bazı il ve ilçelerde destek kapsamındaki ürünlerde değişiklikler bulunuyor.\n\nÖrneğin Tarımdan Haber'in yaptığı karşılaştırmada Konya'da 5 ilçenin, Eskişehir'de ise 11 ilçenin ürün deseninde değişiklik tespit edildi. Bu nedenle 2027 üretim planı yapan çiftçilerin önceki yılın havza listesini değil, 2027 yılı için güncellenen ilçe bazlı listeyi kontrol etmesi önem taşıyor.\n\n2027'de tarımsal destekler de arttı\n\nHavza ürün desenindeki değişikliğin yanında 2027 bitkisel üretim destek tutarları da yeniden belirlendi. 2027 üretim yılı için destek katsayı değeri 442 TL/dekara çıkarıldı.\n\nBuğday, arpa ve mısırda temel destek ile planlı üretim desteği toplamı 1.149 TL/dekara, ayçiçeği, kuru fasulye, soya ve kanolada 1.326 TL/dekara, patates, kuru soğan ve aspirde ise 884 TL/dekara yükseldi. Nohut ve mercimekte temel destek ile planlı üretim desteği toplamı 2027 için 1.326 TL/dekar olarak açıklandı.\n\nİl il havza destekleri\n\nAşağıda Türkiye’de illere göre desteklenen ürünleri inceleyebilirsiniz.\n\nİç Anadolu Bölgesi\n\nAksaray havza destekleri\n\nAnkara havza destekleri\n\nÇankırı havza destekleri\n\nEskişehir havza destekleri\n\nKaraman havza destekleri\n\nKayseri havza destekleri\n\nKırıkkale havza destekleri\n\nKırşehir havza destekleri\n\nKonya havza destekleri\n\nNevşehir havza destekleri\n\nNiğde havza destekleri\n\nSivas havza destekleri\n\nYozgat havza destekleri\n\nGüneydoğu Anadolu Bölgesi\n\nAdıyaman havza destekleri\n\nBatman havza destekleri\n\nDiyarbakır havza destekleri\n\nGaziantep havza destekleri\n\nKilis havza destekleri\n\nMardin havza destekleri\n\nŞanlıurfa havza destekleri\n\nSiirt havza destekleri\n\nŞırnak havza destekleri\n\nMarmara Bölgesi\n\nİstanbul havza destekleri\n\nKocaeli havza destekleri\n\nBursa havza destekleri\n\nSakarya havza destekleri\n\nBilecik havza destekleri\n\nBalıkesir havza destekleri\n\nYalova havza destekleri\n\nTekirdağ havza destekleri\n\nEdirne havza destekleri\n\nKırklareli havza destekleri\n\nÇanakkale havza destekleri\n\nEge Bölgesi\n\nAfyon havza destekleri\n\nAydın havza destekleri\n\nDenizli havza destekleri\n\nİzmir havza destekleri\n\nKütahya havza destekleri\n\nManisa havza destekleri\n\nMuğla havza destekleri\n\nUşak havza destekleri\n\nKaradeniz Bölgesi\n\nArtvin havza destekleri\n\nRize havza destekleri\n\nBayburt havza destekleri\n\nTrabzon havza destekleri\n\nGümüşhane havza destekleri\n\nGiresun havza destekleri\n\nOrdu havza destekleri\n\nTokat havza destekleri\n\nAmasya havza destekleri\n\nSamsun havza destekleri\n\nSinop havza destekleri\n\nÇorum havza destekleri\n\nKastamonu havza destekleri\n\nBartın havza destekleri\n\nKarabük havza destekleri\n\nZonguldak havza destekleri\n\nDüzce havza destekleri\n\nBolu havza destekleri\n\nAkdeniz Bölgesi\n\nAdana havza destekleri\n\nAntalya havza destekleri\n\nBurdur havza destekleri\n\nHatay havza destekleri\n\nIsparta havza destekleri\n\nKahramanmaraş havza destekleri\n\nMersin havza destekleri\n\nOsmaniye havza destekleri\n\nDoğu Anadolu Bölgesi\n\nAğrı havza destekleri\n\nArdahan havza destekleri\n\nBingöl havza destekleri\n\nBitlis havza destekleri\n\nElazığ havza destekleri\n\nErzincan havza destekleri\n\nErzurum havza destekleri\n\nHakkari havza destekleri\n\nIğdır havza destekleri\n\nKars havza destekleri\n\nMalatya havza destekleri\n\nMuş havza destekleri\n\nTunceli havza destekleri\n\nVan havza destekleri"
     }
   ],
   "commoditiesByBorsa": {
@@ -309,6 +309,16 @@
   "errors": [
     "borsa 5ED10: fetch failed",
     "borsa 5KO10: fetch failed",
-    "borsa 5ES10: fetch failed"
+    "borsa 5ES10: fetch failed",
+    "mazot ANKARA: fetch failed",
+    "mazot ISTANBUL: fetch failed",
+    "mazot IZMIR: fetch failed",
+    "mazot KONYA: fetch failed",
+    "mazot ADANA: fetch failed",
+    "mazot BURSA: fetch failed",
+    "mazot ANTALYA: fetch failed",
+    "mazot SAMSUN: fetch failed",
+    "mazot TEKIRDAG: fetch failed",
+    "mazot CANAKKALE: fetch failed"
   ]
 }
