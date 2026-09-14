@@ -1,32 +1,32 @@
 {
-  "updatedAt": "2026-09-14T01:32:26.633Z",
+  "updatedAt": "2026-09-14T06:55:10.949Z",
   "fx": [
     {
       "code": "USD",
       "name": "Dolar",
-      "buy": 48.61,
-      "sell": 48.63,
-      "change": 0.19
+      "buy": 486203,
+      "sell": 486237,
+      "change": 2
     },
     {
       "code": "EUR",
       "name": "Euro",
-      "buy": 56.35,
-      "sell": 56.4,
-      "change": 0.09
+      "buy": 562098,
+      "sell": 562158,
+      "change": -2
     },
     {
       "code": "GRA",
       "name": "Gram Altın",
-      "buy": 6775.19,
-      "sell": 6776.19,
-      "change": -0.13
+      "buy": 67582,
+      "sell": 675909,
+      "change": -38
     },
     {
       "code": "CEYREKALTIN",
       "name": "Çeyrek Altın",
-      "buy": 10832.8,
-      "sell": 11080.03,
+      "buy": 108328,
+      "sell": 1108003,
       "change": 0
     },
     {
@@ -34,10 +34,18 @@
       "name": "Cumhuriyet Altını",
       "buy": 44900,
       "sell": 45600,
-      "change": -0.69
+      "change": -69
     }
   ],
   "news": [
+    {
+      "title": "Çankırı havza destekleri 2027: İlçelere göre desteklenen ürünler belli oldu",
+      "url": "https://www.tarimdanhaber.com/havza-destekleri-cankiri",
+      "source": "Tarımdan Haber",
+      "date": "2026-09-14",
+      "summary": "Çankırı'da 2027 üretim yılı için planlamaya konu havza ürün deseni belli oldu. Atkaracalar, Bayramören, Çerkeş, Eldivan, Ilgaz, Kızılırmak, Korgun, Kurşunlu, Merkez, Orta, Şabanözü ve Yapraklı'da hangi ürünlerin planlama kapsamında olduğu açıklanırken, önceki listeye göre ürün deseninde değişiklik y",
+      "content": "Haber Merkezi / Tarım ve Orman Bakanlığının 2027 üretim yılına yönelik bitkisel üretim planlaması kapsamında Çankırı'da ilçelere göre planlamaya konu havza ürünleri belli oldu.\n\nÇankırı'da Atkaracalar, Bayramören, Çerkeş, Eldivan, Ilgaz, Kızılırmak, Korgun, Kurşunlu, Merkez, Orta, Şabanözü ve Yapraklı için belirlenen listelerde arpa, aspir, buğday, nohut ve yem bitkileri bütün ilçelerde yer alırken; mercimek, kuru fasulye ve yağlık ayçiçeği ise ilçelere göre farklılık gösteriyor.\n\nTürkiye genelindeki illerde hangi ürünlerin planlama kapsamına alındığını görmek isteyen üreticiler, “Havza destekleri 2027: Hangi ilde hangi ürün destekleniyor?” ana sayfamızdan 81 ilin güncel listesine ulaşabilir.\n\nÇANKIRI 2027 HAVZA DESTEKLERİ: HANGİ İLÇEDE HANGİ ÜRÜNLER VAR?\n\nAtkaracalar: Arpa, aspir, buğday, mercimek, nohut, yem bitkileri.\n\nBayramören: Arpa, aspir, buğday, mercimek, nohut, yem bitkileri.\n\nÇerkeş: Arpa, aspir, buğday, mercimek, nohut, yem bitkileri.\n\nEldivan: Arpa, aspir, buğday, mercimek, nohut, yem bitkileri.\n\nIlgaz: Arpa, aspir, buğday, mercimek, nohut, yem bitkileri.\n\nKızılırmak: Arpa, aspir, ayçiçeği (yağlık), buğday, fasulye (kuru), mercimek, nohut, yem bitkileri.\n\nKorgun: Arpa, aspir, buğday, fasulye (kuru), nohut, yem bitkileri.\n\nKurşunlu: Arpa, aspir, buğday, mercimek, nohut, yem bitkileri.\n\nMerkez: Arpa, aspir, ayçiçeği (yağlık), buğday, mercimek, nohut, yem bitkileri.\n\nOrta: Arpa, aspir, buğday, mercimek, nohut, yem bitkileri.\n\nŞabanözü: Arpa, aspir, buğday, fasulye (kuru), mercimek, nohut, yem bitkileri.\n\nYapraklı: Arpa, aspir, buğday, mercimek, nohut, yem bitkileri.\n\nÇANKIRI'DA 2027 ÜRÜN DESENİNDE DEĞİŞİKLİK YOK\n\nÇankırı'nın önceki havza ürün deseni ile 2027 üretim yılı listesi karşılaştırıldığında, 12 ilçenin hiçbirinde planlamaya konu ürünler açısından herhangi bir değişiklik olmadığı görülüyor.\n\nAtkaracalar'dan Yapraklı'ya kadar tüm ilçelerin mevcut ürün desenleri 2027 üretim yılında da aynen korunuyor.\n\nBuna göre önceki listede planlama kapsamında bulunan ürünlerin tamamı 2027 listesinde yer almaya devam ederken, hiçbir ilçeye yeni ürün eklenmediği ve mevcut hiçbir ürünün listeden çıkarılmadığı belirlendi.\n\nÇANKIRI'DA İLÇELERE GÖRE ÜRÜN DESENİ FARKLILAŞIYOR\n\nListe incelendiğinde arpa, aspir, buğday, nohut ve yem bitkilerinin Çankırı'nın 12 ilçesinin tamamında planlamaya konu ortak ürünler olduğu görülüyor. Diğer ürünlerde ise ilçelerin tarımsal ve coğrafi yapısına göre dağılım şu şekilde şekilleniyor:\n\nMercimek: Korgun haricindeki 11 ilçenin (Atkaracalar, Bayramören, Çerkeş, Eldivan, Ilgaz, Kızılırmak, Kurşunlu, Merkez, Orta, Şabanözü, Yapraklı) tamamında listede yer alıyor. Korgun'da ise mercimek yerine kuru fasulye bulunuyor.\n\nYağlık Ayçiçeği: İl genelinde yalnızca Kızılırmak ve Merkez ilçelerinin havza deseninde yer alıyor.\n\nKuru Fasulye: Yalnızca Kızılırmak, Korgun ve Şabanözü ilçelerinde planlamaya konu ürünler arasında bulunuyor."
+    },
     {
       "title": "Kayseri havza destekleri 2027: İlçelere göre desteklenen ürünler belli oldu",
       "url": "https://www.tarimdanhaber.com/havza-destekleri-kayseri",
@@ -93,14 +101,6 @@
       "date": "2026-09-12",
       "summary": "Türkiye’de tarımsal desteklerin yalnızca mazot, gübre ve ürün bazlı ödemeler üzerinden yürütülmesinin artık yeterli olmadığına dikkat çekildi. Ankara Üniversitesi Öğretim Üyesi ve Tarımsal Bilgi Platformu Kurucusu Prof. Dr. Bülent Gülçubuk, çiftçinin üretimde kalmasını sağlayacak yeni bir destekleme",
       "content": "Haber Merkezi / Gülçubuk’un verdiği bilgilere göre Türkiye’de büyükbaş hayvanların yaklaşık yüzde 56’sı sigortalıyken, Çiftçi Kayıt Sistemi’ne (ÇKS) kayıtlı 2 milyon 363 bin çiftçinin yalnızca 616 bini, yani yaklaşık yüzde 26’sı SGK kapsamında bulunuyor.\n\nEkonomim Gazetesi’nden Hüseyin Gökçe’ye değerlendirmelerde bulunan Gülçubuk, iklim değişikliği, su kıtlığı, artan üretim maliyetleri, savaşlar, jeopolitik gerilimler ve piyasa belirsizliklerinin Türkiye’nin tarımsal destekleme politikasında kapsamlı bir değişimi zorunlu hale getirdiğini söyledi.\n\nDESTEK MİKTARINDAN ÖNCE ÇİFTÇİNİN GELECEĞİ SORGULANMALI\n\nMevcut sistemde tartışmaların çoğunlukla çiftçiye ne kadar destek verildiği üzerinden yürütüldüğüne işaret eden Gülçubuk’a göre artık farklı bir sorunun sorulması gerekiyor.\n\nTarımsal desteklerin yalnızca üretim miktarına ve çiftçinin bugünkü girdilerine odaklanmasının yeterli olmadığını belirten Gülçubuk, desteklerin çiftçiyi ve kırsal kesimi gelecekte karşılaşacağı risklere ne ölçüde hazırladığının da dikkate alınması gerektiğini vurguladı.\n\nYeni modelde üretimin yanında çiftçinin asgari yaşam ve refah koşullarının da destekleme politikasının bir parçası olması gerektiğini ifade etti.\n\nÜRETİM ARTIYOR AMA ÇİFTÇİNİN REFAHI AYNI ORANDA ARTMIYOR\n\nTürkiye’de tarım politikalarının temel hedeflerinden birinin üretimin devamlılığı olduğunu kaydeden Gülçubuk, mazot, gübre, ürün ve prim destekleri ile sübvansiyonlu kredilerin önemini koruduğunu ancak mevcut şartların bundan daha kapsamlı bir modele ihtiyaç doğurduğunu belirtti.\n\nYüksek enflasyon, tarımsal girdi fiyatlarındaki artış, piyasalardaki belirsizlik ve çiftçinin örgütlenme sorunları nedeniyle üretim artışının çiftçinin gelir ve refahına aynı ölçüde yansımadığına dikkat çekildi.\n\nGülçubuk’a göre tarım artık yalnızca ürün üreten bir sektör olarak da değerlendirilemez. Güvenli gıdanın sağlanması, kırsal istihdamın korunması, biyolojik çeşitlilik, genç nüfusun kırsalda tutulması ve sanayiye hammadde temini tarımın üstlendiği diğer önemli işlevler arasında bulunuyor.\n\nBÜYÜKBAŞ HAYVANLARIN YÜZDE 56’SI SİGORTALI, ÇİFTÇİLERİN SADECE YÜZDE 26’SI SGK KAPSAMINDA\n\nGülçubuk’un destekleme sistemine ilişkin dikkat çektiği en çarpıcı başlıklardan biri ise çiftçinin sosyal güvencesi oldu.\n\nTürkiye’de büyükbaş hayvanların yaklaşık yüzde 56’sının sigortalı olduğunu belirten Gülçubuk, ÇKS’ye kayıtlı çiftçilerde ise tablonun çok farklı olduğunu kaydetti.\n\nVerilen rakamlara göre 2 milyon 363 bin kayıtlı çiftçinin sadece 616 bini SGK kapsamında bulunuyor. Bu da kayıtlı çiftçilerin yaklaşık yüzde 26’sına karşılık geliyor.\n\nGülçubuk, bu tablo üzerinden tarımsal risk yönetiminin yalnızca ürünü veya hayvanı güvence altına alan bir sistem olarak ele alınmaması gerektiğini, üretimi gerçekleştiren çiftçinin yaşam koşulları ve sosyal güvencesinin de sistemin bir parçası olması gerektiğini vurguladı.\n\nTARIMSAL DESTEKLER İÇİN ÜÇ AYAKLI YENİ MODEL ÖNERİSİ\n\nGülçubuk, yeni destekleme politikasının üç temel ayak üzerine kurulabileceğini belirtti.\n\nİlk ayakta, üretimin devamlılığını sağlayan mazot, gübre, ilaç ve benzeri mevcut desteklerin sürdürülmesi bulunuyor.\n\nİkinci ayakta ise çiftçinin karşı karşıya bulunduğu risklerin yönetilmesi öne çıkıyor. Gelir güvencesi, tarım sigortaları ve piyasa dalgalanmalarına karşı gelir istikrarını sağlayacak mekanizmaların güçlendirilmesi öneriliyor.\n\nModelin üçüncü ve en önemli ayağını ise “dönüşüm desteği” oluşturuyor.\n\nGİRDİ DESTEĞİNDEN DÖNÜŞÜM DESTEĞİNE GEÇİŞ\n\nGülçubuk’a göre kamu kaynakları yalnızca çiftçinin bugün kullandığı girdilerin maliyetini azaltmak amacıyla kullanılmamalı.\n\nDesteklerin aynı zamanda çiftçinin gelecekteki üretim maliyetlerini ve karşılaşacağı riskleri azaltacak yatırımlara yönelmesi gerekiyor.\n\nBu nedenle mevcut “girdi desteği” ağırlıklı yapıdan kademeli biçimde “dönüşüm desteği” modeline geçilmesi öneriliyor.\n\nBu yaklaşım; suyu daha verimli kullanan üretim yöntemlerinden teknoloji yatırımlarına, iklim değişikliğine uyumdan üreticinin gelir dayanıklılığına kadar daha geniş bir destekleme politikasını gündeme getiriyor.\n\nHER BÖLGEYE AYNI DESTEK MODELİ DEĞİŞMELİ\n\nİklim değişikliğinin tarımsal destek politikalarının yeniden şekillendirilmesinde belirleyici faktörlerden biri haline geldiğini ifade eden Gülçubuk, Türkiye’nin bütün bölgelerine aynı mantıkla destek verilmesi yaklaşımının da değişmesi gerektiğini belirtti.\n\nYeni sistemde bölgenin su bütçesi, iklim riski, toprak kapasitesi, ürün deseni, sosyoekonomik yapısı ve kırsalda yaşayanların asgari refah düzeyinin birlikte değerlendirilmesi gerektiğini kaydetti.\n\nGülçubuk, gelecekte yalnızca iklim değişikliğine uyum sağlayan üretimin değil, iklim krizinin etkilerinin azaltılmasına katkı sunan tarımsal üretim modellerinin de desteklenmesi gerektiğini ifade etti.\n\nGENÇLER TARIMDAN SADECE DÜŞÜK GELİR NEDENİYLE UZAKLAŞMIYOR\n\nYeni destekleme modelinin genç çiftçiler açısından da yeniden ele alınması gerektiğini belirten Gülçubuk, gençleri tarımda tutmak için yalnızca arazi veya hibe veri"
-    },
-    {
-      "title": "Aksaray havza destekleri 2027: İlçelere göre desteklenen ürünler belli oldu",
-      "url": "https://www.tarimdanhaber.com/havza-destekleri-aksaray",
-      "source": "Tarımdan Haber",
-      "date": "2026-09-12",
-      "summary": "Aksaray'da 2027 üretim yılı için planlamaya konu havza ürün deseni belli oldu. Ağaçören, Eskil, Gülağaç, Güzelyurt, Merkez, Ortaköy, Sarıyahşi ve Sultanhanı'nda hangi ürünlerin planlama kapsamında olduğu açıklanırken, önceki listeye göre ürün deseninde değişiklik yapılmadı. Su kısıtı kapsamındaki 5 ",
-      "content": "Haber Merkezi / Tarım ve Orman Bakanlığının 2027 üretim yılına yönelik bitkisel üretim planlaması kapsamında Aksaray'da ilçelere göre planlamaya konu havza ürünleri belli oldu.\n\nAksaray'da Ağaçören, Eskil, Gülağaç, Güzelyurt, Merkez, Ortaköy, Sarıyahşi ve Sultanhanı için belirlenen listelerde arpa ve buğday bütün ilçelerde yer alırken; aspir, yağlık ayçiçeği, kuru fasulye, mercimek, nohut, patates, dane mısır ve yem bitkileri ilçelere göre değişiyor.\n\nTürkiye genelindeki illerde hangi ürünlerin planlama kapsamına alındığını görmek isteyen üreticiler, “Havza destekleri 2027: Hangi ilde hangi ürün destekleniyor?” ana sayfamızdan 81 ilin güncel listesine ulaşabilir.\n\nAKSARAY 2027 HAVZA DESTEKLERİ: HANGİ İLÇEDE HANGİ ÜRÜNLER VAR?\n\nAğaçören: Arpa, aspir, yağlık ayçiçeği, buğday, kuru fasulye, mercimek, dane mısır, nohut, yem bitkileri.\n\nEskil: Arpa, aspir, yağlık ayçiçeği, buğday, kolza (kanola), dane mısır, patates, yem bitkileri.\n\nGülağaç: Arpa, aspir, buğday, kuru fasulye, mercimek, nohut, patates, yem bitkileri.\n\nGüzelyurt: Arpa, aspir, buğday, kuru fasulye, mercimek, nohut, patates, yem bitkileri.\n\nMerkez: Arpa, aspir, yağlık ayçiçeği, buğday, kuru fasulye, mercimek, dane mısır, nohut, patates, yem bitkileri.\n\nOrtaköy: Arpa, aspir, yağlık ayçiçeği, buğday, kuru fasulye, nohut, patates, yem bitkileri.\n\nSarıyahşi: Arpa, aspir, buğday, kuru fasulye, nohut, yem bitkileri.\n\nSultanhanı: Arpa, aspir, yağlık ayçiçeği, buğday, dane mısır, yem bitkileri.\n\nAKSARAY'DA 2027 ÜRÜN DESENİNDE DEĞİŞİKLİK YOK\n\nAksaray'ın önceki havza ürün deseni ile 2027 üretim yılı listesi karşılaştırıldığında, 8 ilçenin hiçbirinde planlamaya konu ürünler açısından değişiklik olmadığı görülüyor.\n\nAğaçören'den Sultanhanı'na kadar ilçelerin mevcut ürün desenleri 2027 üretim yılında da korunuyor.\n\nBuna göre önceki listede planlama kapsamında bulunan ürünlerin tamamı 2027 listesinde yer almaya devam ederken, herhangi bir ilçeye yeni ürün eklenmediği veya mevcut bir ürünün listeden çıkarılmadığı görülüyor.\n\n5 İLÇEDE SU KISITI DEVAM EDİYOR\n\nAksaray'da su kısıtı kapsamında gösterilen ilçelerde de değişiklik bulunmuyor.\n\nEskil, Gülağaç, Güzelyurt, Merkez ve Sultanhanı 2027 yılı tablosunda su kısıtı kapsamında işaretlenen ilçeler arasında bulunuyor.\n\nBakanlığın 2027 üretim yılı havza ürün deseni tablosundaki açıklamaya göre, su kısıtı kapsamında belirlenen ilçelerde dane mısır üretiminde damla sulama şartı aranıyor.\n\nDolayısıyla bu ilçelerde dane mısır üretmeyi planlayan çiftçilerin damla sulama şartını dikkate almaları gerekiyor.\n\nAKSARAY'DA İLÇELERE GÖRE ÜRÜN DESENİ FARKLILAŞIYOR\n\nListe incelendiğinde arpa ve buğdayın Aksaray'ın bütün ilçelerinde planlamaya konu olduğu görülüyor. Diğer ürünlerde ise ilçelerin üretim yapısına göre farklılıklar bulunuyor.\n\nÖrneğin kolza (kanola) yalnızca Eskil'in, dane mısır ise Ağaçören, Eskil, Merkez ve Sultanhanı'nın ürün deseninde bulunuyor.\n\nKuru fasulye Ağaçören, Gülağaç, Güzelyurt, Merkez, Ortaköy ve Sarıyahşi'de listede yer alırken; patates Eskil, Gülağaç, Güzelyurt, Merkez ve Ortaköy'de planlamaya konu ürünler arasında bulunuyor.\n\nVerilerle Aksaray Tarımı: Üretim Alanları Genişliyor\n\nAksaray, sadece planlama ile değil, üretim alanındaki istikrarlı büyümesiyle de dikkat çekiyor. TÜİK verilerinden derlenen bilgilere göre, şehirdeki tarımsal alan dağılımı yıllara göre şu şekilde gelişim göstermiştir:\n\nTarla Bitkileri: 2021 yılında 2.859.801 dekar olan ekim alanı, 2024 yılında 3.211.905 dekara yükselerek büyük bir ivme kazanmıştır.\n\nSebze Üretimi: 2021'de 112.818 dekar olan alan, 2024'te 118.850 dekara çıkmıştır.\n\nMeyve Üretimi: Üretim alanı 40.012 dekardan 45.160 dekara ulaşmıştır.\n\nBu rakamlar, Aksaray'ın tarımsal potansiyelinin her geçen yıl arttığını ve Türkiye'nin gıda arz güvenliğinde kilit bir rol oynadığını kanıtlamaktadır.\n\nAksaray Tarım Havzaları ve Ürün Deseni Haritası"
     }
   ],
   "commoditiesByBorsa": {
