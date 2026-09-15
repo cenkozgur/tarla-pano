@@ -1,40 +1,40 @@
 {
-  "updatedAt": "2026-09-15T05:27:53.017Z",
+  "updatedAt": "2026-09-15T10:18:52.735Z",
   "fx": [
     {
       "code": "USD",
       "name": "Dolar",
-      "buy": 48.64,
-      "sell": 48.64,
+      "buy": 48.63,
+      "sell": 48.65,
       "change": 0.04
     },
     {
       "code": "EUR",
       "name": "Euro",
-      "buy": 56.12,
-      "sell": 56.18,
-      "change": -0.09
+      "buy": 56.16,
+      "sell": 56.17,
+      "change": -0.06
     },
     {
       "code": "GRA",
       "name": "Gram Altın",
-      "buy": 6719.15,
-      "sell": 6720.06,
-      "change": -0.01
+      "buy": 6679.04,
+      "sell": 6679.94,
+      "change": -0.6
     },
     {
       "code": "CEYREKALTIN",
       "name": "Çeyrek Altın",
-      "buy": 10678.55,
-      "sell": 10922.39,
-      "change": 0
+      "buy": 10661.96,
+      "sell": 10905.42,
+      "change": -0.16
     },
     {
       "code": "CUMHURIYETALTINI",
       "name": "Cumhuriyet Altını",
-      "buy": 44261,
-      "sell": 44931,
-      "change": -1.47
+      "buy": 44082,
+      "sell": 44749,
+      "change": -0.41
     }
   ],
   "news": [
@@ -309,16 +309,6 @@
   "errors": [
     "borsa 5ED10: fetch failed",
     "borsa 5KO10: fetch failed",
-    "borsa 5ES10: fetch failed",
-    "mazot ANKARA: fetch failed",
-    "mazot ISTANBUL: fetch failed",
-    "mazot IZMIR: fetch failed",
-    "mazot KONYA: fetch failed",
-    "mazot ADANA: fetch failed",
-    "mazot BURSA: fetch failed",
-    "mazot ANTALYA: fetch failed",
-    "mazot SAMSUN: fetch failed",
-    "mazot TEKIRDAG: fetch failed",
-    "mazot CANAKKALE: fetch failed"
+    "borsa 5ES10: fetch failed"
   ]
 }
