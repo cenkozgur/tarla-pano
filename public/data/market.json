@@ -1,32 +1,32 @@
 {
-  "updatedAt": "2026-09-15T00:49:34.445Z",
+  "updatedAt": "2026-09-15T05:27:53.017Z",
   "fx": [
     {
       "code": "USD",
       "name": "Dolar",
-      "buy": 48616,
-      "sell": 4865,
-      "change": 3
+      "buy": 48.64,
+      "sell": 48.64,
+      "change": 0.04
     },
     {
       "code": "EUR",
       "name": "Euro",
-      "buy": 56156,
-      "sell": 562238,
-      "change": -1
+      "buy": 56.12,
+      "sell": 56.18,
+      "change": -0.09
     },
     {
       "code": "GRA",
       "name": "Gram Altın",
-      "buy": 671183,
-      "sell": 671259,
-      "change": -12
+      "buy": 6719.15,
+      "sell": 6720.06,
+      "change": -0.01
     },
     {
       "code": "CEYREKALTIN",
       "name": "Çeyrek Altın",
-      "buy": 1067855,
-      "sell": 1092239,
+      "buy": 10678.55,
+      "sell": 10922.39,
       "change": 0
     },
     {
@@ -34,10 +34,18 @@
       "name": "Cumhuriyet Altını",
       "buy": 44261,
       "sell": 44931,
-      "change": -147
+      "change": -1.47
     }
   ],
   "news": [
+    {
+      "title": "Karaman havza destekleri 2027: İlçelere göre desteklenen ürünler belli oldu",
+      "url": "https://www.tarimdanhaber.com/havza-destekleri-karaman",
+      "source": "Tarımdan Haber",
+      "date": "2026-09-15",
+      "summary": "Karaman'da 2027 üretim yılı için planlamaya konu havza ürün deseni belli oldu. Ayrancı, Başyayla, Ermenek, Kazımkarabekir, Merkez ve Sarıveliler ilçelerinde planlama kapsamındaki ürünler açıklanırken, yeni dönemde Ayrancı ve Kazımkarabekir ilçelerinin ürün desenine mercimek dahil edildi. Su kısıtı k",
+      "content": "Haber Merkezi / Tarım ve Orman Bakanlığının 2027 üretim yılına yönelik bitkisel üretim planlaması kapsamında Karaman'da ilçelere göre planlamaya konu havza ürünleri açıklandı.\n\nKaraman genelinde arpa, buğday, nohut ve yem bitkileri 6 ilçenin tamamında planlama kapsamında yer alırken; aspir, yağlık ayçiçeği, kuru fasulye, mercimek, dane mısır, patates ve kuru soğan üretim desenleri ilçelere göre farklılık gösteriyor.\n\nTürkiye genelindeki illerde hangi ürünlerin planlama kapsamına alındığını görmek isteyen üreticiler, “Havza destekleri 2027: Hangi ilde hangi ürün destekleniyor?” ana sayfamızdan 81 ilin güncel listesine ulaşabilir.\n\nKARAMAN 2027 HAVZA DESTEKLERİ: HANGİ İLÇEDE HANGİ ÜRÜNLER VAR?\n\nAyrancı (*): Arpa, aspir, ayçiçeği (yağlık), buğday, fasulye (kuru), mercimek, mısır (dane), nohut, yem bitkileri.\n\nBaşyayla: Arpa, ayçiçeği (yağlık), buğday, nohut, yem bitkileri.\n\nErmenek: Arpa, buğday, fasulye (kuru), mercimek, nohut, patates, soğan (kuru), yem bitkileri.\n\nKazımkarabekir (*): Arpa, aspir, ayçiçeği (yağlık), buğday, fasulye (kuru), mercimek, mısır (dane), nohut, yem bitkileri.\n\nMerkez (*): Arpa, aspir, ayçiçeği (yağlık), buğday, fasulye (kuru), mercimek, mısır (dane), nohut, patates, soğan (kuru), yem bitkileri.\n\nSarıveliler: Arpa, buğday, nohut, yem bitkileri.\n\nKARAMAN'DA 2027 LİSTESİNDE DİKKAT ÇEKEN DEĞİŞİKLİK: 2 İLÇEYE MERCİMEK EKLENDİ\n\nKaraman'ın önceki havza ürün deseni ile 2027 üretim yılı listesi karşılaştırıldığında önemli bir değişiklik öne çıktı.\n\nAyrancı ve Kazımkarabekir'e Mercimek Müjdesi: Önceki dönem listesinde yer almayan mercimek, 2027 üretim yılı planlamasında hem Ayrancı hem de Kazımkarabekir ilçelerinin ürün desenine dahil edildi.\n\nDiğer 4 İlçede Desen Korundu: Başyayla, Ermenek, Merkez ve Sarıveliler ilçelerinde ise ürün deseninde herhangi bir çıkarma veya ekleme yapılmayarak mevcut yapı korundu.\n\n3 İLÇEDE SU KISITI VE DAMLA SULAMA ŞARTI DEVAM EDİYOR\n\nBakanlığın yayımladığı 2027 tablosunda yeraltı sularının yetersiz seviyede olduğu su kısıtlı havzalar da netleşti.\n\nKaraman'da: Ayrancı, Kazımkarabekir ve Merkez ilçeleri su kısıtı kapsamında yer almaya devam ediyor.\n\nBakanlık açıklamasına göre; su kısıtı kapsamındaki bu 3 ilçede dane mısır üretimi yapacak üreticilerin desteklemelerden ve planlama kriterlerinden yararlanabilmesi için damla sulama şartı aranıyor. Üreticilerin ekim planlaması yaparken sulama altyapısına dikkat etmeleri gerekiyor.\n\nKARAMAN'DA İLÇELERE GÖRE ÜRÜN DAĞILIMI\n\nOrtak Ürünler: Arpa, buğday, nohut ve yem bitkileri 6 ilçenin tamamında havza deseni içerisinde yer alıyor.\n\nDane Mısır: Sadece su kısıtı şerhi bulunan Ayrancı, Kazımkarabekir ve Merkez ilçelerinde planlama kapsamında.\n\nPatates ve Kuru Soğan: İl genelinde yalnızca Ermenek ve Merkez ilçelerinde destekleme ve planlama listesinde bulunuyor.\n\nAspir ve Kuru Fasulye: Ayrancı, Kazımkarabekir ve Merkez'de hem aspir hem kuru fasulye bulunurken; kuru fasulye ayrıca Ermenek'te de desende yer alıyor."
+    },
     {
       "title": "Adapazarı Şeker satıldı, pancar çiftçisinin geleceği belirsiz! 120 bin ton pancar Niğde’ye taşınacak",
       "url": "https://www.tarimdanhaber.com/adapazari-seker-satildi-pancar-ciftcisinin-gelecegi-belirsiz-120-bin-ton-pancar-nigdeye-tasinacak",
@@ -93,14 +101,6 @@
       "date": "2026-09-13",
       "summary": "Kayseri'de 2027 üretim yılı için planlamaya konu havza ürün deseni belli oldu. Kayseri'nin 16 ilçesinde destekleme ve üretim planlaması açısından önem taşıyan ürünler belirlenirken, 2027 listesinde iki ilçede dikkat çeken değişiklik yapıldı. Bünyan ve Yeşilhisar'da kuru soğan planlamaya konu ürünler",
       "content": "Haber Merkezi / Tarım ve Orman Bakanlığının 2027 üretim yılına yönelik bitkisel üretim planlaması kapsamında Kayseri'de ilçelere göre planlamaya konu havza ürünleri belli oldu.\n\nKayseri'nin Akkışla, Bünyan, Develi, Felahiye, Hacılar, İncesu, Kocasinan, Melikgazi, Özvatan, Pınarbaşı, Sarıoğlan, Sarız, Talas, Tomarza, Yahyalı ve Yeşilhisar ilçeleri için 2027 üretim yılında geçerli olacak ürün desenleri belirlendi.\n\nTürkiye genelinde hangi il ve ilçede hangi ürünlerin planlama kapsamında olduğunu merak eden üreticiler, “Havza destekleri 2027: Hangi ilde hangi ürün destekleniyor?” ana sayfamızdan 81 ilin güncel listesine ulaşabilir.\n\nKAYSERİ'DE 2027 LİSTESİNDE İKİ DEĞİŞİKLİK\n\nKayseri'nin önceki havza ürün deseni ile 2027 üretim yılı listesi karşılaştırıldığında 16 ilçeden 14'ünde ürünlerin aynı kaldığı, Bünyan ve Yeşilhisar'da ise ürün deseninin genişletildiği görülüyor.\n\nHer iki ilçede de değişiklik kuru soğanda yapıldı.\n\nBünyan'ın önceki listesinde arpa, aspir, buğday, kuru fasulye, mercimek, nohut, patates ve yem bitkileri bulunurken, 2027 yılında bu ürünlere kuru soğan da eklendi.\n\nYeşilhisar'da ise arpa, aspir, buğday, kuru fasulye, mercimek, dane mısır, nohut, patates ve yem bitkilerinden oluşan ürün desenine 2027 üretim yılıyla birlikte kuru soğan dahil edildi.\n\nBöylece kuru soğan, hem Bünyan hem de Yeşilhisar'da planlamaya konu havza ürünleri arasına girmiş oldu.\n\nKAYSERİ 2027 HAVZA DESTEKLERİ: HANGİ İLÇEDE HANGİ ÜRÜNLER VAR?\n\nAkkışla: Arpa, aspir, buğday, kuru fasulye, mercimek, nohut, yem bitkileri.\n\nBünyan: Arpa, aspir, buğday, kuru fasulye, mercimek, nohut, patates, kuru soğan, yem bitkileri.\n\nDeveli: Arpa, aspir, buğday, kuru fasulye, mercimek, dane mısır, nohut, patates, yem bitkileri.\n\nFelahiye: Arpa, aspir, buğday, kuru fasulye, mercimek, nohut, yem bitkileri.\n\nHacılar: Arpa, aspir, buğday, yem bitkileri.\n\nİncesu: Arpa, aspir, buğday, kuru fasulye, dane mısır, nohut, patates, yem bitkileri.\n\nKocasinan: Arpa, aspir, buğday, kuru fasulye, mercimek, nohut, yem bitkileri.\n\nMelikgazi: Arpa, aspir, buğday, kuru fasulye, mercimek, nohut, yem bitkileri.\n\nÖzvatan: Arpa, aspir, buğday, kuru fasulye, mercimek, nohut, yem bitkileri.\n\nPınarbaşı: Arpa, aspir, buğday, kuru fasulye, mercimek, nohut, patates, yem bitkileri.\n\nSarıoğlan: Arpa, aspir, buğday, kuru fasulye, mercimek, nohut, patates, yem bitkileri.\n\nSarız: Arpa, aspir, buğday, kuru fasulye, nohut, patates, yem bitkileri.\n\nTalas: Arpa, aspir, buğday, kuru fasulye, nohut, patates, yem bitkileri.\n\nTomarza: Arpa, aspir, buğday, kuru fasulye, mercimek, nohut, patates, yem bitkileri.\n\nYahyalı: Arpa, aspir, buğday, kuru fasulye, dane mısır, nohut, yem bitkileri.\n\nYeşilhisar: Arpa, aspir, buğday, kuru fasulye, mercimek, dane mısır, nohut, patates, kuru soğan, yem bitkileri.\n\nKURU SOĞAN BÜNYAN VE YEŞİLHİSAR'DA 2027 LİSTESİNE GİRDİ\n\n2027 listesinin Kayseri açısından en dikkat çekici tarafını kuru soğan oluşturuyor.\n\nÖnceki ürün deseninde Bünyan ve Yeşilhisar için kuru soğan bulunmazken, yeni listede her iki ilçede de kuru soğan açık şekilde yer aldı. Böylece bu iki ilçenin 2027 üretim yılı havza ürün deseninde değişikliğe gidilmiş oldu.\n\nDiğer ilçeler incelendiğinde ise önceki listede bulunan ürünlerin korunduğu, herhangi bir ürünün çıkarılmadığı veya yeni bir ürün eklenmediği görülüyor.\n\nKAYSERİ'DE DANE MISIR HANGİ İLÇELERDE PLANLAMA KAPSAMINDA?\n\n2027 ürün desenine göre dane mısır Kayseri'nin Develi, İncesu, Yahyalı ve Yeşilhisar ilçelerinde planlamaya konu ürünler arasında bulunuyor.\n\nPatates ise Bünyan, Develi, İncesu, Pınarbaşı, Sarıoğlan, Sarız, Talas, Tomarza ve Yeşilhisar'da listede yer alıyor.\n\nKuru fasulye de Kayseri'nin 16 ilçesinden Hacılar dışındaki ilçelerin tamamında 2027 ürün deseninde bulunuyor."
-    },
-    {
-      "title": "Tarım Kredi’de fatura çiftçiye! Faiz gelirinin yüzde 60’ı alınıyor, zarar eden şirketlere milyarlar aktarılıyor",
-      "url": "https://www.tarimdanhaber.com/tarim-kredide-fatura-ciftciye-faiz-gelirinin-yuzde-60i-aliniyor-zarar-eden-sirketlere-milyarlar-aktariliyor",
-      "source": "Tarımdan Haber",
-      "date": "2026-09-13",
-      "summary": "Tarım Kredi’de zarar eden iştiraklere Merkez Birliği kaynaklarından milyarlarca lira aktarılırken, sistemin temelini oluşturan çiftçi kooperatiflerinden Merkez ve Bölge Birliklerine düzenli kaynak transferi yapıldığı ortaya çıktı.",
-      "content": "Sadettin İnan/ Tarım Kredi Kooperatiflerinde çiftçi ortakların kooperatiflerinde oluşan gelirin büyük bölümünü üst birliklere aktaran dikkat çekici bir uygulamanın belgesi ortaya çıktı.\n\nTarımdan Haber’in ulaştığı belge, bir taraftan zarar eden iştiraklerine milyarlarca lira kaynak aktaran Tarım Kredi Merkez Birliğinin, diğer taraftan sistemin temelini oluşturan kooperatiflerden nasıl düzenli kaynak topladığını gözler önüne serdi.\n\nTarım Kredi Kooperatifleri Merkez Birliği Yönetim Kurulunun 2 Mayıs 2025 tarih ve 125 sayılı kararıyla, net faiz geliri pozitif olan kooperatiflerin bu gelirlerinin yüzde 60’ının Denetime Katılma Payı olarak ayrılmasına karar verildi.\n\nKarar, 1 Ocak 2025 tarihinden itibaren geçerli olmak üzere uygulanırken, kooperatiflerin net faiz gelirinden alınacak yüzde 60’lık pay E-Koop otomasyon sistemi üzerinden üçer aylık dönemlerde otomatik olarak hesaplanıyor ve tahakkuk ettiriliyor.\n\nBöylece kooperatiflerden üst birliklere düzenli ve süreklilik taşıyan yeni bir kaynak aktarım mekanizması oluşturulmuş oldu.\n\nÇİFTÇİNİN ÖDEDİĞİ FAİZDEN OLUŞAN GELİRİN YÜZDE 60’I ALINIYOR\n\nBelgede yer alan “Net Faiz Geliri” ifadesi, uygulamanın çiftçi açısından önemini daha da artırıyor.\n\nTarım Kredi ortağı çiftçiler, üretimlerini sürdürebilmek için kooperatiflerinden ayni ve nakdi kredi kullanıyor. Gübre, yem, tohum, akaryakıt ve diğer tarımsal ihtiyaçların finansmanında kullanılan bu krediler için çiftçi ortaklardan faiz tahsil ediliyor.\n\nDolayısıyla kooperatiflerin faiz gelirlerinin temelinde, çiftçi ortakların kullandıkları krediler ve bu krediler karşılığında ödedikleri faizler bulunuyor.\n\nYeni uygulamaya göre dönem sonunda net faiz geliri pozitif çıkan kooperatiflerin bu gelirinin yüzde 60’ı Denetime Katılma Payı olarak ayrılıyor.\n\nAyrılan tutarın yüzde 40’ı bağlı bulunulan Bölge Birliğine, yüzde 60’ı ise Merkez Birliğine gönderiliyor. Rakamlarla ifade edildiğinde uygulamanın büyüklüğü daha net ortaya çıkıyor.\n\nKooperatifin 100 liralık pozitif net faiz gelirinin 60 lirası kooperatiften çıkıyor. Bunun 24 lirası Bölge Birliğine, 36 lirası Merkez Birliğine aktarılırken, kooperatif bünyesinde 40 lira kalıyor.\n\nÖrneğin üç aylık dönemde 10 milyon lira net faiz geliri elde eden bir kooperatiften 6 milyon lira Denetime Katılma Payı alınıyor. Bunun 3,6 milyon lirası Merkez Birliğine, 2,4 milyon lirası Bölge Birliğine aktarılıyor.\n\nKESİNTİ OTOMATİK HESAPLANIYOR, KOOPERATİFLER BORÇLANDIRILIYOR\n\nYüzde 60’lık uygulama kooperatiflerin tercihine de bırakılmış değil. Belgeye göre Denetime Katılma Payı, E-Koop otomasyon sisteminde üçer aylık dönemlerde otomatik olarak hesaplanıyor.\n\nHesaplama sonrasında ortaya çıkan tutarlar otomatik olarak tahakkuka alınırken, Merkez Birliği ve Bölge Birlikleri tarafından fon yönetimi modülü üzerinden kooperatiflere borçlandırma işlemi yapılıyor.\n\nDolayısıyla uygulama, 2025 yılına ilişkin tek seferlik bir kesinti niteliği taşımıyor. Mevcut düzenleme kapsamında net faiz geliri pozitif olduğu sürece kooperatiflerin gelirinden her üç aylık dönemde yüzde 60 oranında pay ayrılması öngörülüyor.\n\nDENETİMLE İLGİSİ OLMAYAN HİZMETLER KESİNTİYE GEREKÇE GÖSTERİLDİ\n\nKooperatiflerin net faiz gelirinden yüzde 60 gibi yüksek bir pay alınırken, buna gösterilen gerekçeler de tartışma konusu.\n\nBelgede E-Koop otomasyon sisteminin yazılım, bakım, teknik destek, güncelleme, donanım ve lisans giderlerinin yanı sıra TAKBİS, KKB ve MERNİS sorgulama ücretleri, e-fatura ve e-defter, mali mühür hizmetleri, kredi takip borç ihbarnameleri ve SMS gönderim ücretleri sıralanıyor.\n\nAkaryakıt ve diğer enerji ürünlerinin kooperatiflere ulaştırılması sırasında ortaya çıkan personel, nakliye, bakım-onarım ve sigorta giderleri de gerekçeler arasında gösteriliyor.\n\nBunların önemli bir bölümünün zaten Merkez ve Bölge Birliklerinin kooperatif sistemi içerisinde yürüttüğü merkezi hizmetler olması dikkat çekiyor.\n\nÖte yandan kesintiye gerekçe gösterilen hizmetlerin doğrudan “denetim” faaliyetiyle bir ilgisinin bulunmaması dikkat çekerken, “denetime katılma payı” kapsamında kooperatiflerin net faiz gelirinin yüzde 60’ının Merkez ve Bölge Birliklerine aktarılması, uygulamanın bir gider paylaşımından çok yüksek tutarlı bir kaynak transferine dönüştüğünü ortaya koyuyor.\n\nYAZILIM, BAKIM VE MERNİS GİDERİNİN KARŞILIĞI NEDEN YÜZDE 60?\n\nUygulamadaki bir başka önemli soru işareti ise yüzde 60 oranının hangi hesaba göre belirlendiği.\n\nBelgede sıralanan hizmetlerin kooperatif başına gerçek maliyetinin ne kadar olduğuna ilişkin bir hesap bulunmadığı gibi, söz konusu giderlerin neden kooperatiflerin net faiz gelirinin tam yüzde 60’ına karşılık geldiği de açıklanmıyor.\n\nDahası alınacak para hizmet maliyetine göre değil, kooperatifin net faiz gelirine göre artıyor.\n\nÖrneğin bir kooperatifin net faiz geliri 5 milyon liradan 10 milyon liraya yükseldiğinde yazılım, teknik destek veya MERNİS hizmetlerinin maliyeti iki katına çıkmasa bile kooperatiften alınacak pay 3 milyon liradan 6 milyon liraya yükseliyor.\n\nBu yönüyle uygulama, merkezi hizmetle"
     }
   ],
   "commoditiesByBorsa": {
@@ -309,6 +309,16 @@
   "errors": [
     "borsa 5ED10: fetch failed",
     "borsa 5KO10: fetch failed",
-    "borsa 5ES10: fetch failed"
+    "borsa 5ES10: fetch failed",
+    "mazot ANKARA: fetch failed",
+    "mazot ISTANBUL: fetch failed",
+    "mazot IZMIR: fetch failed",
+    "mazot KONYA: fetch failed",
+    "mazot ADANA: fetch failed",
+    "mazot BURSA: fetch failed",
+    "mazot ANTALYA: fetch failed",
+    "mazot SAMSUN: fetch failed",
+    "mazot TEKIRDAG: fetch failed",
+    "mazot CANAKKALE: fetch failed"
   ]
 }
