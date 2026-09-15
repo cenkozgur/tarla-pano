@@ -1,10 +1,10 @@
 {
-  "updatedAt": "2026-09-15T15:04:08.508Z",
+  "updatedAt": "2026-09-15T18:53:26.571Z",
   "fx": [
     {
       "code": "USD",
       "name": "Dolar",
-      "buy": 48.64,
+      "buy": 48.63,
       "sell": 48.64,
       "change": 0.04
     },
@@ -12,15 +12,15 @@
       "code": "EUR",
       "name": "Euro",
       "buy": 56.17,
-      "sell": 56.18,
-      "change": -0.03
+      "sell": 56.19,
+      "change": -0.02
     },
     {
       "code": "GRA",
       "name": "Gram Altın",
-      "buy": 6689.54,
-      "sell": 6690.54,
-      "change": -0.45
+      "buy": 6738.84,
+      "sell": 6739.58,
+      "change": 0.28
     },
     {
       "code": "CEYREKALTIN",
@@ -309,16 +309,6 @@
   "errors": [
     "borsa 5ED10: fetch failed",
     "borsa 5KO10: fetch failed",
-    "borsa 5ES10: fetch failed",
-    "mazot ANKARA: fetch failed",
-    "mazot ISTANBUL: fetch failed",
-    "mazot IZMIR: fetch failed",
-    "mazot KONYA: fetch failed",
-    "mazot ADANA: fetch failed",
-    "mazot BURSA: fetch failed",
-    "mazot ANTALYA: fetch failed",
-    "mazot SAMSUN: fetch failed",
-    "mazot TEKIRDAG: fetch failed",
-    "mazot CANAKKALE: fetch failed"
+    "borsa 5ES10: fetch failed"
   ]
 }
