@@ -1,43 +1,51 @@
 {
-  "updatedAt": "2026-09-15T10:18:52.735Z",
+  "updatedAt": "2026-09-15T15:04:08.508Z",
   "fx": [
     {
       "code": "USD",
       "name": "Dolar",
-      "buy": 48.63,
-      "sell": 48.65,
+      "buy": 48.64,
+      "sell": 48.64,
       "change": 0.04
     },
     {
       "code": "EUR",
       "name": "Euro",
-      "buy": 56.16,
-      "sell": 56.17,
-      "change": -0.06
+      "buy": 56.17,
+      "sell": 56.18,
+      "change": -0.03
     },
     {
       "code": "GRA",
       "name": "Gram Altın",
-      "buy": 6679.04,
-      "sell": 6679.94,
-      "change": -0.6
+      "buy": 6689.54,
+      "sell": 6690.54,
+      "change": -0.45
     },
     {
       "code": "CEYREKALTIN",
       "name": "Çeyrek Altın",
-      "buy": 10661.96,
-      "sell": 10905.42,
-      "change": -0.16
+      "buy": 10723.78,
+      "sell": 10968.62,
+      "change": 0.42
     },
     {
       "code": "CUMHURIYETALTINI",
       "name": "Cumhuriyet Altını",
-      "buy": 44082,
-      "sell": 44749,
-      "change": -0.41
+      "buy": 44436,
+      "sell": 45107,
+      "change": 0.39
     }
   ],
   "news": [
+    {
+      "title": "Kırıkkale havza destekleri 2027: İlçelere göre desteklenen ürünler belli oldu",
+      "url": "https://www.tarimdanhaber.com/havza-destekleri-kirikkale",
+      "source": "Tarımdan Haber",
+      "date": "2026-09-15",
+      "summary": "Kırıkkale'de 2027 üretim yılı için planlamaya konu havza ürün deseni belli oldu. Bahşılı, Balışeyh, Çelebi, Delice, Karakeçili, Keskin, Merkez, Sulakyurt ve Yahşihan ilçelerinde desteklenecek ürünler açıklanırken, yeni dönemde Bahşılı, Sulakyurt ve Yahşihan'ın ürün desenine yağlık ayçiçeği; Balışeyh",
+      "content": "Haber Merkezi / Tarım ve Orman Bakanlığının 2027 üretim yılına yönelik bitkisel üretim planlaması kapsamında Kırıkkale'de ilçelere göre planlamaya konu havza ürünleri belli oldu.\n\nKırıkkale genelinde arpa, buğday, mercimek, nohut ve yem bitkileri 9 ilçenin tamamında planlama kapsamında yer alırken; aspir, yağlık ayçiçeği, kuru fasulye, dane mısır, kuru soğan ve soya üretimi ilçelerin havza koşullarına göre değişkenlik gösteriyor.\n\nTürkiye genelindeki illerde hangi ürünlerin planlama kapsamına alındığını görmek isteyen üreticiler, “Havza destekleri 2027: Hangi ilde hangi ürün destekleniyor?” ana sayfamızdan 81 ilin güncel listesine ulaşabilir.\n\nKIRIKKALE 2027 HAVZA DESTEKLERİ: HANGİ İLÇEDE HANGİ ÜRÜNLER VAR?\n\nBahşılı: Arpa, ayçiçeği (yağlık), buğday, fasulye (kuru), mercimek, nohut, soya, yem bitkileri.\n\nBalışeyh: Arpa, aspir, ayçiçeği (yağlık), buğday, fasulye (kuru), mercimek, nohut, soya, yem bitkileri.\n\nÇelebi: Arpa, ayçiçeği (yağlık), buğday, fasulye (kuru), mercimek, mısır (dane), nohut, soya, yem bitkileri.\n\nDelice: Arpa, ayçiçeği (yağlık), buğday, fasulye (kuru), mercimek, nohut, yem bitkileri.\n\nKarakeçili: Arpa, ayçiçeği (yağlık), buğday, fasulye (kuru), mercimek, mısır (dane), nohut, soya, yem bitkileri.\n\nKeskin: Arpa, ayçiçeği (yağlık), buğday, fasulye (kuru), mercimek, mısır (dane), nohut, soya, yem bitkileri.\n\nMerkez: Arpa, buğday, fasulye (kuru), mercimek, mısır (dane), nohut, soya, yem bitkileri.\n\nSulakyurt: Arpa, aspir, ayçiçeği (yağlık), buğday, fasulye (kuru), mercimek, nohut, soğan (kuru), soya, yem bitkileri.\n\nYahşihan: Arpa, ayçiçeği (yağlık), buğday, fasulye (kuru), mercimek, nohut, soğan (kuru), soya, yem bitkileri.\n\nKIRIKKALE'DE 2027 LİSTESİNDE DİKKAT ÇEKEN DEĞİŞİKLİKLER: YENİ ÜRÜNLER EKLENDİ\n\nKırıkkale'nin önceki havza ürün deseni ile 2027 üretim yılı listesi karşılaştırıldığında üreticileri sevindirecek önemli ilaveler dikkat çekiyor:\n\n3 İlçeye Yağlık Ayçiçeği Eklendi: Önceki listede yağlık ayçiçeği bulunmayan Bahşılı, Sulakyurt ve Yahşihan ilçelerinin 2027 havza desenine yağlık ayçiçeği dahil edildi. Böylece Merkez hariç 8 ilçede yağlık ayçiçeği planlama kapsamına alınmış oldu.\n\nBalışeyh'e Aspir Müjdesi: Önceki dönemde yer almayan aspir, 2027 üretim yılı planlamasında Balışeyh ilçesinin ürün desenine eklendi.\n\nDelice'nin Desenine Kuru Fasulye Dahil Edildi: Önceki tabloda yer almayan kuru fasulye, 2027 listesiyle birlikte Delice ilçesinde de planlamaya konu ürünler arasına girdi. Bu eklemeyle kuru fasulye Kırıkkale'nin tüm ilçelerinde yer bulmuş oldu.\n\nÇelebi, Karakeçili, Keskin ve Merkez'de Değişiklik Yok: Bu 4 ilçede mevcut ürün desenleri 2027 üretim yılında da aynen korundu; listeden herhangi bir ürün çıkarılmadı.\n\nKIRIKKALE'DE İLÇELERE GÖRE ÜRÜN DAĞILIMI\n\nTüm İlçelerde Ortak Olanlar: Arpa, buğday, kuru fasulye, mercimek, nohut ve yem bitkileri 9 ilçenin tamamında ortak ürün deseni olarak belirlendi.\n\nDane Mısır 4 İlçede: Dane mısır yalnızca Çelebi, Karakeçili, Keskin ve Merkez ilçelerinin havza deseninde yer alıyor.\n\nSoya Geniş Alanda Destekleniyor: Delice hariç kalan 8 ilçenin tamamında (Bahşılı, Balışeyh, Çelebi, Karakeçili, Keskin, Merkez, Sulakyurt, Yahşihan) soya planlama kapsamında bulunuyor.\n\nKuru Soğan ve Aspir: Kuru soğan sadece Sulakyurt ve Yahşihan ilçelerinde; aspir ise yalnızca Balışeyh ve Sulakyurt havzalarında yer alıyor."
+    },
     {
       "title": "Karaman havza destekleri 2027: İlçelere göre desteklenen ürünler belli oldu",
       "url": "https://www.tarimdanhaber.com/havza-destekleri-karaman",
@@ -93,14 +101,6 @@
       "date": "2026-09-14",
       "summary": "Çankırı'da 2027 üretim yılı için planlamaya konu havza ürün deseni belli oldu. Atkaracalar, Bayramören, Çerkeş, Eldivan, Ilgaz, Kızılırmak, Korgun, Kurşunlu, Merkez, Orta, Şabanözü ve Yapraklı'da hangi ürünlerin planlama kapsamında olduğu açıklanırken, önceki listeye göre ürün deseninde değişiklik y",
       "content": "Haber Merkezi / Tarım ve Orman Bakanlığının 2027 üretim yılına yönelik bitkisel üretim planlaması kapsamında Çankırı'da ilçelere göre planlamaya konu havza ürünleri belli oldu.\n\nÇankırı'da Atkaracalar, Bayramören, Çerkeş, Eldivan, Ilgaz, Kızılırmak, Korgun, Kurşunlu, Merkez, Orta, Şabanözü ve Yapraklı için belirlenen listelerde arpa, aspir, buğday, nohut ve yem bitkileri bütün ilçelerde yer alırken; mercimek, kuru fasulye ve yağlık ayçiçeği ise ilçelere göre farklılık gösteriyor.\n\nTürkiye genelindeki illerde hangi ürünlerin planlama kapsamına alındığını görmek isteyen üreticiler, “Havza destekleri 2027: Hangi ilde hangi ürün destekleniyor?” ana sayfamızdan 81 ilin güncel listesine ulaşabilir.\n\nÇANKIRI 2027 HAVZA DESTEKLERİ: HANGİ İLÇEDE HANGİ ÜRÜNLER VAR?\n\nAtkaracalar: Arpa, aspir, buğday, mercimek, nohut, yem bitkileri.\n\nBayramören: Arpa, aspir, buğday, mercimek, nohut, yem bitkileri.\n\nÇerkeş: Arpa, aspir, buğday, mercimek, nohut, yem bitkileri.\n\nEldivan: Arpa, aspir, buğday, mercimek, nohut, yem bitkileri.\n\nIlgaz: Arpa, aspir, buğday, mercimek, nohut, yem bitkileri.\n\nKızılırmak: Arpa, aspir, ayçiçeği (yağlık), buğday, fasulye (kuru), mercimek, nohut, yem bitkileri.\n\nKorgun: Arpa, aspir, buğday, fasulye (kuru), nohut, yem bitkileri.\n\nKurşunlu: Arpa, aspir, buğday, mercimek, nohut, yem bitkileri.\n\nMerkez: Arpa, aspir, ayçiçeği (yağlık), buğday, mercimek, nohut, yem bitkileri.\n\nOrta: Arpa, aspir, buğday, mercimek, nohut, yem bitkileri.\n\nŞabanözü: Arpa, aspir, buğday, fasulye (kuru), mercimek, nohut, yem bitkileri.\n\nYapraklı: Arpa, aspir, buğday, mercimek, nohut, yem bitkileri.\n\nÇANKIRI'DA 2027 ÜRÜN DESENİNDE DEĞİŞİKLİK YOK\n\nÇankırı'nın önceki havza ürün deseni ile 2027 üretim yılı listesi karşılaştırıldığında, 12 ilçenin hiçbirinde planlamaya konu ürünler açısından herhangi bir değişiklik olmadığı görülüyor.\n\nAtkaracalar'dan Yapraklı'ya kadar tüm ilçelerin mevcut ürün desenleri 2027 üretim yılında da aynen korunuyor.\n\nBuna göre önceki listede planlama kapsamında bulunan ürünlerin tamamı 2027 listesinde yer almaya devam ederken, hiçbir ilçeye yeni ürün eklenmediği ve mevcut hiçbir ürünün listeden çıkarılmadığı belirlendi.\n\nÇANKIRI'DA İLÇELERE GÖRE ÜRÜN DESENİ FARKLILAŞIYOR\n\nListe incelendiğinde arpa, aspir, buğday, nohut ve yem bitkilerinin Çankırı'nın 12 ilçesinin tamamında planlamaya konu ortak ürünler olduğu görülüyor. Diğer ürünlerde ise ilçelerin tarımsal ve coğrafi yapısına göre dağılım şu şekilde şekilleniyor:\n\nMercimek: Korgun haricindeki 11 ilçenin (Atkaracalar, Bayramören, Çerkeş, Eldivan, Ilgaz, Kızılırmak, Kurşunlu, Merkez, Orta, Şabanözü, Yapraklı) tamamında listede yer alıyor. Korgun'da ise mercimek yerine kuru fasulye bulunuyor.\n\nYağlık Ayçiçeği: İl genelinde yalnızca Kızılırmak ve Merkez ilçelerinin havza deseninde yer alıyor.\n\nKuru Fasulye: Yalnızca Kızılırmak, Korgun ve Şabanözü ilçelerinde planlamaya konu ürünler arasında bulunuyor."
-    },
-    {
-      "title": "Kayseri havza destekleri 2027: İlçelere göre desteklenen ürünler belli oldu",
-      "url": "https://www.tarimdanhaber.com/havza-destekleri-kayseri",
-      "source": "Tarımdan Haber",
-      "date": "2026-09-13",
-      "summary": "Kayseri'de 2027 üretim yılı için planlamaya konu havza ürün deseni belli oldu. Kayseri'nin 16 ilçesinde destekleme ve üretim planlaması açısından önem taşıyan ürünler belirlenirken, 2027 listesinde iki ilçede dikkat çeken değişiklik yapıldı. Bünyan ve Yeşilhisar'da kuru soğan planlamaya konu ürünler",
-      "content": "Haber Merkezi / Tarım ve Orman Bakanlığının 2027 üretim yılına yönelik bitkisel üretim planlaması kapsamında Kayseri'de ilçelere göre planlamaya konu havza ürünleri belli oldu.\n\nKayseri'nin Akkışla, Bünyan, Develi, Felahiye, Hacılar, İncesu, Kocasinan, Melikgazi, Özvatan, Pınarbaşı, Sarıoğlan, Sarız, Talas, Tomarza, Yahyalı ve Yeşilhisar ilçeleri için 2027 üretim yılında geçerli olacak ürün desenleri belirlendi.\n\nTürkiye genelinde hangi il ve ilçede hangi ürünlerin planlama kapsamında olduğunu merak eden üreticiler, “Havza destekleri 2027: Hangi ilde hangi ürün destekleniyor?” ana sayfamızdan 81 ilin güncel listesine ulaşabilir.\n\nKAYSERİ'DE 2027 LİSTESİNDE İKİ DEĞİŞİKLİK\n\nKayseri'nin önceki havza ürün deseni ile 2027 üretim yılı listesi karşılaştırıldığında 16 ilçeden 14'ünde ürünlerin aynı kaldığı, Bünyan ve Yeşilhisar'da ise ürün deseninin genişletildiği görülüyor.\n\nHer iki ilçede de değişiklik kuru soğanda yapıldı.\n\nBünyan'ın önceki listesinde arpa, aspir, buğday, kuru fasulye, mercimek, nohut, patates ve yem bitkileri bulunurken, 2027 yılında bu ürünlere kuru soğan da eklendi.\n\nYeşilhisar'da ise arpa, aspir, buğday, kuru fasulye, mercimek, dane mısır, nohut, patates ve yem bitkilerinden oluşan ürün desenine 2027 üretim yılıyla birlikte kuru soğan dahil edildi.\n\nBöylece kuru soğan, hem Bünyan hem de Yeşilhisar'da planlamaya konu havza ürünleri arasına girmiş oldu.\n\nKAYSERİ 2027 HAVZA DESTEKLERİ: HANGİ İLÇEDE HANGİ ÜRÜNLER VAR?\n\nAkkışla: Arpa, aspir, buğday, kuru fasulye, mercimek, nohut, yem bitkileri.\n\nBünyan: Arpa, aspir, buğday, kuru fasulye, mercimek, nohut, patates, kuru soğan, yem bitkileri.\n\nDeveli: Arpa, aspir, buğday, kuru fasulye, mercimek, dane mısır, nohut, patates, yem bitkileri.\n\nFelahiye: Arpa, aspir, buğday, kuru fasulye, mercimek, nohut, yem bitkileri.\n\nHacılar: Arpa, aspir, buğday, yem bitkileri.\n\nİncesu: Arpa, aspir, buğday, kuru fasulye, dane mısır, nohut, patates, yem bitkileri.\n\nKocasinan: Arpa, aspir, buğday, kuru fasulye, mercimek, nohut, yem bitkileri.\n\nMelikgazi: Arpa, aspir, buğday, kuru fasulye, mercimek, nohut, yem bitkileri.\n\nÖzvatan: Arpa, aspir, buğday, kuru fasulye, mercimek, nohut, yem bitkileri.\n\nPınarbaşı: Arpa, aspir, buğday, kuru fasulye, mercimek, nohut, patates, yem bitkileri.\n\nSarıoğlan: Arpa, aspir, buğday, kuru fasulye, mercimek, nohut, patates, yem bitkileri.\n\nSarız: Arpa, aspir, buğday, kuru fasulye, nohut, patates, yem bitkileri.\n\nTalas: Arpa, aspir, buğday, kuru fasulye, nohut, patates, yem bitkileri.\n\nTomarza: Arpa, aspir, buğday, kuru fasulye, mercimek, nohut, patates, yem bitkileri.\n\nYahyalı: Arpa, aspir, buğday, kuru fasulye, dane mısır, nohut, yem bitkileri.\n\nYeşilhisar: Arpa, aspir, buğday, kuru fasulye, mercimek, dane mısır, nohut, patates, kuru soğan, yem bitkileri.\n\nKURU SOĞAN BÜNYAN VE YEŞİLHİSAR'DA 2027 LİSTESİNE GİRDİ\n\n2027 listesinin Kayseri açısından en dikkat çekici tarafını kuru soğan oluşturuyor.\n\nÖnceki ürün deseninde Bünyan ve Yeşilhisar için kuru soğan bulunmazken, yeni listede her iki ilçede de kuru soğan açık şekilde yer aldı. Böylece bu iki ilçenin 2027 üretim yılı havza ürün deseninde değişikliğe gidilmiş oldu.\n\nDiğer ilçeler incelendiğinde ise önceki listede bulunan ürünlerin korunduğu, herhangi bir ürünün çıkarılmadığı veya yeni bir ürün eklenmediği görülüyor.\n\nKAYSERİ'DE DANE MISIR HANGİ İLÇELERDE PLANLAMA KAPSAMINDA?\n\n2027 ürün desenine göre dane mısır Kayseri'nin Develi, İncesu, Yahyalı ve Yeşilhisar ilçelerinde planlamaya konu ürünler arasında bulunuyor.\n\nPatates ise Bünyan, Develi, İncesu, Pınarbaşı, Sarıoğlan, Sarız, Talas, Tomarza ve Yeşilhisar'da listede yer alıyor.\n\nKuru fasulye de Kayseri'nin 16 ilçesinden Hacılar dışındaki ilçelerin tamamında 2027 ürün deseninde bulunuyor."
     }
   ],
   "commoditiesByBorsa": {
@@ -309,6 +309,16 @@
   "errors": [
     "borsa 5ED10: fetch failed",
     "borsa 5KO10: fetch failed",
-    "borsa 5ES10: fetch failed"
+    "borsa 5ES10: fetch failed",
+    "mazot ANKARA: fetch failed",
+    "mazot ISTANBUL: fetch failed",
+    "mazot IZMIR: fetch failed",
+    "mazot KONYA: fetch failed",
+    "mazot ADANA: fetch failed",
+    "mazot BURSA: fetch failed",
+    "mazot ANTALYA: fetch failed",
+    "mazot SAMSUN: fetch failed",
+    "mazot TEKIRDAG: fetch failed",
+    "mazot CANAKKALE: fetch failed"
   ]
 }
