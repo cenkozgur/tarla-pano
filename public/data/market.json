@@ -1,43 +1,51 @@
 {
-  "updatedAt": "2026-09-22T05:25:31.913Z",
+  "updatedAt": "2026-09-22T10:13:42.792Z",
   "fx": [
     {
       "code": "USD",
       "name": "Dolar",
       "buy": 48.81,
       "sell": 48.83,
-      "change": 0.04
+      "change": 0.05
     },
     {
       "code": "EUR",
       "name": "Euro",
-      "buy": 56.03,
-      "sell": 56.1,
-      "change": 0.15
+      "buy": 56.01,
+      "sell": 56.02,
+      "change": 0.07
     },
     {
       "code": "GRA",
       "name": "Gram Altın",
-      "buy": 6800.18,
-      "sell": 6801.16,
+      "buy": 6800.28,
+      "sell": 6801.14,
       "change": -0.2
     },
     {
       "code": "CEYREKALTIN",
       "name": "Çeyrek Altın",
-      "buy": 10826.04,
-      "sell": 11073.13,
-      "change": 0
+      "buy": 10834.81,
+      "sell": 11082.11,
+      "change": 0.08
     },
     {
       "code": "CUMHURIYETALTINI",
       "name": "Cumhuriyet Altını",
-      "buy": 44856,
-      "sell": 45554,
-      "change": -0.82
+      "buy": 44756,
+      "sell": 45454,
+      "change": -0.22
     }
   ],
   "news": [
+    {
+      "title": "İngiltere tarım desteğinde sistemi değiştirdi: Artık tarlaya değil yapılan işe ödeme yapıyor",
+      "url": "https://www.tarimdanhaber.com/ingiltere-tarim-desteginde-sistemi-degistirdi-artik-tarlaya-degil-yapilan-ise-odeme-yapiyor",
+      "source": "Tarımdan Haber",
+      "date": "2026-09-22",
+      "summary": "İngiltere'nin Brexit sonrasında tarımsal destek sisteminde yaptığı değişiklik Türkiye açısından da dikkat çekici bir karşılaştırma ortaya koyuyor. Tarım Politikaları Uzmanı Ergin Kahveci'nin analizine göre İngiltere, doğrudan arazi temelli destekleri azaltırken çiftçinin toprak sağlığı, düşük girdil",
+      "content": "Haber Merkezi / Türkiye'de tarımsal desteklerin nasıl verilmesi gerektiği tartışılırken İngiltere'deki dönüşüm farklı bir destekleme modelini gündeme getiriyor.\n\nTarım Politikaları Uzmanı Ergin Kahveci, Türkiye ile İngiltere'nin tarımsal destek sistemlerini karşılaştırdığı çalışmasında yalnızca bütçe büyüklüğüne değil, paranın hangi amaçla çiftçiye ödendiğine de dikkat çekti.\n\nİlgili Haber → Türkiye tarıma İngiltere’den fazla para ayırıyor ama çiftçiye 17,8 kat daha az düşüyor!\n\nİngiltere, Brexit sonrasında Avrupa Birliği'nin Ortak Tarım Politikası kapsamında uygulanan arazi temelli doğrudan ödeme sisteminden kademeli olarak uzaklaşmaya başladı.\n\nYeni sistemde kamu kaynağının yönü çevre ve sürdürülebilirlik uygulamalarına çevriliyor.\n\nToprağı koruyana, merayı düşük girdili yönetene destek\n\nİngiltere'deki Sustainable Farming Incentive (SFI), çiftçiye yalnızca tarım arazisine sahip olduğu veya araziyi işlettiği için ödeme yapılması yerine belirli faaliyetlerin yerine getirilmesini esas alıyor.\n\nKahveci'nin aktardığı verilere göre destek kapsamındaki uygulamalar arasında toprak sağlığının korunması, çitlerin bakımı, kuşlar için yem alanlarının oluşturulması, baklagil nadası ve çok yıllık otlakların yönetimi gibi faaliyetler bulunuyor.\n\nKahveci bu değişimi dikkat çekici bir ifadeyle özetledi: Yeni sistemin odağında tarlanın veya ahırın yalnızca varlığı değil, orada gerçekleştirilen faaliyet bulunuyor.\n\nDoğrudan ödeme 811 milyon sterlinden 265 milyona düştü\n\nRakamlar da İngiltere'nin destek bütçesinin yön değiştirdiğini gösteriyor.\n\nKahveci'nin aktardığı verilere göre 2024-25 döneminde 2 milyar 614 milyon sterlin olan program bütçesi, 2025-26 döneminde 2 milyar 322 milyon sterlin seviyesinde.\n\nAncak bütçenin içindeki dağılım önemli ölçüde değişiyor.\n\nDoğrudan ödeme niteliğindeki kalem 811 milyon sterlinden 265 milyon sterline gerilerken, SFI kapsamındaki harcamalar 305 milyon sterlinden 738 milyon sterline yükseliyor.\n\nTarım-çevre kapsamındaki toplam harcama ise 1 milyar 396 milyon sterlinden 1 milyar 819 milyon sterline çıkıyor.\n\nYani destek tamamen ortadan kalkmıyor; paranın hangi faaliyet karşılığında ödendiği değişiyor.\n\n3,2 milyon hektar yeni sistem kapsamında\n\nKahveci'nin aktardığı Kasım 2025 verilerine göre SFI kapsamında 44 bin 500 anlaşma, 35 bin 600 işletme ve yaklaşık 3,2 milyon hektarlık alan bulunuyor.\n\nBunun içinde 977 bin hektar ilaçsız tarla, 371 bin 400 hektar düşük girdili mera ve 168 bin 600 kilometre çit yer alıyor.\n\nBu rakamlar İngiltere'nin tarımsal destek politikasının üretim miktarının yanı sıra arazi yönetimi ve çevresel çıktıları da destekleme kriteri haline getirdiğini gösteriyor.\n\nTürkiye'de desteklerin odağında ne var?\n\nKahveci'nin karşılaştırmasına göre Türkiye'nin 2025 yılı destek sistemi ise alan/arazi, mazot-gübre, fark ödemeleri ve hayvancılık gibi üretim ve girdi odaklı kalemler üzerinden ilerledi.\n\nKahveci, İngiltere'nin destekleri giderek şartlı çevresel faaliyetlere yönlendirdiğine, Türkiye'nin ise 2025 itibarıyla üretim ve girdi eksenindeki destek yapısını sürdürdüğüne dikkat çekti.\n\nBurada İngiltere modelinin Türkiye için doğrudan “daha iyi” olduğu sonucuna varmamak önemli. İki ülkenin işletme yapıları, üretim desenleri ve destekleme hedefleri farklı. Nitekim Kahveci de İngiltere'deki dönüşümün bazı ürün grupları açısından maliyetler doğurduğuna dikkat çekiyor.\n\nAncak İngiltere örneği, Türkiye açısından önemli bir soruyu gündeme getiriyor: Tarımsal destek, çiftçinin hangi girdiyi kullandığına mı, ne kadar araziye sahip olduğuna mı, yoksa üretim sırasında ortaya koyduğu ölçülebilir sonuçlara mı bağlanmalı?\n\nKahveci'ye göre destek tek başına çözüm değil\n\nKahveci'nin analizindeki temel vurgu ise destekleme sisteminin ötesinde.\n\nKahveci, tarımda asıl meselenin piyasa düzeni ve fiyat oluşumu olduğunu, desteklemelerin ise bu sistemin sürdürülebilirliğini sağlayabilecek araçlardan yalnızca biri olduğunu savunuyor.\n\nDolayısıyla İngiltere örneğinin Türkiye açısından ortaya çıkardığı tartışma yalnızca “çiftçiye ne kadar para veriliyor?” sorusu değil; “Kamu kaynağı hangi üretim davranışını ve hangi sonucu teşvik ediyor?” sorusu."
+    },
     {
       "title": "Pancar fiyatında 3.700 TL hesabı: Çiftçiyi kurtaracak mı, fabrikayı zarara mı sokacak?",
       "url": "https://www.tarimdanhaber.com/pancar-fiyatinda-3700-tl-hesabi-ciftciyi-kurtaracak-mi-fabrikayi-zarara-mi-sokacak",
@@ -93,14 +101,6 @@
       "date": "2026-09-19",
       "summary": "Erzincan Tarım ve Orman İl Müdürü Alper Koçaker kimdir, nereli ve hangi görevlerde bulundu? 2025 yılında Erzincan İl Tarım ve Orman Müdürlüğüne atanan Koçaker, gıda mühendisliği eğitiminden ilçe müdürlüğüne uzanan meslek hayatının ardından il müdürlüğü görevine getirildi. İşte Alper Koçaker’in özgeç",
       "content": "Haber Merkezi / Alper Koçaker, 30 Temmuz 1980 tarihinde Ankara’da doğdu. Ankara Üniversitesi Ziraat Fakültesi Gıda Mühendisliği Bölümünden 2003 yılında mezun olan Koçaker, ayrıca Anadolu Üniversitesi İşletme Fakültesi İşletme Bölümünü tamamladı.\n\nMeslek hayatına özel sektörde başlayan Koçaker, 2003-2005 yılları arasında Onay Gıda ve Laboratuvar Hizmetleri A.Ş.'de laboratuvar müdürü olarak görev yaptı. 2005 yılında Meyve Suyu Endüstrisi Derneğinde (MEYED) genel sekreterlik görevinde bulundu.\n\nTarım Bakanlığındaki görevine 2005 yılında başladı\n\nAlper Koçaker, 16 Eylül 2005 tarihinde Ankara İl Tarım ve Orman Müdürlüğünde gıda mühendisi olarak kamu görevine başladı. Buradaki görevini 2011 yılına kadar sürdürdü.\n\n15 Eylül 2011'de Altındağ İlçe Tarım ve Orman Müdürlüğüne gıda mühendisi olarak geçen Koçaker, 25 Nisan 2018'de Altındağ İlçe Tarım ve Orman Müdür Vekili oldu.\n\nKoçaker, 2 Ocak 2020'den 26 Ocak 2025'e kadar Altındağ İlçe Tarım ve Orman Müdürü olarak görev yaptı.\n\nErzincan İl Tarım ve Orman Müdürlüğüne atandı\n\nUzun yıllar Ankara'da görev yapan Alper Koçaker, 27 Ocak 2025 tarihinde Erzincan İl Tarım ve Orman Müdür Vekili olarak görevlendirildi.\n\nKoçaker, 9 Nisan 2025 tarihli ve 2025/111 sayılı Cumhurbaşkanı Kararı ile Erzincan İl Tarım ve Orman Müdürü olarak atandı.\n\nGıda güvenliği, gıda kontrolü ve kalite yönetim sistemleri başta olmak üzere çok sayıda eğitim ve çalışmada yer alan Koçaker, çeşitli dönemlerde eğitmen olarak da görev yaptı. 2025 yılında Erzincan Valiliği tarafından başarı belgesiyle ödüllendirildi.\n\nİngilizce bilen Alper Koçaker, evli ve iki çocuk babası.\n\nTarım İl Müdürleri kimler?\n\nTarım ve Orman Bakanlığının 81 ilde görev yapan il müdürlerine ilişkin güncel isimlere ve özgeçmişlerine [Tarım ve Orman İl Müdürleri] sayfamızdan ulaşabilirsiniz."
-    },
-    {
-      "title": "Batıkent Alzheimer Sosyal Yaşam Merkezi açıldı Özel İlanı",
-      "url": "https://www.tarimdanhaber.com/batikent-alzheimer-sosyal-yasam-merkezi-acildi-ozel-ilani",
-      "source": "Tarımdan Haber",
-      "date": "2026-09-18",
-      "summary": "Ankara Büyükşehir Belediyesinin; 'Batıkent Alzheimer Sosyal Yaşam Merkezi açıldı' adlı özel ilanı.",
-      "content": "Ankara Büyükşehir Belediyesinin, 'Batıkent Alzheimer Sosyal Yaşam Merkezi açıldı' adlı özel ilanı, 19 Eylül 2026 tarihinde bir gün yayınlandı."
     }
   ],
   "commoditiesByBorsa": {
