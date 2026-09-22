@@ -1,26 +1,26 @@
 {
-  "updatedAt": "2026-09-22T00:39:53.652Z",
+  "updatedAt": "2026-09-22T05:25:31.913Z",
   "fx": [
     {
       "code": "USD",
       "name": "Dolar",
       "buy": 48.81,
-      "sell": 48.82,
+      "sell": 48.83,
       "change": 0.04
     },
     {
       "code": "EUR",
       "name": "Euro",
-      "buy": 55.99,
-      "sell": 56.06,
-      "change": 0.08
+      "buy": 56.03,
+      "sell": 56.1,
+      "change": 0.15
     },
     {
       "code": "GRA",
       "name": "Gram Altın",
-      "buy": 6834.09,
-      "sell": 6835.02,
-      "change": 0.3
+      "buy": 6800.18,
+      "sell": 6801.16,
+      "change": -0.2
     },
     {
       "code": "CEYREKALTIN",
@@ -271,7 +271,7 @@
       "name": "Motorin (mazot)",
       "unit": "₺/lt",
       "price": 98.1,
-      "change": 0.1,
+      "change": 0,
       "source": "CANAKKALE ort."
     },
     {
