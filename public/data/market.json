@@ -1,43 +1,51 @@
 {
-  "updatedAt": "2026-09-24T14:13:13.749Z",
+  "updatedAt": "2026-09-24T18:25:48.578Z",
   "fx": [
     {
       "code": "USD",
       "name": "Dolar",
-      "buy": 488506,
-      "sell": 488603,
-      "change": 6
+      "buy": 48.85,
+      "sell": 48.86,
+      "change": 0.05
     },
     {
       "code": "EUR",
       "name": "Euro",
-      "buy": 55709,
-      "sell": 557186,
-      "change": 16
+      "buy": 55.64,
+      "sell": 55.71,
+      "change": 0.09
     },
     {
       "code": "GRA",
       "name": "Gram Altın",
-      "buy": 670399,
-      "sell": 670484,
-      "change": -38
+      "buy": 6705.19,
+      "sell": 6706,
+      "change": -0.36
     },
     {
       "code": "CEYREKALTIN",
       "name": "Çeyrek Altın",
-      "buy": 106967,
-      "sell": 1094095,
-      "change": -47
+      "buy": 10696.7,
+      "sell": 10940.95,
+      "change": -0.47
     },
     {
       "code": "CUMHURIYETALTINI",
       "name": "Cumhuriyet Altını",
       "buy": 44465,
       "sell": 45137,
-      "change": -17
+      "change": -0.17
     }
   ],
   "news": [
+    {
+      "title": "Hüseyin Aydın’dan marketlerde ucuzluk için “dahiyane” çözüm! Tarım Kredi’nin deposunda aracının da aracısı var",
+      "url": "https://www.tarimdanhaber.com/huseyin-aydindan-marketlerde-ucuzluk-icin-dahiyane-cozum-tarim-kredinin-deposunda-aracinin-da-aracisi-var",
+      "source": "Tarımdan Haber",
+      "date": "2026-09-24",
+      "summary": "Tarım Kredi Market’in Diyarbakır deposu yaklaşık 250-300 milyon liralık yatırımla yeniden faaliyete geçirildi. Ancak marketlere ürün dağıtacak deponun işletmesi bir firmaya verildi, o firma da operasyonu alt yükleniciye devretti. Finansçı Tarım Kredi Genel Müdürü Hüseyin Aydın döneminde hayata geçir",
+      "content": "Haber Merkezi / Tarım Kredi Market'in yıllar önce kapatılan Diyarbakır deposu yeniden faaliyete geçirildi. Deponun yeniden açılması için yaklaşık 250-300 milyon liralık yatırım yapıldı.\n\nMarketlere ürün sevkiyatının gerçekleştirileceği deponun yatırım ve kurulum maliyetleri Tarım Kredi Market tarafından karşılandı.\n\nAncak yatırım tamamlanıp depo faaliyete geçtiğinde dikkat çekici bir işletme modeli ortaya çıktı.\n\nTarım Kredi, yüz milyonlarca lira harcadığı deposunu kendi personeli ve organizasyonuyla işletmek yerine işletme ve lojistik hizmetlerini dışarıdan bir firmaya verdi.\n\nDEPO TARIM KREDİ'NİN AMA ÇALIŞANLAR BAŞKA FİRMANIN\n\nEdinilen bilgilere göre Diyarbakır deposunun işletme ve lojistik hizmetleri Sürat firmasına verildi.\n\nAncak aracı zinciri bununla da sınırlı kalmadı.\n\nSürat'ın depo operasyonunda Yıltur firmasını alt yüklenici olarak kullandığı öğrenildi.\n\nBöylelikle Tarım Kredi Market'in kendi mağazalarına ürün göndermek amacıyla yüz milyonlarca lira yatırım yaptığı bir depoda operasyon, Tarım Kredi personeli yerine dışarıdan hizmet alınan şirketlerin çalışanları üzerinden yürütülmeye başlandı.\n\nOrtaya dikkat çeken bir tablo çıktı. Depo Tarım Kredi'nin, yatırım Tarım Kredi'nin, ürün Tarım Kredi'nin, marketler Tarım Kredi'nin ama işletmede aracının da aracısı var!\n\nHÜSEYİN AYDIN'IN “ARACI” SÖZLERİ DİKKAT ÇEKİYOR\n\nDiyarbakır'daki model, Tarım Kredi Genel Müdürü Hüseyin Aydın'ın geçmişte yaptığı açıklamalarla birlikte değerlendirildiğinde daha da dikkat çekici hale geliyor.\n\nAydın, Tarım Kredi'nin 2025 yılı sonuçlarını açıklarken çiftçileri “aracılardan, fırsatçılardan ve piyasadaki dalgalanmalardan koruyarak” faaliyet gösterdiklerini söylemişti.\n\nDiyarbakır deposunda ortaya çıkan model ise bu kez başka bir “aracı” tartışmasını beraberinde getirdi.\n\nARACIYI KALDIRMAK BİR YANA, ARACININ DA ARACISI VAR!\n\nTarım Kredi'nin market yapılanmasının temel ekonomik gerekçelerinden biri üretici ile tüketici arasındaki zinciri daha etkin hale getirmek. Nitekim Aydın da Tarım Kredi'nin kendi ürünlerini işleyerek KOOP aracılığıyla nihai tüketiciye ulaştırdığını ifade ediyor.\n\nAncak Diyarbakır'daki depo modeli farklı bir soruyu gündeme getiriyor.\n\nTarım Kredi'nin yatırımını yaptığı ve kendi marketlerine kendi ürünlerini göndereceği bir depo neden kendi personeli tarafından işletilmiyor?\n\nDahası, işletme hizmetinin verildiği firma operasyonu başka bir alt yüklenici üzerinden yürütüyorsa, Tarım Kredi'nin lojistik zincirinde kaç şirket para kazanıyor?\n\nBu şirketlere ne kadar ödeme yapılıyor?\n\nTarım Kredi'nin depoyu kendi personeliyle işletmesinin maliyeti ile mevcut sistemin maliyeti karşılaştırıldı mı?\n\nVe en önemlisi, araya giren her şirketin bir maliyeti varsa bu maliyet en sonunda kimin üzerine kalıyor?\n\nGIDA FİYATLARI BÖYLE Mİ UCUZLAYACAK?\n\nMeselenin tüketici açısından önemi de burada ortaya çıkıyor.\n\nTarım Kredi Marketlerden tüketicinin temel beklentisi, özellikle temel gıda ürünlerinin piyasaya mümkün olduğunca uygun maliyetle ulaştırılması.\n\nAncak Diyarbakır'da ortaya çıkan sistemde Tarım Kredi önce yüz milyonlarca liralık yatırımla depoyu kuruyor, ardından işletmesini dışarıdan bir firmaya veriyor. O firma da operasyon için başka bir firmayı devreye sokuyor.\n\nDolayısıyla şu sorunun yanıtlanması gerekiyor; 'Tarım Kredi'nin kendi yapabileceği bir işte yüklenici ve alt yüklenici şirketlere yapılan ödemeler lojistik maliyetini düşürüyor mu, yoksa sisteme yeni maliyet kalemleri mi ekliyor?'\n\nSİSTEM TUTARSA DİĞER DEPOLARA DA YAYILACAK\n\nDiyarbakır'daki uygulamayı daha önemli hale getiren ise modelin yalnızca bu depoyla sınırlı kalmayabileceğine ilişkin bilgiler.\n\nEdinilen bilgilere göre, Diyarbakır'daki sistemin başarılı bulunması halinde Tarım Kredi Market'in diğer depolarında da benzer modele geçilmesi planlanıyor.\n\nBu durumda mesele tek bir deponun kim tarafından işletildiğinin çok ötesine geçiyor.\n\nTarım Kredi Market'in depo ve lojistik yapılanmasının önemli bir bölümünün ilerleyen dönemde dışarıdan hizmet alımı ve alt yükleniciler üzerinden yürütülmesi söz konusu olabilecek.\n\nFİNANSÇI HÜSEYİN AYDIN BU HESABI AÇIKLAMALI\n\nYıllarca Türkiye'nin en büyük bankalarında yöneticilik yapan Hüseyin Aydın'ın finans ve maliyet hesabı konusundaki geçmişi düşünüldüğünde, Diyarbakır'daki modelin ekonomik gerekçesinin rakamlarla ortaya konulması önem taşıyor.\n\nTarım Kredi Market Diyarbakır deposunu kendi personeliyle işletseydi yıllık maliyeti ne olacaktı?\n\nAna yükleniciye yıllık ne kadar ödenecek? Alt yüklenicinin sistemdeki payı ne kadar?\n\nİki model arasında Tarım Kredi lehine ne kadarlık tasarruf sağlanıyor?\n\nEğer dışarıdan hizmet alımı gerçekten daha ekonomikse bunun rakamlarla ortaya konulması, model diğer depolara yaygınlaştırılacaksa daha da önem kazanıyor.\n\nAksi halde tüketicinin soracağı soru değişmeyecek:\n\nGıda fiyatları böyle mi ucuzlayacak? Tarım Kredi'nin kendi deposunda neden aracının da aracısı var?"
+    },
     {
       "title": "Avrupa'da çiftçiye destek mesajı: Yüzde 48'i tarım desteklerinin artırılmasını istiyor",
       "url": "https://www.tarimdanhaber.com/avrupada-ciftciye-destek-mesaji-yuzde-48i-tarim-desteklerinin-artirilmasini-istiyor",
@@ -93,14 +101,6 @@
       "date": "2026-09-23",
       "summary": "2027 yılı tarım destekleri belli oldu. Temel destek dekara 442 liraya çıkarılırken, planlı üretim kapsamında buğday, arpa ve mısırda toplam destek 1.149 lira; ayçiçeği ve kuru fasulyede 1.326 lira; patates, kuru soğan ve aspirde 884 lira oldu. Nohut ve mercimekte ise ilave planlı üretim desteğiyle ö",
       "content": "Haber Merkezi / 2027 üretim yılında çiftçiye ödenecek bitkisel üretim desteklerinin tutarları belli oldu. 8 Eylül 2026 tarihli Resmi Gazete'de yayımlanan Cumhurbaşkanı Kararı ile hem 2026 üretim yılı destekleri güncellendi hem de 2027 üretim yılı destek katsayısı dekara 442 TL olarak belirlendi.\n\nYeni destekleme modelinde çiftçinin alacağı ödeme yalnızca temel destekten oluşmuyor. Üretim planlaması kapsamındaki ürünlerde temel desteğe planlı üretim desteği de ekleniyor. Sertifikalı tohum kullanan ve ilgili şartları sağlayan üreticiler için ise ayrıca sertifikalı tohum kullanım desteği bulunuyor.\n\nBu nedenle 2027'de çiftçinin alacağı destek, hangi ürünü yetiştirdiğine ve üretimin planlamaya konu tarım havzasında yapılıp yapılmadığına göre değişiyor.\n\n2027 TEMEL DESTEK DEKARA 442 LİRA OLDU\n\nBitkisel üretimde desteklerin hesaplanmasında kullanılan temel destek katsayısı 2026 üretim yılı için daha önce 310 TL/dekar olarak açıklanmıştı.\n\n8 Eylül 2026 tarihli düzenlemeyle 2026 yılı için bu tutar 367 TL/dekara yükseltildi.\n\nAynı kararla 2027 üretim yılı için destek katsayısı ise 442 TL/dekar olarak belirlendi.\n\n2027 üretim yılına ilişkin destek ödemeleri 2028 yılı bütçesinden yapılacak.\n\n2027'DE HANGİ ÜRÜNE NE KADAR DESTEK VERİLECEK?\n\nPlanlı üretim kapsamındaki ürünlerde temel destek ile planlı üretim desteği birlikte değerlendirildiğinde 2027 yılı için ortaya çıkan tutarlar şöyle:\n\nÖnemli: Bu tabloda yer alan rakamlar temel destek ile planlı üretim desteğinin toplamını gösteriyor. Sertifikalı tohum kullanım desteği gibi şartlara bağlı diğer destekler bu rakamlara dahil değil.\n\n2027 BUĞDAY DESTEĞİ NE KADAR?\n\n2027 üretim yılında planlama kapsamında buğday üreten çiftçiye temel ve planlı üretim desteği kapsamında toplam dekara 1.149 TL ödeme yapılacak.\n\nBuna göre:\n\n50 dekar buğday: 57.450 TL\n\n100 dekar buğday: 114.900 TL\n\n250 dekar buğday: 287.250 TL\n\n500 dekar buğday: 574.500 TL\n\nBuğdayın üreticinin bulunduğu havzada planlama kapsamında olması, planlı üretim desteği açısından belirleyici olacak.\n\n2027 ARPA DESTEĞİ NE KADAR?\n\nArpada da 2027 yılında temel ve planlı üretim desteği toplamı dekara 1.149 TL olacak.\n\n100 dekar planlamaya uygun arpa üretimi yapan çiftçi için iki destek kaleminin toplamı 114.900 TL olarak hesaplanıyor.\n\n250 dekarda tutar 287.250 TL'ye, 500 dekarda ise 574.500 TL'ye ulaşıyor.\n\n2027 MISIR DESTEĞİ NE KADAR?\n\nPlanlama kapsamındaki mısır üretiminde de 2027 yılı temel ve planlı üretim desteği toplamı 1.149 TL/dekar.\n\nBuna göre 100 dekar için 114.900 TL, 500 dekar için 574.500 TL destek hesabı ortaya çıkıyor.\n\nAncak özellikle su kısıtı bulunan tarım havzalarında ürün deseni ve üretim şartlarının ayrıca dikkate alınması gerekiyor.\n\nNOHUT DESTEĞİ 2027'DE DEKARA 1.326 LİRAYA ÇIKTI\n\n2027 desteklerinde en dikkat çekici değişikliklerden biri nohut ve mercimekte yapıldı.\n\nYeni düzenlemeyle ilgili üretim yılında planlama kapsamında bulunan mercimek ve nohudu, belirlenen tarım havzalarında yetiştiren çiftçilere ürünün bulunduğu kategoriye karşılık gelen destek katsayısının yüzde 100'ü kadar ilave planlı üretim desteği ödenecek.\n\nBunun sonucunda nohutta 2027 üretim yılı için temel ve planlı üretim desteği toplamı 1.326 TL/dekara çıkıyor.\n\nBuna göre:\n\n50 dekar nohut: 66.300 TL\n\n100 dekar nohut: 132.600 TL\n\n250 dekar nohut: 331.500 TL\n\n500 dekar nohut: 663.000 TL\n\n2027 MERCİMEK DESTEĞİ NE KADAR?\n\nMercimekte de 2027 yılında temel ve planlı üretim desteği toplamı dekara 1.326 TL olacak.\n\n100 dekar planlamaya uygun mercimek üretimi için bu iki destek kaleminin toplamı 132.600 TL, 250 dekarda 331.500 TL, 500 dekarda ise 663.000 TL olarak hesaplanıyor.\n\nMercimek ve nohutta getirilen ilave planlı üretim desteğinin uygulanabilmesi için ürünün ilgili tarım havzasında planlama kapsamında bulunması gerekiyor.\n\nAYÇİÇEĞİ VE KURU FASULYE DESTEĞİ 1.326 LİRA\n\n2027 üretim yılında yağlık ayçiçeği ve kuru fasulyede temel destek ile planlı üretim desteğinin toplamı dekara 1.326 TL olacak.\n\nBuna göre:\n\n50 dekar: 66.300 TL\n\n100 dekar: 132.600 TL\n\n250 dekar: 331.500 TL\n\n500 dekar: 663.000 TL\n\nSoya ve kanolada da temel ve planlı üretim desteğinin toplamı aynı şekilde 1.326 TL/dekar olarak hesaplanıyor.\n\nPATATES, KURU SOĞAN VE ASPİR DESTEĞİ NE KADAR?\n\nPatates, kuru soğan ve aspirde 2027 yılı temel ve planlı üretim desteği toplamı dekara 884 TL olacak.\n\nBuna göre:\n\n50 dekar: 44.200 TL\n\n100 dekar: 88.400 TL\n\n250 dekar: 221.000 TL\n\n500 dekar: 442.000 TL\n\nEN YÜKSEK DESTEK KÜTLÜ PAMUKTA\n\nPlanlı üretim kapsamındaki ürünler arasında kütlü pamukta 2027 yılı temel ve planlı üretim desteği dekara 1.989 TL olarak belirlendi.\n\nBuna göre 100 dekar kütlü pamuk üretiminde söz konusu iki destek kaleminin toplamı 198.900 TL, 500 dekarda ise 994.500 TL seviyesine ulaşıyor.\n\nSERTİFİKALI TOHUM KULLANAN ÇİFTÇİYE AYRICA DESTEK\n\nTemel ve planlı üretim desteğinin yanında sertifikalı tohum kullanan üreticiler için ayrı bir destek kalemi bulunuyor.\n\n2027 üretim yılı için sertifikalı tohum kullanım desteğinde karar kapsamında açıklanan katsayılar şöyle:\n\nBu ö"
-    },
-    {
-      "title": "Buğday fiyatında dikkat çeken hareket! 5 günde ton başına 1900 lira yükseldi",
-      "url": "https://www.tarimdanhaber.com/bugday-fiyatinda-dikkat-ceken-hareket-5-gunde-ton-basina-1900-lira-yukseldi",
-      "source": "Tarımdan Haber",
-      "date": "2026-09-23",
-      "summary": "Konya Ticaret Borsası'nda beyaz sert ekmeklik buğday fiyatlarında son günlerde dikkat çekici bir hareketlilik yaşanıyor. 18 Eylül'de kilogramı ortalama 18,64 TL'den işlem gören beyaz sert ekmeklik buğdayın ortalama fiyatı 23 Eylül'de 20,55 TL'ye yükseldi. Üründe en yüksek fiyat 21,15 TL'yi görürken,",
-      "content": "Haber Merkezi / Konya Ticaret Borsası Elektronik Satış Salonu verileri, beyaz sert ekmeklik buğday fiyatlarında son günlerde belirgin bir yukarı yönlü hareket yaşandı. Buğday, arpa ve mısır başta olmak üzere güncel [hububat fiyatları] ve piyasa gelişmelerinde son dönemde özellikle ekmeklik buğdaydaki yükseliş dikkat çekiyor.\n\n18 Eylül'de beyaz sert ekmeklik buğdayda kilogram başına en düşük fiyat 17,50 TL, en yüksek fiyat 19,70 TL olurken ortalama fiyat 18,64 TL olarak gerçekleşti.\n\nAncak yeni haftayla birlikte fiyatlar 20 TL'nin üzerine çıktı.\n\nBUĞDAY 21 LİRAYI AŞTI\n\n21 Eylül'de beyaz sert ekmeklik buğdayda en yüksek işlem fiyatı 21,155 TL/kg seviyesine kadar çıktı. Aynı gün ortalama fiyat 20,149 TL olurken 170 tonluk işlem gerçekleşti.\n\n22 Eylül'de de yüksek fiyat seviyesi korundu. En yüksek fiyat 21,014 TL olurken ortalama fiyat 20,353 TL/kg olarak kaydedildi.\n\nDİKKAT ÇEKEN ASIL HAREKET TABAN FİYATTA\n\n23 Eylül verileri ise fiyat hareketinin yalnızca birkaç yüksek fiyatlı işlemden ibaret olmadığını gösterdi.\n\nBeyaz sert ekmeklik buğdayda günün en düşük fiyatı 20,30 TL, en yüksek fiyatı ise 20,761 TL oldu. Ortalama fiyat da 20,549 TL/kg seviyesine çıktı.\n\nBöylece 18 Eylül'de 17,50 TL olan en düşük fiyat, 23 Eylül'de 20,30 TL'ye yükselmiş oldu. Beş günlük dönemde taban işlem fiyatındaki artış kilogram başına 2,80 TL'ye, ton başına ise 2 bin 800 TL'ye ulaştı.\n\nORTALAMA FİYAT 5 GÜNDE TON BAŞINA 1900 LİRA ARTTI\n\nOrtalama fiyatlar üzerinden bakıldığında da yükseliş dikkat çekiyor.\n\n18 Eylül'de 18,644 TL/kg olan beyaz sert ekmeklik buğdayın ortalama fiyatı, 23 Eylül'de 20,549 TL/kg'ye çıktı.\n\nBuna göre ortalama fiyat beş günlük süreçte kilogram başına yaklaşık 1,90 TL, ton başına 1.904 TL yükseldi. Artış oranı yaklaşık yüzde 10,2 olarak gerçekleşti.\n\nİŞLEM HACMİ 22 EYLÜL'DE 276 TONA ÇIKTI\n\nFiyat hareketinin yaşandığı dönemde işlem miktarında da artış görüldü. Beyaz sert ekmeklik buğdayda 18 Eylül'de 79 ton olan işlem miktarı, 21 Eylül'de 170 tona ve 22 Eylül'de 276 tona yükseldi.\n\n23 Eylül'de ise 63 ton beyaz sert ekmeklik buğday işlem gördü.\n\nSon veriler, Konya Ticaret Borsası'nda beyaz sert ekmeklik buğdayın 20 TL/kg bandının üzerine yerleştiğine ilişkin dikkat çekici bir kısa dönemli fiyat hareketine işaret ediyor. Bunun kalıcı bir fiyat seviyesine dönüşüp dönüşmeyeceğini ise önümüzdeki günlerdeki işlem fiyatları ve hacimleri gösterecek."
     }
   ],
   "commoditiesByBorsa": {
@@ -309,16 +309,6 @@
   "errors": [
     "borsa 5ED10: fetch failed",
     "borsa 5KO10: fetch failed",
-    "borsa 5ES10: fetch failed",
-    "mazot ANKARA: fetch failed",
-    "mazot ISTANBUL: fetch failed",
-    "mazot IZMIR: fetch failed",
-    "mazot KONYA: fetch failed",
-    "mazot ADANA: fetch failed",
-    "mazot BURSA: fetch failed",
-    "mazot ANTALYA: fetch failed",
-    "mazot SAMSUN: fetch failed",
-    "mazot TEKIRDAG: fetch failed",
-    "mazot CANAKKALE: fetch failed"
+    "borsa 5ES10: fetch failed"
   ]
 }
