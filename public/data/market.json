@@ -1,43 +1,51 @@
 {
-  "updatedAt": "2026-09-24T09:08:52.460Z",
+  "updatedAt": "2026-09-24T14:13:13.749Z",
   "fx": [
     {
       "code": "USD",
       "name": "Dolar",
-      "buy": 48.85,
-      "sell": 48.86,
-      "change": 0.06
+      "buy": 488506,
+      "sell": 488603,
+      "change": 6
     },
     {
       "code": "EUR",
       "name": "Euro",
-      "buy": 55.71,
-      "sell": 55.72,
-      "change": 0.17
+      "buy": 55709,
+      "sell": 557186,
+      "change": 16
     },
     {
       "code": "GRA",
       "name": "Gram Altın",
-      "buy": 6693.54,
-      "sell": 6694.25,
-      "change": -0.54
+      "buy": 670399,
+      "sell": 670484,
+      "change": -38
     },
     {
       "code": "CEYREKALTIN",
       "name": "Çeyrek Altın",
-      "buy": 10747.75,
-      "sell": 10993.13,
-      "change": 0
+      "buy": 106967,
+      "sell": 1094095,
+      "change": -47
     },
     {
       "code": "CUMHURIYETALTINI",
       "name": "Cumhuriyet Altını",
-      "buy": 44540,
-      "sell": 45213,
-      "change": -0.79
+      "buy": 44465,
+      "sell": 45137,
+      "change": -17
     }
   ],
   "news": [
+    {
+      "title": "Avrupa'da çiftçiye destek mesajı: Yüzde 48'i tarım desteklerinin artırılmasını istiyor",
+      "url": "https://www.tarimdanhaber.com/avrupada-ciftciye-destek-mesaji-yuzde-48i-tarim-desteklerinin-artirilmasini-istiyor",
+      "source": "Tarımdan Haber",
+      "date": "2026-09-24",
+      "summary": "Tarım Politikaları Uzmanı Ergin Kahveci, Avrupa Birliği vatandaşlarının tarım ve Ortak Tarım Politikası'na bakışını ortaya koyan son Eurobarometer araştırmasının sonuçlarını değerlendirdi. Avrupalıların yüzde 95'i tarım ve kırsal alanları Avrupa'nın geleceği açısından önemli görürken, yüzde 48'i önü",
+      "content": "Haber Merkezi / Avrupa Birliği vatandaşlarının tarıma, çiftçi desteklerine ve gıda güvenliğine bakışını ortaya koyan son Eurobarometer araştırmasından dikkat çekici sonuçlar çıktı.\n\nTarım Politikaları Uzmanı Ergin Kahveci, araştırmanın sonuçlarını paylaşarak Avrupa'da tarımın stratejik önemine, çiftçiye verilen desteğe ve gıda güvenliğine ilişkin öne çıkan verileri değerlendirdi.\n\nAvrupa Komisyonu tarafından yapılan araştırma, Mayıs-Haziran 2026 döneminde 27 AB ülkesinde farklı sosyal ve demografik gruplardan 26 bin 456 kişinin katılımıyla gerçekleştirildi.\n\nAVRUPALILARIN YÜZDE 95'İ TARIMI GELECEK İÇİN ÖNEMLİ GÖRÜYOR\n\nAraştırmaya göre Avrupalıların yüzde 95'i tarım ve kırsal alanların Avrupa'nın geleceği açısından önemli olduğunu düşünüyor.\n\nGıda arzı konusunda da benzer ölçüde güçlü bir görüş bulunuyor. Katılımcıların yüzde 93'ü AB'de her zaman istikrarlı bir gıda arzının güvence altına alınmasını önemli görüyor.\n\nBu oranlar, Avrupa kamuoyunda tarımın yalnızca ekonomik bir faaliyet olarak değil, gıda arzının sürekliliği açısından stratejik bir sektör olarak görüldüğünü ortaya koyuyor.\n\nÇİFTÇİYE VERİLEN DESTEK ARTIRILSIN MI?\n\nAraştırmanın çiftçi desteklerine ilişkin sonuçları da dikkat çekti.\n\nKatılımcıların yüzde 71'i AB'nin Ortak Tarım Politikası (CAP) aracılığıyla çiftçilere destek verdiğinden haberdar.\n\nMevcut mali desteklerin düzeyi sorulduğunda ise yüzde 55'i desteğin seviyesini uygun bulduğunu belirtiyor.\n\nAncak geleceğe yönelik beklenti farklılaşıyor. Avrupalıların yüzde 48'i önümüzdeki 10 yılda çiftçilere verilen AB mali desteğinin artırılmasını istiyor. Avrupa Komisyonu da bu oranı araştırmada “göreli çoğunluk” olarak tanımlıyor.\n\nGIDA GÜVENLİĞİNDE TARIM POLİTİKASINA DESTEK\n\nAvrupalıların önemli bölümü Ortak Tarım Politikası'nın gıda arzındaki rolüne de olumlu yaklaşıyor.\n\nKatılımcıların yüzde 78'i CAP'ın AB'de her zaman istikrarlı bir gıda arzının sağlanmasına katkıda bulunduğunu düşünüyor.\n\nAraştırmada ayrıca yüzde 70'i CAP'ın çiftçilerin gıda zincirindeki konumunu güçlendirdiğini, yüzde 68'i tarım ve gıda sektöründe yatırım, büyüme ve istihdama katkıda bulunduğunu düşünüyor.\n\nAVRUPALI TÜKETİCİ GIDANIN NEREDEN GELDİĞİNE BAKIYOR\n\nAraştırmanın dikkat çekici sonuçlarından biri de tüketicilerin gıda tercihlerine ilişkin.\n\nGıda satın alırken kalite ve menşe önemli unsurlar arasında bulunuyor. Yüzde 79'u gıda ürününün AB'de üretilmiş olmasını önemli buluyor.\n\nDaha da yüksek bir oran olan yüzde 89'u kısa tedarik zincirini, yine yüzde 89'u ürünlerin daha yüksek çevre ve hayvan refahı standartlarına uygun üretilmesini önemsiyor.\n\nİTHAL TARIM ÜRÜNLERİNE DİKKAT ÇEKEN ŞART\n\nAraştırmanın Türkiye açısından da dikkat çekebilecek bölümlerinden biri ithal tarım ürünlerine ilişkin yaklaşım.\n\nAvrupalıların yüzde 89'u, nereden gelirse gelsin AB'ye ithal edilen tarım ürünlerinin ancak AB'nin çevre, hayvan refahı ve çalışma standartlarına uygun üretilmiş olması halinde Birliğe girmesi gerektiği görüşünde.\n\nBu sonuç, AB vatandaşlarının bir taraftan uluslararası tarım ticaretine olumlu yaklaşırken diğer taraftan ithal ürünlerde Avrupalı çiftçilerin tabi olduğu standartların aranmasını istediğini gösteriyor.\n\nİKLİM VE TARIM POLİTİKASI\n\nÇevre ve iklim konusu da araştırmanın önemli başlıklarından biri oldu.\n\nKatılımcıların yüzde 67'si Ortak Tarım Politikası'nın çevrenin korunmasına ve iklim değişikliğiyle mücadeleye katkıda bulunduğunu düşünüyor. Yüzde 89'u ise iklim ve çevre açısından faydalı tarımsal uygulamalar yapan çiftçilere AB tarafından destek ödenmeye devam edilmesini istiyor.\n\nERGİN KAHVECİ: AVRUPALILAR TARIMI STRATEJİK BİR SEKTÖR OLARAK GÖRÜYOR\n\nTarım Politikaları Uzmanı Ergin Kahveci, araştırmanın ortaya koyduğu tabloyu; Avrupalıların tarımı stratejik bir sektör olarak gördüğü, gıda güvenliğine önem verdiği, çiftçilere yönelik AB desteklerini genel olarak desteklediği ve ithal ürünlerin de Avrupa'daki standartlara tabi olmasını istediği şeklinde özetledi.\n\nAraştırmanın bütünü de Avrupa'da tarım ve kırsal alanların geleceğine verilen önemin oldukça yüksek seviyede olduğunu ortaya koyuyor. Avrupa Komisyonuna göre tarım ve kırsal alanları önemli görenlerin oranı, Eurobarometer'in bu konuda ölçüm yapmaya başladığı 2007'den bu yana sürekli yüzde 90 veya üzerinde kaldı."
+    },
     {
       "title": "GDO’lu 3 mısır ve 1 soya çeşidinin yem amaçlı ithalat izni 10 yıl uzatıldı",
       "url": "https://www.tarimdanhaber.com/gdolu-3-misir-ve-1-soya-cesidinin-yem-amacli-ithalat-izni-10-yil-uzatildi",
@@ -93,14 +101,6 @@
       "date": "2026-09-23",
       "summary": "Konya Ticaret Borsası'nda beyaz sert ekmeklik buğday fiyatlarında son günlerde dikkat çekici bir hareketlilik yaşanıyor. 18 Eylül'de kilogramı ortalama 18,64 TL'den işlem gören beyaz sert ekmeklik buğdayın ortalama fiyatı 23 Eylül'de 20,55 TL'ye yükseldi. Üründe en yüksek fiyat 21,15 TL'yi görürken,",
       "content": "Haber Merkezi / Konya Ticaret Borsası Elektronik Satış Salonu verileri, beyaz sert ekmeklik buğday fiyatlarında son günlerde belirgin bir yukarı yönlü hareket yaşandı. Buğday, arpa ve mısır başta olmak üzere güncel [hububat fiyatları] ve piyasa gelişmelerinde son dönemde özellikle ekmeklik buğdaydaki yükseliş dikkat çekiyor.\n\n18 Eylül'de beyaz sert ekmeklik buğdayda kilogram başına en düşük fiyat 17,50 TL, en yüksek fiyat 19,70 TL olurken ortalama fiyat 18,64 TL olarak gerçekleşti.\n\nAncak yeni haftayla birlikte fiyatlar 20 TL'nin üzerine çıktı.\n\nBUĞDAY 21 LİRAYI AŞTI\n\n21 Eylül'de beyaz sert ekmeklik buğdayda en yüksek işlem fiyatı 21,155 TL/kg seviyesine kadar çıktı. Aynı gün ortalama fiyat 20,149 TL olurken 170 tonluk işlem gerçekleşti.\n\n22 Eylül'de de yüksek fiyat seviyesi korundu. En yüksek fiyat 21,014 TL olurken ortalama fiyat 20,353 TL/kg olarak kaydedildi.\n\nDİKKAT ÇEKEN ASIL HAREKET TABAN FİYATTA\n\n23 Eylül verileri ise fiyat hareketinin yalnızca birkaç yüksek fiyatlı işlemden ibaret olmadığını gösterdi.\n\nBeyaz sert ekmeklik buğdayda günün en düşük fiyatı 20,30 TL, en yüksek fiyatı ise 20,761 TL oldu. Ortalama fiyat da 20,549 TL/kg seviyesine çıktı.\n\nBöylece 18 Eylül'de 17,50 TL olan en düşük fiyat, 23 Eylül'de 20,30 TL'ye yükselmiş oldu. Beş günlük dönemde taban işlem fiyatındaki artış kilogram başına 2,80 TL'ye, ton başına ise 2 bin 800 TL'ye ulaştı.\n\nORTALAMA FİYAT 5 GÜNDE TON BAŞINA 1900 LİRA ARTTI\n\nOrtalama fiyatlar üzerinden bakıldığında da yükseliş dikkat çekiyor.\n\n18 Eylül'de 18,644 TL/kg olan beyaz sert ekmeklik buğdayın ortalama fiyatı, 23 Eylül'de 20,549 TL/kg'ye çıktı.\n\nBuna göre ortalama fiyat beş günlük süreçte kilogram başına yaklaşık 1,90 TL, ton başına 1.904 TL yükseldi. Artış oranı yaklaşık yüzde 10,2 olarak gerçekleşti.\n\nİŞLEM HACMİ 22 EYLÜL'DE 276 TONA ÇIKTI\n\nFiyat hareketinin yaşandığı dönemde işlem miktarında da artış görüldü. Beyaz sert ekmeklik buğdayda 18 Eylül'de 79 ton olan işlem miktarı, 21 Eylül'de 170 tona ve 22 Eylül'de 276 tona yükseldi.\n\n23 Eylül'de ise 63 ton beyaz sert ekmeklik buğday işlem gördü.\n\nSon veriler, Konya Ticaret Borsası'nda beyaz sert ekmeklik buğdayın 20 TL/kg bandının üzerine yerleştiğine ilişkin dikkat çekici bir kısa dönemli fiyat hareketine işaret ediyor. Bunun kalıcı bir fiyat seviyesine dönüşüp dönüşmeyeceğini ise önümüzdeki günlerdeki işlem fiyatları ve hacimleri gösterecek."
-    },
-    {
-      "title": "Sivas havza destekleri 2027: İlçelere göre desteklenen ürünler belli oldu",
-      "url": "https://www.tarimdanhaber.com/havza-destekleri-sivas",
-      "source": "Tarımdan Haber",
-      "date": "2026-09-23",
-      "summary": "Sivas'ta 2027 üretim yılı için planlamaya konu havza ürün deseni belli oldu. 17 ilçenin ürün listesi önceki dönemle karşılaştırıldığında Akıncılar ve Divriği'de değişiklik yapıldığı görüldü. Her iki ilçede de aspir 2027 ürün desenine dahil edilirken, diğer 15 ilçenin ürün listesi değişmedi. İşte Siv",
-      "content": "Haber Merkezi / Tarım ve Orman Bakanlığının 2027 havza bazlı destekleme modeli ve bitkisel üretim planlaması kapsamında Sivas'ta planlamaya konu havza ürün deseni belli oldu.\n\nSivas'ın 17 ilçesi için açıklanan 2027 ürün listesi önceki dönemle karşılaştırıldığında iki ilçede ürün deseninin genişletildiği görülüyor. Akıncılar ve Divriği'de daha önce listede bulunmayan aspir, 2027 üretim yılı ürün desenine dahil edildi.\n\nTürkiye genelinde hangi il ve ilçede hangi ürünlerin planlama kapsamında olduğunu merak eden üreticiler, “Havza destekleri 2027: Hangi ilde hangi ürün destekleniyor?” ana sayfamızdan 81 ilin güncel listesine ulaşabilir.\n\nSİVAS'TA 2027 ÜRÜN DESENİ DEĞİŞTİ: İKİ İLÇEYE ASPİR EKLENDİ\n\nSivas'ın önceki havza ürün deseni ile 2027 listesi karşılaştırıldığında değişikliğin Akıncılar ve Divriği ilçelerinde yapıldığı görülüyor.\n\nAkıncılar'ın önceki listesinde arpa, yağlık ayçiçeği, buğday, kuru fasulye, dane mısır, nohut ve yem bitkileri bulunuyordu. 2027 yılında bu ürünlere aspir de eklendi.\n\nDivriği'nin önceki ürün deseninde ise arpa, buğday, kuru fasulye, nohut ve yem bitkileri yer alıyordu. Yeni listede aspir de planlamaya konu ürünler arasına alındı.\n\nBöylece Sivas'ta 17 ilçeden ikisinin ürün deseni değişirken, diğer 15 ilçede mevcut liste korundu.\n\n2027'DE HANGİ ÜRÜNE NE KADAR DESTEK ÖDENECEK?\n\n2027 yılında hangi ürünün destek kapsamında olduğu kadar, dekara ödenecek destek tutarı da çiftçiler tarafından merak ediliyor. Buğday, arpa, nohut, mercimek, ayçiçeği ve diğer ürünlerde çiftçinin alacağı ödemeleri 2027 tarım destekleri ne kadar? sayfamızdan inceleyebilirsiniz.\n\nSİVAS 2027 HAVZA DESTEKLERİ: HANGİ İLÇEDE HANGİ ÜRÜNLER VAR?\n\nAkıncılar: Arpa, aspir, yağlık ayçiçeği, buğday, kuru fasulye, dane mısır, nohut, yem bitkileri.\n\nAltınyayla: Arpa, aspir, buğday, nohut, patates, yem bitkileri.\n\nDivriği: Arpa, aspir, buğday, kuru fasulye, nohut, yem bitkileri.\n\nDoğanşar: Arpa, buğday, yem bitkileri.\n\nGemerek: Arpa, aspir, yağlık ayçiçeği, buğday, kuru fasulye, mercimek, nohut, patates, yem bitkileri.\n\nGölova: Arpa, yağlık ayçiçeği, buğday, kuru fasulye, nohut, yem bitkileri.\n\nGürün: Arpa, aspir, yağlık ayçiçeği, buğday, kuru fasulye, nohut, yem bitkileri.\n\nHafik: Arpa, aspir, yağlık ayçiçeği, buğday, kuru fasulye, nohut, patates, yem bitkileri.\n\nİmranlı: Arpa, aspir, yağlık ayçiçeği, buğday, nohut, yem bitkileri.\n\nKangal: Arpa, aspir, yağlık ayçiçeği, buğday, mercimek, nohut, patates, yem bitkileri.\n\nKoyulhisar: Arpa, buğday, kuru fasulye, yem bitkileri.\n\nMerkez: Arpa, aspir, yağlık ayçiçeği, buğday, kuru fasulye, mercimek, nohut, patates, yem bitkileri.\n\nSuşehri: Arpa, yağlık ayçiçeği, buğday, kuru fasulye, dane mısır, nohut, yem bitkileri.\n\nŞarkışla: Arpa, aspir, yağlık ayçiçeği, buğday, kuru fasulye, mercimek, nohut, patates, yem bitkileri.\n\nUlaş: Arpa, aspir, yağlık ayçiçeği, buğday, kuru fasulye, nohut, patates, yem bitkileri.\n\nYıldızeli: Arpa, aspir, yağlık ayçiçeği, buğday, kuru fasulye, mercimek, nohut, patates, yem bitkileri.\n\nZara: Arpa, aspir, yağlık ayçiçeği, buğday, kuru fasulye, nohut, patates, yem bitkileri.\n\nAKINCILAR VE DİVRİĞİ'DE 2027'NİN YENİ ÜRÜNÜ ASPİR\n\n2027 havza ürün deseninde Sivas açısından dikkat çeken ürün aspir oldu.\n\nAkıncılar ve Divriği'nin önceki listelerinde bulunmayan aspir, her iki ilçede de 2027 yılı planlamaya konu havza ürün desenine dahil edildi.\n\nBuna karşılık Altınyayla, Doğanşar, Gemerek, Gölova, Gürün, Hafik, İmranlı, Kangal, Koyulhisar, Merkez, Suşehri, Şarkışla, Ulaş, Yıldızeli ve Zara'nın ürün desenlerinde değişikliğe gidilmedi.\n\nSİVAS'TA DANE MISIR SADECE İKİ İLÇENİN LİSTESİNDE\n\n2027 ürün desenine göre dane mısır Sivas'ta Akıncılar ve Suşehri ilçelerinde planlamaya konu ürünler arasında bulunuyor.\n\nMercimek ise Gemerek, Kangal, Merkez, Şarkışla ve Yıldızeli ilçelerinin ürün deseninde yer alıyor.\n\nArpa ve buğday ise Sivas'ın 17 ilçesinin tamamında 2027 havza ürün deseninde bulunuyor."
     }
   ],
   "commoditiesByBorsa": {
@@ -309,6 +309,16 @@
   "errors": [
     "borsa 5ED10: fetch failed",
     "borsa 5KO10: fetch failed",
-    "borsa 5ES10: fetch failed"
+    "borsa 5ES10: fetch failed",
+    "mazot ANKARA: fetch failed",
+    "mazot ISTANBUL: fetch failed",
+    "mazot IZMIR: fetch failed",
+    "mazot KONYA: fetch failed",
+    "mazot ADANA: fetch failed",
+    "mazot BURSA: fetch failed",
+    "mazot ANTALYA: fetch failed",
+    "mazot SAMSUN: fetch failed",
+    "mazot TEKIRDAG: fetch failed",
+    "mazot CANAKKALE: fetch failed"
   ]
 }
