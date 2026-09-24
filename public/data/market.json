@@ -1,26 +1,26 @@
 {
-  "updatedAt": "2026-09-24T03:54:50.952Z",
+  "updatedAt": "2026-09-24T09:08:52.460Z",
   "fx": [
     {
       "code": "USD",
       "name": "Dolar",
-      "buy": 48.84,
+      "buy": 48.85,
       "sell": 48.86,
-      "change": 0.05
+      "change": 0.06
     },
     {
       "code": "EUR",
       "name": "Euro",
-      "buy": 55.67,
-      "sell": 55.74,
-      "change": 0.14
+      "buy": 55.71,
+      "sell": 55.72,
+      "change": 0.17
     },
     {
       "code": "GRA",
       "name": "Gram Altın",
-      "buy": 6724.4,
-      "sell": 6725.22,
-      "change": -0.08
+      "buy": 6693.54,
+      "sell": 6694.25,
+      "change": -0.54
     },
     {
       "code": "CEYREKALTIN",
@@ -38,6 +38,14 @@
     }
   ],
   "news": [
+    {
+      "title": "GDO’lu 3 mısır ve 1 soya çeşidinin yem amaçlı ithalat izni 10 yıl uzatıldı",
+      "url": "https://www.tarimdanhaber.com/gdolu-3-misir-ve-1-soya-cesidinin-yem-amacli-ithalat-izni-10-yil-uzatildi",
+      "source": "Tarımdan Haber",
+      "date": "2026-09-24",
+      "summary": "Biyogüvenlik Kurulu, 2015 yılında yem amaçlı ithalatına izin verilen GDO’lu MIR604, MON863 ve T25 mısır ile MON87701 soya çeşidine ilişkin izin süresini 10 yıl uzattı. Uzatma başvurusunu BESD-BİR yaptı.",
+      "content": "Haber Merkezi / Resmi Gazete’nin 24 Eylül 2026 tarihli sayısında Biyogüvenlik Kurulunun GDO’lu mısır ve soya çeşitlerine ilişkin yeni kararı yayımlandı.\n\nKarara göre, 16 Temmuz 2015 tarihli Resmi Gazete’de yayımlanan kararlarla yem amaçlı kullanımına izin verilen MIR604, MON863 ve T25 mısır çeşitleri ile MON87701 soya çeşidine ilişkin kararların geçerlilik süresi 16 Temmuz 2025 tarihinde sona erdi.\n\nUZATMA TALEBİNİ BESD-BİR YAPTI\n\nSöz konusu GDO’lu mısır ve soya çeşitleri için Beyaz Et Sanayicileri ve Damızlıkçıları Birliği Derneği İktisadi İşletmesi (BESD-BİR) tarafından Biyogüvenlik Kuruluna uzatma talebinde bulunuldu.\n\nBiyogüvenlik Kurulu, BESD-BİR’in uzatma talebini uygun gördü. Böylece MIR604, MON863 ve T25 mısır çeşitleri ile MON87701 soya çeşidine ilişkin izinlerin geçerlilik süresi 10 yıl uzatılmış oldu. Resmi Gazete’de yayımlanan kararda, “Verilen kararların geçerlilik süresi on yıldır” denildi.\n\nGDO’LU 3 MISIR VE 1 SOYA ÇEŞİDİNİ KAPSIYOR\n\n24 Eylül 2026 tarihli karar kapsamında izin süresi uzatılan GDO’lu ürünler MIR604 mısır, MON863 mısır, T25 mısır ve MON87701 soya çeşitlerinden oluşuyor.\n\nKarar, bu çeşitlerin yem amaçlı kullanım ve ithalatına ilişkin mevcut izinlerin devamını sağlıyor. Söz konusu karar, GDO’lu mısır veya soyanın Türkiye’de ekimine yönelik bir izin niteliği taşımıyor."
+    },
     {
       "title": "Ziraat Bankası faizsiz hayvancılık kredisi nasıl alınır? Koyun ve keçi yetiştiricileri için şartları anlattı",
       "url": "https://www.tarimdanhaber.com/ziraat-bankasi-faizsiz-hayvancilik-kredisi-nasil-alinir-koyun-ve-keci-yetistiricileri-icin-sartlari-anlatti",
@@ -93,14 +101,6 @@
       "date": "2026-09-23",
       "summary": "Sivas'ta 2027 üretim yılı için planlamaya konu havza ürün deseni belli oldu. 17 ilçenin ürün listesi önceki dönemle karşılaştırıldığında Akıncılar ve Divriği'de değişiklik yapıldığı görüldü. Her iki ilçede de aspir 2027 ürün desenine dahil edilirken, diğer 15 ilçenin ürün listesi değişmedi. İşte Siv",
       "content": "Haber Merkezi / Tarım ve Orman Bakanlığının 2027 havza bazlı destekleme modeli ve bitkisel üretim planlaması kapsamında Sivas'ta planlamaya konu havza ürün deseni belli oldu.\n\nSivas'ın 17 ilçesi için açıklanan 2027 ürün listesi önceki dönemle karşılaştırıldığında iki ilçede ürün deseninin genişletildiği görülüyor. Akıncılar ve Divriği'de daha önce listede bulunmayan aspir, 2027 üretim yılı ürün desenine dahil edildi.\n\nTürkiye genelinde hangi il ve ilçede hangi ürünlerin planlama kapsamında olduğunu merak eden üreticiler, “Havza destekleri 2027: Hangi ilde hangi ürün destekleniyor?” ana sayfamızdan 81 ilin güncel listesine ulaşabilir.\n\nSİVAS'TA 2027 ÜRÜN DESENİ DEĞİŞTİ: İKİ İLÇEYE ASPİR EKLENDİ\n\nSivas'ın önceki havza ürün deseni ile 2027 listesi karşılaştırıldığında değişikliğin Akıncılar ve Divriği ilçelerinde yapıldığı görülüyor.\n\nAkıncılar'ın önceki listesinde arpa, yağlık ayçiçeği, buğday, kuru fasulye, dane mısır, nohut ve yem bitkileri bulunuyordu. 2027 yılında bu ürünlere aspir de eklendi.\n\nDivriği'nin önceki ürün deseninde ise arpa, buğday, kuru fasulye, nohut ve yem bitkileri yer alıyordu. Yeni listede aspir de planlamaya konu ürünler arasına alındı.\n\nBöylece Sivas'ta 17 ilçeden ikisinin ürün deseni değişirken, diğer 15 ilçede mevcut liste korundu.\n\n2027'DE HANGİ ÜRÜNE NE KADAR DESTEK ÖDENECEK?\n\n2027 yılında hangi ürünün destek kapsamında olduğu kadar, dekara ödenecek destek tutarı da çiftçiler tarafından merak ediliyor. Buğday, arpa, nohut, mercimek, ayçiçeği ve diğer ürünlerde çiftçinin alacağı ödemeleri 2027 tarım destekleri ne kadar? sayfamızdan inceleyebilirsiniz.\n\nSİVAS 2027 HAVZA DESTEKLERİ: HANGİ İLÇEDE HANGİ ÜRÜNLER VAR?\n\nAkıncılar: Arpa, aspir, yağlık ayçiçeği, buğday, kuru fasulye, dane mısır, nohut, yem bitkileri.\n\nAltınyayla: Arpa, aspir, buğday, nohut, patates, yem bitkileri.\n\nDivriği: Arpa, aspir, buğday, kuru fasulye, nohut, yem bitkileri.\n\nDoğanşar: Arpa, buğday, yem bitkileri.\n\nGemerek: Arpa, aspir, yağlık ayçiçeği, buğday, kuru fasulye, mercimek, nohut, patates, yem bitkileri.\n\nGölova: Arpa, yağlık ayçiçeği, buğday, kuru fasulye, nohut, yem bitkileri.\n\nGürün: Arpa, aspir, yağlık ayçiçeği, buğday, kuru fasulye, nohut, yem bitkileri.\n\nHafik: Arpa, aspir, yağlık ayçiçeği, buğday, kuru fasulye, nohut, patates, yem bitkileri.\n\nİmranlı: Arpa, aspir, yağlık ayçiçeği, buğday, nohut, yem bitkileri.\n\nKangal: Arpa, aspir, yağlık ayçiçeği, buğday, mercimek, nohut, patates, yem bitkileri.\n\nKoyulhisar: Arpa, buğday, kuru fasulye, yem bitkileri.\n\nMerkez: Arpa, aspir, yağlık ayçiçeği, buğday, kuru fasulye, mercimek, nohut, patates, yem bitkileri.\n\nSuşehri: Arpa, yağlık ayçiçeği, buğday, kuru fasulye, dane mısır, nohut, yem bitkileri.\n\nŞarkışla: Arpa, aspir, yağlık ayçiçeği, buğday, kuru fasulye, mercimek, nohut, patates, yem bitkileri.\n\nUlaş: Arpa, aspir, yağlık ayçiçeği, buğday, kuru fasulye, nohut, patates, yem bitkileri.\n\nYıldızeli: Arpa, aspir, yağlık ayçiçeği, buğday, kuru fasulye, mercimek, nohut, patates, yem bitkileri.\n\nZara: Arpa, aspir, yağlık ayçiçeği, buğday, kuru fasulye, nohut, patates, yem bitkileri.\n\nAKINCILAR VE DİVRİĞİ'DE 2027'NİN YENİ ÜRÜNÜ ASPİR\n\n2027 havza ürün deseninde Sivas açısından dikkat çeken ürün aspir oldu.\n\nAkıncılar ve Divriği'nin önceki listelerinde bulunmayan aspir, her iki ilçede de 2027 yılı planlamaya konu havza ürün desenine dahil edildi.\n\nBuna karşılık Altınyayla, Doğanşar, Gemerek, Gölova, Gürün, Hafik, İmranlı, Kangal, Koyulhisar, Merkez, Suşehri, Şarkışla, Ulaş, Yıldızeli ve Zara'nın ürün desenlerinde değişikliğe gidilmedi.\n\nSİVAS'TA DANE MISIR SADECE İKİ İLÇENİN LİSTESİNDE\n\n2027 ürün desenine göre dane mısır Sivas'ta Akıncılar ve Suşehri ilçelerinde planlamaya konu ürünler arasında bulunuyor.\n\nMercimek ise Gemerek, Kangal, Merkez, Şarkışla ve Yıldızeli ilçelerinin ürün deseninde yer alıyor.\n\nArpa ve buğday ise Sivas'ın 17 ilçesinin tamamında 2027 havza ürün deseninde bulunuyor."
-    },
-    {
-      "title": "Tarım sayımı sonuçları ne zaman açıklanacak? Demiröz'den Bakanlığa çağrı: Ölçmediğini yönetemezsin",
-      "url": "https://www.tarimdanhaber.com/tarim-sayimi-sonuclari-ne-zaman-aciklanacak-demirozden-bakanliga-cagri-olcmedigini-yonetemezsin",
-      "source": "Tarımdan Haber",
-      "date": "2026-09-22",
-      "summary": "Anahtar Parti Genel Başkan Yardımcısı ve Tarım Politikaları Başkanı Hasan Hüseyin Demiröz, tarım sayımı sonuçlarının açıklanmasını beklediklerini belirterek Tarım ve Orman Bakanlığına çağrıda bulundu. Demiröz, sonuçların üreticiden politika yapıcılara kadar bütün sektör için önemli olduğunu vurgulay",
-      "content": "Haber Merkezi / Türkiye tarımının üretim, işletme, hayvan varlığı ve arazi yapısına ilişkin güncel verilerin ortaya konulması amacıyla yürütülen tarım sayımının sonuçları tarım sektöründe merakla bekleniyor.\n\nAnahtar Parti Genel Başkan Yardımcısı ve Tarım Politikaları Başkanı Hasan Hüseyin Demiröz, tarım sayımına ilişkin yaptığı açıklamada, elde edilen verilerin kamuoyuyla paylaşılması çağrısında bulundu.\n\n“SONUÇLARIN PAYLAŞILMASINI SABIRSIZLIKLA BEKLİYORUZ”\n\nTarım ve Orman Bakanı İbrahim Yumaklı'nın tarım sayımına ilişkin daha önce yaptığı açıklamaları hatırlatan Demiröz, şunları kaydetti:\n\n“Sayın Tarım ve Orman Bakanımız, 2025 yılı içerisinde Cumhuriyet tarihinin en büyük tarım sayımının yapılacağını duyurmuştu. Ülkemiz adına sevindirici bu gelişmeyi biz de parti olarak büyük bir memnuniyetle karşılamış ve destek vermiştik.”\n\nDemiröz, tarım sayımından elde edilecek verilerin yalnızca kamu kurumları açısından değil, üretim kararı verecek çiftçiler ve sektörün diğer paydaşları açısından da önem taşıdığını belirterek şöyle devam etti:\n\n“2026 Eylül ayına gelmiş olmamıza rağmen hala sonuçlar açıklanmadı. Sadece politika yapıcılar için değil; üreticiler, üretim kararı verme eğiliminde olanlar ve tarım sektöründe yer alan tüm paydaşlar için de yol gösterici olan sayım sonuçlarının paylaşılmasını sabırsızlıkla bekliyoruz. Ölçmediğini yönetemezsin.”\n\nBAKAN YUMAKLI 2023'TE “2026'DA BİTİRMEYİ HEDEFLİYORUZ” DEMİŞTİ\n\nTarım ve Orman Bakanı İbrahim Yumaklı, 14 Kasım 2023'te TBMM Plan ve Bütçe Komisyonunda Bakanlığın 2024 yılı bütçesi görüşülürken tarım sayımının kapsamına ilişkin önemli açıklamalarda bulunmuştu.\n\nYumaklı, sayımın işletme bilgileri, hayvan sayısı ve arazi bilgileri başta olmak üzere tarımsal verilerin doğrulanmasını sağlayacağını belirtmiş ve “Amacımız tarımsal politikalarımıza altlık teşkil edecek veri setlerini doğrulamak. 2026'da bitirmeyi hedefliyoruz” demişti. Bakan Yumaklı ayrıca üretim planlamasının tam anlamıyla uygulanabilmesi için kayıtlılığın önemine dikkat çekmişti."
     }
   ],
   "commoditiesByBorsa": {
@@ -271,7 +271,7 @@
       "name": "Motorin (mazot)",
       "unit": "₺/lt",
       "price": 92.6,
-      "change": -5.61,
+      "change": 0,
       "source": "CANAKKALE ort."
     },
     {
