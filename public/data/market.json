@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-25T09:44:31.068Z",
+  "updatedAt": "2026-09-25T14:44:51.695Z",
   "fx": [
     {
       "code": "USD",
@@ -11,23 +11,23 @@
     {
       "code": "EUR",
       "name": "Euro",
-      "buy": 55.82,
-      "sell": 55.83,
-      "change": 0.18
+      "buy": 55.84,
+      "sell": 55.85,
+      "change": 0.23
     },
     {
       "code": "GRA",
       "name": "Gram Altın",
-      "buy": 6757.45,
-      "sell": 6758.39,
-      "change": 0.59
+      "buy": 6723.88,
+      "sell": 6724.73,
+      "change": 0.09
     },
     {
       "code": "CEYREKALTIN",
       "name": "Çeyrek Altın",
-      "buy": 10753.4,
-      "sell": 11001.15,
-      "change": 0.55
+      "buy": 10722.45,
+      "sell": 10967.28,
+      "change": 0.24
     },
     {
       "code": "CUMHURIYETALTINI",
@@ -38,6 +38,14 @@
     }
   ],
   "news": [
+    {
+      "title": "“Türkiye muz cumhuriyeti mi?” GDO’lu mısır ve soya ithalatına dikkat çeken tepki",
+      "url": "https://www.tarimdanhaber.com/turkiye-muz-cumhuriyeti-mi-gdolu-misir-ve-soya-ithalatina-dikkat-ceken-tepki",
+      "source": "Tarımdan Haber",
+      "date": "2026-09-25",
+      "summary": "Anahtar Parti Genel Başkan Yardımcısı ve Tarım Politikaları Başkanı Hasan Hüseyin Demiröz, GDO’lu 3 mısır ve 1 soya çeşidinin ithalat izninin 10 yıl uzatılmasına tepki gösterdi. Türkiye’nin GDO’suz yerli mısır ve soya çeşitlerine sahip olduğunu belirten Demiröz, “Biz muz cumhuriyeti değiliz. Tohumum",
+      "content": "Anahtar Parti Genel Başkan Yardımcısı ve Tarım Politikaları Başkanı Hasan Hüseyin Demiröz, GDO’lu 3 mısır ve 1 soya çeşidinin ithalat izninin 10 yıl uzatılmasına tepki gösterdi. Türkiye’nin GDO’suz yerli mısır ve soya çeşitlerine sahip olduğunu belirten Demiröz, “Biz muz cumhuriyeti değiliz. Tohumumuz var, toprağımız var; ithalata milyarlarca dolar harcıyoruz, neden üretmiyoruz?” diye sordu."
+    },
     {
       "title": "Hüseyin Aydın’dan marketlerde ucuzluk için “dahiyane” çözüm! Tarım Kredi’nin deposunda aracının da aracısı var",
       "url": "https://www.tarimdanhaber.com/huseyin-aydindan-marketlerde-ucuzluk-icin-dahiyane-cozum-tarim-kredinin-deposunda-aracinin-da-aracisi-var",
@@ -93,14 +101,6 @@
       "date": "2026-09-23",
       "summary": "Ulusal Kırmızı Et Konseyi (UKON), besilik hayvan piyasasında fiyatların maliyet gerçekliğinden uzaklaştığını belirterek besicileri yüksek fiyatlardan hayvan alımına karşı uyardı. Canlı hayvan birim fiyatlarının karkas fiyatlarına tehlikeli ölçüde yaklaştığına dikkat çeken UKON, bugün yüksek fiyatla ",
       "content": "Ulusal Kırmızı Et Konseyi (UKON), besilik hayvan piyasasında fiyatların maliyet gerçekliğinden uzaklaştığını belirterek besicileri yüksek fiyatlardan hayvan alımına karşı uyardı. Canlı hayvan birim fiyatlarının karkas fiyatlarına tehlikeli ölçüde yaklaştığına dikkat çeken UKON, bugün yüksek fiyatla ahırını dolduran besicinin kesim zamanı zarar riskiyle karşı karşıya kalabileceğini bildirdi. ESK'nın 2027 yılı besilik materyal başvurularını ise Ekim ayında almaya başlayacağı açıklandı."
-    },
-    {
-      "title": "2027 tarım destekleri ne kadar? Çiftçi hangi üründen ne kadar destek alacak?",
-      "url": "https://www.tarimdanhaber.com/2027-tarim-destekleri-ne-kadar-ciftci-hangi-urunden-ne-kadar-destek-alacak",
-      "source": "Tarımdan Haber",
-      "date": "2026-09-23",
-      "summary": "2027 yılı tarım destekleri belli oldu. Temel destek dekara 442 liraya çıkarılırken, planlı üretim kapsamında buğday, arpa ve mısırda toplam destek 1.149 lira; ayçiçeği ve kuru fasulyede 1.326 lira; patates, kuru soğan ve aspirde 884 lira oldu. Nohut ve mercimekte ise ilave planlı üretim desteğiyle ö",
-      "content": "2027 yılı tarım destekleri belli oldu. Temel destek dekara 442 liraya çıkarılırken, planlı üretim kapsamında buğday, arpa ve mısırda toplam destek 1.149 lira; ayçiçeği ve kuru fasulyede 1.326 lira; patates, kuru soğan ve aspirde 884 lira oldu. Nohut ve mercimekte ise ilave planlı üretim desteğiyle ödeme 1.326 liraya çıktı. Peki çiftçi 2027'de hangi üründen dekara ve 100 dekara ne kadar destek alacak? İşte ürün ürün 2027 tarım destekleri..."
     }
   ],
   "commoditiesByBorsa": {
@@ -309,16 +309,6 @@
   "errors": [
     "borsa 5ED10: fetch failed",
     "borsa 5KO10: fetch failed",
-    "borsa 5ES10: fetch failed",
-    "mazot ANKARA: fetch failed",
-    "mazot ISTANBUL: fetch failed",
-    "mazot IZMIR: fetch failed",
-    "mazot KONYA: fetch failed",
-    "mazot ADANA: fetch failed",
-    "mazot BURSA: fetch failed",
-    "mazot ANTALYA: fetch failed",
-    "mazot SAMSUN: fetch failed",
-    "mazot TEKIRDAG: fetch failed",
-    "mazot CANAKKALE: fetch failed"
+    "borsa 5ES10: fetch failed"
   ]
 }
