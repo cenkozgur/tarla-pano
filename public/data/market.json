@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-27T06:56:46.970Z",
+  "updatedAt": "2026-09-27T12:51:46.462Z",
   "fx": [
     {
       "code": "USD",
@@ -38,6 +38,14 @@
     }
   ],
   "news": [
+    {
+      "title": "TÜRKŞEKER 2026 melas satış fiyatını açıkladı! Tonu 8 bin 400 TL'ye kadar çıktı",
+      "url": "https://www.tarimdanhaber.com/turkseker-2026-melas-satis-fiyatini-acikladi-tonu-8-bin-400-tlye-kadar-cikti",
+      "source": "Tarımdan Haber",
+      "date": "2026-09-27",
+      "summary": "TÜRKŞEKER, 2026/2027 kampanya döneminde üretilecek melas için tahsis sözleşmeli satış fiyatlarını açıkladı. Fabrikaya göre tonu KDV hariç 7 bin 500 TL ile 8 bin 400 TL arasında değişen melas için talepler 25 Eylül 2026'ya kadar alındı. Başvurular Genel Müdürlük tarafından değerlendirilerek uygun gör",
+      "content": "TÜRKŞEKER, 2026/2027 kampanya döneminde üretilecek melas için tahsis sözleşmeli satış fiyatlarını açıkladı. Fabrikaya göre tonu KDV hariç 7 bin 500 TL ile 8 bin 400 TL arasında değişen melas için talepler 25 Eylül 2026'ya kadar alındı. Başvurular Genel Müdürlük tarafından değerlendirilerek uygun görülen miktarlar müşterilere tahsis edilecek."
+    },
     {
       "title": "Fon soruşturmasında GÜBRETAŞ detayı: Fahrettin Poyraz dönemindeki hisse işlemleri incelenecek mi?",
       "url": "https://www.tarimdanhaber.com/fon-sorusturmasinda-gubretas-detayi-fahrettin-poyraz-donemindeki-hisse-islemleri-incelenecek-mi",
@@ -93,14 +101,6 @@
       "date": "2026-09-24",
       "summary": "Tarım Politikaları Uzmanı Ergin Kahveci, Avrupa Birliği vatandaşlarının tarım ve Ortak Tarım Politikası'na bakışını ortaya koyan son Eurobarometer araştırmasının sonuçlarını değerlendirdi. Avrupalıların yüzde 95'i tarım ve kırsal alanları Avrupa'nın geleceği açısından önemli görürken, yüzde 48'i önü",
       "content": "Tarım Politikaları Uzmanı Ergin Kahveci, Avrupa Birliği vatandaşlarının tarım ve Ortak Tarım Politikası'na bakışını ortaya koyan son Eurobarometer araştırmasının sonuçlarını değerlendirdi. Avrupalıların yüzde 95'i tarım ve kırsal alanları Avrupa'nın geleceği açısından önemli görürken, yüzde 48'i önümüzdeki 10 yılda çiftçilere verilen mali desteğin artırılmasını istiyor."
-    },
-    {
-      "title": "GDO’lu 3 mısır ve 1 soya çeşidinin yem amaçlı ithalat izni 10 yıl uzatıldı",
-      "url": "https://www.tarimdanhaber.com/gdolu-3-misir-ve-1-soya-cesidinin-yem-amacli-ithalat-izni-10-yil-uzatildi",
-      "source": "Tarımdan Haber",
-      "date": "2026-09-24",
-      "summary": "Biyogüvenlik Kurulu, 2015 yılında yem amaçlı ithalatına izin verilen GDO’lu MIR604, MON863 ve T25 mısır ile MON87701 soya çeşidine ilişkin izin süresini 10 yıl uzattı. Uzatma başvurusunu BESD-BİR yaptı.",
-      "content": "Biyogüvenlik Kurulu, 2015 yılında yem amaçlı ithalatına izin verilen GDO’lu MIR604, MON863 ve T25 mısır ile MON87701 soya çeşidine ilişkin izin süresini 10 yıl uzattı. Uzatma başvurusunu BESD-BİR yaptı."
     }
   ],
   "commoditiesByBorsa": {
