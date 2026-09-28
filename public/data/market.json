@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-28T07:40:14.477Z",
+  "updatedAt": "2026-09-28T16:00:04.649Z",
   "fx": [
     {
       "code": "USD",
@@ -11,33 +11,57 @@
     {
       "code": "EUR",
       "name": "Euro",
-      "buy": 55.76,
-      "sell": 55.77,
-      "change": 0.01
+      "buy": 55.71,
+      "sell": 55.72,
+      "change": -0.08
     },
     {
       "code": "GRA",
       "name": "Gram Altın",
-      "buy": 6540.29,
-      "sell": 6541.26,
-      "change": -2.96
+      "buy": 6491.76,
+      "sell": 6492.52,
+      "change": -3.68
     },
     {
       "code": "CEYREKALTIN",
       "name": "Çeyrek Altın",
-      "buy": 10744.76,
-      "sell": 10990.08,
-      "change": 0
+      "buy": 10487.13,
+      "sell": 10728.97,
+      "change": -2.38
     },
     {
       "code": "CUMHURIYETALTINI",
       "name": "Cumhuriyet Altını",
-      "buy": 44465,
-      "sell": 45137,
-      "change": -0.33
+      "buy": 43505,
+      "sell": 44159,
+      "change": -2.17
     }
   ],
   "news": [
+    {
+      "title": "2027 besilik sığır ithalatı başvuruları başlıyor! 480 bin baş için şartlar belli oldu",
+      "url": "https://www.tarimdanhaber.com/2027-besilik-sigir-ithalati-basvurulari-basliyor-480-bin-bas-icin-sartlar-belli-oldu",
+      "source": "Tarımdan Haber",
+      "date": "2026-09-28",
+      "summary": "Tarım ve Orman Bakanlığı, 2027 yılı besilik erkek sığır ithalatı planlamasını açıkladı. Toplam 480 bin baş hayvan için ithalat izni verilmesi planlanırken, başvurular 5-16 Ekim 2026 tarihleri arasında alınacak. 200 baş ve üzeri kapasiteli işletmelere 380 bin, 200 başın altındaki işletmelere ise 100 ",
+      "content": "Tarım ve Orman Bakanlığı, 2027 yılı besilik erkek sığır ithalatı planlamasını açıkladı. Toplam 480 bin baş hayvan için ithalat izni verilmesi planlanırken, başvurular 5-16 Ekim 2026 tarihleri arasında alınacak. 200 baş ve üzeri kapasiteli işletmelere 380 bin, 200 başın altındaki işletmelere ise 100 bin başlık kontenjan ayrıldı. Başvuruda TÜRKVET'teki işletme kapasitesi esas alınacak."
+    },
+    {
+      "title": "Korunga nedir, nasıl ekilir? Kuraklığa dayanıyor, gübre maliyetini düşürüyor",
+      "url": "https://www.tarimdanhaber.com/korunga-nedir-nasil-ekilir-kurakliga-dayaniyor-gubre-maliyetini-dusuruyor",
+      "source": "Tarımdan Haber",
+      "date": "2026-09-28",
+      "summary": "Kuraklık, sulama sorunu ve artan gübre maliyetleri tarımda alternatif ürünleri yeniden önemli hale getirirken, Dr. Gürbüz Mızrak'ın “Korunga (Değeri Bilinmeli)” kitabında korungayla ilgili dikkat çekici bilgiler yer aldı. Kıraç ve sulama imkanı olmayan arazilerde yetişebilen korunganın uygun şartlar",
+      "content": "Kuraklık, sulama sorunu ve artan gübre maliyetleri tarımda alternatif ürünleri yeniden önemli hale getirirken, Dr. Gürbüz Mızrak'ın “Korunga (Değeri Bilinmeli)” kitabında korungayla ilgili dikkat çekici bilgiler yer aldı. Kıraç ve sulama imkanı olmayan arazilerde yetişebilen korunganın uygun şartlarda ikinci yıldan itibaren dekara 13–16 kilogram azot bağlayabildiği belirtilirken, bitkinin hayvancılıkta kaliteli kaba yem kaynağı olarak da önemli avantajları bulunuyor."
+    },
+    {
+      "title": "Çiğ süt fiyatı 1 Ekim'de değişecek mi? Üreticiden Ulusal Süt Konseyi'ne fiyat çağrısı",
+      "url": "https://www.tarimdanhaber.com/cig-sut-fiyati-1-ekimde-degisecek-mi-ureticiden-ulusal-sut-konseyine-fiyat-cagrisi",
+      "source": "Tarımdan Haber",
+      "date": "2026-09-28",
+      "summary": "Çiğ süt fiyatında gözler 1 Ekim’e çevrildi. TÜSEDAD, 1 Mayıs’tan bu yana 5 aydır değişmeyen çiğ süt tavsiye fiyatının artan yem ve üretim maliyetleri nedeniyle güncellenmesini istedi. Üretici fiyatı sabit kalırken süt ve süt ürünlerinin raf fiyatlarının arttığına dikkat çekildi.",
+      "content": "Çiğ süt fiyatında gözler 1 Ekim’e çevrildi. TÜSEDAD, 1 Mayıs’tan bu yana 5 aydır değişmeyen çiğ süt tavsiye fiyatının artan yem ve üretim maliyetleri nedeniyle güncellenmesini istedi. Üretici fiyatı sabit kalırken süt ve süt ürünlerinin raf fiyatlarının arttığına dikkat çekildi."
+    },
     {
       "title": "Buğday fiyatında dikkat çeken hareket! 5 günde 756 TL yükseldi, mısır 834 TL düştü",
       "url": "https://www.tarimdanhaber.com/bugday-fiyatinda-dikkat-ceken-hareket-5-gunde-756-tl-yukseldi-misir-834-tl-dustu",
@@ -77,30 +101,6 @@
       "date": "2026-09-26",
       "summary": "Fon soruşturmasıyla borsadaki manipülasyon ve içeriden bilgi kullanımı iddiaları yeniden gündeme gelirken, GÜBRETAŞ hisselerinde özellikle 2019-2021 döneminde yaşananlar da dikkatleri üzerine çekmişti. Söğüt altın madeni sürecinde sert yükseliş yaşayan hissede, Tarımdan Haber'in yıllar önce gündeme ",
       "content": "Fon soruşturmasıyla borsadaki manipülasyon ve içeriden bilgi kullanımı iddiaları yeniden gündeme gelirken, GÜBRETAŞ hisselerinde özellikle 2019-2021 döneminde yaşananlar da dikkatleri üzerine çekmişti. Söğüt altın madeni sürecinde sert yükseliş yaşayan hissede, Tarımdan Haber'in yıllar önce gündeme getirdiği Adnan Yüce ve dönemin Tarım Kredi Kooperatiflerinin hukuksuz Genel Müdürü Fahrettin Poyraz bağlantısına ilişkin iddialar açıklığa kavuşmayı bekliyor."
-    },
-    {
-      "title": "Devlet yüzde 60 hibe veriyor, çiftçiye 320 bin TL ceza kesiliyor",
-      "url": "https://www.tarimdanhaber.com/devlet-yuzde-60-hibe-veriyor-ciftciye-320-bin-tl-ceza-kesiliyor",
-      "source": "Tarımdan Haber",
-      "date": "2026-09-26",
-      "summary": "Devlet tarımsal sulamada güneş enerjisi yatırımlarına yüzde 60 hibe desteği verirken, kendi imkânlarıyla GES kuran bazı çiftçiler 80 bin TL’den 320 bin TL’ye kadar “kaçak/usulsüz elektrik” cezasıyla karşı karşıya kaldı. Üreticinin önemli gündemlerinden biri haline gelen güneş paneli cezaları Meclis’",
-      "content": "Devlet tarımsal sulamada güneş enerjisi yatırımlarına yüzde 60 hibe desteği verirken, kendi imkânlarıyla GES kuran bazı çiftçiler 80 bin TL’den 320 bin TL’ye kadar “kaçak/usulsüz elektrik” cezasıyla karşı karşıya kaldı. Üreticinin önemli gündemlerinden biri haline gelen güneş paneli cezaları Meclis’e taşındı."
-    },
-    {
-      "title": "Çiftçiye yüzde 50 hibeli kanola tohumu dağıtıldı! 583 üretici yararlandı",
-      "url": "https://www.tarimdanhaber.com/ciftciye-yuzde-50-hibeli-kanola-tohumu-dagitildi-583-uretici-yararlandi",
-      "source": "Tarımdan Haber",
-      "date": "2026-09-26",
-      "summary": "Çiftçilere yönelik yüzde 50 hibeli kanola tohumu desteği kapsamında 583 üreticiye 1.500 torba tohum dağıtıldı. Ankara Büyükşehir Belediyesi, Polatlı, Sincan ve Haymana'da verilen destekle 30 bin dekar arazide kanola üretimi yapılmasını hedefliyor.",
-      "content": "Çiftçilere yönelik yüzde 50 hibeli kanola tohumu desteği kapsamında 583 üreticiye 1.500 torba tohum dağıtıldı. Ankara Büyükşehir Belediyesi, Polatlı, Sincan ve Haymana'da verilen destekle 30 bin dekar arazide kanola üretimi yapılmasını hedefliyor."
-    },
-    {
-      "title": "Çiftçiye mazot desteği için süre uzatıldı! Başvuru için ÇKS ve traktör ruhsatı gerekiyor",
-      "url": "https://www.tarimdanhaber.com/ciftciye-mazot-destegi-icin-sure-uzatildi-basvuru-icin-cks-ve-traktor-ruhsati-gerekiyor",
-      "source": "Tarımdan Haber",
-      "date": "2026-09-26",
-      "summary": "Çiftçilerin artan akaryakıt maliyetlerine karşı beklediği mazot desteğinde başvuru süresi uzatıldı. Ankara Büyükşehir Belediyesi, üreticilerin mazot desteğine 30 Eylül 2026 tarihine kadar başvurabileceğini duyurdu. Başvuruda 2026 yılı Çiftçi Kayıt Sistemi (ÇKS) belgesi ile traktör ruhsatı gerekiyor.",
-      "content": "Çiftçilerin artan akaryakıt maliyetlerine karşı beklediği mazot desteğinde başvuru süresi uzatıldı. Ankara Büyükşehir Belediyesi, üreticilerin mazot desteğine 30 Eylül 2026 tarihine kadar başvurabileceğini duyurdu. Başvuruda 2026 yılı Çiftçi Kayıt Sistemi (ÇKS) belgesi ile traktör ruhsatı gerekiyor."
     }
   ],
   "commoditiesByBorsa": {
