@@ -1,43 +1,51 @@
 {
-  "updatedAt": "2026-09-29T06:58:21.261Z",
+  "updatedAt": "2026-09-29T13:52:02.024Z",
   "fx": [
     {
       "code": "USD",
       "name": "Dolar",
-      "buy": 489978,
-      "sell": 490022,
+      "buy": 489991,
+      "sell": 490015,
       "change": 6
     },
     {
       "code": "EUR",
       "name": "Euro",
-      "buy": 556995,
-      "sell": 557152,
-      "change": -5
+      "buy": 556242,
+      "sell": 556338,
+      "change": -19
     },
     {
       "code": "GRA",
       "name": "Gram Altın",
-      "buy": 652349,
-      "sell": 652437,
-      "change": 68
+      "buy": 655371,
+      "sell": 65547,
+      "change": 115
     },
     {
       "code": "CEYREKALTIN",
       "name": "Çeyrek Altın",
-      "buy": 1048713,
-      "sell": 1072897,
-      "change": 0
+      "buy": 1049715,
+      "sell": 1073702,
+      "change": 8
     },
     {
       "code": "CUMHURIYETALTINI",
       "name": "Cumhuriyet Altını",
-      "buy": 43505,
-      "sell": 44159,
-      "change": -217
+      "buy": 43365,
+      "sell": 44019,
+      "change": -32
     }
   ],
   "news": [
+    {
+      "title": "Çiftçinin güneş panelinde büyük vurgun iddiası! 5 bin çiftçiye 750 milyon TL ceza",
+      "url": "https://www.tarimdanhaber.com/ciftcinin-gunes-panelinde-buyuk-vurgun-iddiasi-5-bin-ciftciye-750-milyon-tl-ceza",
+      "source": "Tarımdan Haber",
+      "date": "2026-09-29",
+      "summary": "İYİ Parti Tarım Politikalarından Sorumlu Genel Başkan Yardımcısı Kadir Ulusoy, kendi elektriğini üretmek için güneş enerjisi sistemi kuran çiftçilere “kaçak elektrik kullanımı” gerekçesiyle ceza kesilmesine sert tepki gösterdi. Ulusoy, 5 bin çiftçiye ceza kesildiğini belirterek, ortalama 150 bin lir",
+      "content": "İYİ Parti Tarım Politikalarından Sorumlu Genel Başkan Yardımcısı Kadir Ulusoy, kendi elektriğini üretmek için güneş enerjisi sistemi kuran çiftçilere “kaçak elektrik kullanımı” gerekçesiyle ceza kesilmesine sert tepki gösterdi. Ulusoy, 5 bin çiftçiye ceza kesildiğini belirterek, ortalama 150 bin liradan toplam rakamın 750 milyon liraya ulaştığını söyledi."
+    },
     {
       "title": "2027 besilik sığır ithalatı başvuruları başlıyor! 480 bin baş için şartlar belli oldu",
       "url": "https://www.tarimdanhaber.com/2027-besilik-sigir-ithalati-basvurulari-basliyor-480-bin-bas-icin-sartlar-belli-oldu",
@@ -93,14 +101,6 @@
       "date": "2026-09-27",
       "summary": "TÜRKŞEKER, 2026/2027 kampanya döneminde üretilecek melas için tahsis sözleşmeli satış fiyatlarını açıkladı. Fabrikaya göre tonu KDV hariç 7 bin 500 TL ile 8 bin 400 TL arasında değişen melas için talepler 25 Eylül 2026'ya kadar alındı. Başvurular Genel Müdürlük tarafından değerlendirilerek uygun gör",
       "content": "TÜRKŞEKER, 2026/2027 kampanya döneminde üretilecek melas için tahsis sözleşmeli satış fiyatlarını açıkladı. Fabrikaya göre tonu KDV hariç 7 bin 500 TL ile 8 bin 400 TL arasında değişen melas için talepler 25 Eylül 2026'ya kadar alındı. Başvurular Genel Müdürlük tarafından değerlendirilerek uygun görülen miktarlar müşterilere tahsis edilecek."
-    },
-    {
-      "title": "Fon soruşturmasında GÜBRETAŞ detayı: Fahrettin Poyraz dönemindeki hisse işlemleri incelenecek mi?",
-      "url": "https://www.tarimdanhaber.com/fon-sorusturmasinda-gubretas-detayi-fahrettin-poyraz-donemindeki-hisse-islemleri-incelenecek-mi",
-      "source": "Tarımdan Haber",
-      "date": "2026-09-26",
-      "summary": "Fon soruşturmasıyla borsadaki manipülasyon ve içeriden bilgi kullanımı iddiaları yeniden gündeme gelirken, GÜBRETAŞ hisselerinde özellikle 2019-2021 döneminde yaşananlar da dikkatleri üzerine çekmişti. Söğüt altın madeni sürecinde sert yükseliş yaşayan hissede, Tarımdan Haber'in yıllar önce gündeme ",
-      "content": "Fon soruşturmasıyla borsadaki manipülasyon ve içeriden bilgi kullanımı iddiaları yeniden gündeme gelirken, GÜBRETAŞ hisselerinde özellikle 2019-2021 döneminde yaşananlar da dikkatleri üzerine çekmişti. Söğüt altın madeni sürecinde sert yükseliş yaşayan hissede, Tarımdan Haber'in yıllar önce gündeme getirdiği Adnan Yüce ve dönemin Tarım Kredi Kooperatiflerinin hukuksuz Genel Müdürü Fahrettin Poyraz bağlantısına ilişkin iddialar açıklığa kavuşmayı bekliyor."
     }
   ],
   "commoditiesByBorsa": {
