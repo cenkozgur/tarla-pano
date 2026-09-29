@@ -1,43 +1,51 @@
 {
-  "updatedAt": "2026-09-29T13:52:02.024Z",
+  "updatedAt": "2026-09-29T19:12:26.360Z",
   "fx": [
     {
       "code": "USD",
       "name": "Dolar",
-      "buy": 489991,
-      "sell": 490015,
-      "change": 6
+      "buy": 49,
+      "sell": 49,
+      "change": 0.06
     },
     {
       "code": "EUR",
       "name": "Euro",
-      "buy": 556242,
-      "sell": 556338,
-      "change": -19
+      "buy": 55.6,
+      "sell": 55.62,
+      "change": -0.22
     },
     {
       "code": "GRA",
       "name": "Gram Altın",
-      "buy": 655371,
-      "sell": 65547,
-      "change": 115
+      "buy": 6568.69,
+      "sell": 6569.4,
+      "change": 1.38
     },
     {
       "code": "CEYREKALTIN",
       "name": "Çeyrek Altın",
-      "buy": 1049715,
-      "sell": 1073702,
-      "change": 8
+      "buy": 10481.8,
+      "sell": 10741.05,
+      "change": 0.11
     },
     {
       "code": "CUMHURIYETALTINI",
       "name": "Cumhuriyet Altını",
-      "buy": 43365,
-      "sell": 44019,
-      "change": -32
+      "buy": 43525,
+      "sell": 44179,
+      "change": 0.05
     }
   ],
   "news": [
+    {
+      "title": "Rusya'dan Türkiye'ye et ithalatında dikkat çeken teklif! Özel şirketler de ithalat yapsın",
+      "url": "https://www.tarimdanhaber.com/rusyadan-turkiyeye-et-ithalatinda-dikkat-ceken-teklif-ozel-sirketler-de-ithalat-yapsin",
+      "source": "Tarımdan Haber",
+      "date": "2026-09-29",
+      "summary": "Rusya, 2026'nın ilk 6 ayında Türkiye'ye 400 ton sığır eti ihraç ederken, iki ülkenin tarım bakanları arasındaki görüşmede dikkat çeken bir teklif gündeme geldi. Rusya, halen Et ve Süt Kurumu üzerinden merkezi olarak yürütülen sığır eti ithalatında özel şirketlerin de devreye alınmasını istedi. Rus t",
+      "content": "Rusya, 2026'nın ilk 6 ayında Türkiye'ye 400 ton sığır eti ihraç ederken, iki ülkenin tarım bakanları arasındaki görüşmede dikkat çeken bir teklif gündeme geldi. Rusya, halen Et ve Süt Kurumu üzerinden merkezi olarak yürütülen sığır eti ithalatında özel şirketlerin de devreye alınmasını istedi. Rus tarafı Türkiye'ye yıllık 5 bin ila 10 bin ton sığır eti ihraç edilebileceğini belirtiyor."
+    },
     {
       "title": "Çiftçinin güneş panelinde büyük vurgun iddiası! 5 bin çiftçiye 750 milyon TL ceza",
       "url": "https://www.tarimdanhaber.com/ciftcinin-gunes-panelinde-buyuk-vurgun-iddiasi-5-bin-ciftciye-750-milyon-tl-ceza",
@@ -93,14 +101,6 @@
       "date": "2026-09-27",
       "summary": "2026 pancar alım fiyatının açıklanması beklenirken TÜRKŞEKER Genel Müdürü Muhittin Şahin'den dikkat çeken açıklama geldi. Rakam vermeyen Şahin, “Tatmin edici bir fiyat olur” derken, pancar fiyatının belirlenmesinde üretim maliyetinden tahıl ve mısır fiyatlarına, gıda fiyatlarından enflasyona kadar b",
       "content": "2026 pancar alım fiyatının açıklanması beklenirken TÜRKŞEKER Genel Müdürü Muhittin Şahin'den dikkat çeken açıklama geldi. Rakam vermeyen Şahin, “Tatmin edici bir fiyat olur” derken, pancar fiyatının belirlenmesinde üretim maliyetinden tahıl ve mısır fiyatlarına, gıda fiyatlarından enflasyona kadar birçok göstergenin dikkate alındığını söyledi. Şahin ayrıca mevcut şeker fiyatlarının maliyetin altında seyrettiğini belirtti."
-    },
-    {
-      "title": "TÜRKŞEKER 2026 melas satış fiyatını açıkladı! Tonu 8 bin 400 TL'ye kadar çıktı",
-      "url": "https://www.tarimdanhaber.com/turkseker-2026-melas-satis-fiyatini-acikladi-tonu-8-bin-400-tlye-kadar-cikti",
-      "source": "Tarımdan Haber",
-      "date": "2026-09-27",
-      "summary": "TÜRKŞEKER, 2026/2027 kampanya döneminde üretilecek melas için tahsis sözleşmeli satış fiyatlarını açıkladı. Fabrikaya göre tonu KDV hariç 7 bin 500 TL ile 8 bin 400 TL arasında değişen melas için talepler 25 Eylül 2026'ya kadar alındı. Başvurular Genel Müdürlük tarafından değerlendirilerek uygun gör",
-      "content": "TÜRKŞEKER, 2026/2027 kampanya döneminde üretilecek melas için tahsis sözleşmeli satış fiyatlarını açıkladı. Fabrikaya göre tonu KDV hariç 7 bin 500 TL ile 8 bin 400 TL arasında değişen melas için talepler 25 Eylül 2026'ya kadar alındı. Başvurular Genel Müdürlük tarafından değerlendirilerek uygun görülen miktarlar müşterilere tahsis edilecek."
     }
   ],
   "commoditiesByBorsa": {
@@ -309,6 +309,16 @@
   "errors": [
     "borsa 5ED10: fetch failed",
     "borsa 5KO10: fetch failed",
-    "borsa 5ES10: fetch failed"
+    "borsa 5ES10: fetch failed",
+    "mazot ANKARA: fetch failed",
+    "mazot ISTANBUL: fetch failed",
+    "mazot IZMIR: fetch failed",
+    "mazot KONYA: fetch failed",
+    "mazot ADANA: fetch failed",
+    "mazot BURSA: fetch failed",
+    "mazot ANTALYA: fetch failed",
+    "mazot SAMSUN: fetch failed",
+    "mazot TEKIRDAG: fetch failed",
+    "mazot CANAKKALE: fetch failed"
   ]
 }
