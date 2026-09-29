@@ -1,33 +1,33 @@
 {
-  "updatedAt": "2026-09-29T19:12:26.360Z",
+  "updatedAt": "2026-09-29T22:58:40.249Z",
   "fx": [
     {
       "code": "USD",
       "name": "Dolar",
-      "buy": 49,
-      "sell": 49,
+      "buy": 49.01,
+      "sell": 49.03,
       "change": 0.06
     },
     {
       "code": "EUR",
       "name": "Euro",
-      "buy": 55.6,
-      "sell": 55.62,
-      "change": -0.22
+      "buy": 55.59,
+      "sell": 55.65,
+      "change": 0.04
     },
     {
       "code": "GRA",
       "name": "Gram Altın",
-      "buy": 6568.69,
-      "sell": 6569.4,
-      "change": 1.38
+      "buy": 6586.95,
+      "sell": 6587.8,
+      "change": 0.01
     },
     {
       "code": "CEYREKALTIN",
       "name": "Çeyrek Altın",
       "buy": 10481.8,
       "sell": 10741.05,
-      "change": 0.11
+      "change": 0
     },
     {
       "code": "CUMHURIYETALTINI",
@@ -38,6 +38,14 @@
     }
   ],
   "news": [
+    {
+      "title": "Besiciye “pahalı hayvan alma” deniliyor! Peki karkas fiyatı neden maliyetle birlikte yükselmiyor?",
+      "url": "https://www.tarimdanhaber.com/besiciye-pahali-hayvan-alma-deniliyor-peki-karkas-fiyati-neden-maliyetle-birlikte-yukselmiyor",
+      "source": "Tarımdan Haber",
+      "date": "2026-09-29",
+      "summary": "UKON'un besicilere yüksek fiyatlardan hayvan almamaları yönündeki uyarısı kırmızı et politikasındaki temel çelişkiyi yeniden gündeme getirdi. Besilik hayvan fiyatları yükselirken, yemden mazota kadar üretim maliyetleri artıyor; buna karşılık dana karkas kesim fiyatı Nisan'dan Eylül'e yükselmek bir y",
+      "content": "UKON'un besicilere yüksek fiyatlardan hayvan almamaları yönündeki uyarısı kırmızı et politikasındaki temel çelişkiyi yeniden gündeme getirdi. Besilik hayvan fiyatları yükselirken, yemden mazota kadar üretim maliyetleri artıyor; buna karşılık dana karkas kesim fiyatı Nisan'dan Eylül'e yükselmek bir yana geriledi. İthal besilik materyale erişim de kota ve tahsise bağlı. Peki besici pahalı hayvan almayacak, karkas fiyatı da maliyet artışını karşılamayacaksa kırmızı et üretimi nasıl sürdürülecek?"
+    },
     {
       "title": "Rusya'dan Türkiye'ye et ithalatında dikkat çeken teklif! Özel şirketler de ithalat yapsın",
       "url": "https://www.tarimdanhaber.com/rusyadan-turkiyeye-et-ithalatinda-dikkat-ceken-teklif-ozel-sirketler-de-ithalat-yapsin",
@@ -93,14 +101,6 @@
       "date": "2026-09-27",
       "summary": "2026 çoban desteği ne kadar, kimler alabilir ve başvuru şartları neler? Gaziantep Damızlık Koyun Keçi Yetiştiricileri Birliği Başkanı Osman Türkman, 116 bin 100 TL'lik sürü yöneticisi desteğinin şartlarını anlattı. Türkman, 100 anaç koyun veya keçinin yanında en az 150 küpelenmiş kuzu-oğlak şartına ",
       "content": "2026 çoban desteği ne kadar, kimler alabilir ve başvuru şartları neler? Gaziantep Damızlık Koyun Keçi Yetiştiricileri Birliği Başkanı Osman Türkman, 116 bin 100 TL'lik sürü yöneticisi desteğinin şartlarını anlattı. Türkman, 100 anaç koyun veya keçinin yanında en az 150 küpelenmiş kuzu-oğlak şartına dikkat çekerek başvuru için kritik tarihi de açıkladı."
-    },
-    {
-      "title": "2026 pancar alım fiyatı ne kadar olacak? TÜRKŞEKER Genel Müdürü Şahin'den açıklama",
-      "url": "https://www.tarimdanhaber.com/2026-pancar-alim-fiyati-ne-kadar-olacak-turkseker-genel-muduru-sahinden-aciklama",
-      "source": "Tarımdan Haber",
-      "date": "2026-09-27",
-      "summary": "2026 pancar alım fiyatının açıklanması beklenirken TÜRKŞEKER Genel Müdürü Muhittin Şahin'den dikkat çeken açıklama geldi. Rakam vermeyen Şahin, “Tatmin edici bir fiyat olur” derken, pancar fiyatının belirlenmesinde üretim maliyetinden tahıl ve mısır fiyatlarına, gıda fiyatlarından enflasyona kadar b",
-      "content": "2026 pancar alım fiyatının açıklanması beklenirken TÜRKŞEKER Genel Müdürü Muhittin Şahin'den dikkat çeken açıklama geldi. Rakam vermeyen Şahin, “Tatmin edici bir fiyat olur” derken, pancar fiyatının belirlenmesinde üretim maliyetinden tahıl ve mısır fiyatlarına, gıda fiyatlarından enflasyona kadar birçok göstergenin dikkate alındığını söyledi. Şahin ayrıca mevcut şeker fiyatlarının maliyetin altında seyrettiğini belirtti."
     }
   ],
   "commoditiesByBorsa": {
@@ -309,16 +309,6 @@
   "errors": [
     "borsa 5ED10: fetch failed",
     "borsa 5KO10: fetch failed",
-    "borsa 5ES10: fetch failed",
-    "mazot ANKARA: fetch failed",
-    "mazot ISTANBUL: fetch failed",
-    "mazot IZMIR: fetch failed",
-    "mazot KONYA: fetch failed",
-    "mazot ADANA: fetch failed",
-    "mazot BURSA: fetch failed",
-    "mazot ANTALYA: fetch failed",
-    "mazot SAMSUN: fetch failed",
-    "mazot TEKIRDAG: fetch failed",
-    "mazot CANAKKALE: fetch failed"
+    "borsa 5ES10: fetch failed"
   ]
 }
