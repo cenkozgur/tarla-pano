@@ -1,26 +1,26 @@
 {
-  "updatedAt": "2026-09-30T14:56:23.884Z",
+  "updatedAt": "2026-09-30T19:53:27.927Z",
   "fx": [
     {
       "code": "USD",
       "name": "Dolar",
-      "buy": 49.02,
+      "buy": 49.01,
       "sell": 49.02,
       "change": 0.06
     },
     {
       "code": "EUR",
       "name": "Euro",
-      "buy": 55.67,
-      "sell": 55.68,
-      "change": 0.13
+      "buy": 55.54,
+      "sell": 55.56,
+      "change": -0.09
     },
     {
       "code": "GRA",
       "name": "Gram Altın",
-      "buy": 6579.07,
-      "sell": 6579.81,
-      "change": -0.11
+      "buy": 6540.87,
+      "sell": 6541.87,
+      "change": -0.68
     },
     {
       "code": "CEYREKALTIN",
@@ -38,6 +38,14 @@
     }
   ],
   "news": [
+    {
+      "title": "Demiröz planlı üretimin 2 yıllık karnesini çıkardı! Pamuk yüzde 96'ya, mısır yüzde 73'e düştü",
+      "url": "https://www.tarimdanhaber.com/demiroz-planli-uretimin-2-yillik-karnesini-cikardi-pamuk-yuzde-96ya-misir-yuzde-73e-dustu",
+      "source": "Tarımdan Haber",
+      "date": "2026-09-30",
+      "summary": "Anahtar Parti Tarım Politikaları Başkanı Hasan Hüseyin Demiröz, 2023-2025 ürün denge verileri üzerinden planlı üretimin ilk iki yıllık dönemini değerlendirdi. Pamukta yeterlilik oranının yüzde 105,9'dan yüzde 96,6'ya, mısırda ise son bir yılda yüzde 96,5'ten yüzde 73,1'e gerilediğine dikkat çeken De",
+      "content": "Anahtar Parti Tarım Politikaları Başkanı Hasan Hüseyin Demiröz, 2023-2025 ürün denge verileri üzerinden planlı üretimin ilk iki yıllık dönemini değerlendirdi. Pamukta yeterlilik oranının yüzde 105,9'dan yüzde 96,6'ya, mısırda ise son bir yılda yüzde 96,5'ten yüzde 73,1'e gerilediğine dikkat çeken Demiröz, Bakan Yumaklı'ya “Bir an önce havza bazlı birlikte üretim modeline geçmeliyiz” çağrısında bulundu."
+    },
     {
       "title": "Pancar alım fiyatı haftaya kaldı! Çiftçi 4 bin 500 TL istiyor, masadaki rakam 3 bin 750 TL",
       "url": "https://www.tarimdanhaber.com/pancar-alim-fiyati-haftaya-kaldi-ciftci-4-bin-500-tl-istiyor-masadaki-rakam-3-bin-750-tl",
@@ -93,14 +101,6 @@
       "date": "2026-09-28",
       "summary": "Tarım ve Orman Bakanlığı, 2027 yılı besilik erkek sığır ithalatı planlamasını açıkladı. Toplam 480 bin baş hayvan için ithalat izni verilmesi planlanırken, başvurular 5-16 Ekim 2026 tarihleri arasında alınacak. 200 baş ve üzeri kapasiteli işletmelere 380 bin, 200 başın altındaki işletmelere ise 100 ",
       "content": "Tarım ve Orman Bakanlığı, 2027 yılı besilik erkek sığır ithalatı planlamasını açıkladı. Toplam 480 bin baş hayvan için ithalat izni verilmesi planlanırken, başvurular 5-16 Ekim 2026 tarihleri arasında alınacak. 200 baş ve üzeri kapasiteli işletmelere 380 bin, 200 başın altındaki işletmelere ise 100 bin başlık kontenjan ayrıldı. Başvuruda TÜRKVET'teki işletme kapasitesi esas alınacak."
-    },
-    {
-      "title": "Korunga nedir, nasıl ekilir? Kuraklığa dayanıyor, gübre maliyetini düşürüyor",
-      "url": "https://www.tarimdanhaber.com/korunga-nedir-nasil-ekilir-kurakliga-dayaniyor-gubre-maliyetini-dusuruyor",
-      "source": "Tarımdan Haber",
-      "date": "2026-09-28",
-      "summary": "Kuraklık, sulama sorunu ve artan gübre maliyetleri tarımda alternatif ürünleri yeniden önemli hale getirirken, Dr. Gürbüz Mızrak'ın “Korunga (Değeri Bilinmeli)” kitabında korungayla ilgili dikkat çekici bilgiler yer aldı. Kıraç ve sulama imkanı olmayan arazilerde yetişebilen korunganın uygun şartlar",
-      "content": "Kuraklık, sulama sorunu ve artan gübre maliyetleri tarımda alternatif ürünleri yeniden önemli hale getirirken, Dr. Gürbüz Mızrak'ın “Korunga (Değeri Bilinmeli)” kitabında korungayla ilgili dikkat çekici bilgiler yer aldı. Kıraç ve sulama imkanı olmayan arazilerde yetişebilen korunganın uygun şartlarda ikinci yıldan itibaren dekara 13–16 kilogram azot bağlayabildiği belirtilirken, bitkinin hayvancılıkta kaliteli kaba yem kaynağı olarak da önemli avantajları bulunuyor."
     }
   ],
   "commoditiesByBorsa": {
