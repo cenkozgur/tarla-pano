@@ -1,11 +1,11 @@
 {
-  "updatedAt": "2026-09-30T08:11:36.418Z",
+  "updatedAt": "2026-09-30T14:56:23.884Z",
   "fx": [
     {
       "code": "USD",
       "name": "Dolar",
-      "buy": 49.01,
-      "sell": 49.03,
+      "buy": 49.02,
+      "sell": 49.02,
       "change": 0.06
     },
     {
@@ -13,31 +13,55 @@
       "name": "Euro",
       "buy": 55.67,
       "sell": 55.68,
-      "change": 0.14
+      "change": 0.13
     },
     {
       "code": "GRA",
       "name": "Gram Altın",
-      "buy": 6611.6,
-      "sell": 6612.63,
-      "change": 0.39
+      "buy": 6579.07,
+      "sell": 6579.81,
+      "change": -0.11
     },
     {
       "code": "CEYREKALTIN",
       "name": "Çeyrek Altın",
-      "buy": 10481.8,
-      "sell": 10741.05,
-      "change": 0
+      "buy": 10544.05,
+      "sell": 10787.15,
+      "change": 0.43
     },
     {
       "code": "CUMHURIYETALTINI",
       "name": "Cumhuriyet Altını",
-      "buy": 43525,
-      "sell": 44179,
-      "change": 0.05
+      "buy": 43795,
+      "sell": 44449,
+      "change": 0.61
     }
   ],
   "news": [
+    {
+      "title": "Pancar alım fiyatı haftaya kaldı! Çiftçi 4 bin 500 TL istiyor, masadaki rakam 3 bin 750 TL",
+      "url": "https://www.tarimdanhaber.com/pancar-alim-fiyati-haftaya-kaldi-ciftci-4-bin-500-tl-istiyor-masadaki-rakam-3-bin-750-tl",
+      "source": "Tarımdan Haber",
+      "date": "2026-09-30",
+      "summary": "Şeker pancarı üreticisinin merakla beklediği 2026 yılı pancar alım fiyatının bu hafta açıklanması bekleniyordu. Ancak Tarımdan Haber’in edindiği bilgilere göre, Tarım ve Orman Bakanı İbrahim Yumaklı’nın yoğun programı nedeniyle fiyat açıklaması gelecek haftaya kaldı. Çiftçi cephesinde 4 bin–4 bin 50",
+      "content": "Şeker pancarı üreticisinin merakla beklediği 2026 yılı pancar alım fiyatının bu hafta açıklanması bekleniyordu. Ancak Tarımdan Haber’in edindiği bilgilere göre, Tarım ve Orman Bakanı İbrahim Yumaklı’nın yoğun programı nedeniyle fiyat açıklaması gelecek haftaya kaldı. Çiftçi cephesinde 4 bin–4 bin 500 TL arasında fiyat talep edilirken, Bakanlık cephesinde konuşulan rakamın 3 bin 750 TL seviyesinde olması dikkat çekiyor."
+    },
+    {
+      "title": "ÇAYKUR Genel Müdürü’nü eleştirdi, çay cüzdanı iptal edildi! Üretici geri adım atmadı",
+      "url": "https://www.tarimdanhaber.com/caykur-genel-mudurunu-elestirdi-cay-cuzdani-iptal-edildi-uretici-geri-adim-atmadi",
+      "source": "Tarımdan Haber",
+      "date": "2026-09-30",
+      "summary": "ÇAYKUR Genel Müdürü Yusuf Ziya Alim’i eleştirmesinin ardından çay cüzdanının iptal edildiğini söyleyen çay üreticisi geri adım atmadı. Cüzdanının yeniden açılması için kendisinden özür dilemesinin istendiğini belirten üretici, bunu kabul etmediğini ve sezon boyunca ÇAYKUR’a bir gram çay satmadan ürü",
+      "content": "ÇAYKUR Genel Müdürü Yusuf Ziya Alim’i eleştirmesinin ardından çay cüzdanının iptal edildiğini söyleyen çay üreticisi geri adım atmadı. Cüzdanının yeniden açılması için kendisinden özür dilemesinin istendiğini belirten üretici, bunu kabul etmediğini ve sezon boyunca ÇAYKUR’a bir gram çay satmadan ürününü özel sektöre verdiğini söyledi. Üretici, çektiği yeni videoda Alim’e yönelik sert eleştirilerini sürdürdü."
+    },
+    {
+      "title": "Çiftçinin güneş paneli cezasında yeni gelişme! Yeni cezalar durdu ama kesilen cezalar silinmedi",
+      "url": "https://www.tarimdanhaber.com/ciftcinin-gunes-paneli-cezasinda-yeni-gelisme-yeni-cezalar-durdu-ama-kesilen-cezalar-silinmedi",
+      "source": "Tarımdan Haber",
+      "date": "2026-09-30",
+      "summary": "Tarımsal sulamada güneş enerjisi kullanan çiftçilere kesilen “kaçak elektrik” cezalarında yeni bir gelişme yaşandı. Tarımdan Haber'in sahadan edindiği bilgilere göre dağıtım şirketleri yeni ceza kesme işlemlerini geçici olarak durdurdu. Ancak daha önce kesilen cezalar için geri adım yok. Cezaların ö",
+      "content": "Tarımsal sulamada güneş enerjisi kullanan çiftçilere kesilen “kaçak elektrik” cezalarında yeni bir gelişme yaşandı. Tarımdan Haber'in sahadan edindiği bilgilere göre dağıtım şirketleri yeni ceza kesme işlemlerini geçici olarak durdurdu. Ancak daha önce kesilen cezalar için geri adım yok. Cezaların ödenmesi, ödenmemesi halinde faiz işlemesi söz konusu. Gözler şimdi TBMM'nin açılmasıyla yapılması beklenen düzenlemede."
+    },
     {
       "title": "Besiciye “pahalı hayvan alma” deniliyor! Peki karkas fiyatı neden maliyetle birlikte yükselmiyor?",
       "url": "https://www.tarimdanhaber.com/besiciye-pahali-hayvan-alma-deniliyor-peki-karkas-fiyati-neden-maliyetle-birlikte-yukselmiyor",
@@ -77,30 +101,6 @@
       "date": "2026-09-28",
       "summary": "Kuraklık, sulama sorunu ve artan gübre maliyetleri tarımda alternatif ürünleri yeniden önemli hale getirirken, Dr. Gürbüz Mızrak'ın “Korunga (Değeri Bilinmeli)” kitabında korungayla ilgili dikkat çekici bilgiler yer aldı. Kıraç ve sulama imkanı olmayan arazilerde yetişebilen korunganın uygun şartlar",
       "content": "Kuraklık, sulama sorunu ve artan gübre maliyetleri tarımda alternatif ürünleri yeniden önemli hale getirirken, Dr. Gürbüz Mızrak'ın “Korunga (Değeri Bilinmeli)” kitabında korungayla ilgili dikkat çekici bilgiler yer aldı. Kıraç ve sulama imkanı olmayan arazilerde yetişebilen korunganın uygun şartlarda ikinci yıldan itibaren dekara 13–16 kilogram azot bağlayabildiği belirtilirken, bitkinin hayvancılıkta kaliteli kaba yem kaynağı olarak da önemli avantajları bulunuyor."
-    },
-    {
-      "title": "Çiğ süt fiyatı 1 Ekim'de değişecek mi? Üreticiden Ulusal Süt Konseyi'ne fiyat çağrısı",
-      "url": "https://www.tarimdanhaber.com/cig-sut-fiyati-1-ekimde-degisecek-mi-ureticiden-ulusal-sut-konseyine-fiyat-cagrisi",
-      "source": "Tarımdan Haber",
-      "date": "2026-09-28",
-      "summary": "Çiğ süt fiyatında gözler 1 Ekim’e çevrildi. TÜSEDAD, 1 Mayıs’tan bu yana 5 aydır değişmeyen çiğ süt tavsiye fiyatının artan yem ve üretim maliyetleri nedeniyle güncellenmesini istedi. Üretici fiyatı sabit kalırken süt ve süt ürünlerinin raf fiyatlarının arttığına dikkat çekildi.",
-      "content": "Çiğ süt fiyatında gözler 1 Ekim’e çevrildi. TÜSEDAD, 1 Mayıs’tan bu yana 5 aydır değişmeyen çiğ süt tavsiye fiyatının artan yem ve üretim maliyetleri nedeniyle güncellenmesini istedi. Üretici fiyatı sabit kalırken süt ve süt ürünlerinin raf fiyatlarının arttığına dikkat çekildi."
-    },
-    {
-      "title": "Buğday fiyatında dikkat çeken hareket! 5 günde 756 TL yükseldi, mısır 834 TL düştü",
-      "url": "https://www.tarimdanhaber.com/bugday-fiyatinda-dikkat-ceken-hareket-5-gunde-756-tl-yukseldi-misir-834-tl-dustu",
-      "source": "Tarımdan Haber",
-      "date": "2026-09-27",
-      "summary": "Buğday, arpa ve mısır fiyatlarında 21-25 Eylül haftasının bilançosu belli oldu. 15 ticaret borsasının ortalama fiyatlarına göre makarnalık buğdayın tonu 5 günde 756 TL artarak 18.007 TL'ye yükselirken, ekmeklik buğday 442 TL değer kazandı. Aynı dönemde mısır 834 TL, yulaf ise 1.219 TL geriledi. İşte",
-      "content": "Buğday, arpa ve mısır fiyatlarında 21-25 Eylül haftasının bilançosu belli oldu. 15 ticaret borsasının ortalama fiyatlarına göre makarnalık buğdayın tonu 5 günde 756 TL artarak 18.007 TL'ye yükselirken, ekmeklik buğday 442 TL değer kazandı. Aynı dönemde mısır 834 TL, yulaf ise 1.219 TL geriledi. İşte 27 Eylül Pazar günü itibarıyla geçen haftanın hububat fiyatları ve 5 günlük fiyat hareketi..."
-    },
-    {
-      "title": "100 koyunu olan dikkat! 2026 çoban desteği 116 bin 100 TL: Başvuru şartları neler?",
-      "url": "https://www.tarimdanhaber.com/100-koyunu-olan-dikkat-2026-coban-destegi-116-bin-100-tl-basvuru-sartlari-neler",
-      "source": "Tarımdan Haber",
-      "date": "2026-09-27",
-      "summary": "2026 çoban desteği ne kadar, kimler alabilir ve başvuru şartları neler? Gaziantep Damızlık Koyun Keçi Yetiştiricileri Birliği Başkanı Osman Türkman, 116 bin 100 TL'lik sürü yöneticisi desteğinin şartlarını anlattı. Türkman, 100 anaç koyun veya keçinin yanında en az 150 küpelenmiş kuzu-oğlak şartına ",
-      "content": "2026 çoban desteği ne kadar, kimler alabilir ve başvuru şartları neler? Gaziantep Damızlık Koyun Keçi Yetiştiricileri Birliği Başkanı Osman Türkman, 116 bin 100 TL'lik sürü yöneticisi desteğinin şartlarını anlattı. Türkman, 100 anaç koyun veya keçinin yanında en az 150 küpelenmiş kuzu-oğlak şartına dikkat çekerek başvuru için kritik tarihi de açıkladı."
     }
   ],
   "commoditiesByBorsa": {
@@ -309,16 +309,6 @@
   "errors": [
     "borsa 5ED10: fetch failed",
     "borsa 5KO10: fetch failed",
-    "borsa 5ES10: fetch failed",
-    "mazot ANKARA: fetch failed",
-    "mazot ISTANBUL: fetch failed",
-    "mazot IZMIR: fetch failed",
-    "mazot KONYA: fetch failed",
-    "mazot ADANA: fetch failed",
-    "mazot BURSA: fetch failed",
-    "mazot ANTALYA: fetch failed",
-    "mazot SAMSUN: fetch failed",
-    "mazot TEKIRDAG: fetch failed",
-    "mazot CANAKKALE: fetch failed"
+    "borsa 5ES10: fetch failed"
   ]
 }
