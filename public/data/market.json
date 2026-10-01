@@ -1,33 +1,33 @@
 {
-  "updatedAt": "2026-10-01T16:30:28.547Z",
+  "updatedAt": "2026-10-01T21:12:24.927Z",
   "fx": [
     {
       "code": "USD",
       "name": "Dolar",
-      "buy": 49.02,
-      "sell": 49.04,
-      "change": 0.04
+      "buy": 49.11,
+      "sell": 49.15,
+      "change": 0.09
     },
     {
       "code": "EUR",
       "name": "Euro",
-      "buy": 55.22,
-      "sell": 55.26,
-      "change": -0.58
+      "buy": 55.13,
+      "sell": 55.45,
+      "change": -0.07
     },
     {
       "code": "GRA",
       "name": "Gram Altın",
-      "buy": 6566.46,
-      "sell": 6567.32,
-      "change": 0.24
+      "buy": 6598.43,
+      "sell": 6599.25,
+      "change": 0.1
     },
     {
       "code": "CEYREKALTIN",
       "name": "Çeyrek Altın",
       "buy": 10507.52,
       "sell": 10747.62,
-      "change": -0.37
+      "change": 0
     },
     {
       "code": "CUMHURIYETALTINI",
@@ -254,24 +254,24 @@
     }
   ],
   "dieselByCity": {
-    "ANKARA": 98.2,
-    "ISTANBUL": 97.05,
-    "IZMIR": 98.5,
-    "KONYA": 99.3,
-    "ADANA": 99,
-    "BURSA": 98.1,
-    "ANTALYA": 99.5,
-    "SAMSUN": 98.8,
-    "TEKIRDAG": 97.9,
-    "CANAKKALE": 98.8
+    "ANKARA": 98.3,
+    "ISTANBUL": 97.15,
+    "IZMIR": 98.6,
+    "KONYA": 99.4,
+    "ADANA": 99.1,
+    "BURSA": 98.2,
+    "ANTALYA": 99.6,
+    "SAMSUN": 98.9,
+    "TEKIRDAG": 98,
+    "CANAKKALE": 98.9
   },
   "inputs": [
     {
       "key": "motorin",
       "name": "Motorin (mazot)",
       "unit": "₺/lt",
-      "price": 98.8,
-      "change": 0,
+      "price": 98.9,
+      "change": 0.1,
       "source": "CANAKKALE ort."
     },
     {
@@ -309,16 +309,6 @@
   "errors": [
     "borsa 5ED10: fetch failed",
     "borsa 5KO10: fetch failed",
-    "borsa 5ES10: fetch failed",
-    "mazot ANKARA: fetch failed",
-    "mazot ISTANBUL: fetch failed",
-    "mazot IZMIR: fetch failed",
-    "mazot KONYA: fetch failed",
-    "mazot ADANA: fetch failed",
-    "mazot BURSA: fetch failed",
-    "mazot ANTALYA: fetch failed",
-    "mazot SAMSUN: fetch failed",
-    "mazot TEKIRDAG: fetch failed",
-    "mazot CANAKKALE: fetch failed"
+    "borsa 5ES10: fetch failed"
   ]
 }
