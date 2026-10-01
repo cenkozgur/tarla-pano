@@ -1,43 +1,67 @@
 {
-  "updatedAt": "2026-10-01T02:20:43.015Z",
+  "updatedAt": "2026-10-01T09:18:16.194Z",
   "fx": [
     {
       "code": "USD",
       "name": "Dolar",
-      "buy": 49.03,
-      "sell": 49.05,
-      "change": 0.05
+      "buy": 490303,
+      "sell": 490394,
+      "change": 4
     },
     {
       "code": "EUR",
       "name": "Euro",
-      "buy": 55.6,
-      "sell": 55.69,
-      "change": 0.15
+      "buy": 555266,
+      "sell": 555436,
+      "change": -5
     },
     {
       "code": "GRA",
       "name": "Gram Altın",
-      "buy": 6546.89,
-      "sell": 6547.81,
-      "change": -0.06
+      "buy": 655989,
+      "sell": 656086,
+      "change": 14
     },
     {
       "code": "CEYREKALTIN",
       "name": "Çeyrek Altın",
-      "buy": 10544.05,
-      "sell": 10787.15,
-      "change": 0
+      "buy": 1049681,
+      "sell": 1073666,
+      "change": -47
     },
     {
       "code": "CUMHURIYETALTINI",
       "name": "Cumhuriyet Altını",
       "buy": 43795,
       "sell": 44449,
-      "change": 0.61
+      "change": 61
     }
   ],
   "news": [
+    {
+      "title": "Ardahan Tarım ve Orman İl Müdürü Harun Akıllı kimdir?",
+      "url": "https://www.tarimdanhaber.com/ardahan-tarim-ve-orman-il-muduru-harun-akilli-kimdir",
+      "source": "Tarımdan Haber",
+      "date": "2026-10-01",
+      "summary": "Ardahan Tarım ve Orman İl Müdürü Harun Akıllı kimdir? Tarım ve Orman Bakanlığında farklı görevlerde bulunan Veteriner Hekim Harun Akıllı, 2026 yılında Ardahan Tarım ve Orman İl Müdürlüğü görevine getirildi. Peki Harun Akıllı hangi üniversiteden mezun oldu, daha önce nerelerde görev yaptı? İşte Ardah",
+      "content": "Ardahan Tarım ve Orman İl Müdürü Harun Akıllı kimdir? Tarım ve Orman Bakanlığında farklı görevlerde bulunan Veteriner Hekim Harun Akıllı, 2026 yılında Ardahan Tarım ve Orman İl Müdürlüğü görevine getirildi. Peki Harun Akıllı hangi üniversiteden mezun oldu, daha önce nerelerde görev yaptı? İşte Ardahan Tarım ve Orman İl Müdürü Harun Akıllı’nın özgeçmişi ve mesleki kariyeri..."
+    },
+    {
+      "title": "Korunga nasıl ekilir? Dekara kaç kilo tohum ve hangi gübre atılır?",
+      "url": "https://www.tarimdanhaber.com/korunga-nasil-ekilir-dekara-kac-kilo-tohum-ve-hangi-gubre-atilir",
+      "source": "Tarımdan Haber",
+      "date": "2026-10-01",
+      "summary": "Korunga yetiştirmek isteyen çiftçinin en çok merak ettiği konuların başında ekim zamanı, dekara kullanılacak tohum miktarı ve gübreleme geliyor. Dr. Gürbüz Mızrak'ın “Korunga (Değeri Bilinmeli)” kitabında, kurak bölgelerden kaba yem üretimine kadar farklı amaçlara göre kullanılacak tohum miktarları ",
+      "content": "Korunga yetiştirmek isteyen çiftçinin en çok merak ettiği konuların başında ekim zamanı, dekara kullanılacak tohum miktarı ve gübreleme geliyor. Dr. Gürbüz Mızrak'ın “Korunga (Değeri Bilinmeli)” kitabında, kurak bölgelerden kaba yem üretimine kadar farklı amaçlara göre kullanılacak tohum miktarları ve gübreleme programı ayrıntılı şekilde ele aldı."
+    },
+    {
+      "title": "Et kesim fiyatları 2026 | Güncel karkas et, dana ve kuzu kesim fiyatları",
+      "url": "https://www.tarimdanhaber.com/sigir-kesim-fiyatlari",
+      "source": "Tarımdan Haber",
+      "date": "2026-10-01",
+      "summary": "2026 et kesim fiyatları ne kadar? Dana, kuzu ve karkas et fiyatları üretici ve besiciler tarafından yakından takip ediliyor. UKON'un 24 Eylül verilerine göre dana kesim fiyatı 584,17 TL/kg, kuzu kesim fiyatı ise 616,43 TL/kg oldu. Güncel kesim fiyatlarını ve 2026 yılı boyunca haftalık fiyat değişimi",
+      "content": "2026 et kesim fiyatları ne kadar? Dana, kuzu ve karkas et fiyatları üretici ve besiciler tarafından yakından takip ediliyor. UKON'un 24 Eylül verilerine göre dana kesim fiyatı 584,17 TL/kg, kuzu kesim fiyatı ise 616,43 TL/kg oldu. Güncel kesim fiyatlarını ve 2026 yılı boyunca haftalık fiyat değişimini bu sayfadan takip edebilirsiniz."
+    },
     {
       "title": "Demiröz planlı üretimin 2 yıllık karnesini çıkardı! Pamuk yüzde 96'ya, mısır yüzde 73'e düştü",
       "url": "https://www.tarimdanhaber.com/demiroz-planli-uretimin-2-yillik-karnesini-cikardi-pamuk-yuzde-96ya-misir-yuzde-73e-dustu",
@@ -77,30 +101,6 @@
       "date": "2026-09-29",
       "summary": "UKON'un besicilere yüksek fiyatlardan hayvan almamaları yönündeki uyarısı kırmızı et politikasındaki temel çelişkiyi yeniden gündeme getirdi. Besilik hayvan fiyatları yükselirken, yemden mazota kadar üretim maliyetleri artıyor; buna karşılık dana karkas kesim fiyatı Nisan'dan Eylül'e yükselmek bir y",
       "content": "UKON'un besicilere yüksek fiyatlardan hayvan almamaları yönündeki uyarısı kırmızı et politikasındaki temel çelişkiyi yeniden gündeme getirdi. Besilik hayvan fiyatları yükselirken, yemden mazota kadar üretim maliyetleri artıyor; buna karşılık dana karkas kesim fiyatı Nisan'dan Eylül'e yükselmek bir yana geriledi. İthal besilik materyale erişim de kota ve tahsise bağlı. Peki besici pahalı hayvan almayacak, karkas fiyatı da maliyet artışını karşılamayacaksa kırmızı et üretimi nasıl sürdürülecek?"
-    },
-    {
-      "title": "Rusya'dan Türkiye'ye et ithalatında dikkat çeken teklif! Özel şirketler de ithalat yapsın",
-      "url": "https://www.tarimdanhaber.com/rusyadan-turkiyeye-et-ithalatinda-dikkat-ceken-teklif-ozel-sirketler-de-ithalat-yapsin",
-      "source": "Tarımdan Haber",
-      "date": "2026-09-29",
-      "summary": "Rusya, 2026'nın ilk 6 ayında Türkiye'ye 400 ton sığır eti ihraç ederken, iki ülkenin tarım bakanları arasındaki görüşmede dikkat çeken bir teklif gündeme geldi. Rusya, halen Et ve Süt Kurumu üzerinden merkezi olarak yürütülen sığır eti ithalatında özel şirketlerin de devreye alınmasını istedi. Rus t",
-      "content": "Rusya, 2026'nın ilk 6 ayında Türkiye'ye 400 ton sığır eti ihraç ederken, iki ülkenin tarım bakanları arasındaki görüşmede dikkat çeken bir teklif gündeme geldi. Rusya, halen Et ve Süt Kurumu üzerinden merkezi olarak yürütülen sığır eti ithalatında özel şirketlerin de devreye alınmasını istedi. Rus tarafı Türkiye'ye yıllık 5 bin ila 10 bin ton sığır eti ihraç edilebileceğini belirtiyor."
-    },
-    {
-      "title": "Çiftçinin güneş panelinde büyük vurgun iddiası! 5 bin çiftçiye 750 milyon TL ceza",
-      "url": "https://www.tarimdanhaber.com/ciftcinin-gunes-panelinde-buyuk-vurgun-iddiasi-5-bin-ciftciye-750-milyon-tl-ceza",
-      "source": "Tarımdan Haber",
-      "date": "2026-09-29",
-      "summary": "İYİ Parti Tarım Politikalarından Sorumlu Genel Başkan Yardımcısı Kadir Ulusoy, kendi elektriğini üretmek için güneş enerjisi sistemi kuran çiftçilere “kaçak elektrik kullanımı” gerekçesiyle ceza kesilmesine sert tepki gösterdi. Ulusoy, 5 bin çiftçiye ceza kesildiğini belirterek, ortalama 150 bin lir",
-      "content": "İYİ Parti Tarım Politikalarından Sorumlu Genel Başkan Yardımcısı Kadir Ulusoy, kendi elektriğini üretmek için güneş enerjisi sistemi kuran çiftçilere “kaçak elektrik kullanımı” gerekçesiyle ceza kesilmesine sert tepki gösterdi. Ulusoy, 5 bin çiftçiye ceza kesildiğini belirterek, ortalama 150 bin liradan toplam rakamın 750 milyon liraya ulaştığını söyledi."
-    },
-    {
-      "title": "2027 besilik sığır ithalatı başvuruları başlıyor! 480 bin baş için şartlar belli oldu",
-      "url": "https://www.tarimdanhaber.com/2027-besilik-sigir-ithalati-basvurulari-basliyor-480-bin-bas-icin-sartlar-belli-oldu",
-      "source": "Tarımdan Haber",
-      "date": "2026-09-28",
-      "summary": "Tarım ve Orman Bakanlığı, 2027 yılı besilik erkek sığır ithalatı planlamasını açıkladı. Toplam 480 bin baş hayvan için ithalat izni verilmesi planlanırken, başvurular 5-16 Ekim 2026 tarihleri arasında alınacak. 200 baş ve üzeri kapasiteli işletmelere 380 bin, 200 başın altındaki işletmelere ise 100 ",
-      "content": "Tarım ve Orman Bakanlığı, 2027 yılı besilik erkek sığır ithalatı planlamasını açıkladı. Toplam 480 bin baş hayvan için ithalat izni verilmesi planlanırken, başvurular 5-16 Ekim 2026 tarihleri arasında alınacak. 200 baş ve üzeri kapasiteli işletmelere 380 bin, 200 başın altındaki işletmelere ise 100 bin başlık kontenjan ayrıldı. Başvuruda TÜRKVET'teki işletme kapasitesi esas alınacak."
     }
   ],
   "commoditiesByBorsa": {
