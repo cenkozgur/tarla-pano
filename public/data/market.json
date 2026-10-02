@@ -1,43 +1,67 @@
 {
-  "updatedAt": "2026-10-02T12:43:41.585Z",
+  "updatedAt": "2026-10-02T18:02:27.699Z",
   "fx": [
     {
       "code": "USD",
       "name": "Dolar",
-      "buy": 49.14,
-      "sell": 49.15,
-      "change": 0.12
+      "buy": 49.13,
+      "sell": 49.14,
+      "change": 0.1
     },
     {
       "code": "EUR",
       "name": "Euro",
       "buy": 55.32,
-      "sell": 55.34,
-      "change": 0
+      "sell": 55.37,
+      "change": 0.03
     },
     {
       "code": "GRA",
       "name": "Gram Altın",
-      "buy": 6647.47,
-      "sell": 6648.44,
-      "change": 0.84
+      "buy": 6533.46,
+      "sell": 6534.33,
+      "change": -0.89
     },
     {
       "code": "CEYREKALTIN",
       "name": "Çeyrek Altın",
-      "buy": 10644.49,
-      "sell": 10897.91,
-      "change": 1.4
+      "buy": 10600.05,
+      "sell": 10850.27,
+      "change": 0.96
     },
     {
       "code": "CUMHURIYETALTINI",
       "name": "Cumhuriyet Altını",
-      "buy": 43875,
-      "sell": 44529,
-      "change": 1.46
+      "buy": 43965,
+      "sell": 44619,
+      "change": 1.66
     }
   ],
   "news": [
+    {
+      "title": "TMO 5,5 milyon ton buğdayı piyasaya veriyor! Ekim ayı satış fiyatları belli oldu",
+      "url": "https://www.tarimdanhaber.com/tmo-55-milyon-ton-bugdayi-piyasaya-veriyor-ekim-ayi-satis-fiyatlari-belli-oldu",
+      "source": "Tarımdan Haber",
+      "date": "2026-10-02",
+      "summary": "Toprak Mahsulleri Ofisi, 5 Ekim’den itibaren toplam 5,5 milyon ton ekmeklik ve makarnalık buğdayı satışa çıkarıyor. TMO, lisanslı depolardaki buğdayın TÜRİB üzerinden serbest satışını sürdürürken, kendi depolarındaki stokları da kullanıcılarına serbest satışa açtı. Ekmeklik ve makarnalık buğdayda sa",
+      "content": "Toprak Mahsulleri Ofisi, 5 Ekim’den itibaren toplam 5,5 milyon ton ekmeklik ve makarnalık buğdayı satışa çıkarıyor. TMO, lisanslı depolardaki buğdayın TÜRİB üzerinden serbest satışını sürdürürken, kendi depolarındaki stokları da kullanıcılarına serbest satışa açtı. Ekmeklik ve makarnalık buğdayda satış fiyatı kalite grubuna göre ton başına 16 bin 750 TL ile 18 bin 500 TL arasında değişirken, TMO fiyatlarda artış yapılmadığını açıkladı."
+    },
+    {
+      "title": "Tarım devi Avustralya’da çiftçi karı yüzde 39 eriyor! Türkiye için buğday ve et uyarısı",
+      "url": "https://www.tarimdanhaber.com/tarim-devi-avustralyada-ciftci-kari-yuzde-39-eriyor-turkiye-icin-bugday-ve-et-uyarisi",
+      "source": "Tarımdan Haber",
+      "date": "2026-10-02",
+      "summary": "Dünyanın önde gelen tarım ve gıda ihracatçılarından Avustralya, 2024-2025 döneminde küresel ticarette ortaya çıkan fırsatları önemli ölçüde değerlendirirken, 2026-2027 sezonuna üretim değeri ve çiftlik kârlılığındaki gerilemeyle giriyor.",
+      "content": "Dünyanın önde gelen tarım ve gıda ihracatçılarından Avustralya, 2024-2025 döneminde küresel ticarette ortaya çıkan fırsatları önemli ölçüde değerlendirirken, 2026-2027 sezonuna üretim değeri ve çiftlik kârlılığındaki gerilemeyle giriyor."
+    },
+    {
+      "title": "Buğday piyasasının gözü Karadeniz’de! Türkiye ve BM’den yeni tahıl koridoru hamlesi",
+      "url": "https://www.tarimdanhaber.com/bugday-piyasasinin-gozu-karadenizde-turkiye-ve-bmden-yeni-tahil-koridoru-hamlesi",
+      "source": "Tarımdan Haber",
+      "date": "2026-10-02",
+      "summary": "Türkiye ve Birleşmiş Milletler, Karadeniz üzerinden yapılan tahıl sevkiyatlarının güvenliğini sağlamak amacıyla Rusya ve Ukrayna arasında yeni bir diplomatik girişim başlatıyor. Küresel tahıl piyasaları açısından kritik öneme sahip görüşmelerin Ekim ayının ilk günlerinde yapılması planlanıyor.",
+      "content": "Türkiye ve Birleşmiş Milletler, Karadeniz üzerinden yapılan tahıl sevkiyatlarının güvenliğini sağlamak amacıyla Rusya ve Ukrayna arasında yeni bir diplomatik girişim başlatıyor. Küresel tahıl piyasaları açısından kritik öneme sahip görüşmelerin Ekim ayının ilk günlerinde yapılması planlanıyor."
+    },
     {
       "title": "Ardahan Tarım ve Orman İl Müdürü Harun Akıllı kimdir?",
       "url": "https://www.tarimdanhaber.com/ardahan-tarim-ve-orman-il-muduru-harun-akilli-kimdir",
@@ -77,30 +101,6 @@
       "date": "2026-09-30",
       "summary": "Şeker pancarı üreticisinin merakla beklediği 2026 yılı pancar alım fiyatının bu hafta açıklanması bekleniyordu. Ancak Tarımdan Haber’in edindiği bilgilere göre, Tarım ve Orman Bakanı İbrahim Yumaklı’nın yoğun programı nedeniyle fiyat açıklaması gelecek haftaya kaldı. Çiftçi cephesinde 4 bin–4 bin 50",
       "content": "Şeker pancarı üreticisinin merakla beklediği 2026 yılı pancar alım fiyatının bu hafta açıklanması bekleniyordu. Ancak Tarımdan Haber’in edindiği bilgilere göre, Tarım ve Orman Bakanı İbrahim Yumaklı’nın yoğun programı nedeniyle fiyat açıklaması gelecek haftaya kaldı. Çiftçi cephesinde 4 bin–4 bin 500 TL arasında fiyat talep edilirken, Bakanlık cephesinde konuşulan rakamın 3 bin 750 TL seviyesinde olması dikkat çekiyor."
-    },
-    {
-      "title": "ÇAYKUR Genel Müdürü’nü eleştirdi, çay cüzdanı iptal edildi! Üretici geri adım atmadı",
-      "url": "https://www.tarimdanhaber.com/caykur-genel-mudurunu-elestirdi-cay-cuzdani-iptal-edildi-uretici-geri-adim-atmadi",
-      "source": "Tarımdan Haber",
-      "date": "2026-09-30",
-      "summary": "ÇAYKUR Genel Müdürü Yusuf Ziya Alim’i eleştirmesinin ardından çay cüzdanının iptal edildiğini söyleyen çay üreticisi geri adım atmadı. Cüzdanının yeniden açılması için kendisinden özür dilemesinin istendiğini belirten üretici, bunu kabul etmediğini ve sezon boyunca ÇAYKUR’a bir gram çay satmadan ürü",
-      "content": "ÇAYKUR Genel Müdürü Yusuf Ziya Alim’i eleştirmesinin ardından çay cüzdanının iptal edildiğini söyleyen çay üreticisi geri adım atmadı. Cüzdanının yeniden açılması için kendisinden özür dilemesinin istendiğini belirten üretici, bunu kabul etmediğini ve sezon boyunca ÇAYKUR’a bir gram çay satmadan ürününü özel sektöre verdiğini söyledi. Üretici, çektiği yeni videoda Alim’e yönelik sert eleştirilerini sürdürdü."
-    },
-    {
-      "title": "Çiftçinin güneş paneli cezasında yeni gelişme! Yeni cezalar durdu ama kesilen cezalar silinmedi",
-      "url": "https://www.tarimdanhaber.com/ciftcinin-gunes-paneli-cezasinda-yeni-gelisme-yeni-cezalar-durdu-ama-kesilen-cezalar-silinmedi",
-      "source": "Tarımdan Haber",
-      "date": "2026-09-30",
-      "summary": "Tarımsal sulamada güneş enerjisi kullanan çiftçilere kesilen “kaçak elektrik” cezalarında yeni bir gelişme yaşandı. Tarımdan Haber'in sahadan edindiği bilgilere göre dağıtım şirketleri yeni ceza kesme işlemlerini geçici olarak durdurdu. Ancak daha önce kesilen cezalar için geri adım yok. Cezaların ö",
-      "content": "Tarımsal sulamada güneş enerjisi kullanan çiftçilere kesilen “kaçak elektrik” cezalarında yeni bir gelişme yaşandı. Tarımdan Haber'in sahadan edindiği bilgilere göre dağıtım şirketleri yeni ceza kesme işlemlerini geçici olarak durdurdu. Ancak daha önce kesilen cezalar için geri adım yok. Cezaların ödenmesi, ödenmemesi halinde faiz işlemesi söz konusu. Gözler şimdi TBMM'nin açılmasıyla yapılması beklenen düzenlemede."
-    },
-    {
-      "title": "Besiciye “pahalı hayvan alma” deniliyor! Peki karkas fiyatı neden maliyetle birlikte yükselmiyor?",
-      "url": "https://www.tarimdanhaber.com/besiciye-pahali-hayvan-alma-deniliyor-peki-karkas-fiyati-neden-maliyetle-birlikte-yukselmiyor",
-      "source": "Tarımdan Haber",
-      "date": "2026-09-29",
-      "summary": "UKON'un besicilere yüksek fiyatlardan hayvan almamaları yönündeki uyarısı kırmızı et politikasındaki temel çelişkiyi yeniden gündeme getirdi. Besilik hayvan fiyatları yükselirken, yemden mazota kadar üretim maliyetleri artıyor; buna karşılık dana karkas kesim fiyatı Nisan'dan Eylül'e yükselmek bir y",
-      "content": "UKON'un besicilere yüksek fiyatlardan hayvan almamaları yönündeki uyarısı kırmızı et politikasındaki temel çelişkiyi yeniden gündeme getirdi. Besilik hayvan fiyatları yükselirken, yemden mazota kadar üretim maliyetleri artıyor; buna karşılık dana karkas kesim fiyatı Nisan'dan Eylül'e yükselmek bir yana geriledi. İthal besilik materyale erişim de kota ve tahsise bağlı. Peki besici pahalı hayvan almayacak, karkas fiyatı da maliyet artışını karşılamayacaksa kırmızı et üretimi nasıl sürdürülecek?"
     }
   ],
   "commoditiesByBorsa": {
