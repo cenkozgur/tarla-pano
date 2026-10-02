@@ -1,26 +1,26 @@
 {
-  "updatedAt": "2026-10-02T18:02:27.699Z",
+  "updatedAt": "2026-10-02T22:05:31.000Z",
   "fx": [
     {
       "code": "USD",
       "name": "Dolar",
-      "buy": 49.13,
-      "sell": 49.14,
-      "change": 0.1
+      "buy": 49.07,
+      "sell": 49.18,
+      "change": 0.08
     },
     {
       "code": "EUR",
       "name": "Euro",
-      "buy": 55.32,
-      "sell": 55.37,
-      "change": 0.03
+      "buy": 55.24,
+      "sell": 55.4,
+      "change": -0.02
     },
     {
       "code": "GRA",
       "name": "Gram Altın",
-      "buy": 6533.46,
-      "sell": 6534.33,
-      "change": -0.89
+      "buy": 6541.91,
+      "sell": 6542.72,
+      "change": -0.76
     },
     {
       "code": "CEYREKALTIN",
@@ -38,6 +38,14 @@
     }
   ],
   "news": [
+    {
+      "title": "2027 haşhaş alım fiyatı belli oldu! Kilosu 150 TL’ye kadar çıkacak",
+      "url": "https://www.tarimdanhaber.com/2027-hashas-alim-fiyati-belli-oldu-kilosu-150-tlye-kadar-cikacak",
+      "source": "Tarımdan Haber",
+      "date": "2026-10-02",
+      "summary": "TMO, 2026-2027 dönemi haşhaş ekim başvurularını açtı. 2027 alım döneminde düşük morfinli haşhaş kapsülü 75 TL/kg’dan, yüksek morfinli kapsül ise morfin oranına göre kademeli olarak 150 TL/kg’a kadar alınacak. Başvurular 30 Ekim’de sona erecek. Yeni dönemde 3 parsel ve 30 dekar sınırlaması uygulanmay",
+      "content": "TMO, 2026-2027 dönemi haşhaş ekim başvurularını açtı. 2027 alım döneminde düşük morfinli haşhaş kapsülü 75 TL/kg’dan, yüksek morfinli kapsül ise morfin oranına göre kademeli olarak 150 TL/kg’a kadar alınacak. Başvurular 30 Ekim’de sona erecek. Yeni dönemde 3 parsel ve 30 dekar sınırlaması uygulanmayacak, ekim alanları uydu görüntüleriyle kontrol edilecek."
+    },
     {
       "title": "TMO 5,5 milyon ton buğdayı piyasaya veriyor! Ekim ayı satış fiyatları belli oldu",
       "url": "https://www.tarimdanhaber.com/tmo-55-milyon-ton-bugdayi-piyasaya-veriyor-ekim-ayi-satis-fiyatlari-belli-oldu",
@@ -93,14 +101,6 @@
       "date": "2026-09-30",
       "summary": "Anahtar Parti Tarım Politikaları Başkanı Hasan Hüseyin Demiröz, 2023-2025 ürün denge verileri üzerinden planlı üretimin ilk iki yıllık dönemini değerlendirdi. Pamukta yeterlilik oranının yüzde 105,9'dan yüzde 96,6'ya, mısırda ise son bir yılda yüzde 96,5'ten yüzde 73,1'e gerilediğine dikkat çeken De",
       "content": "Anahtar Parti Tarım Politikaları Başkanı Hasan Hüseyin Demiröz, 2023-2025 ürün denge verileri üzerinden planlı üretimin ilk iki yıllık dönemini değerlendirdi. Pamukta yeterlilik oranının yüzde 105,9'dan yüzde 96,6'ya, mısırda ise son bir yılda yüzde 96,5'ten yüzde 73,1'e gerilediğine dikkat çeken Demiröz, Bakan Yumaklı'ya “Bir an önce havza bazlı birlikte üretim modeline geçmeliyiz” çağrısında bulundu."
-    },
-    {
-      "title": "Pancar alım fiyatı haftaya kaldı! Çiftçi 4 bin 500 TL istiyor, masadaki rakam 3 bin 750 TL",
-      "url": "https://www.tarimdanhaber.com/pancar-alim-fiyati-haftaya-kaldi-ciftci-4-bin-500-tl-istiyor-masadaki-rakam-3-bin-750-tl",
-      "source": "Tarımdan Haber",
-      "date": "2026-09-30",
-      "summary": "Şeker pancarı üreticisinin merakla beklediği 2026 yılı pancar alım fiyatının bu hafta açıklanması bekleniyordu. Ancak Tarımdan Haber’in edindiği bilgilere göre, Tarım ve Orman Bakanı İbrahim Yumaklı’nın yoğun programı nedeniyle fiyat açıklaması gelecek haftaya kaldı. Çiftçi cephesinde 4 bin–4 bin 50",
-      "content": "Şeker pancarı üreticisinin merakla beklediği 2026 yılı pancar alım fiyatının bu hafta açıklanması bekleniyordu. Ancak Tarımdan Haber’in edindiği bilgilere göre, Tarım ve Orman Bakanı İbrahim Yumaklı’nın yoğun programı nedeniyle fiyat açıklaması gelecek haftaya kaldı. Çiftçi cephesinde 4 bin–4 bin 500 TL arasında fiyat talep edilirken, Bakanlık cephesinde konuşulan rakamın 3 bin 750 TL seviyesinde olması dikkat çekiyor."
     }
   ],
   "commoditiesByBorsa": {
@@ -254,24 +254,24 @@
     }
   ],
   "dieselByCity": {
-    "ANKARA": 98.3,
-    "ISTANBUL": 97.15,
-    "IZMIR": 98.6,
-    "KONYA": 99.4,
-    "ADANA": 99.1,
-    "BURSA": 98.2,
-    "ANTALYA": 99.6,
-    "SAMSUN": 98.9,
-    "TEKIRDAG": 98,
-    "CANAKKALE": 98.9
+    "ANKARA": 96.1,
+    "ISTANBUL": 94.95,
+    "IZMIR": 96.4,
+    "KONYA": 97.2,
+    "ADANA": 96.9,
+    "BURSA": 96,
+    "ANTALYA": 97.4,
+    "SAMSUN": 96.7,
+    "TEKIRDAG": 95.8,
+    "CANAKKALE": 96.7
   },
   "inputs": [
     {
       "key": "motorin",
       "name": "Motorin (mazot)",
       "unit": "₺/lt",
-      "price": 98.9,
-      "change": 0,
+      "price": 96.7,
+      "change": -2.22,
       "source": "CANAKKALE ort."
     },
     {
