@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-04T06:23:01.605Z",
+  "updatedAt": "2026-10-04T12:45:38.575Z",
   "fx": [
     {
       "code": "USD",
@@ -39,12 +39,20 @@
   ],
   "news": [
     {
+      "title": "Hububat fiyatlarında dikkat çeken ayrışma! Buğday yükseldi, mısır 4 günde 2 bin 877 TL düştü",
+      "url": "https://www.tarimdanhaber.com/hububat-fiyatlarinda-dikkat-ceken-ayrisma-bugday-yukseldi-misir-4-gunde-2-bin-877-tl-dustu",
+      "source": "Tarımdan Haber",
+      "date": "2026-10-04",
+      "summary": "Ticaret borsalarında geçtiğimiz haftanın hububat fiyat hareketleri ürün bazında farklı bir tablo ortaya koydu. 15 borsanın ortalama fiyatlarına göre 28 Eylül–2 Ekim arasında ekmeklik buğday ton başına 228 TL, makarnalık buğday 314 TL ve arpa 106 TL yükselirken, mısırda 2 bin 877 TL’lik sert gerileme",
+      "content": "Ticaret borsalarında geçtiğimiz haftanın hububat fiyat hareketleri ürün bazında farklı bir tablo ortaya koydu. 15 borsanın ortalama fiyatlarına göre 28 Eylül–2 Ekim arasında ekmeklik buğday ton başına 228 TL, makarnalık buğday 314 TL ve arpa 106 TL yükselirken, mısırda 2 bin 877 TL’lik sert gerileme dikkat çekti. Mısırdaki düşüşün büyük bölümü haftanın son işlem gününde gerçekleşti."
+    },
+    {
       "title": "Korunga mı yonca mı? Hayvan beslemede korunganın dikkat çeken avantajları",
       "url": "https://www.tarimdanhaber.com/korunga-mi-yonca-mi-hayvan-beslemede-korunganin-dikkat-ceken-avantajlari",
       "source": "Tarımdan Haber",
       "date": "2026-10-04",
-      "summary": "Hayvancılıkta kaliteli kaba yem üretimi işletmenin en kritik konularından biri olurken, korunga özellikle kıraç ve sulama imkânı sınırlı araziler için dikkat çekiyor. “Korunga (Değeri Bilinmeli)” kitabında, korunganın yoncaya alternatif olabilecek özellikleri, protein değeri ve geviş getiren hayvanl",
-      "content": "Hayvancılıkta kaliteli kaba yem üretimi işletmenin en kritik konularından biri olurken, korunga özellikle kıraç ve sulama imkânı sınırlı araziler için dikkat çekiyor. “Korunga (Değeri Bilinmeli)” kitabında, korunganın yoncaya alternatif olabilecek özellikleri, protein değeri ve geviş getiren hayvanların beslenmesindeki avantajları ortaya konuluyor."
+      "summary": "Hayvancılıkta kaliteli kaba yem üretimi işletmenin en kritik konularından biri olurken, korunga özellikle kıraç ve sulama imkanı sınırlı araziler için dikkat çekiyor. “Korunga (Değeri Bilinmeli)” kitabında, korunganın yoncaya alternatif olabilecek özellikleri, protein değeri ve geviş getiren hayvanl",
+      "content": "Hayvancılıkta kaliteli kaba yem üretimi işletmenin en kritik konularından biri olurken, korunga özellikle kıraç ve sulama imkanı sınırlı araziler için dikkat çekiyor. “Korunga (Değeri Bilinmeli)” kitabında, korunganın yoncaya alternatif olabilecek özellikleri, protein değeri ve geviş getiren hayvanların beslenmesindeki avantajları ortaya konuluyor."
     },
     {
       "title": "“Genel Müdürü eleştirdim, çay cüzdanımı iptal ettiler” demişti! İşte ÇAYKUR’un gönderdiği belge",
@@ -93,14 +101,6 @@
       "date": "2026-10-02",
       "summary": "Dünyanın önde gelen tarım ve gıda ihracatçılarından Avustralya, 2024-2025 döneminde küresel ticarette ortaya çıkan fırsatları önemli ölçüde değerlendirirken, 2026-2027 sezonuna üretim değeri ve çiftlik kârlılığındaki gerilemeyle giriyor.",
       "content": "Dünyanın önde gelen tarım ve gıda ihracatçılarından Avustralya, 2024-2025 döneminde küresel ticarette ortaya çıkan fırsatları önemli ölçüde değerlendirirken, 2026-2027 sezonuna üretim değeri ve çiftlik kârlılığındaki gerilemeyle giriyor."
-    },
-    {
-      "title": "Buğday piyasasının gözü Karadeniz’de! Türkiye ve BM’den yeni tahıl koridoru hamlesi",
-      "url": "https://www.tarimdanhaber.com/bugday-piyasasinin-gozu-karadenizde-turkiye-ve-bmden-yeni-tahil-koridoru-hamlesi",
-      "source": "Tarımdan Haber",
-      "date": "2026-10-02",
-      "summary": "Türkiye ve Birleşmiş Milletler, Karadeniz üzerinden yapılan tahıl sevkiyatlarının güvenliğini sağlamak amacıyla Rusya ve Ukrayna arasında yeni bir diplomatik girişim başlatıyor. Küresel tahıl piyasaları açısından kritik öneme sahip görüşmelerin Ekim ayının ilk günlerinde yapılması planlanıyor.",
-      "content": "Türkiye ve Birleşmiş Milletler, Karadeniz üzerinden yapılan tahıl sevkiyatlarının güvenliğini sağlamak amacıyla Rusya ve Ukrayna arasında yeni bir diplomatik girişim başlatıyor. Küresel tahıl piyasaları açısından kritik öneme sahip görüşmelerin Ekim ayının ilk günlerinde yapılması planlanıyor."
     }
   ],
   "commoditiesByBorsa": {
