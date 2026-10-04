@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-04T17:03:06.947Z",
+  "updatedAt": "2026-10-04T20:03:12.820Z",
   "fx": [
     {
       "code": "USD",
@@ -38,6 +38,14 @@
     }
   ],
   "news": [
+    {
+      "title": "Tarım Bakanı İbrahim Yumaklı’nın mutlu günü! Kızı Nihan Yumaklı evlendi",
+      "url": "https://www.tarimdanhaber.com/tarim-bakani-ibrahim-yumaklinin-mutlu-gunu-kizi-nihan-yumakli-evlendi",
+      "source": "Tarımdan Haber",
+      "date": "2026-10-04",
+      "summary": "Tarım ve Orman Bakanı İbrahim Yumaklı’nın kızı Nihan Yumaklı ile Zahid Yüceler dünyaevine girdi. Ankara’da gerçekleştirilen düğün merasimine TBMM Başkanı Numan Kurtulmuş’un yanı sıra bakanlar, siyaset ve bürokrasiden isimler ile Yumaklı ve Yüceler ailelerinin yakınları ve sevenleri katıldı.",
+      "content": "Tarım ve Orman Bakanı İbrahim Yumaklı’nın kızı Nihan Yumaklı ile Zahid Yüceler dünyaevine girdi. Ankara’da gerçekleştirilen düğün merasimine TBMM Başkanı Numan Kurtulmuş’un yanı sıra bakanlar, siyaset ve bürokrasiden isimler ile Yumaklı ve Yüceler ailelerinin yakınları ve sevenleri katıldı."
+    },
     {
       "title": "Hububat fiyatlarında dikkat çeken ayrışma! Buğday yükseldi, mısır 4 günde 2 bin 877 TL düştü",
       "url": "https://www.tarimdanhaber.com/hububat-fiyatlarinda-dikkat-ceken-ayrisma-bugday-yukseldi-misir-4-gunde-2-bin-877-tl-dustu",
@@ -93,14 +101,6 @@
       "date": "2026-10-02",
       "summary": "Toprak Mahsulleri Ofisi, 5 Ekim’den itibaren toplam 5,5 milyon ton ekmeklik ve makarnalık buğdayı satışa çıkarıyor. TMO, lisanslı depolardaki buğdayın TÜRİB üzerinden serbest satışını sürdürürken, kendi depolarındaki stokları da kullanıcılarına serbest satışa açtı. Ekmeklik ve makarnalık buğdayda sa",
       "content": "Toprak Mahsulleri Ofisi, 5 Ekim’den itibaren toplam 5,5 milyon ton ekmeklik ve makarnalık buğdayı satışa çıkarıyor. TMO, lisanslı depolardaki buğdayın TÜRİB üzerinden serbest satışını sürdürürken, kendi depolarındaki stokları da kullanıcılarına serbest satışa açtı. Ekmeklik ve makarnalık buğdayda satış fiyatı kalite grubuna göre ton başına 16 bin 750 TL ile 18 bin 500 TL arasında değişirken, TMO fiyatlarda artış yapılmadığını açıkladı."
-    },
-    {
-      "title": "Tarım devi Avustralya’da çiftçi karı yüzde 39 eriyor! Türkiye için buğday ve et uyarısı",
-      "url": "https://www.tarimdanhaber.com/tarim-devi-avustralyada-ciftci-kari-yuzde-39-eriyor-turkiye-icin-bugday-ve-et-uyarisi",
-      "source": "Tarımdan Haber",
-      "date": "2026-10-02",
-      "summary": "Dünyanın önde gelen tarım ve gıda ihracatçılarından Avustralya, 2024-2025 döneminde küresel ticarette ortaya çıkan fırsatları önemli ölçüde değerlendirirken, 2026-2027 sezonuna üretim değeri ve çiftlik kârlılığındaki gerilemeyle giriyor.",
-      "content": "Dünyanın önde gelen tarım ve gıda ihracatçılarından Avustralya, 2024-2025 döneminde küresel ticarette ortaya çıkan fırsatları önemli ölçüde değerlendirirken, 2026-2027 sezonuna üretim değeri ve çiftlik kârlılığındaki gerilemeyle giriyor."
     }
   ],
   "commoditiesByBorsa": {
@@ -309,16 +309,6 @@
   "errors": [
     "borsa 5ED10: fetch failed",
     "borsa 5KO10: fetch failed",
-    "borsa 5ES10: fetch failed",
-    "mazot ANKARA: fetch failed",
-    "mazot ISTANBUL: fetch failed",
-    "mazot IZMIR: fetch failed",
-    "mazot KONYA: fetch failed",
-    "mazot ADANA: fetch failed",
-    "mazot BURSA: fetch failed",
-    "mazot ANTALYA: fetch failed",
-    "mazot SAMSUN: fetch failed",
-    "mazot TEKIRDAG: fetch failed",
-    "mazot CANAKKALE: fetch failed"
+    "borsa 5ES10: fetch failed"
   ]
 }
