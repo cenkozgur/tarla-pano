@@ -1,43 +1,59 @@
 {
-  "updatedAt": "2026-10-04T20:03:12.820Z",
+  "updatedAt": "2026-10-04T22:59:55.457Z",
   "fx": [
     {
       "code": "USD",
       "name": "Dolar",
-      "buy": 49.07,
-      "sell": 49.18,
-      "change": 0.08
+      "buy": 49.1,
+      "sell": 49.11,
+      "change": -0.04
     },
     {
       "code": "EUR",
       "name": "Euro",
-      "buy": 55.24,
-      "sell": 55.4,
-      "change": -0.02
+      "buy": 55.31,
+      "sell": 55.36,
+      "change": 0.03
     },
     {
       "code": "GRA",
       "name": "Gram Altın",
-      "buy": 6541.91,
-      "sell": 6542.72,
-      "change": -0.76
+      "buy": 6548.06,
+      "sell": 6548.88,
+      "change": 0.09
     },
     {
       "code": "CEYREKALTIN",
       "name": "Çeyrek Altın",
-      "buy": 10600.05,
-      "sell": 10850.27,
-      "change": 0.96
+      "buy": 10521.39,
+      "sell": 10761.81,
+      "change": 0
     },
     {
       "code": "CUMHURIYETALTINI",
       "name": "Cumhuriyet Altını",
-      "buy": 43965,
-      "sell": 44619,
-      "change": 1.66
+      "buy": 43585,
+      "sell": 44239,
+      "change": -0.85
     }
   ],
   "news": [
+    {
+      "title": "Çiğ süt desteğinde liste yayımlandı! Üreticiler için 11 Ekim uyarısı",
+      "url": "https://www.tarimdanhaber.com/cig-sut-desteginde-liste-yayimlandi-ureticiler-icin-11-ekim-uyarisi",
+      "source": "Tarımdan Haber",
+      "date": "2026-10-04",
+      "summary": "2026 yılı Ocak, Şubat ve Mart dönemine ilişkin çiğ süt desteği askı icmali Bolu Merkez İlçe için yayımlandı. Listede bilgisi eksik veya hatalı olan üreticilerin 11 Ekim 2026 mesai bitimine kadar itirazda bulunması gerekiyor.",
+      "content": "2026 yılı Ocak, Şubat ve Mart dönemine ilişkin çiğ süt desteği askı icmali Bolu Merkez İlçe için yayımlandı. Listede bilgisi eksik veya hatalı olan üreticilerin 11 Ekim 2026 mesai bitimine kadar itirazda bulunması gerekiyor."
+    },
+    {
+      "title": "Hayvancılık yapan aile işletmelerine yem ezme makinesi desteği! Başvurular başladı",
+      "url": "https://www.tarimdanhaber.com/hayvancilik-yapan-aile-isletmelerine-yem-ezme-makinesi-destegi-basvurular-basladi",
+      "source": "Tarımdan Haber",
+      "date": "2026-10-04",
+      "summary": "Sivas’ta küçük ölçekli hayvancılık işletmelerine yönelik “Yemini Öğüt Buzağını Büyüt Projesi” için başvurular başladı. Proje kapsamında 5 ile 20 baş hayvana sahip aile işletmelerine toplam 35 yem ezme makinesi temin edilecek. Kadın ve genç yetiştiricilere öncelik verilecek.",
+      "content": "Sivas’ta küçük ölçekli hayvancılık işletmelerine yönelik “Yemini Öğüt Buzağını Büyüt Projesi” için başvurular başladı. Proje kapsamında 5 ile 20 baş hayvana sahip aile işletmelerine toplam 35 yem ezme makinesi temin edilecek. Kadın ve genç yetiştiricilere öncelik verilecek."
+    },
     {
       "title": "Tarım Bakanı İbrahim Yumaklı’nın mutlu günü! Kızı Nihan Yumaklı evlendi",
       "url": "https://www.tarimdanhaber.com/tarim-bakani-ibrahim-yumaklinin-mutlu-gunu-kizi-nihan-yumakli-evlendi",
@@ -85,22 +101,6 @@
       "date": "2026-10-03",
       "summary": "İK TARIMÜSSÜ Uluslararası Danışmanlık tarafından hazırlanan Tarım Piyasaları Bülteni’nin 94. sayısı yayımlandı. 5 Ekim 2026 tarihli yeni sayıda; hububat ve yağlı tohum piyasalarından canlı hayvana, pamuktan et ve süte, tarımsal dış ticaretten girdi maliyetlerine ve dünya hububat piyasalarına kadar s",
       "content": "İK TARIMÜSSÜ Uluslararası Danışmanlık tarafından hazırlanan Tarım Piyasaları Bülteni’nin 94. sayısı yayımlandı. 5 Ekim 2026 tarihli yeni sayıda; hububat ve yağlı tohum piyasalarından canlı hayvana, pamuktan et ve süte, tarımsal dış ticaretten girdi maliyetlerine ve dünya hububat piyasalarına kadar sektörün yakından takip ettiği çok sayıda veri ve gösterge yer alıyor. Tarımdan Haber, bültende öne çıkan verileri önümüzdeki günlerde ayrı ayrı haberleştirecek."
-    },
-    {
-      "title": "2027 haşhaş alım fiyatı belli oldu! Kilosu 150 TL’ye kadar çıkacak",
-      "url": "https://www.tarimdanhaber.com/2027-hashas-alim-fiyati-belli-oldu-kilosu-150-tlye-kadar-cikacak",
-      "source": "Tarımdan Haber",
-      "date": "2026-10-02",
-      "summary": "TMO, 2026-2027 dönemi haşhaş ekim başvurularını açtı. 2027 alım döneminde düşük morfinli haşhaş kapsülü 75 TL/kg’dan, yüksek morfinli kapsül ise morfin oranına göre kademeli olarak 150 TL/kg’a kadar alınacak. Başvurular 30 Ekim’de sona erecek. Yeni dönemde 3 parsel ve 30 dekar sınırlaması uygulanmay",
-      "content": "TMO, 2026-2027 dönemi haşhaş ekim başvurularını açtı. 2027 alım döneminde düşük morfinli haşhaş kapsülü 75 TL/kg’dan, yüksek morfinli kapsül ise morfin oranına göre kademeli olarak 150 TL/kg’a kadar alınacak. Başvurular 30 Ekim’de sona erecek. Yeni dönemde 3 parsel ve 30 dekar sınırlaması uygulanmayacak, ekim alanları uydu görüntüleriyle kontrol edilecek."
-    },
-    {
-      "title": "TMO 5,5 milyon ton buğdayı piyasaya veriyor! Ekim ayı satış fiyatları belli oldu",
-      "url": "https://www.tarimdanhaber.com/tmo-55-milyon-ton-bugdayi-piyasaya-veriyor-ekim-ayi-satis-fiyatlari-belli-oldu",
-      "source": "Tarımdan Haber",
-      "date": "2026-10-02",
-      "summary": "Toprak Mahsulleri Ofisi, 5 Ekim’den itibaren toplam 5,5 milyon ton ekmeklik ve makarnalık buğdayı satışa çıkarıyor. TMO, lisanslı depolardaki buğdayın TÜRİB üzerinden serbest satışını sürdürürken, kendi depolarındaki stokları da kullanıcılarına serbest satışa açtı. Ekmeklik ve makarnalık buğdayda sa",
-      "content": "Toprak Mahsulleri Ofisi, 5 Ekim’den itibaren toplam 5,5 milyon ton ekmeklik ve makarnalık buğdayı satışa çıkarıyor. TMO, lisanslı depolardaki buğdayın TÜRİB üzerinden serbest satışını sürdürürken, kendi depolarındaki stokları da kullanıcılarına serbest satışa açtı. Ekmeklik ve makarnalık buğdayda satış fiyatı kalite grubuna göre ton başına 16 bin 750 TL ile 18 bin 500 TL arasında değişirken, TMO fiyatlarda artış yapılmadığını açıkladı."
     }
   ],
   "commoditiesByBorsa": {
@@ -309,6 +309,16 @@
   "errors": [
     "borsa 5ED10: fetch failed",
     "borsa 5KO10: fetch failed",
-    "borsa 5ES10: fetch failed"
+    "borsa 5ES10: fetch failed",
+    "mazot ANKARA: fetch failed",
+    "mazot ISTANBUL: fetch failed",
+    "mazot IZMIR: fetch failed",
+    "mazot KONYA: fetch failed",
+    "mazot ADANA: fetch failed",
+    "mazot BURSA: fetch failed",
+    "mazot ANTALYA: fetch failed",
+    "mazot SAMSUN: fetch failed",
+    "mazot TEKIRDAG: fetch failed",
+    "mazot CANAKKALE: fetch failed"
   ]
 }
