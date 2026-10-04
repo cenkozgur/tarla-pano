@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-04T00:39:35.487Z",
+  "updatedAt": "2026-10-04T06:23:01.605Z",
   "fx": [
     {
       "code": "USD",
@@ -38,6 +38,14 @@
     }
   ],
   "news": [
+    {
+      "title": "Korunga mı yonca mı? Hayvan beslemede korunganın dikkat çeken avantajları",
+      "url": "https://www.tarimdanhaber.com/korunga-mi-yonca-mi-hayvan-beslemede-korunganin-dikkat-ceken-avantajlari",
+      "source": "Tarımdan Haber",
+      "date": "2026-10-04",
+      "summary": "Hayvancılıkta kaliteli kaba yem üretimi işletmenin en kritik konularından biri olurken, korunga özellikle kıraç ve sulama imkânı sınırlı araziler için dikkat çekiyor. “Korunga (Değeri Bilinmeli)” kitabında, korunganın yoncaya alternatif olabilecek özellikleri, protein değeri ve geviş getiren hayvanl",
+      "content": "Hayvancılıkta kaliteli kaba yem üretimi işletmenin en kritik konularından biri olurken, korunga özellikle kıraç ve sulama imkânı sınırlı araziler için dikkat çekiyor. “Korunga (Değeri Bilinmeli)” kitabında, korunganın yoncaya alternatif olabilecek özellikleri, protein değeri ve geviş getiren hayvanların beslenmesindeki avantajları ortaya konuluyor."
+    },
     {
       "title": "“Genel Müdürü eleştirdim, çay cüzdanımı iptal ettiler” demişti! İşte ÇAYKUR’un gönderdiği belge",
       "url": "https://www.tarimdanhaber.com/genel-muduru-elestirdim-cay-cuzdanimi-iptal-ettiler-demisti-iste-caykurun-gonderdigi-belge",
@@ -93,14 +101,6 @@
       "date": "2026-10-02",
       "summary": "Türkiye ve Birleşmiş Milletler, Karadeniz üzerinden yapılan tahıl sevkiyatlarının güvenliğini sağlamak amacıyla Rusya ve Ukrayna arasında yeni bir diplomatik girişim başlatıyor. Küresel tahıl piyasaları açısından kritik öneme sahip görüşmelerin Ekim ayının ilk günlerinde yapılması planlanıyor.",
       "content": "Türkiye ve Birleşmiş Milletler, Karadeniz üzerinden yapılan tahıl sevkiyatlarının güvenliğini sağlamak amacıyla Rusya ve Ukrayna arasında yeni bir diplomatik girişim başlatıyor. Küresel tahıl piyasaları açısından kritik öneme sahip görüşmelerin Ekim ayının ilk günlerinde yapılması planlanıyor."
-    },
-    {
-      "title": "Ardahan Tarım ve Orman İl Müdürü Harun Akıllı kimdir?",
-      "url": "https://www.tarimdanhaber.com/ardahan-tarim-ve-orman-il-muduru-harun-akilli-kimdir",
-      "source": "Tarımdan Haber",
-      "date": "2026-10-01",
-      "summary": "Ardahan Tarım ve Orman İl Müdürü Harun Akıllı kimdir? Tarım ve Orman Bakanlığında farklı görevlerde bulunan Veteriner Hekim Harun Akıllı, 2026 yılında Ardahan Tarım ve Orman İl Müdürlüğü görevine getirildi. Peki Harun Akıllı hangi üniversiteden mezun oldu, daha önce nerelerde görev yaptı? İşte Ardah",
-      "content": "Ardahan Tarım ve Orman İl Müdürü Harun Akıllı kimdir? Tarım ve Orman Bakanlığında farklı görevlerde bulunan Veteriner Hekim Harun Akıllı, 2026 yılında Ardahan Tarım ve Orman İl Müdürlüğü görevine getirildi. Peki Harun Akıllı hangi üniversiteden mezun oldu, daha önce nerelerde görev yaptı? İşte Ardahan Tarım ve Orman İl Müdürü Harun Akıllı’nın özgeçmişi ve mesleki kariyeri..."
     }
   ],
   "commoditiesByBorsa": {
@@ -309,16 +309,6 @@
   "errors": [
     "borsa 5ED10: fetch failed",
     "borsa 5KO10: fetch failed",
-    "borsa 5ES10: fetch failed",
-    "mazot ANKARA: fetch failed",
-    "mazot ISTANBUL: fetch failed",
-    "mazot IZMIR: fetch failed",
-    "mazot KONYA: fetch failed",
-    "mazot ADANA: fetch failed",
-    "mazot BURSA: fetch failed",
-    "mazot ANTALYA: fetch failed",
-    "mazot SAMSUN: fetch failed",
-    "mazot TEKIRDAG: fetch failed",
-    "mazot CANAKKALE: fetch failed"
+    "borsa 5ES10: fetch failed"
   ]
 }
