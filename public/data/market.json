@@ -1,33 +1,33 @@
 {
-  "updatedAt": "2026-10-05T16:23:51.423Z",
+  "updatedAt": "2026-10-05T22:51:57.256Z",
   "fx": [
     {
       "code": "USD",
       "name": "Dolar",
-      "buy": 49.15,
-      "sell": 49.16,
-      "change": 0.06
+      "buy": 49.12,
+      "sell": 49.15,
+      "change": -0.01
     },
     {
       "code": "EUR",
       "name": "Euro",
-      "buy": 55.11,
-      "sell": 55.13,
-      "change": -0.37
+      "buy": 55.1,
+      "sell": 55.24,
+      "change": -0.03
     },
     {
       "code": "GRA",
       "name": "Gram Altın",
-      "buy": 6525.75,
-      "sell": 6526.52,
-      "change": -0.25
+      "buy": 6542.41,
+      "sell": 6543.25,
+      "change": 0.03
     },
     {
       "code": "CEYREKALTIN",
       "name": "Çeyrek Altın",
       "buy": 10500.99,
       "sell": 10740.95,
-      "change": -0.19
+      "change": 0
     },
     {
       "code": "CUMHURIYETALTINI",
@@ -38,6 +38,14 @@
     }
   ],
   "news": [
+    {
+      "title": "Fransa çiftçisine 25 milyar euroluk dev kaynak! Tarım eğitimi bile Bakanlığın bütçesinde",
+      "url": "https://www.tarimdanhaber.com/fransa-ciftcisine-25-milyar-euroluk-dev-kaynak-tarim-egitimi-bile-bakanligin-butcesinde",
+      "source": "Tarımdan Haber",
+      "date": "2026-10-05",
+      "summary": "Tarım Politikaları Uzmanı Ergin Kahveci, Fransa'nın 2027 yılı tarım bütçesine dikkat çekti. Ulusal bütçe, AB Ortak Tarım Politikası kaynakları ile sosyal ve mali tedbirler birlikte değerlendirildiğinde tarım ve gıda sektörüne yaklaşık 25 milyar euroluk kaynak öngörülürken; bütçede üretimin yanında t",
+      "content": "Tarım Politikaları Uzmanı Ergin Kahveci, Fransa'nın 2027 yılı tarım bütçesine dikkat çekti. Ulusal bütçe, AB Ortak Tarım Politikası kaynakları ile sosyal ve mali tedbirler birlikte değerlendirildiğinde tarım ve gıda sektörüne yaklaşık 25 milyar euroluk kaynak öngörülürken; bütçede üretimin yanında tarımsal eğitim, genç çiftçiler, yatırım ve krizlere karşı koruma da önemli yer tutuyor."
+    },
     {
       "title": "Tarım Kredi'nin yonca alımında dikkat çeken düzenek! Çiftçiden alan firma, çiftçinin şirketine satıyor",
       "url": "https://www.tarimdanhaber.com/tarim-kredinin-yonca-aliminda-dikkat-ceken-duzenek-ciftciden-alan-firma-ciftcinin-sirketine-satiyor",
@@ -93,14 +101,6 @@
       "date": "2026-10-04",
       "summary": "Hayvancılıkta kaliteli kaba yem üretimi işletmenin en kritik konularından biri olurken, korunga özellikle kıraç ve sulama imkanı sınırlı araziler için dikkat çekiyor. “Korunga (Değeri Bilinmeli)” kitabında, korunganın yoncaya alternatif olabilecek özellikleri, protein değeri ve geviş getiren hayvanl",
       "content": "Hayvancılıkta kaliteli kaba yem üretimi işletmenin en kritik konularından biri olurken, korunga özellikle kıraç ve sulama imkanı sınırlı araziler için dikkat çekiyor. “Korunga (Değeri Bilinmeli)” kitabında, korunganın yoncaya alternatif olabilecek özellikleri, protein değeri ve geviş getiren hayvanların beslenmesindeki avantajları ortaya konuluyor."
-    },
-    {
-      "title": "“Genel Müdürü eleştirdim, çay cüzdanımı iptal ettiler” demişti! İşte ÇAYKUR’un gönderdiği belge",
-      "url": "https://www.tarimdanhaber.com/genel-muduru-elestirdim-cay-cuzdanimi-iptal-ettiler-demisti-iste-caykurun-gonderdigi-belge",
-      "source": "Tarımdan Haber",
-      "date": "2026-10-03",
-      "summary": "ÇAYKUR Genel Müdürü Yusuf Ziya Alim’i sosyal medyada eleştirdikten sonra çay cüzdanının iptal edildiğini açıklayan üretici İlyas Köse’ye gönderilen resmi yazı ortaya çıktı. ÇAYKUR Kendirli Çay Fabrikası Müdürlüğünün “Sosyal Medya Paylaşımı” konulu yazısında Köse’nin sosyal medya üzerinden yaptığı pa",
-      "content": "ÇAYKUR Genel Müdürü Yusuf Ziya Alim’i sosyal medyada eleştirdikten sonra çay cüzdanının iptal edildiğini açıklayan üretici İlyas Köse’ye gönderilen resmi yazı ortaya çıktı. ÇAYKUR Kendirli Çay Fabrikası Müdürlüğünün “Sosyal Medya Paylaşımı” konulu yazısında Köse’nin sosyal medya üzerinden yaptığı paylaşımlara yer verilerek, Yaş Çay Ürünü Alım Satım Sözleşmesi’nin 7. maddesi gereğince sözleşmesinin feshedildiği bildiriliyor."
     }
   ],
   "commoditiesByBorsa": {
@@ -309,6 +309,16 @@
   "errors": [
     "borsa 5ED10: fetch failed",
     "borsa 5KO10: fetch failed",
-    "borsa 5ES10: fetch failed"
+    "borsa 5ES10: fetch failed",
+    "mazot ANKARA: fetch failed",
+    "mazot ISTANBUL: fetch failed",
+    "mazot IZMIR: fetch failed",
+    "mazot KONYA: fetch failed",
+    "mazot ADANA: fetch failed",
+    "mazot BURSA: fetch failed",
+    "mazot ANTALYA: fetch failed",
+    "mazot SAMSUN: fetch failed",
+    "mazot TEKIRDAG: fetch failed",
+    "mazot CANAKKALE: fetch failed"
   ]
 }
