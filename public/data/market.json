@@ -1,43 +1,59 @@
 {
-  "updatedAt": "2026-10-05T07:42:03.389Z",
+  "updatedAt": "2026-10-05T16:23:51.423Z",
   "fx": [
     {
       "code": "USD",
       "name": "Dolar",
-      "buy": 49.16,
+      "buy": 49.15,
       "sell": 49.16,
-      "change": 0.07
+      "change": 0.06
     },
     {
       "code": "EUR",
       "name": "Euro",
-      "buy": 55.1,
-      "sell": 55.11,
-      "change": -0.39
+      "buy": 55.11,
+      "sell": 55.13,
+      "change": -0.37
     },
     {
       "code": "GRA",
       "name": "Gram Altın",
-      "buy": 6569.56,
-      "sell": 6570.54,
-      "change": 0.43
+      "buy": 6525.75,
+      "sell": 6526.52,
+      "change": -0.25
     },
     {
       "code": "CEYREKALTIN",
       "name": "Çeyrek Altın",
-      "buy": 10521.39,
-      "sell": 10761.81,
-      "change": 0
+      "buy": 10500.99,
+      "sell": 10740.95,
+      "change": -0.19
     },
     {
       "code": "CUMHURIYETALTINI",
       "name": "Cumhuriyet Altını",
-      "buy": 43585,
-      "sell": 44239,
-      "change": -0.85
+      "buy": 43675,
+      "sell": 44329,
+      "change": 0.2
     }
   ],
   "news": [
+    {
+      "title": "Tarım Kredi'nin yonca alımında dikkat çeken düzenek! Çiftçiden alan firma, çiftçinin şirketine satıyor",
+      "url": "https://www.tarimdanhaber.com/tarim-kredinin-yonca-aliminda-dikkat-ceken-duzenek-ciftciden-alan-firma-ciftcinin-sirketine-satiyor",
+      "source": "Tarımdan Haber",
+      "date": "2026-10-05",
+      "summary": "Tarım Kredi’nin hayvancılık iştiraki TAREKS Hayvancılık’ın Aksaray’daki işletmelerinin yonca tedarikine ilişkin bölgedeki çiftçi ortaklardan dikkat çeken iddialar geldi. Tarım Kredi ortaklarına göre, şirketin yonca ihtiyacı bölgedeki kooperatiflere ve çiftçi ortaklarına geniş şekilde duyurulmadan, b",
+      "content": "Tarım Kredi’nin hayvancılık iştiraki TAREKS Hayvancılık’ın Aksaray’daki işletmelerinin yonca tedarikine ilişkin bölgedeki çiftçi ortaklardan dikkat çeken iddialar geldi. Tarım Kredi ortaklarına göre, şirketin yonca ihtiyacı bölgedeki kooperatiflere ve çiftçi ortaklarına geniş şekilde duyurulmadan, belirli bir kooperatif üzerinden yürütülen teklif süreciyle belirli bir firmadan alım yapılıyor. Söz konusu firma da yoncayı bölgedeki çiftçilerden temin ederek TAREKS Hayvancılık’a satıyor."
+    },
+    {
+      "title": "Çeltik tarlasında “fon vurgunu” çıkışı! “Ankara’da parasına para katanlar, gelin çiftçinin haline bakın”",
+      "url": "https://www.tarimdanhaber.com/celtik-tarlasinda-fon-vurgunu-cikisi-ankarada-parasina-para-katanlar-gelin-ciftcinin-haline-bakin",
+      "source": "Tarımdan Haber",
+      "date": "2026-10-05",
+      "summary": "İYİ Parti TBMM Grup Başkanvekili ve Balıkesir Milletvekili Turhan Çömez, Manyas’ta çeltik üreticileriyle bir araya gelerek TMO’nun hasat başlamasına rağmen alım fiyatını açıklamamasına tepki gösterdi. Üreticinin kilosunu 40 liraya mal ettiği çeltiği 35 liradan tüccara vermek zorunda kaldığını belirt",
+      "content": "İYİ Parti TBMM Grup Başkanvekili ve Balıkesir Milletvekili Turhan Çömez, Manyas’ta çeltik üreticileriyle bir araya gelerek TMO’nun hasat başlamasına rağmen alım fiyatını açıklamamasına tepki gösterdi. Üreticinin kilosunu 40 liraya mal ettiği çeltiği 35 liradan tüccara vermek zorunda kaldığını belirten Çömez, Ankara’daki fon tartışmalarına gönderme yaparak, “Parasına para katanlara sesleniyorum; gelin köylülerin haline bakın” dedi."
+    },
     {
       "title": "Çiğ süt desteğinde liste yayımlandı! Üreticiler için 11 Ekim uyarısı",
       "url": "https://www.tarimdanhaber.com/cig-sut-desteginde-liste-yayimlandi-ureticiler-icin-11-ekim-uyarisi",
@@ -85,22 +101,6 @@
       "date": "2026-10-03",
       "summary": "ÇAYKUR Genel Müdürü Yusuf Ziya Alim’i sosyal medyada eleştirdikten sonra çay cüzdanının iptal edildiğini açıklayan üretici İlyas Köse’ye gönderilen resmi yazı ortaya çıktı. ÇAYKUR Kendirli Çay Fabrikası Müdürlüğünün “Sosyal Medya Paylaşımı” konulu yazısında Köse’nin sosyal medya üzerinden yaptığı pa",
       "content": "ÇAYKUR Genel Müdürü Yusuf Ziya Alim’i sosyal medyada eleştirdikten sonra çay cüzdanının iptal edildiğini açıklayan üretici İlyas Köse’ye gönderilen resmi yazı ortaya çıktı. ÇAYKUR Kendirli Çay Fabrikası Müdürlüğünün “Sosyal Medya Paylaşımı” konulu yazısında Köse’nin sosyal medya üzerinden yaptığı paylaşımlara yer verilerek, Yaş Çay Ürünü Alım Satım Sözleşmesi’nin 7. maddesi gereğince sözleşmesinin feshedildiği bildiriliyor."
-    },
-    {
-      "title": "Gübre fiyatında dikkat çeken düşüş! İran üresi 770 dolardan 355 dolara geriledi",
-      "url": "https://www.tarimdanhaber.com/gubre-fiyatinda-dikkat-ceken-dusus-iran-uresi-770-dolardan-355-dolara-geriledi",
-      "source": "Tarımdan Haber",
-      "date": "2026-10-03",
-      "summary": "Tarım Politikaları Uzmanı Ergin Kahveci, İran üre piyasasında savaş döneminde oluşan fiyat hareketine dikkat çekti. Kahveci’nin paylaştığı verilere göre Nisan ayında 770 dolar/tona kadar çıkan İranlı üreticilerin granüler üre baz teklifi, Ekim başında 355 dolar/ton FOB seviyesine geriledi. Uluslarar",
-      "content": "Tarım Politikaları Uzmanı Ergin Kahveci, İran üre piyasasında savaş döneminde oluşan fiyat hareketine dikkat çekti. Kahveci’nin paylaştığı verilere göre Nisan ayında 770 dolar/tona kadar çıkan İranlı üreticilerin granüler üre baz teklifi, Ekim başında 355 dolar/ton FOB seviyesine geriledi. Uluslararası piyasa verileri de İran üresinde Nisan ayındaki sert yükselişin büyük ölçüde geri alındığını gösteriyor."
-    },
-    {
-      "title": "Sektörün takip ettiği Tarım Piyasaları Bülteni’nin 94. sayısı yayımlandı!",
-      "url": "https://www.tarimdanhaber.com/sektorun-takip-ettigi-tarim-piyasalari-bulteninin-94-sayisi-yayimlandi",
-      "source": "Tarımdan Haber",
-      "date": "2026-10-03",
-      "summary": "İK TARIMÜSSÜ Uluslararası Danışmanlık tarafından hazırlanan Tarım Piyasaları Bülteni’nin 94. sayısı yayımlandı. 5 Ekim 2026 tarihli yeni sayıda; hububat ve yağlı tohum piyasalarından canlı hayvana, pamuktan et ve süte, tarımsal dış ticaretten girdi maliyetlerine ve dünya hububat piyasalarına kadar s",
-      "content": "İK TARIMÜSSÜ Uluslararası Danışmanlık tarafından hazırlanan Tarım Piyasaları Bülteni’nin 94. sayısı yayımlandı. 5 Ekim 2026 tarihli yeni sayıda; hububat ve yağlı tohum piyasalarından canlı hayvana, pamuktan et ve süte, tarımsal dış ticaretten girdi maliyetlerine ve dünya hububat piyasalarına kadar sektörün yakından takip ettiği çok sayıda veri ve gösterge yer alıyor. Tarımdan Haber, bültende öne çıkan verileri önümüzdeki günlerde ayrı ayrı haberleştirecek."
     }
   ],
   "commoditiesByBorsa": {
