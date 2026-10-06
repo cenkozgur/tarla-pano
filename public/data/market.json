@@ -1,26 +1,26 @@
 {
-  "updatedAt": "2026-10-05T22:51:57.256Z",
+  "updatedAt": "2026-10-06T02:45:40.175Z",
   "fx": [
     {
       "code": "USD",
       "name": "Dolar",
-      "buy": 49.12,
-      "sell": 49.15,
-      "change": -0.01
+      "buy": 49.16,
+      "sell": 49.19,
+      "change": 0.07
     },
     {
       "code": "EUR",
       "name": "Euro",
-      "buy": 55.1,
-      "sell": 55.24,
-      "change": -0.03
+      "buy": 55.15,
+      "sell": 55.21,
+      "change": -0.01
     },
     {
       "code": "GRA",
       "name": "Gram Altın",
-      "buy": 6542.41,
-      "sell": 6543.25,
-      "change": 0.03
+      "buy": 6516.38,
+      "sell": 6517.16,
+      "change": -0.37
     },
     {
       "code": "CEYREKALTIN",
@@ -254,24 +254,24 @@
     }
   ],
   "dieselByCity": {
-    "ANKARA": 96.1,
-    "ISTANBUL": 94.95,
-    "IZMIR": 96.4,
-    "KONYA": 97.2,
-    "ADANA": 96.9,
-    "BURSA": 96,
-    "ANTALYA": 97.4,
-    "SAMSUN": 96.7,
-    "TEKIRDAG": 95.8,
-    "CANAKKALE": 96.7
+    "ANKARA": 91.3,
+    "ISTANBUL": 90.15,
+    "IZMIR": 91.6,
+    "KONYA": 92.4,
+    "ADANA": 92.1,
+    "BURSA": 91.2,
+    "ANTALYA": 92.6,
+    "SAMSUN": 91.9,
+    "TEKIRDAG": 91,
+    "CANAKKALE": 91.9
   },
   "inputs": [
     {
       "key": "motorin",
       "name": "Motorin (mazot)",
       "unit": "₺/lt",
-      "price": 96.7,
-      "change": 0,
+      "price": 91.9,
+      "change": -4.96,
       "source": "CANAKKALE ort."
     },
     {
@@ -309,16 +309,6 @@
   "errors": [
     "borsa 5ED10: fetch failed",
     "borsa 5KO10: fetch failed",
-    "borsa 5ES10: fetch failed",
-    "mazot ANKARA: fetch failed",
-    "mazot ISTANBUL: fetch failed",
-    "mazot IZMIR: fetch failed",
-    "mazot KONYA: fetch failed",
-    "mazot ADANA: fetch failed",
-    "mazot BURSA: fetch failed",
-    "mazot ANTALYA: fetch failed",
-    "mazot SAMSUN: fetch failed",
-    "mazot TEKIRDAG: fetch failed",
-    "mazot CANAKKALE: fetch failed"
+    "borsa 5ES10: fetch failed"
   ]
 }
