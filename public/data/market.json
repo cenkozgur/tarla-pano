@@ -1,43 +1,51 @@
 {
-  "updatedAt": "2026-10-06T02:45:40.175Z",
+  "updatedAt": "2026-10-06T09:26:16.210Z",
   "fx": [
     {
       "code": "USD",
       "name": "Dolar",
-      "buy": 49.16,
-      "sell": 49.19,
-      "change": 0.07
+      "buy": 49.18,
+      "sell": 49.18,
+      "change": 0.08
     },
     {
       "code": "EUR",
       "name": "Euro",
-      "buy": 55.15,
-      "sell": 55.21,
-      "change": -0.01
+      "buy": 55.3,
+      "sell": 55.31,
+      "change": 0.21
     },
     {
       "code": "GRA",
       "name": "Gram Altın",
-      "buy": 6516.38,
-      "sell": 6517.16,
-      "change": -0.37
+      "buy": 6570.97,
+      "sell": 6571.91,
+      "change": 0.46
     },
     {
       "code": "CEYREKALTIN",
       "name": "Çeyrek Altın",
-      "buy": 10500.99,
-      "sell": 10740.95,
-      "change": 0
+      "buy": 10524.67,
+      "sell": 10765.16,
+      "change": 0.23
     },
     {
       "code": "CUMHURIYETALTINI",
       "name": "Cumhuriyet Altını",
-      "buy": 43675,
-      "sell": 44329,
-      "change": 0.2
+      "buy": 43595,
+      "sell": 44249,
+      "change": -0.18
     }
   ],
   "news": [
+    {
+      "title": "Arıcı ile çiftçiyi aynı tarlada buluşturan bitki: Arılar tohum verimini yüzde 30'dan fazla artırıyor",
+      "url": "https://www.tarimdanhaber.com/arici-ile-ciftciyi-ayni-tarlada-bulusturan-bitki-arilar-tohum-verimini-yuzde-30dan-fazla-artiriyor",
+      "source": "Tarımdan Haber",
+      "date": "2026-10-06",
+      "summary": "Korunga yalnızca hayvancılık için kaliteli bir kaba yem bitkisi değil, arıcılık açısından da dikkat çekici özelliklere sahip. Dr. Gürbüz Mızrak'ın “Korunga (Değeri Bilinmeli)” kitabında, polen ve nektar bakımından zengin korunga çiçeklerinin yonca ve ak üçgüle göre 10 kata kadar daha fazla arı çekeb",
+      "content": "Korunga yalnızca hayvancılık için kaliteli bir kaba yem bitkisi değil, arıcılık açısından da dikkat çekici özelliklere sahip. Dr. Gürbüz Mızrak'ın “Korunga (Değeri Bilinmeli)” kitabında, polen ve nektar bakımından zengin korunga çiçeklerinin yonca ve ak üçgüle göre 10 kata kadar daha fazla arı çekebildiği, etkili tozlayıcıların ise korunga tohum verimini yüzde 30'dan fazla artırabildiği belirtiliyor."
+    },
     {
       "title": "Fransa çiftçisine 25 milyar euroluk dev kaynak! Tarım eğitimi bile Bakanlığın bütçesinde",
       "url": "https://www.tarimdanhaber.com/fransa-ciftcisine-25-milyar-euroluk-dev-kaynak-tarim-egitimi-bile-bakanligin-butcesinde",
@@ -93,14 +101,6 @@
       "date": "2026-10-04",
       "summary": "Ticaret borsalarında geçtiğimiz haftanın hububat fiyat hareketleri ürün bazında farklı bir tablo ortaya koydu. 15 borsanın ortalama fiyatlarına göre 28 Eylül–2 Ekim arasında ekmeklik buğday ton başına 228 TL, makarnalık buğday 314 TL ve arpa 106 TL yükselirken, mısırda 2 bin 877 TL’lik sert gerileme",
       "content": "Ticaret borsalarında geçtiğimiz haftanın hububat fiyat hareketleri ürün bazında farklı bir tablo ortaya koydu. 15 borsanın ortalama fiyatlarına göre 28 Eylül–2 Ekim arasında ekmeklik buğday ton başına 228 TL, makarnalık buğday 314 TL ve arpa 106 TL yükselirken, mısırda 2 bin 877 TL’lik sert gerileme dikkat çekti. Mısırdaki düşüşün büyük bölümü haftanın son işlem gününde gerçekleşti."
-    },
-    {
-      "title": "Korunga mı yonca mı? Hayvan beslemede korunganın dikkat çeken avantajları",
-      "url": "https://www.tarimdanhaber.com/korunga-mi-yonca-mi-hayvan-beslemede-korunganin-dikkat-ceken-avantajlari",
-      "source": "Tarımdan Haber",
-      "date": "2026-10-04",
-      "summary": "Hayvancılıkta kaliteli kaba yem üretimi işletmenin en kritik konularından biri olurken, korunga özellikle kıraç ve sulama imkanı sınırlı araziler için dikkat çekiyor. “Korunga (Değeri Bilinmeli)” kitabında, korunganın yoncaya alternatif olabilecek özellikleri, protein değeri ve geviş getiren hayvanl",
-      "content": "Hayvancılıkta kaliteli kaba yem üretimi işletmenin en kritik konularından biri olurken, korunga özellikle kıraç ve sulama imkanı sınırlı araziler için dikkat çekiyor. “Korunga (Değeri Bilinmeli)” kitabında, korunganın yoncaya alternatif olabilecek özellikleri, protein değeri ve geviş getiren hayvanların beslenmesindeki avantajları ortaya konuluyor."
     }
   ],
   "commoditiesByBorsa": {
@@ -271,7 +271,7 @@
       "name": "Motorin (mazot)",
       "unit": "₺/lt",
       "price": 91.9,
-      "change": -4.96,
+      "change": 0,
       "source": "CANAKKALE ort."
     },
     {
