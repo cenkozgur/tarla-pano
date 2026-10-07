@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-07T13:35:40.334Z",
+  "updatedAt": "2026-10-07T19:32:51.402Z",
   "fx": [
     {
       "code": "USD",
@@ -11,33 +11,73 @@
     {
       "code": "EUR",
       "name": "Euro",
-      "buy": 55.04,
-      "sell": 55.05,
-      "change": -0.66
+      "buy": 55.12,
+      "sell": 55.14,
+      "change": -0.51
     },
     {
       "code": "GRA",
       "name": "Gram Altın",
-      "buy": 6462.58,
-      "sell": 6463.59,
-      "change": -1.82
+      "buy": 6495.79,
+      "sell": 6496.53,
+      "change": -1.32
     },
     {
       "code": "CEYREKALTIN",
       "name": "Çeyrek Altın",
-      "buy": 10389.99,
-      "sell": 10637.76,
-      "change": -1.31
+      "buy": 10407.93,
+      "sell": 10653.94,
+      "change": -1.16
     },
     {
       "code": "CUMHURIYETALTINI",
       "name": "Cumhuriyet Altını",
-      "buy": 43125,
-      "sell": 43779,
-      "change": -1.2
+      "buy": 43165,
+      "sell": 43819,
+      "change": -1.11
     }
   ],
   "news": [
+    {
+      "title": "“Sayın Genel Müdür, sana Cumhurbaşkanımızı yedirmeyeceğiz” dedi! İşte çay cüzdanının iptaline neden olan paylaşım",
+      "url": "https://www.tarimdanhaber.com/sayin-genel-mudur-sana-cumhurbaskanimizi-yedirmeyecegiz-dedi-iste-cay-cuzdaninin-iptaline-neden-olan-paylasim",
+      "source": "Tarımdan Haber",
+      "date": "2026-10-07",
+      "summary": "ÇAYKUR Genel Müdürü Yusuf Ziya Alim’i sosyal medyada eleştirmesinin ardından çay cüzdanının iptal edildiğini açıklayan Rizeli üretici İlyas Köse’nin, sözleşmesinin feshedilmesine konu olan paylaşımı da ortaya çıktı.",
+      "content": "ÇAYKUR Genel Müdürü Yusuf Ziya Alim’i sosyal medyada eleştirmesinin ardından çay cüzdanının iptal edildiğini açıklayan Rizeli üretici İlyas Köse’nin, sözleşmesinin feshedilmesine konu olan paylaşımı da ortaya çıktı."
+    },
+    {
+      "title": "\"Vurgun sadece fon ve BİST hisselerinde olmadı! Çiftçinin arpa ve buğdayında da büyük vurgun var!\"",
+      "url": "https://www.tarimdanhaber.com/vurgun-sadece-fon-ve-bist-hisselerinde-olmadi-ciftcinin-arpa-ve-bugdayinda-da-buyuk-vurgun-var",
+      "source": "Tarımdan Haber",
+      "date": "2026-10-07",
+      "summary": "Ziraat Mühendisi ve çiftçi Faik Toy, fon ve Borsa İstanbul hisselerinde yaşanan tartışmalara gönderme yaparak hububat piyasasındaki fiyat hareketlerine tepki gösterdi. Hasatta arpanın çiftçinin elinden serbest piyasada ortalama 11,5 TL/kg’dan çıktığını, yaklaşık iki ay sonra 15,5 TL’ye yükseldiğini ",
+      "content": "Ziraat Mühendisi ve çiftçi Faik Toy, fon ve Borsa İstanbul hisselerinde yaşanan tartışmalara gönderme yaparak hububat piyasasındaki fiyat hareketlerine tepki gösterdi. Hasatta arpanın çiftçinin elinden serbest piyasada ortalama 11,5 TL/kg’dan çıktığını, yaklaşık iki ay sonra 15,5 TL’ye yükseldiğini belirten Toy, “Vurgun sadece fon ve BİST hisselerinde olmadı, çiftçinin arpa ve buğdayında da büyük vurgun var” dedi."
+    },
+    {
+      "title": "Hindistan çiftçinin taban fiyatını ekimden önce açıkladı! TMO’ya kritik soru: “Bu fiyatı baştan neden vermediniz?”",
+      "url": "https://www.tarimdanhaber.com/hindistan-ciftcinin-taban-fiyatini-ekimden-once-acikladi-tmoya-kritik-soru-bu-fiyati-bastan-neden-vermediniz",
+      "source": "Tarımdan Haber",
+      "date": "2026-10-07",
+      "summary": "Tarım Politikaları Uzmanı Ergin Kahveci, Hindistan’ın 2027-28 sezonunda geçerli olacak kışlık ürün taban fiyatlarını daha ürünler ekilmeden açıklamasını Türkiye’deki destekleme ve alım politikalarıyla karşılaştırdı. Hindistan’da buğday için açıklanan fiyatın hesaplanan üretim maliyetinin yüzde 106 ü",
+      "content": "Tarım Politikaları Uzmanı Ergin Kahveci, Hindistan’ın 2027-28 sezonunda geçerli olacak kışlık ürün taban fiyatlarını daha ürünler ekilmeden açıklamasını Türkiye’deki destekleme ve alım politikalarıyla karşılaştırdı. Hindistan’da buğday için açıklanan fiyatın hesaplanan üretim maliyetinin yüzde 106 üzerinde olduğunu belirten Kahveci, TMO’nun alım ve satış politikası üzerinden, “O halde bu fiyatı baştan neden vermediniz?” diye sordu."
+    },
+    {
+      "title": "Tarım sayımı üzerinden Bakanlığa sert eleştiri: “Bizim Bakanlık sayar, döner yine sayar!”",
+      "url": "https://www.tarimdanhaber.com/tarim-sayimi-uzerinden-bakanliga-sert-elestiri-bizim-bakanlik-sayar-doner-yine-sayar",
+      "source": "Tarımdan Haber",
+      "date": "2026-10-07",
+      "summary": "Anahtar Parti Genel Başkan Yardımcısı ve Tarım ve Gıda Güvenliği Politikaları Başkanı Hasan Hüseyin Demiröz, Türkiye’nin sağlıklı bir tarım envanteri oluşturamamasını eleştirdi. Demiröz, tarım sayımının yalnızca üretim planlaması değil, gıda güvenliği, tarımsal girdiler, hayvan varlığı ve kırsal nüf",
+      "content": "Anahtar Parti Genel Başkan Yardımcısı ve Tarım ve Gıda Güvenliği Politikaları Başkanı Hasan Hüseyin Demiröz, Türkiye’nin sağlıklı bir tarım envanteri oluşturamamasını eleştirdi. Demiröz, tarım sayımının yalnızca üretim planlaması değil, gıda güvenliği, tarımsal girdiler, hayvan varlığı ve kırsal nüfusun yönetimi açısından da kritik olduğunu belirterek, “Bizim Bakanlık sayar, döner yine sayar” ifadelerini kullandı."
+    },
+    {
+      "title": "Şap hastalığına karşı yeni tedbir! Konya’da hayvan pazarı kapatıldı",
+      "url": "https://www.tarimdanhaber.com/sap-hastaligina-karsi-yeni-tedbir-konyada-hayvan-pazari-kapatildi",
+      "source": "Tarımdan Haber",
+      "date": "2026-10-07",
+      "summary": "Konya’nın Ilgın ilçesinde hayvan hastalıkları riskine karşı tedbir kararı alındı. İlçe Hayvan Sağlığı Zabıtası Komisyonu, kapalı bölge hayvan pazarının ikinci bir karara kadar kapatılmasına karar verirken, hayvan giriş ve çıkışlarının da engellenmesini istedi. Kararda şap hastalığı şüphesi ve klinik",
+      "content": "Konya’nın Ilgın ilçesinde hayvan hastalıkları riskine karşı tedbir kararı alındı. İlçe Hayvan Sağlığı Zabıtası Komisyonu, kapalı bölge hayvan pazarının ikinci bir karara kadar kapatılmasına karar verirken, hayvan giriş ve çıkışlarının da engellenmesini istedi. Kararda şap hastalığı şüphesi ve klinik belirtilerinin görülmesi halinde uygulanacak biyogüvenlik önlemlerine de yer verildi."
+    },
     {
       "title": "Arıcı ile çiftçiyi aynı tarlada buluşturan bitki: Arılar tohum verimini yüzde 30'dan fazla artırıyor",
       "url": "https://www.tarimdanhaber.com/arici-ile-ciftciyi-ayni-tarlada-bulusturan-bitki-arilar-tohum-verimini-yuzde-30dan-fazla-artiriyor",
@@ -61,46 +101,6 @@
       "date": "2026-10-05",
       "summary": "Tarım Kredi’nin hayvancılık iştiraki TAREKS Hayvancılık’ın Aksaray’daki işletmelerinin yonca tedarikine ilişkin bölgedeki çiftçi ortaklardan dikkat çeken iddialar geldi. Tarım Kredi ortaklarına göre, şirketin yonca ihtiyacı bölgedeki kooperatiflere ve çiftçi ortaklarına geniş şekilde duyurulmadan, b",
       "content": "Tarım Kredi’nin hayvancılık iştiraki TAREKS Hayvancılık’ın Aksaray’daki işletmelerinin yonca tedarikine ilişkin bölgedeki çiftçi ortaklardan dikkat çeken iddialar geldi. Tarım Kredi ortaklarına göre, şirketin yonca ihtiyacı bölgedeki kooperatiflere ve çiftçi ortaklarına geniş şekilde duyurulmadan, belirli bir kooperatif üzerinden yürütülen teklif süreciyle belirli bir firmadan alım yapılıyor. Söz konusu firma da yoncayı bölgedeki çiftçilerden temin ederek TAREKS Hayvancılık’a satıyor."
-    },
-    {
-      "title": "Çeltik tarlasında “fon vurgunu” çıkışı! “Ankara’da parasına para katanlar, gelin çiftçinin haline bakın”",
-      "url": "https://www.tarimdanhaber.com/celtik-tarlasinda-fon-vurgunu-cikisi-ankarada-parasina-para-katanlar-gelin-ciftcinin-haline-bakin",
-      "source": "Tarımdan Haber",
-      "date": "2026-10-05",
-      "summary": "İYİ Parti TBMM Grup Başkanvekili ve Balıkesir Milletvekili Turhan Çömez, Manyas’ta çeltik üreticileriyle bir araya gelerek TMO’nun hasat başlamasına rağmen alım fiyatını açıklamamasına tepki gösterdi. Üreticinin kilosunu 40 liraya mal ettiği çeltiği 35 liradan tüccara vermek zorunda kaldığını belirt",
-      "content": "İYİ Parti TBMM Grup Başkanvekili ve Balıkesir Milletvekili Turhan Çömez, Manyas’ta çeltik üreticileriyle bir araya gelerek TMO’nun hasat başlamasına rağmen alım fiyatını açıklamamasına tepki gösterdi. Üreticinin kilosunu 40 liraya mal ettiği çeltiği 35 liradan tüccara vermek zorunda kaldığını belirten Çömez, Ankara’daki fon tartışmalarına gönderme yaparak, “Parasına para katanlara sesleniyorum; gelin köylülerin haline bakın” dedi."
-    },
-    {
-      "title": "Çiğ süt desteğinde liste yayımlandı! Üreticiler için 11 Ekim uyarısı",
-      "url": "https://www.tarimdanhaber.com/cig-sut-desteginde-liste-yayimlandi-ureticiler-icin-11-ekim-uyarisi",
-      "source": "Tarımdan Haber",
-      "date": "2026-10-04",
-      "summary": "2026 yılı Ocak, Şubat ve Mart dönemine ilişkin çiğ süt desteği askı icmali Bolu Merkez İlçe için yayımlandı. Listede bilgisi eksik veya hatalı olan üreticilerin 11 Ekim 2026 mesai bitimine kadar itirazda bulunması gerekiyor.",
-      "content": "2026 yılı Ocak, Şubat ve Mart dönemine ilişkin çiğ süt desteği askı icmali Bolu Merkez İlçe için yayımlandı. Listede bilgisi eksik veya hatalı olan üreticilerin 11 Ekim 2026 mesai bitimine kadar itirazda bulunması gerekiyor."
-    },
-    {
-      "title": "Hayvancılık yapan aile işletmelerine yem ezme makinesi desteği! Başvurular başladı",
-      "url": "https://www.tarimdanhaber.com/hayvancilik-yapan-aile-isletmelerine-yem-ezme-makinesi-destegi-basvurular-basladi",
-      "source": "Tarımdan Haber",
-      "date": "2026-10-04",
-      "summary": "Sivas’ta küçük ölçekli hayvancılık işletmelerine yönelik “Yemini Öğüt Buzağını Büyüt Projesi” için başvurular başladı. Proje kapsamında 5 ile 20 baş hayvana sahip aile işletmelerine toplam 35 yem ezme makinesi temin edilecek. Kadın ve genç yetiştiricilere öncelik verilecek.",
-      "content": "Sivas’ta küçük ölçekli hayvancılık işletmelerine yönelik “Yemini Öğüt Buzağını Büyüt Projesi” için başvurular başladı. Proje kapsamında 5 ile 20 baş hayvana sahip aile işletmelerine toplam 35 yem ezme makinesi temin edilecek. Kadın ve genç yetiştiricilere öncelik verilecek."
-    },
-    {
-      "title": "Tarım Bakanı İbrahim Yumaklı’nın mutlu günü! Kızı Nihan Yumaklı evlendi",
-      "url": "https://www.tarimdanhaber.com/tarim-bakani-ibrahim-yumaklinin-mutlu-gunu-kizi-nihan-yumakli-evlendi",
-      "source": "Tarımdan Haber",
-      "date": "2026-10-04",
-      "summary": "Tarım ve Orman Bakanı İbrahim Yumaklı’nın kızı Nihan Yumaklı ile Zahid Yüceler dünyaevine girdi. Ankara’da gerçekleştirilen düğün merasimine TBMM Başkanı Numan Kurtulmuş’un yanı sıra bakanlar, siyaset ve bürokrasiden isimler ile Yumaklı ve Yüceler ailelerinin yakınları ve sevenleri katıldı.",
-      "content": "Tarım ve Orman Bakanı İbrahim Yumaklı’nın kızı Nihan Yumaklı ile Zahid Yüceler dünyaevine girdi. Ankara’da gerçekleştirilen düğün merasimine TBMM Başkanı Numan Kurtulmuş’un yanı sıra bakanlar, siyaset ve bürokrasiden isimler ile Yumaklı ve Yüceler ailelerinin yakınları ve sevenleri katıldı."
-    },
-    {
-      "title": "Hububat fiyatlarında dikkat çeken ayrışma! Buğday yükseldi, mısır 4 günde 2 bin 877 TL düştü",
-      "url": "https://www.tarimdanhaber.com/hububat-fiyatlarinda-dikkat-ceken-ayrisma-bugday-yukseldi-misir-4-gunde-2-bin-877-tl-dustu",
-      "source": "Tarımdan Haber",
-      "date": "2026-10-04",
-      "summary": "Ticaret borsalarında geçtiğimiz haftanın hububat fiyat hareketleri ürün bazında farklı bir tablo ortaya koydu. 15 borsanın ortalama fiyatlarına göre 28 Eylül–2 Ekim arasında ekmeklik buğday ton başına 228 TL, makarnalık buğday 314 TL ve arpa 106 TL yükselirken, mısırda 2 bin 877 TL’lik sert gerileme",
-      "content": "Ticaret borsalarında geçtiğimiz haftanın hububat fiyat hareketleri ürün bazında farklı bir tablo ortaya koydu. 15 borsanın ortalama fiyatlarına göre 28 Eylül–2 Ekim arasında ekmeklik buğday ton başına 228 TL, makarnalık buğday 314 TL ve arpa 106 TL yükselirken, mısırda 2 bin 877 TL’lik sert gerileme dikkat çekti. Mısırdaki düşüşün büyük bölümü haftanın son işlem gününde gerçekleşti."
     }
   ],
   "commoditiesByBorsa": {
