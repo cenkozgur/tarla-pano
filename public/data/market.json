@@ -1,33 +1,33 @@
 {
-  "updatedAt": "2026-10-08T17:24:34.740Z",
+  "updatedAt": "2026-10-08T22:19:09.848Z",
   "fx": [
     {
       "code": "USD",
       "name": "Dolar",
-      "buy": 49.2,
-      "sell": 49.22,
-      "change": 0.03
+      "buy": 49.34,
+      "sell": 49.35,
+      "change": 0.18
     },
     {
       "code": "EUR",
       "name": "Euro",
-      "buy": 55.34,
-      "sell": 55.37,
-      "change": 0.42
+      "buy": 55.31,
+      "sell": 55.34,
+      "change": -0.12
     },
     {
       "code": "GRA",
       "name": "Gram Altın",
-      "buy": 6550.24,
-      "sell": 6551.22,
-      "change": 0.75
+      "buy": 6561.82,
+      "sell": 6562.74,
+      "change": 0.25
     },
     {
       "code": "CEYREKALTIN",
       "name": "Çeyrek Altın",
       "buy": 10462.74,
       "sell": 10701.86,
-      "change": 0.45
+      "change": 0
     },
     {
       "code": "CUMHURIYETALTINI",
@@ -38,6 +38,14 @@
     }
   ],
   "news": [
+    {
+      "title": "Konya Şeker'in Soma Termik Santrali 6,9 milyar liraya TKİ'ye geçti! 12 yıl sonra yeniden devletin oldu",
+      "url": "https://www.tarimdanhaber.com/konya-sekerin-soma-termik-santrali-69-milyar-liraya-tkiye-gecti-12-yil-sonra-yeniden-devletin-oldu",
+      "source": "Tarımdan Haber",
+      "date": "2026-10-08",
+      "summary": "Konya Şeker'in 2015 yılında özelleştirme kapsamında satın aldığı Soma B Termik Santrali, icra yoluyla gerçekleştirilen satışın ardından yeniden kamuya geçti. Yaklaşık 13,8 milyar lira değer biçilen santral, ikinci açık artırmada başka alıcı çıkmayınca 6 milyar 946 milyon lira bedelle Türkiye Kömür İ",
+      "content": "Konya Şeker'in 2015 yılında özelleştirme kapsamında satın aldığı Soma B Termik Santrali, icra yoluyla gerçekleştirilen satışın ardından yeniden kamuya geçti. Yaklaşık 13,8 milyar lira değer biçilen santral, ikinci açık artırmada başka alıcı çıkmayınca 6 milyar 946 milyon lira bedelle Türkiye Kömür İşletmeleri'ne (TKİ) kaldı."
+    },
     {
       "title": "Süt üreticisinden kritik uyarı: Fiyat artışı gecikirse anaç hayvanlar kesime gidecek!",
       "url": "https://www.tarimdanhaber.com/sut-ureticisinden-kritik-uyari-fiyat-artisi-gecikirse-anac-hayvanlar-kesime-gidecek",
@@ -93,14 +101,6 @@
       "date": "2026-10-07",
       "summary": "Ziraat Mühendisi ve çiftçi Faik Toy, fon ve Borsa İstanbul hisselerinde yaşanan tartışmalara gönderme yaparak hububat piyasasındaki fiyat hareketlerine tepki gösterdi. Hasatta arpanın çiftçinin elinden serbest piyasada ortalama 11,5 TL/kg’dan çıktığını, yaklaşık iki ay sonra 15,5 TL’ye yükseldiğini ",
       "content": "Ziraat Mühendisi ve çiftçi Faik Toy, fon ve Borsa İstanbul hisselerinde yaşanan tartışmalara gönderme yaparak hububat piyasasındaki fiyat hareketlerine tepki gösterdi. Hasatta arpanın çiftçinin elinden serbest piyasada ortalama 11,5 TL/kg’dan çıktığını, yaklaşık iki ay sonra 15,5 TL’ye yükseldiğini belirten Toy, “Vurgun sadece fon ve BİST hisselerinde olmadı, çiftçinin arpa ve buğdayında da büyük vurgun var” dedi."
-    },
-    {
-      "title": "Hindistan çiftçinin taban fiyatını ekimden önce açıkladı! TMO’ya kritik soru: “Bu fiyatı baştan neden vermediniz?”",
-      "url": "https://www.tarimdanhaber.com/hindistan-ciftcinin-taban-fiyatini-ekimden-once-acikladi-tmoya-kritik-soru-bu-fiyati-bastan-neden-vermediniz",
-      "source": "Tarımdan Haber",
-      "date": "2026-10-07",
-      "summary": "Tarım Politikaları Uzmanı Ergin Kahveci, Hindistan’ın 2027-28 sezonunda geçerli olacak kışlık ürün taban fiyatlarını daha ürünler ekilmeden açıklamasını Türkiye’deki destekleme ve alım politikalarıyla karşılaştırdı. Hindistan’da buğday için açıklanan fiyatın hesaplanan üretim maliyetinin yüzde 106 ü",
-      "content": "Tarım Politikaları Uzmanı Ergin Kahveci, Hindistan’ın 2027-28 sezonunda geçerli olacak kışlık ürün taban fiyatlarını daha ürünler ekilmeden açıklamasını Türkiye’deki destekleme ve alım politikalarıyla karşılaştırdı. Hindistan’da buğday için açıklanan fiyatın hesaplanan üretim maliyetinin yüzde 106 üzerinde olduğunu belirten Kahveci, TMO’nun alım ve satış politikası üzerinden, “O halde bu fiyatı baştan neden vermediniz?” diye sordu."
     }
   ],
   "commoditiesByBorsa": {
