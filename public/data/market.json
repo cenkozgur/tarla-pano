@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-08T02:58:36.336Z",
+  "updatedAt": "2026-10-08T10:12:51.741Z",
   "fx": [
     {
       "code": "USD",
@@ -11,33 +11,65 @@
     {
       "code": "EUR",
       "name": "Euro",
-      "buy": 55.26,
-      "sell": 55.33,
-      "change": 0.31
+      "buy": 55.17,
+      "sell": 55.21,
+      "change": 0.12
     },
     {
       "code": "GRA",
       "name": "Gram Altın",
-      "buy": 6538.95,
-      "sell": 6539.8,
-      "change": 0.57
+      "buy": 6523.11,
+      "sell": 6524.01,
+      "change": 0.33
     },
     {
       "code": "CEYREKALTIN",
       "name": "Çeyrek Altın",
-      "buy": 10407.93,
-      "sell": 10653.94,
-      "change": 0
+      "buy": 10452.7,
+      "sell": 10693.78,
+      "change": 0.37
     },
     {
       "code": "CUMHURIYETALTINI",
       "name": "Cumhuriyet Altını",
-      "buy": 43165,
-      "sell": 43819,
-      "change": -1.11
+      "buy": 43405,
+      "sell": 44059,
+      "change": 0.55
     }
   ],
   "news": [
+    {
+      "title": "Çiftçinin ürününü koyduğu lisanslı depolarda teminat değişti! İşte yeni rakamlar",
+      "url": "https://www.tarimdanhaber.com/ciftcinin-urununu-koydugu-lisansli-depolarda-teminat-degisti-iste-yeni-rakamlar",
+      "source": "Tarımdan Haber",
+      "date": "2026-10-08",
+      "summary": "Lisanslı depoculukta 2026-2027 dönemi teminat tarifesi belli oldu. Buğday, arpa ve mısırın da yer aldığı hububat grubunda ton başına teminat 1.903,80 liradan 2.335 liraya yükseldi. Pamuk ve ayçiçeğinde artış yaşanırken fındık, kuru üzüm ve baklagillerde teminat tutarları düşürüldü. Peki, yeni tarife",
+      "content": "Lisanslı depoculukta 2026-2027 dönemi teminat tarifesi belli oldu. Buğday, arpa ve mısırın da yer aldığı hububat grubunda ton başına teminat 1.903,80 liradan 2.335 liraya yükseldi. Pamuk ve ayçiçeğinde artış yaşanırken fındık, kuru üzüm ve baklagillerde teminat tutarları düşürüldü. Peki, yeni tarife çiftçiyi nasıl etkileyecek?"
+    },
+    {
+      "title": "15 köy ve mahallede arazi toplulaştırması yapılacak! Cumhurbaşkanı Kararı yayımlandı",
+      "url": "https://www.tarimdanhaber.com/15-koy-ve-mahallede-arazi-toplulastirmasi-yapilacak-cumhurbaskani-karari-yayimlandi",
+      "source": "Tarımdan Haber",
+      "date": "2026-10-08",
+      "summary": "Kırklareli'nde 15 köy ve mahallede arazi toplulaştırması ve tarla içi geliştirme hizmetleri yapılması kararlaştırıldı. Cumhurbaşkanı Kararı Resmi Gazete'de yayımlanırken, çalışmaların yürütüleceği köy ve mahalleler de tek tek açıklandı.",
+      "content": "Kırklareli'nde 15 köy ve mahallede arazi toplulaştırması ve tarla içi geliştirme hizmetleri yapılması kararlaştırıldı. Cumhurbaşkanı Kararı Resmi Gazete'de yayımlanırken, çalışmaların yürütüleceği köy ve mahalleler de tek tek açıklandı."
+    },
+    {
+      "title": "Buğday, arpa ve mısır piyasasında yeni kurallar! TÜRİB'de aracılara yeni yetki",
+      "url": "https://www.tarimdanhaber.com/bugday-arpa-ve-misir-piyasasinda-yeni-kurallar-turibde-aracilara-yeni-yetki",
+      "source": "Tarımdan Haber",
+      "date": "2026-10-08",
+      "summary": "Ticaret Bakanlığı, Türkiye Ürün İhtisas Borsası'nın işleyişi ve aracılık faaliyetlerine ilişkin iki yönetmelikte değişikliğe gitti. Yeni düzenlemeyle vadeli işlem sözleşmelerinin kapsamı genişletilirken, aracı kuruluşlara kendi hesaplarına vadeli işlem yapma imkanı tanındı. Ödeme, teslimat ve temina",
+      "content": "Ticaret Bakanlığı, Türkiye Ürün İhtisas Borsası'nın işleyişi ve aracılık faaliyetlerine ilişkin iki yönetmelikte değişikliğe gitti. Yeni düzenlemeyle vadeli işlem sözleşmelerinin kapsamı genişletilirken, aracı kuruluşlara kendi hesaplarına vadeli işlem yapma imkanı tanındı. Ödeme, teslimat ve teminat kuralları da yeniden düzenlendi."
+    },
+    {
+      "title": "Turhal Şeker Fabrikası'nda 76 işçi gazdan etkilendi! Kayseri Şeker sızıntının nedenini açıkladı",
+      "url": "https://www.tarimdanhaber.com/turhal-seker-fabrikasinda-76-isci-gazdan-etkilendi-kayseri-seker-sizintinin-nedenini-acikladi",
+      "source": "Tarımdan Haber",
+      "date": "2026-10-08",
+      "summary": "Tokat'taki Turhal Şeker Fabrikası'nda pancar işleme kampanyasının başlangıcında yaşanan gaz sızıntısından 76 çalışan etkilendi. Kayseri Şeker, sızıntının kireç ocağı bacasındaki çatlaktan kaynaklandığının düşünüldüğünü açıklarken, bir çalışanın tedavisinin devam ettiğini bildirdi.",
+      "content": "Tokat'taki Turhal Şeker Fabrikası'nda pancar işleme kampanyasının başlangıcında yaşanan gaz sızıntısından 76 çalışan etkilendi. Kayseri Şeker, sızıntının kireç ocağı bacasındaki çatlaktan kaynaklandığının düşünüldüğünü açıklarken, bir çalışanın tedavisinin devam ettiğini bildirdi."
+    },
     {
       "title": "“Sayın Genel Müdür, sana Cumhurbaşkanımızı yedirmeyeceğiz” dedi! İşte çay cüzdanının iptaline neden olan paylaşım",
       "url": "https://www.tarimdanhaber.com/sayin-genel-mudur-sana-cumhurbaskanimizi-yedirmeyecegiz-dedi-iste-cay-cuzdaninin-iptaline-neden-olan-paylasim",
@@ -69,38 +101,6 @@
       "date": "2026-10-07",
       "summary": "Anahtar Parti Genel Başkan Yardımcısı ve Tarım ve Gıda Güvenliği Politikaları Başkanı Hasan Hüseyin Demiröz, Türkiye’nin sağlıklı bir tarım envanteri oluşturamamasını eleştirdi. Demiröz, tarım sayımının yalnızca üretim planlaması değil, gıda güvenliği, tarımsal girdiler, hayvan varlığı ve kırsal nüf",
       "content": "Anahtar Parti Genel Başkan Yardımcısı ve Tarım ve Gıda Güvenliği Politikaları Başkanı Hasan Hüseyin Demiröz, Türkiye’nin sağlıklı bir tarım envanteri oluşturamamasını eleştirdi. Demiröz, tarım sayımının yalnızca üretim planlaması değil, gıda güvenliği, tarımsal girdiler, hayvan varlığı ve kırsal nüfusun yönetimi açısından da kritik olduğunu belirterek, “Bizim Bakanlık sayar, döner yine sayar” ifadelerini kullandı."
-    },
-    {
-      "title": "Şap hastalığına karşı yeni tedbir! Konya’da hayvan pazarı kapatıldı",
-      "url": "https://www.tarimdanhaber.com/sap-hastaligina-karsi-yeni-tedbir-konyada-hayvan-pazari-kapatildi",
-      "source": "Tarımdan Haber",
-      "date": "2026-10-07",
-      "summary": "Konya’nın Ilgın ilçesinde hayvan hastalıkları riskine karşı tedbir kararı alındı. İlçe Hayvan Sağlığı Zabıtası Komisyonu, kapalı bölge hayvan pazarının ikinci bir karara kadar kapatılmasına karar verirken, hayvan giriş ve çıkışlarının da engellenmesini istedi. Kararda şap hastalığı şüphesi ve klinik",
-      "content": "Konya’nın Ilgın ilçesinde hayvan hastalıkları riskine karşı tedbir kararı alındı. İlçe Hayvan Sağlığı Zabıtası Komisyonu, kapalı bölge hayvan pazarının ikinci bir karara kadar kapatılmasına karar verirken, hayvan giriş ve çıkışlarının da engellenmesini istedi. Kararda şap hastalığı şüphesi ve klinik belirtilerinin görülmesi halinde uygulanacak biyogüvenlik önlemlerine de yer verildi."
-    },
-    {
-      "title": "Arıcı ile çiftçiyi aynı tarlada buluşturan bitki: Arılar tohum verimini yüzde 30'dan fazla artırıyor",
-      "url": "https://www.tarimdanhaber.com/arici-ile-ciftciyi-ayni-tarlada-bulusturan-bitki-arilar-tohum-verimini-yuzde-30dan-fazla-artiriyor",
-      "source": "Tarımdan Haber",
-      "date": "2026-10-06",
-      "summary": "Korunga yalnızca hayvancılık için kaliteli bir kaba yem bitkisi değil, arıcılık açısından da dikkat çekici özelliklere sahip. Dr. Gürbüz Mızrak'ın “Korunga (Değeri Bilinmeli)” kitabında, polen ve nektar bakımından zengin korunga çiçeklerinin yonca ve ak üçgüle göre 10 kata kadar daha fazla arı çekeb",
-      "content": "Korunga yalnızca hayvancılık için kaliteli bir kaba yem bitkisi değil, arıcılık açısından da dikkat çekici özelliklere sahip. Dr. Gürbüz Mızrak'ın “Korunga (Değeri Bilinmeli)” kitabında, polen ve nektar bakımından zengin korunga çiçeklerinin yonca ve ak üçgüle göre 10 kata kadar daha fazla arı çekebildiği, etkili tozlayıcıların ise korunga tohum verimini yüzde 30'dan fazla artırabildiği belirtiliyor."
-    },
-    {
-      "title": "Fransa çiftçisine 25 milyar euroluk dev kaynak! Tarım eğitimi bile Bakanlığın bütçesinde",
-      "url": "https://www.tarimdanhaber.com/fransa-ciftcisine-25-milyar-euroluk-dev-kaynak-tarim-egitimi-bile-bakanligin-butcesinde",
-      "source": "Tarımdan Haber",
-      "date": "2026-10-05",
-      "summary": "Tarım Politikaları Uzmanı Ergin Kahveci, Fransa'nın 2027 yılı tarım bütçesine dikkat çekti. Ulusal bütçe, AB Ortak Tarım Politikası kaynakları ile sosyal ve mali tedbirler birlikte değerlendirildiğinde tarım ve gıda sektörüne yaklaşık 25 milyar euroluk kaynak öngörülürken; bütçede üretimin yanında t",
-      "content": "Tarım Politikaları Uzmanı Ergin Kahveci, Fransa'nın 2027 yılı tarım bütçesine dikkat çekti. Ulusal bütçe, AB Ortak Tarım Politikası kaynakları ile sosyal ve mali tedbirler birlikte değerlendirildiğinde tarım ve gıda sektörüne yaklaşık 25 milyar euroluk kaynak öngörülürken; bütçede üretimin yanında tarımsal eğitim, genç çiftçiler, yatırım ve krizlere karşı koruma da önemli yer tutuyor."
-    },
-    {
-      "title": "Tarım Kredi'nin yonca alımında dikkat çeken düzenek! Çiftçiden alan firma, çiftçinin şirketine satıyor",
-      "url": "https://www.tarimdanhaber.com/tarim-kredinin-yonca-aliminda-dikkat-ceken-duzenek-ciftciden-alan-firma-ciftcinin-sirketine-satiyor",
-      "source": "Tarımdan Haber",
-      "date": "2026-10-05",
-      "summary": "Tarım Kredi’nin hayvancılık iştiraki TAREKS Hayvancılık’ın Aksaray’daki işletmelerinin yonca tedarikine ilişkin bölgedeki çiftçi ortaklardan dikkat çeken iddialar geldi. Tarım Kredi ortaklarına göre, şirketin yonca ihtiyacı bölgedeki kooperatiflere ve çiftçi ortaklarına geniş şekilde duyurulmadan, b",
-      "content": "Tarım Kredi’nin hayvancılık iştiraki TAREKS Hayvancılık’ın Aksaray’daki işletmelerinin yonca tedarikine ilişkin bölgedeki çiftçi ortaklardan dikkat çeken iddialar geldi. Tarım Kredi ortaklarına göre, şirketin yonca ihtiyacı bölgedeki kooperatiflere ve çiftçi ortaklarına geniş şekilde duyurulmadan, belirli bir kooperatif üzerinden yürütülen teklif süreciyle belirli bir firmadan alım yapılıyor. Söz konusu firma da yoncayı bölgedeki çiftçilerden temin ederek TAREKS Hayvancılık’a satıyor."
     }
   ],
   "commoditiesByBorsa": {
@@ -309,6 +309,16 @@
   "errors": [
     "borsa 5ED10: fetch failed",
     "borsa 5KO10: fetch failed",
-    "borsa 5ES10: fetch failed"
+    "borsa 5ES10: fetch failed",
+    "mazot ANKARA: fetch failed",
+    "mazot ISTANBUL: fetch failed",
+    "mazot IZMIR: fetch failed",
+    "mazot KONYA: fetch failed",
+    "mazot ADANA: fetch failed",
+    "mazot BURSA: fetch failed",
+    "mazot ANTALYA: fetch failed",
+    "mazot SAMSUN: fetch failed",
+    "mazot TEKIRDAG: fetch failed",
+    "mazot CANAKKALE: fetch failed"
   ]
 }
