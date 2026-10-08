@@ -1,43 +1,51 @@
 {
-  "updatedAt": "2026-10-08T10:12:51.741Z",
+  "updatedAt": "2026-10-08T17:24:34.740Z",
   "fx": [
     {
       "code": "USD",
       "name": "Dolar",
-      "buy": 49.21,
+      "buy": 49.2,
       "sell": 49.22,
       "change": 0.03
     },
     {
       "code": "EUR",
       "name": "Euro",
-      "buy": 55.17,
-      "sell": 55.21,
-      "change": 0.12
+      "buy": 55.34,
+      "sell": 55.37,
+      "change": 0.42
     },
     {
       "code": "GRA",
       "name": "Gram Altın",
-      "buy": 6523.11,
-      "sell": 6524.01,
-      "change": 0.33
+      "buy": 6550.24,
+      "sell": 6551.22,
+      "change": 0.75
     },
     {
       "code": "CEYREKALTIN",
       "name": "Çeyrek Altın",
-      "buy": 10452.7,
-      "sell": 10693.78,
-      "change": 0.37
+      "buy": 10462.74,
+      "sell": 10701.86,
+      "change": 0.45
     },
     {
       "code": "CUMHURIYETALTINI",
       "name": "Cumhuriyet Altını",
-      "buy": 43405,
-      "sell": 44059,
-      "change": 0.55
+      "buy": 43375,
+      "sell": 44029,
+      "change": 0.48
     }
   ],
   "news": [
+    {
+      "title": "Süt üreticisinden kritik uyarı: Fiyat artışı gecikirse anaç hayvanlar kesime gidecek!",
+      "url": "https://www.tarimdanhaber.com/sut-ureticisinden-kritik-uyari-fiyat-artisi-gecikirse-anac-hayvanlar-kesime-gidecek",
+      "source": "Tarımdan Haber",
+      "date": "2026-10-08",
+      "summary": "Türkiye Tarımsal Süt Üreticileri Merkez Birliği Başkanı Tevfik Keskin, artan maliyetler karşısında çiğ süt tavsiye fiyatının yeniden belirlenmesi gerektiğini açıkladı. Fiyat kararlarının gecikmesi nedeniyle işletmelerde finansman açığı oluştuğunu belirten Keskin, üreticilerin bu açığı kredi kullanar",
+      "content": "Türkiye Tarımsal Süt Üreticileri Merkez Birliği Başkanı Tevfik Keskin, artan maliyetler karşısında çiğ süt tavsiye fiyatının yeniden belirlenmesi gerektiğini açıkladı. Fiyat kararlarının gecikmesi nedeniyle işletmelerde finansman açığı oluştuğunu belirten Keskin, üreticilerin bu açığı kredi kullanarak veya hayvanlarını kesime göndererek kapatmaya çalıştığını vurguladı. Keskin, üretimde yaşanacak daralmanın gelecekte daha yüksek süt fiyatlarına neden olabileceği uyarısında bulundu."
+    },
     {
       "title": "Çiftçinin ürününü koyduğu lisanslı depolarda teminat değişti! İşte yeni rakamlar",
       "url": "https://www.tarimdanhaber.com/ciftcinin-urununu-koydugu-lisansli-depolarda-teminat-degisti-iste-yeni-rakamlar",
@@ -93,14 +101,6 @@
       "date": "2026-10-07",
       "summary": "Tarım Politikaları Uzmanı Ergin Kahveci, Hindistan’ın 2027-28 sezonunda geçerli olacak kışlık ürün taban fiyatlarını daha ürünler ekilmeden açıklamasını Türkiye’deki destekleme ve alım politikalarıyla karşılaştırdı. Hindistan’da buğday için açıklanan fiyatın hesaplanan üretim maliyetinin yüzde 106 ü",
       "content": "Tarım Politikaları Uzmanı Ergin Kahveci, Hindistan’ın 2027-28 sezonunda geçerli olacak kışlık ürün taban fiyatlarını daha ürünler ekilmeden açıklamasını Türkiye’deki destekleme ve alım politikalarıyla karşılaştırdı. Hindistan’da buğday için açıklanan fiyatın hesaplanan üretim maliyetinin yüzde 106 üzerinde olduğunu belirten Kahveci, TMO’nun alım ve satış politikası üzerinden, “O halde bu fiyatı baştan neden vermediniz?” diye sordu."
-    },
-    {
-      "title": "Tarım sayımı üzerinden Bakanlığa sert eleştiri: “Bizim Bakanlık sayar, döner yine sayar!”",
-      "url": "https://www.tarimdanhaber.com/tarim-sayimi-uzerinden-bakanliga-sert-elestiri-bizim-bakanlik-sayar-doner-yine-sayar",
-      "source": "Tarımdan Haber",
-      "date": "2026-10-07",
-      "summary": "Anahtar Parti Genel Başkan Yardımcısı ve Tarım ve Gıda Güvenliği Politikaları Başkanı Hasan Hüseyin Demiröz, Türkiye’nin sağlıklı bir tarım envanteri oluşturamamasını eleştirdi. Demiröz, tarım sayımının yalnızca üretim planlaması değil, gıda güvenliği, tarımsal girdiler, hayvan varlığı ve kırsal nüf",
-      "content": "Anahtar Parti Genel Başkan Yardımcısı ve Tarım ve Gıda Güvenliği Politikaları Başkanı Hasan Hüseyin Demiröz, Türkiye’nin sağlıklı bir tarım envanteri oluşturamamasını eleştirdi. Demiröz, tarım sayımının yalnızca üretim planlaması değil, gıda güvenliği, tarımsal girdiler, hayvan varlığı ve kırsal nüfusun yönetimi açısından da kritik olduğunu belirterek, “Bizim Bakanlık sayar, döner yine sayar” ifadelerini kullandı."
     }
   ],
   "commoditiesByBorsa": {
@@ -309,16 +309,6 @@
   "errors": [
     "borsa 5ED10: fetch failed",
     "borsa 5KO10: fetch failed",
-    "borsa 5ES10: fetch failed",
-    "mazot ANKARA: fetch failed",
-    "mazot ISTANBUL: fetch failed",
-    "mazot IZMIR: fetch failed",
-    "mazot KONYA: fetch failed",
-    "mazot ADANA: fetch failed",
-    "mazot BURSA: fetch failed",
-    "mazot ANTALYA: fetch failed",
-    "mazot SAMSUN: fetch failed",
-    "mazot TEKIRDAG: fetch failed",
-    "mazot CANAKKALE: fetch failed"
+    "borsa 5ES10: fetch failed"
   ]
 }
