@@ -1,26 +1,26 @@
 {
-  "updatedAt": "2026-10-09T16:14:25.350Z",
+  "updatedAt": "2026-10-09T20:55:33.523Z",
   "fx": [
     {
       "code": "USD",
       "name": "Dolar",
-      "buy": 49.34,
-      "sell": 49.34,
-      "change": 0.18
+      "buy": 49.13,
+      "sell": 49.41,
+      "change": 0.04
     },
     {
       "code": "EUR",
       "name": "Euro",
-      "buy": 55.21,
-      "sell": 55.22,
-      "change": -0.32
+      "buy": 54.98,
+      "sell": 55.41,
+      "change": -0.36
     },
     {
       "code": "GRA",
       "name": "Gram Altın",
-      "buy": 6649.33,
-      "sell": 6650.09,
-      "change": 1.59
+      "buy": 6644.51,
+      "sell": 6645.49,
+      "change": 1.52
     },
     {
       "code": "CEYREKALTIN",
@@ -38,6 +38,14 @@
     }
   ],
   "news": [
+    {
+      "title": "Et kesim fiyatları 2026 | Güncel karkas et, dana ve kuzu kesim fiyatları",
+      "url": "https://www.tarimdanhaber.com/sigir-kesim-fiyatlari",
+      "source": "Tarımdan Haber",
+      "date": "2026-10-09",
+      "summary": "Et kesim fiyatlarında düşüş devam ediyor. Ulusal Kırmızı Et Konseyi’nin (UKON) 8 Ekim 2026 verilerine göre dana karkas kesim fiyatı 4,09 lira düşerek 580,09 TL’ye gerilerken, kuzu karkas fiyatı ise 4 lira artarak 616,14 TL oldu. Bursa’da ise dana ve düve kesim fiyatları 20 lira, inek kesim fiyatı 10",
+      "content": "Et kesim fiyatlarında düşüş devam ediyor. Ulusal Kırmızı Et Konseyi’nin (UKON) 8 Ekim 2026 verilerine göre dana karkas kesim fiyatı 4,09 lira düşerek 580,09 TL’ye gerilerken, kuzu karkas fiyatı ise 4 lira artarak 616,14 TL oldu. Bursa’da ise dana ve düve kesim fiyatları 20 lira, inek kesim fiyatı 10 lira düştü. İşte 9 Ekim itibarıyla güncel dana, düve, inek ve kuzu kesim fiyatları..."
+    },
     {
       "title": "Şeker fiyatında 12 liralık zam gündemde! Bakanlık 52 lira için onay bekliyor",
       "url": "https://www.tarimdanhaber.com/seker-fiyatinda-12-liralik-zam-gundemde-bakanlik-52-lira-icin-onay-bekliyor",
@@ -93,14 +101,6 @@
       "date": "2026-10-08",
       "summary": "Tokat'taki Turhal Şeker Fabrikası'nda pancar işleme kampanyasının başlangıcında yaşanan gaz sızıntısından 76 çalışan etkilendi. Kayseri Şeker, sızıntının kireç ocağı bacasındaki çatlaktan kaynaklandığının düşünüldüğünü açıklarken, bir çalışanın tedavisinin devam ettiğini bildirdi.",
       "content": "Tokat'taki Turhal Şeker Fabrikası'nda pancar işleme kampanyasının başlangıcında yaşanan gaz sızıntısından 76 çalışan etkilendi. Kayseri Şeker, sızıntının kireç ocağı bacasındaki çatlaktan kaynaklandığının düşünüldüğünü açıklarken, bir çalışanın tedavisinin devam ettiğini bildirdi."
-    },
-    {
-      "title": "“Sayın Genel Müdür, sana Cumhurbaşkanımızı yedirmeyeceğiz” dedi! İşte çay cüzdanının iptaline neden olan paylaşım",
-      "url": "https://www.tarimdanhaber.com/sayin-genel-mudur-sana-cumhurbaskanimizi-yedirmeyecegiz-dedi-iste-cay-cuzdaninin-iptaline-neden-olan-paylasim",
-      "source": "Tarımdan Haber",
-      "date": "2026-10-07",
-      "summary": "ÇAYKUR Genel Müdürü Yusuf Ziya Alim’i sosyal medyada eleştirmesinin ardından çay cüzdanının iptal edildiğini açıklayan Rizeli üretici İlyas Köse’nin, sözleşmesinin feshedilmesine konu olan paylaşımı da ortaya çıktı.",
-      "content": "ÇAYKUR Genel Müdürü Yusuf Ziya Alim’i sosyal medyada eleştirmesinin ardından çay cüzdanının iptal edildiğini açıklayan Rizeli üretici İlyas Köse’nin, sözleşmesinin feshedilmesine konu olan paylaşımı da ortaya çıktı."
     }
   ],
   "commoditiesByBorsa": {
