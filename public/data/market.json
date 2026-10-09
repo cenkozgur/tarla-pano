@@ -1,26 +1,26 @@
 {
-  "updatedAt": "2026-10-09T02:16:06.327Z",
+  "updatedAt": "2026-10-09T09:08:55.306Z",
   "fx": [
     {
       "code": "USD",
       "name": "Dolar",
-      "buy": 49.33,
+      "buy": 49.34,
       "sell": 49.35,
       "change": 0.18
     },
     {
       "code": "EUR",
       "name": "Euro",
-      "buy": 55.37,
-      "sell": 55.39,
-      "change": -0.03
+      "buy": 55.35,
+      "sell": 55.36,
+      "change": -0.07
     },
     {
       "code": "GRA",
       "name": "Gram Altın",
-      "buy": 6615.75,
-      "sell": 6616.73,
-      "change": 1.08
+      "buy": 6640.13,
+      "sell": 6641.03,
+      "change": 1.45
     },
     {
       "code": "CEYREKALTIN",
@@ -38,6 +38,14 @@
     }
   ],
   "news": [
+    {
+      "title": "Şeker fiyatında 12 liralık zam gündemde! Bakanlık 52 lira için onay bekliyor",
+      "url": "https://www.tarimdanhaber.com/seker-fiyatinda-12-liralik-zam-gundemde-bakanlik-52-lira-icin-onay-bekliyor",
+      "source": "Tarımdan Haber",
+      "date": "2026-10-09",
+      "summary": "Uzun süredir baskılanan şeker fiyatları nedeniyle fabrikalar maliyetlerinin altında satış yaparken, Tarım ve Orman Bakanlığının fiyat artışı için Hazine ve Maliye Bakanlığından onay beklediği öğrenildi. Onay verilmesi halinde kilogram başına yaklaşık 40 lira seviyesinde bulunan fabrika satış fiyatın",
+      "content": "Uzun süredir baskılanan şeker fiyatları nedeniyle fabrikalar maliyetlerinin altında satış yaparken, Tarım ve Orman Bakanlığının fiyat artışı için Hazine ve Maliye Bakanlığından onay beklediği öğrenildi. Onay verilmesi halinde kilogram başına yaklaşık 40 lira seviyesinde bulunan fabrika satış fiyatının 52 liraya yükseltilmesi gündemde. Şeker pancarı alım fiyatının da önümüzdeki günlerde açıklanması bekleniyor."
+    },
     {
       "title": "Konya Şeker'in Soma Termik Santrali 6,9 milyar liraya TKİ'ye geçti! 12 yıl sonra yeniden devletin oldu",
       "url": "https://www.tarimdanhaber.com/konya-sekerin-soma-termik-santrali-69-milyar-liraya-tkiye-gecti-12-yil-sonra-yeniden-devletin-oldu",
@@ -93,14 +101,6 @@
       "date": "2026-10-07",
       "summary": "ÇAYKUR Genel Müdürü Yusuf Ziya Alim’i sosyal medyada eleştirmesinin ardından çay cüzdanının iptal edildiğini açıklayan Rizeli üretici İlyas Köse’nin, sözleşmesinin feshedilmesine konu olan paylaşımı da ortaya çıktı.",
       "content": "ÇAYKUR Genel Müdürü Yusuf Ziya Alim’i sosyal medyada eleştirmesinin ardından çay cüzdanının iptal edildiğini açıklayan Rizeli üretici İlyas Köse’nin, sözleşmesinin feshedilmesine konu olan paylaşımı da ortaya çıktı."
-    },
-    {
-      "title": "\"Vurgun sadece fon ve BİST hisselerinde olmadı! Çiftçinin arpa ve buğdayında da büyük vurgun var!\"",
-      "url": "https://www.tarimdanhaber.com/vurgun-sadece-fon-ve-bist-hisselerinde-olmadi-ciftcinin-arpa-ve-bugdayinda-da-buyuk-vurgun-var",
-      "source": "Tarımdan Haber",
-      "date": "2026-10-07",
-      "summary": "Ziraat Mühendisi ve çiftçi Faik Toy, fon ve Borsa İstanbul hisselerinde yaşanan tartışmalara gönderme yaparak hububat piyasasındaki fiyat hareketlerine tepki gösterdi. Hasatta arpanın çiftçinin elinden serbest piyasada ortalama 11,5 TL/kg’dan çıktığını, yaklaşık iki ay sonra 15,5 TL’ye yükseldiğini ",
-      "content": "Ziraat Mühendisi ve çiftçi Faik Toy, fon ve Borsa İstanbul hisselerinde yaşanan tartışmalara gönderme yaparak hububat piyasasındaki fiyat hareketlerine tepki gösterdi. Hasatta arpanın çiftçinin elinden serbest piyasada ortalama 11,5 TL/kg’dan çıktığını, yaklaşık iki ay sonra 15,5 TL’ye yükseldiğini belirten Toy, “Vurgun sadece fon ve BİST hisselerinde olmadı, çiftçinin arpa ve buğdayında da büyük vurgun var” dedi."
     }
   ],
   "commoditiesByBorsa": {
