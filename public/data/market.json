@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-10T17:41:48.755Z",
+  "updatedAt": "2026-10-10T20:42:16.360Z",
   "fx": [
     {
       "code": "USD",
@@ -38,6 +38,14 @@
     }
   ],
   "news": [
+    {
+      "title": "Rize'de çay için değil, iklim için horon oynadılar! Dev horon halkası",
+      "url": "https://www.tarimdanhaber.com/rizede-cay-icin-degil-iklim-icin-horon-oynadilar-dev-horon-halkasi",
+      "source": "Tarımdan Haber",
+      "date": "2026-10-10",
+      "summary": "Rize'de 6'ncısı düzenlenen Gastronomi Günleri'nde katılımcılar, dev çay bardağının etrafında el ele tutuşarak horon oynadı. Renkli görüntülere sahne olan etkinliğin amacı ise iklim değişikliği ve sıfır atık konusunda farkındalık oluşturmaktı.",
+      "content": "Rize'de 6'ncısı düzenlenen Gastronomi Günleri'nde katılımcılar, dev çay bardağının etrafında el ele tutuşarak horon oynadı. Renkli görüntülere sahne olan etkinliğin amacı ise iklim değişikliği ve sıfır atık konusunda farkındalık oluşturmaktı."
+    },
     {
       "title": "Buğday fiyatlarında sert düşüş! 5 günde 419 TL geriledi, mısır ve arpa yükseldi",
       "url": "https://www.tarimdanhaber.com/bugday-fiyatlarinda-sert-dusus-5-gunde-419-tl-geriledi-misir-ve-arpa-yukseldi",
@@ -93,14 +101,6 @@
       "date": "2026-10-08",
       "summary": "Konya Şeker'in 2015 yılında özelleştirme kapsamında satın aldığı Soma B Termik Santrali, icra yoluyla gerçekleştirilen satışın ardından yeniden kamuya geçti. Yaklaşık 13,8 milyar lira değer biçilen santral, ikinci açık artırmada başka alıcı çıkmayınca 6 milyar 946 milyon lira bedelle Türkiye Kömür İ",
       "content": "Konya Şeker'in 2015 yılında özelleştirme kapsamında satın aldığı Soma B Termik Santrali, icra yoluyla gerçekleştirilen satışın ardından yeniden kamuya geçti. Yaklaşık 13,8 milyar lira değer biçilen santral, ikinci açık artırmada başka alıcı çıkmayınca 6 milyar 946 milyon lira bedelle Türkiye Kömür İşletmeleri'ne (TKİ) kaldı."
-    },
-    {
-      "title": "Süt üreticisinden kritik uyarı: Fiyat artışı gecikirse anaç hayvanlar kesime gidecek!",
-      "url": "https://www.tarimdanhaber.com/sut-ureticisinden-kritik-uyari-fiyat-artisi-gecikirse-anac-hayvanlar-kesime-gidecek",
-      "source": "Tarımdan Haber",
-      "date": "2026-10-08",
-      "summary": "Türkiye Tarımsal Süt Üreticileri Merkez Birliği Başkanı Tevfik Keskin, artan maliyetler karşısında çiğ süt tavsiye fiyatının yeniden belirlenmesi gerektiğini açıkladı. Fiyat kararlarının gecikmesi nedeniyle işletmelerde finansman açığı oluştuğunu belirten Keskin, üreticilerin bu açığı kredi kullanar",
-      "content": "Türkiye Tarımsal Süt Üreticileri Merkez Birliği Başkanı Tevfik Keskin, artan maliyetler karşısında çiğ süt tavsiye fiyatının yeniden belirlenmesi gerektiğini açıkladı. Fiyat kararlarının gecikmesi nedeniyle işletmelerde finansman açığı oluştuğunu belirten Keskin, üreticilerin bu açığı kredi kullanarak veya hayvanlarını kesime göndererek kapatmaya çalıştığını vurguladı. Keskin, üretimde yaşanacak daralmanın gelecekte daha yüksek süt fiyatlarına neden olabileceği uyarısında bulundu."
     }
   ],
   "commoditiesByBorsa": {
@@ -307,8 +307,19 @@
   "note": "Fiyatlar TOBB ticaret borsasından (borsa seçilebilir). Kanola manuel (Trakya 2025).",
   "inputsNote": "Mazot: akaryakıt bayi fiyatı, günlük (şehir seçilebilir). Gübre: manuel (yaklaşık).",
   "errors": [
+    "fx: fetch failed",
     "borsa 5ED10: fetch failed",
     "borsa 5KO10: fetch failed",
-    "borsa 5ES10: fetch failed"
+    "borsa 5ES10: fetch failed",
+    "mazot ANKARA: fetch failed",
+    "mazot ISTANBUL: fetch failed",
+    "mazot IZMIR: fetch failed",
+    "mazot KONYA: fetch failed",
+    "mazot ADANA: fetch failed",
+    "mazot BURSA: fetch failed",
+    "mazot ANTALYA: fetch failed",
+    "mazot SAMSUN: fetch failed",
+    "mazot TEKIRDAG: fetch failed",
+    "mazot CANAKKALE: fetch failed"
   ]
 }
