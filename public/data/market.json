@@ -1,26 +1,26 @@
 {
-  "updatedAt": "2026-10-09T20:55:33.523Z",
+  "updatedAt": "2026-10-10T00:35:13.123Z",
   "fx": [
     {
       "code": "USD",
       "name": "Dolar",
-      "buy": 49.13,
-      "sell": 49.41,
-      "change": 0.04
+      "buy": 49.14,
+      "sell": 49.4,
+      "change": 0.03
     },
     {
       "code": "EUR",
       "name": "Euro",
-      "buy": 54.98,
-      "sell": 55.41,
-      "change": -0.36
+      "buy": 54.95,
+      "sell": 55.65,
+      "change": -0.18
     },
     {
       "code": "GRA",
       "name": "Gram Altın",
-      "buy": 6644.51,
-      "sell": 6645.49,
-      "change": 1.52
+      "buy": 6643.95,
+      "sell": 6644.78,
+      "change": 1.51
     },
     {
       "code": "CEYREKALTIN",
@@ -38,6 +38,14 @@
     }
   ],
   "news": [
+    {
+      "title": "Türkiye'nin çay pazarına Paraguay talip oldu! Vergi avantajıyla yeni ürün geliyor",
+      "url": "https://www.tarimdanhaber.com/turkiyenin-cay-pazarina-paraguay-talip-oldu-vergi-avantajiyla-yeni-urun-geliyor",
+      "source": "Tarımdan Haber",
+      "date": "2026-10-09",
+      "summary": "Dünyanın en fazla çay tüketen ülkelerinden Türkiye, Paraguay'ın yeni ihracat hedefi oldu. Paraguay'ın Türkiye Büyükelçisi Guillermo Sosa, yerba mate adlı geleneksel bitkisel içeceğin Türk pazarına girişinde gümrük vergisi avantajı bulunduğunu açıkladı. Paraguaylı üreticiler, Türkiye'de ithalatçı ve ",
+      "content": "Dünyanın en fazla çay tüketen ülkelerinden Türkiye, Paraguay'ın yeni ihracat hedefi oldu. Paraguay'ın Türkiye Büyükelçisi Guillermo Sosa, yerba mate adlı geleneksel bitkisel içeceğin Türk pazarına girişinde gümrük vergisi avantajı bulunduğunu açıkladı. Paraguaylı üreticiler, Türkiye'de ithalatçı ve dağıtımcılarla temas kurarak yerba mate tüketimini yaygınlaştırmayı hedefliyor."
+    },
     {
       "title": "Et kesim fiyatları 2026 | Güncel karkas et, dana ve kuzu kesim fiyatları",
       "url": "https://www.tarimdanhaber.com/sigir-kesim-fiyatlari",
@@ -93,14 +101,6 @@
       "date": "2026-10-08",
       "summary": "Ticaret Bakanlığı, Türkiye Ürün İhtisas Borsası'nın işleyişi ve aracılık faaliyetlerine ilişkin iki yönetmelikte değişikliğe gitti. Yeni düzenlemeyle vadeli işlem sözleşmelerinin kapsamı genişletilirken, aracı kuruluşlara kendi hesaplarına vadeli işlem yapma imkanı tanındı. Ödeme, teslimat ve temina",
       "content": "Ticaret Bakanlığı, Türkiye Ürün İhtisas Borsası'nın işleyişi ve aracılık faaliyetlerine ilişkin iki yönetmelikte değişikliğe gitti. Yeni düzenlemeyle vadeli işlem sözleşmelerinin kapsamı genişletilirken, aracı kuruluşlara kendi hesaplarına vadeli işlem yapma imkanı tanındı. Ödeme, teslimat ve teminat kuralları da yeniden düzenlendi."
-    },
-    {
-      "title": "Turhal Şeker Fabrikası'nda 76 işçi gazdan etkilendi! Kayseri Şeker sızıntının nedenini açıkladı",
-      "url": "https://www.tarimdanhaber.com/turhal-seker-fabrikasinda-76-isci-gazdan-etkilendi-kayseri-seker-sizintinin-nedenini-acikladi",
-      "source": "Tarımdan Haber",
-      "date": "2026-10-08",
-      "summary": "Tokat'taki Turhal Şeker Fabrikası'nda pancar işleme kampanyasının başlangıcında yaşanan gaz sızıntısından 76 çalışan etkilendi. Kayseri Şeker, sızıntının kireç ocağı bacasındaki çatlaktan kaynaklandığının düşünüldüğünü açıklarken, bir çalışanın tedavisinin devam ettiğini bildirdi.",
-      "content": "Tokat'taki Turhal Şeker Fabrikası'nda pancar işleme kampanyasının başlangıcında yaşanan gaz sızıntısından 76 çalışan etkilendi. Kayseri Şeker, sızıntının kireç ocağı bacasındaki çatlaktan kaynaklandığının düşünüldüğünü açıklarken, bir çalışanın tedavisinin devam ettiğini bildirdi."
     }
   ],
   "commoditiesByBorsa": {
@@ -309,6 +309,16 @@
   "errors": [
     "borsa 5ED10: fetch failed",
     "borsa 5KO10: fetch failed",
-    "borsa 5ES10: fetch failed"
+    "borsa 5ES10: fetch failed",
+    "mazot ANKARA: fetch failed",
+    "mazot ISTANBUL: fetch failed",
+    "mazot IZMIR: fetch failed",
+    "mazot KONYA: fetch failed",
+    "mazot ADANA: fetch failed",
+    "mazot BURSA: fetch failed",
+    "mazot ANTALYA: fetch failed",
+    "mazot SAMSUN: fetch failed",
+    "mazot TEKIRDAG: fetch failed",
+    "mazot CANAKKALE: fetch failed"
   ]
 }
