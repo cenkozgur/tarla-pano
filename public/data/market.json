@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-10T06:24:26.796Z",
+  "updatedAt": "2026-10-10T12:54:45.006Z",
   "fx": [
     {
       "code": "USD",
@@ -38,6 +38,22 @@
     }
   ],
   "news": [
+    {
+      "title": "Buğday fiyatlarında sert düşüş! 5 günde 419 TL geriledi, mısır ve arpa yükseldi",
+      "url": "https://www.tarimdanhaber.com/bugday-fiyatlarinda-sert-dusus-5-gunde-419-tl-geriledi-misir-ve-arpa-yukseldi",
+      "source": "Tarımdan Haber",
+      "date": "2026-10-10",
+      "summary": "Buğday, arpa ve mısır fiyatlarında 5-9 Ekim haftasının bilançosu belli oldu. Türkiye genelindeki 15 ticaret borsasının ortalama verilerine göre ekmeklik buğdayın ton fiyatı 419 TL, makarnalık buğdayın fiyatı 343 TL düştü. Aynı dönemde mısır 55 TL, arpa 85 TL yükseldi. İşte 10 Ekim Cumartesi günü iti",
+      "content": "Buğday, arpa ve mısır fiyatlarında 5-9 Ekim haftasının bilançosu belli oldu. Türkiye genelindeki 15 ticaret borsasının ortalama verilerine göre ekmeklik buğdayın ton fiyatı 419 TL, makarnalık buğdayın fiyatı 343 TL düştü. Aynı dönemde mısır 55 TL, arpa 85 TL yükseldi. İşte 10 Ekim Cumartesi günü itibarıyla güncel hububat fiyatları ve haftalık değişim tablosu."
+    },
+    {
+      "title": "Ayçiçek yağı fiyatları için kritik uyarı! 2022'deki zam dalgası tekrarlanabilir",
+      "url": "https://www.tarimdanhaber.com/aycicek-yagi-fiyatlari-icin-kritik-uyari-2022deki-zam-dalgasi-tekrarlanabilir",
+      "source": "Tarımdan Haber",
+      "date": "2026-10-10",
+      "summary": "Rusya-Ukrayna savaşının tırmanmasıyla Karadeniz ayçiçek yağı ihracat hatları fiilen kilitlenme noktasına geldi. Rekor hasada rağmen milyonlarca ton yağın kaynakta sıkışıp kalma riski, küresel bitkisel yağ piyasasını 2022’deki şoktan daha tehlikeli bir ralliye sürükleyebilir.",
+      "content": "Rusya-Ukrayna savaşının tırmanmasıyla Karadeniz ayçiçek yağı ihracat hatları fiilen kilitlenme noktasına geldi. Rekor hasada rağmen milyonlarca ton yağın kaynakta sıkışıp kalma riski, küresel bitkisel yağ piyasasını 2022’deki şoktan daha tehlikeli bir ralliye sürükleyebilir."
+    },
     {
       "title": "Okul kantinlerinde kurallar değişti! Gıda logosuna alternatif geldi, bazı zorunluluklar ertelendi",
       "url": "https://www.tarimdanhaber.com/okul-kantinlerinde-kurallar-degisti-gida-logosuna-alternatif-geldi-bazi-zorunluluklar-ertelendi",
@@ -85,22 +101,6 @@
       "date": "2026-10-08",
       "summary": "Türkiye Tarımsal Süt Üreticileri Merkez Birliği Başkanı Tevfik Keskin, artan maliyetler karşısında çiğ süt tavsiye fiyatının yeniden belirlenmesi gerektiğini açıkladı. Fiyat kararlarının gecikmesi nedeniyle işletmelerde finansman açığı oluştuğunu belirten Keskin, üreticilerin bu açığı kredi kullanar",
       "content": "Türkiye Tarımsal Süt Üreticileri Merkez Birliği Başkanı Tevfik Keskin, artan maliyetler karşısında çiğ süt tavsiye fiyatının yeniden belirlenmesi gerektiğini açıkladı. Fiyat kararlarının gecikmesi nedeniyle işletmelerde finansman açığı oluştuğunu belirten Keskin, üreticilerin bu açığı kredi kullanarak veya hayvanlarını kesime göndererek kapatmaya çalıştığını vurguladı. Keskin, üretimde yaşanacak daralmanın gelecekte daha yüksek süt fiyatlarına neden olabileceği uyarısında bulundu."
-    },
-    {
-      "title": "Çiftçinin ürününü koyduğu lisanslı depolarda teminat değişti! İşte yeni rakamlar",
-      "url": "https://www.tarimdanhaber.com/ciftcinin-urununu-koydugu-lisansli-depolarda-teminat-degisti-iste-yeni-rakamlar",
-      "source": "Tarımdan Haber",
-      "date": "2026-10-08",
-      "summary": "Lisanslı depoculukta 2026-2027 dönemi teminat tarifesi belli oldu. Buğday, arpa ve mısırın da yer aldığı hububat grubunda ton başına teminat 1.903,80 liradan 2.335 liraya yükseldi. Pamuk ve ayçiçeğinde artış yaşanırken fındık, kuru üzüm ve baklagillerde teminat tutarları düşürüldü. Peki, yeni tarife",
-      "content": "Lisanslı depoculukta 2026-2027 dönemi teminat tarifesi belli oldu. Buğday, arpa ve mısırın da yer aldığı hububat grubunda ton başına teminat 1.903,80 liradan 2.335 liraya yükseldi. Pamuk ve ayçiçeğinde artış yaşanırken fındık, kuru üzüm ve baklagillerde teminat tutarları düşürüldü. Peki, yeni tarife çiftçiyi nasıl etkileyecek?"
-    },
-    {
-      "title": "15 köy ve mahallede arazi toplulaştırması yapılacak! Cumhurbaşkanı Kararı yayımlandı",
-      "url": "https://www.tarimdanhaber.com/15-koy-ve-mahallede-arazi-toplulastirmasi-yapilacak-cumhurbaskani-karari-yayimlandi",
-      "source": "Tarımdan Haber",
-      "date": "2026-10-08",
-      "summary": "Kırklareli'nde 15 köy ve mahallede arazi toplulaştırması ve tarla içi geliştirme hizmetleri yapılması kararlaştırıldı. Cumhurbaşkanı Kararı Resmi Gazete'de yayımlanırken, çalışmaların yürütüleceği köy ve mahalleler de tek tek açıklandı.",
-      "content": "Kırklareli'nde 15 köy ve mahallede arazi toplulaştırması ve tarla içi geliştirme hizmetleri yapılması kararlaştırıldı. Cumhurbaşkanı Kararı Resmi Gazete'de yayımlanırken, çalışmaların yürütüleceği köy ve mahalleler de tek tek açıklandı."
     }
   ],
   "commoditiesByBorsa": {
@@ -271,7 +271,7 @@
       "name": "Motorin (mazot)",
       "unit": "₺/lt",
       "price": 98.3,
-      "change": 6.96,
+      "change": 0,
       "source": "CANAKKALE ort."
     },
     {
