@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-10T00:35:13.123Z",
+  "updatedAt": "2026-10-10T06:24:26.796Z",
   "fx": [
     {
       "code": "USD",
@@ -38,6 +38,14 @@
     }
   ],
   "news": [
+    {
+      "title": "Okul kantinlerinde kurallar değişti! Gıda logosuna alternatif geldi, bazı zorunluluklar ertelendi",
+      "url": "https://www.tarimdanhaber.com/okul-kantinlerinde-kurallar-degisti-gida-logosuna-alternatif-geldi-bazi-zorunluluklar-ertelendi",
+      "source": "Tarımdan Haber",
+      "date": "2026-10-10",
+      "summary": "Okullarda satılan ambalajlı gıdalar için yeni düzenleme yapıldı. 10 Ekim 2026 tarihli Resmi Gazete'de yayımlanan tebliğle okul gıdası logosuna alternatif olarak A, B ve C harflerinden oluşan Beslenme Skoru sistemi getirildi. Okul Gıdası Komisyonu kaldırılırken bazı zorunlulukların uygulanması 13 Eyl",
+      "content": "Okullarda satılan ambalajlı gıdalar için yeni düzenleme yapıldı. 10 Ekim 2026 tarihli Resmi Gazete'de yayımlanan tebliğle okul gıdası logosuna alternatif olarak A, B ve C harflerinden oluşan Beslenme Skoru sistemi getirildi. Okul Gıdası Komisyonu kaldırılırken bazı zorunlulukların uygulanması 13 Eylül 2027'ye ertelendi."
+    },
     {
       "title": "Türkiye'nin çay pazarına Paraguay talip oldu! Vergi avantajıyla yeni ürün geliyor",
       "url": "https://www.tarimdanhaber.com/turkiyenin-cay-pazarina-paraguay-talip-oldu-vergi-avantajiyla-yeni-urun-geliyor",
@@ -93,14 +101,6 @@
       "date": "2026-10-08",
       "summary": "Kırklareli'nde 15 köy ve mahallede arazi toplulaştırması ve tarla içi geliştirme hizmetleri yapılması kararlaştırıldı. Cumhurbaşkanı Kararı Resmi Gazete'de yayımlanırken, çalışmaların yürütüleceği köy ve mahalleler de tek tek açıklandı.",
       "content": "Kırklareli'nde 15 köy ve mahallede arazi toplulaştırması ve tarla içi geliştirme hizmetleri yapılması kararlaştırıldı. Cumhurbaşkanı Kararı Resmi Gazete'de yayımlanırken, çalışmaların yürütüleceği köy ve mahalleler de tek tek açıklandı."
-    },
-    {
-      "title": "Buğday, arpa ve mısır piyasasında yeni kurallar! TÜRİB'de aracılara yeni yetki",
-      "url": "https://www.tarimdanhaber.com/bugday-arpa-ve-misir-piyasasinda-yeni-kurallar-turibde-aracilara-yeni-yetki",
-      "source": "Tarımdan Haber",
-      "date": "2026-10-08",
-      "summary": "Ticaret Bakanlığı, Türkiye Ürün İhtisas Borsası'nın işleyişi ve aracılık faaliyetlerine ilişkin iki yönetmelikte değişikliğe gitti. Yeni düzenlemeyle vadeli işlem sözleşmelerinin kapsamı genişletilirken, aracı kuruluşlara kendi hesaplarına vadeli işlem yapma imkanı tanındı. Ödeme, teslimat ve temina",
-      "content": "Ticaret Bakanlığı, Türkiye Ürün İhtisas Borsası'nın işleyişi ve aracılık faaliyetlerine ilişkin iki yönetmelikte değişikliğe gitti. Yeni düzenlemeyle vadeli işlem sözleşmelerinin kapsamı genişletilirken, aracı kuruluşlara kendi hesaplarına vadeli işlem yapma imkanı tanındı. Ödeme, teslimat ve teminat kuralları da yeniden düzenlendi."
     }
   ],
   "commoditiesByBorsa": {
@@ -254,24 +254,24 @@
     }
   ],
   "dieselByCity": {
-    "ANKARA": 91.3,
-    "ISTANBUL": 90.15,
-    "IZMIR": 91.6,
-    "KONYA": 92.4,
-    "ADANA": 92.1,
-    "BURSA": 91.2,
-    "ANTALYA": 92.6,
-    "SAMSUN": 91.9,
-    "TEKIRDAG": 91,
-    "CANAKKALE": 91.9
+    "ANKARA": 97.7,
+    "ISTANBUL": 96.55,
+    "IZMIR": 98,
+    "KONYA": 98.8,
+    "ADANA": 98.5,
+    "BURSA": 97.6,
+    "ANTALYA": 99,
+    "SAMSUN": 98.3,
+    "TEKIRDAG": 97.4,
+    "CANAKKALE": 98.3
   },
   "inputs": [
     {
       "key": "motorin",
       "name": "Motorin (mazot)",
       "unit": "₺/lt",
-      "price": 91.9,
-      "change": 0,
+      "price": 98.3,
+      "change": 6.96,
       "source": "CANAKKALE ort."
     },
     {
@@ -309,16 +309,6 @@
   "errors": [
     "borsa 5ED10: fetch failed",
     "borsa 5KO10: fetch failed",
-    "borsa 5ES10: fetch failed",
-    "mazot ANKARA: fetch failed",
-    "mazot ISTANBUL: fetch failed",
-    "mazot IZMIR: fetch failed",
-    "mazot KONYA: fetch failed",
-    "mazot ADANA: fetch failed",
-    "mazot BURSA: fetch failed",
-    "mazot ANTALYA: fetch failed",
-    "mazot SAMSUN: fetch failed",
-    "mazot TEKIRDAG: fetch failed",
-    "mazot CANAKKALE: fetch failed"
+    "borsa 5ES10: fetch failed"
   ]
 }
