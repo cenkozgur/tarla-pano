@@ -1,43 +1,51 @@
 {
-  "updatedAt": "2026-10-13T17:08:31.708Z",
+  "updatedAt": "2026-10-13T21:51:09.129Z",
   "fx": [
     {
       "code": "USD",
       "name": "Dolar",
-      "buy": 49.36,
-      "sell": 49.37,
-      "change": 0.12
+      "buy": 493051,
+      "sell": 494441,
+      "change": -1
     },
     {
       "code": "EUR",
       "name": "Euro",
-      "buy": 55.27,
-      "sell": 55.28,
-      "change": 0.4
+      "buy": 552655,
+      "sell": 553972,
+      "change": -1
     },
     {
       "code": "GRA",
       "name": "Gram Altın",
-      "buy": 6592.16,
-      "sell": 6592.84,
-      "change": -0.31
+      "buy": 660542,
+      "sell": 660625,
+      "change": -1
     },
     {
       "code": "CEYREKALTIN",
       "name": "Çeyrek Altın",
-      "buy": 10547.41,
-      "sell": 10788.42,
-      "change": 0.03
+      "buy": 1054741,
+      "sell": 1078842,
+      "change": 0
     },
     {
       "code": "CUMHURIYETALTINI",
       "name": "Cumhuriyet Altını",
       "buy": 43726,
       "sell": 44389,
-      "change": 0.02
+      "change": 2
     }
   ],
   "news": [
+    {
+      "title": "Pancar fiyatı açıklandı, çiftçiden tepki yağdı! “Mazot, gübre yüzde 20 mi arttı?",
+      "url": "https://www.tarimdanhaber.com/pancar-fiyati-aciklandi-ciftciden-tepki-yagdi-mazot-gubre-yuzde-20-mi-artti",
+      "source": "Tarımdan Haber",
+      "date": "2026-10-13",
+      "summary": "TÜRKŞEKER'in 2026 yılı şeker pancarı alım fiyatını kota tamamlama primi dahil ton başına 3 bin 720 TL olarak açıklaması, üreticilerin tepkisini çekti. Tarımdan Haber'in Facebook paylaşımına ilk iki saat içinde gelen yorumlarda mazot, gübre, elektrik ve işçilik maliyetleri öne çıktı. Bazı üreticiler ",
+      "content": "TÜRKŞEKER'in 2026 yılı şeker pancarı alım fiyatını kota tamamlama primi dahil ton başına 3 bin 720 TL olarak açıklaması, üreticilerin tepkisini çekti. Tarımdan Haber'in Facebook paylaşımına ilk iki saat içinde gelen yorumlarda mazot, gübre, elektrik ve işçilik maliyetleri öne çıktı. Bazı üreticiler fiyatın yeniden değerlendirilmesini isterken, bazıları gelecek yıl pancar ekmeyeceklerini dile getirdi."
+    },
     {
       "title": "Pancar fiyatı nasıl belirlendi? TÜRKŞEKER'den 3.720 TL için dikkat çeken açıklama",
       "url": "https://www.tarimdanhaber.com/pancar-fiyati-nasil-belirlendi-turksekerden-3720-tl-icin-dikkat-ceken-aciklama",
@@ -93,14 +101,6 @@
       "date": "2026-10-12",
       "summary": "Tarım ve Orman Bakanlığı, 2027 yılında uygulanacak TARSİM yeniliklerini açıkladı. Zirai don teminatına 16 ürün daha eklenirken, kuraklık ve verim kaybı sigortasında yeni iller kapsama alındı. Buzağıların sigortalanma şartları değişti, arıcılık ve sera sigortalarında teminat tutarları artırıldı. İşte",
       "content": "Tarım ve Orman Bakanlığı, 2027 yılında uygulanacak TARSİM yeniliklerini açıkladı. Zirai don teminatına 16 ürün daha eklenirken, kuraklık ve verim kaybı sigortasında yeni iller kapsama alındı. Buzağıların sigortalanma şartları değişti, arıcılık ve sera sigortalarında teminat tutarları artırıldı. İşte çiftçiyi ve hayvan yetiştiricisini ilgilendiren yeni düzenlemeler..."
-    },
-    {
-      "title": "100 yıllık çay bahçeleri sökülecek! Peki üretici 4 yıl neyle geçinecek?",
-      "url": "https://www.tarimdanhaber.com/100-yillik-cay-bahceleri-sokulecek-peki-uretici-4-yil-neyle-gecinecek",
-      "source": "Tarımdan Haber",
-      "date": "2026-10-12",
-      "summary": "ÇAYKUR, Doğu Karadeniz'de 60-100 yaşına ulaşan çay bahçelerinin yenilenmesi için çalışmalara başladı. Dönüşümün 20-25 yıl süreceğini açıklayan ÇAYKUR Genel Müdürü Yusuf Ziya Alim, bahçeleri sökülen üreticilerin 2-4 yıllık gelir kaybının karşılanması gerektiğini söyledi. Ancak üreticinin gelir kaybın",
-      "content": "ÇAYKUR, Doğu Karadeniz'de 60-100 yaşına ulaşan çay bahçelerinin yenilenmesi için çalışmalara başladı. Dönüşümün 20-25 yıl süreceğini açıklayan ÇAYKUR Genel Müdürü Yusuf Ziya Alim, bahçeleri sökülen üreticilerin 2-4 yıllık gelir kaybının karşılanması gerektiğini söyledi. Ancak üreticinin gelir kaybını kimin, nasıl karşılayacağı henüz netleşmedi."
     }
   ],
   "commoditiesByBorsa": {
@@ -309,6 +309,16 @@
   "errors": [
     "borsa 5ED10: fetch failed",
     "borsa 5KO10: fetch failed",
-    "borsa 5ES10: fetch failed"
+    "borsa 5ES10: fetch failed",
+    "mazot ANKARA: fetch failed",
+    "mazot ISTANBUL: fetch failed",
+    "mazot IZMIR: fetch failed",
+    "mazot KONYA: fetch failed",
+    "mazot ADANA: fetch failed",
+    "mazot BURSA: fetch failed",
+    "mazot ANTALYA: fetch failed",
+    "mazot SAMSUN: fetch failed",
+    "mazot TEKIRDAG: fetch failed",
+    "mazot CANAKKALE: fetch failed"
   ]
 }
