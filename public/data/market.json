@@ -1,43 +1,51 @@
 {
-  "updatedAt": "2026-10-13T02:43:07.509Z",
+  "updatedAt": "2026-10-13T09:45:09.169Z",
   "fx": [
     {
       "code": "USD",
       "name": "Dolar",
       "buy": 49.36,
-      "sell": 49.38,
-      "change": 0.12
+      "sell": 49.37,
+      "change": 0.13
     },
     {
       "code": "EUR",
       "name": "Euro",
-      "buy": 55.05,
-      "sell": 55.14,
-      "change": 0.07
+      "buy": 55.22,
+      "sell": 55.24,
+      "change": 0.32
     },
     {
       "code": "GRA",
       "name": "Gram Altın",
-      "buy": 6620.93,
-      "sell": 6621.76,
-      "change": 0.13
+      "buy": 6641.59,
+      "sell": 6642.36,
+      "change": 0.44
     },
     {
       "code": "CEYREKALTIN",
       "name": "Çeyrek Altın",
-      "buy": 10544.62,
-      "sell": 10785.56,
-      "change": 0
+      "buy": 10583.07,
+      "sell": 10824.86,
+      "change": 0.36
     },
     {
       "code": "CUMHURIYETALTINI",
       "name": "Cumhuriyet Altını",
-      "buy": 43716,
-      "sell": 44379,
-      "change": -0.5
+      "buy": 43876,
+      "sell": 44539,
+      "change": 0.36
     }
   ],
   "news": [
+    {
+      "title": "Fon krizinde mağdur olduğunu söylemişti! Eski Tarım Bakan Yardımcısı Mustafa Aksu tutuklandı",
+      "url": "https://www.tarimdanhaber.com/fon-krizinde-magdur-oldugunu-soylemisti-eski-tarim-bakan-yardimcisi-mustafa-aksu-tutuklandi",
+      "source": "Tarımdan Haber",
+      "date": "2026-10-13",
+      "summary": "Tera'nın likit fonuna yaptığı yaklaşık 100 milyon liralık yatırımı çekemediğini açıklayarak kendisini mağdur olarak tanımlayan eski Tarım ve Orman Bakan Yardımcısı Mustafa Aksu, fon soruşturması kapsamında tutuklandı. Aksu'nun daha önce yaptığı açıklamalar, tutuklama kararının ardından yeniden günde",
+      "content": "Tera'nın likit fonuna yaptığı yaklaşık 100 milyon liralık yatırımı çekemediğini açıklayarak kendisini mağdur olarak tanımlayan eski Tarım ve Orman Bakan Yardımcısı Mustafa Aksu, fon soruşturması kapsamında tutuklandı. Aksu'nun daha önce yaptığı açıklamalar, tutuklama kararının ardından yeniden gündeme geldi."
+    },
     {
       "title": "Şekere zam geldi ama fabrikalar yine satamayacak! Şeker piyasasında '2 firmalık lobi' gerçeği",
       "url": "https://www.tarimdanhaber.com/sekere-zam-geldi-ama-fabrikalar-yine-satamayacak-seker-piyasasinda-2-firmalik-lobi-gercegi",
@@ -93,14 +101,6 @@
       "date": "2026-10-10",
       "summary": "Rize'de 6'ncısı düzenlenen Gastronomi Günleri'nde katılımcılar, dev çay bardağının etrafında el ele tutuşarak horon oynadı. Renkli görüntülere sahne olan etkinliğin amacı ise iklim değişikliği ve sıfır atık konusunda farkındalık oluşturmaktı.",
       "content": "Rize'de 6'ncısı düzenlenen Gastronomi Günleri'nde katılımcılar, dev çay bardağının etrafında el ele tutuşarak horon oynadı. Renkli görüntülere sahne olan etkinliğin amacı ise iklim değişikliği ve sıfır atık konusunda farkındalık oluşturmaktı."
-    },
-    {
-      "title": "Buğday fiyatlarında sert düşüş! 5 günde 419 TL geriledi, mısır ve arpa yükseldi",
-      "url": "https://www.tarimdanhaber.com/bugday-fiyatlarinda-sert-dusus-5-gunde-419-tl-geriledi-misir-ve-arpa-yukseldi",
-      "source": "Tarımdan Haber",
-      "date": "2026-10-10",
-      "summary": "Buğday, arpa ve mısır fiyatlarında 5-9 Ekim haftasının bilançosu belli oldu. Türkiye genelindeki 15 ticaret borsasının ortalama verilerine göre ekmeklik buğdayın ton fiyatı 419 TL, makarnalık buğdayın fiyatı 343 TL düştü. Aynı dönemde mısır 55 TL, arpa 85 TL yükseldi. İşte 10 Ekim Cumartesi günü iti",
-      "content": "Buğday, arpa ve mısır fiyatlarında 5-9 Ekim haftasının bilançosu belli oldu. Türkiye genelindeki 15 ticaret borsasının ortalama verilerine göre ekmeklik buğdayın ton fiyatı 419 TL, makarnalık buğdayın fiyatı 343 TL düştü. Aynı dönemde mısır 55 TL, arpa 85 TL yükseldi. İşte 10 Ekim Cumartesi günü itibarıyla güncel hububat fiyatları ve haftalık değişim tablosu."
     }
   ],
   "commoditiesByBorsa": {
@@ -307,7 +307,6 @@
   "note": "Fiyatlar TOBB ticaret borsasından (borsa seçilebilir). Kanola manuel (Trakya 2025).",
   "inputsNote": "Mazot: akaryakıt bayi fiyatı, günlük (şehir seçilebilir). Gübre: manuel (yaklaşık).",
   "errors": [
-    "fx: fetch failed",
     "borsa 5ED10: fetch failed",
     "borsa 5KO10: fetch failed",
     "borsa 5ES10: fetch failed"
