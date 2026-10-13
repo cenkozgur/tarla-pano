@@ -1,43 +1,75 @@
 {
-  "updatedAt": "2026-10-13T09:45:09.169Z",
+  "updatedAt": "2026-10-13T17:08:31.708Z",
   "fx": [
     {
       "code": "USD",
       "name": "Dolar",
       "buy": 49.36,
       "sell": 49.37,
-      "change": 0.13
+      "change": 0.12
     },
     {
       "code": "EUR",
       "name": "Euro",
-      "buy": 55.22,
-      "sell": 55.24,
-      "change": 0.32
+      "buy": 55.27,
+      "sell": 55.28,
+      "change": 0.4
     },
     {
       "code": "GRA",
       "name": "Gram Altın",
-      "buy": 6641.59,
-      "sell": 6642.36,
-      "change": 0.44
+      "buy": 6592.16,
+      "sell": 6592.84,
+      "change": -0.31
     },
     {
       "code": "CEYREKALTIN",
       "name": "Çeyrek Altın",
-      "buy": 10583.07,
-      "sell": 10824.86,
-      "change": 0.36
+      "buy": 10547.41,
+      "sell": 10788.42,
+      "change": 0.03
     },
     {
       "code": "CUMHURIYETALTINI",
       "name": "Cumhuriyet Altını",
-      "buy": 43876,
-      "sell": 44539,
-      "change": 0.36
+      "buy": 43726,
+      "sell": 44389,
+      "change": 0.02
     }
   ],
   "news": [
+    {
+      "title": "Pancar fiyatı nasıl belirlendi? TÜRKŞEKER'den 3.720 TL için dikkat çeken açıklama",
+      "url": "https://www.tarimdanhaber.com/pancar-fiyati-nasil-belirlendi-turksekerden-3720-tl-icin-dikkat-ceken-aciklama",
+      "source": "Tarımdan Haber",
+      "date": "2026-10-13",
+      "summary": "TÜRKŞEKER, 2026 yılı şeker pancarı alım fiyatının 3 bin 720 TL olarak belirlenmesinin ardından fiyat kararının nasıl alındığını açıkladı. Kurum, şeker şirketleri ve pancar üretici temsilcileriyle mutabakat sağlandığını duyururken, sözleşmeli üretim ve çiftçiye alım güvencesi vurgusu yaptı.",
+      "content": "TÜRKŞEKER, 2026 yılı şeker pancarı alım fiyatının 3 bin 720 TL olarak belirlenmesinin ardından fiyat kararının nasıl alındığını açıkladı. Kurum, şeker şirketleri ve pancar üretici temsilcileriyle mutabakat sağlandığını duyururken, sözleşmeli üretim ve çiftçiye alım güvencesi vurgusu yaptı."
+    },
+    {
+      "title": "2026 pancar alım fiyatında 143 TL ayrıntısı! 3.720 TL'nin tamamını kim alacak?",
+      "url": "https://www.tarimdanhaber.com/2026-pancar-alim-fiyatinda-143-tl-ayrintisi-3720-tlnin-tamamini-kim-alacak",
+      "source": "Tarımdan Haber",
+      "date": "2026-10-13",
+      "summary": "TÜRKŞEKER'in 2026-2027 üretim yılı için açıkladığı ton başına 3 bin 720 TL'lik şeker pancarı alım fiyatının içinde yüzde 4 kota tamamlama primi bulunuyor. Buna göre prim hariç baz fiyat 3 bin 577 TL, kota tamamlama primi ise 143 TL olarak hesaplanıyor. Peki hangi üreticiler açıklanan fiyatın tamamın",
+      "content": "TÜRKŞEKER'in 2026-2027 üretim yılı için açıkladığı ton başına 3 bin 720 TL'lik şeker pancarı alım fiyatının içinde yüzde 4 kota tamamlama primi bulunuyor. Buna göre prim hariç baz fiyat 3 bin 577 TL, kota tamamlama primi ise 143 TL olarak hesaplanıyor. Peki hangi üreticiler açıklanan fiyatın tamamından yararlanabilecek?"
+    },
+    {
+      "title": "2026 pancar alım fiyatı açıklandı! Tarımdan Haber günler önce duyurmuştu",
+      "url": "https://www.tarimdanhaber.com/2026-pancar-alim-fiyati-aciklandi-tarimdan-haber-gunler-once-duyurmustu",
+      "source": "Tarımdan Haber",
+      "date": "2026-10-13",
+      "summary": "TÜRKŞEKER, 2026-2027 üretim yılı şeker pancarı alım fiyatını kota tamamlama primi dahil ton başına 3 bin 720 TL olarak açıkladı. Tarımdan Haber, fiyatın açıklanmasından günler önce Bakanlıkta 3 bin 750 TL seviyesindeki rakamın gündemde olduğunu okuyucularına duyurmuştu. Açıklanan fiyat, daha önce ha",
+      "content": "TÜRKŞEKER, 2026-2027 üretim yılı şeker pancarı alım fiyatını kota tamamlama primi dahil ton başına 3 bin 720 TL olarak açıkladı. Tarımdan Haber, fiyatın açıklanmasından günler önce Bakanlıkta 3 bin 750 TL seviyesindeki rakamın gündemde olduğunu okuyucularına duyurmuştu. Açıklanan fiyat, daha önce haberleştirdiğimiz seviyenin yalnızca 30 TL altında kaldı."
+    },
+    {
+      "title": "Hasat başladı, fiyat bir ay sonra geldi! TMO çeltik alım fiyatlarını açıkladı",
+      "url": "https://www.tarimdanhaber.com/hasat-basladi-fiyat-bir-ay-sonra-geldi-tmo-celtik-alim-fiyatlarini-acikladi",
+      "source": "Tarımdan Haber",
+      "date": "2026-10-13",
+      "summary": "Toprak Mahsulleri Ofisi (TMO), üreticilerin merakla beklediği 2026 yılı çeltik alım fiyatlarını açıkladı. Baldo grubu çeltikte ton başına 45 bin TL fiyat belirlenirken, diğer çeşitlerde fiyat 32 bin TL'ye kadar düşüyor. Eylül ortasında başlayan hasada rağmen TMO alımlara 15 Ekim'de başlayacak.",
+      "content": "Toprak Mahsulleri Ofisi (TMO), üreticilerin merakla beklediği 2026 yılı çeltik alım fiyatlarını açıkladı. Baldo grubu çeltikte ton başına 45 bin TL fiyat belirlenirken, diğer çeşitlerde fiyat 32 bin TL'ye kadar düşüyor. Eylül ortasında başlayan hasada rağmen TMO alımlara 15 Ekim'de başlayacak."
+    },
     {
       "title": "Fon krizinde mağdur olduğunu söylemişti! Eski Tarım Bakan Yardımcısı Mustafa Aksu tutuklandı",
       "url": "https://www.tarimdanhaber.com/fon-krizinde-magdur-oldugunu-soylemisti-eski-tarim-bakan-yardimcisi-mustafa-aksu-tutuklandi",
@@ -69,38 +101,6 @@
       "date": "2026-10-12",
       "summary": "ÇAYKUR, Doğu Karadeniz'de 60-100 yaşına ulaşan çay bahçelerinin yenilenmesi için çalışmalara başladı. Dönüşümün 20-25 yıl süreceğini açıklayan ÇAYKUR Genel Müdürü Yusuf Ziya Alim, bahçeleri sökülen üreticilerin 2-4 yıllık gelir kaybının karşılanması gerektiğini söyledi. Ancak üreticinin gelir kaybın",
       "content": "ÇAYKUR, Doğu Karadeniz'de 60-100 yaşına ulaşan çay bahçelerinin yenilenmesi için çalışmalara başladı. Dönüşümün 20-25 yıl süreceğini açıklayan ÇAYKUR Genel Müdürü Yusuf Ziya Alim, bahçeleri sökülen üreticilerin 2-4 yıllık gelir kaybının karşılanması gerektiğini söyledi. Ancak üreticinin gelir kaybını kimin, nasıl karşılayacağı henüz netleşmedi."
-    },
-    {
-      "title": "Tarlasını 2 yıl boş bırakanlar dikkat! Bakanlık kiraya vermeye başladı",
-      "url": "https://www.tarimdanhaber.com/tarlasini-2-yil-bos-birakanlar-dikkat-bakanlik-kiraya-vermeye-basladi",
-      "source": "Tarımdan Haber",
-      "date": "2026-10-11",
-      "summary": "Tarım arazisini üst üste iki yıl işlemeyen arazi sahiplerini yakından ilgilendiren uygulamada yeni aşamaya geçildi. Tarım ve Orman Bakanlığının başlattığı kiralama uygulaması kapsamında ilk sözleşmeler imzalanırken, arazilerin teslimi de yapıldı. Çankırı'da 128 parsel için başlatılan süreçte 14 pars",
-      "content": "Tarım arazisini üst üste iki yıl işlemeyen arazi sahiplerini yakından ilgilendiren uygulamada yeni aşamaya geçildi. Tarım ve Orman Bakanlığının başlattığı kiralama uygulaması kapsamında ilk sözleşmeler imzalanırken, arazilerin teslimi de yapıldı. Çankırı'da 128 parsel için başlatılan süreçte 14 parsel kiraya verildi. Peki, tarlasını işlemeyen arazi sahiplerini ne bekliyor?"
-    },
-    {
-      "title": "Tarım Kredi'de taşeron haberi ortalığı karıştırdı! Hüseyin Aydın'dan yöneticilere 1,5 ay süre",
-      "url": "https://www.tarimdanhaber.com/tarim-kredide-taseron-haberi-ortaligi-karistirdi-huseyin-aydindan-yoneticilere-15-ay-sure",
-      "source": "Tarımdan Haber",
-      "date": "2026-10-11",
-      "summary": "Tarım Kredi Market'in Diyarbakır deposunda ortaya çıkan taşeron ve alt taşeron zinciriyle ilgili yayımladığımız haberin ardından kurum içinde yaşananlara ilişkin yeni bilgiler geldi. Kulislerden aktarılanlara göre Genel Müdür Hüseyin Aydın, Diyarbakır ziyaretinde konuyu yöneticilerine sordu. Uygulam",
-      "content": "Tarım Kredi Market'in Diyarbakır deposunda ortaya çıkan taşeron ve alt taşeron zinciriyle ilgili yayımladığımız haberin ardından kurum içinde yaşananlara ilişkin yeni bilgiler geldi. Kulislerden aktarılanlara göre Genel Müdür Hüseyin Aydın, Diyarbakır ziyaretinde konuyu yöneticilerine sordu. Uygulamaya tepki gösteren Aydın'ın sorunun çözülmesi için 1,5 ay süre verdiği ve görevden alma uyarısında bulunduğu öğrenildi."
-    },
-    {
-      "title": "Buğday ithalatında şaşırtan tablo! Makarnalık buğdayda 14 katlık artış",
-      "url": "https://www.tarimdanhaber.com/bugday-ithalatinda-sasirtan-tablo-makarnalik-bugdayda-14-katlik-artis",
-      "source": "Tarımdan Haber",
-      "date": "2026-10-11",
-      "summary": "Türkiye’nin buğday ithalatında 2026’nın ilk 8 ayında çarpıcı bir tablo ortaya çıktı. Ekmeklik buğday ithalatı yüzde 55 artarak 3,12 milyon tona yükselirken, makarnalık buğday ithalatı 29 bin tondan 434 bin tona çıkarak yaklaşık 14,7 katına ulaştı. Peki, önemli bir makarna ihracatçısı olan Türkiye’de",
-      "content": "Türkiye’nin buğday ithalatında 2026’nın ilk 8 ayında çarpıcı bir tablo ortaya çıktı. Ekmeklik buğday ithalatı yüzde 55 artarak 3,12 milyon tona yükselirken, makarnalık buğday ithalatı 29 bin tondan 434 bin tona çıkarak yaklaşık 14,7 katına ulaştı. Peki, önemli bir makarna ihracatçısı olan Türkiye’de ithalat neden bu kadar arttı? Sektör kaynakları, artışın arkasında Dahilde İşleme Rejimi, iç piyasa fiyatları ve ithalatın cazip hale gelmesinin bulunduğunu belirtiyor."
-    },
-    {
-      "title": "Rize'de çay için değil, iklim için horon oynadılar! Dev horon halkası",
-      "url": "https://www.tarimdanhaber.com/rizede-cay-icin-degil-iklim-icin-horon-oynadilar-dev-horon-halkasi",
-      "source": "Tarımdan Haber",
-      "date": "2026-10-10",
-      "summary": "Rize'de 6'ncısı düzenlenen Gastronomi Günleri'nde katılımcılar, dev çay bardağının etrafında el ele tutuşarak horon oynadı. Renkli görüntülere sahne olan etkinliğin amacı ise iklim değişikliği ve sıfır atık konusunda farkındalık oluşturmaktı.",
-      "content": "Rize'de 6'ncısı düzenlenen Gastronomi Günleri'nde katılımcılar, dev çay bardağının etrafında el ele tutuşarak horon oynadı. Renkli görüntülere sahne olan etkinliğin amacı ise iklim değişikliği ve sıfır atık konusunda farkındalık oluşturmaktı."
     }
   ],
   "commoditiesByBorsa": {
