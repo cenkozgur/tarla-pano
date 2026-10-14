@@ -1,43 +1,51 @@
 {
-  "updatedAt": "2026-10-14T05:55:34.735Z",
+  "updatedAt": "2026-10-14T11:27:54.485Z",
   "fx": [
     {
       "code": "USD",
       "name": "Dolar",
       "buy": 49.39,
-      "sell": 49.39,
+      "sell": 49.4,
       "change": 0.03
     },
     {
       "code": "EUR",
       "name": "Euro",
-      "buy": 55.38,
-      "sell": 55.41,
-      "change": 0.11
+      "buy": 55.33,
+      "sell": 55.33,
+      "change": -0.01
     },
     {
       "code": "GRA",
       "name": "Gram Altın",
-      "buy": 6595.1,
-      "sell": 6595.88,
-      "change": -0.16
+      "buy": 6574.2,
+      "sell": 6575.09,
+      "change": -0.48
     },
     {
       "code": "CEYREKALTIN",
       "name": "Çeyrek Altın",
-      "buy": 10547.41,
-      "sell": 10788.42,
-      "change": 0
+      "buy": 10501.03,
+      "sell": 10741.03,
+      "change": -0.44
     },
     {
       "code": "CUMHURIYETALTINI",
       "name": "Cumhuriyet Altını",
-      "buy": 43726,
-      "sell": 44389,
-      "change": 0.02
+      "buy": 43526,
+      "sell": 44189,
+      "change": -0.45
     }
   ],
   "news": [
+    {
+      "title": "TÜRKŞEKER'de pes dedirten olay! Çiftçiye taş gibi şeker verdiler, tepki gelince değiştirdiler",
+      "url": "https://www.tarimdanhaber.com/turksekerde-pes-dedirten-olay-ciftciye-tas-gibi-seker-verdiler-tepki-gelince-degistirdiler",
+      "source": "Tarımdan Haber",
+      "date": "2026-10-14",
+      "summary": "TÜRKŞEKER'e bağlı Ilgın Şeker Fabrikası, pancar çiftçisine istihkak olarak 2023 yılı üretimi, taş gibi kesekleşmiş şeker dağıttı. Çiftçinin pancar alacağından kilosu 42 liradan kesilerek verilen şekerler, üreticilerin tepkisi üzerine geri alınarak değiştirildi. Bakanlık gıda denetimlerini sürdürürke",
+      "content": "TÜRKŞEKER'e bağlı Ilgın Şeker Fabrikası, pancar çiftçisine istihkak olarak 2023 yılı üretimi, taş gibi kesekleşmiş şeker dağıttı. Çiftçinin pancar alacağından kilosu 42 liradan kesilerek verilen şekerler, üreticilerin tepkisi üzerine geri alınarak değiştirildi. Bakanlık gıda denetimlerini sürdürürken kamuya ait fabrikada yaşananlar tepki çekti."
+    },
     {
       "title": "ÇAYKUR'dan noterli cevap! Çay cüzdanı iptal edilmedi dedi, sözleşmenin feshini doğruladı",
       "url": "https://www.tarimdanhaber.com/caykurdan-noterli-cevap-cay-cuzdani-iptal-edilmedi-dedi-sozlesmenin-feshini-dogruladi",
@@ -93,14 +101,6 @@
       "date": "2026-10-13",
       "summary": "TÜRKŞEKER'in 2026-2027 üretim yılı için açıkladığı ton başına 3 bin 720 TL'lik şeker pancarı alım fiyatının içinde yüzde 4 kota tamamlama primi bulunuyor. Buna göre prim hariç baz fiyat 3 bin 577 TL, kota tamamlama primi ise 143 TL olarak hesaplanıyor. Peki hangi üreticiler açıklanan fiyatın tamamın",
       "content": "TÜRKŞEKER'in 2026-2027 üretim yılı için açıkladığı ton başına 3 bin 720 TL'lik şeker pancarı alım fiyatının içinde yüzde 4 kota tamamlama primi bulunuyor. Buna göre prim hariç baz fiyat 3 bin 577 TL, kota tamamlama primi ise 143 TL olarak hesaplanıyor. Peki hangi üreticiler açıklanan fiyatın tamamından yararlanabilecek?"
-    },
-    {
-      "title": "2026 pancar alım fiyatı açıklandı! Tarımdan Haber günler önce duyurmuştu",
-      "url": "https://www.tarimdanhaber.com/2026-pancar-alim-fiyati-aciklandi-tarimdan-haber-gunler-once-duyurmustu",
-      "source": "Tarımdan Haber",
-      "date": "2026-10-13",
-      "summary": "TÜRKŞEKER, 2026-2027 üretim yılı şeker pancarı alım fiyatını kota tamamlama primi dahil ton başına 3 bin 720 TL olarak açıkladı. Tarımdan Haber, fiyatın açıklanmasından günler önce Bakanlıkta 3 bin 750 TL seviyesindeki rakamın gündemde olduğunu okuyucularına duyurmuştu. Açıklanan fiyat, daha önce ha",
-      "content": "TÜRKŞEKER, 2026-2027 üretim yılı şeker pancarı alım fiyatını kota tamamlama primi dahil ton başına 3 bin 720 TL olarak açıkladı. Tarımdan Haber, fiyatın açıklanmasından günler önce Bakanlıkta 3 bin 750 TL seviyesindeki rakamın gündemde olduğunu okuyucularına duyurmuştu. Açıklanan fiyat, daha önce haberleştirdiğimiz seviyenin yalnızca 30 TL altında kaldı."
     }
   ],
   "commoditiesByBorsa": {
@@ -309,16 +309,6 @@
   "errors": [
     "borsa 5ED10: fetch failed",
     "borsa 5KO10: fetch failed",
-    "borsa 5ES10: fetch failed",
-    "mazot ANKARA: fetch failed",
-    "mazot ISTANBUL: fetch failed",
-    "mazot IZMIR: fetch failed",
-    "mazot KONYA: fetch failed",
-    "mazot ADANA: fetch failed",
-    "mazot BURSA: fetch failed",
-    "mazot ANTALYA: fetch failed",
-    "mazot SAMSUN: fetch failed",
-    "mazot TEKIRDAG: fetch failed",
-    "mazot CANAKKALE: fetch failed"
+    "borsa 5ES10: fetch failed"
   ]
 }
