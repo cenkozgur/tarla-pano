@@ -1,32 +1,32 @@
 {
-  "updatedAt": "2026-10-14T00:58:08.408Z",
+  "updatedAt": "2026-10-14T05:55:34.735Z",
   "fx": [
     {
       "code": "USD",
       "name": "Dolar",
-      "buy": 493051,
-      "sell": 494441,
-      "change": -1
+      "buy": 49.39,
+      "sell": 49.39,
+      "change": 0.03
     },
     {
       "code": "EUR",
       "name": "Euro",
-      "buy": 552655,
-      "sell": 553972,
-      "change": -1
+      "buy": 55.38,
+      "sell": 55.41,
+      "change": 0.11
     },
     {
       "code": "GRA",
       "name": "Gram Altın",
-      "buy": 660542,
-      "sell": 660625,
-      "change": -1
+      "buy": 6595.1,
+      "sell": 6595.88,
+      "change": -0.16
     },
     {
       "code": "CEYREKALTIN",
       "name": "Çeyrek Altın",
-      "buy": 1054741,
-      "sell": 1078842,
+      "buy": 10547.41,
+      "sell": 10788.42,
       "change": 0
     },
     {
@@ -34,10 +34,26 @@
       "name": "Cumhuriyet Altını",
       "buy": 43726,
       "sell": 44389,
-      "change": 2
+      "change": 0.02
     }
   ],
   "news": [
+    {
+      "title": "ÇAYKUR'dan noterli cevap! Çay cüzdanı iptal edilmedi dedi, sözleşmenin feshini doğruladı",
+      "url": "https://www.tarimdanhaber.com/caykurdan-noterli-cevap-cay-cuzdani-iptal-edilmedi-dedi-sozlesmenin-feshini-dogruladi",
+      "source": "Tarımdan Haber",
+      "date": "2026-10-14",
+      "summary": "ÇAYKUR, Genel Müdür Yusuf Ziya Alim'i eleştiren üretici İlyas Köse'nin çay cüzdanının iptal edildiğine ilişkin haberimiz üzerine noter aracılığıyla düzeltme ve cevap metni gönderdi. Kurum, çay cüzdanının iptal edilmediğini savunurken üreticinin yaş çay alım sözleşmesinin sosyal medya paylaşımları ne",
+      "content": "ÇAYKUR, Genel Müdür Yusuf Ziya Alim'i eleştiren üretici İlyas Köse'nin çay cüzdanının iptal edildiğine ilişkin haberimiz üzerine noter aracılığıyla düzeltme ve cevap metni gönderdi. Kurum, çay cüzdanının iptal edilmediğini savunurken üreticinin yaş çay alım sözleşmesinin sosyal medya paylaşımları nedeniyle feshedildiğini doğruladı."
+    },
+    {
+      "title": "TİGEM'den milyonluk buğday satışı! Tohumluk üretmesi gereken kurum neden mahsul satıyor?",
+      "url": "https://www.tarimdanhaber.com/tigemden-milyonluk-bugday-satisi-tohumluk-uretmesi-gereken-kurum-neden-mahsul-satiyor",
+      "source": "Tarımdan Haber",
+      "date": "2026-10-14",
+      "summary": "Türkiye'nin sertifikalı tohumluk üretiminde stratejik görev üstlenen TİGEM, Ceylanpınar Tarım İşletmesi'nde üretilen 11 bin 430 ton buğdayın satış ihalesini tamamladı. Yaklaşık 200 milyon lira muhammen bedelle ihaleye çıkarılan buğdayda ton fiyatı bazı partilerde 20 bin liranın üzerine çıktı. Ancak ",
+      "content": "Türkiye'nin sertifikalı tohumluk üretiminde stratejik görev üstlenen TİGEM, Ceylanpınar Tarım İşletmesi'nde üretilen 11 bin 430 ton buğdayın satış ihalesini tamamladı. Yaklaşık 200 milyon lira muhammen bedelle ihaleye çıkarılan buğdayda ton fiyatı bazı partilerde 20 bin liranın üzerine çıktı. Ancak satışın mali boyutundan daha önemli bir soru gündeme geldi; Tohumluk üretimi yapan TİGEM, bu kadar buğdayı neden mahsul olarak satıyor?"
+    },
     {
       "title": "Çiğ süt desteğinde yeni karar! Üreticiye ilave 0,3 katsayı, 1 Ocak'tan itibaren geçerli",
       "url": "https://www.tarimdanhaber.com/cig-sut-desteginde-yeni-karar-ureticiye-ilave-03-katsayi-1-ocaktan-itibaren-gecerli",
@@ -85,22 +101,6 @@
       "date": "2026-10-13",
       "summary": "TÜRKŞEKER, 2026-2027 üretim yılı şeker pancarı alım fiyatını kota tamamlama primi dahil ton başına 3 bin 720 TL olarak açıkladı. Tarımdan Haber, fiyatın açıklanmasından günler önce Bakanlıkta 3 bin 750 TL seviyesindeki rakamın gündemde olduğunu okuyucularına duyurmuştu. Açıklanan fiyat, daha önce ha",
       "content": "TÜRKŞEKER, 2026-2027 üretim yılı şeker pancarı alım fiyatını kota tamamlama primi dahil ton başına 3 bin 720 TL olarak açıkladı. Tarımdan Haber, fiyatın açıklanmasından günler önce Bakanlıkta 3 bin 750 TL seviyesindeki rakamın gündemde olduğunu okuyucularına duyurmuştu. Açıklanan fiyat, daha önce haberleştirdiğimiz seviyenin yalnızca 30 TL altında kaldı."
-    },
-    {
-      "title": "Hasat başladı, fiyat bir ay sonra geldi! TMO çeltik alım fiyatlarını açıkladı",
-      "url": "https://www.tarimdanhaber.com/hasat-basladi-fiyat-bir-ay-sonra-geldi-tmo-celtik-alim-fiyatlarini-acikladi",
-      "source": "Tarımdan Haber",
-      "date": "2026-10-13",
-      "summary": "Toprak Mahsulleri Ofisi (TMO), üreticilerin merakla beklediği 2026 yılı çeltik alım fiyatlarını açıkladı. Baldo grubu çeltikte ton başına 45 bin TL fiyat belirlenirken, diğer çeşitlerde fiyat 32 bin TL'ye kadar düşüyor. Eylül ortasında başlayan hasada rağmen TMO alımlara 15 Ekim'de başlayacak.",
-      "content": "Toprak Mahsulleri Ofisi (TMO), üreticilerin merakla beklediği 2026 yılı çeltik alım fiyatlarını açıkladı. Baldo grubu çeltikte ton başına 45 bin TL fiyat belirlenirken, diğer çeşitlerde fiyat 32 bin TL'ye kadar düşüyor. Eylül ortasında başlayan hasada rağmen TMO alımlara 15 Ekim'de başlayacak."
-    },
-    {
-      "title": "Fon krizinde mağdur olduğunu söylemişti! Eski Tarım Bakan Yardımcısı Mustafa Aksu tutuklandı",
-      "url": "https://www.tarimdanhaber.com/fon-krizinde-magdur-oldugunu-soylemisti-eski-tarim-bakan-yardimcisi-mustafa-aksu-tutuklandi",
-      "source": "Tarımdan Haber",
-      "date": "2026-10-13",
-      "summary": "Tera'nın likit fonuna yaptığı yaklaşık 100 milyon liralık yatırımı çekemediğini açıklayarak kendisini mağdur olarak tanımlayan eski Tarım ve Orman Bakan Yardımcısı Mustafa Aksu, fon soruşturması kapsamında tutuklandı. Aksu'nun daha önce yaptığı açıklamalar, tutuklama kararının ardından yeniden günde",
-      "content": "Tera'nın likit fonuna yaptığı yaklaşık 100 milyon liralık yatırımı çekemediğini açıklayarak kendisini mağdur olarak tanımlayan eski Tarım ve Orman Bakan Yardımcısı Mustafa Aksu, fon soruşturması kapsamında tutuklandı. Aksu'nun daha önce yaptığı açıklamalar, tutuklama kararının ardından yeniden gündeme geldi."
     }
   ],
   "commoditiesByBorsa": {
@@ -307,9 +307,18 @@
   "note": "Fiyatlar TOBB ticaret borsasından (borsa seçilebilir). Kanola manuel (Trakya 2025).",
   "inputsNote": "Mazot: akaryakıt bayi fiyatı, günlük (şehir seçilebilir). Gübre: manuel (yaklaşık).",
   "errors": [
-    "fx: fetch failed",
     "borsa 5ED10: fetch failed",
     "borsa 5KO10: fetch failed",
-    "borsa 5ES10: fetch failed"
+    "borsa 5ES10: fetch failed",
+    "mazot ANKARA: fetch failed",
+    "mazot ISTANBUL: fetch failed",
+    "mazot IZMIR: fetch failed",
+    "mazot KONYA: fetch failed",
+    "mazot ADANA: fetch failed",
+    "mazot BURSA: fetch failed",
+    "mazot ANTALYA: fetch failed",
+    "mazot SAMSUN: fetch failed",
+    "mazot TEKIRDAG: fetch failed",
+    "mazot CANAKKALE: fetch failed"
   ]
 }
