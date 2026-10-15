@@ -1,26 +1,26 @@
 {
-  "updatedAt": "2026-10-15T01:29:34.737Z",
+  "updatedAt": "2026-10-15T06:16:50.478Z",
   "fx": [
     {
       "code": "USD",
       "name": "Dolar",
-      "buy": 49.4,
+      "buy": 49.41,
       "sell": 49.42,
-      "change": 0.03
+      "change": 0.04
     },
     {
       "code": "EUR",
       "name": "Euro",
-      "buy": 55.52,
-      "sell": 55.58,
-      "change": 0.71
+      "buy": 55.51,
+      "sell": 55.54,
+      "change": 0.67
     },
     {
       "code": "GRA",
       "name": "Gram Altın",
-      "buy": 6583.08,
-      "sell": 6584.08,
-      "change": 0.97
+      "buy": 6566.13,
+      "sell": 6567.1,
+      "change": 0.71
     },
     {
       "code": "CEYREKALTIN",
@@ -38,6 +38,14 @@
     }
   ],
   "news": [
+    {
+      "title": "Süt üreticisine bir ayda 1,70 TL maliyet şoku! Ulusal Süt Konseyi yeni rakamı açıkladı",
+      "url": "https://www.tarimdanhaber.com/sut-ureticisine-bir-ayda-170-tl-maliyet-soku-ulusal-sut-konseyi-yeni-rakami-acikladi",
+      "source": "Tarımdan Haber",
+      "date": "2026-10-15",
+      "summary": "Ulusal Süt Konseyi'nin Eylül 2026 çiğ süt üretim maliyeti hesabı, süt üreticisinin daralan kazanç marjını ortaya koydu. Bir litre sütün üretim maliyeti Ağustos'ta 21,48 TL iken Eylül'de 23,18 TL'ye yükseldi. Tavsiye satış fiyatı 24,30 TL'de kalırken, üreticinin litre başına hesaplanan maliyet marjı ",
+      "content": "Ulusal Süt Konseyi'nin Eylül 2026 çiğ süt üretim maliyeti hesabı, süt üreticisinin daralan kazanç marjını ortaya koydu. Bir litre sütün üretim maliyeti Ağustos'ta 21,48 TL iken Eylül'de 23,18 TL'ye yükseldi. Tavsiye satış fiyatı 24,30 TL'de kalırken, üreticinin litre başına hesaplanan maliyet marjı bir ayda 1,70 TL azaldı."
+    },
     {
       "title": "TÜRKŞEKER'de pes dedirten olay! Çiftçiye taş gibi şeker verdiler, tepki gelince değiştirdiler",
       "url": "https://www.tarimdanhaber.com/turksekerde-pes-dedirten-olay-ciftciye-tas-gibi-seker-verdiler-tepki-gelince-degistirdiler",
@@ -93,14 +101,6 @@
       "date": "2026-10-13",
       "summary": "TÜRKŞEKER, 2026 yılı şeker pancarı alım fiyatının 3 bin 720 TL olarak belirlenmesinin ardından fiyat kararının nasıl alındığını açıkladı. Kurum, şeker şirketleri ve pancar üretici temsilcileriyle mutabakat sağlandığını duyururken, sözleşmeli üretim ve çiftçiye alım güvencesi vurgusu yaptı.",
       "content": "TÜRKŞEKER, 2026 yılı şeker pancarı alım fiyatının 3 bin 720 TL olarak belirlenmesinin ardından fiyat kararının nasıl alındığını açıkladı. Kurum, şeker şirketleri ve pancar üretici temsilcileriyle mutabakat sağlandığını duyururken, sözleşmeli üretim ve çiftçiye alım güvencesi vurgusu yaptı."
-    },
-    {
-      "title": "2026 pancar alım fiyatında 143 TL ayrıntısı! 3.720 TL'nin tamamını kim alacak?",
-      "url": "https://www.tarimdanhaber.com/2026-pancar-alim-fiyatinda-143-tl-ayrintisi-3720-tlnin-tamamini-kim-alacak",
-      "source": "Tarımdan Haber",
-      "date": "2026-10-13",
-      "summary": "TÜRKŞEKER'in 2026-2027 üretim yılı için açıkladığı ton başına 3 bin 720 TL'lik şeker pancarı alım fiyatının içinde yüzde 4 kota tamamlama primi bulunuyor. Buna göre prim hariç baz fiyat 3 bin 577 TL, kota tamamlama primi ise 143 TL olarak hesaplanıyor. Peki hangi üreticiler açıklanan fiyatın tamamın",
-      "content": "TÜRKŞEKER'in 2026-2027 üretim yılı için açıkladığı ton başına 3 bin 720 TL'lik şeker pancarı alım fiyatının içinde yüzde 4 kota tamamlama primi bulunuyor. Buna göre prim hariç baz fiyat 3 bin 577 TL, kota tamamlama primi ise 143 TL olarak hesaplanıyor. Peki hangi üreticiler açıklanan fiyatın tamamından yararlanabilecek?"
     }
   ],
   "commoditiesByBorsa": {
