@@ -1,43 +1,51 @@
 {
-  "updatedAt": "2026-10-15T06:16:50.478Z",
+  "updatedAt": "2026-10-15T11:35:40.543Z",
   "fx": [
     {
       "code": "USD",
       "name": "Dolar",
-      "buy": 49.41,
+      "buy": 49.42,
       "sell": 49.42,
       "change": 0.04
     },
     {
       "code": "EUR",
       "name": "Euro",
-      "buy": 55.51,
-      "sell": 55.54,
-      "change": 0.67
+      "buy": 55.56,
+      "sell": 55.57,
+      "change": 0.74
     },
     {
       "code": "GRA",
       "name": "Gram Altın",
-      "buy": 6566.13,
-      "sell": 6567.1,
-      "change": 0.71
+      "buy": 6603.43,
+      "sell": 6604.29,
+      "change": 1.28
     },
     {
       "code": "CEYREKALTIN",
       "name": "Çeyrek Altın",
-      "buy": 10390.38,
-      "sell": 10638.21,
-      "change": 0
+      "buy": 10514.77,
+      "sell": 10755.07,
+      "change": 1.1
     },
     {
       "code": "CUMHURIYETALTINI",
       "name": "Cumhuriyet Altını",
-      "buy": 43156,
-      "sell": 43819,
-      "change": -1.28
+      "buy": 43616,
+      "sell": 44279,
+      "change": 1.05
     }
   ],
   "news": [
+    {
+      "title": "Çiftçi pancar fiyatına isyan etti! Bakan Yumaklı'nın paylaşmadığı fiyat Cumhurbaşkanının önünde",
+      "url": "https://www.tarimdanhaber.com/ciftci-pancar-fiyatina-isyan-etti-bakan-yumaklinin-paylasmadigi-fiyat-cumhurbaskaninin-onunde",
+      "source": "Tarımdan Haber",
+      "date": "2026-10-15",
+      "summary": "Şeker pancarı alım fiyatının kota tamamlama primi dahil 3.720 TL/ton olarak açıklanması, üreticilerin tepkisine neden oldu. Türkiye'nin farklı pancar ekim bölgelerinde çiftçiler fiyatın revize edilmesini isterken, TÜRKŞEKER'in açıkladığı fiyatın Tarım ve Orman Bakanı İbrahim Yumaklı'nın sosyal medya",
+      "content": "Şeker pancarı alım fiyatının kota tamamlama primi dahil 3.720 TL/ton olarak açıklanması, üreticilerin tepkisine neden oldu. Türkiye'nin farklı pancar ekim bölgelerinde çiftçiler fiyatın revize edilmesini isterken, TÜRKŞEKER'in açıkladığı fiyatın Tarım ve Orman Bakanı İbrahim Yumaklı'nın sosyal medya hesaplarında yer almaması da tartışma konusu oldu. Pancar çiftçisinin gözü şimdi Cumhurbaşkanı Erdoğan'dan gelebilecek olası bir fiyat iyileştirmesinde."
+    },
     {
       "title": "Süt üreticisine bir ayda 1,70 TL maliyet şoku! Ulusal Süt Konseyi yeni rakamı açıkladı",
       "url": "https://www.tarimdanhaber.com/sut-ureticisine-bir-ayda-170-tl-maliyet-soku-ulusal-sut-konseyi-yeni-rakami-acikladi",
@@ -93,14 +101,6 @@
       "date": "2026-10-13",
       "summary": "TÜRKŞEKER'in 2026 yılı şeker pancarı alım fiyatını kota tamamlama primi dahil ton başına 3 bin 720 TL olarak açıklaması, üreticilerin tepkisini çekti. Tarımdan Haber'in Facebook paylaşımına ilk iki saat içinde gelen yorumlarda mazot, gübre, elektrik ve işçilik maliyetleri öne çıktı. Bazı üreticiler ",
       "content": "TÜRKŞEKER'in 2026 yılı şeker pancarı alım fiyatını kota tamamlama primi dahil ton başına 3 bin 720 TL olarak açıklaması, üreticilerin tepkisini çekti. Tarımdan Haber'in Facebook paylaşımına ilk iki saat içinde gelen yorumlarda mazot, gübre, elektrik ve işçilik maliyetleri öne çıktı. Bazı üreticiler fiyatın yeniden değerlendirilmesini isterken, bazıları gelecek yıl pancar ekmeyeceklerini dile getirdi."
-    },
-    {
-      "title": "Pancar fiyatı nasıl belirlendi? TÜRKŞEKER'den 3.720 TL için dikkat çeken açıklama",
-      "url": "https://www.tarimdanhaber.com/pancar-fiyati-nasil-belirlendi-turksekerden-3720-tl-icin-dikkat-ceken-aciklama",
-      "source": "Tarımdan Haber",
-      "date": "2026-10-13",
-      "summary": "TÜRKŞEKER, 2026 yılı şeker pancarı alım fiyatının 3 bin 720 TL olarak belirlenmesinin ardından fiyat kararının nasıl alındığını açıkladı. Kurum, şeker şirketleri ve pancar üretici temsilcileriyle mutabakat sağlandığını duyururken, sözleşmeli üretim ve çiftçiye alım güvencesi vurgusu yaptı.",
-      "content": "TÜRKŞEKER, 2026 yılı şeker pancarı alım fiyatının 3 bin 720 TL olarak belirlenmesinin ardından fiyat kararının nasıl alındığını açıkladı. Kurum, şeker şirketleri ve pancar üretici temsilcileriyle mutabakat sağlandığını duyururken, sözleşmeli üretim ve çiftçiye alım güvencesi vurgusu yaptı."
     }
   ],
   "commoditiesByBorsa": {
