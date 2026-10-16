@@ -1,43 +1,67 @@
 {
-  "updatedAt": "2026-10-16T14:39:26.639Z",
+  "updatedAt": "2026-10-16T18:24:48.868Z",
   "fx": [
     {
       "code": "USD",
       "name": "Dolar",
-      "buy": 495197,
-      "sell": 495349,
+      "buy": 495191,
+      "sell": 495283,
       "change": 11
     },
     {
       "code": "EUR",
       "name": "Euro",
-      "buy": 557688,
-      "sell": 557803,
-      "change": 24
+      "buy": 556472,
+      "sell": 556598,
+      "change": 2
     },
     {
       "code": "GRA",
       "name": "Gram Altın",
-      "buy": 665936,
-      "sell": 666012,
-      "change": 38
+      "buy": 66254,
+      "sell": 662637,
+      "change": -13
     },
     {
       "code": "CEYREKALTIN",
       "name": "Çeyrek Altın",
-      "buy": 1057826,
-      "sell": 1082215,
-      "change": 55
+      "buy": 106171,
+      "sell": 1085967,
+      "change": 9
     },
     {
       "code": "CUMHURIYETALTINI",
       "name": "Cumhuriyet Altını",
-      "buy": 43916,
-      "sell": 44579,
-      "change": 68
+      "buy": 43976,
+      "sell": 44639,
+      "change": 81
     }
   ],
   "news": [
+    {
+      "title": "Hayvanını kestiren ahırını yeniden doldurabilecek mi? Besicilikte maliyet hesabı",
+      "url": "https://www.tarimdanhaber.com/hayvanini-kestiren-ahirini-yeniden-doldurabilecek-mi-besicilikte-maliyet-hesabi",
+      "source": "Tarımdan Haber",
+      "date": "2026-10-16",
+      "summary": "UKON verilerinde dana ve kuzu kesim fiyatları bu hafta değişmezken, üreticilerin çevrim içi paylaşımlarında yem, hayvan alımı, nakliye ve finansman maliyetleri öne çıktı. Farklı illerden bildirilen kesim fiyatlarının yanında ödeme vadeleri de tartışılıyor.",
+      "content": "UKON verilerinde dana ve kuzu kesim fiyatları bu hafta değişmezken, üreticilerin çevrim içi paylaşımlarında yem, hayvan alımı, nakliye ve finansman maliyetleri öne çıktı. Farklı illerden bildirilen kesim fiyatlarının yanında ödeme vadeleri de tartışılıyor."
+    },
+    {
+      "title": "Et kesim fiyatları 2026 | Güncel karkas et, dana ve kuzu kesim fiyatları",
+      "url": "https://www.tarimdanhaber.com/sigir-kesim-fiyatlari",
+      "source": "Tarımdan Haber",
+      "date": "2026-10-16",
+      "summary": "Et kesim fiyatlarında bu hafta dana ve kuzuda değişiklik olmadı. UKON’un 15 Ekim 2026 verilerine göre dana karkas kesim fiyatı 580 TL/kg, kuzu karkas kesim fiyatı 616 TL/kg seviyesinde kaldı. Bursa’da ise 16–23 Ekim dönemi için yalnızca inek kesim fiyatına 5 TL/kg artış oldu.",
+      "content": "Et kesim fiyatlarında bu hafta dana ve kuzuda değişiklik olmadı. UKON’un 15 Ekim 2026 verilerine göre dana karkas kesim fiyatı 580 TL/kg, kuzu karkas kesim fiyatı 616 TL/kg seviyesinde kaldı. Bursa’da ise 16–23 Ekim dönemi için yalnızca inek kesim fiyatına 5 TL/kg artış oldu."
+    },
+    {
+      "title": "Nihat Çelik’ten “gıda savaşları” uyarısı: Aile işletmeleri daha fazla desteklenmeli",
+      "url": "https://www.tarimdanhaber.com/nihat-celikten-gida-savaslari-uyarisi-aile-isletmeleri-daha-fazla-desteklenmeli",
+      "source": "Tarımdan Haber",
+      "date": "2026-10-16",
+      "summary": "TÜRKYED Genel Başkanı Nihat Çelik, gıdanın stratejik öneminin giderek arttığını belirterek çiftçilerin, yetiştiricilerin ve özellikle aile işletmelerinin daha fazla desteklenmesi çağrısında bulundu. Çelik, üretimin artırılması kadar güvenli gıdaya erişimin sağlanması ve israfın önlenmesinin de öneml",
+      "content": "TÜRKYED Genel Başkanı Nihat Çelik, gıdanın stratejik öneminin giderek arttığını belirterek çiftçilerin, yetiştiricilerin ve özellikle aile işletmelerinin daha fazla desteklenmesi çağrısında bulundu. Çelik, üretimin artırılması kadar güvenli gıdaya erişimin sağlanması ve israfın önlenmesinin de önemli olduğunu söyledi."
+    },
     {
       "title": "Anahtar Parti’den “tarımda sil baştan” çıkışı: “Asıl sorun model eksikliği”",
       "url": "https://www.tarimdanhaber.com/anahtar-partiden-tarimda-sil-bastan-cikisi-asil-sorun-model-eksikligi",
@@ -77,30 +101,6 @@
       "date": "2026-10-15",
       "summary": "Tarım arazilerini ilgilendiren yeni toplulaştırma kararı Resmi Gazete'de yayımlandı. Cumhurbaşkanı Erdoğan'ın imzasıyla Hatay'ın iki ilçesine bağlı 4 mahallede arazi toplulaştırması ve tarla içi geliştirme hizmetleri yapılacak. Kararın uygulanacağı mahalleler de belli oldu.",
       "content": "Tarım arazilerini ilgilendiren yeni toplulaştırma kararı Resmi Gazete'de yayımlandı. Cumhurbaşkanı Erdoğan'ın imzasıyla Hatay'ın iki ilçesine bağlı 4 mahallede arazi toplulaştırması ve tarla içi geliştirme hizmetleri yapılacak. Kararın uygulanacağı mahalleler de belli oldu."
-    },
-    {
-      "title": "TİGEM’de görevden alma! Et ve Süt Kurumu’na yeni atama",
-      "url": "https://www.tarimdanhaber.com/tigemde-gorevden-alma-et-ve-sut-kurumuna-yeni-atama",
-      "source": "Tarımdan Haber",
-      "date": "2026-10-15",
-      "summary": "Cumhurbaşkanı Erdoğan'ın imzasıyla TİGEM ve Et ve Süt Kurumu yönetim kurullarına yeni atamalar yapıldı. TİGEM'de Yener Yıldırım, görevden alınırken yerine Tarım ve Orman Bakanlığı Strateji Geliştirme Başkanı Göktuğ Bağlı atandı. Et ve Süt Kurumu Yönetim Kuruluna ise Cumhurbaşkanlığı Strateji ve Bütç",
-      "content": "Cumhurbaşkanı Erdoğan'ın imzasıyla TİGEM ve Et ve Süt Kurumu yönetim kurullarına yeni atamalar yapıldı. TİGEM'de Yener Yıldırım, görevden alınırken yerine Tarım ve Orman Bakanlığı Strateji Geliştirme Başkanı Göktuğ Bağlı atandı. Et ve Süt Kurumu Yönetim Kuruluna ise Cumhurbaşkanlığı Strateji ve Bütçe Başkan Yardımcısı Kutluhan Taşkın getirildi. İşte yeni atanan isimlerin görevleri ve öz geçmişleri…"
-    },
-    {
-      "title": "Çiftçi pancar fiyatına isyan etti! Bakan Yumaklı'nın paylaşmadığı fiyat Cumhurbaşkanının önünde",
-      "url": "https://www.tarimdanhaber.com/ciftci-pancar-fiyatina-isyan-etti-bakan-yumaklinin-paylasmadigi-fiyat-cumhurbaskaninin-onunde",
-      "source": "Tarımdan Haber",
-      "date": "2026-10-15",
-      "summary": "Şeker pancarı alım fiyatının kota tamamlama primi dahil 3.720 TL/ton olarak açıklanması, üreticilerin tepkisine neden oldu. Türkiye'nin farklı pancar ekim bölgelerinde çiftçiler fiyatın revize edilmesini isterken, TÜRKŞEKER'in açıkladığı fiyatın Tarım ve Orman Bakanı İbrahim Yumaklı'nın sosyal medya",
-      "content": "Şeker pancarı alım fiyatının kota tamamlama primi dahil 3.720 TL/ton olarak açıklanması, üreticilerin tepkisine neden oldu. Türkiye'nin farklı pancar ekim bölgelerinde çiftçiler fiyatın revize edilmesini isterken, TÜRKŞEKER'in açıkladığı fiyatın Tarım ve Orman Bakanı İbrahim Yumaklı'nın sosyal medya hesaplarında yer almaması da tartışma konusu oldu. Pancar çiftçisinin gözü şimdi Cumhurbaşkanı Erdoğan'dan gelebilecek olası bir fiyat iyileştirmesinde."
-    },
-    {
-      "title": "Süt üreticisine bir ayda 1,70 TL maliyet şoku! Ulusal Süt Konseyi yeni rakamı açıkladı",
-      "url": "https://www.tarimdanhaber.com/sut-ureticisine-bir-ayda-170-tl-maliyet-soku-ulusal-sut-konseyi-yeni-rakami-acikladi",
-      "source": "Tarımdan Haber",
-      "date": "2026-10-15",
-      "summary": "Ulusal Süt Konseyi'nin Eylül 2026 çiğ süt üretim maliyeti hesabı, süt üreticisinin daralan kazanç marjını ortaya koydu. Bir litre sütün üretim maliyeti Ağustos'ta 21,48 TL iken Eylül'de 23,18 TL'ye yükseldi. Tavsiye satış fiyatı 24,30 TL'de kalırken, üreticinin litre başına hesaplanan maliyet marjı ",
-      "content": "Ulusal Süt Konseyi'nin Eylül 2026 çiğ süt üretim maliyeti hesabı, süt üreticisinin daralan kazanç marjını ortaya koydu. Bir litre sütün üretim maliyeti Ağustos'ta 21,48 TL iken Eylül'de 23,18 TL'ye yükseldi. Tavsiye satış fiyatı 24,30 TL'de kalırken, üreticinin litre başına hesaplanan maliyet marjı bir ayda 1,70 TL azaldı."
     }
   ],
   "commoditiesByBorsa": {
@@ -307,7 +307,6 @@
   "note": "Fiyatlar TOBB ticaret borsasından (borsa seçilebilir). Kanola manuel (Trakya 2025).",
   "inputsNote": "Mazot: akaryakıt bayi fiyatı, günlük (şehir seçilebilir). Gübre: manuel (yaklaşık).",
   "errors": [
-    "fx: fetch failed",
     "borsa 5ED10: fetch failed",
     "borsa 5KO10: fetch failed",
     "borsa 5ES10: fetch failed",
