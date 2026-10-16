@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-16T09:52:02.678Z",
+  "updatedAt": "2026-10-16T14:39:26.639Z",
   "fx": [
     {
       "code": "USD",
@@ -39,6 +39,38 @@
   ],
   "news": [
     {
+      "title": "Anahtar Parti’den “tarımda sil baştan” çıkışı: “Asıl sorun model eksikliği”",
+      "url": "https://www.tarimdanhaber.com/anahtar-partiden-tarimda-sil-bastan-cikisi-asil-sorun-model-eksikligi",
+      "source": "Tarımdan Haber",
+      "date": "2026-10-16",
+      "summary": "Anahtar Parti Genel Başkan Yardımcısı ve Tarım ve Gıda Güvenliği Politikaları Başkanı Hasan Hüseyin Demiröz, tarımdaki sorunların birbirinden bağımsız ele alınamayacağını belirterek, “Türk tarımı adıyla anılan bir sistem kuracağız” dedi. Demiröz, hedeflerinin insanı ve doğayı önceleyen, üreticinin m",
+      "content": "Anahtar Parti Genel Başkan Yardımcısı ve Tarım ve Gıda Güvenliği Politikaları Başkanı Hasan Hüseyin Demiröz, tarımdaki sorunların birbirinden bağımsız ele alınamayacağını belirterek, “Türk tarımı adıyla anılan bir sistem kuracağız” dedi. Demiröz, hedeflerinin insanı ve doğayı önceleyen, üreticinin makul kar elde ettiği ve toplumun gıdaya kolay ulaşabildiği bir model olduğunu söyledi."
+    },
+    {
+      "title": "Bakan Yumaklı’dan toprak ve su vurgusu: Arazi bozulumu çiftçinin geçimini doğrudan etkiliyor",
+      "url": "https://www.tarimdanhaber.com/bakan-yumaklidan-toprak-ve-su-vurgusu-arazi-bozulumu-ciftcinin-gecimini-dogrudan-etkiliyor",
+      "source": "Tarımdan Haber",
+      "date": "2026-10-16",
+      "summary": "Tarım ve Orman Bakanı İbrahim Yumaklı, arazi bozulumunun gıda güvenliğini, su kaynaklarını ve kırsaldaki geçim kaynaklarını doğrudan etkilediğini söyledi. Yumaklı, Türkiye’nin biyolojik çeşitlilik stratejisini güncellediğini belirterek sürdürülebilir tarım, erozyonla mücadele ve bozulan alanların iy",
+      "content": "Tarım ve Orman Bakanı İbrahim Yumaklı, arazi bozulumunun gıda güvenliğini, su kaynaklarını ve kırsaldaki geçim kaynaklarını doğrudan etkilediğini söyledi. Yumaklı, Türkiye’nin biyolojik çeşitlilik stratejisini güncellediğini belirterek sürdürülebilir tarım, erozyonla mücadele ve bozulan alanların iyileştirilmesine vurgu yaptı."
+    },
+    {
+      "title": "Ahırınız hangi sınıfa girecek? Yeni sistem küçük yetiştirici için ne anlama geliyor?",
+      "url": "https://www.tarimdanhaber.com/ahiriniz-hangi-sinifa-girecek-yeni-sistem-kucuk-yetistirici-icin-ne-anlama-geliyor",
+      "source": "Tarımdan Haber",
+      "date": "2026-10-16",
+      "summary": "Hayvancılık işletmeleri A’dan E’ye sınıflandırılacak. Peki barınağını yenileyecek, karantina alanı kuracak veya gerekli ekipmanı alacak kaynağı olmayan yetiştirici nasıl ilerleyecek? HAYGEM eski Daire Başkanı Dr. Ender Burçak, küçük işletmelerin yatırım ihtiyacını ve mera kullanan yetiştiricilerin k",
+      "content": "Hayvancılık işletmeleri A’dan E’ye sınıflandırılacak. Peki barınağını yenileyecek, karantina alanı kuracak veya gerekli ekipmanı alacak kaynağı olmayan yetiştirici nasıl ilerleyecek? HAYGEM eski Daire Başkanı Dr. Ender Burçak, küçük işletmelerin yatırım ihtiyacını ve mera kullanan yetiştiricilerin karşılaşabileceği sorunları değerlendirdi."
+    },
+    {
+      "title": "Çay atığından domates yetiştirdiler! ÇAYKUR’dan ithal ürüne yerli alternatif",
+      "url": "https://www.tarimdanhaber.com/cay-atigindan-domates-yetistirdiler-caykurdan-ithal-urune-yerli-alternatif",
+      "source": "Tarımdan Haber",
+      "date": "2026-10-16",
+      "summary": "ÇAYKUR’un çay işleme sürecinde ortaya çıkan liflerden geliştirdiği Çaykopit, seracılıkta kullanılan ithal kokopite alternatif olmayı hedefliyor. Ön denemelerde domatesten meyve alınırken, ürünün standardizasyonu ve ticarileştirilmesine yönelik çalışmalar sürüyor.",
+      "content": "ÇAYKUR’un çay işleme sürecinde ortaya çıkan liflerden geliştirdiği Çaykopit, seracılıkta kullanılan ithal kokopite alternatif olmayı hedefliyor. Ön denemelerde domatesten meyve alınırken, ürünün standardizasyonu ve ticarileştirilmesine yönelik çalışmalar sürüyor."
+    },
+    {
       "title": "4 mahallede arazi toplulaştırması yapılacak! Cumhurbaşkanı Kararı yayımlandı",
       "url": "https://www.tarimdanhaber.com/4-mahallede-arazi-toplulastirmasi-yapilacak-cumhurbaskani-karari-yayimlandi",
       "source": "Tarımdan Haber",
@@ -69,38 +101,6 @@
       "date": "2026-10-15",
       "summary": "Ulusal Süt Konseyi'nin Eylül 2026 çiğ süt üretim maliyeti hesabı, süt üreticisinin daralan kazanç marjını ortaya koydu. Bir litre sütün üretim maliyeti Ağustos'ta 21,48 TL iken Eylül'de 23,18 TL'ye yükseldi. Tavsiye satış fiyatı 24,30 TL'de kalırken, üreticinin litre başına hesaplanan maliyet marjı ",
       "content": "Ulusal Süt Konseyi'nin Eylül 2026 çiğ süt üretim maliyeti hesabı, süt üreticisinin daralan kazanç marjını ortaya koydu. Bir litre sütün üretim maliyeti Ağustos'ta 21,48 TL iken Eylül'de 23,18 TL'ye yükseldi. Tavsiye satış fiyatı 24,30 TL'de kalırken, üreticinin litre başına hesaplanan maliyet marjı bir ayda 1,70 TL azaldı."
-    },
-    {
-      "title": "TÜRKŞEKER'de pes dedirten olay! Çiftçiye taş gibi şeker verdiler, tepki gelince değiştirdiler",
-      "url": "https://www.tarimdanhaber.com/turksekerde-pes-dedirten-olay-ciftciye-tas-gibi-seker-verdiler-tepki-gelince-degistirdiler",
-      "source": "Tarımdan Haber",
-      "date": "2026-10-14",
-      "summary": "TÜRKŞEKER'e bağlı Ilgın Şeker Fabrikası, pancar çiftçisine istihkak olarak 2023 yılı üretimi, taş gibi kesekleşmiş şeker dağıttı. Çiftçinin pancar alacağından kilosu 42 liradan kesilerek verilen şekerler, üreticilerin tepkisi üzerine geri alınarak değiştirildi. Bakanlık gıda denetimlerini sürdürürke",
-      "content": "TÜRKŞEKER'e bağlı Ilgın Şeker Fabrikası, pancar çiftçisine istihkak olarak 2023 yılı üretimi, taş gibi kesekleşmiş şeker dağıttı. Çiftçinin pancar alacağından kilosu 42 liradan kesilerek verilen şekerler, üreticilerin tepkisi üzerine geri alınarak değiştirildi. Bakanlık gıda denetimlerini sürdürürken kamuya ait fabrikada yaşananlar tepki çekti."
-    },
-    {
-      "title": "ÇAYKUR'dan noterli cevap! Çay cüzdanı iptal edilmedi dedi, sözleşmenin feshini doğruladı",
-      "url": "https://www.tarimdanhaber.com/caykurdan-noterli-cevap-cay-cuzdani-iptal-edilmedi-dedi-sozlesmenin-feshini-dogruladi",
-      "source": "Tarımdan Haber",
-      "date": "2026-10-14",
-      "summary": "ÇAYKUR, Genel Müdür Yusuf Ziya Alim'i eleştiren üretici İlyas Köse'nin çay cüzdanının iptal edildiğine ilişkin haberimiz üzerine noter aracılığıyla düzeltme ve cevap metni gönderdi. Kurum, çay cüzdanının iptal edilmediğini savunurken üreticinin yaş çay alım sözleşmesinin sosyal medya paylaşımları ne",
-      "content": "ÇAYKUR, Genel Müdür Yusuf Ziya Alim'i eleştiren üretici İlyas Köse'nin çay cüzdanının iptal edildiğine ilişkin haberimiz üzerine noter aracılığıyla düzeltme ve cevap metni gönderdi. Kurum, çay cüzdanının iptal edilmediğini savunurken üreticinin yaş çay alım sözleşmesinin sosyal medya paylaşımları nedeniyle feshedildiğini doğruladı."
-    },
-    {
-      "title": "TİGEM'den milyonluk buğday satışı! Tohumluk üretmesi gereken kurum neden mahsul satıyor?",
-      "url": "https://www.tarimdanhaber.com/tigemden-milyonluk-bugday-satisi-tohumluk-uretmesi-gereken-kurum-neden-mahsul-satiyor",
-      "source": "Tarımdan Haber",
-      "date": "2026-10-14",
-      "summary": "Türkiye'nin sertifikalı tohumluk üretiminde stratejik görev üstlenen TİGEM, Ceylanpınar Tarım İşletmesi'nde üretilen 11 bin 430 ton buğdayın satış ihalesini tamamladı. Yaklaşık 200 milyon lira muhammen bedelle ihaleye çıkarılan buğdayda ton fiyatı bazı partilerde 20 bin liranın üzerine çıktı. Ancak ",
-      "content": "Türkiye'nin sertifikalı tohumluk üretiminde stratejik görev üstlenen TİGEM, Ceylanpınar Tarım İşletmesi'nde üretilen 11 bin 430 ton buğdayın satış ihalesini tamamladı. Yaklaşık 200 milyon lira muhammen bedelle ihaleye çıkarılan buğdayda ton fiyatı bazı partilerde 20 bin liranın üzerine çıktı. Ancak satışın mali boyutundan daha önemli bir soru gündeme geldi; Tohumluk üretimi yapan TİGEM, bu kadar buğdayı neden mahsul olarak satıyor?"
-    },
-    {
-      "title": "Çiğ süt desteğinde yeni karar! Üreticiye ilave 0,3 katsayı, 1 Ocak'tan itibaren geçerli",
-      "url": "https://www.tarimdanhaber.com/cig-sut-desteginde-yeni-karar-ureticiye-ilave-03-katsayi-1-ocaktan-itibaren-gecerli",
-      "source": "Tarımdan Haber",
-      "date": "2026-10-13",
-      "summary": "Tarım ve Orman Bakanlığı, çiğ süt desteğinde değişikliğe gitti. Resmi Gazete'de yayımlanan düzenlemeyle belirli şartlarda toplanarak süt işleme tesislerine satılan soğutulmuş çiğ süt için ilave 0,3 destek katsayısı getirildi. Yeni düzenleme 1 Ocak 2026 tarihinden itibaren geçerli olacak.",
-      "content": "Tarım ve Orman Bakanlığı, çiğ süt desteğinde değişikliğe gitti. Resmi Gazete'de yayımlanan düzenlemeyle belirli şartlarda toplanarak süt işleme tesislerine satılan soğutulmuş çiğ süt için ilave 0,3 destek katsayısı getirildi. Yeni düzenleme 1 Ocak 2026 tarihinden itibaren geçerli olacak."
     }
   ],
   "commoditiesByBorsa": {
@@ -307,6 +307,7 @@
   "note": "Fiyatlar TOBB ticaret borsasından (borsa seçilebilir). Kanola manuel (Trakya 2025).",
   "inputsNote": "Mazot: akaryakıt bayi fiyatı, günlük (şehir seçilebilir). Gübre: manuel (yaklaşık).",
   "errors": [
+    "fx: fetch failed",
     "borsa 5ED10: fetch failed",
     "borsa 5KO10: fetch failed",
     "borsa 5ES10: fetch failed",
