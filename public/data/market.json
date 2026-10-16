@@ -1,26 +1,26 @@
 {
-  "updatedAt": "2026-10-15T22:35:33.337Z",
+  "updatedAt": "2026-10-16T00:46:57.137Z",
   "fx": [
     {
       "code": "USD",
       "name": "Dolar",
-      "buy": 49.52,
+      "buy": 49.51,
       "sell": 49.54,
       "change": 0.11
     },
     {
       "code": "EUR",
       "name": "Euro",
-      "buy": 55.55,
-      "sell": 55.61,
-      "change": -0.11
+      "buy": 55.53,
+      "sell": 55.6,
+      "change": -0.13
     },
     {
       "code": "GRA",
       "name": "Gram Altın",
-      "buy": 6636.44,
-      "sell": 6637.17,
-      "change": 0.03
+      "buy": 6614.96,
+      "sell": 6615.82,
+      "change": -0.29
     },
     {
       "code": "CEYREKALTIN",
@@ -38,6 +38,22 @@
     }
   ],
   "news": [
+    {
+      "title": "4 mahallede arazi toplulaştırması yapılacak! Cumhurbaşkanı Kararı yayımlandı",
+      "url": "https://www.tarimdanhaber.com/4-mahallede-arazi-toplulastirmasi-yapilacak-cumhurbaskani-karari-yayimlandi",
+      "source": "Tarımdan Haber",
+      "date": "2026-10-15",
+      "summary": "Tarım arazilerini ilgilendiren yeni toplulaştırma kararı Resmi Gazete'de yayımlandı. Cumhurbaşkanı Erdoğan'ın imzasıyla Hatay'ın iki ilçesine bağlı 4 mahallede arazi toplulaştırması ve tarla içi geliştirme hizmetleri yapılacak. Kararın uygulanacağı mahalleler de belli oldu.",
+      "content": "Tarım arazilerini ilgilendiren yeni toplulaştırma kararı Resmi Gazete'de yayımlandı. Cumhurbaşkanı Erdoğan'ın imzasıyla Hatay'ın iki ilçesine bağlı 4 mahallede arazi toplulaştırması ve tarla içi geliştirme hizmetleri yapılacak. Kararın uygulanacağı mahalleler de belli oldu."
+    },
+    {
+      "title": "TİGEM’de görevden alma! Et ve Süt Kurumu’na yeni atama",
+      "url": "https://www.tarimdanhaber.com/tigemde-gorevden-alma-et-ve-sut-kurumuna-yeni-atama",
+      "source": "Tarımdan Haber",
+      "date": "2026-10-15",
+      "summary": "Cumhurbaşkanı Erdoğan'ın imzasıyla TİGEM ve Et ve Süt Kurumu yönetim kurullarına yeni atamalar yapıldı. TİGEM'de Yener Yıldırım, görevden alınırken yerine Tarım ve Orman Bakanlığı Strateji Geliştirme Başkanı Göktuğ Bağlı atandı. Et ve Süt Kurumu Yönetim Kuruluna ise Cumhurbaşkanlığı Strateji ve Bütç",
+      "content": "Cumhurbaşkanı Erdoğan'ın imzasıyla TİGEM ve Et ve Süt Kurumu yönetim kurullarına yeni atamalar yapıldı. TİGEM'de Yener Yıldırım, görevden alınırken yerine Tarım ve Orman Bakanlığı Strateji Geliştirme Başkanı Göktuğ Bağlı atandı. Et ve Süt Kurumu Yönetim Kuruluna ise Cumhurbaşkanlığı Strateji ve Bütçe Başkan Yardımcısı Kutluhan Taşkın getirildi. İşte yeni atanan isimlerin görevleri ve öz geçmişleri…"
+    },
     {
       "title": "Çiftçi pancar fiyatına isyan etti! Bakan Yumaklı'nın paylaşmadığı fiyat Cumhurbaşkanının önünde",
       "url": "https://www.tarimdanhaber.com/ciftci-pancar-fiyatina-isyan-etti-bakan-yumaklinin-paylasmadigi-fiyat-cumhurbaskaninin-onunde",
@@ -85,22 +101,6 @@
       "date": "2026-10-13",
       "summary": "Tarım ve Orman Bakanlığı, çiğ süt desteğinde değişikliğe gitti. Resmi Gazete'de yayımlanan düzenlemeyle belirli şartlarda toplanarak süt işleme tesislerine satılan soğutulmuş çiğ süt için ilave 0,3 destek katsayısı getirildi. Yeni düzenleme 1 Ocak 2026 tarihinden itibaren geçerli olacak.",
       "content": "Tarım ve Orman Bakanlığı, çiğ süt desteğinde değişikliğe gitti. Resmi Gazete'de yayımlanan düzenlemeyle belirli şartlarda toplanarak süt işleme tesislerine satılan soğutulmuş çiğ süt için ilave 0,3 destek katsayısı getirildi. Yeni düzenleme 1 Ocak 2026 tarihinden itibaren geçerli olacak."
-    },
-    {
-      "title": "Hayvancılıkta yeni dönem! Ahırlar A, B, C, D ve E diye sınıflandırılacak",
-      "url": "https://www.tarimdanhaber.com/hayvancilikta-yeni-donem-ahirlar-a-b-c-d-ve-e-diye-siniflandirilacak",
-      "source": "Tarımdan Haber",
-      "date": "2026-10-13",
-      "summary": "Tarım ve Orman Bakanlığı, büyükbaş ve küçükbaş hayvancılık işletmeleri için yeni sınıflandırma sistemini yürürlüğe koydu. Ahır ve ağıllar fiziki altyapı ve biyogüvenlik şartlarına göre 5 sınıfa ayrılacak. Asgari şartları karşılayamayan işletmeler E sınıfına alınırken, mevcut işletmelerin sınıflandır",
-      "content": "Tarım ve Orman Bakanlığı, büyükbaş ve küçükbaş hayvancılık işletmeleri için yeni sınıflandırma sistemini yürürlüğe koydu. Ahır ve ağıllar fiziki altyapı ve biyogüvenlik şartlarına göre 5 sınıfa ayrılacak. Asgari şartları karşılayamayan işletmeler E sınıfına alınırken, mevcut işletmelerin sınıflandırılması için bir yıllık takvim belirlendi."
-    },
-    {
-      "title": "Pancar fiyatı açıklandı, çiftçiden tepki yağdı! “Mazot, gübre yüzde 20 mi arttı?",
-      "url": "https://www.tarimdanhaber.com/pancar-fiyati-aciklandi-ciftciden-tepki-yagdi-mazot-gubre-yuzde-20-mi-artti",
-      "source": "Tarımdan Haber",
-      "date": "2026-10-13",
-      "summary": "TÜRKŞEKER'in 2026 yılı şeker pancarı alım fiyatını kota tamamlama primi dahil ton başına 3 bin 720 TL olarak açıklaması, üreticilerin tepkisini çekti. Tarımdan Haber'in Facebook paylaşımına ilk iki saat içinde gelen yorumlarda mazot, gübre, elektrik ve işçilik maliyetleri öne çıktı. Bazı üreticiler ",
-      "content": "TÜRKŞEKER'in 2026 yılı şeker pancarı alım fiyatını kota tamamlama primi dahil ton başına 3 bin 720 TL olarak açıklaması, üreticilerin tepkisini çekti. Tarımdan Haber'in Facebook paylaşımına ilk iki saat içinde gelen yorumlarda mazot, gübre, elektrik ve işçilik maliyetleri öne çıktı. Bazı üreticiler fiyatın yeniden değerlendirilmesini isterken, bazıları gelecek yıl pancar ekmeyeceklerini dile getirdi."
     }
   ],
   "commoditiesByBorsa": {
