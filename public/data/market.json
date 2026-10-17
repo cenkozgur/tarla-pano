@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-17T10:47:01.776Z",
+  "updatedAt": "2026-10-17T13:57:30.762Z",
   "fx": [
     {
       "code": "USD",
@@ -38,6 +38,22 @@
     }
   ],
   "news": [
+    {
+      "title": "Konya Şeker fiyat açıkladı, şeker lobisi devreye girdi: Kendi şekeriyle fabrikaya kilit!",
+      "url": "https://www.tarimdanhaber.com/konya-seker-fiyat-acikladi-seker-lobisi-devreye-girdi-kendi-sekeriyle-fabrikaya-kilit",
+      "source": "Tarımdan Haber",
+      "date": "2026-10-17",
+      "summary": "Tarımdan Haber’in günlerdir gündeme getirdiği şeker sektöründeki kartelleşme iddiaları, Konya Şeker’in yeni kampanya listesiyle bir kez daha doğrulandı. Konya Şeker, baremli satış fiyatı açıklarken, piyasayı elinde tutan iki oyuncu aynı gün devreye girerek fabrikanın kendi ürünüyle fabrikaya rakip o",
+      "content": "Tarımdan Haber’in günlerdir gündeme getirdiği şeker sektöründeki kartelleşme iddiaları, Konya Şeker’in yeni kampanya listesiyle bir kez daha doğrulandı. Konya Şeker, baremli satış fiyatı açıklarken, piyasayı elinde tutan iki oyuncu aynı gün devreye girerek fabrikanın kendi ürünüyle fabrikaya rakip oldu."
+    },
+    {
+      "title": "Tarımda suyu yeniden kullanacak teknolojiye ortaklık çağrısı! Loopyon üretim için yatırımcı arıyor",
+      "url": "https://www.tarimdanhaber.com/tarimda-suyu-yeniden-kullanacak-teknolojiye-ortaklik-cagrisi-loopyon-uretim-icin-yatirimci-ariyor",
+      "source": "Tarımdan Haber",
+      "date": "2026-10-17",
+      "summary": "Seralarda sulama suyunun yeniden kullanılmasına yönelik teknoloji geliştiren Loopyon, sistemini ticarileştirmek için Ecofolio üzerinden kitle fonlama kampanyası başlattı. Bireylerin de pay alarak girişime ortak olabileceği kampanyada 35 milyon TL kaynak hedefleniyor. Ek fonlamayla tutarın 42 milyon ",
+      "content": "Seralarda sulama suyunun yeniden kullanılmasına yönelik teknoloji geliştiren Loopyon, sistemini ticarileştirmek için Ecofolio üzerinden kitle fonlama kampanyası başlattı. Bireylerin de pay alarak girişime ortak olabileceği kampanyada 35 milyon TL kaynak hedefleniyor. Ek fonlamayla tutarın 42 milyon TL’ye ulaşması amaçlanıyor."
+    },
     {
       "title": "ESK Genel Müdürü 4 yılda piyasaya sürülen ithal et miktarını açıkladı",
       "url": "https://www.tarimdanhaber.com/esk-genel-muduru-4-yilda-piyasaya-surulen-ithal-et-miktarini-acikladi",
@@ -85,22 +101,6 @@
       "date": "2026-10-16",
       "summary": "Anahtar Parti Genel Başkan Yardımcısı ve Tarım ve Gıda Güvenliği Politikaları Başkanı Hasan Hüseyin Demiröz, tarımdaki sorunların birbirinden bağımsız ele alınamayacağını belirterek, “Türk tarımı adıyla anılan bir sistem kuracağız” dedi. Demiröz, hedeflerinin insanı ve doğayı önceleyen, üreticinin m",
       "content": "Anahtar Parti Genel Başkan Yardımcısı ve Tarım ve Gıda Güvenliği Politikaları Başkanı Hasan Hüseyin Demiröz, tarımdaki sorunların birbirinden bağımsız ele alınamayacağını belirterek, “Türk tarımı adıyla anılan bir sistem kuracağız” dedi. Demiröz, hedeflerinin insanı ve doğayı önceleyen, üreticinin makul kar elde ettiği ve toplumun gıdaya kolay ulaşabildiği bir model olduğunu söyledi."
-    },
-    {
-      "title": "Bakan Yumaklı’dan toprak ve su vurgusu: Arazi bozulumu çiftçinin geçimini doğrudan etkiliyor",
-      "url": "https://www.tarimdanhaber.com/bakan-yumaklidan-toprak-ve-su-vurgusu-arazi-bozulumu-ciftcinin-gecimini-dogrudan-etkiliyor",
-      "source": "Tarımdan Haber",
-      "date": "2026-10-16",
-      "summary": "Tarım ve Orman Bakanı İbrahim Yumaklı, arazi bozulumunun gıda güvenliğini, su kaynaklarını ve kırsaldaki geçim kaynaklarını doğrudan etkilediğini söyledi. Yumaklı, Türkiye’nin biyolojik çeşitlilik stratejisini güncellediğini belirterek sürdürülebilir tarım, erozyonla mücadele ve bozulan alanların iy",
-      "content": "Tarım ve Orman Bakanı İbrahim Yumaklı, arazi bozulumunun gıda güvenliğini, su kaynaklarını ve kırsaldaki geçim kaynaklarını doğrudan etkilediğini söyledi. Yumaklı, Türkiye’nin biyolojik çeşitlilik stratejisini güncellediğini belirterek sürdürülebilir tarım, erozyonla mücadele ve bozulan alanların iyileştirilmesine vurgu yaptı."
-    },
-    {
-      "title": "Ahırınız hangi sınıfa girecek? Yeni sistem küçük yetiştirici için ne anlama geliyor?",
-      "url": "https://www.tarimdanhaber.com/ahiriniz-hangi-sinifa-girecek-yeni-sistem-kucuk-yetistirici-icin-ne-anlama-geliyor",
-      "source": "Tarımdan Haber",
-      "date": "2026-10-16",
-      "summary": "Hayvancılık işletmeleri A’dan E’ye sınıflandırılacak. Peki barınağını yenileyecek, karantina alanı kuracak veya gerekli ekipmanı alacak kaynağı olmayan yetiştirici nasıl ilerleyecek? HAYGEM eski Daire Başkanı Dr. Ender Burçak, küçük işletmelerin yatırım ihtiyacını ve mera kullanan yetiştiricilerin k",
-      "content": "Hayvancılık işletmeleri A’dan E’ye sınıflandırılacak. Peki barınağını yenileyecek, karantina alanı kuracak veya gerekli ekipmanı alacak kaynağı olmayan yetiştirici nasıl ilerleyecek? HAYGEM eski Daire Başkanı Dr. Ender Burçak, küçük işletmelerin yatırım ihtiyacını ve mera kullanan yetiştiricilerin karşılaşabileceği sorunları değerlendirdi."
     }
   ],
   "commoditiesByBorsa": {
