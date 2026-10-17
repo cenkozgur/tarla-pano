@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-17T06:13:54.103Z",
+  "updatedAt": "2026-10-17T10:47:01.776Z",
   "fx": [
     {
       "code": "USD",
@@ -38,6 +38,22 @@
     }
   ],
   "news": [
+    {
+      "title": "ESK Genel Müdürü 4 yılda piyasaya sürülen ithal et miktarını açıkladı",
+      "url": "https://www.tarimdanhaber.com/esk-genel-muduru-4-yilda-piyasaya-surulen-ithal-et-miktarini-acikladi",
+      "source": "Tarımdan Haber",
+      "date": "2026-10-17",
+      "summary": "Et ve Süt Kurumu Genel Müdürü Mücahid Taylan, 2023–2026 döneminde piyasaya yaklaşık 350 bin ton kırmızı et sunduklarını bildirdi. Taylan, besicilere hayvan temini ve geri alım garantisi sağladıklarını belirtti.",
+      "content": "Et ve Süt Kurumu Genel Müdürü Mücahid Taylan, 2023–2026 döneminde piyasaya yaklaşık 350 bin ton kırmızı et sunduklarını bildirdi. Taylan, besicilere hayvan temini ve geri alım garantisi sağladıklarını belirtti."
+    },
+    {
+      "title": "Mazot desteği kartlara yatırıldı! 20 bin 182 çiftçiye yaklaşık 99 milyon TL",
+      "url": "https://www.tarimdanhaber.com/mazot-destegi-kartlara-yatirildi-20-bin-182-ciftciye-yaklasik-99-milyon-tl",
+      "source": "Tarımdan Haber",
+      "date": "2026-10-17",
+      "summary": "Ankara Büyükşehir Belediyesi, 2026 yılı güz dönemi mazot desteği kapsamında 20 bin 182 çiftçinin Başkent Çiftçi Kartı’na toplam 98 milyon 912 bin 250 TL yatırıldığını duyurdu.",
+      "content": "Ankara Büyükşehir Belediyesi, 2026 yılı güz dönemi mazot desteği kapsamında 20 bin 182 çiftçinin Başkent Çiftçi Kartı’na toplam 98 milyon 912 bin 250 TL yatırıldığını duyurdu."
+    },
     {
       "title": "Hayvanını kestiren ahırını yeniden doldurabilecek mi? Besicilikte maliyet hesabı",
       "url": "https://www.tarimdanhaber.com/hayvanini-kestiren-ahirini-yeniden-doldurabilecek-mi-besicilikte-maliyet-hesabi",
@@ -85,22 +101,6 @@
       "date": "2026-10-16",
       "summary": "Hayvancılık işletmeleri A’dan E’ye sınıflandırılacak. Peki barınağını yenileyecek, karantina alanı kuracak veya gerekli ekipmanı alacak kaynağı olmayan yetiştirici nasıl ilerleyecek? HAYGEM eski Daire Başkanı Dr. Ender Burçak, küçük işletmelerin yatırım ihtiyacını ve mera kullanan yetiştiricilerin k",
       "content": "Hayvancılık işletmeleri A’dan E’ye sınıflandırılacak. Peki barınağını yenileyecek, karantina alanı kuracak veya gerekli ekipmanı alacak kaynağı olmayan yetiştirici nasıl ilerleyecek? HAYGEM eski Daire Başkanı Dr. Ender Burçak, küçük işletmelerin yatırım ihtiyacını ve mera kullanan yetiştiricilerin karşılaşabileceği sorunları değerlendirdi."
-    },
-    {
-      "title": "Çay atığından domates yetiştirdiler! ÇAYKUR’dan ithal ürüne yerli alternatif",
-      "url": "https://www.tarimdanhaber.com/cay-atigindan-domates-yetistirdiler-caykurdan-ithal-urune-yerli-alternatif",
-      "source": "Tarımdan Haber",
-      "date": "2026-10-16",
-      "summary": "ÇAYKUR’un çay işleme sürecinde ortaya çıkan liflerden geliştirdiği Çaykopit, seracılıkta kullanılan ithal kokopite alternatif olmayı hedefliyor. Ön denemelerde domatesten meyve alınırken, ürünün standardizasyonu ve ticarileştirilmesine yönelik çalışmalar sürüyor.",
-      "content": "ÇAYKUR’un çay işleme sürecinde ortaya çıkan liflerden geliştirdiği Çaykopit, seracılıkta kullanılan ithal kokopite alternatif olmayı hedefliyor. Ön denemelerde domatesten meyve alınırken, ürünün standardizasyonu ve ticarileştirilmesine yönelik çalışmalar sürüyor."
-    },
-    {
-      "title": "4 mahallede arazi toplulaştırması yapılacak! Cumhurbaşkanı Kararı yayımlandı",
-      "url": "https://www.tarimdanhaber.com/4-mahallede-arazi-toplulastirmasi-yapilacak-cumhurbaskani-karari-yayimlandi",
-      "source": "Tarımdan Haber",
-      "date": "2026-10-15",
-      "summary": "Tarım arazilerini ilgilendiren yeni toplulaştırma kararı Resmi Gazete'de yayımlandı. Cumhurbaşkanı Erdoğan'ın imzasıyla Hatay'ın iki ilçesine bağlı 4 mahallede arazi toplulaştırması ve tarla içi geliştirme hizmetleri yapılacak. Kararın uygulanacağı mahalleler de belli oldu.",
-      "content": "Tarım arazilerini ilgilendiren yeni toplulaştırma kararı Resmi Gazete'de yayımlandı. Cumhurbaşkanı Erdoğan'ın imzasıyla Hatay'ın iki ilçesine bağlı 4 mahallede arazi toplulaştırması ve tarla içi geliştirme hizmetleri yapılacak. Kararın uygulanacağı mahalleler de belli oldu."
     }
   ],
   "commoditiesByBorsa": {
