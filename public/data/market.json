@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-18T14:09:38.502Z",
+  "updatedAt": "2026-10-18T17:24:11.873Z",
   "fx": [
     {
       "code": "USD",
@@ -38,6 +38,14 @@
     }
   ],
   "news": [
+    {
+      "title": "Rize’de geliştirildi, Antalya’da deneniyor! Mandalina sezonunu uzatacak çalışma",
+      "url": "https://www.tarimdanhaber.com/rizede-gelistirildi-antalyada-deneniyor-mandalina-sezonunu-uzatacak-calisma",
+      "source": "Tarımdan Haber",
+      "date": "2026-10-18",
+      "summary": "Recep Tayyip Erdoğan Üniversitesi (RTEÜ) Ziraat Fakültesi’den Prof. Dr. Keziban Yazıcı, Rize’de yaklaşık 10 yıllık çalışmayla 9 mandalina çeşidinin tescil edildiğini belirterek, geç olgunlaşan çeşitlerle Türkiye’nin mandalina sezonunu uzatmayı hedeflediklerini söyledi. Yazıcı, “Çay bahçenizi bırakın",
+      "content": "Recep Tayyip Erdoğan Üniversitesi (RTEÜ) Ziraat Fakültesi’den Prof. Dr. Keziban Yazıcı, Rize’de yaklaşık 10 yıllık çalışmayla 9 mandalina çeşidinin tescil edildiğini belirterek, geç olgunlaşan çeşitlerle Türkiye’nin mandalina sezonunu uzatmayı hedeflediklerini söyledi. Yazıcı, “Çay bahçenizi bırakın da mandalina yetiştirin demiyoruz” diyerek çalışmanın amacını anlattı."
+    },
     {
       "title": "Konya Şeker fiyat açıkladı, şeker lobisi devreye girdi: Kendi şekeriyle fabrikaya kilit!",
       "url": "https://www.tarimdanhaber.com/konya-seker-fiyat-acikladi-seker-lobisi-devreye-girdi-kendi-sekeriyle-fabrikaya-kilit",
@@ -93,14 +101,6 @@
       "date": "2026-10-16",
       "summary": "TÜRKYED Genel Başkanı Nihat Çelik, gıdanın stratejik öneminin giderek arttığını belirterek çiftçilerin, yetiştiricilerin ve özellikle aile işletmelerinin daha fazla desteklenmesi çağrısında bulundu. Çelik, üretimin artırılması kadar güvenli gıdaya erişimin sağlanması ve israfın önlenmesinin de öneml",
       "content": "TÜRKYED Genel Başkanı Nihat Çelik, gıdanın stratejik öneminin giderek arttığını belirterek çiftçilerin, yetiştiricilerin ve özellikle aile işletmelerinin daha fazla desteklenmesi çağrısında bulundu. Çelik, üretimin artırılması kadar güvenli gıdaya erişimin sağlanması ve israfın önlenmesinin de önemli olduğunu söyledi."
-    },
-    {
-      "title": "Anahtar Parti’den “tarımda sil baştan” çıkışı: “Asıl sorun model eksikliği”",
-      "url": "https://www.tarimdanhaber.com/anahtar-partiden-tarimda-sil-bastan-cikisi-asil-sorun-model-eksikligi",
-      "source": "Tarımdan Haber",
-      "date": "2026-10-16",
-      "summary": "Anahtar Parti Genel Başkan Yardımcısı ve Tarım ve Gıda Güvenliği Politikaları Başkanı Hasan Hüseyin Demiröz, tarımdaki sorunların birbirinden bağımsız ele alınamayacağını belirterek, “Türk tarımı adıyla anılan bir sistem kuracağız” dedi. Demiröz, hedeflerinin insanı ve doğayı önceleyen, üreticinin m",
-      "content": "Anahtar Parti Genel Başkan Yardımcısı ve Tarım ve Gıda Güvenliği Politikaları Başkanı Hasan Hüseyin Demiröz, tarımdaki sorunların birbirinden bağımsız ele alınamayacağını belirterek, “Türk tarımı adıyla anılan bir sistem kuracağız” dedi. Demiröz, hedeflerinin insanı ve doğayı önceleyen, üreticinin makul kar elde ettiği ve toplumun gıdaya kolay ulaşabildiği bir model olduğunu söyledi."
     }
   ],
   "commoditiesByBorsa": {
