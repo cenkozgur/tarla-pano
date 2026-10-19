@@ -1,43 +1,75 @@
 {
-  "updatedAt": "2026-10-19T06:53:41.436Z",
+  "updatedAt": "2026-10-19T14:27:12.119Z",
   "fx": [
     {
       "code": "USD",
       "name": "Dolar",
-      "buy": 49.55,
-      "sell": 49.56,
-      "change": 0.06
+      "buy": 49547,
+      "sell": 495578,
+      "change": 6
     },
     {
       "code": "EUR",
       "name": "Euro",
-      "buy": 55.65,
-      "sell": 55.66,
-      "change": -0.09
+      "buy": 556057,
+      "sell": 556116,
+      "change": -18
     },
     {
       "code": "GRA",
       "name": "Gram Altın",
-      "buy": 6656.46,
-      "sell": 6657.44,
-      "change": 0.37
+      "buy": 660644,
+      "sell": 660748,
+      "change": -39
     },
     {
       "code": "CEYREKALTIN",
       "name": "Çeyrek Altın",
-      "buy": 10562.07,
-      "sell": 10803.43,
-      "change": 0
+      "buy": 1056322,
+      "sell": 1080461,
+      "change": 1
     },
     {
       "code": "CUMHURIYETALTINI",
       "name": "Cumhuriyet Altını",
-      "buy": 43783,
-      "sell": 44444,
-      "change": -0.44
+      "buy": 43753,
+      "sell": 44414,
+      "change": -7
     }
   ],
   "news": [
+    {
+      "title": "2027 tarımsal destek bütçesi belli oldu: Çiftçiye 235 milyar lira öngörüldü",
+      "url": "https://www.tarimdanhaber.com/2027-tarimsal-destek-butcesi-belli-oldu-ciftciye-235-milyar-lira-ongoruldu",
+      "source": "Tarımdan Haber",
+      "date": "2026-10-19",
+      "summary": "TBMM’ye sunulan 2027 yılı bütçe teklifinde tarımsal destekler için 235 milyar lira ayrılması öngörüldü. Destek bütçesinde yüzde 39,9 artış planlanırken, tarıma ayrılan toplam 1 trilyon 305 milyar liralık kaynağın içinde kredi desteği, yatırımlar ve vergi harcamaları da bulunuyor.",
+      "content": "TBMM’ye sunulan 2027 yılı bütçe teklifinde tarımsal destekler için 235 milyar lira ayrılması öngörüldü. Destek bütçesinde yüzde 39,9 artış planlanırken, tarıma ayrılan toplam 1 trilyon 305 milyar liralık kaynağın içinde kredi desteği, yatırımlar ve vergi harcamaları da bulunuyor."
+    },
+    {
+      "title": "Artvin Tarım ve Orman İl Müdürü Neşat Ulutaş kimdir? Biyografisi ve kariyeri",
+      "url": "https://www.tarimdanhaber.com/artvin-tarim-ve-orman-il-muduru-nesat-ulutas-kimdir-biyografisi-ve-kariyeri",
+      "source": "Tarımdan Haber",
+      "date": "2026-10-19",
+      "summary": "Artvin Tarım ve Orman İl Müdürü Neşat Ulutaş kimdir, nereli ve kaç yaşında? Ziraat Yüksek Mühendisi Neşat Ulutaş’ın eğitimi, bürokratik kariyeri ve görev yaptığı iller haberimizde...",
+      "content": "Artvin Tarım ve Orman İl Müdürü Neşat Ulutaş kimdir, nereli ve kaç yaşında? Ziraat Yüksek Mühendisi Neşat Ulutaş’ın eğitimi, bürokratik kariyeri ve görev yaptığı iller haberimizde..."
+    },
+    {
+      "title": "Süt sağmayı bırakıp buzağı büyütmek mantıklı mı? Prof. Dr. İsmet Türkmen’den kış rasyonu reçetesi!",
+      "url": "https://www.tarimdanhaber.com/sut-sagmayi-birakip-buzagi-buyutmek-mantikli-mi-prof-dr-ismet-turkmenden-kis-rasyonu-recetesi",
+      "source": "Tarımdan Haber",
+      "date": "2026-10-19",
+      "summary": "Prof. Dr. İsmet Türkmen, mera imkanı olan bir yetiştiricinin süt sağmayı bırakıp gebe düvelerle kurbanlık buzağı yetiştirme fikrini değerlendirdi ve ucuz kış rasyonunu açıkladı.",
+      "content": "Prof. Dr. İsmet Türkmen, mera imkanı olan bir yetiştiricinin süt sağmayı bırakıp gebe düvelerle kurbanlık buzağı yetiştirme fikrini değerlendirdi ve ucuz kış rasyonunu açıkladı."
+    },
+    {
+      "title": "Hayvancılık işletmeleri 5 sınıfa ayrılıyor! Sizin işletmeniz hangi sınıfta?",
+      "url": "https://www.tarimdanhaber.com/hayvancilik-isletmeleri-5-sinifa-ayriliyor-sizin-isletmeniz-hangi-sinifta",
+      "source": "Tarımdan Haber",
+      "date": "2026-10-19",
+      "summary": "Sığır, manda, koyun ve keçi yetiştirilen hayvancılık işletmeleri, fiziki altyapı ve biyogüvenlik şartlarına göre sınıflandırılıyor. Amasya İli Damızlık Sığır Yetiştiricileri Birliği’nin bilgilendirmesinde; veteriner hekim çalıştırılmasından karantina alanına, otomatik suluktan sağım hijyenine kadar ",
+      "content": "Sığır, manda, koyun ve keçi yetiştirilen hayvancılık işletmeleri, fiziki altyapı ve biyogüvenlik şartlarına göre sınıflandırılıyor. Amasya İli Damızlık Sığır Yetiştiricileri Birliği’nin bilgilendirmesinde; veteriner hekim çalıştırılmasından karantina alanına, otomatik suluktan sağım hijyenine kadar sınıflandırmada öne çıkan kriterler sıralandı."
+    },
     {
       "title": "Rize’de geliştirildi, Antalya’da deneniyor! Mandalina sezonunu uzatacak çalışma",
       "url": "https://www.tarimdanhaber.com/rizede-gelistirildi-antalyada-deneniyor-mandalina-sezonunu-uzatacak-calisma",
@@ -69,38 +101,6 @@
       "date": "2026-10-17",
       "summary": "Et ve Süt Kurumu Genel Müdürü Mücahid Taylan, 2023–2026 döneminde piyasaya yaklaşık 350 bin ton kırmızı et sunduklarını bildirdi. Taylan, besicilere hayvan temini ve geri alım garantisi sağladıklarını belirtti.",
       "content": "Et ve Süt Kurumu Genel Müdürü Mücahid Taylan, 2023–2026 döneminde piyasaya yaklaşık 350 bin ton kırmızı et sunduklarını bildirdi. Taylan, besicilere hayvan temini ve geri alım garantisi sağladıklarını belirtti."
-    },
-    {
-      "title": "Mazot desteği kartlara yatırıldı! 20 bin 182 çiftçiye yaklaşık 99 milyon TL",
-      "url": "https://www.tarimdanhaber.com/mazot-destegi-kartlara-yatirildi-20-bin-182-ciftciye-yaklasik-99-milyon-tl",
-      "source": "Tarımdan Haber",
-      "date": "2026-10-17",
-      "summary": "Ankara Büyükşehir Belediyesi, 2026 yılı güz dönemi mazot desteği kapsamında 20 bin 182 çiftçinin Başkent Çiftçi Kartı’na toplam 98 milyon 912 bin 250 TL yatırıldığını duyurdu.",
-      "content": "Ankara Büyükşehir Belediyesi, 2026 yılı güz dönemi mazot desteği kapsamında 20 bin 182 çiftçinin Başkent Çiftçi Kartı’na toplam 98 milyon 912 bin 250 TL yatırıldığını duyurdu."
-    },
-    {
-      "title": "Hayvanını kestiren ahırını yeniden doldurabilecek mi? Besicilikte maliyet hesabı",
-      "url": "https://www.tarimdanhaber.com/hayvanini-kestiren-ahirini-yeniden-doldurabilecek-mi-besicilikte-maliyet-hesabi",
-      "source": "Tarımdan Haber",
-      "date": "2026-10-16",
-      "summary": "UKON verilerinde dana ve kuzu kesim fiyatları bu hafta değişmezken, üreticilerin çevrim içi paylaşımlarında yem, hayvan alımı, nakliye ve finansman maliyetleri öne çıktı. Farklı illerden bildirilen kesim fiyatlarının yanında ödeme vadeleri de tartışılıyor.",
-      "content": "UKON verilerinde dana ve kuzu kesim fiyatları bu hafta değişmezken, üreticilerin çevrim içi paylaşımlarında yem, hayvan alımı, nakliye ve finansman maliyetleri öne çıktı. Farklı illerden bildirilen kesim fiyatlarının yanında ödeme vadeleri de tartışılıyor."
-    },
-    {
-      "title": "Et kesim fiyatları 2026 | Güncel karkas et, dana ve kuzu kesim fiyatları",
-      "url": "https://www.tarimdanhaber.com/sigir-kesim-fiyatlari",
-      "source": "Tarımdan Haber",
-      "date": "2026-10-16",
-      "summary": "Et kesim fiyatlarında bu hafta dana ve kuzuda değişiklik olmadı. UKON’un 15 Ekim 2026 verilerine göre dana karkas kesim fiyatı 580 TL/kg, kuzu karkas kesim fiyatı 616 TL/kg seviyesinde kaldı. Bursa’da ise 16–23 Ekim dönemi için yalnızca inek kesim fiyatına 5 TL/kg artış oldu.",
-      "content": "Et kesim fiyatlarında bu hafta dana ve kuzuda değişiklik olmadı. UKON’un 15 Ekim 2026 verilerine göre dana karkas kesim fiyatı 580 TL/kg, kuzu karkas kesim fiyatı 616 TL/kg seviyesinde kaldı. Bursa’da ise 16–23 Ekim dönemi için yalnızca inek kesim fiyatına 5 TL/kg artış oldu."
-    },
-    {
-      "title": "Nihat Çelik’ten “gıda savaşları” uyarısı: Aile işletmeleri daha fazla desteklenmeli",
-      "url": "https://www.tarimdanhaber.com/nihat-celikten-gida-savaslari-uyarisi-aile-isletmeleri-daha-fazla-desteklenmeli",
-      "source": "Tarımdan Haber",
-      "date": "2026-10-16",
-      "summary": "TÜRKYED Genel Başkanı Nihat Çelik, gıdanın stratejik öneminin giderek arttığını belirterek çiftçilerin, yetiştiricilerin ve özellikle aile işletmelerinin daha fazla desteklenmesi çağrısında bulundu. Çelik, üretimin artırılması kadar güvenli gıdaya erişimin sağlanması ve israfın önlenmesinin de öneml",
-      "content": "TÜRKYED Genel Başkanı Nihat Çelik, gıdanın stratejik öneminin giderek arttığını belirterek çiftçilerin, yetiştiricilerin ve özellikle aile işletmelerinin daha fazla desteklenmesi çağrısında bulundu. Çelik, üretimin artırılması kadar güvenli gıdaya erişimin sağlanması ve israfın önlenmesinin de önemli olduğunu söyledi."
     }
   ],
   "commoditiesByBorsa": {
