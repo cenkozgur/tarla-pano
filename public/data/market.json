@@ -1,33 +1,33 @@
 {
-  "updatedAt": "2026-10-20T17:51:59.952Z",
+  "updatedAt": "2026-10-20T21:23:43.139Z",
   "fx": [
     {
       "code": "USD",
       "name": "Dolar",
-      "buy": 49.56,
-      "sell": 49.58,
-      "change": 0.06
+      "buy": 49.57,
+      "sell": 49.61,
+      "change": 0.05
     },
     {
       "code": "EUR",
       "name": "Euro",
-      "buy": 55.73,
-      "sell": 55.75,
-      "change": 0.28
+      "buy": 55.69,
+      "sell": 55.84,
+      "change": 0.04
     },
     {
       "code": "GRA",
       "name": "Gram Altın",
-      "buy": 6571.24,
-      "sell": 6571.87,
-      "change": -0.36
+      "buy": 6576.12,
+      "sell": 6576.94,
+      "change": 0.05
     },
     {
       "code": "CEYREKALTIN",
       "name": "Çeyrek Altın",
       "buy": 10504.48,
       "sell": 10746.75,
-      "change": -0.54
+      "change": 0
     },
     {
       "code": "CUMHURIYETALTINI",
@@ -38,6 +38,14 @@
     }
   ],
   "news": [
+    {
+      "title": "Karkas et fiyatı 580 TL'de baskılandı ama yıl sonu maliyeti 670 TL'ye fırladı: Et fiyatlarında gizli tehlike!",
+      "url": "https://www.tarimdanhaber.com/karkas-et-fiyati-580-tlde-baskilandi-ama-yil-sonu-maliyeti-670-tlye-firladi-et-fiyatlarinda-gizli-tehlike",
+      "source": "Tarımdan Haber",
+      "date": "2026-10-20",
+      "summary": "Piyasada karkas et kesim fiyatı ESK'nın yoğun ithalat hamleleriyle 580 TL seviyesinde tutulurken, UKON’un yayımladığı son rapor yerli besicinin içine düştüğü \"maliyet kapanını\" gözler önüne serdi. Yıl sonu üretim maliyetinin 670 TL’yi aştığı ortamda, fiyatların ithalatla baskılanması yerli üretime b",
+      "content": "Piyasada karkas et kesim fiyatı ESK'nın yoğun ithalat hamleleriyle 580 TL seviyesinde tutulurken, UKON’un yayımladığı son rapor yerli besicinin içine düştüğü \"maliyet kapanını\" gözler önüne serdi. Yıl sonu üretim maliyetinin 670 TL’yi aştığı ortamda, fiyatların ithalatla baskılanması yerli üretime büyük bir darbe vuruyor."
+    },
     {
       "title": "Çiftçiye 100 milyar liralık \"gizli\" bütçe müjdesi! Meclis’in görmediği sırrı \"Tarımcı\" yakaladı",
       "url": "https://www.tarimdanhaber.com/ciftciye-100-milyar-liralik-gizli-butce-mujdesi-meclisin-gormedigi-sirri-tarimci-yakaladi",
@@ -93,14 +101,6 @@
       "date": "2026-10-18",
       "summary": "Recep Tayyip Erdoğan Üniversitesi (RTEÜ) Ziraat Fakültesi’den Prof. Dr. Keziban Yazıcı, Rize’de yaklaşık 10 yıllık çalışmayla 9 mandalina çeşidinin tescil edildiğini belirterek, geç olgunlaşan çeşitlerle Türkiye’nin mandalina sezonunu uzatmayı hedeflediklerini söyledi. Yazıcı, “Çay bahçenizi bırakın",
       "content": "Recep Tayyip Erdoğan Üniversitesi (RTEÜ) Ziraat Fakültesi’den Prof. Dr. Keziban Yazıcı, Rize’de yaklaşık 10 yıllık çalışmayla 9 mandalina çeşidinin tescil edildiğini belirterek, geç olgunlaşan çeşitlerle Türkiye’nin mandalina sezonunu uzatmayı hedeflediklerini söyledi. Yazıcı, “Çay bahçenizi bırakın da mandalina yetiştirin demiyoruz” diyerek çalışmanın amacını anlattı."
-    },
-    {
-      "title": "Konya Şeker fiyat açıkladı, şeker lobisi devreye girdi: Kendi şekeriyle fabrikaya kilit!",
-      "url": "https://www.tarimdanhaber.com/konya-seker-fiyat-acikladi-seker-lobisi-devreye-girdi-kendi-sekeriyle-fabrikaya-kilit",
-      "source": "Tarımdan Haber",
-      "date": "2026-10-17",
-      "summary": "Tarımdan Haber’in günlerdir gündeme getirdiği şeker sektöründeki kartelleşme iddiaları, Konya Şeker’in yeni kampanya listesiyle bir kez daha doğrulandı. Konya Şeker, baremli satış fiyatı açıklarken, piyasayı elinde tutan iki oyuncu aynı gün devreye girerek fabrikanın kendi ürünüyle fabrikaya rakip o",
-      "content": "Tarımdan Haber’in günlerdir gündeme getirdiği şeker sektöründeki kartelleşme iddiaları, Konya Şeker’in yeni kampanya listesiyle bir kez daha doğrulandı. Konya Şeker, baremli satış fiyatı açıklarken, piyasayı elinde tutan iki oyuncu aynı gün devreye girerek fabrikanın kendi ürünüyle fabrikaya rakip oldu."
     }
   ],
   "commoditiesByBorsa": {
@@ -254,24 +254,24 @@
     }
   ],
   "dieselByCity": {
-    "ANKARA": 97.7,
-    "ISTANBUL": 96.55,
-    "IZMIR": 98,
-    "KONYA": 98.8,
-    "ADANA": 98.5,
-    "BURSA": 97.6,
-    "ANTALYA": 99,
-    "SAMSUN": 98.3,
-    "TEKIRDAG": 97.4,
-    "CANAKKALE": 98.3
+    "ANKARA": 97.8,
+    "ISTANBUL": 96.65,
+    "IZMIR": 98.1,
+    "KONYA": 99,
+    "ADANA": 98.7,
+    "BURSA": 97.7,
+    "ANTALYA": 99.2,
+    "SAMSUN": 98.4,
+    "TEKIRDAG": 97.6,
+    "CANAKKALE": 98.5
   },
   "inputs": [
     {
       "key": "motorin",
       "name": "Motorin (mazot)",
       "unit": "₺/lt",
-      "price": 98.3,
-      "change": 0,
+      "price": 98.5,
+      "change": 0.2,
       "source": "CANAKKALE ort."
     },
     {
