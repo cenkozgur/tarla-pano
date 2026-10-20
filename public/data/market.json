@@ -1,43 +1,59 @@
 {
-  "updatedAt": "2026-10-20T07:36:13.095Z",
+  "updatedAt": "2026-10-20T13:01:12.166Z",
   "fx": [
     {
       "code": "USD",
       "name": "Dolar",
-      "buy": 49.58,
-      "sell": 49.58,
-      "change": 0.08
+      "buy": 495696,
+      "sell": 495845,
+      "change": 8
     },
     {
       "code": "EUR",
       "name": "Euro",
-      "buy": 55.73,
-      "sell": 55.73,
-      "change": 0.26
+      "buy": 556863,
+      "sell": 556989,
+      "change": 2
     },
     {
       "code": "GRA",
       "name": "Gram Altın",
-      "buy": 6579.39,
-      "sell": 6580.19,
-      "change": -0.24
+      "buy": 656567,
+      "sell": 656643,
+      "change": -45
     },
     {
       "code": "CEYREKALTIN",
       "name": "Çeyrek Altın",
-      "buy": 10563.22,
-      "sell": 10804.61,
-      "change": 0
+      "buy": 1049015,
+      "sell": 107321,
+      "change": -67
     },
     {
       "code": "CUMHURIYETALTINI",
       "name": "Cumhuriyet Altını",
-      "buy": 43753,
-      "sell": 44414,
-      "change": -0.07
+      "buy": 43473,
+      "sell": 44134,
+      "change": -63
     }
   ],
   "news": [
+    {
+      "title": "Çiftçiye 100 milyar liralık \"gizli\" bütçe müjdesi! Meclis’in görmediği sırrı \"Tarımcı\" yakaladı",
+      "url": "https://www.tarimdanhaber.com/ciftciye-100-milyar-liralik-gizli-butce-mujdesi-meclisin-gormedigi-sirri-tarimci-yakaladi",
+      "source": "Tarımdan Haber",
+      "date": "2026-10-20",
+      "summary": "Bütçe maratonunda kamuoyunun ve 600 milletvekilinin gözünden kaçan rekor gelişmeyi Tarımdan Haber’in usta yazarı \"Tarımcı\" deşifre etti. Eylül’de OVP’de kısıtlı tutulan tarımsal destek bütçesi, Meclis’e sunulan kanun teklifinde sessiz sedasız artırıldı. Çiftçiye verilen doğrudan üretim destekleri (C",
+      "content": "Bütçe maratonunda kamuoyunun ve 600 milletvekilinin gözünden kaçan rekor gelişmeyi Tarımdan Haber’in usta yazarı \"Tarımcı\" deşifre etti. Eylül’de OVP’de kısıtlı tutulan tarımsal destek bütçesi, Meclis’e sunulan kanun teklifinde sessiz sedasız artırıldı. Çiftçiye verilen doğrudan üretim destekleri (Cari Transferler) tam 101,5 milyar lira artışla 343,7 milyar liraya çıkarıldı. Üstelik KİT’lerin müdahale alımları için de bütçeye 278 milyar liralık dev bir sermaye eklendi."
+    },
+    {
+      "title": "Tarım bütçesinde \"KİT\" sürprizi: Önümüzdeki sezon alım fiyatları enflasyonu sollayabilir!",
+      "url": "https://www.tarimdanhaber.com/tarim-butcesinde-kit-surprizi-onumuzdeki-sezon-alim-fiyatlari-enflasyonu-sollayabilir",
+      "source": "Tarımdan Haber",
+      "date": "2026-10-20",
+      "summary": "2026 bütçesi ile 2027 taslağı arasındaki tarımsal destek verileri açıklandı. Bütçedeki en radikal değişim, tarımsal KİT’lerin finansmanında yaşandı. Müdahale alımları bütçesinin %181,25 oranında devasa bir artış göstermesi, önümüzdeki üretim sezonunda TMO ve ÇAYKUR gibi kurumların taban fiyatları en",
+      "content": "2026 bütçesi ile 2027 taslağı arasındaki tarımsal destek verileri açıklandı. Bütçedeki en radikal değişim, tarımsal KİT’lerin finansmanında yaşandı. Müdahale alımları bütçesinin %181,25 oranında devasa bir artış göstermesi, önümüzdeki üretim sezonunda TMO ve ÇAYKUR gibi kurumların taban fiyatları enflasyonun çok üzerinde açıklayabileceği beklentisini doğurdu."
+    },
     {
       "title": "2027 tarımsal destek bütçesi belli oldu: Çiftçiye 235 milyar lira öngörüldü",
       "url": "https://www.tarimdanhaber.com/2027-tarimsal-destek-butcesi-belli-oldu-ciftciye-235-milyar-lira-ongoruldu",
@@ -85,22 +101,6 @@
       "date": "2026-10-17",
       "summary": "Tarımdan Haber’in günlerdir gündeme getirdiği şeker sektöründeki kartelleşme iddiaları, Konya Şeker’in yeni kampanya listesiyle bir kez daha doğrulandı. Konya Şeker, baremli satış fiyatı açıklarken, piyasayı elinde tutan iki oyuncu aynı gün devreye girerek fabrikanın kendi ürünüyle fabrikaya rakip o",
       "content": "Tarımdan Haber’in günlerdir gündeme getirdiği şeker sektöründeki kartelleşme iddiaları, Konya Şeker’in yeni kampanya listesiyle bir kez daha doğrulandı. Konya Şeker, baremli satış fiyatı açıklarken, piyasayı elinde tutan iki oyuncu aynı gün devreye girerek fabrikanın kendi ürünüyle fabrikaya rakip oldu."
-    },
-    {
-      "title": "Tarımda suyu yeniden kullanacak teknolojiye ortaklık çağrısı! Loopyon üretim için yatırımcı arıyor",
-      "url": "https://www.tarimdanhaber.com/tarimda-suyu-yeniden-kullanacak-teknolojiye-ortaklik-cagrisi-loopyon-uretim-icin-yatirimci-ariyor",
-      "source": "Tarımdan Haber",
-      "date": "2026-10-17",
-      "summary": "Seralarda sulama suyunun yeniden kullanılmasına yönelik teknoloji geliştiren Loopyon, sistemini ticarileştirmek için Ecofolio üzerinden kitle fonlama kampanyası başlattı. Bireylerin de pay alarak girişime ortak olabileceği kampanyada 35 milyon TL kaynak hedefleniyor. Ek fonlamayla tutarın 42 milyon ",
-      "content": "Seralarda sulama suyunun yeniden kullanılmasına yönelik teknoloji geliştiren Loopyon, sistemini ticarileştirmek için Ecofolio üzerinden kitle fonlama kampanyası başlattı. Bireylerin de pay alarak girişime ortak olabileceği kampanyada 35 milyon TL kaynak hedefleniyor. Ek fonlamayla tutarın 42 milyon TL’ye ulaşması amaçlanıyor."
-    },
-    {
-      "title": "ESK Genel Müdürü 4 yılda piyasaya sürülen ithal et miktarını açıkladı",
-      "url": "https://www.tarimdanhaber.com/esk-genel-muduru-4-yilda-piyasaya-surulen-ithal-et-miktarini-acikladi",
-      "source": "Tarımdan Haber",
-      "date": "2026-10-17",
-      "summary": "Et ve Süt Kurumu Genel Müdürü Mücahid Taylan, 2023–2026 döneminde piyasaya yaklaşık 350 bin ton kırmızı et sunduklarını bildirdi. Taylan, besicilere hayvan temini ve geri alım garantisi sağladıklarını belirtti.",
-      "content": "Et ve Süt Kurumu Genel Müdürü Mücahid Taylan, 2023–2026 döneminde piyasaya yaklaşık 350 bin ton kırmızı et sunduklarını bildirdi. Taylan, besicilere hayvan temini ve geri alım garantisi sağladıklarını belirtti."
     }
   ],
   "commoditiesByBorsa": {
