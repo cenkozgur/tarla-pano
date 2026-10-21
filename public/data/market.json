@@ -1,43 +1,59 @@
 {
-  "updatedAt": "2026-10-21T14:34:53.256Z",
+  "updatedAt": "2026-10-21T18:51:14.383Z",
   "fx": [
     {
       "code": "USD",
       "name": "Dolar",
-      "buy": 49.6,
-      "sell": 49.61,
-      "change": 0.08
+      "buy": 495948,
+      "sell": 496046,
+      "change": 8
     },
     {
       "code": "EUR",
       "name": "Euro",
-      "buy": 55.72,
-      "sell": 55.73,
-      "change": -0.02
+      "buy": 557397,
+      "sell": 557616,
+      "change": 2
     },
     {
       "code": "GRA",
       "name": "Gram Altın",
-      "buy": 6590.3,
-      "sell": 6591.27,
-      "change": 0.27
+      "buy": 658399,
+      "sell": 65848,
+      "change": 17
     },
     {
       "code": "CEYREKALTIN",
       "name": "Çeyrek Altın",
-      "buy": 10520.69,
-      "sell": 10761.15,
-      "change": 0.13
+      "buy": 1052069,
+      "sell": 1076115,
+      "change": 13
     },
     {
       "code": "CUMHURIYETALTINI",
       "name": "Cumhuriyet Altını",
       "buy": 43613,
       "sell": 44274,
-      "change": 0.11
+      "change": 11
     }
   ],
   "news": [
+    {
+      "title": "Rekor rekolte açıklandı ama asıl gerçeği tutanaklar ele verdi: Milyarlar faize gidiyor!",
+      "url": "https://www.tarimdanhaber.com/rekor-rekolte-aciklandi-ama-asil-gercegi-tutanaklar-ele-verdi-milyarlar-faize-gidiyor",
+      "source": "Tarımdan Haber",
+      "date": "2026-10-21",
+      "summary": "TBMM KİT Komisyonu'na sunulan TMO tutanakları, kurumun depolama politikasındaki büyük çelişkiyi gözler önüne serdi. Geçmişte depolarını elden çıkaran Toprak Mahsulleri Ofisi'nin, artan depo kiralama bedelleri nedeniyle sadece iki yılda kira ödemelerini 13 kat artırdığı ortaya çıkarken; devasa kira f",
+      "content": "TBMM KİT Komisyonu'na sunulan TMO tutanakları, kurumun depolama politikasındaki büyük çelişkiyi gözler önüne serdi. Geçmişte depolarını elden çıkaran Toprak Mahsulleri Ofisi'nin, artan depo kiralama bedelleri nedeniyle sadece iki yılda kira ödemelerini 13 kat artırdığı ortaya çıkarken; devasa kira faturaları ve bankalara ödenen milyarlarca liralık faizler Meclis toplantısına damga vurdu."
+    },
+    {
+      "title": "Yüzde 95'i başvurdu ama sözleşme imzalayamadı! Et fiyatlarını düşürecek projede büyük kriz",
+      "url": "https://www.tarimdanhaber.com/yuzde-95i-basvurdu-ama-sozlesme-imzalayamadi-et-fiyatlarini-dusurecek-projede-buyuk-kriz",
+      "source": "Tarımdan Haber",
+      "date": "2026-10-21",
+      "summary": "Et ve Süt Kurumu (ESK) ile Türkiye Kırmızı Et Üreticileri Merkez Birliği (TÜKETBİR) iş birliğiyle, kırmızı et fiyatlarında istikrarı sağlamak ve üreticiyi desteklemek amacıyla başlatılan 'İthal Besilik Sığır Satışı ve Kesimlik Sığır Temin Sözleşmesi' büyük bir finansman engeline takıldı.",
+      "content": "Et ve Süt Kurumu (ESK) ile Türkiye Kırmızı Et Üreticileri Merkez Birliği (TÜKETBİR) iş birliğiyle, kırmızı et fiyatlarında istikrarı sağlamak ve üreticiyi desteklemek amacıyla başlatılan 'İthal Besilik Sığır Satışı ve Kesimlik Sığır Temin Sözleşmesi' büyük bir finansman engeline takıldı."
+    },
     {
       "title": "Boş ahırları kim dolduracak?",
       "url": "https://www.tarimdanhaber.com/bos-ahirlari-kim-dolduracak",
@@ -85,22 +101,6 @@
       "date": "2026-10-19",
       "summary": "Artvin Tarım ve Orman İl Müdürü Neşat Ulutaş kimdir, nereli ve kaç yaşında? Ziraat Yüksek Mühendisi Neşat Ulutaş’ın eğitimi, bürokratik kariyeri ve görev yaptığı iller haberimizde...",
       "content": "Artvin Tarım ve Orman İl Müdürü Neşat Ulutaş kimdir, nereli ve kaç yaşında? Ziraat Yüksek Mühendisi Neşat Ulutaş’ın eğitimi, bürokratik kariyeri ve görev yaptığı iller haberimizde..."
-    },
-    {
-      "title": "Süt sağmayı bırakıp buzağı büyütmek mantıklı mı? Prof. Dr. İsmet Türkmen’den kış rasyonu reçetesi!",
-      "url": "https://www.tarimdanhaber.com/sut-sagmayi-birakip-buzagi-buyutmek-mantikli-mi-prof-dr-ismet-turkmenden-kis-rasyonu-recetesi",
-      "source": "Tarımdan Haber",
-      "date": "2026-10-19",
-      "summary": "Prof. Dr. İsmet Türkmen, mera imkanı olan bir yetiştiricinin süt sağmayı bırakıp gebe düvelerle kurbanlık buzağı yetiştirme fikrini değerlendirdi ve ucuz kış rasyonunu açıkladı.",
-      "content": "Prof. Dr. İsmet Türkmen, mera imkanı olan bir yetiştiricinin süt sağmayı bırakıp gebe düvelerle kurbanlık buzağı yetiştirme fikrini değerlendirdi ve ucuz kış rasyonunu açıkladı."
-    },
-    {
-      "title": "Hayvancılık işletmeleri 5 sınıfa ayrılıyor! Sizin işletmeniz hangi sınıfta?",
-      "url": "https://www.tarimdanhaber.com/hayvancilik-isletmeleri-5-sinifa-ayriliyor-sizin-isletmeniz-hangi-sinifta",
-      "source": "Tarımdan Haber",
-      "date": "2026-10-19",
-      "summary": "Sığır, manda, koyun ve keçi yetiştirilen hayvancılık işletmeleri, fiziki altyapı ve biyogüvenlik şartlarına göre sınıflandırılıyor. Amasya İli Damızlık Sığır Yetiştiricileri Birliği’nin bilgilendirmesinde; veteriner hekim çalıştırılmasından karantina alanına, otomatik suluktan sağım hijyenine kadar ",
-      "content": "Sığır, manda, koyun ve keçi yetiştirilen hayvancılık işletmeleri, fiziki altyapı ve biyogüvenlik şartlarına göre sınıflandırılıyor. Amasya İli Damızlık Sığır Yetiştiricileri Birliği’nin bilgilendirmesinde; veteriner hekim çalıştırılmasından karantina alanına, otomatik suluktan sağım hijyenine kadar sınıflandırmada öne çıkan kriterler sıralandı."
     }
   ],
   "commoditiesByBorsa": {
