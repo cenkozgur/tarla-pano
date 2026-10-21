@@ -1,43 +1,51 @@
 {
-  "updatedAt": "2026-10-21T04:29:16.213Z",
+  "updatedAt": "2026-10-21T09:30:01.390Z",
   "fx": [
     {
       "code": "USD",
       "name": "Dolar",
-      "buy": 49.59,
-      "sell": 49.61,
-      "change": 0.08
+      "buy": 495943,
+      "sell": 496108,
+      "change": 8
     },
     {
       "code": "EUR",
       "name": "Euro",
-      "buy": 55.69,
-      "sell": 55.75,
-      "change": -0.04
+      "buy": 55702,
+      "sell": 557154,
+      "change": -6
     },
     {
       "code": "GRA",
       "name": "Gram Altın",
-      "buy": 6567.89,
-      "sell": 6568.67,
-      "change": -0.07
+      "buy": 657537,
+      "sell": 657609,
+      "change": 4
     },
     {
       "code": "CEYREKALTIN",
       "name": "Çeyrek Altın",
-      "buy": 10504.48,
-      "sell": 10746.75,
+      "buy": 105066,
+      "sell": 1074675,
       "change": 0
     },
     {
       "code": "CUMHURIYETALTINI",
       "name": "Cumhuriyet Altını",
-      "buy": 43563,
-      "sell": 44224,
-      "change": -0.43
+      "buy": 43583,
+      "sell": 44244,
+      "change": 5
     }
   ],
   "news": [
+    {
+      "title": "Boş ahırları kim dolduracak?",
+      "url": "https://www.tarimdanhaber.com/bos-ahirlari-kim-dolduracak",
+      "source": "Tarımdan Haber",
+      "date": "2026-10-21",
+      "summary": "HAYGEM Eski Daire Başkanı Dr. Ender Burçak, kırmızı ette ithalat bağımlılığını azaltmak için verilen desteklerin buzağının doğumuyla sınırlı kalmaması gerektiğini belirtti. Burçak, boş besi kapasitesinin yerli hayvanla değerlendirilmesi ve ithal damızlıklarla kurulan sürülerin kendi damızlığını yeni",
+      "content": "HAYGEM Eski Daire Başkanı Dr. Ender Burçak, kırmızı ette ithalat bağımlılığını azaltmak için verilen desteklerin buzağının doğumuyla sınırlı kalmaması gerektiğini belirtti. Burçak, boş besi kapasitesinin yerli hayvanla değerlendirilmesi ve ithal damızlıklarla kurulan sürülerin kendi damızlığını yenileyebilmesi için üretim, büyütme ve alım süreçlerinin birlikte planlanmasını önerdi."
+    },
     {
       "title": "Karkas et fiyatı 580 TL'de baskılandı ama yıl sonu maliyeti 670 TL'ye fırladı: Et fiyatlarında gizli tehlike!",
       "url": "https://www.tarimdanhaber.com/karkas-et-fiyati-580-tlde-baskilandi-ama-yil-sonu-maliyeti-670-tlye-firladi-et-fiyatlarinda-gizli-tehlike",
@@ -93,14 +101,6 @@
       "date": "2026-10-19",
       "summary": "Sığır, manda, koyun ve keçi yetiştirilen hayvancılık işletmeleri, fiziki altyapı ve biyogüvenlik şartlarına göre sınıflandırılıyor. Amasya İli Damızlık Sığır Yetiştiricileri Birliği’nin bilgilendirmesinde; veteriner hekim çalıştırılmasından karantina alanına, otomatik suluktan sağım hijyenine kadar ",
       "content": "Sığır, manda, koyun ve keçi yetiştirilen hayvancılık işletmeleri, fiziki altyapı ve biyogüvenlik şartlarına göre sınıflandırılıyor. Amasya İli Damızlık Sığır Yetiştiricileri Birliği’nin bilgilendirmesinde; veteriner hekim çalıştırılmasından karantina alanına, otomatik suluktan sağım hijyenine kadar sınıflandırmada öne çıkan kriterler sıralandı."
-    },
-    {
-      "title": "Rize’de geliştirildi, Antalya’da deneniyor! Mandalina sezonunu uzatacak çalışma",
-      "url": "https://www.tarimdanhaber.com/rizede-gelistirildi-antalyada-deneniyor-mandalina-sezonunu-uzatacak-calisma",
-      "source": "Tarımdan Haber",
-      "date": "2026-10-18",
-      "summary": "Recep Tayyip Erdoğan Üniversitesi (RTEÜ) Ziraat Fakültesi’den Prof. Dr. Keziban Yazıcı, Rize’de yaklaşık 10 yıllık çalışmayla 9 mandalina çeşidinin tescil edildiğini belirterek, geç olgunlaşan çeşitlerle Türkiye’nin mandalina sezonunu uzatmayı hedeflediklerini söyledi. Yazıcı, “Çay bahçenizi bırakın",
-      "content": "Recep Tayyip Erdoğan Üniversitesi (RTEÜ) Ziraat Fakültesi’den Prof. Dr. Keziban Yazıcı, Rize’de yaklaşık 10 yıllık çalışmayla 9 mandalina çeşidinin tescil edildiğini belirterek, geç olgunlaşan çeşitlerle Türkiye’nin mandalina sezonunu uzatmayı hedeflediklerini söyledi. Yazıcı, “Çay bahçenizi bırakın da mandalina yetiştirin demiyoruz” diyerek çalışmanın amacını anlattı."
     }
   ],
   "commoditiesByBorsa": {
