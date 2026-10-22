@@ -1,43 +1,59 @@
 {
-  "updatedAt": "2026-10-22T05:24:21.627Z",
+  "updatedAt": "2026-10-22T10:28:46.597Z",
   "fx": [
     {
       "code": "USD",
       "name": "Dolar",
       "buy": 49.62,
-      "sell": 49.64,
+      "sell": 49.63,
       "change": 0.14
     },
     {
       "code": "EUR",
       "name": "Euro",
-      "buy": 55.89,
-      "sell": 55.93,
-      "change": 0.33
+      "buy": 55.81,
+      "sell": 55.83,
+      "change": 0.17
     },
     {
       "code": "GRA",
       "name": "Gram Altın",
-      "buy": 6520.92,
-      "sell": 6521.75,
-      "change": -1.17
+      "buy": 6527.26,
+      "sell": 6527.97,
+      "change": -1.07
     },
     {
       "code": "CEYREKALTIN",
       "name": "Çeyrek Altın",
-      "buy": 10520.69,
-      "sell": 10761.15,
-      "change": 0
+      "buy": 10444.85,
+      "sell": 10683.64,
+      "change": -0.72
     },
     {
       "code": "CUMHURIYETALTINI",
       "name": "Cumhuriyet Altını",
-      "buy": 43613,
-      "sell": 44274,
-      "change": 0.11
+      "buy": 43233,
+      "sell": 43894,
+      "change": -0.86
     }
   ],
   "news": [
+    {
+      "title": "Dünyayı satan ihracatçıya 4 liralık şeker darbesi!",
+      "url": "https://www.tarimdanhaber.com/dunyayi-satan-ihracatciya-4-liralik-seker-darbesi",
+      "source": "Tarımdan Haber",
+      "date": "2026-10-22",
+      "summary": "Dünya borsa fiyatlarına göre kilogramı en fazla 31 TL olması gereken C şekeri, yapılan son zammla 35 liraya çıkarıldı. İthalatın kapalı olmasını fırsat bilen üreticilerin uyguladığı bu 4 liralık ekstra maliyet, Türk gıda ihracatçısının uluslararası pazardaki rekabet gücünü eritiyor.",
+      "content": "Dünya borsa fiyatlarına göre kilogramı en fazla 31 TL olması gereken C şekeri, yapılan son zammla 35 liraya çıkarıldı. İthalatın kapalı olmasını fırsat bilen üreticilerin uyguladığı bu 4 liralık ekstra maliyet, Türk gıda ihracatçısının uluslararası pazardaki rekabet gücünü eritiyor."
+    },
+    {
+      "title": "Fon vurgununda yeni gelişme: Viva Terra’nın 1.700 hayvanı TİGEM’e yediemin olarak verildi",
+      "url": "https://www.tarimdanhaber.com/fon-vurgununda-yeni-gelisme-viva-terranin-1700-hayvani-tigeme-yediemin-olarak-verildi",
+      "source": "Tarımdan Haber",
+      "date": "2026-10-22",
+      "summary": "Fon vurgununun odağındaki Tera Holding’e bağlı Viva Terra Hayvancılık’ın Trakya'daki çiftliğinde bulunan 1.700 büyükbaş hayvan, savcılık kararıyla TİGEM Türkgeldi İşletmesi’ne devredildi. Ancak biyogüvenlik kuralı gereği dışarıdan hayvan kabul etmeyen kuruma 1.700 baş hayvanın alınması, işletmede sa",
+      "content": "Fon vurgununun odağındaki Tera Holding’e bağlı Viva Terra Hayvancılık’ın Trakya'daki çiftliğinde bulunan 1.700 büyükbaş hayvan, savcılık kararıyla TİGEM Türkgeldi İşletmesi’ne devredildi. Ancak biyogüvenlik kuralı gereği dışarıdan hayvan kabul etmeyen kuruma 1.700 baş hayvanın alınması, işletmede salgın ve bulaşıcı hastalık kaygılarına yol açtı."
+    },
     {
       "title": "Rekor rekolte açıklandı ama asıl gerçeği tutanaklar ele verdi: Milyarlar faize gidiyor!",
       "url": "https://www.tarimdanhaber.com/rekor-rekolte-aciklandi-ama-asil-gercegi-tutanaklar-ele-verdi-milyarlar-faize-gidiyor",
@@ -85,22 +101,6 @@
       "date": "2026-10-20",
       "summary": "2026 bütçesi ile 2027 taslağı arasındaki tarımsal destek verileri açıklandı. Bütçedeki en radikal değişim, tarımsal KİT’lerin finansmanında yaşandı. Müdahale alımları bütçesinin %181,25 oranında devasa bir artış göstermesi, önümüzdeki üretim sezonunda TMO ve ÇAYKUR gibi kurumların taban fiyatları en",
       "content": "2026 bütçesi ile 2027 taslağı arasındaki tarımsal destek verileri açıklandı. Bütçedeki en radikal değişim, tarımsal KİT’lerin finansmanında yaşandı. Müdahale alımları bütçesinin %181,25 oranında devasa bir artış göstermesi, önümüzdeki üretim sezonunda TMO ve ÇAYKUR gibi kurumların taban fiyatları enflasyonun çok üzerinde açıklayabileceği beklentisini doğurdu."
-    },
-    {
-      "title": "2027 tarımsal destek bütçesi belli oldu: Çiftçiye 235 milyar lira öngörüldü",
-      "url": "https://www.tarimdanhaber.com/2027-tarimsal-destek-butcesi-belli-oldu-ciftciye-235-milyar-lira-ongoruldu",
-      "source": "Tarımdan Haber",
-      "date": "2026-10-19",
-      "summary": "TBMM’ye sunulan 2027 yılı bütçe teklifinde tarımsal destekler için 235 milyar lira ayrılması öngörüldü. Destek bütçesinde yüzde 39,9 artış planlanırken, tarıma ayrılan toplam 1 trilyon 305 milyar liralık kaynağın içinde kredi desteği, yatırımlar ve vergi harcamaları da bulunuyor.",
-      "content": "TBMM’ye sunulan 2027 yılı bütçe teklifinde tarımsal destekler için 235 milyar lira ayrılması öngörüldü. Destek bütçesinde yüzde 39,9 artış planlanırken, tarıma ayrılan toplam 1 trilyon 305 milyar liralık kaynağın içinde kredi desteği, yatırımlar ve vergi harcamaları da bulunuyor."
-    },
-    {
-      "title": "Artvin Tarım ve Orman İl Müdürü Neşat Ulutaş kimdir? Biyografisi ve kariyeri",
-      "url": "https://www.tarimdanhaber.com/artvin-tarim-ve-orman-il-muduru-nesat-ulutas-kimdir-biyografisi-ve-kariyeri",
-      "source": "Tarımdan Haber",
-      "date": "2026-10-19",
-      "summary": "Artvin Tarım ve Orman İl Müdürü Neşat Ulutaş kimdir, nereli ve kaç yaşında? Ziraat Yüksek Mühendisi Neşat Ulutaş’ın eğitimi, bürokratik kariyeri ve görev yaptığı iller haberimizde...",
-      "content": "Artvin Tarım ve Orman İl Müdürü Neşat Ulutaş kimdir, nereli ve kaç yaşında? Ziraat Yüksek Mühendisi Neşat Ulutaş’ın eğitimi, bürokratik kariyeri ve görev yaptığı iller haberimizde..."
     }
   ],
   "commoditiesByBorsa": {
