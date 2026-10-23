@@ -1,43 +1,51 @@
 {
-  "updatedAt": "2026-10-23T10:33:13.962Z",
+  "updatedAt": "2026-10-23T15:24:28.807Z",
   "fx": [
     {
       "code": "USD",
       "name": "Dolar",
-      "buy": 49.73,
-      "sell": 49.74,
-      "change": 0.17
+      "buy": 497314,
+      "sell": 497418,
+      "change": 17
     },
     {
       "code": "EUR",
       "name": "Euro",
-      "buy": 55.74,
-      "sell": 55.74,
-      "change": -0.11
+      "buy": 557386,
+      "sell": 557498,
+      "change": -1
     },
     {
       "code": "GRA",
       "name": "Gram Altın",
-      "buy": 6432.92,
-      "sell": 6433.9,
-      "change": 0.14
+      "buy": 639802,
+      "sell": 639877,
+      "change": -41
     },
     {
       "code": "CEYREKALTIN",
       "name": "Çeyrek Altın",
-      "buy": 10295.26,
-      "sell": 10532.87,
-      "change": -0.81
+      "buy": 1032222,
+      "sell": 1056044,
+      "change": -55
     },
     {
       "code": "CUMHURIYETALTINI",
       "name": "Cumhuriyet Altını",
-      "buy": 42713,
-      "sell": 43374,
-      "change": -0.73
+      "buy": 42823,
+      "sell": 43484,
+      "change": -48
     }
   ],
   "news": [
+    {
+      "title": "Pancar fiyatında iyileştirme yapılmayacak mı? Türkşeker’den dikkat çeken \"1 Milyon\" açıklaması",
+      "url": "https://www.tarimdanhaber.com/pancar-fiyatinda-iyilestirme-yapilmayacak-mi-turksekerden-dikkat-ceken-1-milyon-aciklamasi",
+      "source": "Tarımdan Haber",
+      "date": "2026-10-23",
+      "summary": "Şeker pancarı üreticisi taban fiyatta iyileştirme beklerken, Türkşeker Genel Müdürü Muhiddin Şahin TBMM KİT Komisyonu’nda dikkat çeken açıklamalarda bulundu. Şahin, \"İç Anadolu'da 100 dönüm eken çiftçi net 1 milyonun üzerinde kemiksiz para kazanıyor\" diyerek şeker fiyatlarının da maliyetin altında k",
+      "content": "Şeker pancarı üreticisi taban fiyatta iyileştirme beklerken, Türkşeker Genel Müdürü Muhiddin Şahin TBMM KİT Komisyonu’nda dikkat çeken açıklamalarda bulundu. Şahin, \"İç Anadolu'da 100 dönüm eken çiftçi net 1 milyonun üzerinde kemiksiz para kazanıyor\" diyerek şeker fiyatlarının da maliyetin altında kaldığını söyledi. Açıklamalar, pancar alım fiyatlarında yeni bir iyileştirme yapılmayacağı şeklinde değerlendirildi."
+    },
     {
       "title": "Dünyayı satan ihracatçıya 4 liralık şeker darbesi!",
       "url": "https://www.tarimdanhaber.com/dunyayi-satan-ihracatciya-4-liralik-seker-darbesi",
@@ -93,14 +101,6 @@
       "date": "2026-10-20",
       "summary": "Bütçe maratonunda kamuoyunun ve 600 milletvekilinin gözünden kaçan rekor gelişmeyi Tarımdan Haber’in usta yazarı \"Tarımcı\" deşifre etti. Eylül’de OVP’de kısıtlı tutulan tarımsal destek bütçesi, Meclis’e sunulan kanun teklifinde sessiz sedasız artırıldı. Çiftçiye verilen doğrudan üretim destekleri (C",
       "content": "Bütçe maratonunda kamuoyunun ve 600 milletvekilinin gözünden kaçan rekor gelişmeyi Tarımdan Haber’in usta yazarı \"Tarımcı\" deşifre etti. Eylül’de OVP’de kısıtlı tutulan tarımsal destek bütçesi, Meclis’e sunulan kanun teklifinde sessiz sedasız artırıldı. Çiftçiye verilen doğrudan üretim destekleri (Cari Transferler) tam 101,5 milyar lira artışla 343,7 milyar liraya çıkarıldı. Üstelik KİT’lerin müdahale alımları için de bütçeye 278 milyar liralık dev bir sermaye eklendi."
-    },
-    {
-      "title": "Tarım bütçesinde \"KİT\" sürprizi: Önümüzdeki sezon alım fiyatları enflasyonu sollayabilir!",
-      "url": "https://www.tarimdanhaber.com/tarim-butcesinde-kit-surprizi-onumuzdeki-sezon-alim-fiyatlari-enflasyonu-sollayabilir",
-      "source": "Tarımdan Haber",
-      "date": "2026-10-20",
-      "summary": "2026 bütçesi ile 2027 taslağı arasındaki tarımsal destek verileri açıklandı. Bütçedeki en radikal değişim, tarımsal KİT’lerin finansmanında yaşandı. Müdahale alımları bütçesinin %181,25 oranında devasa bir artış göstermesi, önümüzdeki üretim sezonunda TMO ve ÇAYKUR gibi kurumların taban fiyatları en",
-      "content": "2026 bütçesi ile 2027 taslağı arasındaki tarımsal destek verileri açıklandı. Bütçedeki en radikal değişim, tarımsal KİT’lerin finansmanında yaşandı. Müdahale alımları bütçesinin %181,25 oranında devasa bir artış göstermesi, önümüzdeki üretim sezonunda TMO ve ÇAYKUR gibi kurumların taban fiyatları enflasyonun çok üzerinde açıklayabileceği beklentisini doğurdu."
     }
   ],
   "commoditiesByBorsa": {
