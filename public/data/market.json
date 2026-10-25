@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-25T19:16:55.470Z",
+  "updatedAt": "2026-10-25T21:50:36.837Z",
   "fx": [
     {
       "code": "USD",
@@ -18,23 +18,23 @@
     {
       "code": "GRA",
       "name": "Gram Altın",
-      "buy": 6383.95,
-      "sell": 6384.76,
-      "change": -0.62
+      "buy": 6385.34,
+      "sell": 6386.12,
+      "change": 0.02
     },
     {
       "code": "CEYREKALTIN",
       "name": "Çeyrek Altın",
-      "buy": 10322.22,
-      "sell": 10560.44,
-      "change": -0.55
+      "buy": 10296.66,
+      "sell": 10534.31,
+      "change": 0
     },
     {
       "code": "CUMHURIYETALTINI",
       "name": "Cumhuriyet Altını",
-      "buy": 42823,
-      "sell": 43484,
-      "change": -0.48
+      "buy": 42673,
+      "sell": 43334,
+      "change": -0.34
     }
   ],
   "news": [
