@@ -1,43 +1,59 @@
 {
-  "updatedAt": "2026-10-26T03:57:27.166Z",
+  "updatedAt": "2026-10-26T09:54:44.198Z",
   "fx": [
     {
       "code": "USD",
       "name": "Dolar",
-      "buy": 49.75,
+      "buy": 49.76,
       "sell": 49.77,
       "change": 0.14
     },
     {
       "code": "EUR",
       "name": "Euro",
-      "buy": 55.85,
-      "sell": 55.93,
-      "change": 0.3
+      "buy": 55.82,
+      "sell": 55.83,
+      "change": 0.18
     },
     {
       "code": "GRA",
       "name": "Gram Altın",
-      "buy": 6413.22,
-      "sell": 6414.14,
-      "change": 0.46
+      "buy": 6428.14,
+      "sell": 6428.84,
+      "change": 0.69
     },
     {
       "code": "CEYREKALTIN",
       "name": "Çeyrek Altın",
-      "buy": 10296.66,
-      "sell": 10534.31,
-      "change": 0
+      "buy": 10322.36,
+      "sell": 10558.47,
+      "change": 0.23
     },
     {
       "code": "CUMHURIYETALTINI",
       "name": "Cumhuriyet Altını",
-      "buy": 42673,
-      "sell": 43334,
-      "change": -0.34
+      "buy": 42763,
+      "sell": 43424,
+      "change": 0.21
     }
   ],
   "news": [
+    {
+      "title": "Tarım Kredi’de fon sihirbazlığını aratmayan kurgu: Altın madeni karı zarar eden şirketlere bağlandı!",
+      "url": "https://www.tarimdanhaber.com/tarim-kredide-fon-sihirbazligini-aratmayan-kurgu-altin-madeni-kari-zarar-eden-sirketlere-baglandi",
+      "source": "Tarımdan Haber",
+      "date": "2026-10-26",
+      "summary": "Türkiye gündemindeki finansal krizler ve fon tartışmaları sürerken, Tarım Kredi Kooperatifleri bünyesinde dikkat çeken bir transfer mekanizması kuruldu. Yüksek gübre ve yem maliyetleriyle ezilen çiftçi, GÜBRETAŞ’a ait altın madeninden elde edilecek dev karla gübre fiyatlarında indirim yapılmasını be",
+      "content": "Türkiye gündemindeki finansal krizler ve fon tartışmaları sürerken, Tarım Kredi Kooperatifleri bünyesinde dikkat çeken bir transfer mekanizması kuruldu. Yüksek gübre ve yem maliyetleriyle ezilen çiftçi, GÜBRETAŞ’a ait altın madeninden elde edilecek dev karla gübre fiyatlarında indirim yapılmasını beklerken; 7,25 milyar liralık maden karı, kurulan ara şirket üzerinden operasyonel zarar açıklayan Tarım Kredi Market, yem ve tedarik iştiraklerine ortak edilerek sürekli bir fonlama hattına bağlandı."
+    },
+    {
+      "title": "ABD kendi çiftçisini koruyor, Türkiye et ithalatı ile kimi koruyor?",
+      "url": "https://www.tarimdanhaber.com/abd-kendi-ciftcisini-koruyor-turkiye-et-ithalati-ile-kimi-koruyor",
+      "source": "Tarımdan Haber",
+      "date": "2026-10-26",
+      "summary": "ABD, Avustralya ve Yeni Zelanda’dan yapılan kuzu eti ithalatına karşı yerli çiftçisini korumak amacıyla küresel koruma soruşturması başlatırken; Tarım Politikaları Uzmanı Ergin Kahveci Türkiye'nin et ithalatı politikasını sert sözlerle eleştirdi. Dünyanın kendi üreticisini DTÖ kurallarıyla koruma al",
+      "content": "ABD, Avustralya ve Yeni Zelanda’dan yapılan kuzu eti ithalatına karşı yerli çiftçisini korumak amacıyla küresel koruma soruşturması başlatırken; Tarım Politikaları Uzmanı Ergin Kahveci Türkiye'nin et ithalatı politikasını sert sözlerle eleştirdi. Dünyanın kendi üreticisini DTÖ kurallarıyla koruma altına aldığına dikkat çeken Kahveci, \"Herkes kendini korurken biz ithalat odaklı politikayı kime ve hangi ülkeye karşı koruyoruz?\" sorusunu yöneltti."
+    },
     {
       "title": "Ege’nin 47 yıllık tarım devi batmanın eşiğinde: 4 bin üreticinin ortağı olduğu ÖR-KOOP konkordato ilan etti!",
       "url": "https://www.tarimdanhaber.com/egenin-47-yillik-tarim-devi-batmanin-esiginde-4-bin-ureticinin-ortagi-oldugu-or-koop-konkordato-ilan-etti",
@@ -85,22 +101,6 @@
       "date": "2026-10-21",
       "summary": "TBMM KİT Komisyonu'na sunulan TMO tutanakları, kurumun depolama politikasındaki büyük çelişkiyi gözler önüne serdi. Geçmişte depolarını elden çıkaran Toprak Mahsulleri Ofisi'nin, artan depo kiralama bedelleri nedeniyle sadece iki yılda kira ödemelerini 13 kat artırdığı ortaya çıkarken; devasa kira f",
       "content": "TBMM KİT Komisyonu'na sunulan TMO tutanakları, kurumun depolama politikasındaki büyük çelişkiyi gözler önüne serdi. Geçmişte depolarını elden çıkaran Toprak Mahsulleri Ofisi'nin, artan depo kiralama bedelleri nedeniyle sadece iki yılda kira ödemelerini 13 kat artırdığı ortaya çıkarken; devasa kira faturaları ve bankalara ödenen milyarlarca liralık faizler Meclis toplantısına damga vurdu."
-    },
-    {
-      "title": "Yüzde 95'i başvurdu ama sözleşme imzalayamadı! Et fiyatlarını düşürecek projede büyük kriz",
-      "url": "https://www.tarimdanhaber.com/yuzde-95i-basvurdu-ama-sozlesme-imzalayamadi-et-fiyatlarini-dusurecek-projede-buyuk-kriz",
-      "source": "Tarımdan Haber",
-      "date": "2026-10-21",
-      "summary": "Et ve Süt Kurumu (ESK) ile Türkiye Kırmızı Et Üreticileri Merkez Birliği (TÜKETBİR) iş birliğiyle, kırmızı et fiyatlarında istikrarı sağlamak ve üreticiyi desteklemek amacıyla başlatılan 'İthal Besilik Sığır Satışı ve Kesimlik Sığır Temin Sözleşmesi' büyük bir finansman engeline takıldı.",
-      "content": "Et ve Süt Kurumu (ESK) ile Türkiye Kırmızı Et Üreticileri Merkez Birliği (TÜKETBİR) iş birliğiyle, kırmızı et fiyatlarında istikrarı sağlamak ve üreticiyi desteklemek amacıyla başlatılan 'İthal Besilik Sığır Satışı ve Kesimlik Sığır Temin Sözleşmesi' büyük bir finansman engeline takıldı."
-    },
-    {
-      "title": "Boş ahırları kim dolduracak?",
-      "url": "https://www.tarimdanhaber.com/bos-ahirlari-kim-dolduracak",
-      "source": "Tarımdan Haber",
-      "date": "2026-10-21",
-      "summary": "HAYGEM Eski Daire Başkanı Dr. Ender Burçak, kırmızı ette ithalat bağımlılığını azaltmak için verilen desteklerin buzağının doğumuyla sınırlı kalmaması gerektiğini belirtti. Burçak, boş besi kapasitesinin yerli hayvanla değerlendirilmesi ve ithal damızlıklarla kurulan sürülerin kendi damızlığını yeni",
-      "content": "HAYGEM Eski Daire Başkanı Dr. Ender Burçak, kırmızı ette ithalat bağımlılığını azaltmak için verilen desteklerin buzağının doğumuyla sınırlı kalmaması gerektiğini belirtti. Burçak, boş besi kapasitesinin yerli hayvanla değerlendirilmesi ve ithal damızlıklarla kurulan sürülerin kendi damızlığını yenileyebilmesi için üretim, büyütme ve alım süreçlerinin birlikte planlanmasını önerdi."
     }
   ],
   "commoditiesByBorsa": {
