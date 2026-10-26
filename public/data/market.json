@@ -1,43 +1,51 @@
 {
-  "updatedAt": "2026-10-26T09:54:44.198Z",
+  "updatedAt": "2026-10-26T16:39:02.841Z",
   "fx": [
     {
       "code": "USD",
       "name": "Dolar",
-      "buy": 49.76,
+      "buy": 49.75,
       "sell": 49.77,
       "change": 0.14
     },
     {
       "code": "EUR",
       "name": "Euro",
-      "buy": 55.82,
-      "sell": 55.83,
-      "change": 0.18
+      "buy": 55.68,
+      "sell": 55.7,
+      "change": -0.06
     },
     {
       "code": "GRA",
       "name": "Gram Altın",
-      "buy": 6428.14,
-      "sell": 6428.84,
-      "change": 0.69
+      "buy": 6429.16,
+      "sell": 6429.97,
+      "change": 0.71
     },
     {
       "code": "CEYREKALTIN",
       "name": "Çeyrek Altın",
-      "buy": 10322.36,
-      "sell": 10558.47,
-      "change": 0.23
+      "buy": 10260.24,
+      "sell": 10494.98,
+      "change": -0.37
     },
     {
       "code": "CUMHURIYETALTINI",
       "name": "Cumhuriyet Altını",
-      "buy": 42763,
-      "sell": 43424,
-      "change": 0.21
+      "buy": 42513,
+      "sell": 43174,
+      "change": -0.37
     }
   ],
   "news": [
+    {
+      "title": "Buğday, arpa ve mısır fiyatlarında son durum: Hangi ürün yükseldi, hangisi düştü?",
+      "url": "https://www.tarimdanhaber.com/bugday-arpa-ve-misir-fiyatlarinda-son-durum-hangi-urun-yukseldi-hangisi-dustu",
+      "source": "Tarımdan Haber",
+      "date": "2026-10-26",
+      "summary": "Ticaret borsalarının 23 Ekim verileri, hububat fiyatlarında farklı yönlere işaret etti. Önceki haftayla karşılaştırıldığında haftalık ortalamalarda buğday ve mısır gerilerken arpa yükseldi. Son işlem günü karşılaştırmasında ise yulafın ton fiyatındaki 1.441 liralık düşüş dikkat çekti.",
+      "content": "Ticaret borsalarının 23 Ekim verileri, hububat fiyatlarında farklı yönlere işaret etti. Önceki haftayla karşılaştırıldığında haftalık ortalamalarda buğday ve mısır gerilerken arpa yükseldi. Son işlem günü karşılaştırmasında ise yulafın ton fiyatındaki 1.441 liralık düşüş dikkat çekti."
+    },
     {
       "title": "Tarım Kredi’de fon sihirbazlığını aratmayan kurgu: Altın madeni karı zarar eden şirketlere bağlandı!",
       "url": "https://www.tarimdanhaber.com/tarim-kredide-fon-sihirbazligini-aratmayan-kurgu-altin-madeni-kari-zarar-eden-sirketlere-baglandi",
@@ -93,14 +101,6 @@
       "date": "2026-10-22",
       "summary": "Fon vurgununun odağındaki Tera Holding’e bağlı Viva Terra Hayvancılık’ın Trakya'daki çiftliğinde bulunan 1.700 büyükbaş hayvan, savcılık kararıyla TİGEM Türkgeldi İşletmesi’ne devredildi. Ancak biyogüvenlik kuralı gereği dışarıdan hayvan kabul etmeyen kuruma 1.700 baş hayvanın alınması, işletmede sa",
       "content": "Fon vurgununun odağındaki Tera Holding’e bağlı Viva Terra Hayvancılık’ın Trakya'daki çiftliğinde bulunan 1.700 büyükbaş hayvan, savcılık kararıyla TİGEM Türkgeldi İşletmesi’ne devredildi. Ancak biyogüvenlik kuralı gereği dışarıdan hayvan kabul etmeyen kuruma 1.700 baş hayvanın alınması, işletmede salgın ve bulaşıcı hastalık kaygılarına yol açtı."
-    },
-    {
-      "title": "Rekor rekolte açıklandı ama asıl gerçeği tutanaklar ele verdi: Milyarlar faize gidiyor!",
-      "url": "https://www.tarimdanhaber.com/rekor-rekolte-aciklandi-ama-asil-gercegi-tutanaklar-ele-verdi-milyarlar-faize-gidiyor",
-      "source": "Tarımdan Haber",
-      "date": "2026-10-21",
-      "summary": "TBMM KİT Komisyonu'na sunulan TMO tutanakları, kurumun depolama politikasındaki büyük çelişkiyi gözler önüne serdi. Geçmişte depolarını elden çıkaran Toprak Mahsulleri Ofisi'nin, artan depo kiralama bedelleri nedeniyle sadece iki yılda kira ödemelerini 13 kat artırdığı ortaya çıkarken; devasa kira f",
-      "content": "TBMM KİT Komisyonu'na sunulan TMO tutanakları, kurumun depolama politikasındaki büyük çelişkiyi gözler önüne serdi. Geçmişte depolarını elden çıkaran Toprak Mahsulleri Ofisi'nin, artan depo kiralama bedelleri nedeniyle sadece iki yılda kira ödemelerini 13 kat artırdığı ortaya çıkarken; devasa kira faturaları ve bankalara ödenen milyarlarca liralık faizler Meclis toplantısına damga vurdu."
     }
   ],
   "commoditiesByBorsa": {
