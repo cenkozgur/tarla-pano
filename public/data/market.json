@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-27T10:48:36.635Z",
+  "updatedAt": "2026-10-27T16:02:59.274Z",
   "fx": [
     {
       "code": "USD",
@@ -11,33 +11,73 @@
     {
       "code": "EUR",
       "name": "Euro",
-      "buy": 55.57,
-      "sell": 55.6,
-      "change": -0.09
+      "buy": 55.56,
+      "sell": 55.57,
+      "change": -0.13
     },
     {
       "code": "GRA",
       "name": "Gram Altın",
-      "buy": 6423.41,
-      "sell": 6424.39,
-      "change": -0.02
+      "buy": 6504.99,
+      "sell": 6505.81,
+      "change": 1.25
     },
     {
       "code": "CEYREKALTIN",
       "name": "Çeyrek Altın",
-      "buy": 10280,
-      "sell": 10517.28,
-      "change": 0.21
+      "buy": 10322.5,
+      "sell": 10558.61,
+      "change": 0.61
     },
     {
       "code": "CUMHURIYETALTINI",
       "name": "Cumhuriyet Altını",
-      "buy": 42452,
-      "sell": 43094,
-      "change": -0.19
+      "buy": 42792,
+      "sell": 43434,
+      "change": 0.6
     }
   ],
   "news": [
+    {
+      "title": "Tarım Politikaları Uzmanı Ergin Kahveci yazdı: Kağıt üstünde milyoner, Amerikan tarım rüyasının arka sokağı!",
+      "url": "https://www.tarimdanhaber.com/tarim-politikalari-uzmani-ergin-kahveci-yazdi-kagit-ustunde-milyoner-amerikan-tarim-ruyasinin-arka-sokagi",
+      "source": "Tarımdan Haber",
+      "date": "2026-10-27",
+      "summary": "Tarım Politikaları Uzmanı Ergin Kahveci, son analizinde tüm dünyanın örnek gösterdiği \"Amerikan tarım rüyası\" efsanesini masaya yatırdı. USDA verileriyle ABD çiftçisinin gerçek tablosunu gözler önüne seren Kahveci, küçük üreticinin tarlada zarar ettiğini, sistemin kağıt üzerinde milyoner oluşturarak",
+      "content": "Tarım Politikaları Uzmanı Ergin Kahveci, son analizinde tüm dünyanın örnek gösterdiği \"Amerikan tarım rüyası\" efsanesini masaya yatırdı. USDA verileriyle ABD çiftçisinin gerçek tablosunu gözler önüne seren Kahveci, küçük üreticinin tarlada zarar ettiğini, sistemin kağıt üzerinde milyoner oluşturarak yapısal çöküşü parayla maskelediğini belirtti."
+    },
+    {
+      "title": "Türkşeker’de skandal plansızlık: Burdur Şeker Fabrikası çarkları döndüremedi, 100 bin ton pancar Susurluk'a taşınacak!",
+      "url": "https://www.tarimdanhaber.com/turksekerde-skandal-plansizlik-burdur-seker-fabrikasi-carklari-donduremedi-100-bin-ton-pancar-susurluka-tasinacak",
+      "source": "Tarımdan Haber",
+      "date": "2026-10-27",
+      "summary": "Türkşeker bünyesindeki Burdur Şeker Fabrikası’nda kampanya dönemi öncesi yapılması gereken bakım ve onarım işleri zamanında tamamlanamadı. Üretimin başlamasıyla birlikte çarkların dönmediği fabrikada binlerce ton pancar teslim alınıp tarlada ve bahçede bekletilirken, acı gerçek ortaya çıktı: Gecikme",
+      "content": "Türkşeker bünyesindeki Burdur Şeker Fabrikası’nda kampanya dönemi öncesi yapılması gereken bakım ve onarım işleri zamanında tamamlanamadı. Üretimin başlamasıyla birlikte çarkların dönmediği fabrikada binlerce ton pancar teslim alınıp tarlada ve bahçede bekletilirken, acı gerçek ortaya çıktı: Gecikme nedeniyle bölgedeki 100 bin ton pancar dev bir nakliye maliyetiyle Susurluk’a taşınacak."
+    },
+    {
+      "title": "Çiğ süt fiyatında Kasım beklentisi! TÜSEDAD: Üreticide fiyat sabit, rafta zam sürüyor",
+      "url": "https://www.tarimdanhaber.com/cig-sut-fiyatinda-kasim-beklentisi-tusedad-ureticide-fiyat-sabit-rafta-zam-suruyor",
+      "source": "Tarımdan Haber",
+      "date": "2026-10-27",
+      "summary": "TÜSEDAD, çiğ süt üreticisinin satış fiyatı değişmezken süt ürünlerinin raf fiyatlarının arttığını belirterek kasım ayında fiyat güncellemesi istedi. Yem satışlarında geçen yılın aynı dönemine göre yüzde 15–20 düşüş yaşandığını bildiren dernek, üretimin devamlılığı ve süt ile et arzı konusunda uyarıd",
+      "content": "TÜSEDAD, çiğ süt üreticisinin satış fiyatı değişmezken süt ürünlerinin raf fiyatlarının arttığını belirterek kasım ayında fiyat güncellemesi istedi. Yem satışlarında geçen yılın aynı dönemine göre yüzde 15–20 düşüş yaşandığını bildiren dernek, üretimin devamlılığı ve süt ile et arzı konusunda uyarıda bulundu."
+    },
+    {
+      "title": "Tarlasına güneş paneli kuran çiftçiler dikkat! GES cezaları da bu fuarda gündeme gelecek",
+      "url": "https://www.tarimdanhaber.com/tarlasina-gunes-paneli-kuran-ciftciler-dikkat-ges-cezalari-da-bu-fuarda-gundeme-gelecek",
+      "source": "Tarımdan Haber",
+      "date": "2026-10-27",
+      "summary": "EIF Yönetim Kurulu Başkanı M. Murat Dilek, çiftçileri 5–7 Kasım’da Antalya’da düzenlenecek enerji fuarına davet etti. Tarımsal sulamada güneş enerjisinin potansiyeline dikkat çeken Dilek’in çağrısıyla birlikte, fuarda GES cezaları ve çiftçilerin dikkat etmesi gereken hususlarda da bilgilendirme yapı",
+      "content": "EIF Yönetim Kurulu Başkanı M. Murat Dilek, çiftçileri 5–7 Kasım’da Antalya’da düzenlenecek enerji fuarına davet etti. Tarımsal sulamada güneş enerjisinin potansiyeline dikkat çeken Dilek’in çağrısıyla birlikte, fuarda GES cezaları ve çiftçilerin dikkat etmesi gereken hususlarda da bilgilendirme yapılacağı belirtildi."
+    },
+    {
+      "title": "Çiftçiye tohum ve gübre desteği! Ankara’da başvurular başladı",
+      "url": "https://www.tarimdanhaber.com/ciftciye-tohum-ve-gubre-destegi-ankarada-basvurular-basladi",
+      "source": "Tarımdan Haber",
+      "date": "2026-10-27",
+      "summary": "Ankara Büyükşehir Belediyesi, üreticilere yönelik tohum ve gübre desteği başvurularını açtı. 2026/2027 ÇKS belgesiyle internet üzerinden yapılacak başvurular, 23 Kasım 2026’ya kadar sürecek.",
+      "content": "Ankara Büyükşehir Belediyesi, üreticilere yönelik tohum ve gübre desteği başvurularını açtı. 2026/2027 ÇKS belgesiyle internet üzerinden yapılacak başvurular, 23 Kasım 2026’ya kadar sürecek."
+    },
     {
       "title": "Buğday, arpa ve mısır fiyatlarında son durum: Hangi ürün yükseldi, hangisi düştü?",
       "url": "https://www.tarimdanhaber.com/bugday-arpa-ve-misir-fiyatlarinda-son-durum-hangi-urun-yukseldi-hangisi-dustu",
@@ -61,46 +101,6 @@
       "date": "2026-10-26",
       "summary": "ABD, Avustralya ve Yeni Zelanda’dan yapılan kuzu eti ithalatına karşı yerli çiftçisini korumak amacıyla küresel koruma soruşturması başlatırken; Tarım Politikaları Uzmanı Ergin Kahveci Türkiye'nin et ithalatı politikasını sert sözlerle eleştirdi. Dünyanın kendi üreticisini DTÖ kurallarıyla koruma al",
       "content": "ABD, Avustralya ve Yeni Zelanda’dan yapılan kuzu eti ithalatına karşı yerli çiftçisini korumak amacıyla küresel koruma soruşturması başlatırken; Tarım Politikaları Uzmanı Ergin Kahveci Türkiye'nin et ithalatı politikasını sert sözlerle eleştirdi. Dünyanın kendi üreticisini DTÖ kurallarıyla koruma altına aldığına dikkat çeken Kahveci, \"Herkes kendini korurken biz ithalat odaklı politikayı kime ve hangi ülkeye karşı koruyoruz?\" sorusunu yöneltti."
-    },
-    {
-      "title": "Ege’nin 47 yıllık tarım devi batmanın eşiğinde: 4 bin üreticinin ortağı olduğu ÖR-KOOP konkordato ilan etti!",
-      "url": "https://www.tarimdanhaber.com/egenin-47-yillik-tarim-devi-batmanin-esiginde-4-bin-ureticinin-ortagi-oldugu-or-koop-konkordato-ilan-etti",
-      "source": "Tarımdan Haber",
-      "date": "2026-10-24",
-      "summary": "Ege Bölgesi'nin en önemli tarımsal kalkınma simgelerinden Aydın Nazilli merkezli 47 yıllık ÖR-KOOP, tırmanan finansman maliyetleri ve borç yükü nedeniyle konkordato ilan etti. Mahkemenin geçici mühlet kararı verdiği ve 4 binden fazla süt üreticisi ortağı bulunan dev kooperatifte, 90 milyon lirası çi",
-      "content": "Ege Bölgesi'nin en önemli tarımsal kalkınma simgelerinden Aydın Nazilli merkezli 47 yıllık ÖR-KOOP, tırmanan finansman maliyetleri ve borç yükü nedeniyle konkordato ilan etti. Mahkemenin geçici mühlet kararı verdiği ve 4 binden fazla süt üreticisi ortağı bulunan dev kooperatifte, 90 milyon lirası çiftçi alacağı olmak üzere toplam 431 milyon liralık devasa bir borç tablosu ortaya çıktı."
-    },
-    {
-      "title": "Gübre ve mazota ek destek verilecek mi? Tarım Bakanından soru önergesine yanıt",
-      "url": "https://www.tarimdanhaber.com/gubre-ve-mazota-ek-destek-verilecek-mi-tarim-bakanindan-soru-onergesine-yanit",
-      "source": "Tarımdan Haber",
-      "date": "2026-10-24",
-      "summary": "İYİ Parti Hatay Milletvekili Adnan Şefik Çirkin’in Orta Doğu’daki savaş gerekçesiyle fırlayan gübre, akaryakıt ve enerji maliyetlerini hatırlatarak sorduğu “Çiftçiye ek destek veya revizyon yapılacak mı?” sorusuna Tarım ve Orman Bakanlığı yanıt verdi. Bakan İbrahim Yumaklı, soru önergesine verdiği c",
-      "content": "İYİ Parti Hatay Milletvekili Adnan Şefik Çirkin’in Orta Doğu’daki savaş gerekçesiyle fırlayan gübre, akaryakıt ve enerji maliyetlerini hatırlatarak sorduğu “Çiftçiye ek destek veya revizyon yapılacak mı?” sorusuna Tarım ve Orman Bakanlığı yanıt verdi. Bakan İbrahim Yumaklı, soru önergesine verdiği cevapta yeni bir ek destek veya revizyondan bahsetmeyip yürürlükteki destekleme modelini ve alınan gümrük tedbirlerini anlatmakla yetindi."
-    },
-    {
-      "title": "Pancar fiyatında iyileştirme yapılmayacak mı? Türkşeker’den dikkat çeken \"1 Milyon\" açıklaması",
-      "url": "https://www.tarimdanhaber.com/pancar-fiyatinda-iyilestirme-yapilmayacak-mi-turksekerden-dikkat-ceken-1-milyon-aciklamasi",
-      "source": "Tarımdan Haber",
-      "date": "2026-10-23",
-      "summary": "Şeker pancarı üreticisi taban fiyatta iyileştirme beklerken, Türkşeker Genel Müdürü Muhiddin Şahin TBMM KİT Komisyonu’nda dikkat çeken açıklamalarda bulundu. Şahin, \"İç Anadolu'da 100 dönüm eken çiftçi net 1 milyonun üzerinde kemiksiz para kazanıyor\" diyerek şeker fiyatlarının da maliyetin altında k",
-      "content": "Şeker pancarı üreticisi taban fiyatta iyileştirme beklerken, Türkşeker Genel Müdürü Muhiddin Şahin TBMM KİT Komisyonu’nda dikkat çeken açıklamalarda bulundu. Şahin, \"İç Anadolu'da 100 dönüm eken çiftçi net 1 milyonun üzerinde kemiksiz para kazanıyor\" diyerek şeker fiyatlarının da maliyetin altında kaldığını söyledi. Açıklamalar, pancar alım fiyatlarında yeni bir iyileştirme yapılmayacağı şeklinde değerlendirildi."
-    },
-    {
-      "title": "Dünyayı satan ihracatçıya 4 liralık şeker darbesi!",
-      "url": "https://www.tarimdanhaber.com/dunyayi-satan-ihracatciya-4-liralik-seker-darbesi",
-      "source": "Tarımdan Haber",
-      "date": "2026-10-22",
-      "summary": "Dünya borsa fiyatlarına göre kilogramı en fazla 31 TL olması gereken C şekeri, yapılan son zammla 35 liraya çıkarıldı. İthalatın kapalı olmasını fırsat bilen üreticilerin uyguladığı bu 4 liralık ekstra maliyet, Türk gıda ihracatçısının uluslararası pazardaki rekabet gücünü eritiyor.",
-      "content": "Dünya borsa fiyatlarına göre kilogramı en fazla 31 TL olması gereken C şekeri, yapılan son zammla 35 liraya çıkarıldı. İthalatın kapalı olmasını fırsat bilen üreticilerin uyguladığı bu 4 liralık ekstra maliyet, Türk gıda ihracatçısının uluslararası pazardaki rekabet gücünü eritiyor."
-    },
-    {
-      "title": "Fon vurgununda yeni gelişme: Viva Terra’nın 1.700 hayvanı TİGEM’e yediemin olarak verildi",
-      "url": "https://www.tarimdanhaber.com/fon-vurgununda-yeni-gelisme-viva-terranin-1700-hayvani-tigeme-yediemin-olarak-verildi",
-      "source": "Tarımdan Haber",
-      "date": "2026-10-22",
-      "summary": "Fon vurgununun odağındaki Tera Holding’e bağlı Viva Terra Hayvancılık’ın Trakya'daki çiftliğinde bulunan 1.700 büyükbaş hayvan, savcılık kararıyla TİGEM Türkgeldi İşletmesi’ne devredildi. Ancak biyogüvenlik kuralı gereği dışarıdan hayvan kabul etmeyen kuruma 1.700 baş hayvanın alınması, işletmede sa",
-      "content": "Fon vurgununun odağındaki Tera Holding’e bağlı Viva Terra Hayvancılık’ın Trakya'daki çiftliğinde bulunan 1.700 büyükbaş hayvan, savcılık kararıyla TİGEM Türkgeldi İşletmesi’ne devredildi. Ancak biyogüvenlik kuralı gereği dışarıdan hayvan kabul etmeyen kuruma 1.700 baş hayvanın alınması, işletmede salgın ve bulaşıcı hastalık kaygılarına yol açtı."
     }
   ],
   "commoditiesByBorsa": {
