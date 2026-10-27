@@ -1,43 +1,51 @@
 {
-  "updatedAt": "2026-10-27T16:02:59.274Z",
+  "updatedAt": "2026-10-27T20:35:01.811Z",
   "fx": [
     {
       "code": "USD",
       "name": "Dolar",
-      "buy": 49.78,
-      "sell": 49.79,
-      "change": 0.07
+      "buy": 49778,
+      "sell": 497962,
+      "change": 7
     },
     {
       "code": "EUR",
       "name": "Euro",
-      "buy": 55.56,
-      "sell": 55.57,
-      "change": -0.13
+      "buy": 554426,
+      "sell": 554957,
+      "change": -3
     },
     {
       "code": "GRA",
       "name": "Gram Altın",
-      "buy": 6504.99,
-      "sell": 6505.81,
-      "change": 1.25
+      "buy": 649715,
+      "sell": 6498,
+      "change": 112
     },
     {
       "code": "CEYREKALTIN",
       "name": "Çeyrek Altın",
-      "buy": 10322.5,
-      "sell": 10558.61,
-      "change": 0.61
+      "buy": 103225,
+      "sell": 1055861,
+      "change": 61
     },
     {
       "code": "CUMHURIYETALTINI",
       "name": "Cumhuriyet Altını",
       "buy": 42792,
       "sell": 43434,
-      "change": 0.6
+      "change": 6
     }
   ],
   "news": [
+    {
+      "title": "Konya Ticaret Borsası'nda fiyatlar belli oldu: Buğday, arpa, mısır ve kuru fasulye kaç TL? (27 Ekim 2026)",
+      "url": "https://www.tarimdanhaber.com/konya-ticaret-borsasinda-fiyatlar-belli-oldu-bugday-arpa-misir-ve-kuru-fasulye-kac-tl-27-ekim-2026",
+      "source": "Tarımdan Haber",
+      "date": "2026-10-27",
+      "summary": "Konya Ticaret Borsası'nda 27 Ekim 2026 güncel hububat fiyatları belli oldu. Sert ekmeklik buğday fiyatları 21 TL sınırını aşarken, arpa, mısır ve kuru fasulyede oluşan en yüksek, en düşük ve ortalama bülten fiyatları tablosu haberimizde.",
+      "content": "Konya Ticaret Borsası'nda 27 Ekim 2026 güncel hububat fiyatları belli oldu. Sert ekmeklik buğday fiyatları 21 TL sınırını aşarken, arpa, mısır ve kuru fasulyede oluşan en yüksek, en düşük ve ortalama bülten fiyatları tablosu haberimizde."
+    },
     {
       "title": "Tarım Politikaları Uzmanı Ergin Kahveci yazdı: Kağıt üstünde milyoner, Amerikan tarım rüyasının arka sokağı!",
       "url": "https://www.tarimdanhaber.com/tarim-politikalari-uzmani-ergin-kahveci-yazdi-kagit-ustunde-milyoner-amerikan-tarim-ruyasinin-arka-sokagi",
@@ -93,14 +101,6 @@
       "date": "2026-10-26",
       "summary": "Türkiye gündemindeki finansal krizler ve fon tartışmaları sürerken, Tarım Kredi Kooperatifleri bünyesinde dikkat çeken bir transfer mekanizması kuruldu. Yüksek gübre ve yem maliyetleriyle ezilen çiftçi, GÜBRETAŞ’a ait altın madeninden elde edilecek dev karla gübre fiyatlarında indirim yapılmasını be",
       "content": "Türkiye gündemindeki finansal krizler ve fon tartışmaları sürerken, Tarım Kredi Kooperatifleri bünyesinde dikkat çeken bir transfer mekanizması kuruldu. Yüksek gübre ve yem maliyetleriyle ezilen çiftçi, GÜBRETAŞ’a ait altın madeninden elde edilecek dev karla gübre fiyatlarında indirim yapılmasını beklerken; 7,25 milyar liralık maden karı, kurulan ara şirket üzerinden operasyonel zarar açıklayan Tarım Kredi Market, yem ve tedarik iştiraklerine ortak edilerek sürekli bir fonlama hattına bağlandı."
-    },
-    {
-      "title": "ABD kendi çiftçisini koruyor, Türkiye et ithalatı ile kimi koruyor?",
-      "url": "https://www.tarimdanhaber.com/abd-kendi-ciftcisini-koruyor-turkiye-et-ithalati-ile-kimi-koruyor",
-      "source": "Tarımdan Haber",
-      "date": "2026-10-26",
-      "summary": "ABD, Avustralya ve Yeni Zelanda’dan yapılan kuzu eti ithalatına karşı yerli çiftçisini korumak amacıyla küresel koruma soruşturması başlatırken; Tarım Politikaları Uzmanı Ergin Kahveci Türkiye'nin et ithalatı politikasını sert sözlerle eleştirdi. Dünyanın kendi üreticisini DTÖ kurallarıyla koruma al",
-      "content": "ABD, Avustralya ve Yeni Zelanda’dan yapılan kuzu eti ithalatına karşı yerli çiftçisini korumak amacıyla küresel koruma soruşturması başlatırken; Tarım Politikaları Uzmanı Ergin Kahveci Türkiye'nin et ithalatı politikasını sert sözlerle eleştirdi. Dünyanın kendi üreticisini DTÖ kurallarıyla koruma altına aldığına dikkat çeken Kahveci, \"Herkes kendini korurken biz ithalat odaklı politikayı kime ve hangi ülkeye karşı koruyoruz?\" sorusunu yöneltti."
     }
   ],
   "commoditiesByBorsa": {
