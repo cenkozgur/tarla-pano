@@ -1,43 +1,51 @@
 {
-  "updatedAt": "2026-10-28T10:51:19.474Z",
+  "updatedAt": "2026-10-28T17:01:39.915Z",
   "fx": [
     {
       "code": "USD",
       "name": "Dolar",
       "buy": 49.83,
-      "sell": 49.84,
+      "sell": 49.85,
       "change": 0.08
     },
     {
       "code": "EUR",
       "name": "Euro",
-      "buy": 55.44,
-      "sell": 55.45,
-      "change": -0.1
+      "buy": 55.55,
+      "sell": 55.57,
+      "change": 0.11
     },
     {
       "code": "GRA",
       "name": "Gram Altın",
-      "buy": 6483.84,
-      "sell": 6484.73,
-      "change": -0.24
+      "buy": 6477.25,
+      "sell": 6478.19,
+      "change": -0.34
     },
     {
       "code": "CEYREKALTIN",
       "name": "Çeyrek Altın",
-      "buy": 10384.83,
-      "sell": 10622.32,
-      "change": 0.6
+      "buy": 10392.68,
+      "sell": 10632.48,
+      "change": 0.7
     },
     {
       "code": "CUMHURIYETALTINI",
       "name": "Cumhuriyet Altını",
-      "buy": 43042,
-      "sell": 43684,
-      "change": 0.58
+      "buy": 43082,
+      "sell": 43724,
+      "change": 0.67
     }
   ],
   "news": [
+    {
+      "title": "AB süt üretimi 2027’de gerileyecek: Süt krizinin detayları açıklandı",
+      "url": "https://www.tarimdanhaber.com/ab-sut-uretimi-2027de-gerileyecek-sut-krizinin-detaylari-aciklandi",
+      "source": "Tarımdan Haber",
+      "date": "2026-10-28",
+      "summary": "Tarım Politikaları Uzmanı Ergin Kahveci, Avrupa Birliği süt sektöründeki daralmaya ve USDA rapor verilerine dikkat çekerek küresel süt piyasasındaki tehlikeyi işaret etti.",
+      "content": "Tarım Politikaları Uzmanı Ergin Kahveci, Avrupa Birliği süt sektöründeki daralmaya ve USDA rapor verilerine dikkat çekerek küresel süt piyasasındaki tehlikeyi işaret etti."
+    },
     {
       "title": "Konya Ticaret Borsası'nda fiyatlar belli oldu: Buğday, arpa, mısır ve kuru fasulye kaç TL? (27 Ekim 2026)",
       "url": "https://www.tarimdanhaber.com/konya-ticaret-borsasinda-fiyatlar-belli-oldu-bugday-arpa-misir-ve-kuru-fasulye-kac-tl-27-ekim-2026",
@@ -93,14 +101,6 @@
       "date": "2026-10-26",
       "summary": "Ticaret borsalarının 23 Ekim verileri, hububat fiyatlarında farklı yönlere işaret etti. Önceki haftayla karşılaştırıldığında haftalık ortalamalarda buğday ve mısır gerilerken arpa yükseldi. Son işlem günü karşılaştırmasında ise yulafın ton fiyatındaki 1.441 liralık düşüş dikkat çekti.",
       "content": "Ticaret borsalarının 23 Ekim verileri, hububat fiyatlarında farklı yönlere işaret etti. Önceki haftayla karşılaştırıldığında haftalık ortalamalarda buğday ve mısır gerilerken arpa yükseldi. Son işlem günü karşılaştırmasında ise yulafın ton fiyatındaki 1.441 liralık düşüş dikkat çekti."
-    },
-    {
-      "title": "Tarım Kredi’de fon sihirbazlığını aratmayan kurgu: Altın madeni karı zarar eden şirketlere bağlandı!",
-      "url": "https://www.tarimdanhaber.com/tarim-kredide-fon-sihirbazligini-aratmayan-kurgu-altin-madeni-kari-zarar-eden-sirketlere-baglandi",
-      "source": "Tarımdan Haber",
-      "date": "2026-10-26",
-      "summary": "Türkiye gündemindeki finansal krizler ve fon tartışmaları sürerken, Tarım Kredi Kooperatifleri bünyesinde dikkat çeken bir transfer mekanizması kuruldu. Yüksek gübre ve yem maliyetleriyle ezilen çiftçi, GÜBRETAŞ’a ait altın madeninden elde edilecek dev karla gübre fiyatlarında indirim yapılmasını be",
-      "content": "Türkiye gündemindeki finansal krizler ve fon tartışmaları sürerken, Tarım Kredi Kooperatifleri bünyesinde dikkat çeken bir transfer mekanizması kuruldu. Yüksek gübre ve yem maliyetleriyle ezilen çiftçi, GÜBRETAŞ’a ait altın madeninden elde edilecek dev karla gübre fiyatlarında indirim yapılmasını beklerken; 7,25 milyar liralık maden karı, kurulan ara şirket üzerinden operasyonel zarar açıklayan Tarım Kredi Market, yem ve tedarik iştiraklerine ortak edilerek sürekli bir fonlama hattına bağlandı."
     }
   ],
   "commoditiesByBorsa": {
