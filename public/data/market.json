@@ -1,26 +1,26 @@
 {
-  "updatedAt": "2026-10-29T07:08:17.891Z",
+  "updatedAt": "2026-10-29T14:22:26.363Z",
   "fx": [
     {
       "code": "USD",
       "name": "Dolar",
       "buy": 49.83,
       "sell": 49.84,
-      "change": -0.01
+      "change": 0
     },
     {
       "code": "EUR",
       "name": "Euro",
-      "buy": 55.63,
-      "sell": 55.66,
-      "change": 0.14
+      "buy": 55.66,
+      "sell": 55.68,
+      "change": 0.18
     },
     {
       "code": "GRA",
       "name": "Gram Altın",
-      "buy": 6465.79,
-      "sell": 6466.48,
-      "change": -0.79
+      "buy": 6451.5,
+      "sell": 6452.3,
+      "change": -1.01
     },
     {
       "code": "CEYREKALTIN",
@@ -38,6 +38,22 @@
     }
   ],
   "news": [
+    {
+      "title": "Türkşeker'de skandal çelişki: 30 yılın revizyonu dediler, 100 bin ton pancarın Susurluk’a taşınmasına sessiz kaldılar!",
+      "url": "https://www.tarimdanhaber.com/turksekerde-skandal-celiski-30-yilin-revizyonu-dediler-100-bin-ton-pancarin-susurluka-tasinmasina-sessiz-kaldilar",
+      "source": "Tarımdan Haber",
+      "date": "2026-10-29",
+      "summary": "Türkşeker’in Burdur Şeker Fabrikası’nda “son 30 yılın en kapsamlı revizyon ve modernizasyonu yapıldı” açıklaması, büyük bir skandal çelişkiyi gözler önüne serdi. Fabrikada çarkların dönememesi nedeniyle 100 bin ton pancarın Susurluk Şeker Fabrikası'na taşınacağı yönündeki iddialara tek bir kelime da",
+      "content": "Türkşeker’in Burdur Şeker Fabrikası’nda “son 30 yılın en kapsamlı revizyon ve modernizasyonu yapıldı” açıklaması, büyük bir skandal çelişkiyi gözler önüne serdi. Fabrikada çarkların dönememesi nedeniyle 100 bin ton pancarın Susurluk Şeker Fabrikası'na taşınacağı yönündeki iddialara tek bir kelime dahi edemeyen kurumun, haberlerin ardından yaptığı savunma \"ihmallerin üzerini örtme çabası\" olarak yorumlandı."
+    },
+    {
+      "title": "Cumhuriyet 103 yaşında! Bağımsızlıktan millet egemenliğine uzanan tarihi yol",
+      "url": "https://www.tarimdanhaber.com/cumhuriyet-103-yasinda-bagimsizliktan-millet-egemenligine-uzanan-tarihi-yol",
+      "source": "Tarımdan Haber",
+      "date": "2026-10-29",
+      "summary": "Gazi Mustafa Kemal Atatürk’ün önderliğinde verilen bağımsızlık mücadelesinin ardından ilan edilen Cumhuriyet, 103 yaşında. 29 Ekim 1923’te Meclis’te alınan karar, Türk milletinin kendi geleceğini belirlediği yeni bir dönemin kapısını açtı.",
+      "content": "Gazi Mustafa Kemal Atatürk’ün önderliğinde verilen bağımsızlık mücadelesinin ardından ilan edilen Cumhuriyet, 103 yaşında. 29 Ekim 1923’te Meclis’te alınan karar, Türk milletinin kendi geleceğini belirlediği yeni bir dönemin kapısını açtı."
+    },
     {
       "title": "AB süt üretimi 2027’de gerileyecek: Süt krizinin detayları açıklandı",
       "url": "https://www.tarimdanhaber.com/ab-sut-uretimi-2027de-gerileyecek-sut-krizinin-detaylari-aciklandi",
@@ -85,22 +101,6 @@
       "date": "2026-10-27",
       "summary": "EIF Yönetim Kurulu Başkanı M. Murat Dilek, çiftçileri 5–7 Kasım’da Antalya’da düzenlenecek enerji fuarına davet etti. Tarımsal sulamada güneş enerjisinin potansiyeline dikkat çeken Dilek’in çağrısıyla birlikte, fuarda GES cezaları ve çiftçilerin dikkat etmesi gereken hususlarda da bilgilendirme yapı",
       "content": "EIF Yönetim Kurulu Başkanı M. Murat Dilek, çiftçileri 5–7 Kasım’da Antalya’da düzenlenecek enerji fuarına davet etti. Tarımsal sulamada güneş enerjisinin potansiyeline dikkat çeken Dilek’in çağrısıyla birlikte, fuarda GES cezaları ve çiftçilerin dikkat etmesi gereken hususlarda da bilgilendirme yapılacağı belirtildi."
-    },
-    {
-      "title": "Çiftçiye tohum ve gübre desteği! Ankara’da başvurular başladı",
-      "url": "https://www.tarimdanhaber.com/ciftciye-tohum-ve-gubre-destegi-ankarada-basvurular-basladi",
-      "source": "Tarımdan Haber",
-      "date": "2026-10-27",
-      "summary": "Ankara Büyükşehir Belediyesi, üreticilere yönelik tohum ve gübre desteği başvurularını açtı. 2026/2027 ÇKS belgesiyle internet üzerinden yapılacak başvurular, 23 Kasım 2026’ya kadar sürecek.",
-      "content": "Ankara Büyükşehir Belediyesi, üreticilere yönelik tohum ve gübre desteği başvurularını açtı. 2026/2027 ÇKS belgesiyle internet üzerinden yapılacak başvurular, 23 Kasım 2026’ya kadar sürecek."
-    },
-    {
-      "title": "Buğday, arpa ve mısır fiyatlarında son durum: Hangi ürün yükseldi, hangisi düştü?",
-      "url": "https://www.tarimdanhaber.com/bugday-arpa-ve-misir-fiyatlarinda-son-durum-hangi-urun-yukseldi-hangisi-dustu",
-      "source": "Tarımdan Haber",
-      "date": "2026-10-26",
-      "summary": "Ticaret borsalarının 23 Ekim verileri, hububat fiyatlarında farklı yönlere işaret etti. Önceki haftayla karşılaştırıldığında haftalık ortalamalarda buğday ve mısır gerilerken arpa yükseldi. Son işlem günü karşılaştırmasında ise yulafın ton fiyatındaki 1.441 liralık düşüş dikkat çekti.",
-      "content": "Ticaret borsalarının 23 Ekim verileri, hububat fiyatlarında farklı yönlere işaret etti. Önceki haftayla karşılaştırıldığında haftalık ortalamalarda buğday ve mısır gerilerken arpa yükseldi. Son işlem günü karşılaştırmasında ise yulafın ton fiyatındaki 1.441 liralık düşüş dikkat çekti."
     }
   ],
   "commoditiesByBorsa": {
@@ -309,16 +309,6 @@
   "errors": [
     "borsa 5ED10: fetch failed",
     "borsa 5KO10: fetch failed",
-    "borsa 5ES10: fetch failed",
-    "mazot ANKARA: fetch failed",
-    "mazot ISTANBUL: fetch failed",
-    "mazot IZMIR: fetch failed",
-    "mazot KONYA: fetch failed",
-    "mazot ADANA: fetch failed",
-    "mazot BURSA: fetch failed",
-    "mazot ANTALYA: fetch failed",
-    "mazot SAMSUN: fetch failed",
-    "mazot TEKIRDAG: fetch failed",
-    "mazot CANAKKALE: fetch failed"
+    "borsa 5ES10: fetch failed"
   ]
 }
