@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-30T02:58:41.246Z",
+  "updatedAt": "2026-10-30T09:44:36.149Z",
   "fx": [
     {
       "code": "USD",
@@ -38,6 +38,14 @@
     }
   ],
   "news": [
+    {
+      "title": "Pancar alım fiyatına sessiz kalmıştı: Bakan Yumaklı’dan dikkat çeken 'Avans' paylaşımı!",
+      "url": "https://www.tarimdanhaber.com/pancar-alim-fiyatina-sessiz-kalmisti-bakan-yumaklidan-dikkat-ceken-avans-paylasimi",
+      "source": "Tarımdan Haber",
+      "date": "2026-10-30",
+      "summary": "Tarım ve Orman Bakanı İbrahim Yumaklı, beklentilerin çok altında kalan 3.720 TL’lik pancar alım fiyatını sosyal medya hesaplarından paylaşmayarak 'stratejik sessizlik' uygularken, rutin ödemeler arasındaki 5. aşama avansı duyurması dikkat çekti. Tepki çeken fiyatı görmezden gelip rutin ödemeyi öne ç",
+      "content": "Tarım ve Orman Bakanı İbrahim Yumaklı, beklentilerin çok altında kalan 3.720 TL’lik pancar alım fiyatını sosyal medya hesaplarından paylaşmayarak 'stratejik sessizlik' uygularken, rutin ödemeler arasındaki 5. aşama avansı duyurması dikkat çekti. Tepki çeken fiyatı görmezden gelip rutin ödemeyi öne çıkaran bu iletişim stratejisi, kamuoyundaki huzursuzluğu perdeleme çabası ve manidar bir çelişki olarak değerlendirildi."
+    },
     {
       "title": "Türkşeker'de skandal çelişki: 30 yılın revizyonu dediler, 100 bin ton pancarın Susurluk’a taşınmasına sessiz kaldılar!",
       "url": "https://www.tarimdanhaber.com/turksekerde-skandal-celiski-30-yilin-revizyonu-dediler-100-bin-ton-pancarin-susurluka-tasinmasina-sessiz-kaldilar",
@@ -93,14 +101,6 @@
       "date": "2026-10-27",
       "summary": "TÜSEDAD, çiğ süt üreticisinin satış fiyatı değişmezken süt ürünlerinin raf fiyatlarının arttığını belirterek kasım ayında fiyat güncellemesi istedi. Yem satışlarında geçen yılın aynı dönemine göre yüzde 15–20 düşüş yaşandığını bildiren dernek, üretimin devamlılığı ve süt ile et arzı konusunda uyarıd",
       "content": "TÜSEDAD, çiğ süt üreticisinin satış fiyatı değişmezken süt ürünlerinin raf fiyatlarının arttığını belirterek kasım ayında fiyat güncellemesi istedi. Yem satışlarında geçen yılın aynı dönemine göre yüzde 15–20 düşüş yaşandığını bildiren dernek, üretimin devamlılığı ve süt ile et arzı konusunda uyarıda bulundu."
-    },
-    {
-      "title": "Tarlasına güneş paneli kuran çiftçiler dikkat! GES cezaları da bu fuarda gündeme gelecek",
-      "url": "https://www.tarimdanhaber.com/tarlasina-gunes-paneli-kuran-ciftciler-dikkat-ges-cezalari-da-bu-fuarda-gundeme-gelecek",
-      "source": "Tarımdan Haber",
-      "date": "2026-10-27",
-      "summary": "EIF Yönetim Kurulu Başkanı M. Murat Dilek, çiftçileri 5–7 Kasım’da Antalya’da düzenlenecek enerji fuarına davet etti. Tarımsal sulamada güneş enerjisinin potansiyeline dikkat çeken Dilek’in çağrısıyla birlikte, fuarda GES cezaları ve çiftçilerin dikkat etmesi gereken hususlarda da bilgilendirme yapı",
-      "content": "EIF Yönetim Kurulu Başkanı M. Murat Dilek, çiftçileri 5–7 Kasım’da Antalya’da düzenlenecek enerji fuarına davet etti. Tarımsal sulamada güneş enerjisinin potansiyeline dikkat çeken Dilek’in çağrısıyla birlikte, fuarda GES cezaları ve çiftçilerin dikkat etmesi gereken hususlarda da bilgilendirme yapılacağı belirtildi."
     }
   ],
   "commoditiesByBorsa": {
@@ -307,6 +307,7 @@
   "note": "Fiyatlar TOBB ticaret borsasından (borsa seçilebilir). Kanola manuel (Trakya 2025).",
   "inputsNote": "Mazot: akaryakıt bayi fiyatı, günlük (şehir seçilebilir). Gübre: manuel (yaklaşık).",
   "errors": [
+    "fx: fetch failed",
     "borsa 5ED10: fetch failed",
     "borsa 5KO10: fetch failed",
     "borsa 5ES10: fetch failed"
