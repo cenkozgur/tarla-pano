@@ -1,43 +1,51 @@
 {
-  "updatedAt": "2026-10-30T09:44:36.149Z",
+  "updatedAt": "2026-10-30T16:15:12.358Z",
   "fx": [
     {
       "code": "USD",
       "name": "Dolar",
-      "buy": 49.94,
-      "sell": 49.95,
-      "change": 0.08
+      "buy": 499401,
+      "sell": 499541,
+      "change": 8
     },
     {
       "code": "EUR",
       "name": "Euro",
-      "buy": 55.95,
-      "sell": 56,
-      "change": 0.12
+      "buy": 558265,
+      "sell": 558373,
+      "change": -14
     },
     {
       "code": "GRA",
       "name": "Gram Altın",
-      "buy": 6421.95,
-      "sell": 6422.74,
-      "change": -0.46
+      "buy": 625656,
+      "sell": 625756,
+      "change": -302
     },
     {
       "code": "CEYREKALTIN",
       "name": "Çeyrek Altın",
-      "buy": 10392.68,
-      "sell": 10632.48,
-      "change": 0
+      "buy": 1004208,
+      "sell": 1027406,
+      "change": -337
     },
     {
       "code": "CUMHURIYETALTINI",
       "name": "Cumhuriyet Altını",
-      "buy": 43082,
-      "sell": 43724,
-      "change": 0.67
+      "buy": 41761,
+      "sell": 42398,
+      "change": -303
     }
   ],
   "news": [
+    {
+      "title": "Hayvancılıkta devlet eliyle büyük skandal: Sperma merkezinde karantina kuralı hiçe sayıldı!",
+      "url": "https://www.tarimdanhaber.com/hayvancilikta-devlet-eliyle-buyuk-skandal-sperma-merkezinde-karantina-kurali-hice-sayildi",
+      "source": "Tarımdan Haber",
+      "date": "2026-10-30",
+      "summary": "Türkiye’nin sperma üretimindeki tek devlet merkezi olan Lalahan Uluslararası Hayvancılık Araştırma ve Eğitim Merkezi’nde skandal bir ihmale imza atıldı. Bakan Yumaklı’nın yapacağı açılış öncesi Şanlıurfa'dan aceleyle getirilen 90 anaç hayvan, hiçbir karantina tedbiri uygulanmadan doğrudan üretim sah",
+      "content": "Türkiye’nin sperma üretimindeki tek devlet merkezi olan Lalahan Uluslararası Hayvancılık Araştırma ve Eğitim Merkezi’nde skandal bir ihmale imza atıldı. Bakan Yumaklı’nın yapacağı açılış öncesi Şanlıurfa'dan aceleyle getirilen 90 anaç hayvan, hiçbir karantina tedbiri uygulanmadan doğrudan üretim sahasına sokuldu. Şap hastalığı riski altındaki merkezde yaşanan bu başıboşluk, hastalıklı spermaların devlet eliyle 81 ile dağıtılma tehlikesini doğurdu."
+    },
     {
       "title": "Pancar alım fiyatına sessiz kalmıştı: Bakan Yumaklı’dan dikkat çeken 'Avans' paylaşımı!",
       "url": "https://www.tarimdanhaber.com/pancar-alim-fiyatina-sessiz-kalmisti-bakan-yumaklidan-dikkat-ceken-avans-paylasimi",
@@ -93,14 +101,6 @@
       "date": "2026-10-27",
       "summary": "Türkşeker bünyesindeki Burdur Şeker Fabrikası’nda kampanya dönemi öncesi yapılması gereken bakım ve onarım işleri zamanında tamamlanamadı. Üretimin başlamasıyla birlikte çarkların dönmediği fabrikada binlerce ton pancar teslim alınıp tarlada ve bahçede bekletilirken, acı gerçek ortaya çıktı: Gecikme",
       "content": "Türkşeker bünyesindeki Burdur Şeker Fabrikası’nda kampanya dönemi öncesi yapılması gereken bakım ve onarım işleri zamanında tamamlanamadı. Üretimin başlamasıyla birlikte çarkların dönmediği fabrikada binlerce ton pancar teslim alınıp tarlada ve bahçede bekletilirken, acı gerçek ortaya çıktı: Gecikme nedeniyle bölgedeki 100 bin ton pancar dev bir nakliye maliyetiyle Susurluk’a taşınacak."
-    },
-    {
-      "title": "Çiğ süt fiyatında Kasım beklentisi! TÜSEDAD: Üreticide fiyat sabit, rafta zam sürüyor",
-      "url": "https://www.tarimdanhaber.com/cig-sut-fiyatinda-kasim-beklentisi-tusedad-ureticide-fiyat-sabit-rafta-zam-suruyor",
-      "source": "Tarımdan Haber",
-      "date": "2026-10-27",
-      "summary": "TÜSEDAD, çiğ süt üreticisinin satış fiyatı değişmezken süt ürünlerinin raf fiyatlarının arttığını belirterek kasım ayında fiyat güncellemesi istedi. Yem satışlarında geçen yılın aynı dönemine göre yüzde 15–20 düşüş yaşandığını bildiren dernek, üretimin devamlılığı ve süt ile et arzı konusunda uyarıd",
-      "content": "TÜSEDAD, çiğ süt üreticisinin satış fiyatı değişmezken süt ürünlerinin raf fiyatlarının arttığını belirterek kasım ayında fiyat güncellemesi istedi. Yem satışlarında geçen yılın aynı dönemine göre yüzde 15–20 düşüş yaşandığını bildiren dernek, üretimin devamlılığı ve süt ile et arzı konusunda uyarıda bulundu."
     }
   ],
   "commoditiesByBorsa": {
@@ -307,7 +307,6 @@
   "note": "Fiyatlar TOBB ticaret borsasından (borsa seçilebilir). Kanola manuel (Trakya 2025).",
   "inputsNote": "Mazot: akaryakıt bayi fiyatı, günlük (şehir seçilebilir). Gübre: manuel (yaklaşık).",
   "errors": [
-    "fx: fetch failed",
     "borsa 5ED10: fetch failed",
     "borsa 5KO10: fetch failed",
     "borsa 5ES10: fetch failed"
