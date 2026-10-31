@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-31T11:14:51.724Z",
+  "updatedAt": "2026-10-31T16:06:48.092Z",
   "fx": [
     {
       "code": "USD",
@@ -38,6 +38,14 @@
     }
   ],
   "news": [
+    {
+      "title": "Hayvan ve et ithalatına 1,8 milyar dolar! Yerli hayvancılık desteğinin 3,2 katı",
+      "url": "https://www.tarimdanhaber.com/hayvan-ve-et-ithalatina-18-milyar-dolar-yerli-hayvancilik-desteginin-32-kati",
+      "source": "Tarımdan Haber",
+      "date": "2026-10-31",
+      "summary": "2026’nın ilk dokuz ayında canlı büyükbaş hayvan ve kırmızı et ithalatına toplam 1 milyar 825 milyon dolar harcandı. Bu tutar, aynı dönemde bütçeden hayvancılık destekleme hizmetlerine aktarılan kaynağın dolar karşılığının 3,2 katına ulaştı. Dokuz aylık kırmızı et ithalatı da geçen yılın tamamını aşt",
+      "content": "2026’nın ilk dokuz ayında canlı büyükbaş hayvan ve kırmızı et ithalatına toplam 1 milyar 825 milyon dolar harcandı. Bu tutar, aynı dönemde bütçeden hayvancılık destekleme hizmetlerine aktarılan kaynağın dolar karşılığının 3,2 katına ulaştı. Dokuz aylık kırmızı et ithalatı da geçen yılın tamamını aştı."
+    },
     {
       "title": "Karkas et fiyatlarında son durum: Çorum’da 660 TL paylaşımı, iller arasında dikkat çeken fark",
       "url": "https://www.tarimdanhaber.com/karkas-et-fiyatlarinda-son-durum-corumda-660-tl-paylasimi-iller-arasinda-dikkat-ceken-fark",
@@ -93,14 +101,6 @@
       "date": "2026-10-30",
       "summary": "Tarım ve Orman Bakanı İbrahim Yumaklı, beklentilerin çok altında kalan 3.720 TL’lik pancar alım fiyatını sosyal medya hesaplarından paylaşmayarak 'stratejik sessizlik' uygularken, rutin ödemeler arasındaki 5. aşama avansı duyurması dikkat çekti. Tepki çeken fiyatı görmezden gelip rutin ödemeyi öne ç",
       "content": "Tarım ve Orman Bakanı İbrahim Yumaklı, beklentilerin çok altında kalan 3.720 TL’lik pancar alım fiyatını sosyal medya hesaplarından paylaşmayarak 'stratejik sessizlik' uygularken, rutin ödemeler arasındaki 5. aşama avansı duyurması dikkat çekti. Tepki çeken fiyatı görmezden gelip rutin ödemeyi öne çıkaran bu iletişim stratejisi, kamuoyundaki huzursuzluğu perdeleme çabası ve manidar bir çelişki olarak değerlendirildi."
-    },
-    {
-      "title": "Türkşeker'de skandal çelişki: 30 yılın revizyonu dediler, 100 bin ton pancarın Susurluk’a taşınmasına sessiz kaldılar!",
-      "url": "https://www.tarimdanhaber.com/turksekerde-skandal-celiski-30-yilin-revizyonu-dediler-100-bin-ton-pancarin-susurluka-tasinmasina-sessiz-kaldilar",
-      "source": "Tarımdan Haber",
-      "date": "2026-10-29",
-      "summary": "Türkşeker’in Burdur Şeker Fabrikası’nda “son 30 yılın en kapsamlı revizyon ve modernizasyonu yapıldı” açıklaması, büyük bir skandal çelişkiyi gözler önüne serdi. Fabrikada çarkların dönememesi nedeniyle 100 bin ton pancarın Susurluk Şeker Fabrikası'na taşınacağı yönündeki iddialara tek bir kelime da",
-      "content": "Türkşeker’in Burdur Şeker Fabrikası’nda “son 30 yılın en kapsamlı revizyon ve modernizasyonu yapıldı” açıklaması, büyük bir skandal çelişkiyi gözler önüne serdi. Fabrikada çarkların dönememesi nedeniyle 100 bin ton pancarın Susurluk Şeker Fabrikası'na taşınacağı yönündeki iddialara tek bir kelime dahi edemeyen kurumun, haberlerin ardından yaptığı savunma \"ihmallerin üzerini örtme çabası\" olarak yorumlandı."
     }
   ],
   "commoditiesByBorsa": {
