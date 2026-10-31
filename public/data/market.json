@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-31T19:59:59.924Z",
+  "updatedAt": "2026-10-31T23:11:01.852Z",
   "fx": [
     {
       "code": "USD",
@@ -254,24 +254,24 @@
     }
   ],
   "dieselByCity": {
-    "ANKARA": 97.9,
-    "ISTANBUL": 96.75,
-    "IZMIR": 98.2,
-    "KONYA": 99.1,
-    "ADANA": 98.8,
-    "BURSA": 97.8,
-    "ANTALYA": 99.3,
-    "SAMSUN": 98.5,
-    "TEKIRDAG": 97.7,
-    "CANAKKALE": 98.6
+    "ANKARA": 101.5,
+    "ISTANBUL": 100.35,
+    "IZMIR": 101.8,
+    "KONYA": 102.7,
+    "ADANA": 102.4,
+    "BURSA": 101.4,
+    "ANTALYA": 102.9,
+    "SAMSUN": 102.1,
+    "TEKIRDAG": 101.3,
+    "CANAKKALE": 102.2
   },
   "inputs": [
     {
       "key": "motorin",
       "name": "Motorin (mazot)",
       "unit": "₺/lt",
-      "price": 98.6,
-      "change": 0,
+      "price": 102.2,
+      "change": 3.65,
       "source": "CANAKKALE ort."
     },
     {
