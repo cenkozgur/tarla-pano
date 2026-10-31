@@ -1,26 +1,26 @@
 {
-  "updatedAt": "2026-10-31T00:08:44.488Z",
+  "updatedAt": "2026-10-31T05:44:52.316Z",
   "fx": [
     {
       "code": "USD",
       "name": "Dolar",
       "buy": 49.93,
-      "sell": 49.97,
-      "change": 0.09
+      "sell": 49.96,
+      "change": 0.07
     },
     {
       "code": "EUR",
       "name": "Euro",
-      "buy": 55.79,
-      "sell": 55.85,
-      "change": -0.16
+      "buy": 55.72,
+      "sell": 55.81,
+      "change": -0.26
     },
     {
       "code": "GRA",
       "name": "Gram Altın",
-      "buy": 6218.06,
-      "sell": 6219.01,
-      "change": -3.62
+      "buy": 6222.08,
+      "sell": 6222.9,
+      "change": -3.56
     },
     {
       "code": "CEYREKALTIN",
@@ -254,24 +254,24 @@
     }
   ],
   "dieselByCity": {
-    "ANKARA": 97.8,
-    "ISTANBUL": 96.65,
-    "IZMIR": 98.1,
-    "KONYA": 99,
-    "ADANA": 98.7,
-    "BURSA": 97.7,
-    "ANTALYA": 99.2,
-    "SAMSUN": 98.4,
-    "TEKIRDAG": 97.6,
-    "CANAKKALE": 98.5
+    "ANKARA": 97.9,
+    "ISTANBUL": 96.75,
+    "IZMIR": 98.2,
+    "KONYA": 99.1,
+    "ADANA": 98.8,
+    "BURSA": 97.8,
+    "ANTALYA": 99.3,
+    "SAMSUN": 98.5,
+    "TEKIRDAG": 97.7,
+    "CANAKKALE": 98.6
   },
   "inputs": [
     {
       "key": "motorin",
       "name": "Motorin (mazot)",
       "unit": "₺/lt",
-      "price": 98.5,
-      "change": 0,
+      "price": 98.6,
+      "change": 0.1,
       "source": "CANAKKALE ort."
     },
     {
@@ -307,19 +307,8 @@
   "note": "Fiyatlar TOBB ticaret borsasından (borsa seçilebilir). Kanola manuel (Trakya 2025).",
   "inputsNote": "Mazot: akaryakıt bayi fiyatı, günlük (şehir seçilebilir). Gübre: manuel (yaklaşık).",
   "errors": [
-    "fx: fetch failed",
     "borsa 5ED10: fetch failed",
     "borsa 5KO10: fetch failed",
-    "borsa 5ES10: fetch failed",
-    "mazot ANKARA: fetch failed",
-    "mazot ISTANBUL: fetch failed",
-    "mazot IZMIR: fetch failed",
-    "mazot KONYA: fetch failed",
-    "mazot ADANA: fetch failed",
-    "mazot BURSA: fetch failed",
-    "mazot ANTALYA: fetch failed",
-    "mazot SAMSUN: fetch failed",
-    "mazot TEKIRDAG: fetch failed",
-    "mazot CANAKKALE: fetch failed"
+    "borsa 5ES10: fetch failed"
   ]
 }
