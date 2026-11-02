@@ -1,43 +1,51 @@
 {
-  "updatedAt": "2026-11-02T02:46:00.373Z",
+  "updatedAt": "2026-11-02T10:00:01.269Z",
   "fx": [
     {
       "code": "USD",
       "name": "Dolar",
-      "buy": 49.96,
-      "sell": 49.99,
-      "change": 0.06
+      "buy": 499679,
+      "sell": 499747,
+      "change": 6
     },
     {
       "code": "EUR",
       "name": "Euro",
-      "buy": 55.81,
-      "sell": 55.85,
-      "change": 0.12
+      "buy": 561031,
+      "sell": 56112,
+      "change": 62
     },
     {
       "code": "GRA",
       "name": "Gram Altın",
-      "buy": 6272.12,
-      "sell": 6273.05,
-      "change": 0.81
+      "buy": 626395,
+      "sell": 626496,
+      "change": 68
     },
     {
       "code": "CEYREKALTIN",
       "name": "Çeyrek Altın",
-      "buy": 9980.02,
-      "sell": 10210.62,
-      "change": 0
+      "buy": 1002412,
+      "sell": 1025365,
+      "change": 42
     },
     {
       "code": "CUMHURIYETALTINI",
       "name": "Cumhuriyet Altını",
-      "buy": 41641,
-      "sell": 42278,
-      "change": -0.28
+      "buy": 41581,
+      "sell": 42218,
+      "change": -14
     }
   ],
   "news": [
+    {
+      "title": "Buğday ve arpa eken çiftçiye önemli düzenleme: Kuru tarımda art arda ekim yapılabilecek!",
+      "url": "https://www.tarimdanhaber.com/bugday-ve-arpa-eken-ciftciye-onemli-duzenleme-kuru-tarimda-art-arda-ekim-yapilabilecek",
+      "source": "Tarımdan Haber",
+      "date": "2026-11-02",
+      "summary": "Tarım ve Orman Bakanlığı, bitkisel üretim desteklerine ilişkin tebliğde değişiklik yaptı. Kuru tarım parsellerinde buğday, arpa, çavdar, tritikale ve yulafın art arda ekilebilmesine ilişkin hüküm getirildi. Düzenleme 1 Ocak 2027’de yürürlüğe girecek.",
+      "content": "Tarım ve Orman Bakanlığı, bitkisel üretim desteklerine ilişkin tebliğde değişiklik yaptı. Kuru tarım parsellerinde buğday, arpa, çavdar, tritikale ve yulafın art arda ekilebilmesine ilişkin hüküm getirildi. Düzenleme 1 Ocak 2027’de yürürlüğe girecek."
+    },
     {
       "title": "Hayvan ve et ithalatına 1,8 milyar dolar! Yerli hayvancılık desteğinin 3,2 katı",
       "url": "https://www.tarimdanhaber.com/hayvan-ve-et-ithalatina-18-milyar-dolar-yerli-hayvancilik-desteginin-32-kati",
@@ -93,14 +101,6 @@
       "date": "2026-10-30",
       "summary": "Türkiye’nin sperma üretimindeki tek devlet merkezi olan Lalahan Uluslararası Hayvancılık Araştırma ve Eğitim Merkezi’nde skandal bir ihmale imza atıldı. Bakan Yumaklı’nın yapacağı açılış öncesi Şanlıurfa'dan aceleyle getirilen 90 anaç hayvan, hiçbir karantina tedbiri uygulanmadan doğrudan üretim sah",
       "content": "Türkiye’nin sperma üretimindeki tek devlet merkezi olan Lalahan Uluslararası Hayvancılık Araştırma ve Eğitim Merkezi’nde skandal bir ihmale imza atıldı. Bakan Yumaklı’nın yapacağı açılış öncesi Şanlıurfa'dan aceleyle getirilen 90 anaç hayvan, hiçbir karantina tedbiri uygulanmadan doğrudan üretim sahasına sokuldu. Şap hastalığı riski altındaki merkezde yaşanan bu başıboşluk, hastalıklı spermaların devlet eliyle 81 ile dağıtılma tehlikesini doğurdu."
-    },
-    {
-      "title": "Pancar alım fiyatına sessiz kalmıştı: Bakan Yumaklı’dan dikkat çeken 'Avans' paylaşımı!",
-      "url": "https://www.tarimdanhaber.com/pancar-alim-fiyatina-sessiz-kalmisti-bakan-yumaklidan-dikkat-ceken-avans-paylasimi",
-      "source": "Tarımdan Haber",
-      "date": "2026-10-30",
-      "summary": "Tarım ve Orman Bakanı İbrahim Yumaklı, beklentilerin çok altında kalan 3.720 TL’lik pancar alım fiyatını sosyal medya hesaplarından paylaşmayarak 'stratejik sessizlik' uygularken, rutin ödemeler arasındaki 5. aşama avansı duyurması dikkat çekti. Tepki çeken fiyatı görmezden gelip rutin ödemeyi öne ç",
-      "content": "Tarım ve Orman Bakanı İbrahim Yumaklı, beklentilerin çok altında kalan 3.720 TL’lik pancar alım fiyatını sosyal medya hesaplarından paylaşmayarak 'stratejik sessizlik' uygularken, rutin ödemeler arasındaki 5. aşama avansı duyurması dikkat çekti. Tepki çeken fiyatı görmezden gelip rutin ödemeyi öne çıkaran bu iletişim stratejisi, kamuoyundaki huzursuzluğu perdeleme çabası ve manidar bir çelişki olarak değerlendirildi."
     }
   ],
   "commoditiesByBorsa": {
@@ -309,16 +309,6 @@
   "errors": [
     "borsa 5ED10: fetch failed",
     "borsa 5KO10: fetch failed",
-    "borsa 5ES10: fetch failed",
-    "mazot ANKARA: fetch failed",
-    "mazot ISTANBUL: fetch failed",
-    "mazot IZMIR: fetch failed",
-    "mazot KONYA: fetch failed",
-    "mazot ADANA: fetch failed",
-    "mazot BURSA: fetch failed",
-    "mazot ANTALYA: fetch failed",
-    "mazot SAMSUN: fetch failed",
-    "mazot TEKIRDAG: fetch failed",
-    "mazot CANAKKALE: fetch failed"
+    "borsa 5ES10: fetch failed"
   ]
 }
