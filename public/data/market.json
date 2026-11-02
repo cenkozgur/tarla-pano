@@ -1,43 +1,59 @@
 {
-  "updatedAt": "2026-11-02T10:00:01.269Z",
+  "updatedAt": "2026-11-02T20:05:07.948Z",
   "fx": [
     {
       "code": "USD",
       "name": "Dolar",
-      "buy": 499679,
-      "sell": 499747,
-      "change": 6
+      "buy": 49.96,
+      "sell": 49.98,
+      "change": 0.06
     },
     {
       "code": "EUR",
       "name": "Euro",
-      "buy": 561031,
-      "sell": 56112,
-      "change": 62
+      "buy": 55.97,
+      "sell": 55.99,
+      "change": 0.39
     },
     {
       "code": "GRA",
       "name": "Gram Altın",
-      "buy": 626395,
-      "sell": 626496,
-      "change": 68
+      "buy": 6343.79,
+      "sell": 6344.8,
+      "change": 1.96
     },
     {
       "code": "CEYREKALTIN",
       "name": "Çeyrek Altın",
-      "buy": 1002412,
-      "sell": 1025365,
-      "change": 42
+      "buy": 10134.56,
+      "sell": 10366.53,
+      "change": 1.53
     },
     {
       "code": "CUMHURIYETALTINI",
       "name": "Cumhuriyet Altını",
-      "buy": 41581,
-      "sell": 42218,
-      "change": -14
+      "buy": 41991,
+      "sell": 42628,
+      "change": 0.83
     }
   ],
   "news": [
+    {
+      "title": "Çiğ sütte korkutan tablo: Ekim ayı maliyeti 29,92 TL’ye yükseldi! USK sessizliğini korumaya devam ediyor",
+      "url": "https://www.tarimdanhaber.com/cig-sutte-korkutan-tablo-ekim-ayi-maliyeti-2992-tlye-yukseldi-usk-sessizligini-korumaya-devam-ediyor",
+      "source": "Tarımdan Haber",
+      "date": "2026-11-02",
+      "summary": "TÜSEDAD Ekim ayı verilerini açıkladı: 1 litre sıcak çiğ süt üretim maliyeti 29,92 TL’ye ulaştı. Ulusal Süt Konseyi’nin tavsiye fiyatı açıklamayı ertelemesi üreticiyi sürü küçültme riskiyle baş başa bırakıyor.",
+      "content": "TÜSEDAD Ekim ayı verilerini açıkladı: 1 litre sıcak çiğ süt üretim maliyeti 29,92 TL’ye ulaştı. Ulusal Süt Konseyi’nin tavsiye fiyatı açıklamayı ertelemesi üreticiyi sürü küçültme riskiyle baş başa bırakıyor."
+    },
+    {
+      "title": "Çiftçinin enerji hesabı Antalya’da masaya geliyor! GES yatırımı düşünen çiftçilere davet",
+      "url": "https://www.tarimdanhaber.com/ciftcinin-enerji-hesabi-antalyada-masaya-geliyor-ges-yatirimi-dusunen-ciftcilere-davet",
+      "source": "Tarımdan Haber",
+      "date": "2026-11-02",
+      "summary": "Tarımsal sulamada güneş enerjisine geçmek isteyen çiftçiler için kapasite, maliyet, izinler ve yatırımın geri dönüşü belirleyici oluyor. 5–7 Kasım 2026’da Antalya ANFAŞ Fuar Merkezi’nde gerçekleştirilecek EIF, üreticilere enerji ihtiyaçları ve yatırım seçenekleri hakkında firmalarla görüşme fırsatı ",
+      "content": "Tarımsal sulamada güneş enerjisine geçmek isteyen çiftçiler için kapasite, maliyet, izinler ve yatırımın geri dönüşü belirleyici oluyor. 5–7 Kasım 2026’da Antalya ANFAŞ Fuar Merkezi’nde gerçekleştirilecek EIF, üreticilere enerji ihtiyaçları ve yatırım seçenekleri hakkında firmalarla görüşme fırsatı sunacak."
+    },
     {
       "title": "Buğday ve arpa eken çiftçiye önemli düzenleme: Kuru tarımda art arda ekim yapılabilecek!",
       "url": "https://www.tarimdanhaber.com/bugday-ve-arpa-eken-ciftciye-onemli-duzenleme-kuru-tarimda-art-arda-ekim-yapilabilecek",
@@ -85,22 +101,6 @@
       "date": "2026-10-30",
       "summary": "Et kesim fiyatları, ithalatla baskılanmaya devam ederken, UKON ve Bursa Damızlık Sığır Yetiştiricileri Birliği'nin yayınladığı en son et kesim fiyatları da bu baskılanmanın devam ettiğini ortaya koydu. UKON'un 30 Ekim haftasına ait dana ve kuzu kesim fiyatları sadece 3 lira artarken, Damızlık Birliğ",
       "content": "Et kesim fiyatları, ithalatla baskılanmaya devam ederken, UKON ve Bursa Damızlık Sığır Yetiştiricileri Birliği'nin yayınladığı en son et kesim fiyatları da bu baskılanmanın devam ettiğini ortaya koydu. UKON'un 30 Ekim haftasına ait dana ve kuzu kesim fiyatları sadece 3 lira artarken, Damızlık Birliğinin yayınladığı güncel kesim fiyatlarında da sadece inek kesim fiyatı yükseldi, dana ve düve kesim fiyatları sabit kaldı."
-    },
-    {
-      "title": "TMO’dan Kasım kararı: 5,5 milyon ton hububat satışa sunulacak, fiyatlar değişmeyecek",
-      "url": "https://www.tarimdanhaber.com/tmodan-kasim-karari-55-milyon-ton-hububat-satisa-sunulacak-fiyatlar-degismeyecek",
-      "source": "Tarımdan Haber",
-      "date": "2026-10-30",
-      "summary": "Toprak Mahsulleri Ofisi (TMO), kasım ayında piyasaya 5,5 milyon ton hububat arz edeceğini açıkladı. Satış fiyatlarında artış yapılmazken, 1 milyon ton yemlik buğday için vade farksız 90 gün veya kredi kartına üç taksit imkanı sağlandı.",
-      "content": "Toprak Mahsulleri Ofisi (TMO), kasım ayında piyasaya 5,5 milyon ton hububat arz edeceğini açıkladı. Satış fiyatlarında artış yapılmazken, 1 milyon ton yemlik buğday için vade farksız 90 gün veya kredi kartına üç taksit imkanı sağlandı."
-    },
-    {
-      "title": "Hayvancılıkta devlet eliyle büyük skandal: Sperma merkezinde karantina kuralı hiçe sayıldı!",
-      "url": "https://www.tarimdanhaber.com/hayvancilikta-devlet-eliyle-buyuk-skandal-sperma-merkezinde-karantina-kurali-hice-sayildi",
-      "source": "Tarımdan Haber",
-      "date": "2026-10-30",
-      "summary": "Türkiye’nin sperma üretimindeki tek devlet merkezi olan Lalahan Uluslararası Hayvancılık Araştırma ve Eğitim Merkezi’nde skandal bir ihmale imza atıldı. Bakan Yumaklı’nın yapacağı açılış öncesi Şanlıurfa'dan aceleyle getirilen 90 anaç hayvan, hiçbir karantina tedbiri uygulanmadan doğrudan üretim sah",
-      "content": "Türkiye’nin sperma üretimindeki tek devlet merkezi olan Lalahan Uluslararası Hayvancılık Araştırma ve Eğitim Merkezi’nde skandal bir ihmale imza atıldı. Bakan Yumaklı’nın yapacağı açılış öncesi Şanlıurfa'dan aceleyle getirilen 90 anaç hayvan, hiçbir karantina tedbiri uygulanmadan doğrudan üretim sahasına sokuldu. Şap hastalığı riski altındaki merkezde yaşanan bu başıboşluk, hastalıklı spermaların devlet eliyle 81 ile dağıtılma tehlikesini doğurdu."
     }
   ],
   "commoditiesByBorsa": {
