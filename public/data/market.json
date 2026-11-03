@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-03T09:34:26.025Z",
+  "updatedAt": "2026-11-03T17:16:41.427Z",
   "fx": [
     {
       "code": "USD",
@@ -12,32 +12,48 @@
       "code": "EUR",
       "name": "Euro",
       "buy": 55.99,
-      "sell": 55.99,
-      "change": 0.03
+      "sell": 56.01,
+      "change": 0.05
     },
     {
       "code": "GRA",
       "name": "Gram Altın",
-      "buy": 6278.42,
-      "sell": 6279.27,
-      "change": -0.95
+      "buy": 6316.62,
+      "sell": 6317.62,
+      "change": -0.35
     },
     {
       "code": "CEYREKALTIN",
       "name": "Çeyrek Altın",
-      "buy": 10072.37,
-      "sell": 10305.04,
-      "change": -0.59
+      "buy": 10233.52,
+      "sell": 10469.79,
+      "change": 1
     },
     {
       "code": "CUMHURIYETALTINI",
       "name": "Cumhuriyet Altını",
-      "buy": 41991,
-      "sell": 42628,
-      "change": 0.83
+      "buy": 42421,
+      "sell": 43058,
+      "change": 1.01
     }
   ],
   "news": [
+    {
+      "title": "Burdur Tarım ve Orman İl Müdürü Eyup Adıgüzel kimdir? Nereli, hangi görevlerde bulundu?",
+      "url": "https://www.tarimdanhaber.com/burdur-tarim-ve-orman-il-muduru-eyup-adiguzel-kimdir-nereli-hangi-gorevlerde-bulundu",
+      "source": "Tarımdan Haber",
+      "date": "2026-11-03",
+      "summary": "Veteriner hekim Eyup Adıgüzel, özel sektördeki çalışmalarının ardından kamu görevine Isparta’da başladı. İlçe müdürlüğü, il müdür yardımcılığı ve il müdür vekilliği görevlerini üstlenen Adıgüzel, 2023 yılında Burdur İl Tarım ve Orman Müdürlüğüne atandı.",
+      "content": "Veteriner hekim Eyup Adıgüzel, özel sektördeki çalışmalarının ardından kamu görevine Isparta’da başladı. İlçe müdürlüğü, il müdür yardımcılığı ve il müdür vekilliği görevlerini üstlenen Adıgüzel, 2023 yılında Burdur İl Tarım ve Orman Müdürlüğüne atandı."
+    },
+    {
+      "title": "Bolu Tarım ve Orman İl Müdürü Zekeriya Ar kimdir? Nereli, hangi görevlerde bulundu?",
+      "url": "https://www.tarimdanhaber.com/bolu-tarim-ve-orman-il-muduru-zekeriya-ar-kimdir-nereli-hangi-gorevlerde-bulundu",
+      "source": "Tarımdan Haber",
+      "date": "2026-11-03",
+      "summary": "Zekeriya Ar, ziraat teknisyeni olarak başladığı meslek hayatını veteriner hekimlik ve yöneticilik görevleriyle sürdürdü. 2023 yılında Bolu İl Tarım ve Orman Müdürlüğüne atanan Ar’ın eğitimi ve mesleki geçmişi…",
+      "content": "Zekeriya Ar, ziraat teknisyeni olarak başladığı meslek hayatını veteriner hekimlik ve yöneticilik görevleriyle sürdürdü. 2023 yılında Bolu İl Tarım ve Orman Müdürlüğüne atanan Ar’ın eğitimi ve mesleki geçmişi…"
+    },
     {
       "title": "Çiğ sütte korkutan tablo: Ekim ayı maliyeti 29,92 TL’ye yükseldi! USK sessizliğini korumaya devam ediyor",
       "url": "https://www.tarimdanhaber.com/cig-sutte-korkutan-tablo-ekim-ayi-maliyeti-2992-tlye-yukseldi-usk-sessizligini-korumaya-devam-ediyor",
@@ -85,22 +101,6 @@
       "date": "2026-10-31",
       "summary": "Türkiye Damızlık Sığır Yetiştiricileri Merkez Birliği Genel Başkanı İlhan Köten, 30 Ekim’de yapılan Ulusal Süt Konseyi toplantısında çiğ süt fiyatına ilişkin kararın önümüzdeki haftaya bırakıldığını açıkladı. Artan yem maliyetlerine dikkat çeken Köten, “Enflasyonla mücadelenin yolu süt fiyatlarını b",
       "content": "Türkiye Damızlık Sığır Yetiştiricileri Merkez Birliği Genel Başkanı İlhan Köten, 30 Ekim’de yapılan Ulusal Süt Konseyi toplantısında çiğ süt fiyatına ilişkin kararın önümüzdeki haftaya bırakıldığını açıkladı. Artan yem maliyetlerine dikkat çeken Köten, “Enflasyonla mücadelenin yolu süt fiyatlarını baskılamak değil, üreticinin emeğinin karşılığını almasını sağlamaktır” dedi."
-    },
-    {
-      "title": "TMO Kasım ayı buğday ve arpa satış fiyatları 2026: Tonu kaç liradan satılacak?",
-      "url": "https://www.tarimdanhaber.com/tmo-kasim-ayi-bugday-ve-arpa-satis-fiyatlari-2026-tonu-kac-liradan-satilacak",
-      "source": "Tarımdan Haber",
-      "date": "2026-10-31",
-      "summary": "TMO’nun 2 Kasım 2026’dan itibaren geçerli buğday ve arpa satış fiyatları belli oldu. Yerli ekmeklik ve makarnalık buğdayda ton fiyatları ürün koduna göre 16 bin 750 ile 18 bin 500 TL arasında değişirken, arpanın ton fiyatı 14 bin TL olarak açıklandı. İşte ürün gruplarına göre fiyatlar ve satışta dik",
-      "content": "TMO’nun 2 Kasım 2026’dan itibaren geçerli buğday ve arpa satış fiyatları belli oldu. Yerli ekmeklik ve makarnalık buğdayda ton fiyatları ürün koduna göre 16 bin 750 ile 18 bin 500 TL arasında değişirken, arpanın ton fiyatı 14 bin TL olarak açıklandı. İşte ürün gruplarına göre fiyatlar ve satışta dikkat edilecek ayrıntılar…"
-    },
-    {
-      "title": "Et kesim fiyatları 2026 | Güncel karkas et, dana ve kuzu kesim fiyatları",
-      "url": "https://www.tarimdanhaber.com/sigir-kesim-fiyatlari",
-      "source": "Tarımdan Haber",
-      "date": "2026-10-30",
-      "summary": "Et kesim fiyatları, ithalatla baskılanmaya devam ederken, UKON ve Bursa Damızlık Sığır Yetiştiricileri Birliği'nin yayınladığı en son et kesim fiyatları da bu baskılanmanın devam ettiğini ortaya koydu. UKON'un 30 Ekim haftasına ait dana ve kuzu kesim fiyatları sadece 3 lira artarken, Damızlık Birliğ",
-      "content": "Et kesim fiyatları, ithalatla baskılanmaya devam ederken, UKON ve Bursa Damızlık Sığır Yetiştiricileri Birliği'nin yayınladığı en son et kesim fiyatları da bu baskılanmanın devam ettiğini ortaya koydu. UKON'un 30 Ekim haftasına ait dana ve kuzu kesim fiyatları sadece 3 lira artarken, Damızlık Birliğinin yayınladığı güncel kesim fiyatlarında da sadece inek kesim fiyatı yükseldi, dana ve düve kesim fiyatları sabit kaldı."
     }
   ],
   "commoditiesByBorsa": {
