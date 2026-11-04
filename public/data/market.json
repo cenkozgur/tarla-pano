@@ -1,33 +1,33 @@
 {
-  "updatedAt": "2026-11-04T17:32:45.706Z",
+  "updatedAt": "2026-11-04T22:48:47.057Z",
   "fx": [
     {
       "code": "USD",
       "name": "Dolar",
-      "buy": 50.01,
-      "sell": 50.03,
-      "change": 0.05
+      "buy": 50.03,
+      "sell": 50.05,
+      "change": 0.04
     },
     {
       "code": "EUR",
       "name": "Euro",
-      "buy": 56.24,
-      "sell": 56.26,
-      "change": 0.46
+      "buy": 56.27,
+      "sell": 56.38,
+      "change": 0.2
     },
     {
       "code": "GRA",
       "name": "Gram Altın",
-      "buy": 6538.37,
-      "sell": 6539.16,
-      "change": 3.73
+      "buy": 6533.86,
+      "sell": 6534.68,
+      "change": -0.02
     },
     {
       "code": "CEYREKALTIN",
       "name": "Çeyrek Altın",
       "buy": 10443.16,
       "sell": 10681.97,
-      "change": 2.03
+      "change": 0
     },
     {
       "code": "CUMHURIYETALTINI",
@@ -38,6 +38,14 @@
     }
   ],
   "news": [
+    {
+      "title": "Bakanlıktan yeni hayvancılık projesi: Bir Sürü Olsun başvuruları başladı",
+      "url": "https://www.tarimdanhaber.com/bakanliktan-yeni-hayvancilik-projesi-bir-suru-olsun-basvurulari-basladi",
+      "source": "Tarımdan Haber",
+      "date": "2026-11-04",
+      "summary": "Tarım ve Orman Bakanlığı, aile işletmelerinin damızlık hayvan varlığını güçlendirmek için Bir Sürü Olsun Projesi’ni başlattı. Et ve Süt Kurumunun 15 gebe etçi ırk dişi ve 1 damızlık erkekten oluşan paketleri için başvurular 13 Kasım’a kadar alınacak. Satış fiyatını ve toplam kontenjanı ESK açıklayac",
+      "content": "Tarım ve Orman Bakanlığı, aile işletmelerinin damızlık hayvan varlığını güçlendirmek için Bir Sürü Olsun Projesi’ni başlattı. Et ve Süt Kurumunun 15 gebe etçi ırk dişi ve 1 damızlık erkekten oluşan paketleri için başvurular 13 Kasım’a kadar alınacak. Satış fiyatını ve toplam kontenjanı ESK açıklayacak."
+    },
     {
       "title": "Fon soruşturması eski defterleri açtı! Yunus Arıncı’nın DDK dönemindeki Tarım Kredi iddiaları yeniden gündemde",
       "url": "https://www.tarimdanhaber.com/fon-sorusturmasi-eski-defterleri-acti-yunus-arincinin-ddk-donemindeki-tarim-kredi-iddialari-yeniden-gundemde",
@@ -93,14 +101,6 @@
       "date": "2026-10-31",
       "summary": "2026’nın ilk dokuz ayında canlı büyükbaş hayvan ve kırmızı et ithalatına toplam 1 milyar 825 milyon dolar harcandı. Bu tutar, aynı dönemde bütçeden hayvancılık destekleme hizmetlerine aktarılan kaynağın dolar karşılığının 3,2 katına ulaştı. Dokuz aylık kırmızı et ithalatı da geçen yılın tamamını aşt",
       "content": "2026’nın ilk dokuz ayında canlı büyükbaş hayvan ve kırmızı et ithalatına toplam 1 milyar 825 milyon dolar harcandı. Bu tutar, aynı dönemde bütçeden hayvancılık destekleme hizmetlerine aktarılan kaynağın dolar karşılığının 3,2 katına ulaştı. Dokuz aylık kırmızı et ithalatı da geçen yılın tamamını aştı."
-    },
-    {
-      "title": "Karkas et fiyatlarında son durum: Çorum’da 660 TL paylaşımı, iller arasında dikkat çeken fark",
-      "url": "https://www.tarimdanhaber.com/karkas-et-fiyatlarinda-son-durum-corumda-660-tl-paylasimi-iller-arasinda-dikkat-ceken-fark",
-      "source": "Tarımdan Haber",
-      "date": "2026-10-31",
-      "summary": "Karkas et fiyatları için üreticilerin paylaştığı rakamlar iller arasında farklılaşıyor. Tarım Ziraat platformundaki yorumlarda Çorum için 650–660 TL, Afyonkarahisar ve Giresun için 650 TL, Kırşehir için ise 620 TL seviyeleri dile getirildi. Bazı paylaşımlarda kesim bedelinin 10–15 gün sonra ödendiği",
-      "content": "Karkas et fiyatları için üreticilerin paylaştığı rakamlar iller arasında farklılaşıyor. Tarım Ziraat platformundaki yorumlarda Çorum için 650–660 TL, Afyonkarahisar ve Giresun için 650 TL, Kırşehir için ise 620 TL seviyeleri dile getirildi. Bazı paylaşımlarda kesim bedelinin 10–15 gün sonra ödendiği belirtilirken, besiciler yem maliyetleri ve yerine hayvan koymanın güçlüğüne dikkat çekiyor."
     }
   ],
   "commoditiesByBorsa": {
