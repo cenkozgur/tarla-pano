@@ -1,43 +1,51 @@
 {
-  "updatedAt": "2026-11-05T18:12:09.570Z",
+  "updatedAt": "2026-11-05T23:38:58.204Z",
   "fx": [
     {
       "code": "USD",
       "name": "Dolar",
-      "buy": 50041,
-      "sell": 50055,
-      "change": 6
+      "buy": 50.15,
+      "sell": 50.16,
+      "change": 0.21
     },
     {
       "code": "EUR",
       "name": "Euro",
-      "buy": 563578,
-      "sell": 56386,
-      "change": 28
+      "buy": 56.32,
+      "sell": 56.37,
+      "change": 0.13
     },
     {
       "code": "GRA",
       "name": "Gram Altın",
-      "buy": 659954,
-      "sell": 660054,
-      "change": 99
+      "buy": 6597.77,
+      "sell": 6598.77,
+      "change": 0.04
     },
     {
       "code": "CEYREKALTIN",
       "name": "Çeyrek Altın",
-      "buy": 1063385,
-      "sell": 1087687,
-      "change": 182
+      "buy": 10633.85,
+      "sell": 10876.87,
+      "change": 0
     },
     {
       "code": "CUMHURIYETALTINI",
       "name": "Cumhuriyet Altını",
       "buy": 43968,
       "sell": 44635,
-      "change": 156
+      "change": 1.56
     }
   ],
   "news": [
+    {
+      "title": "TMO’dan \"Lojistik ve Stok\" gerekçesiyle dev mısır ithalatı! 7 liman için ihale ilanı yayımlandı",
+      "url": "https://www.tarimdanhaber.com/tmodan-lojistik-ve-stok-gerekcesiyle-dev-misir-ithalati-7-liman-icin-ihale-ilani-yayimlandi",
+      "source": "Tarımdan Haber",
+      "date": "2026-11-05",
+      "summary": "Toprak Mahsulleri Ofisi (TMO), yurt içi mısır rekoltesinin 8,1 milyon ton düzeyinde beklendiğini ancak Rusya-Ukrayna savaşındaki lojistik aksamalar ve artan yem sektörü talebi nedeniyle stok takviyesine gidildiğini duyurdu. Açıklamanın hemen ardından TMO, 7 ayrı liman/teslimat noktası üzerinden topl",
+      "content": "Toprak Mahsulleri Ofisi (TMO), yurt içi mısır rekoltesinin 8,1 milyon ton düzeyinde beklendiğini ancak Rusya-Ukrayna savaşındaki lojistik aksamalar ve artan yem sektörü talebi nedeniyle stok takviyesine gidildiğini duyurdu. Açıklamanın hemen ardından TMO, 7 ayrı liman/teslimat noktası üzerinden toplam 295 bin ton yemlik mısır ithalatı için ihale açtı."
+    },
     {
       "title": "Meclis'te GÜBRETAŞ depremi! Turhan Çömez: \"Fahrettin Poyraz'ın gizli kasası Adnan Yüce incelensin\"",
       "url": "https://www.tarimdanhaber.com/mecliste-gubretas-depremi-turhan-comez-fahrettin-poyrazin-gizli-kasasi-adnan-yuce-incelensin",
@@ -93,14 +101,6 @@
       "date": "2026-11-02",
       "summary": "TÜSEDAD Ekim ayı verilerini açıkladı: 1 litre sıcak çiğ süt üretim maliyeti 29,92 TL’ye ulaştı. Ulusal Süt Konseyi’nin tavsiye fiyatı açıklamayı ertelemesi üreticiyi sürü küçültme riskiyle baş başa bırakıyor.",
       "content": "TÜSEDAD Ekim ayı verilerini açıkladı: 1 litre sıcak çiğ süt üretim maliyeti 29,92 TL’ye ulaştı. Ulusal Süt Konseyi’nin tavsiye fiyatı açıklamayı ertelemesi üreticiyi sürü küçültme riskiyle baş başa bırakıyor."
-    },
-    {
-      "title": "Çiftçinin enerji hesabı Antalya’da masaya geliyor! GES yatırımı düşünen çiftçilere davet",
-      "url": "https://www.tarimdanhaber.com/ciftcinin-enerji-hesabi-antalyada-masaya-geliyor-ges-yatirimi-dusunen-ciftcilere-davet",
-      "source": "Tarımdan Haber",
-      "date": "2026-11-02",
-      "summary": "Tarımsal sulamada güneş enerjisine geçmek isteyen çiftçiler için kapasite, maliyet, izinler ve yatırımın geri dönüşü belirleyici oluyor. 5–7 Kasım 2026’da Antalya ANFAŞ Fuar Merkezi’nde gerçekleştirilecek EIF, üreticilere enerji ihtiyaçları ve yatırım seçenekleri hakkında firmalarla görüşme fırsatı ",
-      "content": "Tarımsal sulamada güneş enerjisine geçmek isteyen çiftçiler için kapasite, maliyet, izinler ve yatırımın geri dönüşü belirleyici oluyor. 5–7 Kasım 2026’da Antalya ANFAŞ Fuar Merkezi’nde gerçekleştirilecek EIF, üreticilere enerji ihtiyaçları ve yatırım seçenekleri hakkında firmalarla görüşme fırsatı sunacak."
     }
   ],
   "commoditiesByBorsa": {
