@@ -1,43 +1,59 @@
 {
-  "updatedAt": "2026-11-05T10:31:13.294Z",
+  "updatedAt": "2026-11-05T18:12:09.570Z",
   "fx": [
     {
       "code": "USD",
       "name": "Dolar",
-      "buy": 50.03,
-      "sell": 50.05,
-      "change": 0.04
+      "buy": 50041,
+      "sell": 50055,
+      "change": 6
     },
     {
       "code": "EUR",
       "name": "Euro",
-      "buy": 56.27,
-      "sell": 56.38,
-      "change": 0.2
+      "buy": 563578,
+      "sell": 56386,
+      "change": 28
     },
     {
       "code": "GRA",
       "name": "Gram Altın",
-      "buy": 6533.86,
-      "sell": 6534.68,
-      "change": -0.02
+      "buy": 659954,
+      "sell": 660054,
+      "change": 99
     },
     {
       "code": "CEYREKALTIN",
       "name": "Çeyrek Altın",
-      "buy": 10443.16,
-      "sell": 10681.97,
-      "change": 0
+      "buy": 1063385,
+      "sell": 1087687,
+      "change": 182
     },
     {
       "code": "CUMHURIYETALTINI",
       "name": "Cumhuriyet Altını",
-      "buy": 43298,
-      "sell": 43951,
-      "change": 2.07
+      "buy": 43968,
+      "sell": 44635,
+      "change": 156
     }
   ],
   "news": [
+    {
+      "title": "Meclis'te GÜBRETAŞ depremi! Turhan Çömez: \"Fahrettin Poyraz'ın gizli kasası Adnan Yüce incelensin\"",
+      "url": "https://www.tarimdanhaber.com/mecliste-gubretas-depremi-turhan-comez-fahrettin-poyrazin-gizli-kasasi-adnan-yuce-incelensin",
+      "source": "Tarımdan Haber",
+      "date": "2026-11-05",
+      "summary": "Adalet Bakanı Akın Gürlek’e yönelik “Fon krizi araştırılırken GÜBRETAŞ’ın 2019-2022 dönemi de incelensin” çağrımız TBMM Genel Kurulu’nda yankı buldu. İYİ Parti Grup Başkanvekili Turhan Çömez, Tarım Kredi Kooperatifleri’ndeki hukuksuzlukları ve Fahrettin Poyraz’ın \"gizli kasası\" Adnan Yüce’nin borsad",
+      "content": "Adalet Bakanı Akın Gürlek’e yönelik “Fon krizi araştırılırken GÜBRETAŞ’ın 2019-2022 dönemi de incelensin” çağrımız TBMM Genel Kurulu’nda yankı buldu. İYİ Parti Grup Başkanvekili Turhan Çömez, Tarım Kredi Kooperatifleri’ndeki hukuksuzlukları ve Fahrettin Poyraz’ın \"gizli kasası\" Adnan Yüce’nin borsadaki manipülasyon iddialarını Meclis kürsüsünden tarihe not düştü."
+    },
+    {
+      "title": "TÜRKŞEKER’de 'Revizyon' perdesi: 146 milyonluk kamu zararı ve üretim skandalı belgelendi!",
+      "url": "https://www.tarimdanhaber.com/turksekerde-revizyon-perdesi-146-milyonluk-kamu-zarari-ve-uretim-skandali-belgelendi",
+      "source": "Tarımdan Haber",
+      "date": "2026-11-05",
+      "summary": "Türkşeker’in Burdur Şeker Fabrikası’ndaki kriz ve gecikmeleri \"30 yılın revizyonu\" diyerek perdelemeye çalıştığı skandal belgelendi! Fabrika sezona yetiştirilemeyince 92 bin ton pancar Susurluk’a taşınarak, kamuya 146 milyon TL ek fatura kesildi. Üstelik üretime açıldığı duyurulan fabrikada çarklar ",
+      "content": "Türkşeker’in Burdur Şeker Fabrikası’ndaki kriz ve gecikmeleri \"30 yılın revizyonu\" diyerek perdelemeye çalıştığı skandal belgelendi! Fabrika sezona yetiştirilemeyince 92 bin ton pancar Susurluk’a taşınarak, kamuya 146 milyon TL ek fatura kesildi. Üstelik üretime açıldığı duyurulan fabrikada çarklar hala tam dönmüyor, milli servet küspede heba oluyor."
+    },
     {
       "title": "Bakanlıktan yeni hayvancılık projesi: Bir Sürü Olsun başvuruları başladı",
       "url": "https://www.tarimdanhaber.com/bakanliktan-yeni-hayvancilik-projesi-bir-suru-olsun-basvurulari-basladi",
@@ -85,22 +101,6 @@
       "date": "2026-11-02",
       "summary": "Tarımsal sulamada güneş enerjisine geçmek isteyen çiftçiler için kapasite, maliyet, izinler ve yatırımın geri dönüşü belirleyici oluyor. 5–7 Kasım 2026’da Antalya ANFAŞ Fuar Merkezi’nde gerçekleştirilecek EIF, üreticilere enerji ihtiyaçları ve yatırım seçenekleri hakkında firmalarla görüşme fırsatı ",
       "content": "Tarımsal sulamada güneş enerjisine geçmek isteyen çiftçiler için kapasite, maliyet, izinler ve yatırımın geri dönüşü belirleyici oluyor. 5–7 Kasım 2026’da Antalya ANFAŞ Fuar Merkezi’nde gerçekleştirilecek EIF, üreticilere enerji ihtiyaçları ve yatırım seçenekleri hakkında firmalarla görüşme fırsatı sunacak."
-    },
-    {
-      "title": "Buğday ve arpa eken çiftçiye önemli düzenleme: Kuru tarımda art arda ekim yapılabilecek!",
-      "url": "https://www.tarimdanhaber.com/bugday-ve-arpa-eken-ciftciye-onemli-duzenleme-kuru-tarimda-art-arda-ekim-yapilabilecek",
-      "source": "Tarımdan Haber",
-      "date": "2026-11-02",
-      "summary": "Tarım ve Orman Bakanlığı, bitkisel üretim desteklerine ilişkin tebliğde değişiklik yaptı. Kuru tarım parsellerinde buğday, arpa, çavdar, tritikale ve yulafın art arda ekilebilmesine ilişkin hüküm getirildi. Düzenleme 1 Ocak 2027’de yürürlüğe girecek.",
-      "content": "Tarım ve Orman Bakanlığı, bitkisel üretim desteklerine ilişkin tebliğde değişiklik yaptı. Kuru tarım parsellerinde buğday, arpa, çavdar, tritikale ve yulafın art arda ekilebilmesine ilişkin hüküm getirildi. Düzenleme 1 Ocak 2027’de yürürlüğe girecek."
-    },
-    {
-      "title": "Hayvan ve et ithalatına 1,8 milyar dolar! Yerli hayvancılık desteğinin 3,2 katı",
-      "url": "https://www.tarimdanhaber.com/hayvan-ve-et-ithalatina-18-milyar-dolar-yerli-hayvancilik-desteginin-32-kati",
-      "source": "Tarımdan Haber",
-      "date": "2026-10-31",
-      "summary": "2026’nın ilk dokuz ayında canlı büyükbaş hayvan ve kırmızı et ithalatına toplam 1 milyar 825 milyon dolar harcandı. Bu tutar, aynı dönemde bütçeden hayvancılık destekleme hizmetlerine aktarılan kaynağın dolar karşılığının 3,2 katına ulaştı. Dokuz aylık kırmızı et ithalatı da geçen yılın tamamını aşt",
-      "content": "2026’nın ilk dokuz ayında canlı büyükbaş hayvan ve kırmızı et ithalatına toplam 1 milyar 825 milyon dolar harcandı. Bu tutar, aynı dönemde bütçeden hayvancılık destekleme hizmetlerine aktarılan kaynağın dolar karşılığının 3,2 katına ulaştı. Dokuz aylık kırmızı et ithalatı da geçen yılın tamamını aştı."
     }
   ],
   "commoditiesByBorsa": {
@@ -307,7 +307,6 @@
   "note": "Fiyatlar TOBB ticaret borsasından (borsa seçilebilir). Kanola manuel (Trakya 2025).",
   "inputsNote": "Mazot: akaryakıt bayi fiyatı, günlük (şehir seçilebilir). Gübre: manuel (yaklaşık).",
   "errors": [
-    "fx: fetch failed",
     "borsa 5ED10: fetch failed",
     "borsa 5KO10: fetch failed",
     "borsa 5ES10: fetch failed"
