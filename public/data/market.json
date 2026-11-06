@@ -1,40 +1,40 @@
 {
-  "updatedAt": "2026-11-06T18:19:40.112Z",
+  "updatedAt": "2026-11-06T23:15:53.400Z",
   "fx": [
     {
       "code": "USD",
       "name": "Dolar",
-      "buy": 501451,
-      "sell": 501575,
-      "change": 21
+      "buy": 50.14,
+      "sell": 50.16,
+      "change": 0.2
     },
     {
       "code": "EUR",
       "name": "Euro",
-      "buy": 559348,
-      "sell": 559533,
-      "change": -58
+      "buy": 55.91,
+      "sell": 55.94,
+      "change": -0.62
     },
     {
       "code": "GRA",
       "name": "Gram Altın",
-      "buy": 654822,
-      "sell": 654911,
-      "change": -71
+      "buy": 6555.36,
+      "sell": 6556.39,
+      "change": -0.6
     },
     {
       "code": "CEYREKALTIN",
       "name": "Çeyrek Altın",
-      "buy": 1045525,
-      "sell": 1069647,
-      "change": -166
+      "buy": 10455.25,
+      "sell": 10696.47,
+      "change": -1.66
     },
     {
       "code": "CUMHURIYETALTINI",
       "name": "Cumhuriyet Altını",
       "buy": 43414,
       "sell": 44073,
-      "change": -126
+      "change": -1.26
     }
   ],
   "news": [
@@ -254,24 +254,24 @@
     }
   ],
   "dieselByCity": {
-    "ANKARA": 101.5,
-    "ISTANBUL": 100.35,
-    "IZMIR": 101.8,
-    "KONYA": 102.7,
-    "ADANA": 102.4,
-    "BURSA": 101.4,
-    "ANTALYA": 102.9,
-    "SAMSUN": 102.1,
-    "TEKIRDAG": 101.3,
-    "CANAKKALE": 102.2
+    "ANKARA": 96.2,
+    "ISTANBUL": 95.05,
+    "IZMIR": 96.5,
+    "KONYA": 97.4,
+    "ADANA": 97.1,
+    "BURSA": 96.1,
+    "ANTALYA": 97.6,
+    "SAMSUN": 96.8,
+    "TEKIRDAG": 96,
+    "CANAKKALE": 96.9
   },
   "inputs": [
     {
       "key": "motorin",
       "name": "Motorin (mazot)",
       "unit": "₺/lt",
-      "price": 102.2,
-      "change": 0,
+      "price": 96.9,
+      "change": -5.19,
       "source": "CANAKKALE ort."
     },
     {
