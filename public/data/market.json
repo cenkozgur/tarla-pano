@@ -1,43 +1,59 @@
 {
-  "updatedAt": "2026-11-09T05:26:14.835Z",
+  "updatedAt": "2026-11-09T14:12:43.199Z",
   "fx": [
     {
       "code": "USD",
       "name": "Dolar",
-      "buy": 50.16,
-      "sell": 50.19,
-      "change": 0.05
+      "buy": 50.18,
+      "sell": 50.18,
+      "change": 0.06
     },
     {
       "code": "EUR",
       "name": "Euro",
-      "buy": 56.04,
-      "sell": 56.1,
-      "change": 0.26
+      "buy": 56.26,
+      "sell": 56.27,
+      "change": 0.61
     },
     {
       "code": "GRA",
       "name": "Gram Altın",
-      "buy": 6650.19,
-      "sell": 6651.2,
-      "change": 1.45
+      "buy": 6647.74,
+      "sell": 6648.74,
+      "change": 1.41
     },
     {
       "code": "CEYREKALTIN",
       "name": "Çeyrek Altın",
-      "buy": 10542.5,
-      "sell": 10783.52,
-      "change": 0
+      "buy": 10645.32,
+      "sell": 10888.61,
+      "change": 0.97
     },
     {
       "code": "CUMHURIYETALTINI",
       "name": "Cumhuriyet Altını",
-      "buy": 43400,
-      "sell": 44056,
-      "change": -0.04
+      "buy": 44122,
+      "sell": 44785,
+      "change": 1.65
     }
   ],
   "news": [
+    {
+      "title": "Fındıkta 'Fındık Gibi' kazanç: Üretici zararda, ihracatçı köşeyi dönüyor!",
+      "url": "https://www.tarimdanhaber.com/findikta-findik-gibi-kazanc-uretici-zararda-ihracatci-koseyi-donuyor",
+      "source": "Tarımdan Haber",
+      "date": "2026-11-09",
+      "summary": "TMO'nun 250 liralık alım fiyatına rağmen serbest piyasada 150 liraya fındık satmak zorunda kalan üretici kan ağlarken, ihracatçı firmalar kiloda 2 dolar kar elde ediyor. 600 bin tonluk ihracat sezonunda Ferrero'nun da başı çektiği piyasada aradaki 100 liralık fark üreticinin değil ihracatçının kasas",
+      "content": "TMO'nun 250 liralık alım fiyatına rağmen serbest piyasada 150 liraya fındık satmak zorunda kalan üretici kan ağlarken, ihracatçı firmalar kiloda 2 dolar kar elde ediyor. 600 bin tonluk ihracat sezonunda Ferrero'nun da başı çektiği piyasada aradaki 100 liralık fark üreticinin değil ihracatçının kasasına giriyor."
+    },
+    {
+      "title": "Ticaret borsalarında hububat fiyatları açıklandı: 1 ton buğday kaç TL oldu? Güncel arpa ve mısır fiyatları",
+      "url": "https://www.tarimdanhaber.com/ticaret-borsalarinda-hububat-fiyatlari-aciklandi-1-ton-bugday-kac-tl-oldu-guncel-arpa-ve-misir-fiyatlari",
+      "source": "Tarımdan Haber",
+      "date": "2026-11-09",
+      "summary": "Ticaret borsalarında haftalık hububat fiyatları belli oldu! \"1 ton buğday kaç TL?\", \"Güncel arpa fiyatları ne kadar?\" soruları yanıt buldu. 09 Kasım 2026 borsa verilerine göre ekmeklik buğday 17.487 TL'ye yükselirken, arpa ve mısır fiyatlarındaki değişim dikkat çekti. İşte detaylı fiyat karşılaştırm",
+      "content": "Ticaret borsalarında haftalık hububat fiyatları belli oldu! \"1 ton buğday kaç TL?\", \"Güncel arpa fiyatları ne kadar?\" soruları yanıt buldu. 09 Kasım 2026 borsa verilerine göre ekmeklik buğday 17.487 TL'ye yükselirken, arpa ve mısır fiyatlarındaki değişim dikkat çekti. İşte detaylı fiyat karşılaştırması..."
+    },
     {
       "title": "Yunak'ın gururu: Ziraat mühendisi Fatmanur Ünalan tarlada ezber bozuyor",
       "url": "https://www.tarimdanhaber.com/yunakin-gururu-ziraat-muhendisi-fatmanur-unalan-tarlada-ezber-bozuyor",
@@ -85,22 +101,6 @@
       "date": "2026-11-07",
       "summary": "Toprak Mahsulleri Ofisi'nin (TMO) fındıkta ÇKS istismarını önlemeye yönelik tüccar yasağı kararını değerlendiren Tarım Politikaları Uzmanı Ergin Kahveci, kararı \"doğru ve yerinde\" bulmakla birlikte sistemin temelden arızalı olduğuna dikkat çekti. Kahveci, \"Regülasyon kurumlarını sadece satın alma ku",
       "content": "Toprak Mahsulleri Ofisi'nin (TMO) fındıkta ÇKS istismarını önlemeye yönelik tüccar yasağı kararını değerlendiren Tarım Politikaları Uzmanı Ergin Kahveci, kararı \"doğru ve yerinde\" bulmakla birlikte sistemin temelden arızalı olduğuna dikkat çekti. Kahveci, \"Regülasyon kurumlarını sadece satın alma kurumu gibi görmek, agroekonomik politika metodolojisinin yanlışlığından kaynaklanıyor\" dedi."
-    },
-    {
-      "title": "Konya Şeker’e bağlı Kangal Termik Santrali’nde şok karar: Üretim tamamen durdu, 950 işçi izne çıkarılıyor!",
-      "url": "https://www.tarimdanhaber.com/konya-sekere-bagli-kangal-termik-santralinde-sok-karar-uretim-tamamen-durdu-950-isci-izne-cikariliyor",
-      "source": "Tarımdan Haber",
-      "date": "2026-11-07",
-      "summary": "Sivas’ın Kangal ilçesinde 37 yıldır faaliyette bulunan dev termik santralde şalterler indirildi. Kömür tedarikçisinin alacaklarını tahsil edemediği gerekçesiyle sevkiyatı durdurması ve tesisteki teknik arızalar nedeniyle elektrik üretimi tamamen kesildi. Şirket, santraldeki yaklaşık 950 çalışanı önc",
-      "content": "Sivas’ın Kangal ilçesinde 37 yıldır faaliyette bulunan dev termik santralde şalterler indirildi. Kömür tedarikçisinin alacaklarını tahsil edemediği gerekçesiyle sevkiyatı durdurması ve tesisteki teknik arızalar nedeniyle elektrik üretimi tamamen kesildi. Şirket, santraldeki yaklaşık 950 çalışanı önce yıllık izne, ardından ücretsiz izne çıkarma kararı aldı."
-    },
-    {
-      "title": "TMO’dan ÇKS sahtekarlığı yapan tüccara soruşturma uyarısı: 2 yıl men ve suç duyurusu geliyor!",
-      "url": "https://www.tarimdanhaber.com/tmodan-cks-sahtekarligi-yapan-tuccara-sorusturma-uyarisi-2-yil-men-ve-suc-duyurusu-geliyor",
-      "source": "Tarımdan Haber",
-      "date": "2026-11-07",
-      "summary": "Toprak Mahsulleri Ofisi (TMO), Çiftçi Kayıt Sistemi (ÇKS) belgelerini kullanarak haksız kazanç sağlamaya çalışan tüccar ve manavlara karşı savaş açtı. Belgesini tüccara kullandıran çiftçiye 2 yıl alım yasağı getirilirken, usulsüzlük yapanlar hakkında TCK kapsamında Cumhuriyet Başsavcılıklarına suç d",
-      "content": "Toprak Mahsulleri Ofisi (TMO), Çiftçi Kayıt Sistemi (ÇKS) belgelerini kullanarak haksız kazanç sağlamaya çalışan tüccar ve manavlara karşı savaş açtı. Belgesini tüccara kullandıran çiftçiye 2 yıl alım yasağı getirilirken, usulsüzlük yapanlar hakkında TCK kapsamında Cumhuriyet Başsavcılıklarına suç duyurusunda bulunulacak."
     }
   ],
   "commoditiesByBorsa": {
