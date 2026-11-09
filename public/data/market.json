@@ -1,33 +1,33 @@
 {
-  "updatedAt": "2026-11-09T14:12:43.199Z",
+  "updatedAt": "2026-11-09T23:26:50.743Z",
   "fx": [
     {
       "code": "USD",
       "name": "Dolar",
-      "buy": 50.18,
-      "sell": 50.18,
-      "change": 0.06
+      "buy": 50.21,
+      "sell": 50.23,
+      "change": 0.08
     },
     {
       "code": "EUR",
       "name": "Euro",
-      "buy": 56.26,
-      "sell": 56.27,
-      "change": 0.61
+      "buy": 56.34,
+      "sell": 56.39,
+      "change": -0.03
     },
     {
       "code": "GRA",
       "name": "Gram Altın",
-      "buy": 6647.74,
-      "sell": 6648.74,
-      "change": 1.41
+      "buy": 6686.32,
+      "sell": 6687.18,
+      "change": 0.08
     },
     {
       "code": "CEYREKALTIN",
       "name": "Çeyrek Altın",
       "buy": 10645.32,
       "sell": 10888.61,
-      "change": 0.97
+      "change": 0
     },
     {
       "code": "CUMHURIYETALTINI",
@@ -38,6 +38,22 @@
     }
   ],
   "news": [
+    {
+      "title": "TMO'dan dev ihale kararı: 500 bin ton arz fazlası buğday ihraç edilecek!",
+      "url": "https://www.tarimdanhaber.com/tmodan-dev-ihale-karari-500-bin-ton-arz-fazlasi-bugday-ihrac-edilecek",
+      "source": "Tarımdan Haber",
+      "date": "2026-11-09",
+      "summary": "Toprak Mahsulleri Ofisi (TMO), rekor buğday üretimi sonrasında oluşan arz fazlasını ihraç etmek için harekete geçti. TMO, 17-18 Kasım 2026 tarihlerinde toplam 500 bin ton ekmeklik ve makarnalık buğday ihracatı için ihale düzenleyecek.",
+      "content": "Toprak Mahsulleri Ofisi (TMO), rekor buğday üretimi sonrasında oluşan arz fazlasını ihraç etmek için harekete geçti. TMO, 17-18 Kasım 2026 tarihlerinde toplam 500 bin ton ekmeklik ve makarnalık buğday ihracatı için ihale düzenleyecek."
+    },
+    {
+      "title": "Tarımdan Haber gündeme taşımıştı: Kotaya ve küspeye çöken şebeke tutuklandı",
+      "url": "https://www.tarimdanhaber.com/tarimdan-haber-gundeme-tasimisti-kotaya-ve-kuspeye-coken-sebeke-tutuklandi",
+      "source": "Tarımdan Haber",
+      "date": "2026-11-09",
+      "summary": "Tarımdan Haber'in ortaya çıkardığı Konya Şeker'in Çumra bölgesindeki pancar kotası ve küspe vurgununda sıcak gelişme! Çiftçileri zarara uğratan Konya Şeker'in 11 eski personeli Jandarma operasyonuyla tutuklanırken, şüphelilerin 1,2 milyar lirayı aşan banka hesap hareketliliği tespit edilerek ev ve a",
+      "content": "Tarımdan Haber'in ortaya çıkardığı Konya Şeker'in Çumra bölgesindeki pancar kotası ve küspe vurgununda sıcak gelişme! Çiftçileri zarara uğratan Konya Şeker'in 11 eski personeli Jandarma operasyonuyla tutuklanırken, şüphelilerin 1,2 milyar lirayı aşan banka hesap hareketliliği tespit edilerek ev ve araçlarına el konuldu."
+    },
     {
       "title": "Fındıkta 'Fındık Gibi' kazanç: Üretici zararda, ihracatçı köşeyi dönüyor!",
       "url": "https://www.tarimdanhaber.com/findikta-findik-gibi-kazanc-uretici-zararda-ihracatci-koseyi-donuyor",
@@ -85,22 +101,6 @@
       "date": "2026-11-07",
       "summary": "Tarım ve Orman Bakanlığı, 2026-2027 üretim yılı A kotası şeker pancarı alım fiyatını kota tamamlama primi dahil ton başına 3.720 TL olarak duyururken, C pancarı alım fiyatını hala açıklamadı. Bakanlığın fiyat belirlememesi nedeniyle özel fabrikalar ve kooperatifler de rakam açıklamazken, kotasını aş",
       "content": "Tarım ve Orman Bakanlığı, 2026-2027 üretim yılı A kotası şeker pancarı alım fiyatını kota tamamlama primi dahil ton başına 3.720 TL olarak duyururken, C pancarı alım fiyatını hala açıklamadı. Bakanlığın fiyat belirlememesi nedeniyle özel fabrikalar ve kooperatifler de rakam açıklamazken, kotasını aşan üretici ürününü kaça satacağını bilemiyor."
-    },
-    {
-      "title": "Türkşeker’de pes dedirten ihale! Kaçak pancar dosyasındaki firma 145 milyonluk ihaleye katıldı",
-      "url": "https://www.tarimdanhaber.com/turksekerde-pes-dedirten-ihale-kacak-pancar-dosyasindaki-firma-145-milyonluk-ihaleye-katildi",
-      "source": "Tarımdan Haber",
-      "date": "2026-11-07",
-      "summary": "Burdur Şeker Fabrikası’ndaki bakımın zamanında bitirilememesi nedeniyle 92 bin ton pancarın Balıkesir’e taşınması kararlaştırılırken, KDV hariç 145,8 milyon TL’lik nakliye ihalesine giren firmalar adeta 'bu kadarına da pes' dedirtti. Tarım Bakanı Yumaklı’nın kaçak pancarla ilgili rahatsızlığı bilini",
-      "content": "Burdur Şeker Fabrikası’ndaki bakımın zamanında bitirilememesi nedeniyle 92 bin ton pancarın Balıkesir’e taşınması kararlaştırılırken, KDV hariç 145,8 milyon TL’lik nakliye ihalesine giren firmalar adeta 'bu kadarına da pes' dedirtti. Tarım Bakanı Yumaklı’nın kaçak pancarla ilgili rahatsızlığı bilinirken, Karapınar’dan Çorum’a organize pancar kaçakçılığı yaptığı belgelerle kanıtlanan UMH Tarım’ın Türkşeker ihalesine elini kolunu sallayarak katılması skandalı yeni bir boyuta taşıdı."
-    },
-    {
-      "title": "Tarım Politakaları Uzmanı Ergin Kahveci’den TMO’nun fındık kararına çarpıcı analiz: \"Karar doğru ama sistem yanlış!\"",
-      "url": "https://www.tarimdanhaber.com/tarim-politakalari-uzmani-ergin-kahveciden-tmonun-findik-kararina-carpici-analiz-karar-dogru-ama-sistem-yanlis",
-      "source": "Tarımdan Haber",
-      "date": "2026-11-07",
-      "summary": "Toprak Mahsulleri Ofisi'nin (TMO) fındıkta ÇKS istismarını önlemeye yönelik tüccar yasağı kararını değerlendiren Tarım Politikaları Uzmanı Ergin Kahveci, kararı \"doğru ve yerinde\" bulmakla birlikte sistemin temelden arızalı olduğuna dikkat çekti. Kahveci, \"Regülasyon kurumlarını sadece satın alma ku",
-      "content": "Toprak Mahsulleri Ofisi'nin (TMO) fındıkta ÇKS istismarını önlemeye yönelik tüccar yasağı kararını değerlendiren Tarım Politikaları Uzmanı Ergin Kahveci, kararı \"doğru ve yerinde\" bulmakla birlikte sistemin temelden arızalı olduğuna dikkat çekti. Kahveci, \"Regülasyon kurumlarını sadece satın alma kurumu gibi görmek, agroekonomik politika metodolojisinin yanlışlığından kaynaklanıyor\" dedi."
     }
   ],
   "commoditiesByBorsa": {
