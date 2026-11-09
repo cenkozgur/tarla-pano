@@ -1,26 +1,26 @@
 {
-  "updatedAt": "2026-11-08T23:55:10.145Z",
+  "updatedAt": "2026-11-09T05:26:14.835Z",
   "fx": [
     {
       "code": "USD",
       "name": "Dolar",
-      "buy": 50.14,
-      "sell": 50.18,
-      "change": 0.02
+      "buy": 50.16,
+      "sell": 50.19,
+      "change": 0.05
     },
     {
       "code": "EUR",
       "name": "Euro",
-      "buy": 55.96,
-      "sell": 56.04,
-      "change": 0.14
+      "buy": 56.04,
+      "sell": 56.1,
+      "change": 0.26
     },
     {
       "code": "GRA",
       "name": "Gram Altın",
-      "buy": 6547.57,
-      "sell": 6548.36,
-      "change": -0.12
+      "buy": 6650.19,
+      "sell": 6651.2,
+      "change": 1.45
     },
     {
       "code": "CEYREKALTIN",
@@ -38,6 +38,14 @@
     }
   ],
   "news": [
+    {
+      "title": "Yunak'ın gururu: Ziraat mühendisi Fatmanur Ünalan tarlada ezber bozuyor",
+      "url": "https://www.tarimdanhaber.com/yunakin-gururu-ziraat-muhendisi-fatmanur-unalan-tarlada-ezber-bozuyor",
+      "source": "Tarımdan Haber",
+      "date": "2026-11-08",
+      "summary": "Konya’nın Yunak ilçesinde çocuk yaşlarda traktör direksiyonuna geçen Fatmanur Ünalan, Ege Üniversitesi Ziraat Fakültesi’ni bitirdikten sonra memleketine dönerek üretimin başına geçti. Karayayla Mahallesi’nde traktör kullanan ilk kız çocuğu olan genç ziraat mühendisi, hem bilimin ışığında üretim yapı",
+      "content": "Konya’nın Yunak ilçesinde çocuk yaşlarda traktör direksiyonuna geçen Fatmanur Ünalan, Ege Üniversitesi Ziraat Fakültesi’ni bitirdikten sonra memleketine dönerek üretimin başına geçti. Karayayla Mahallesi’nde traktör kullanan ilk kız çocuğu olan genç ziraat mühendisi, hem bilimin ışığında üretim yapıyor hem de bölgedeki kız çocuklarına ilham veriyor."
+    },
     {
       "title": "Et kesim fiyatları 2026 | Güncel karkas et, dana ve kuzu kesim fiyatları",
       "url": "https://www.tarimdanhaber.com/sigir-kesim-fiyatlari",
@@ -93,14 +101,6 @@
       "date": "2026-11-07",
       "summary": "Toprak Mahsulleri Ofisi (TMO), Çiftçi Kayıt Sistemi (ÇKS) belgelerini kullanarak haksız kazanç sağlamaya çalışan tüccar ve manavlara karşı savaş açtı. Belgesini tüccara kullandıran çiftçiye 2 yıl alım yasağı getirilirken, usulsüzlük yapanlar hakkında TCK kapsamında Cumhuriyet Başsavcılıklarına suç d",
       "content": "Toprak Mahsulleri Ofisi (TMO), Çiftçi Kayıt Sistemi (ÇKS) belgelerini kullanarak haksız kazanç sağlamaya çalışan tüccar ve manavlara karşı savaş açtı. Belgesini tüccara kullandıran çiftçiye 2 yıl alım yasağı getirilirken, usulsüzlük yapanlar hakkında TCK kapsamında Cumhuriyet Başsavcılıklarına suç duyurusunda bulunulacak."
-    },
-    {
-      "title": "TMO’dan \"Lojistik ve Stok\" gerekçesiyle dev mısır ithalatı! 7 liman için ihale ilanı yayımlandı",
-      "url": "https://www.tarimdanhaber.com/tmodan-lojistik-ve-stok-gerekcesiyle-dev-misir-ithalati-7-liman-icin-ihale-ilani-yayimlandi",
-      "source": "Tarımdan Haber",
-      "date": "2026-11-05",
-      "summary": "Toprak Mahsulleri Ofisi (TMO), yurt içi mısır rekoltesinin 8,1 milyon ton düzeyinde beklendiğini ancak Rusya-Ukrayna savaşındaki lojistik aksamalar ve artan yem sektörü talebi nedeniyle stok takviyesine gidildiğini duyurdu. Açıklamanın hemen ardından TMO, 7 ayrı liman/teslimat noktası üzerinden topl",
-      "content": "Toprak Mahsulleri Ofisi (TMO), yurt içi mısır rekoltesinin 8,1 milyon ton düzeyinde beklendiğini ancak Rusya-Ukrayna savaşındaki lojistik aksamalar ve artan yem sektörü talebi nedeniyle stok takviyesine gidildiğini duyurdu. Açıklamanın hemen ardından TMO, 7 ayrı liman/teslimat noktası üzerinden toplam 295 bin ton yemlik mısır ithalatı için ihale açtı."
     }
   ],
   "commoditiesByBorsa": {
