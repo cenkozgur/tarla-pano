@@ -1,43 +1,51 @@
 {
-  "updatedAt": "2026-11-10T04:43:55.791Z",
+  "updatedAt": "2026-11-10T13:01:08.366Z",
   "fx": [
     {
       "code": "USD",
       "name": "Dolar",
-      "buy": 50.22,
+      "buy": 50.23,
       "sell": 50.24,
-      "change": 0.1
+      "change": 0.11
     },
     {
       "code": "EUR",
       "name": "Euro",
-      "buy": 56.38,
-      "sell": 56.4,
-      "change": 0.01
+      "buy": 56.33,
+      "sell": 56.34,
+      "change": -0.09
     },
     {
       "code": "GRA",
       "name": "Gram Altın",
-      "buy": 6647.04,
-      "sell": 6648.02,
-      "change": -0.51
+      "buy": 6586.97,
+      "sell": 6588,
+      "change": -1.4
     },
     {
       "code": "CEYREKALTIN",
       "name": "Çeyrek Altın",
-      "buy": 10645.32,
-      "sell": 10888.61,
-      "change": 0
+      "buy": 10707,
+      "sell": 10777,
+      "change": -1.55
     },
     {
       "code": "CUMHURIYETALTINI",
       "name": "Cumhuriyet Altını",
-      "buy": 44122,
-      "sell": 44785,
-      "change": 1.65
+      "buy": 43899,
+      "sell": 44083,
+      "change": -1.55
     }
   ],
   "news": [
+    {
+      "title": "Şekerde kriz derinleşiyor: 48 lira kağıt üstünde kaldı, etiketler 40 TL'nin altını gördü!",
+      "url": "https://www.tarimdanhaber.com/sekerde-kriz-derinlesiyor-48-lira-kagit-ustunde-kaldi-etiketler-40-tlnin-altini-gordu",
+      "source": "Tarımdan Haber",
+      "date": "2026-11-10",
+      "summary": "Türkşeker’in şeker satış fiyatını 48 liraya çıkarması bile sektördeki çarkları döndürmeye yetmedi. Üretim maliyetlerinin altına gerileyen şeker fiyatları 40 liranın altında işlem görürken, finansman baskısı altındaki fabrikalar zararına satış yapmaya zorlanıyor. Sektör temsilcileri, acil olarak koop",
+      "content": "Türkşeker’in şeker satış fiyatını 48 liraya çıkarması bile sektördeki çarkları döndürmeye yetmedi. Üretim maliyetlerinin altına gerileyen şeker fiyatları 40 liranın altında işlem görürken, finansman baskısı altındaki fabrikalar zararına satış yapmaya zorlanıyor. Sektör temsilcileri, acil olarak kooperatif fabrikalarına güçlü bir finansman desteği sağlanmazsa tablonun yıkım olacağı uyarısında bulunuyor."
+    },
     {
       "title": "TMO'dan dev ihale kararı: 500 bin ton arz fazlası buğday ihraç edilecek!",
       "url": "https://www.tarimdanhaber.com/tmodan-dev-ihale-karari-500-bin-ton-arz-fazlasi-bugday-ihrac-edilecek",
@@ -93,14 +101,6 @@
       "date": "2026-11-08",
       "summary": "İYİ Parti Genel Başkanı Müsavat Dervişoğlu, Trabzon’da yaptığı açıklamada ÇAYKUR’daki 10 binden fazla mevsimlik işçinin güvencesiz çalıştırıldığına dikkat çekerek, \"İYİ Parti iktidarında işçiler 12 ay boyunca kesintisiz çalışacak ve düzenli maaş alacak\" sözünü verdi.",
       "content": "İYİ Parti Genel Başkanı Müsavat Dervişoğlu, Trabzon’da yaptığı açıklamada ÇAYKUR’daki 10 binden fazla mevsimlik işçinin güvencesiz çalıştırıldığına dikkat çekerek, \"İYİ Parti iktidarında işçiler 12 ay boyunca kesintisiz çalışacak ve düzenli maaş alacak\" sözünü verdi."
-    },
-    {
-      "title": "C pancarı alım fiyatı açıklandı mı? 2026-2027 şeker pancarı fiyatında C pancarı belirsizliği!",
-      "url": "https://www.tarimdanhaber.com/c-pancari-alim-fiyati-aciklandi-mi-2026-2027-seker-pancari-fiyatinda-c-pancari-belirsizligi",
-      "source": "Tarımdan Haber",
-      "date": "2026-11-07",
-      "summary": "Tarım ve Orman Bakanlığı, 2026-2027 üretim yılı A kotası şeker pancarı alım fiyatını kota tamamlama primi dahil ton başına 3.720 TL olarak duyururken, C pancarı alım fiyatını hala açıklamadı. Bakanlığın fiyat belirlememesi nedeniyle özel fabrikalar ve kooperatifler de rakam açıklamazken, kotasını aş",
-      "content": "Tarım ve Orman Bakanlığı, 2026-2027 üretim yılı A kotası şeker pancarı alım fiyatını kota tamamlama primi dahil ton başına 3.720 TL olarak duyururken, C pancarı alım fiyatını hala açıklamadı. Bakanlığın fiyat belirlememesi nedeniyle özel fabrikalar ve kooperatifler de rakam açıklamazken, kotasını aşan üretici ürününü kaça satacağını bilemiyor."
     }
   ],
   "commoditiesByBorsa": {
