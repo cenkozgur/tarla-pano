@@ -1,43 +1,51 @@
 {
-  "updatedAt": "2026-11-10T20:22:36.276Z",
+  "updatedAt": "2026-11-11T00:47:25.646Z",
   "fx": [
     {
       "code": "USD",
       "name": "Dolar",
       "buy": 50.23,
       "sell": 50.24,
-      "change": 0.11
+      "change": 0
     },
     {
       "code": "EUR",
       "name": "Euro",
-      "buy": 56.08,
-      "sell": 56.08,
-      "change": -0.54
+      "buy": 56.1,
+      "sell": 56.15,
+      "change": 0.09
     },
     {
       "code": "GRA",
       "name": "Gram Altın",
-      "buy": 6512.45,
-      "sell": 6513.24,
-      "change": -2.52
+      "buy": 6520.24,
+      "sell": 6521.06,
+      "change": 0.15
     },
     {
       "code": "CEYREKALTIN",
       "name": "Çeyrek Altın",
-      "buy": 10597,
-      "sell": 10684,
-      "change": -2.4
+      "buy": 10610,
+      "sell": 10697,
+      "change": 0.16
     },
     {
       "code": "CUMHURIYETALTINI",
       "name": "Cumhuriyet Altını",
-      "buy": 43449,
-      "sell": 43703,
-      "change": -2.4
+      "buy": 43501,
+      "sell": 43755,
+      "change": 0.16
     }
   ],
   "news": [
+    {
+      "title": "Antalya'da tarihi zirve: COP31'E 95 bini aşkın kayıt, ev sahibi Türkiye ilk sırada!",
+      "url": "https://www.tarimdanhaber.com/antalyada-tarihi-zirve-cop31e-95-bini-askin-kayit-ev-sahibi-turkiye-ilk-sirada",
+      "source": "Tarımdan Haber",
+      "date": "2026-11-10",
+      "summary": "Antalya’da düzenlenen COP31 İklim Zirvesi, 95 bine ulaşan kayıtlı katılımcıyla tarihin en büyük iklim konferansı oldu. Ev sahibi Türkiye 2.950 delegeyle zirvede ilk sırada yer alırken, ABD yine heyet göndermeyen ülkeler arasında dikkat çekti.",
+      "content": "Antalya’da düzenlenen COP31 İklim Zirvesi, 95 bine ulaşan kayıtlı katılımcıyla tarihin en büyük iklim konferansı oldu. Ev sahibi Türkiye 2.950 delegeyle zirvede ilk sırada yer alırken, ABD yine heyet göndermeyen ülkeler arasında dikkat çekti."
+    },
     {
       "title": "Şekerde kriz derinleşiyor: 48 lira kağıt üstünde kaldı, etiketler 40 TL'nin altını gördü!",
       "url": "https://www.tarimdanhaber.com/sekerde-kriz-derinlesiyor-48-lira-kagit-ustunde-kaldi-etiketler-40-tlnin-altini-gordu",
@@ -93,14 +101,6 @@
       "date": "2026-11-08",
       "summary": "UKON 5 Kasım haftalık karkas et kesim fiyatlarını açıkladı. Dana kesim fiyatlarında artış yaşanırken kuzu karkas fiyatları geriledi. ESK’nın ithalat hamlelerine rağmen Bursa Damızlık Sığır Yetiştiricileri Birliği fiyatlarında değişim yaşanmazken, üretici artan maliyetler karşısında zararına üretim t",
       "content": "UKON 5 Kasım haftalık karkas et kesim fiyatlarını açıkladı. Dana kesim fiyatlarında artış yaşanırken kuzu karkas fiyatları geriledi. ESK’nın ithalat hamlelerine rağmen Bursa Damızlık Sığır Yetiştiricileri Birliği fiyatlarında değişim yaşanmazken, üretici artan maliyetler karşısında zararına üretim tehlikesiyle karşı karşıya."
-    },
-    {
-      "title": "İYİ Parti lideri Dervişoğlu'ndan ÇAYKUR işçileri için kadro sözü: \"Bu Dervişoğlu Sözüdür\"",
-      "url": "https://www.tarimdanhaber.com/iyi-parti-lideri-dervisoglundan-caykur-iscileri-icin-kadro-sozu-bu-dervisoglu-sozudur",
-      "source": "Tarımdan Haber",
-      "date": "2026-11-08",
-      "summary": "İYİ Parti Genel Başkanı Müsavat Dervişoğlu, Trabzon’da yaptığı açıklamada ÇAYKUR’daki 10 binden fazla mevsimlik işçinin güvencesiz çalıştırıldığına dikkat çekerek, \"İYİ Parti iktidarında işçiler 12 ay boyunca kesintisiz çalışacak ve düzenli maaş alacak\" sözünü verdi.",
-      "content": "İYİ Parti Genel Başkanı Müsavat Dervişoğlu, Trabzon’da yaptığı açıklamada ÇAYKUR’daki 10 binden fazla mevsimlik işçinin güvencesiz çalıştırıldığına dikkat çekerek, \"İYİ Parti iktidarında işçiler 12 ay boyunca kesintisiz çalışacak ve düzenli maaş alacak\" sözünü verdi."
     }
   ],
   "commoditiesByBorsa": {
