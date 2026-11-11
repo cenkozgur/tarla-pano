@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-11T15:14:40.461Z",
+  "updatedAt": "2026-11-11T21:58:37.717Z",
   "fx": [
     {
       "code": "USD",
@@ -38,6 +38,14 @@
     }
   ],
   "news": [
+    {
+      "title": "Borsa İstanbul'un başına Hüseyin Aydın mı getirilecek? 4 milyar TL'lik Hektaş kıyağı hala hafızalarda!",
+      "url": "https://www.tarimdanhaber.com/borsa-istanbulun-basina-huseyin-aydin-mi-getirilecek-4-milyar-tllik-hektas-kiyagi-hala-hafizalarda",
+      "source": "Tarımdan Haber",
+      "date": "2026-11-11",
+      "summary": "Gazeteci Saygı Öztürk, Borsa İstanbul Yönetim Kurulu Başkanı Erişah Arıcan'ın yerine Tarım Kredi Genel Müdürü Hüseyin Aydın'ın getirileceğini iddia etti. 2022'de Hektaş hisse satışıyla Tarım Kredi'yi 3,5 ayda 4 milyar TL zarara uğratan, Oyak Gıda'ya da altın tepside kıyak geçen Aydın'ın BİST'in başı",
+      "content": "Gazeteci Saygı Öztürk, Borsa İstanbul Yönetim Kurulu Başkanı Erişah Arıcan'ın yerine Tarım Kredi Genel Müdürü Hüseyin Aydın'ın getirileceğini iddia etti. 2022'de Hektaş hisse satışıyla Tarım Kredi'yi 3,5 ayda 4 milyar TL zarara uğratan, Oyak Gıda'ya da altın tepside kıyak geçen Aydın'ın BİST'in başına geçeceği kulisleri, göz göre göre gelen bir paradoks olarak değerlendiriliyor."
+    },
     {
       "title": "Gübretaş iddialarına kaçamak yanıt: Fahrettin Poyraz kilit isimleri sansürledi, hedef saptırdı!",
       "url": "https://www.tarimdanhaber.com/gubretas-iddialarina-kacamak-yanit-fahrettin-poyraz-kilit-isimleri-sansurledi-hedef-saptirdi",
@@ -93,14 +101,6 @@
       "date": "2026-11-09",
       "summary": "Toprak Mahsulleri Ofisi (TMO), rekor buğday üretimi sonrasında oluşan arz fazlasını ihraç etmek için harekete geçti. TMO, 17-18 Kasım 2026 tarihlerinde toplam 500 bin ton ekmeklik ve makarnalık buğday ihracatı için ihale düzenleyecek.",
       "content": "Toprak Mahsulleri Ofisi (TMO), rekor buğday üretimi sonrasında oluşan arz fazlasını ihraç etmek için harekete geçti. TMO, 17-18 Kasım 2026 tarihlerinde toplam 500 bin ton ekmeklik ve makarnalık buğday ihracatı için ihale düzenleyecek."
-    },
-    {
-      "title": "Tarımdan Haber gündeme taşımıştı: Kotaya ve küspeye çöken şebeke tutuklandı",
-      "url": "https://www.tarimdanhaber.com/tarimdan-haber-gundeme-tasimisti-kotaya-ve-kuspeye-coken-sebeke-tutuklandi",
-      "source": "Tarımdan Haber",
-      "date": "2026-11-09",
-      "summary": "Tarımdan Haber'in ortaya çıkardığı Konya Şeker'in Çumra bölgesindeki pancar kotası ve küspe vurgununda sıcak gelişme! Çiftçileri zarara uğratan Konya Şeker'in 11 eski personeli Jandarma operasyonuyla tutuklanırken, şüphelilerin 1,2 milyar lirayı aşan banka hesap hareketliliği tespit edilerek ev ve a",
-      "content": "Tarımdan Haber'in ortaya çıkardığı Konya Şeker'in Çumra bölgesindeki pancar kotası ve küspe vurgununda sıcak gelişme! Çiftçileri zarara uğratan Konya Şeker'in 11 eski personeli Jandarma operasyonuyla tutuklanırken, şüphelilerin 1,2 milyar lirayı aşan banka hesap hareketliliği tespit edilerek ev ve araçlarına el konuldu."
     }
   ],
   "commoditiesByBorsa": {
