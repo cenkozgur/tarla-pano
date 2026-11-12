@@ -1,43 +1,51 @@
 {
-  "updatedAt": "2026-11-12T10:20:25.287Z",
+  "updatedAt": "2026-11-12T18:30:28.284Z",
   "fx": [
     {
       "code": "USD",
       "name": "Dolar",
-      "buy": 502515,
-      "sell": 50264,
-      "change": 5
+      "buy": 50.25,
+      "sell": 50.26,
+      "change": 0.05
     },
     {
       "code": "EUR",
       "name": "Euro",
-      "buy": 558841,
-      "sell": 558913,
-      "change": 27
+      "buy": 55.67,
+      "sell": 55.68,
+      "change": -0.12
     },
     {
       "code": "GRA",
       "name": "Gram Altın",
-      "buy": 638028,
-      "sell": 638115,
-      "change": -86
+      "buy": 6271.47,
+      "sell": 6272.42,
+      "change": -2.55
     },
     {
       "code": "CEYREKALTIN",
       "name": "Çeyrek Altın",
-      "buy": 10399,
-      "sell": 10468,
-      "change": -95
+      "buy": 10239,
+      "sell": 10337,
+      "change": -2.19
     },
     {
       "code": "CUMHURIYETALTINI",
       "name": "Cumhuriyet Altını",
-      "buy": 42638,
-      "sell": 42819,
-      "change": -95
+      "buy": 41981,
+      "sell": 42284,
+      "change": -2.18
     }
   ],
   "news": [
+    {
+      "title": "Burdur Şeker Fabrikası’nda \"Sıcak Su\" skandalı: Borular karıştı, lojmanlara pancar kokulu su aktı!",
+      "url": "https://www.tarimdanhaber.com/burdur-seker-fabrikasinda-sicak-su-skandali-borular-karisti-lojmanlara-pancar-kokulu-su-akti",
+      "source": "Tarımdan Haber",
+      "date": "2026-11-12",
+      "summary": "Türkşeker’in \"30 yılın en kapsamlı revizyonu\" ile övündüğü Burdur Şeker Fabrikası’nda pes dedirten hata: Sıcak su borularının yanlış bağlanması sonucu lojmanlara pancar kokulu su aktı. Fabrikadaki üretim aksaklıkları ve milyonluk nakliye krizleri ise katlanarak sürüyor.",
+      "content": "Türkşeker’in \"30 yılın en kapsamlı revizyonu\" ile övündüğü Burdur Şeker Fabrikası’nda pes dedirten hata: Sıcak su borularının yanlış bağlanması sonucu lojmanlara pancar kokulu su aktı. Fabrikadaki üretim aksaklıkları ve milyonluk nakliye krizleri ise katlanarak sürüyor."
+    },
     {
       "title": "15 bin liraya fırlayan melasta kriz: Türkşeker ve özel fabrikalar çiftçiye kapıları kapattı!",
       "url": "https://www.tarimdanhaber.com/15-bin-liraya-firlayan-melasta-kriz-turkseker-ve-ozel-fabrikalar-ciftciye-kapilari-kapatti",
@@ -93,14 +101,6 @@
       "date": "2026-11-10",
       "summary": "Antalya’da düzenlenen COP31 İklim Zirvesi, 95 bine ulaşan kayıtlı katılımcıyla tarihin en büyük iklim konferansı oldu. Ev sahibi Türkiye 2.950 delegeyle zirvede ilk sırada yer alırken, ABD yine heyet göndermeyen ülkeler arasında dikkat çekti.",
       "content": "Antalya’da düzenlenen COP31 İklim Zirvesi, 95 bine ulaşan kayıtlı katılımcıyla tarihin en büyük iklim konferansı oldu. Ev sahibi Türkiye 2.950 delegeyle zirvede ilk sırada yer alırken, ABD yine heyet göndermeyen ülkeler arasında dikkat çekti."
-    },
-    {
-      "title": "Şekerde kriz derinleşiyor: 48 lira kağıt üstünde kaldı, etiketler 40 TL'nin altını gördü!",
-      "url": "https://www.tarimdanhaber.com/sekerde-kriz-derinlesiyor-48-lira-kagit-ustunde-kaldi-etiketler-40-tlnin-altini-gordu",
-      "source": "Tarımdan Haber",
-      "date": "2026-11-10",
-      "summary": "Türkşeker’in şeker satış fiyatını 48 liraya çıkarması bile sektördeki çarkları döndürmeye yetmedi. Üretim maliyetlerinin altına gerileyen şeker fiyatları 40 liranın altında işlem görürken, finansman baskısı altındaki fabrikalar zararına satış yapmaya zorlanıyor. Sektör temsilcileri, acil olarak koop",
-      "content": "Türkşeker’in şeker satış fiyatını 48 liraya çıkarması bile sektördeki çarkları döndürmeye yetmedi. Üretim maliyetlerinin altına gerileyen şeker fiyatları 40 liranın altında işlem görürken, finansman baskısı altındaki fabrikalar zararına satış yapmaya zorlanıyor. Sektör temsilcileri, acil olarak kooperatif fabrikalarına güçlü bir finansman desteği sağlanmazsa tablonun yıkım olacağı uyarısında bulunuyor."
     }
   ],
   "commoditiesByBorsa": {
