@@ -1,43 +1,51 @@
 {
-  "updatedAt": "2026-11-11T21:58:37.717Z",
+  "updatedAt": "2026-11-12T02:44:55.702Z",
   "fx": [
     {
       "code": "USD",
       "name": "Dolar",
-      "buy": 50.23,
-      "sell": 50.24,
-      "change": 0
+      "buy": 50.25,
+      "sell": 50.27,
+      "change": 0.05
     },
     {
       "code": "EUR",
       "name": "Euro",
-      "buy": 56.08,
-      "sell": 56.09,
-      "change": 0.01
+      "buy": 55.75,
+      "sell": 55.79,
+      "change": 0.06
     },
     {
       "code": "GRA",
       "name": "Gram Altın",
-      "buy": 6561.57,
-      "sell": 6562.33,
-      "change": 0.79
+      "buy": 6421.26,
+      "sell": 6422.25,
+      "change": -0.22
     },
     {
       "code": "CEYREKALTIN",
       "name": "Çeyrek Altın",
-      "buy": 10673,
-      "sell": 10751,
-      "change": 0.66
+      "buy": 10460,
+      "sell": 10545,
+      "change": -0.22
     },
     {
       "code": "CUMHURIYETALTINI",
       "name": "Cumhuriyet Altını",
-      "buy": 43759,
-      "sell": 43976,
-      "change": 0.66
+      "buy": 42885,
+      "sell": 43134,
+      "change": -0.22
     }
   ],
   "news": [
+    {
+      "title": "15 bin liraya fırlayan melasta kriz: Türkşeker ve özel fabrikalar çiftçiye kapıları kapattı!",
+      "url": "https://www.tarimdanhaber.com/15-bin-liraya-firlayan-melasta-kriz-turkseker-ve-ozel-fabrikalar-ciftciye-kapilari-kapatti",
+      "source": "Tarımdan Haber",
+      "date": "2026-11-11",
+      "summary": "Şeker fabrikalarının çiftçiye melas satışını durdurması üreticinin tepkisini çekti. İthalat aksaklıklarıyla tonu 15 bin liraya fırlayan melasta, çiftçiye kapılar kapatılırken Tarım Bakanlığı’ndaki maya lobisinin rolü sorgulanıyor.",
+      "content": "Şeker fabrikalarının çiftçiye melas satışını durdurması üreticinin tepkisini çekti. İthalat aksaklıklarıyla tonu 15 bin liraya fırlayan melasta, çiftçiye kapılar kapatılırken Tarım Bakanlığı’ndaki maya lobisinin rolü sorgulanıyor."
+    },
     {
       "title": "Borsa İstanbul'un başına Hüseyin Aydın mı getirilecek? 4 milyar TL'lik Hektaş kıyağı hala hafızalarda!",
       "url": "https://www.tarimdanhaber.com/borsa-istanbulun-basina-huseyin-aydin-mi-getirilecek-4-milyar-tllik-hektas-kiyagi-hala-hafizalarda",
@@ -93,14 +101,6 @@
       "date": "2026-11-10",
       "summary": "Türkşeker’in şeker satış fiyatını 48 liraya çıkarması bile sektördeki çarkları döndürmeye yetmedi. Üretim maliyetlerinin altına gerileyen şeker fiyatları 40 liranın altında işlem görürken, finansman baskısı altındaki fabrikalar zararına satış yapmaya zorlanıyor. Sektör temsilcileri, acil olarak koop",
       "content": "Türkşeker’in şeker satış fiyatını 48 liraya çıkarması bile sektördeki çarkları döndürmeye yetmedi. Üretim maliyetlerinin altına gerileyen şeker fiyatları 40 liranın altında işlem görürken, finansman baskısı altındaki fabrikalar zararına satış yapmaya zorlanıyor. Sektör temsilcileri, acil olarak kooperatif fabrikalarına güçlü bir finansman desteği sağlanmazsa tablonun yıkım olacağı uyarısında bulunuyor."
-    },
-    {
-      "title": "TMO'dan dev ihale kararı: 500 bin ton arz fazlası buğday ihraç edilecek!",
-      "url": "https://www.tarimdanhaber.com/tmodan-dev-ihale-karari-500-bin-ton-arz-fazlasi-bugday-ihrac-edilecek",
-      "source": "Tarımdan Haber",
-      "date": "2026-11-09",
-      "summary": "Toprak Mahsulleri Ofisi (TMO), rekor buğday üretimi sonrasında oluşan arz fazlasını ihraç etmek için harekete geçti. TMO, 17-18 Kasım 2026 tarihlerinde toplam 500 bin ton ekmeklik ve makarnalık buğday ihracatı için ihale düzenleyecek.",
-      "content": "Toprak Mahsulleri Ofisi (TMO), rekor buğday üretimi sonrasında oluşan arz fazlasını ihraç etmek için harekete geçti. TMO, 17-18 Kasım 2026 tarihlerinde toplam 500 bin ton ekmeklik ve makarnalık buğday ihracatı için ihale düzenleyecek."
     }
   ],
   "commoditiesByBorsa": {
@@ -307,7 +307,6 @@
   "note": "Fiyatlar TOBB ticaret borsasından (borsa seçilebilir). Kanola manuel (Trakya 2025).",
   "inputsNote": "Mazot: akaryakıt bayi fiyatı, günlük (şehir seçilebilir). Gübre: manuel (yaklaşık).",
   "errors": [
-    "fx: fetch failed",
     "borsa 5ED10: fetch failed",
     "borsa 5KO10: fetch failed",
     "borsa 5ES10: fetch failed"
