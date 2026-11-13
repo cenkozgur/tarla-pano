@@ -1,43 +1,51 @@
 {
-  "updatedAt": "2026-11-13T18:47:09.448Z",
+  "updatedAt": "2026-11-13T23:55:16.803Z",
   "fx": [
     {
       "code": "USD",
       "name": "Dolar",
-      "buy": 50.35,
-      "sell": 50.38,
+      "buy": 50.36,
+      "sell": 50.37,
       "change": 0.22
     },
     {
       "code": "EUR",
       "name": "Euro",
-      "buy": 55.68,
-      "sell": 55.81,
-      "change": 0.09
+      "buy": 55.55,
+      "sell": 55.57,
+      "change": -0.24
     },
     {
       "code": "GRA",
       "name": "Gram Altın",
-      "buy": 6344.72,
-      "sell": 6345.66,
-      "change": 1.36
+      "buy": 6279.53,
+      "sell": 6280.54,
+      "change": 0.32
     },
     {
       "code": "CEYREKALTIN",
       "name": "Çeyrek Altın",
-      "buy": 10359,
-      "sell": 10458,
-      "change": 1.36
+      "buy": 10266,
+      "sell": 10374,
+      "change": 0.54
     },
     {
       "code": "CUMHURIYETALTINI",
       "name": "Cumhuriyet Altını",
-      "buy": 42474,
-      "sell": 42779,
-      "change": 1.35
+      "buy": 42092,
+      "sell": 42433,
+      "change": 0.53
     }
   ],
   "news": [
+    {
+      "title": "Mersin Limanı'nda ithal hayvan skandalı! Parasını peşin ödeyen besiciye kör ve sakat hayvan dayatması!",
+      "url": "https://www.tarimdanhaber.com/mersin-limaninda-ithal-hayvan-skandali-parasini-pesin-odeyen-besiciye-kor-ve-sakat-hayvan-dayatmasi",
+      "source": "Tarımdan Haber",
+      "date": "2026-11-13",
+      "summary": "Et ve Süt Kurumu’nun (ESK) ithal besilik hayvan dağıtımı için Mersin Taşucu Limanı’na giden Malatyalı üreticiler büyük bir skandalla karşılaştı. Teslim almak istedikleri hayvanların kör, sakat, aşırı zayıflamış ve metabolik çöküntü içinde olduğunu gören 70 üretici, günlerce süren yolculukta telef ol",
+      "content": "Et ve Süt Kurumu’nun (ESK) ithal besilik hayvan dağıtımı için Mersin Taşucu Limanı’na giden Malatyalı üreticiler büyük bir skandalla karşılaştı. Teslim almak istedikleri hayvanların kör, sakat, aşırı zayıflamış ve metabolik çöküntü içinde olduğunu gören 70 üretici, günlerce süren yolculukta telef olan hayvanları teslim almayı reddetti. Parasını peşin ödeyen ve 1,5 milyon TL teminat yatıran besiciler limanda çaresiz bekleyişini sürdürüyor."
+    },
     {
       "title": "Şekerin maliyeti 55 lira, teklif 37 lira! PANKOBİRLİK Başkanı kriz tablosunu açıkladı",
       "url": "https://www.tarimdanhaber.com/sekerin-maliyeti-55-lira-teklif-37-lira-pankobirlik-baskani-kriz-tablosunu-acikladi",
@@ -93,14 +101,6 @@
       "date": "2026-11-11",
       "summary": "Şeker fabrikalarının çiftçiye melas satışını durdurması üreticinin tepkisini çekti. İthalat aksaklıklarıyla tonu 15 bin liraya fırlayan melasta, çiftçiye kapılar kapatılırken Tarım Bakanlığı’ndaki maya lobisinin rolü sorgulanıyor.",
       "content": "Şeker fabrikalarının çiftçiye melas satışını durdurması üreticinin tepkisini çekti. İthalat aksaklıklarıyla tonu 15 bin liraya fırlayan melasta, çiftçiye kapılar kapatılırken Tarım Bakanlığı’ndaki maya lobisinin rolü sorgulanıyor."
-    },
-    {
-      "title": "Borsa İstanbul'un başına Hüseyin Aydın mı getirilecek? 4 milyar TL'lik Hektaş kıyağı hala hafızalarda!",
-      "url": "https://www.tarimdanhaber.com/borsa-istanbulun-basina-huseyin-aydin-mi-getirilecek-4-milyar-tllik-hektas-kiyagi-hala-hafizalarda",
-      "source": "Tarımdan Haber",
-      "date": "2026-11-11",
-      "summary": "Gazeteci Saygı Öztürk, Borsa İstanbul Yönetim Kurulu Başkanı Erişah Arıcan'ın yerine Tarım Kredi Genel Müdürü Hüseyin Aydın'ın getirileceğini iddia etti. 2022'de Hektaş hisse satışıyla Tarım Kredi'yi 3,5 ayda 4 milyar TL zarara uğratan, Oyak Gıda'ya da altın tepside kıyak geçen Aydın'ın BİST'in başı",
-      "content": "Gazeteci Saygı Öztürk, Borsa İstanbul Yönetim Kurulu Başkanı Erişah Arıcan'ın yerine Tarım Kredi Genel Müdürü Hüseyin Aydın'ın getirileceğini iddia etti. 2022'de Hektaş hisse satışıyla Tarım Kredi'yi 3,5 ayda 4 milyar TL zarara uğratan, Oyak Gıda'ya da altın tepside kıyak geçen Aydın'ın BİST'in başına geçeceği kulisleri, göz göre göre gelen bir paradoks olarak değerlendiriliyor."
     }
   ],
   "commoditiesByBorsa": {
@@ -307,7 +307,6 @@
   "note": "Fiyatlar TOBB ticaret borsasından (borsa seçilebilir). Kanola manuel (Trakya 2025).",
   "inputsNote": "Mazot: akaryakıt bayi fiyatı, günlük (şehir seçilebilir). Gübre: manuel (yaklaşık).",
   "errors": [
-    "fx: fetch failed",
     "borsa 5ED10: fetch failed",
     "borsa 5KO10: fetch failed",
     "borsa 5ES10: fetch failed"
