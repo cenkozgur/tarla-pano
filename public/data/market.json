@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-13T23:55:16.803Z",
+  "updatedAt": "2026-11-14T05:38:17.213Z",
   "fx": [
     {
       "code": "USD",
@@ -309,6 +309,16 @@
   "errors": [
     "borsa 5ED10: fetch failed",
     "borsa 5KO10: fetch failed",
-    "borsa 5ES10: fetch failed"
+    "borsa 5ES10: fetch failed",
+    "mazot ANKARA: Unexpected token '<', \"<!DOCTYPE \"... is not valid JSON",
+    "mazot ISTANBUL: Unexpected token '<', \"<!DOCTYPE \"... is not valid JSON",
+    "mazot IZMIR: Unexpected token '<', \"<!DOCTYPE \"... is not valid JSON",
+    "mazot KONYA: Unexpected token '<', \"<!DOCTYPE \"... is not valid JSON",
+    "mazot ADANA: Unexpected token '<', \"<!DOCTYPE \"... is not valid JSON",
+    "mazot BURSA: Unexpected token '<', \"<!DOCTYPE \"... is not valid JSON",
+    "mazot ANTALYA: Unexpected token '<', \"<!DOCTYPE \"... is not valid JSON",
+    "mazot SAMSUN: Unexpected token '<', \"<!DOCTYPE \"... is not valid JSON",
+    "mazot TEKIRDAG: Unexpected token '<', \"<!DOCTYPE \"... is not valid JSON",
+    "mazot CANAKKALE: Unexpected token '<', \"<!DOCTYPE \"... is not valid JSON"
   ]
 }
