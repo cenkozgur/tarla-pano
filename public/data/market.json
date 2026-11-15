@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-15T16:30:18.287Z",
+  "updatedAt": "2026-11-15T21:09:17.504Z",
   "fx": [
     {
       "code": "USD",
@@ -20,24 +20,32 @@
       "name": "Gram Altın",
       "buy": 6279.53,
       "sell": 6280.54,
-      "change": 0.32
+      "change": 0
     },
     {
       "code": "CEYREKALTIN",
       "name": "Çeyrek Altın",
-      "buy": 10266,
-      "sell": 10374,
-      "change": 0.54
+      "buy": 10297,
+      "sell": 10388,
+      "change": 0.68
     },
     {
       "code": "CUMHURIYETALTINI",
       "name": "Cumhuriyet Altını",
-      "buy": 42092,
-      "sell": 42433,
-      "change": 0.53
+      "buy": 42221,
+      "sell": 42493,
+      "change": 0.68
     }
   ],
   "news": [
+    {
+      "title": "TMO'nun 295 bin tonluk mısır ihalesi sonuçlandı: Hangi firmadan kaç dolara alındı? İşte liman liman tam liste...",
+      "url": "https://www.tarimdanhaber.com/tmonun-295-bin-tonluk-misir-ihalesi-sonuclandi-hangi-firmadan-kac-dolara-alindi-iste-liman-liman-tam-liste",
+      "source": "Tarımdan Haber",
+      "date": "2026-11-15",
+      "summary": "Toprak Mahsulleri Ofisi'nin (TMO) 12 Kasım'da düzenlediği 295 bin tonluk yemlik mısır ithalat ihalesinin sonuçları netleşti. 7 liman için ton başına 293,50 ile 298 dolar arasında yapılan alımlarda aslan payını 125 bin tonla İpek Agro alırken, Bunge, CHS, Bek Tarım, Agron ve Team Agro ihaleyi kazanan",
+      "content": "Toprak Mahsulleri Ofisi'nin (TMO) 12 Kasım'da düzenlediği 295 bin tonluk yemlik mısır ithalat ihalesinin sonuçları netleşti. 7 liman için ton başına 293,50 ile 298 dolar arasında yapılan alımlarda aslan payını 125 bin tonla İpek Agro alırken, Bunge, CHS, Bek Tarım, Agron ve Team Agro ihaleyi kazanan diğer firmalar oldu."
+    },
     {
       "title": "Karkas kesim fiyatları şaşırtmaya devam ediyor: Angus etkisi piyasayı nasıl vurdu? İşte son rakamlar...",
       "url": "https://www.tarimdanhaber.com/karkas-kesim-fiyatlari-sasirtmaya-devam-ediyor-angus-etkisi-piyasayi-nasil-vurdu-iste-son-rakamlar",
@@ -59,8 +67,8 @@
       "url": "https://www.tarimdanhaber.com/huseyin-aydin-doneminde-tarim-kredi-istirakleri-tablosu-13-sirketten-6si-zarar-yazdi-acik-buyuyor",
       "source": "Tarımdan Haber",
       "date": "2026-11-15",
-      "summary": "Hüseyin Aydın yönetimindeki Tarım Kredi Kooperatifleri’ne bağlı 13 iştirak şirketinin 30 Haziran 2026 tarihli mali tabloları eksiye işaret ediyor. Kurumun en büyük gelir kalemleri arasında yer alan Gübretaş ve Söğüt Altın Madeni'nin kapsam dışı bırakıldığı bu 13 şirketlik listede, 7 iştirak kr etse ",
-      "content": "Hüseyin Aydın yönetimindeki Tarım Kredi Kooperatifleri’ne bağlı 13 iştirak şirketinin 30 Haziran 2026 tarihli mali tabloları eksiye işaret ediyor. Kurumun en büyük gelir kalemleri arasında yer alan Gübretaş ve Söğüt Altın Madeni'nin kapsam dışı bırakıldığı bu 13 şirketlik listede, 7 iştirak kr etse de marketçilik ve yağ sanayisindeki milyarlık kayıplar toplam bilançoyu 904,5 milyon TL eksiye çekti."
+      "summary": "Hüseyin Aydın yönetimindeki Tarım Kredi Kooperatifleri’ne bağlı 13 iştirak şirketinin 30 Haziran 2026 tarihli mali tabloları eksiye işaret ediyor. Kurumun en büyük gelir kalemleri arasında yer alan Gübretaş ve Söğüt Altın Madeni'nin kapsam dışı bırakıldığı bu 13 şirketlik listede, 7 iştirak kar etse",
+      "content": "Hüseyin Aydın yönetimindeki Tarım Kredi Kooperatifleri’ne bağlı 13 iştirak şirketinin 30 Haziran 2026 tarihli mali tabloları eksiye işaret ediyor. Kurumun en büyük gelir kalemleri arasında yer alan Gübretaş ve Söğüt Altın Madeni'nin kapsam dışı bırakıldığı bu 13 şirketlik listede, 7 iştirak kar etse de marketçilik ve yağ sanayisindeki milyarlık kayıplar toplam bilançoyu 904,5 milyon TL eksiye çekti."
     },
     {
       "title": "Konya'nın dev tatlı su gölünde büyük tehlike: 11 yılda yarısı yok oldu! İşte Ankara'ya giden kurtarma planı",
@@ -93,14 +101,6 @@
       "date": "2026-11-15",
       "summary": "Türkiye’nin öncü gıda devlerinden Sütaş, “Çiftlikten Sofralara” döngüsel iş modeliyle uluslararası alanda büyük bir başarıya imza attı. Sustainable Business (SB) COP Awards 2026 kapsamında 1.400 başvuru arasından seçilen Sütaş, prestijli \"Blueprint Ödülü\"nün sahibi oldu.",
       "content": "Türkiye’nin öncü gıda devlerinden Sütaş, “Çiftlikten Sofralara” döngüsel iş modeliyle uluslararası alanda büyük bir başarıya imza attı. Sustainable Business (SB) COP Awards 2026 kapsamında 1.400 başvuru arasından seçilen Sütaş, prestijli \"Blueprint Ödülü\"nün sahibi oldu."
-    },
-    {
-      "title": "Miras kalan tarla nasıl paylaşılır? Anlaşmazlık durumunda izlenecek hukuki yollar neler?",
-      "url": "https://www.tarimdanhaber.com/miras-kalan-tarla-nasil-paylasilir-anlasmazlik-durumunda-izlenecek-hukuki-yollar-neler",
-      "source": "Tarımdan Haber",
-      "date": "2026-11-15",
-      "summary": "Tarla niteliğindeki tarım arazilerinin miras yoluyla intikali ve paylaşımı, özellikle mirasçılar arasında uzlaşı sağlanamadığında karmaşık bir hukuki sürece dönüşebiliyor. Tarımsal arazilerin bölünmesini önlemeyi amaçlayan özel yasalar, miras paylaşımında belirleyici rol oynuyor.",
-      "content": "Tarla niteliğindeki tarım arazilerinin miras yoluyla intikali ve paylaşımı, özellikle mirasçılar arasında uzlaşı sağlanamadığında karmaşık bir hukuki sürece dönüşebiliyor. Tarımsal arazilerin bölünmesini önlemeyi amaçlayan özel yasalar, miras paylaşımında belirleyici rol oynuyor."
     }
   ],
   "commoditiesByBorsa": {
@@ -309,6 +309,16 @@
   "errors": [
     "borsa 5ED10: fetch failed",
     "borsa 5KO10: fetch failed",
-    "borsa 5ES10: fetch failed"
+    "borsa 5ES10: fetch failed",
+    "mazot ANKARA: Unexpected token '<', \"<!DOCTYPE \"... is not valid JSON",
+    "mazot ISTANBUL: Unexpected token '<', \"<!DOCTYPE \"... is not valid JSON",
+    "mazot IZMIR: Unexpected token '<', \"<!DOCTYPE \"... is not valid JSON",
+    "mazot KONYA: Unexpected token '<', \"<!DOCTYPE \"... is not valid JSON",
+    "mazot ADANA: Unexpected token '<', \"<!DOCTYPE \"... is not valid JSON",
+    "mazot BURSA: Unexpected token '<', \"<!DOCTYPE \"... is not valid JSON",
+    "mazot ANTALYA: Unexpected token '<', \"<!DOCTYPE \"... is not valid JSON",
+    "mazot SAMSUN: Unexpected token '<', \"<!DOCTYPE \"... is not valid JSON",
+    "mazot TEKIRDAG: Unexpected token '<', \"<!DOCTYPE \"... is not valid JSON",
+    "mazot CANAKKALE: Unexpected token '<', \"<!DOCTYPE \"... is not valid JSON"
   ]
 }
