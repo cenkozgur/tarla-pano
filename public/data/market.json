@@ -1,43 +1,51 @@
 {
-  "updatedAt": "2026-11-15T21:09:17.504Z",
+  "updatedAt": "2026-11-16T01:03:27.771Z",
   "fx": [
     {
       "code": "USD",
       "name": "Dolar",
-      "buy": 50.36,
-      "sell": 50.37,
-      "change": 0.22
+      "buy": 50.38,
+      "sell": 50.39,
+      "change": 0.05
     },
     {
       "code": "EUR",
       "name": "Euro",
-      "buy": 55.55,
-      "sell": 55.57,
-      "change": -0.24
+      "buy": 55.57,
+      "sell": 55.6,
+      "change": 0.04
     },
     {
       "code": "GRA",
       "name": "Gram Altın",
-      "buy": 6279.53,
-      "sell": 6280.54,
-      "change": 0
+      "buy": 6275.37,
+      "sell": 6276.17,
+      "change": -0.07
     },
     {
       "code": "CEYREKALTIN",
       "name": "Çeyrek Altın",
-      "buy": 10297,
-      "sell": 10388,
-      "change": 0.68
+      "buy": 10289,
+      "sell": 10373,
+      "change": 0.53
     },
     {
       "code": "CUMHURIYETALTINI",
       "name": "Cumhuriyet Altını",
-      "buy": 42221,
-      "sell": 42493,
-      "change": 0.68
+      "buy": 42187,
+      "sell": 42431,
+      "change": 0.53
     }
   ],
   "news": [
+    {
+      "title": "Çiftçiler dikkat! 2026 ve 2027 yılı ürün destekleri karşılaştırma tablosu: Hangi ürüne dekara ne kadar ödenecek?",
+      "url": "https://www.tarimdanhaber.com/ciftciler-dikkat-2026-ve-2027-yili-urun-destekleri-karsilastirma-tablosu-hangi-urune-dekara-ne-kadar-odenecek",
+      "source": "Tarımdan Haber",
+      "date": "2026-11-15",
+      "summary": "Buğday, arpa, mısır, baklagiller ve yem bitkilerinde temel destek, planlı üretim, sertifikalı tohum ve organik gübre kalemlerinin dekar başına toplam tutarları 2026 ve 2027 yılları için tek bir tabloda toplandı. Arazinizde ekeceğiniz ürüne göre 2026 ve 2027 yıllarında dekar başına ne kadar toplam de",
+      "content": "Buğday, arpa, mısır, baklagiller ve yem bitkilerinde temel destek, planlı üretim, sertifikalı tohum ve organik gübre kalemlerinin dekar başına toplam tutarları 2026 ve 2027 yılları için tek bir tabloda toplandı. Arazinizde ekeceğiniz ürüne göre 2026 ve 2027 yıllarında dekar başına ne kadar toplam destek alacaksınız? Su kısıtı desteği hangi şartlarda ödeniyor? İşte çiftçinin bilmesi gereken tüm rakamlar ve ürün ürün karşılaştırmalı destek tablosu..."
+    },
     {
       "title": "TMO'nun 295 bin tonluk mısır ihalesi sonuçlandı: Hangi firmadan kaç dolara alındı? İşte liman liman tam liste...",
       "url": "https://www.tarimdanhaber.com/tmonun-295-bin-tonluk-misir-ihalesi-sonuclandi-hangi-firmadan-kac-dolara-alindi-iste-liman-liman-tam-liste",
@@ -93,14 +101,6 @@
       "date": "2026-11-15",
       "summary": "Denizli İl Tarım ve Orman Müdürü Mustafa Nevzat Zayim, 1980 yılında Mersin’in Silifke ilçesinde doğdu. Tarım Bakanlığında ziraat teknisyeni olarak göreve başlayan Zayim, Denizli’ye atanmadan önce Mersin’de il müdür yardımcılığı ve Alata Bahçe Kültürleri Araştırma Enstitüsü müdürlüğü yaptı.",
       "content": "Denizli İl Tarım ve Orman Müdürü Mustafa Nevzat Zayim, 1980 yılında Mersin’in Silifke ilçesinde doğdu. Tarım Bakanlığında ziraat teknisyeni olarak göreve başlayan Zayim, Denizli’ye atanmadan önce Mersin’de il müdür yardımcılığı ve Alata Bahçe Kültürleri Araştırma Enstitüsü müdürlüğü yaptı."
-    },
-    {
-      "title": "1.400 proje arasından birinci çıktı: Sütaş'ın \"Çiftlikten Sofralara\" modeline uluslararası ödül!",
-      "url": "https://www.tarimdanhaber.com/1400-proje-arasindan-birinci-cikti-sutasin-ciftlikten-sofralara-modeline-uluslararasi-odul",
-      "source": "Tarımdan Haber",
-      "date": "2026-11-15",
-      "summary": "Türkiye’nin öncü gıda devlerinden Sütaş, “Çiftlikten Sofralara” döngüsel iş modeliyle uluslararası alanda büyük bir başarıya imza attı. Sustainable Business (SB) COP Awards 2026 kapsamında 1.400 başvuru arasından seçilen Sütaş, prestijli \"Blueprint Ödülü\"nün sahibi oldu.",
-      "content": "Türkiye’nin öncü gıda devlerinden Sütaş, “Çiftlikten Sofralara” döngüsel iş modeliyle uluslararası alanda büyük bir başarıya imza attı. Sustainable Business (SB) COP Awards 2026 kapsamında 1.400 başvuru arasından seçilen Sütaş, prestijli \"Blueprint Ödülü\"nün sahibi oldu."
     }
   ],
   "commoditiesByBorsa": {
