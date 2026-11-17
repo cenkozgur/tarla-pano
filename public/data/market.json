@@ -1,43 +1,51 @@
 {
-  "updatedAt": "2026-11-16T18:07:34.745Z",
+  "updatedAt": "2026-11-17T01:52:14.977Z",
   "fx": [
     {
       "code": "USD",
       "name": "Dolar",
-      "buy": 50.38,
-      "sell": 50.4,
-      "change": 0.04
+      "buy": 50.4,
+      "sell": 50.43,
+      "change": 0.07
     },
     {
       "code": "EUR",
       "name": "Euro",
-      "buy": 55.47,
-      "sell": 55.48,
-      "change": -0.15
+      "buy": 55.44,
+      "sell": 55.49,
+      "change": 0.03
     },
     {
       "code": "GRA",
       "name": "Gram Altın",
-      "buy": 6235.02,
-      "sell": 6235.85,
-      "change": -0.71
+      "buy": 6266.66,
+      "sell": 6267.63,
+      "change": 0.45
     },
     {
       "code": "CEYREKALTIN",
       "name": "Çeyrek Altın",
-      "buy": 10209,
-      "sell": 10298,
-      "change": -0.19
+      "buy": 10260,
+      "sell": 10350,
+      "change": 0.45
     },
     {
       "code": "CUMHURIYETALTINI",
       "name": "Cumhuriyet Altını",
-      "buy": 41857,
-      "sell": 42124,
-      "change": -0.2
+      "buy": 42069,
+      "sell": 42337,
+      "change": 0.44
     }
   ],
   "news": [
+    {
+      "title": "\"Zarar ediyorum\" diyene hakaret eden çiftçinin yeğenine Türkşeker’den hızlı terfi!",
+      "url": "https://www.tarimdanhaber.com/zarar-ediyorum-diyene-hakaret-eden-ciftcinin-yegenine-turksekerden-hizli-terfi",
+      "source": "Tarımdan Haber",
+      "date": "2026-11-16",
+      "summary": "Pancardan zarar ettiğini söyleyen üreticileri yalancılıkla suçlayıp \"yüzlerine tükürmek istiyorum\" diyerek tepki çeken Çorumlu çiftçi Mustafa Ertuğral’ın yeğeni Halim Ertuğral, bu çıkışın hemen ardından Kars Şeker Fabrikası'na Ziraat Müdürü olarak atandı. 5 yıldır boş bekletilen kadronun, tam da bu ",
+      "content": "Pancardan zarar ettiğini söyleyen üreticileri yalancılıkla suçlayıp \"yüzlerine tükürmek istiyorum\" diyerek tepki çeken Çorumlu çiftçi Mustafa Ertuğral’ın yeğeni Halim Ertuğral, bu çıkışın hemen ardından Kars Şeker Fabrikası'na Ziraat Müdürü olarak atandı. 5 yıldır boş bekletilen kadronun, tam da bu tartışmalı açıklamanın hemen ardında doldurulması \"amcanın çıkışına bir ödül\" olarak değerlendirildi ve büyük tepki topladı."
+    },
     {
       "title": "Hububat fiyatlarında haftanın ipucu! Mısır 409 lira düştü, iki buğdayın yönü ayrıldı",
       "url": "https://www.tarimdanhaber.com/hububat-fiyatlarinda-haftanin-ipucu-misir-409-lira-dustu-iki-bugdayin-yonu-ayrildi",
@@ -93,14 +101,6 @@
       "date": "2026-11-15",
       "summary": "UKON’un 13 Kasım 2026 verilerine göre dana karkas kesim fiyatı 594 TL’den 598 TL’ye yükselirken kuzu karkas fiyatı 615 TL’den 611 TL’ye geriledi. Bursa’da ise 14–20 Kasım haftasında inek, dana ve düve kesim fiyatları 5’er TL arttı. Güncel kesim fiyatları haberimizde.",
       "content": "UKON’un 13 Kasım 2026 verilerine göre dana karkas kesim fiyatı 594 TL’den 598 TL’ye yükselirken kuzu karkas fiyatı 615 TL’den 611 TL’ye geriledi. Bursa’da ise 14–20 Kasım haftasında inek, dana ve düve kesim fiyatları 5’er TL arttı. Güncel kesim fiyatları haberimizde."
-    },
-    {
-      "title": "Gübretaş ve altın olmayınca Tarım Kredi’de açık büyüdü: 13 şirkette net zarar 904,5 milyon TL",
-      "url": "https://www.tarimdanhaber.com/huseyin-aydin-doneminde-tarim-kredi-istirakleri-tablosu-13-sirketten-6si-zarar-yazdi-acik-buyuyor",
-      "source": "Tarımdan Haber",
-      "date": "2026-11-15",
-      "summary": "Hüseyin Aydın yönetimindeki Tarım Kredi Kooperatifleri’ne bağlı 13 iştirak şirketinin 30 Haziran 2026 tarihli mali tabloları eksiye işaret ediyor. Kurumun en büyük gelir kalemleri arasında yer alan Gübretaş ve Söğüt Altın Madeni'nin kapsam dışı bırakıldığı bu 13 şirketlik listede, 7 iştirak kar etse",
-      "content": "Hüseyin Aydın yönetimindeki Tarım Kredi Kooperatifleri’ne bağlı 13 iştirak şirketinin 30 Haziran 2026 tarihli mali tabloları eksiye işaret ediyor. Kurumun en büyük gelir kalemleri arasında yer alan Gübretaş ve Söğüt Altın Madeni'nin kapsam dışı bırakıldığı bu 13 şirketlik listede, 7 iştirak kar etse de marketçilik ve yağ sanayisindeki milyarlık kayıplar toplam bilançoyu 904,5 milyon TL eksiye çekti."
     }
   ],
   "commoditiesByBorsa": {
@@ -309,16 +309,6 @@
   "errors": [
     "borsa 5ED10: fetch failed",
     "borsa 5KO10: fetch failed",
-    "borsa 5ES10: fetch failed",
-    "mazot ANKARA: Unexpected token '<', \"<!DOCTYPE \"... is not valid JSON",
-    "mazot ISTANBUL: Unexpected token '<', \"<!DOCTYPE \"... is not valid JSON",
-    "mazot IZMIR: Unexpected token '<', \"<!DOCTYPE \"... is not valid JSON",
-    "mazot KONYA: Unexpected token '<', \"<!DOCTYPE \"... is not valid JSON",
-    "mazot ADANA: Unexpected token '<', \"<!DOCTYPE \"... is not valid JSON",
-    "mazot BURSA: Unexpected token '<', \"<!DOCTYPE \"... is not valid JSON",
-    "mazot ANTALYA: Unexpected token '<', \"<!DOCTYPE \"... is not valid JSON",
-    "mazot SAMSUN: Unexpected token '<', \"<!DOCTYPE \"... is not valid JSON",
-    "mazot TEKIRDAG: Unexpected token '<', \"<!DOCTYPE \"... is not valid JSON",
-    "mazot CANAKKALE: Unexpected token '<', \"<!DOCTYPE \"... is not valid JSON"
+    "borsa 5ES10: fetch failed"
   ]
 }
