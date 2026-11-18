@@ -1,106 +1,106 @@
 {
-  "updatedAt": "2026-11-18T09:11:21.141Z",
+  "updatedAt": "2026-11-18T18:05:27.231Z",
   "fx": [
     {
       "code": "USD",
       "name": "Dolar",
-      "buy": 50.44,
+      "buy": 50.43,
       "sell": 50.45,
       "change": 0.05
     },
     {
       "code": "EUR",
       "name": "Euro",
-      "buy": 55.34,
-      "sell": 55.35,
-      "change": -0.34
+      "buy": 55.41,
+      "sell": 55.42,
+      "change": -0.21
     },
     {
       "code": "GRA",
       "name": "Gram Altın",
-      "buy": 6118.21,
-      "sell": 6119.03,
-      "change": -1.89
+      "buy": 6062.1,
+      "sell": 6063.14,
+      "change": -2.79
     },
     {
       "code": "CEYREKALTIN",
       "name": "Çeyrek Altın",
-      "buy": 10060,
-      "sell": 10144,
-      "change": -1.83
+      "buy": 9982,
+      "sell": 10078,
+      "change": -2.47
     },
     {
       "code": "CUMHURIYETALTINI",
       "name": "Cumhuriyet Altını",
-      "buy": 41246,
-      "sell": 41493,
-      "change": -1.83
+      "buy": 40928,
+      "sell": 41225,
+      "change": -2.46
     }
   ],
   "news": [
     {
-      "title": "Mersin’de Akdeniz Meyve Sineği zarar verdi mi? Bakanlık’tan kritik \"Ekonomik Eşik\" açıklaması",
-      "url": "https://www.tarimdanhaber.com/mersinde-akdeniz-meyve-sinegi-zarar-verdi-mi-bakanliktan-kritik-ekonomik-esik-aciklamasi",
+      "title": "Hindistan pirinçte rekor kırdı, üretim fazlası krize dönüştü: Türkiye için kritik uyarı!",
+      "url": "https://www.tarimdanhaber.com/hindistan-pirincte-rekor-kirdi-uretim-fazlasi-krize-donustu-turkiye-icin-kritik-uyari",
       "source": "Tarımdan Haber",
-      "date": "2026-11-17",
-      "summary": "CHP Mersin Milletvekili Gülcan Kış’ın narenciye ve şeftali üreticisinin korkulu rüyası olan Akdeniz meyve sineğiyle ilgili soru önergesine Tarım ve Orman Bakanlığı’ndan yanıt geldi. Bakanlık, Mersin’deki izleme sonuçlarını, dağıtılan tuzak sayılarını ve son yıllarda yapılan milyonlarca liralık deste",
-      "content": "CHP Mersin Milletvekili Gülcan Kış’ın narenciye ve şeftali üreticisinin korkulu rüyası olan Akdeniz meyve sineğiyle ilgili soru önergesine Tarım ve Orman Bakanlığı’ndan yanıt geldi. Bakanlık, Mersin’deki izleme sonuçlarını, dağıtılan tuzak sayılarını ve son yıllarda yapılan milyonlarca liralık destek tutarlarını paylaştı."
+      "date": "2026-11-18",
+      "summary": "Hindistan, bilimsel tarım ve devlet destekleriyle pirinç üretimini son 10 yılda %50 artırarak 154 milyon tona ulaştırdı. Dünya ticaretindeki payı %40’ı bulan ülkenin rekor stokları depolara sığmazken, bu devasa üretim başarısı derin bir ekonomik ve ekolojik krizi de beraberinde getirdi.",
+      "content": "Hindistan, bilimsel tarım ve devlet destekleriyle pirinç üretimini son 10 yılda %50 artırarak 154 milyon tona ulaştırdı. Dünya ticaretindeki payı %40’ı bulan ülkenin rekor stokları depolara sığmazken, bu devasa üretim başarısı derin bir ekonomik ve ekolojik krizi de beraberinde getirdi."
     },
     {
-      "title": "Akhisar’da zeytin üreticisinin fiyat isyanı Meclis gündemindeydi: Bakan Yumaklı 8 kritik soruyu yanıtsız bıraktı",
-      "url": "https://www.tarimdanhaber.com/akhisarda-zeytin-ureticisinin-fiyat-isyani-meclis-gundemindeydi-bakan-yumakli-8-kritik-soruyu-yanitsiz-birakti",
+      "title": "1.500 dönümlük Büyükova tehlikede: Sakarya'da köylüler toprağını korumak için birleşti!",
+      "url": "https://www.tarimdanhaber.com/1500-donumluk-buyukova-tehlikede-sakaryada-koyluler-topragini-korumak-icin-birlesti",
       "source": "Tarımdan Haber",
-      "date": "2026-11-17",
-      "summary": "Manisa’nın Akhisar ilçesinde zeytin üreticilerinin düşük fiyatlara karşı başlattığı protestolar ve üretim maliyetleri TBMM gündemine taşınmıştı. DEM Parti Kocaeli Milletvekili Ömer Faruk Gergerlioğlu’nun Tarım ve Orman Bakanı İbrahim Yumaklı’nın yanıtlaması istemiyle verdiği 8 maddelik yazılı soru ö",
-      "content": "Manisa’nın Akhisar ilçesinde zeytin üreticilerinin düşük fiyatlara karşı başlattığı protestolar ve üretim maliyetleri TBMM gündemine taşınmıştı. DEM Parti Kocaeli Milletvekili Ömer Faruk Gergerlioğlu’nun Tarım ve Orman Bakanı İbrahim Yumaklı’nın yanıtlaması istemiyle verdiği 8 maddelik yazılı soru önergesi, yasal süresi içinde yanıtlanmayarak Meclis kayıtlarına \"Cevaplanmadığı Gelen Kağıtlarda İlan Edildi\" notuyla geçti."
+      "date": "2026-11-18",
+      "summary": "Sakarya’nın Söğütlü ilçesi Maksudiye köyü ve çevre mahalle sakinleri, birinci sınıf tarım arazileri ile ormanları tehdit eden jeotermal kaynak arama projesine verilen \"ÇED Olumlu\" kararına karşı tek yürek oldu. Köy Konağı’nda düzenlenen geniş katılımlı istişare toplantısında konuşan mahalle sakinler",
+      "content": "Sakarya’nın Söğütlü ilçesi Maksudiye köyü ve çevre mahalle sakinleri, birinci sınıf tarım arazileri ile ormanları tehdit eden jeotermal kaynak arama projesine verilen \"ÇED Olumlu\" kararına karşı tek yürek oldu. Köy Konağı’nda düzenlenen geniş katılımlı istişare toplantısında konuşan mahalle sakinleri ve yetkililer, 30 yıllık ruhsat tehlikesine dikkat çekerek hukuki mücadele başlatacaklarını duyurdu."
     },
     {
-      "title": "Türkiye'de kaç büyükbaş ve küçükbaş işletmesi var? Gürer’in soru önergesine Bakanlık’tan yanıt",
-      "url": "https://www.tarimdanhaber.com/turkiyede-kac-buyukbas-ve-kucukbas-isletmesi-var-gurerin-soru-onergesine-bakanliktan-yanit",
+      "title": "Hasatta ürün elde kalmayacak, kredide yüzde 15 ek indirim uygulanacak! Ordu İl Müdürü detayları paylaştı",
+      "url": "https://www.tarimdanhaber.com/hasatta-urun-elde-kalmayacak-kredide-yuzde-15-ek-indirim-uygulanacak-ordu-il-muduru-detaylari-paylasti",
       "source": "Tarımdan Haber",
-      "date": "2026-11-17",
-      "summary": "CHP Niğde Milletvekili Ömer Fethi Gürer’in, Türkiye’deki hayvancılık işletmeleri, hastalıklar, ari işletme sayıları ve telef olan hayvanlara ilişkin soru önergesine Tarım ve Orman Bakanı İbrahim Yumaklı’dan yanıt geldi. Bakanlık verilerine göre Türkiye genelinde büyükbaş ve küçükbaş işletme sayıları",
-      "content": "CHP Niğde Milletvekili Ömer Fethi Gürer’in, Türkiye’deki hayvancılık işletmeleri, hastalıklar, ari işletme sayıları ve telef olan hayvanlara ilişkin soru önergesine Tarım ve Orman Bakanı İbrahim Yumaklı’dan yanıt geldi. Bakanlık verilerine göre Türkiye genelinde büyükbaş ve küçükbaş işletme sayıları ile hastalıktan ari işletme rakamları açıklandı."
+      "date": "2026-11-18",
+      "summary": "Ordu İl Tarım ve Orman Müdürü Bayram Ay, sözleşmeli üretim modelinin üreticilere sunduğu pazar güvencesi, kredi faiz indirimleri ve sigorta prim avantajlarına ilişkin kritik detayları paylaştı. Model kapsamında çiftçilere kredi kullanımlarında ilave yüzde 15 faiz/kar payı indirimi sağlanırken, alıcı",
+      "content": "Ordu İl Tarım ve Orman Müdürü Bayram Ay, sözleşmeli üretim modelinin üreticilere sunduğu pazar güvencesi, kredi faiz indirimleri ve sigorta prim avantajlarına ilişkin kritik detayları paylaştı. Model kapsamında çiftçilere kredi kullanımlarında ilave yüzde 15 faiz/kar payı indirimi sağlanırken, alıcılara ise 200 milyon TL’ye kadar destekli finansman imkanı tanınıyor."
     },
     {
-      "title": "ÇKS ve beyanname uyumunda yeni dönem: Tapusuz ve hisseli arazilerde üretim yapanlar ne olacak?",
-      "url": "https://www.tarimdanhaber.com/cks-ve-beyanname-uyumunda-yeni-donem-tapusuz-ve-hisseli-arazilerde-uretim-yapanlar-ne-olacak",
+      "title": "Çiftçinin üretim şekli değişiyor: İşte tarımın geleceğini belirleyecek 25 kritik kavram!",
+      "url": "https://www.tarimdanhaber.com/ciftcinin-uretim-sekli-degisiyor-iste-tarimin-gelecegini-belirleyecek-25-kritik-kavram",
       "source": "Tarımdan Haber",
-      "date": "2026-11-17",
-      "summary": "Tarım ve Orman Bakanlığı’nın yeni sezon hazırlıkları kapsamında gündeme gelen \"ÇKS ve beyanname uyumu\" şartı, tarım ve tohumculuk sektöründe en çok konuşulan başlık haline geldi. Sektör kulislerinde; tapusu bulunmayan, hisseli veya parselsiz arazilerde ekim yapan üreticilerin yeni dönemde nasıl bir ",
-      "content": "Tarım ve Orman Bakanlığı’nın yeni sezon hazırlıkları kapsamında gündeme gelen \"ÇKS ve beyanname uyumu\" şartı, tarım ve tohumculuk sektöründe en çok konuşulan başlık haline geldi. Sektör kulislerinde; tapusu bulunmayan, hisseli veya parselsiz arazilerde ekim yapan üreticilerin yeni dönemde nasıl bir yol izleyeceği tartışılıyor."
+      "date": "2026-11-18",
+      "summary": "Tarım politikaları uzmanı Ergin Kahveci, Carbon Brief’in yayımladığı kapsamlı çalışma üzerinden küresel tarımdaki dönüşümü masaya yatırdı. Dünyada farklı isimlerle tartışılan 25 yeni yaklaşımın toprak, su ve iklim krizine karşı dört ana eksende birleştiğine dikkat çekilen analizde, geleceğin tarımın",
+      "content": "Tarım politikaları uzmanı Ergin Kahveci, Carbon Brief’in yayımladığı kapsamlı çalışma üzerinden küresel tarımdaki dönüşümü masaya yatırdı. Dünyada farklı isimlerle tartışılan 25 yeni yaklaşımın toprak, su ve iklim krizine karşı dört ana eksende birleştiğine dikkat çekilen analizde, geleceğin tarımının tek bir modele değil, doğru yöntemlerin birlikte harmanlanmasına dayandığı vurgulandı."
     },
     {
-      "title": "Su ürünleri yetiştiricilerine kritik destek uyarısı: Başvurular başladı, son gün 18 Aralık!",
-      "url": "https://www.tarimdanhaber.com/su-urunleri-yetistiricilerine-kritik-destek-uyarisi-basvurular-basladi-son-gun-18-aralik",
+      "title": "Elazığ Tarım ve Orman İl Müdürü Saadettin Taşkesen kimdir? Biyografisi ve kariyeri",
+      "url": "https://www.tarimdanhaber.com/elazig-tarim-ve-orman-il-muduru-saadettin-taskesen-kimdir-biyografisi-ve-kariyeri",
       "source": "Tarımdan Haber",
-      "date": "2026-11-17",
-      "summary": "Aydın İl Tarım ve Orman Müdürlüğü, 2026 yılı Su Ürünleri Yetiştiriciliği Desteklemesi başvuru takvimini yayımladı. Desteklemeden yararlanmak isteyen üreticilerin 18 Aralık 2026 tarihine kadar ilçe müdürlüklerine başvuruda bulunmaları gerekirken, Aralık ayı belgeleri için ise kritik bir ek tarih beli",
-      "content": "Aydın İl Tarım ve Orman Müdürlüğü, 2026 yılı Su Ürünleri Yetiştiriciliği Desteklemesi başvuru takvimini yayımladı. Desteklemeden yararlanmak isteyen üreticilerin 18 Aralık 2026 tarihine kadar ilçe müdürlüklerine başvuruda bulunmaları gerekirken, Aralık ayı belgeleri için ise kritik bir ek tarih belirlendi."
+      "date": "2026-11-18",
+      "summary": "Elazığ İl Tarım ve Orman Müdürü Saadettin Taşkesen kimdir, nerelidir ve daha önce hangi görevlerde bulundu? Ziraat mühendisliği eğitiminin ardından Muş ve Erzincan'da üstlendiği kritik idari görevlerle sahadan yetişen Saadettin Taşkesen’in eğitim hayatı ve kariyer yolculuğuna dair tüm detaylar haber",
+      "content": "Elazığ İl Tarım ve Orman Müdürü Saadettin Taşkesen kimdir, nerelidir ve daha önce hangi görevlerde bulundu? Ziraat mühendisliği eğitiminin ardından Muş ve Erzincan'da üstlendiği kritik idari görevlerle sahadan yetişen Saadettin Taşkesen’in eğitim hayatı ve kariyer yolculuğuna dair tüm detaylar haberimizde..."
     },
     {
-      "title": "Arıcılara yüzde 75 hibe müjdesi: \"Bereketli Bal Projesi\" başladı, son gün 23 Kasım!",
-      "url": "https://www.tarimdanhaber.com/aricilara-yuzde-75-hibe-mujdesi-bereketli-bal-projesi-basladi-son-gun-23-kasim",
+      "title": "Çiftçilere 1 yıllık hazine arazisi kiralama fırsatı: Mardin'de başvurular resmen başladı!",
+      "url": "https://www.tarimdanhaber.com/ciftcilere-1-yillik-hazine-arazisi-kiralama-firsati-mardinde-basvurular-resmen-basladi",
       "source": "Tarımdan Haber",
-      "date": "2026-11-17",
-      "summary": "Tarım ve Orman Bakanlığı tarafından desteklenen \"Modern Kovan, Bereketli Bal Projesi\" kapsamında arıcılara yüzde 75 hibeli kovan dağıtımı yapılacak. Bingöl İl Tarım ve Orman Müdürlüğü tarafından yürütülen projeden yararlanmak isteyen üreticiler için son başvuru tarihi 23 Kasım 2026 olarak açıklandı.",
-      "content": "Tarım ve Orman Bakanlığı tarafından desteklenen \"Modern Kovan, Bereketli Bal Projesi\" kapsamında arıcılara yüzde 75 hibeli kovan dağıtımı yapılacak. Bingöl İl Tarım ve Orman Müdürlüğü tarafından yürütülen projeden yararlanmak isteyen üreticiler için son başvuru tarihi 23 Kasım 2026 olarak açıklandı."
+      "date": "2026-11-18",
+      "summary": "Mardin İl Tarım ve Orman Müdürlüğü, 6 ilçede bulunan Hazine arazilerinin 2026/2027 üretim dönemi için kiralama sürecinin resmen başladığını duyurdu. Tarımsal Üretim Planlaması ve ÇKS kaydının zorunlu tutulacağı kiralamalar için üreticilere 16 Şubat 2027 tarihine kadar süre tanındı.",
+      "content": "Mardin İl Tarım ve Orman Müdürlüğü, 6 ilçede bulunan Hazine arazilerinin 2026/2027 üretim dönemi için kiralama sürecinin resmen başladığını duyurdu. Tarımsal Üretim Planlaması ve ÇKS kaydının zorunlu tutulacağı kiralamalar için üreticilere 16 Şubat 2027 tarihine kadar süre tanındı."
     },
     {
-      "title": "Buzağı desteği alacak yetiştiriciler dikkat: Askı listeleri yayımlandı, süreyi kaçırmayın!",
-      "url": "https://www.tarimdanhaber.com/buzagi-destegi-alacak-yetistiriciler-dikkat-aski-listeleri-yayimlandi-sureyi-kacirmayin",
+      "title": "Yavru kaybı yaşayan besiciye devlet desteği: Büyükbaşta 20.000 TL, küçükbaşta 4.000 TL ödenecek!",
+      "url": "https://www.tarimdanhaber.com/yavru-kaybi-yasayan-besiciye-devlet-destegi-buyukbasta-20000-tl-kucukbasta-4000-tl-odenecek",
       "source": "Tarımdan Haber",
-      "date": "2026-11-17",
-      "summary": "Bingöl İl Tarım ve Orman Müdürlüğü, 2026 yılı buzağı desteklemelerine ilişkin kritik duyuruyu yayımladı. Hayvancılık desteklerinden yararlanacak üreticilerin mağduriyet yaşamamaları için askı listelerini kontrol etmeleri ve olası eksiklikler için süresi içinde başvuruda bulunmaları gerekiyor.",
-      "content": "Bingöl İl Tarım ve Orman Müdürlüğü, 2026 yılı buzağı desteklemelerine ilişkin kritik duyuruyu yayımladı. Hayvancılık desteklerinden yararlanacak üreticilerin mağduriyet yaşamamaları için askı listelerini kontrol etmeleri ve olası eksiklikler için süresi içinde başvuruda bulunmaları gerekiyor."
+      "date": "2026-11-18",
+      "summary": "Şırnak İl Tarım ve Orman Müdürlüğü, Cumhurbaşkanı Kararı ile hayvancılık sektöründe kritik bir desteğin devreye alındığını duyurdu. Yeni düzenlemeyle birlikte sadece aşıya bağlı değil, tüm nedenlerle yaşanan yavru kayıpları destek kapsamına alınırken; büyükbaşta 20.000 TL, küçükbaşta ise 4.000 TL öd",
+      "content": "Şırnak İl Tarım ve Orman Müdürlüğü, Cumhurbaşkanı Kararı ile hayvancılık sektöründe kritik bir desteğin devreye alındığını duyurdu. Yeni düzenlemeyle birlikte sadece aşıya bağlı değil, tüm nedenlerle yaşanan yavru kayıpları destek kapsamına alınırken; büyükbaşta 20.000 TL, küçükbaşta ise 4.000 TL ödeme yapılacağı açıklandı."
     },
     {
-      "title": "Yem ve besilik arttı, kesim fiyatı sabit kaldı: UKON et sektörü raporu tehlikeli sıkışmayı ifşa etti!",
-      "url": "https://www.tarimdanhaber.com/yem-ve-besilik-artti-kesim-fiyati-sabit-kaldi-ukon-et-sektoru-raporu-tehlikeli-sikismayi-ifsa-etti",
+      "title": "Küçükbaş üreticisine dev destek: Yüzde 70 hibeli ızgara taban başvuruları başladı, yarın son gün!",
+      "url": "https://www.tarimdanhaber.com/kucukbas-ureticisine-dev-destek-yuzde-70-hibeli-izgara-taban-basvurulari-basladi-yarin-son-gun",
       "source": "Tarımdan Haber",
-      "date": "2026-11-17",
-      "summary": "Ulusal Kırmızı Et Konseyi’nin (UKON) yayımladığı 2026 yılı değerlendirme raporu, kırmızı et piyasasındaki dikkat çekici maliyet-fiyat dengesizliğini resmi rakamlarla gözler önüne serdi. Yıl boyunca yem ve besilik hayvan maliyetleri %23 ile %30 bandında artış gösterirken, dana karkas kesim fiyatların",
-      "content": "Ulusal Kırmızı Et Konseyi’nin (UKON) yayımladığı 2026 yılı değerlendirme raporu, kırmızı et piyasasındaki dikkat çekici maliyet-fiyat dengesizliğini resmi rakamlarla gözler önüne serdi. Yıl boyunca yem ve besilik hayvan maliyetleri %23 ile %30 bandında artış gösterirken, dana karkas kesim fiyatlarının 586 TL seviyesinde sabit kalması besicinin kar marjını eritti."
+      "date": "2026-11-18",
+      "summary": "Ordu İl Tarım ve Orman Müdürlüğü, küçükbaş hayvan yetiştiricilerinin ağıl hijyenini artıracak ve iş yükünü hafifletecek yüzde 70 hibeli plastik ızgara taban sistemi projesini hayata geçirdi. Toplam 1.000 metrekarelik alanı kapsayan destekten yararlanmak isteyen üreticiler için son başvuru tarihi 19 ",
+      "content": "Ordu İl Tarım ve Orman Müdürlüğü, küçükbaş hayvan yetiştiricilerinin ağıl hijyenini artıracak ve iş yükünü hafifletecek yüzde 70 hibeli plastik ızgara taban sistemi projesini hayata geçirdi. Toplam 1.000 metrekarelik alanı kapsayan destekten yararlanmak isteyen üreticiler için son başvuru tarihi 19 Kasım Perşembe mesai bitimi olarak açıklandı."
     }
   ],
   "commoditiesByBorsa": {
