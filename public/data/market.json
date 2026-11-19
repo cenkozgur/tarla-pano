@@ -1,43 +1,67 @@
 {
-  "updatedAt": "2026-11-19T16:49:49.550Z",
+  "updatedAt": "2026-11-19T23:15:59.134Z",
   "fx": [
     {
       "code": "USD",
       "name": "Dolar",
-      "buy": 50.46,
-      "sell": 50.47,
-      "change": 0.06
+      "buy": 50.56,
+      "sell": 50.59,
+      "change": 0.22
     },
     {
       "code": "EUR",
       "name": "Euro",
-      "buy": 55.55,
+      "buy": 55.49,
       "sell": 55.56,
-      "change": 0.27
+      "change": -0.01
     },
     {
       "code": "GRA",
       "name": "Gram Altın",
-      "buy": 5985.92,
-      "sell": 5986.76,
-      "change": -0.88
+      "buy": 5901.84,
+      "sell": 5902.9,
+      "change": -0.6
     },
     {
       "code": "CEYREKALTIN",
       "name": "Çeyrek Altın",
-      "buy": 9923,
-      "sell": 10054,
-      "change": 0.12
+      "buy": 9784,
+      "sell": 9915,
+      "change": -0.61
     },
     {
       "code": "CUMHURIYETALTINI",
       "name": "Cumhuriyet Altını",
-      "buy": 40648,
-      "sell": 41093,
-      "change": 0.04
+      "buy": 40078,
+      "sell": 40525,
+      "change": -0.61
     }
   ],
   "news": [
+    {
+      "title": "Traktör pazarındaki daralma bilançolara yansıdı: TürkTraktör ve TÜMOSAN’dan 3,67 milyar TL zarar",
+      "url": "https://www.tarimdanhaber.com/traktor-pazarindaki-daralma-bilancolara-yansidi-turktraktor-ve-tumosandan-367-milyar-tl-zarar",
+      "source": "Tarımdan Haber",
+      "date": "2026-11-19",
+      "summary": "TürkTraktör ve TÜMOSAN, 2026’nın ilk dokuz ayını zararla kapattı. TürkTraktör’ün yurt içi traktör satışları yüzde 51 gerilerken şirket 789 milyon TL net zarar açıkladı. TÜMOSAN’da ise ciro yaklaşık yüzde 1 düşmesine rağmen net zarar 2,88 milyar TL’ye ulaştı.",
+      "content": "TürkTraktör ve TÜMOSAN, 2026’nın ilk dokuz ayını zararla kapattı. TürkTraktör’ün yurt içi traktör satışları yüzde 51 gerilerken şirket 789 milyon TL net zarar açıkladı. TÜMOSAN’da ise ciro yaklaşık yüzde 1 düşmesine rağmen net zarar 2,88 milyar TL’ye ulaştı."
+    },
+    {
+      "title": "Maliyeti 55 lira, Marmarabirlik 40 lira dedi, tüccar 16 liraya çaktı: Zeytin üreticisi ne yapsın?",
+      "url": "https://www.tarimdanhaber.com/maliyeti-55-lira-marmarabirlik-40-lira-dedi-tuccar-16-liraya-cakti-zeytin-ureticisi-ne-yapsin",
+      "source": "Tarımdan Haber",
+      "date": "2026-11-19",
+      "summary": "Marmarabirlik’in yağlık zeytin alım fiyatını geçen yılki 53 liranın altında 40 lira olarak açıklamasına ve uyguladığı kotaya tepki gösteren İYİ Parti Grup Başkanvekili Turhan Çömez, kilosu 55 lira maliyetli zeytinin kota dışı kalan kısmının Akhisar’da tüccara 16 liraya satılmak zorunda kalındığını s",
+      "content": "Marmarabirlik’in yağlık zeytin alım fiyatını geçen yılki 53 liranın altında 40 lira olarak açıklamasına ve uyguladığı kotaya tepki gösteren İYİ Parti Grup Başkanvekili Turhan Çömez, kilosu 55 lira maliyetli zeytinin kota dışı kalan kısmının Akhisar’da tüccara 16 liraya satılmak zorunda kalındığını söyledi."
+    },
+    {
+      "title": "Polonya Tarım Bakanı’ndan dikkat çeken çıkış: “Tüm maliyetleri çiftçilere yükleyemezsiniz”",
+      "url": "https://www.tarimdanhaber.com/polonya-tarim-bakanindan-dikkat-ceken-cikis-tum-maliyetleri-ciftcilere-yukleyemezsiniz",
+      "source": "Tarımdan Haber",
+      "date": "2026-11-19",
+      "summary": "Polonya Tarım Bakanı Stefan Krajewski, artan girdi maliyetleri, kuraklık ve dış rekabet baskısı altında tarımsal dönüşümün bütün yükünün çiftçilere bırakılamayacağını söyledi. Krajewski, su yönetimi için 2027 bütçesinde 80 milyon zloti ayrıldığını ve tarım sigortası sisteminde değişiklikler üzerinde",
+      "content": "Polonya Tarım Bakanı Stefan Krajewski, artan girdi maliyetleri, kuraklık ve dış rekabet baskısı altında tarımsal dönüşümün bütün yükünün çiftçilere bırakılamayacağını söyledi. Krajewski, su yönetimi için 2027 bütçesinde 80 milyon zloti ayrıldığını ve tarım sigortası sisteminde değişiklikler üzerinde çalışıldığını açıkladı."
+    },
     {
       "title": "Türkiye tarımda dünya ortalamasını 2,5’e katladı! Yüzde 2’lik verimlilik artışı kalıcı mı?",
       "url": "https://www.tarimdanhaber.com/turkiye-tarimda-dunya-ortalamasini-25e-katladi-yuzde-2lik-verimlilik-artisi-kalici-mi",
@@ -77,30 +101,6 @@
       "date": "2026-11-18",
       "summary": "Türkiye Ürün İhtisas Borsası (TÜRİB) ile Türkiye genelindeki 15 ticaret borsasının 18 Kasım 2026 tarihli ortalama hububat işlem fiyatları açıklandı. Ekmeklik buğday ve mısır fiyatlarında TÜRİB verilerinin fiziki borsaların üzerinde seyretmesi dikkat çekti.",
       "content": "Türkiye Ürün İhtisas Borsası (TÜRİB) ile Türkiye genelindeki 15 ticaret borsasının 18 Kasım 2026 tarihli ortalama hububat işlem fiyatları açıklandı. Ekmeklik buğday ve mısır fiyatlarında TÜRİB verilerinin fiziki borsaların üzerinde seyretmesi dikkat çekti."
-    },
-    {
-      "title": "Hindistan pirinçte rekor kırdı, üretim fazlası krize dönüştü: Türkiye için kritik uyarı!",
-      "url": "https://www.tarimdanhaber.com/hindistan-pirincte-rekor-kirdi-uretim-fazlasi-krize-donustu-turkiye-icin-kritik-uyari",
-      "source": "Tarımdan Haber",
-      "date": "2026-11-18",
-      "summary": "Hindistan, bilimsel tarım ve devlet destekleriyle pirinç üretimini son 10 yılda %50 artırarak 154 milyon tona ulaştırdı. Dünya ticaretindeki payı %40’ı bulan ülkenin rekor stokları depolara sığmazken, bu devasa üretim başarısı derin bir ekonomik ve ekolojik krizi de beraberinde getirdi.",
-      "content": "Hindistan, bilimsel tarım ve devlet destekleriyle pirinç üretimini son 10 yılda %50 artırarak 154 milyon tona ulaştırdı. Dünya ticaretindeki payı %40’ı bulan ülkenin rekor stokları depolara sığmazken, bu devasa üretim başarısı derin bir ekonomik ve ekolojik krizi de beraberinde getirdi."
-    },
-    {
-      "title": "1.500 dönümlük Büyükova tehlikede: Sakarya'da köylüler toprağını korumak için birleşti!",
-      "url": "https://www.tarimdanhaber.com/1500-donumluk-buyukova-tehlikede-sakaryada-koyluler-topragini-korumak-icin-birlesti",
-      "source": "Tarımdan Haber",
-      "date": "2026-11-18",
-      "summary": "Sakarya’nın Söğütlü ilçesi Maksudiye köyü ve çevre mahalle sakinleri, birinci sınıf tarım arazileri ile ormanları tehdit eden jeotermal kaynak arama projesine verilen \"ÇED Olumlu\" kararına karşı tek yürek oldu. Köy Konağı’nda düzenlenen geniş katılımlı istişare toplantısında konuşan mahalle sakinler",
-      "content": "Sakarya’nın Söğütlü ilçesi Maksudiye köyü ve çevre mahalle sakinleri, birinci sınıf tarım arazileri ile ormanları tehdit eden jeotermal kaynak arama projesine verilen \"ÇED Olumlu\" kararına karşı tek yürek oldu. Köy Konağı’nda düzenlenen geniş katılımlı istişare toplantısında konuşan mahalle sakinleri ve yetkililer, 30 yıllık ruhsat tehlikesine dikkat çekerek hukuki mücadele başlatacaklarını duyurdu."
-    },
-    {
-      "title": "Hasatta ürün elde kalmayacak, kredide yüzde 15 ek indirim uygulanacak! Ordu İl Müdürü detayları paylaştı",
-      "url": "https://www.tarimdanhaber.com/hasatta-urun-elde-kalmayacak-kredide-yuzde-15-ek-indirim-uygulanacak-ordu-il-muduru-detaylari-paylasti",
-      "source": "Tarımdan Haber",
-      "date": "2026-11-18",
-      "summary": "Ordu İl Tarım ve Orman Müdürü Bayram Ay, sözleşmeli üretim modelinin üreticilere sunduğu pazar güvencesi, kredi faiz indirimleri ve sigorta prim avantajlarına ilişkin kritik detayları paylaştı. Model kapsamında çiftçilere kredi kullanımlarında ilave yüzde 15 faiz/kar payı indirimi sağlanırken, alıcı",
-      "content": "Ordu İl Tarım ve Orman Müdürü Bayram Ay, sözleşmeli üretim modelinin üreticilere sunduğu pazar güvencesi, kredi faiz indirimleri ve sigorta prim avantajlarına ilişkin kritik detayları paylaştı. Model kapsamında çiftçilere kredi kullanımlarında ilave yüzde 15 faiz/kar payı indirimi sağlanırken, alıcılara ise 200 milyon TL’ye kadar destekli finansman imkanı tanınıyor."
     }
   ],
   "commoditiesByBorsa": {
@@ -254,24 +254,24 @@
     }
   ],
   "dieselByCity": {
-    "ANKARA": 96.4,
-    "ISTANBUL": 95.25,
-    "IZMIR": 96.7,
-    "KONYA": 97.6,
-    "ADANA": 97.3,
-    "BURSA": 96.3,
-    "ANTALYA": 97.8,
-    "SAMSUN": 97,
-    "TEKIRDAG": 96.2,
-    "CANAKKALE": 97.1
+    "ANKARA": 89.9,
+    "ISTANBUL": 88.75,
+    "IZMIR": 90.2,
+    "KONYA": 91.1,
+    "ADANA": 90.8,
+    "BURSA": 89.8,
+    "ANTALYA": 91.3,
+    "SAMSUN": 90.5,
+    "TEKIRDAG": 89.7,
+    "CANAKKALE": 90.6
   },
   "inputs": [
     {
       "key": "motorin",
       "name": "Motorin (mazot)",
       "unit": "₺/lt",
-      "price": 97.1,
-      "change": 0,
+      "price": 90.6,
+      "change": -6.69,
       "source": "CANAKKALE ort."
     },
     {
