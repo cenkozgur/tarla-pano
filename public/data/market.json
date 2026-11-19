@@ -1,43 +1,51 @@
 {
-  "updatedAt": "2026-11-19T00:23:41.860Z",
+  "updatedAt": "2026-11-19T07:46:55.941Z",
   "fx": [
     {
       "code": "USD",
       "name": "Dolar",
-      "buy": 504527,
-      "sell": 504746,
-      "change": 6
+      "buy": 50.46,
+      "sell": 50.47,
+      "change": 0.07
     },
     {
       "code": "EUR",
       "name": "Euro",
-      "buy": 554568,
-      "sell": 555477,
-      "change": 18
+      "buy": 55.51,
+      "sell": 55.52,
+      "change": 0.2
     },
     {
       "code": "GRA",
       "name": "Gram Altın",
-      "buy": 606848,
-      "sell": 606937,
-      "change": 48
+      "buy": 6056.7,
+      "sell": 6057.74,
+      "change": 0.29
     },
     {
       "code": "CEYREKALTIN",
       "name": "Çeyrek Altın",
-      "buy": 9993,
-      "sell": 10089,
-      "change": 47
+      "buy": 9983,
+      "sell": 10059,
+      "change": 0.17
     },
     {
       "code": "CUMHURIYETALTINI",
       "name": "Cumhuriyet Altını",
-      "buy": 40971,
-      "sell": 41270,
-      "change": 47
+      "buy": 40893,
+      "sell": 41157,
+      "change": 0.19
     }
   ],
   "news": [
+    {
+      "title": "Çiğ süt desteğinde son gün uyarısı: Veri girişi bugün bitiyor, askı süreci 27 Kasım’da başlıyor",
+      "url": "https://www.tarimdanhaber.com/cig-sut-desteginde-son-gun-uyarisi-veri-girisi-bugun-bitiyor-aski-sureci-27-kasimda-basliyor",
+      "source": "Tarımdan Haber",
+      "date": "2026-11-19",
+      "summary": "HAYGEM, 2026 yılı Temmuz-Ağustos-Eylül dönemi çiğ süt desteği çalışma takvimini yayımladı. Süt Kayıt Sistemi’nde veri girişleri 19 Kasım’da sona ererken, İcmal 2 askı süreci 27 Kasım – 3 Aralık tarihleri arasında uygulanacak.",
+      "content": "HAYGEM, 2026 yılı Temmuz-Ağustos-Eylül dönemi çiğ süt desteği çalışma takvimini yayımladı. Süt Kayıt Sistemi’nde veri girişleri 19 Kasım’da sona ererken, İcmal 2 askı süreci 27 Kasım – 3 Aralık tarihleri arasında uygulanacak."
+    },
     {
       "title": "18 Kasım 2026 hububat fiyatları belli oldu: TÜRİB ve 15 Ticaret Borsasında son durum!",
       "url": "https://www.tarimdanhaber.com/hububat-fiyatlari",
@@ -93,14 +101,6 @@
       "date": "2026-11-18",
       "summary": "Mardin İl Tarım ve Orman Müdürlüğü, 6 ilçede bulunan Hazine arazilerinin 2026/2027 üretim dönemi için kiralama sürecinin resmen başladığını duyurdu. Tarımsal Üretim Planlaması ve ÇKS kaydının zorunlu tutulacağı kiralamalar için üreticilere 16 Şubat 2027 tarihine kadar süre tanındı.",
       "content": "Mardin İl Tarım ve Orman Müdürlüğü, 6 ilçede bulunan Hazine arazilerinin 2026/2027 üretim dönemi için kiralama sürecinin resmen başladığını duyurdu. Tarımsal Üretim Planlaması ve ÇKS kaydının zorunlu tutulacağı kiralamalar için üreticilere 16 Şubat 2027 tarihine kadar süre tanındı."
-    },
-    {
-      "title": "Yavru kaybı yaşayan besiciye devlet desteği: Büyükbaşta 20.000 TL, küçükbaşta 4.000 TL ödenecek!",
-      "url": "https://www.tarimdanhaber.com/yavru-kaybi-yasayan-besiciye-devlet-destegi-buyukbasta-20000-tl-kucukbasta-4000-tl-odenecek",
-      "source": "Tarımdan Haber",
-      "date": "2026-11-18",
-      "summary": "Şırnak İl Tarım ve Orman Müdürlüğü, Cumhurbaşkanı Kararı ile hayvancılık sektöründe kritik bir desteğin devreye alındığını duyurdu. Yeni düzenlemeyle birlikte sadece aşıya bağlı değil, tüm nedenlerle yaşanan yavru kayıpları destek kapsamına alınırken; büyükbaşta 20.000 TL, küçükbaşta ise 4.000 TL öd",
-      "content": "Şırnak İl Tarım ve Orman Müdürlüğü, Cumhurbaşkanı Kararı ile hayvancılık sektöründe kritik bir desteğin devreye alındığını duyurdu. Yeni düzenlemeyle birlikte sadece aşıya bağlı değil, tüm nedenlerle yaşanan yavru kayıpları destek kapsamına alınırken; büyükbaşta 20.000 TL, küçükbaşta ise 4.000 TL ödeme yapılacağı açıklandı."
     }
   ],
   "commoditiesByBorsa": {
@@ -271,7 +271,7 @@
       "name": "Motorin (mazot)",
       "unit": "₺/lt",
       "price": 97.1,
-      "change": 0.1,
+      "change": 0,
       "source": "CANAKKALE ort."
     },
     {
@@ -309,6 +309,14 @@
   "errors": [
     "borsa 5ED10: fetch failed",
     "borsa 5KO10: fetch failed",
-    "borsa 5ES10: fetch failed"
+    "borsa 5ES10: fetch failed",
+    "mazot IZMIR: fetch failed",
+    "mazot KONYA: fetch failed",
+    "mazot ADANA: fetch failed",
+    "mazot BURSA: fetch failed",
+    "mazot ANTALYA: fetch failed",
+    "mazot SAMSUN: fetch failed",
+    "mazot TEKIRDAG: fetch failed",
+    "mazot CANAKKALE: fetch failed"
   ]
 }
