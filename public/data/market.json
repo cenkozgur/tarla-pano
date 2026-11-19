@@ -1,43 +1,67 @@
 {
-  "updatedAt": "2026-11-19T07:46:55.941Z",
+  "updatedAt": "2026-11-19T16:49:49.550Z",
   "fx": [
     {
       "code": "USD",
       "name": "Dolar",
       "buy": 50.46,
       "sell": 50.47,
-      "change": 0.07
+      "change": 0.06
     },
     {
       "code": "EUR",
       "name": "Euro",
-      "buy": 55.51,
-      "sell": 55.52,
-      "change": 0.2
+      "buy": 55.55,
+      "sell": 55.56,
+      "change": 0.27
     },
     {
       "code": "GRA",
       "name": "Gram Altın",
-      "buy": 6056.7,
-      "sell": 6057.74,
-      "change": 0.29
+      "buy": 5985.92,
+      "sell": 5986.76,
+      "change": -0.88
     },
     {
       "code": "CEYREKALTIN",
       "name": "Çeyrek Altın",
-      "buy": 9983,
-      "sell": 10059,
-      "change": 0.17
+      "buy": 9923,
+      "sell": 10054,
+      "change": 0.12
     },
     {
       "code": "CUMHURIYETALTINI",
       "name": "Cumhuriyet Altını",
-      "buy": 40893,
-      "sell": 41157,
-      "change": 0.19
+      "buy": 40648,
+      "sell": 41093,
+      "change": 0.04
     }
   ],
   "news": [
+    {
+      "title": "Türkiye tarımda dünya ortalamasını 2,5’e katladı! Yüzde 2’lik verimlilik artışı kalıcı mı?",
+      "url": "https://www.tarimdanhaber.com/turkiye-tarimda-dunya-ortalamasini-25e-katladi-yuzde-2lik-verimlilik-artisi-kalici-mi",
+      "source": "Tarımdan Haber",
+      "date": "2026-11-19",
+      "summary": "OECD’ye göre 2014–2023 döneminde tarımsal verimlilik ABD’de yılda yüzde 0,1, Türkiye’de yüzde 2 arttı. Dünya ortalamasının 2,5 katına ulaşan Türkiye’de tarım, tatlı su çekimlerinin yüzde 85’ini oluştururken bilgi ve inovasyona tarımsal genel hizmet harcamalarından yüzde 1 bile ayrılmadı. Tarım Polit",
+      "content": "OECD’ye göre 2014–2023 döneminde tarımsal verimlilik ABD’de yılda yüzde 0,1, Türkiye’de yüzde 2 arttı. Dünya ortalamasının 2,5 katına ulaşan Türkiye’de tarım, tatlı su çekimlerinin yüzde 85’ini oluştururken bilgi ve inovasyona tarımsal genel hizmet harcamalarından yüzde 1 bile ayrılmadı. Tarım Politikaları Uzmanı Ergin Kahveci, \"Bizdeki yüzde 2,0’lik verimlilik mucize mi, son koz son şans mı?\" dedi."
+    },
+    {
+      "title": "Köy-Koop'tan TOBB'a Nefes Kredisi tepkisi: Tacire açık, kooperatiflere neden kapalı?",
+      "url": "https://www.tarimdanhaber.com/koy-kooptan-tobba-nefes-kredisi-tepkisi-tacire-acik-kooperatiflere-neden-kapali",
+      "source": "Tarımdan Haber",
+      "date": "2026-11-19",
+      "summary": "TOBB öncülüğünde ve KGF kefaletiyle sunulan Nefes Kredisi’nde tarımsal kalkınma ve sulama kooperatiflerinin kapsam dışı bırakılmasına tepki gösteren Köy-Koop, oda ve borsalara kayıtlı olup düzenli aidat ödeyen kooperatiflerin finansmana erişimden mahrum bırakılmasını \"çifte standart\" olarak nitelend",
+      "content": "TOBB öncülüğünde ve KGF kefaletiyle sunulan Nefes Kredisi’nde tarımsal kalkınma ve sulama kooperatiflerinin kapsam dışı bırakılmasına tepki gösteren Köy-Koop, oda ve borsalara kayıtlı olup düzenli aidat ödeyen kooperatiflerin finansmana erişimden mahrum bırakılmasını \"çifte standart\" olarak nitelendirdi."
+    },
+    {
+      "title": "TMO’nun Kandıra-Karasu fındık sevkiyatında vurgun iddiası: Yaklaşık 100 ton çürük fındık tespit edildi, 11 gözaltı",
+      "url": "https://www.tarimdanhaber.com/tmonun-kandira-karasu-findik-sevkiyatinda-vurgun-iddiasi-yaklasik-100-ton-curuk-findik-tespit-edildi-11-gozalti",
+      "source": "Tarımdan Haber",
+      "date": "2026-11-19",
+      "summary": "Toprak Mahsulleri Ofisi’nin (TMO) Kocaeli’nin Kandıra ilçesindeki deposundan Sakarya’nın Karasu ilçesindeki alım merkezine sevk edilen 5 tır kaliteli fındığın, güzergah dışına çıkarılarak çürük fındıklarla değiştirildiği öne sürüldü. Olayla ilgili yürütülen soruşturmada 11 kişi gözaltına alındı.",
+      "content": "Toprak Mahsulleri Ofisi’nin (TMO) Kocaeli’nin Kandıra ilçesindeki deposundan Sakarya’nın Karasu ilçesindeki alım merkezine sevk edilen 5 tır kaliteli fındığın, güzergah dışına çıkarılarak çürük fındıklarla değiştirildiği öne sürüldü. Olayla ilgili yürütülen soruşturmada 11 kişi gözaltına alındı."
+    },
     {
       "title": "Çiğ süt desteğinde son gün uyarısı: Veri girişi bugün bitiyor, askı süreci 27 Kasım’da başlıyor",
       "url": "https://www.tarimdanhaber.com/cig-sut-desteginde-son-gun-uyarisi-veri-girisi-bugun-bitiyor-aski-sureci-27-kasimda-basliyor",
@@ -77,30 +101,6 @@
       "date": "2026-11-18",
       "summary": "Ordu İl Tarım ve Orman Müdürü Bayram Ay, sözleşmeli üretim modelinin üreticilere sunduğu pazar güvencesi, kredi faiz indirimleri ve sigorta prim avantajlarına ilişkin kritik detayları paylaştı. Model kapsamında çiftçilere kredi kullanımlarında ilave yüzde 15 faiz/kar payı indirimi sağlanırken, alıcı",
       "content": "Ordu İl Tarım ve Orman Müdürü Bayram Ay, sözleşmeli üretim modelinin üreticilere sunduğu pazar güvencesi, kredi faiz indirimleri ve sigorta prim avantajlarına ilişkin kritik detayları paylaştı. Model kapsamında çiftçilere kredi kullanımlarında ilave yüzde 15 faiz/kar payı indirimi sağlanırken, alıcılara ise 200 milyon TL’ye kadar destekli finansman imkanı tanınıyor."
-    },
-    {
-      "title": "Çiftçinin üretim şekli değişiyor: İşte tarımın geleceğini belirleyecek 25 kritik kavram!",
-      "url": "https://www.tarimdanhaber.com/ciftcinin-uretim-sekli-degisiyor-iste-tarimin-gelecegini-belirleyecek-25-kritik-kavram",
-      "source": "Tarımdan Haber",
-      "date": "2026-11-18",
-      "summary": "Tarım politikaları uzmanı Ergin Kahveci, Carbon Brief’in yayımladığı kapsamlı çalışma üzerinden küresel tarımdaki dönüşümü masaya yatırdı. Dünyada farklı isimlerle tartışılan 25 yeni yaklaşımın toprak, su ve iklim krizine karşı dört ana eksende birleştiğine dikkat çekilen analizde, geleceğin tarımın",
-      "content": "Tarım politikaları uzmanı Ergin Kahveci, Carbon Brief’in yayımladığı kapsamlı çalışma üzerinden küresel tarımdaki dönüşümü masaya yatırdı. Dünyada farklı isimlerle tartışılan 25 yeni yaklaşımın toprak, su ve iklim krizine karşı dört ana eksende birleştiğine dikkat çekilen analizde, geleceğin tarımının tek bir modele değil, doğru yöntemlerin birlikte harmanlanmasına dayandığı vurgulandı."
-    },
-    {
-      "title": "Elazığ Tarım ve Orman İl Müdürü Saadettin Taşkesen kimdir? Biyografisi ve kariyeri",
-      "url": "https://www.tarimdanhaber.com/elazig-tarim-ve-orman-il-muduru-saadettin-taskesen-kimdir-biyografisi-ve-kariyeri",
-      "source": "Tarımdan Haber",
-      "date": "2026-11-18",
-      "summary": "Elazığ İl Tarım ve Orman Müdürü Saadettin Taşkesen kimdir, nerelidir ve daha önce hangi görevlerde bulundu? Ziraat mühendisliği eğitiminin ardından Muş ve Erzincan'da üstlendiği kritik idari görevlerle sahadan yetişen Saadettin Taşkesen’in eğitim hayatı ve kariyer yolculuğuna dair tüm detaylar haber",
-      "content": "Elazığ İl Tarım ve Orman Müdürü Saadettin Taşkesen kimdir, nerelidir ve daha önce hangi görevlerde bulundu? Ziraat mühendisliği eğitiminin ardından Muş ve Erzincan'da üstlendiği kritik idari görevlerle sahadan yetişen Saadettin Taşkesen’in eğitim hayatı ve kariyer yolculuğuna dair tüm detaylar haberimizde..."
-    },
-    {
-      "title": "Çiftçilere 1 yıllık hazine arazisi kiralama fırsatı: Mardin'de başvurular resmen başladı!",
-      "url": "https://www.tarimdanhaber.com/ciftcilere-1-yillik-hazine-arazisi-kiralama-firsati-mardinde-basvurular-resmen-basladi",
-      "source": "Tarımdan Haber",
-      "date": "2026-11-18",
-      "summary": "Mardin İl Tarım ve Orman Müdürlüğü, 6 ilçede bulunan Hazine arazilerinin 2026/2027 üretim dönemi için kiralama sürecinin resmen başladığını duyurdu. Tarımsal Üretim Planlaması ve ÇKS kaydının zorunlu tutulacağı kiralamalar için üreticilere 16 Şubat 2027 tarihine kadar süre tanındı.",
-      "content": "Mardin İl Tarım ve Orman Müdürlüğü, 6 ilçede bulunan Hazine arazilerinin 2026/2027 üretim dönemi için kiralama sürecinin resmen başladığını duyurdu. Tarımsal Üretim Planlaması ve ÇKS kaydının zorunlu tutulacağı kiralamalar için üreticilere 16 Şubat 2027 tarihine kadar süre tanındı."
     }
   ],
   "commoditiesByBorsa": {
@@ -309,14 +309,6 @@
   "errors": [
     "borsa 5ED10: fetch failed",
     "borsa 5KO10: fetch failed",
-    "borsa 5ES10: fetch failed",
-    "mazot IZMIR: fetch failed",
-    "mazot KONYA: fetch failed",
-    "mazot ADANA: fetch failed",
-    "mazot BURSA: fetch failed",
-    "mazot ANTALYA: fetch failed",
-    "mazot SAMSUN: fetch failed",
-    "mazot TEKIRDAG: fetch failed",
-    "mazot CANAKKALE: fetch failed"
+    "borsa 5ES10: fetch failed"
   ]
 }
