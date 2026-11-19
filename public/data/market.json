@@ -1,43 +1,51 @@
 {
-  "updatedAt": "2026-11-18T18:05:27.231Z",
+  "updatedAt": "2026-11-19T00:23:41.860Z",
   "fx": [
     {
       "code": "USD",
       "name": "Dolar",
-      "buy": 50.43,
-      "sell": 50.45,
-      "change": 0.05
+      "buy": 504527,
+      "sell": 504746,
+      "change": 6
     },
     {
       "code": "EUR",
       "name": "Euro",
-      "buy": 55.41,
-      "sell": 55.42,
-      "change": -0.21
+      "buy": 554568,
+      "sell": 555477,
+      "change": 18
     },
     {
       "code": "GRA",
       "name": "Gram Altın",
-      "buy": 6062.1,
-      "sell": 6063.14,
-      "change": -2.79
+      "buy": 606848,
+      "sell": 606937,
+      "change": 48
     },
     {
       "code": "CEYREKALTIN",
       "name": "Çeyrek Altın",
-      "buy": 9982,
-      "sell": 10078,
-      "change": -2.47
+      "buy": 9993,
+      "sell": 10089,
+      "change": 47
     },
     {
       "code": "CUMHURIYETALTINI",
       "name": "Cumhuriyet Altını",
-      "buy": 40928,
-      "sell": 41225,
-      "change": -2.46
+      "buy": 40971,
+      "sell": 41270,
+      "change": 47
     }
   ],
   "news": [
+    {
+      "title": "18 Kasım 2026 hububat fiyatları belli oldu: TÜRİB ve 15 Ticaret Borsasında son durum!",
+      "url": "https://www.tarimdanhaber.com/hububat-fiyatlari",
+      "source": "Tarımdan Haber",
+      "date": "2026-11-18",
+      "summary": "Türkiye Ürün İhtisas Borsası (TÜRİB) ile Türkiye genelindeki 15 ticaret borsasının 18 Kasım 2026 tarihli ortalama hububat işlem fiyatları açıklandı. Ekmeklik buğday ve mısır fiyatlarında TÜRİB verilerinin fiziki borsaların üzerinde seyretmesi dikkat çekti.",
+      "content": "Türkiye Ürün İhtisas Borsası (TÜRİB) ile Türkiye genelindeki 15 ticaret borsasının 18 Kasım 2026 tarihli ortalama hububat işlem fiyatları açıklandı. Ekmeklik buğday ve mısır fiyatlarında TÜRİB verilerinin fiziki borsaların üzerinde seyretmesi dikkat çekti."
+    },
     {
       "title": "Hindistan pirinçte rekor kırdı, üretim fazlası krize dönüştü: Türkiye için kritik uyarı!",
       "url": "https://www.tarimdanhaber.com/hindistan-pirincte-rekor-kirdi-uretim-fazlasi-krize-donustu-turkiye-icin-kritik-uyari",
@@ -93,14 +101,6 @@
       "date": "2026-11-18",
       "summary": "Şırnak İl Tarım ve Orman Müdürlüğü, Cumhurbaşkanı Kararı ile hayvancılık sektöründe kritik bir desteğin devreye alındığını duyurdu. Yeni düzenlemeyle birlikte sadece aşıya bağlı değil, tüm nedenlerle yaşanan yavru kayıpları destek kapsamına alınırken; büyükbaşta 20.000 TL, küçükbaşta ise 4.000 TL öd",
       "content": "Şırnak İl Tarım ve Orman Müdürlüğü, Cumhurbaşkanı Kararı ile hayvancılık sektöründe kritik bir desteğin devreye alındığını duyurdu. Yeni düzenlemeyle birlikte sadece aşıya bağlı değil, tüm nedenlerle yaşanan yavru kayıpları destek kapsamına alınırken; büyükbaşta 20.000 TL, küçükbaşta ise 4.000 TL ödeme yapılacağı açıklandı."
-    },
-    {
-      "title": "Küçükbaş üreticisine dev destek: Yüzde 70 hibeli ızgara taban başvuruları başladı, yarın son gün!",
-      "url": "https://www.tarimdanhaber.com/kucukbas-ureticisine-dev-destek-yuzde-70-hibeli-izgara-taban-basvurulari-basladi-yarin-son-gun",
-      "source": "Tarımdan Haber",
-      "date": "2026-11-18",
-      "summary": "Ordu İl Tarım ve Orman Müdürlüğü, küçükbaş hayvan yetiştiricilerinin ağıl hijyenini artıracak ve iş yükünü hafifletecek yüzde 70 hibeli plastik ızgara taban sistemi projesini hayata geçirdi. Toplam 1.000 metrekarelik alanı kapsayan destekten yararlanmak isteyen üreticiler için son başvuru tarihi 19 ",
-      "content": "Ordu İl Tarım ve Orman Müdürlüğü, küçükbaş hayvan yetiştiricilerinin ağıl hijyenini artıracak ve iş yükünü hafifletecek yüzde 70 hibeli plastik ızgara taban sistemi projesini hayata geçirdi. Toplam 1.000 metrekarelik alanı kapsayan destekten yararlanmak isteyen üreticiler için son başvuru tarihi 19 Kasım Perşembe mesai bitimi olarak açıklandı."
     }
   ],
   "commoditiesByBorsa": {
@@ -254,24 +254,24 @@
     }
   ],
   "dieselByCity": {
-    "ANKARA": 96.3,
-    "ISTANBUL": 95.15,
-    "IZMIR": 96.6,
-    "KONYA": 97.5,
-    "ADANA": 97.2,
-    "BURSA": 96.2,
-    "ANTALYA": 97.7,
-    "SAMSUN": 96.9,
-    "TEKIRDAG": 96.1,
-    "CANAKKALE": 97
+    "ANKARA": 96.4,
+    "ISTANBUL": 95.25,
+    "IZMIR": 96.7,
+    "KONYA": 97.6,
+    "ADANA": 97.3,
+    "BURSA": 96.3,
+    "ANTALYA": 97.8,
+    "SAMSUN": 97,
+    "TEKIRDAG": 96.2,
+    "CANAKKALE": 97.1
   },
   "inputs": [
     {
       "key": "motorin",
       "name": "Motorin (mazot)",
       "unit": "₺/lt",
-      "price": 97,
-      "change": 0,
+      "price": 97.1,
+      "change": 0.1,
       "source": "CANAKKALE ort."
     },
     {
