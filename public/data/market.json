@@ -1,43 +1,51 @@
 {
-  "updatedAt": "2026-11-20T12:37:37.285Z",
+  "updatedAt": "2026-11-20T20:44:47.076Z",
   "fx": [
     {
       "code": "USD",
       "name": "Dolar",
-      "buy": 505707,
-      "sell": 505842,
-      "change": 23
+      "buy": 50.56,
+      "sell": 50.57,
+      "change": 0.21
     },
     {
       "code": "EUR",
       "name": "Euro",
-      "buy": 555487,
-      "sell": 555554,
-      "change": 4
+      "buy": 55.38,
+      "sell": 55.66,
+      "change": -0.02
     },
     {
       "code": "GRA",
       "name": "Gram Altın",
-      "buy": 580512,
-      "sell": 5806,
-      "change": -223
+      "buy": 5708,
+      "sell": 5709.01,
+      "change": -3.87
     },
     {
       "code": "CEYREKALTIN",
       "name": "Çeyrek Altın",
-      "buy": 9790,
-      "sell": 9946,
-      "change": -3
+      "buy": 9663,
+      "sell": 9876,
+      "change": -1
     },
     {
       "code": "CUMHURIYETALTINI",
       "name": "Cumhuriyet Altını",
-      "buy": 40059,
-      "sell": 40727,
-      "change": -12
+      "buy": 39540,
+      "sell": 40440,
+      "change": -0.82
     }
   ],
   "news": [
+    {
+      "title": "TBMM’de \"Fon\" tartışması: Başarır’ın iddialarına Bakan Yardımcısı Gizligider’den yargı yanıtı",
+      "url": "https://www.tarimdanhaber.com/tbmmde-fon-tartismasi-basaririn-iddialarina-bakan-yardimcisi-gizligiderden-yargi-yaniti",
+      "source": "Tarımdan Haber",
+      "date": "2026-11-20",
+      "summary": "Yeni Parti Grup Başkanvekili Ali Mahir Başarır, TBMM Genel Kurulu’nda Tarım ve Orman Bakan Yardımcısı Ebubekir Gizligider’in bir fondan 1 milyar liranın üzerinde para alıp almadığını sordu. Gizligider ise sosyal medya hesabından yaptığı açıklamayla iddiaları yalanlayarak, kendisinin ve ailesinin söz",
+      "content": "Yeni Parti Grup Başkanvekili Ali Mahir Başarır, TBMM Genel Kurulu’nda Tarım ve Orman Bakan Yardımcısı Ebubekir Gizligider’in bir fondan 1 milyar liranın üzerinde para alıp almadığını sordu. Gizligider ise sosyal medya hesabından yaptığı açıklamayla iddiaları yalanlayarak, kendisinin ve ailesinin söz konusu fonlarla hiçbir işlemi olmadığını savundu ve Başarır ile yargı önünde hesaplaşacağını duyurdu."
+    },
     {
       "title": "Traktör pazarındaki daralma bilançolara yansıdı: TürkTraktör ve TÜMOSAN’dan 3,67 milyar TL zarar",
       "url": "https://www.tarimdanhaber.com/traktor-pazarindaki-daralma-bilancolara-yansidi-turktraktor-ve-tumosandan-367-milyar-tl-zarar",
@@ -93,14 +101,6 @@
       "date": "2026-11-19",
       "summary": "HAYGEM, 2026 yılı Temmuz-Ağustos-Eylül dönemi çiğ süt desteği çalışma takvimini yayımladı. Süt Kayıt Sistemi’nde veri girişleri 19 Kasım’da sona ererken, İcmal 2 askı süreci 27 Kasım – 3 Aralık tarihleri arasında uygulanacak.",
       "content": "HAYGEM, 2026 yılı Temmuz-Ağustos-Eylül dönemi çiğ süt desteği çalışma takvimini yayımladı. Süt Kayıt Sistemi’nde veri girişleri 19 Kasım’da sona ererken, İcmal 2 askı süreci 27 Kasım – 3 Aralık tarihleri arasında uygulanacak."
-    },
-    {
-      "title": "18 Kasım 2026 hububat fiyatları belli oldu: TÜRİB ve 15 Ticaret Borsasında son durum!",
-      "url": "https://www.tarimdanhaber.com/hububat-fiyatlari",
-      "source": "Tarımdan Haber",
-      "date": "2026-11-18",
-      "summary": "Türkiye Ürün İhtisas Borsası (TÜRİB) ile Türkiye genelindeki 15 ticaret borsasının 18 Kasım 2026 tarihli ortalama hububat işlem fiyatları açıklandı. Ekmeklik buğday ve mısır fiyatlarında TÜRİB verilerinin fiziki borsaların üzerinde seyretmesi dikkat çekti.",
-      "content": "Türkiye Ürün İhtisas Borsası (TÜRİB) ile Türkiye genelindeki 15 ticaret borsasının 18 Kasım 2026 tarihli ortalama hububat işlem fiyatları açıklandı. Ekmeklik buğday ve mısır fiyatlarında TÜRİB verilerinin fiziki borsaların üzerinde seyretmesi dikkat çekti."
     }
   ],
   "commoditiesByBorsa": {
