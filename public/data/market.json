@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-21T16:24:37.812Z",
+  "updatedAt": "2026-11-21T21:48:23.917Z",
   "fx": [
     {
       "code": "USD",
@@ -39,6 +39,30 @@
   ],
   "news": [
     {
+      "title": "TÜİK açıkladı: Eylül'de girdi fiyatı arttı, üretici fiyatı düştü! Çiftçi gelecek sezon nasıl üretim yapacak?",
+      "url": "https://www.tarimdanhaber.com/tuik-acikladi-eylulde-girdi-fiyati-artti-uretici-fiyati-dustu-ciftci-gelecek-sezon-nasil-uretim-yapacak",
+      "source": "Tarımdan Haber",
+      "date": "2026-11-21",
+      "summary": "TÜİK verilerine göre eylülde tarımsal girdi fiyatları bir önceki aya göre yüzde 3,78 artarken, tarım ürünlerinin üretici fiyatları yüzde 1,99 geriledi. Yıllık artışta iki endeks arasındaki fark 19,43 yüzde puana çıktı. Girdilerde en sert artış enerji ve yağlayıcılarda görüldü.",
+      "content": "TÜİK verilerine göre eylülde tarımsal girdi fiyatları bir önceki aya göre yüzde 3,78 artarken, tarım ürünlerinin üretici fiyatları yüzde 1,99 geriledi. Yıllık artışta iki endeks arasındaki fark 19,43 yüzde puana çıktı. Girdilerde en sert artış enerji ve yağlayıcılarda görüldü."
+    },
+    {
+      "title": "Çiftçi ödemeleri aksadı! ABD Tarım Bakanlığı’nda siber alarm",
+      "url": "https://www.tarimdanhaber.com/ciftci-odemeleri-aksadi-abd-tarim-bakanliginda-siber-alarm",
+      "source": "Tarımdan Haber",
+      "date": "2026-11-21",
+      "summary": "ABD Tarım Bakanlığı, çiftçi ödemeleri, tarım kredileri ve ürün sigortası işlemlerini destekleyen bazı uygulamaları bir siber güvenlik olayı üzerine geçici olarak devre dışı bıraktı. Bakanlık Müsteşarı Richard Fordyce, olayda veri kaybı yaşanmadığını söyledi.",
+      "content": "ABD Tarım Bakanlığı, çiftçi ödemeleri, tarım kredileri ve ürün sigortası işlemlerini destekleyen bazı uygulamaları bir siber güvenlik olayı üzerine geçici olarak devre dışı bıraktı. Bakanlık Müsteşarı Richard Fordyce, olayda veri kaybı yaşanmadığını söyledi."
+    },
+    {
+      "title": "Çin’in süt pazarı değişiyor! Peynir ve tereyağı ithalatı 450 bin tona çıkabilir",
+      "url": "https://www.tarimdanhaber.com/cinin-sut-pazari-degisiyor-peynir-ve-tereyagi-ithalati-450-bin-tona-cikabilir",
+      "source": "Tarımdan Haber",
+      "date": "2026-11-21",
+      "summary": "Çin’de süt üretiminin 2027’de 43,83 milyon tona ulaşması beklenirken peynir ve tereyağı ithalatının da artacağı öngörülüyor. ABD Tarım Bakanlığı’nın (USDA) raporunu değerlendiren Tarım Politikaları Uzmanı Ergin Kahveci, Çin’de süt işleyicilerinin tam yağlı süt tozundan peynir, tereyağı ve krema gibi",
+      "content": "Çin’de süt üretiminin 2027’de 43,83 milyon tona ulaşması beklenirken peynir ve tereyağı ithalatının da artacağı öngörülüyor. ABD Tarım Bakanlığı’nın (USDA) raporunu değerlendiren Tarım Politikaları Uzmanı Ergin Kahveci, Çin’de süt işleyicilerinin tam yağlı süt tozundan peynir, tereyağı ve krema gibi daha yüksek katma değerli ürünlere yöneldiğine dikkat çekti."
+    },
+    {
       "title": "Trump tarımda “altın çağ” dedi, ihracat hedeflerin gerisinde kaldı",
       "url": "https://www.tarimdanhaber.com/trump-tarimda-altin-cag-dedi-ihracat-hedeflerin-gerisinde-kaldi",
       "source": "Tarımdan Haber",
@@ -77,30 +101,6 @@
       "date": "2026-11-20",
       "summary": "Yeni Parti Grup Başkanvekili Ali Mahir Başarır, TBMM Genel Kurulu’nda Tarım ve Orman Bakan Yardımcısı Ebubekir Gizligider’in bir fondan 1 milyar liranın üzerinde para alıp almadığını sordu. Gizligider ise sosyal medya hesabından yaptığı açıklamayla iddiaları yalanlayarak, kendisinin ve ailesinin söz",
       "content": "Yeni Parti Grup Başkanvekili Ali Mahir Başarır, TBMM Genel Kurulu’nda Tarım ve Orman Bakan Yardımcısı Ebubekir Gizligider’in bir fondan 1 milyar liranın üzerinde para alıp almadığını sordu. Gizligider ise sosyal medya hesabından yaptığı açıklamayla iddiaları yalanlayarak, kendisinin ve ailesinin söz konusu fonlarla hiçbir işlemi olmadığını savundu ve Başarır ile yargı önünde hesaplaşacağını duyurdu."
-    },
-    {
-      "title": "Traktör pazarındaki daralma bilançolara yansıdı: TürkTraktör ve TÜMOSAN’dan 3,67 milyar TL zarar",
-      "url": "https://www.tarimdanhaber.com/traktor-pazarindaki-daralma-bilancolara-yansidi-turktraktor-ve-tumosandan-367-milyar-tl-zarar",
-      "source": "Tarımdan Haber",
-      "date": "2026-11-19",
-      "summary": "TürkTraktör ve TÜMOSAN, 2026’nın ilk dokuz ayını zararla kapattı. TürkTraktör’ün yurt içi traktör satışları yüzde 51 gerilerken şirket 789 milyon TL net zarar açıkladı. TÜMOSAN’da ise ciro yaklaşık yüzde 1 düşmesine rağmen net zarar 2,88 milyar TL’ye ulaştı.",
-      "content": "TürkTraktör ve TÜMOSAN, 2026’nın ilk dokuz ayını zararla kapattı. TürkTraktör’ün yurt içi traktör satışları yüzde 51 gerilerken şirket 789 milyon TL net zarar açıkladı. TÜMOSAN’da ise ciro yaklaşık yüzde 1 düşmesine rağmen net zarar 2,88 milyar TL’ye ulaştı."
-    },
-    {
-      "title": "Maliyeti 55 lira, Marmarabirlik 40 lira dedi, tüccar 16 liraya çaktı: Zeytin üreticisi ne yapsın?",
-      "url": "https://www.tarimdanhaber.com/maliyeti-55-lira-marmarabirlik-40-lira-dedi-tuccar-16-liraya-cakti-zeytin-ureticisi-ne-yapsin",
-      "source": "Tarımdan Haber",
-      "date": "2026-11-19",
-      "summary": "Marmarabirlik’in yağlık zeytin alım fiyatını geçen yılki 53 liranın altında 40 lira olarak açıklamasına ve uyguladığı kotaya tepki gösteren İYİ Parti Grup Başkanvekili Turhan Çömez, kilosu 55 lira maliyetli zeytinin kota dışı kalan kısmının Akhisar’da tüccara 16 liraya satılmak zorunda kalındığını s",
-      "content": "Marmarabirlik’in yağlık zeytin alım fiyatını geçen yılki 53 liranın altında 40 lira olarak açıklamasına ve uyguladığı kotaya tepki gösteren İYİ Parti Grup Başkanvekili Turhan Çömez, kilosu 55 lira maliyetli zeytinin kota dışı kalan kısmının Akhisar’da tüccara 16 liraya satılmak zorunda kalındığını söyledi."
-    },
-    {
-      "title": "Polonya Tarım Bakanı’ndan dikkat çeken çıkış: “Tüm maliyetleri çiftçilere yükleyemezsiniz”",
-      "url": "https://www.tarimdanhaber.com/polonya-tarim-bakanindan-dikkat-ceken-cikis-tum-maliyetleri-ciftcilere-yukleyemezsiniz",
-      "source": "Tarımdan Haber",
-      "date": "2026-11-19",
-      "summary": "Polonya Tarım Bakanı Stefan Krajewski, artan girdi maliyetleri, kuraklık ve dış rekabet baskısı altında tarımsal dönüşümün bütün yükünün çiftçilere bırakılamayacağını söyledi. Krajewski, su yönetimi için 2027 bütçesinde 80 milyon zloti ayrıldığını ve tarım sigortası sisteminde değişiklikler üzerinde",
-      "content": "Polonya Tarım Bakanı Stefan Krajewski, artan girdi maliyetleri, kuraklık ve dış rekabet baskısı altında tarımsal dönüşümün bütün yükünün çiftçilere bırakılamayacağını söyledi. Krajewski, su yönetimi için 2027 bütçesinde 80 milyon zloti ayrıldığını ve tarım sigortası sisteminde değişiklikler üzerinde çalışıldığını açıkladı."
     }
   ],
   "commoditiesByBorsa": {
