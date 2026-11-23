@@ -1,43 +1,83 @@
 {
-  "updatedAt": "2026-11-23T02:53:56.929Z",
+  "updatedAt": "2026-11-23T11:59:12.626Z",
   "fx": [
     {
       "code": "USD",
       "name": "Dolar",
-      "buy": 50.58,
-      "sell": 50.61,
-      "change": 0.05
+      "buy": 50.6,
+      "sell": 50.6,
+      "change": 0.07
     },
     {
       "code": "EUR",
       "name": "Euro",
-      "buy": 55.58,
-      "sell": 55.66,
-      "change": 0.2
+      "buy": 55.49,
+      "sell": 55.51,
+      "change": -0.02
     },
     {
       "code": "GRA",
       "name": "Gram Altın",
-      "buy": 5837.61,
-      "sell": 5838.65,
-      "change": 1.86
+      "buy": 5890.25,
+      "sell": 5891.15,
+      "change": 2.78
     },
     {
       "code": "CEYREKALTIN",
       "name": "Çeyrek Altın",
-      "buy": 9996,
-      "sell": 10124,
-      "change": 1.48
+      "buy": 9981,
+      "sell": 10113,
+      "change": 1.37
     },
     {
       "code": "CUMHURIYETALTINI",
       "name": "Cumhuriyet Altını",
-      "buy": 40892,
-      "sell": 41457,
-      "change": 1.67
+      "buy": 40779,
+      "sell": 41335,
+      "change": 1.37
     }
   ],
   "news": [
+    {
+      "title": "Mandalina üreticisinden acı isyan: \"Ağaçları keseceğiz dedik, siyasetçiler değil oduncular yazdı!\"",
+      "url": "https://www.tarimdanhaber.com/mandalina-ureticisinden-aci-isyan-agaclari-kesecegiz-dedik-siyasetciler-degil-oduncular-yazdi",
+      "source": "Tarımdan Haber",
+      "date": "2026-11-23",
+      "summary": "Ürününü satamadığı için 26 yıllık mandalina ağaçlarını kesme kararı alan üretici, yaşadığı çaresizliği bahçesinden çektiği videoyla anlattı. Kilosunu 6-7 liraya mal ettiği mandalinaya 3 lira teklif edildiğini belirten üretici, \"Ağaçları keseceğiz dediğimizde bana en çok yazan siyasetçiler değil; odu",
+      "content": "Ürününü satamadığı için 26 yıllık mandalina ağaçlarını kesme kararı alan üretici, yaşadığı çaresizliği bahçesinden çektiği videoyla anlattı. Kilosunu 6-7 liraya mal ettiği mandalinaya 3 lira teklif edildiğini belirten üretici, \"Ağaçları keseceğiz dediğimizde bana en çok yazan siyasetçiler değil; oduncular. 'Abi biz odunu kesip alırız' diyorlar\" sözleriyle tepkisini dile getirdi."
+    },
+    {
+      "title": "Tek parsel tarlayı bölmek isteyenler dikkat: 5403 sayılı Kanun ne diyor?",
+      "url": "https://www.tarimdanhaber.com/tek-parsel-tarlayi-bolmek-isteyenler-dikkat-5403-sayili-kanun-ne-diyor",
+      "source": "Tarımdan Haber",
+      "date": "2026-11-23",
+      "summary": "Tarım arazilerinin parsellere ayrılması (ifraz) işlemi, yalnızca tapu işlemlerinden ibaret olmayıp 5403 sayılı Toprak Koruma ve Arazi Kullanımı Kanunu ile 3194 sayılı İmar Kanunu hükümleri çerçevesinde yürütülen sıkı kurallara bağlı bir hukuki süreçtir.",
+      "content": "Tarım arazilerinin parsellere ayrılması (ifraz) işlemi, yalnızca tapu işlemlerinden ibaret olmayıp 5403 sayılı Toprak Koruma ve Arazi Kullanımı Kanunu ile 3194 sayılı İmar Kanunu hükümleri çerçevesinde yürütülen sıkı kurallara bağlı bir hukuki süreçtir."
+    },
+    {
+      "title": "Turhan Çömez'den çarpıcı ithalat hesabı: \"Toni'ye Coni'ye her gün 105 milyon lira, Ali'ye Veli'ye gelince para yok!\"",
+      "url": "https://www.tarimdanhaber.com/turhan-comezden-carpici-ithalat-hesabi-toniye-coniye-her-gun-105-milyon-lira-aliye-veliye-gelince-para-yok",
+      "source": "Tarımdan Haber",
+      "date": "2026-11-23",
+      "summary": "İYİ Parti Grup Başkanvekili Turhan Çömez, Brezilya’nın resmi istatistik verileri üzerinden Türkiye’nin canlı büyükbaş hayvan ithalatını sert sözlerle eleştirdi. İlk 10 ayda Brezilya’dan 485 bin 198 baş hayvan ithal edildiğini ve bunun karşılığında 624 milyon 113 bin 474 dolar (yaklaşık 32 milyar lir",
+      "content": "İYİ Parti Grup Başkanvekili Turhan Çömez, Brezilya’nın resmi istatistik verileri üzerinden Türkiye’nin canlı büyükbaş hayvan ithalatını sert sözlerle eleştirdi. İlk 10 ayda Brezilya’dan 485 bin 198 baş hayvan ithal edildiğini ve bunun karşılığında 624 milyon 113 bin 474 dolar (yaklaşık 32 milyar lira) ödendiğini belirten Çömez, \"Brezilyalı hayvan yetiştiricisine, Toni’ye Coni’ye her Allah’ın günü 105 milyon lira ödemişiz. Ali’ye Veli’ye, yerli ve milliye gelince ise para yok\" dedi."
+    },
+    {
+      "title": "2026'da canlı sığır ithalatı 649 bin başı aştı: Brezilya'da Türkiye lider, 2027 kotası ilk 10 ayın gerisinde",
+      "url": "https://www.tarimdanhaber.com/2026da-canli-sigir-ithalati-649-bin-basi-asti-brezilyada-turkiye-lider-2027-kotasi-ilk-10-ayin-gerisinde",
+      "source": "Tarımdan Haber",
+      "date": "2026-11-23",
+      "summary": "Tarım politikaları uzmanı Ergin Kahveci’nin derlediği dış ticaret verilerine göre Türkiye, 2026 yılında Brezilya, Uruguay ve Avustralya’dan toplam 649 bin 141 baş canlı sığır alımına ulaştı. Brezilya’nın canlı sığır ihracatında açık ara ilk sırada yer alan Türkiye, sadece 10 ayda Brezilya’dan 485 bi",
+      "content": "Tarım politikaları uzmanı Ergin Kahveci’nin derlediği dış ticaret verilerine göre Türkiye, 2026 yılında Brezilya, Uruguay ve Avustralya’dan toplam 649 bin 141 baş canlı sığır alımına ulaştı. Brezilya’nın canlı sığır ihracatında açık ara ilk sırada yer alan Türkiye, sadece 10 ayda Brezilya’dan 485 bin 200 baş hayvan alarak 2027 için açıklanan 480 bin başlık erkek sığır ithalat kotasını şimdiden aştı."
+    },
+    {
+      "title": "İYİ Parti’den çiftçi için faizsiz erteleme çağrısı: Destek ekimden önce ödensin",
+      "url": "https://www.tarimdanhaber.com/iyi-partiden-ciftci-icin-faizsiz-erteleme-cagrisi-destek-ekimden-once-odensin",
+      "source": "Tarımdan Haber",
+      "date": "2026-11-23",
+      "summary": "İYİ Parti Konya İl Başkanı Ali Anlaş, artan maliyetlerin çiftçiyi üretimden uzaklaştırdığını belirterek hükümete çağrıda bulundu. Üreticinin borçlarının faizsiz ertelenmesini, tarımsal üretim üzerindeki ÖTV ve KDV yükünün kaldırılmasını isteyen Anlaş, destek ödemelerinin ekim öncesine çekilmesini ön",
+      "content": "İYİ Parti Konya İl Başkanı Ali Anlaş, artan maliyetlerin çiftçiyi üretimden uzaklaştırdığını belirterek hükümete çağrıda bulundu. Üreticinin borçlarının faizsiz ertelenmesini, tarımsal üretim üzerindeki ÖTV ve KDV yükünün kaldırılmasını isteyen Anlaş, destek ödemelerinin ekim öncesine çekilmesini önerdi."
+    },
     {
       "title": "Yalanlama geldi ama kulisler durulmadı: Gizligider iddiasında dikkat çeken detay!",
       "url": "https://www.tarimdanhaber.com/yalanlama-geldi-ama-kulisler-durulmadi-gizligider-iddiasinda-dikkat-ceken-detay",
@@ -61,46 +101,6 @@
       "date": "2026-11-22",
       "summary": "Avrupa Birliği ile Endonezya, süt ürünlerinden et ve meyve-sebzeye kadar pek çok üründe gümrük vergilerini kaldıracak ticaret anlaşmasını imzaladı. Tarım Politikaları Uzmanı Ergin Kahveci’nin gündeme taşıdığı anlaşma, AB’li ihracatçılara Endonezya pazarında maliyet avantajı sağlayacak. Türkiye açısı",
       "content": "Avrupa Birliği ile Endonezya, süt ürünlerinden et ve meyve-sebzeye kadar pek çok üründe gümrük vergilerini kaldıracak ticaret anlaşmasını imzaladı. Tarım Politikaları Uzmanı Ergin Kahveci’nin gündeme taşıdığı anlaşma, AB’li ihracatçılara Endonezya pazarında maliyet avantajı sağlayacak. Türkiye açısından ise asıl soru, aynı pazara ürün satan ihracatçıların bu avantaj karşısında nasıl rekabet edeceği."
-    },
-    {
-      "title": "Konya’daki obruklar Brezilya’nın gündeminde! Eski Tarım Bakanı’ndan COP31’e su uyarısı",
-      "url": "https://www.tarimdanhaber.com/konyadaki-obruklar-brezilyanin-gundeminde-eski-tarim-bakanindan-cop31e-su-uyarisi",
-      "source": "Tarımdan Haber",
-      "date": "2026-11-22",
-      "summary": "Brezilya’nın eski Tarım Bakanı Antonio Cabrera, Konya Ovası’ndaki obrukları örnek göstererek yeraltı suyunun kontrolsüz kullanımının tarımsal üretime etkisine dikkat çekti. Tarım Politikaları Uzmanı Ergin Kahveci ise Cabrera’nın değerlendirmesini paylaşarak Türkiye ile Brezilya arasında uzanan su ta",
-      "content": "Brezilya’nın eski Tarım Bakanı Antonio Cabrera, Konya Ovası’ndaki obrukları örnek göstererek yeraltı suyunun kontrolsüz kullanımının tarımsal üretime etkisine dikkat çekti. Tarım Politikaları Uzmanı Ergin Kahveci ise Cabrera’nın değerlendirmesini paylaşarak Türkiye ile Brezilya arasında uzanan su tartışmasına “Derdimiz ortaktır” sözleriyle katıldı."
-    },
-    {
-      "title": "Tarım Kredi'den dikkat çeken zeytin alım fiyatı: Marmarabirlik'in 40 lira altında kaldı!",
-      "url": "https://www.tarimdanhaber.com/marmarabirlikte-160-tarim-kredi-yagda-120-tl-zeytin-aliminda-tavan-fiyat-farki-40-lira",
-      "source": "Tarımdan Haber",
-      "date": "2026-11-22",
-      "summary": "Çiftçi kuruluşu Tarım Kredi Kooperatifleri’nin iştiraki olan Tarım Kredi Yağ Sanayi, 2026-2027 sezonu zeytin alım fiyatını Marmarabirlik’in 40 lira altında açıkladı. Marmarabirlik iri taneli zeytinde tavan fiyatı 160 lira olarak belirlerken, Tarım Kredi duble zeytinin alım fiyatını 120 lirada tuttu.",
-      "content": "Çiftçi kuruluşu Tarım Kredi Kooperatifleri’nin iştiraki olan Tarım Kredi Yağ Sanayi, 2026-2027 sezonu zeytin alım fiyatını Marmarabirlik’in 40 lira altında açıkladı. Marmarabirlik iri taneli zeytinde tavan fiyatı 160 lira olarak belirlerken, Tarım Kredi duble zeytinin alım fiyatını 120 lirada tuttu."
-    },
-    {
-      "title": "TÜİK açıkladı: Eylül'de girdi fiyatı arttı, üretici fiyatı düştü! Çiftçi gelecek sezon nasıl üretim yapacak?",
-      "url": "https://www.tarimdanhaber.com/tuik-acikladi-eylulde-girdi-fiyati-artti-uretici-fiyati-dustu-ciftci-gelecek-sezon-nasil-uretim-yapacak",
-      "source": "Tarımdan Haber",
-      "date": "2026-11-21",
-      "summary": "TÜİK verilerine göre eylülde tarımsal girdi fiyatları bir önceki aya göre yüzde 3,78 artarken, tarım ürünlerinin üretici fiyatları yüzde 1,99 geriledi. Yıllık artışta iki endeks arasındaki fark 19,43 yüzde puana çıktı. Girdilerde en sert artış enerji ve yağlayıcılarda görüldü.",
-      "content": "TÜİK verilerine göre eylülde tarımsal girdi fiyatları bir önceki aya göre yüzde 3,78 artarken, tarım ürünlerinin üretici fiyatları yüzde 1,99 geriledi. Yıllık artışta iki endeks arasındaki fark 19,43 yüzde puana çıktı. Girdilerde en sert artış enerji ve yağlayıcılarda görüldü."
-    },
-    {
-      "title": "Çiftçi ödemeleri aksadı! ABD Tarım Bakanlığı’nda siber alarm",
-      "url": "https://www.tarimdanhaber.com/ciftci-odemeleri-aksadi-abd-tarim-bakanliginda-siber-alarm",
-      "source": "Tarımdan Haber",
-      "date": "2026-11-21",
-      "summary": "ABD Tarım Bakanlığı, çiftçi ödemeleri, tarım kredileri ve ürün sigortası işlemlerini destekleyen bazı uygulamaları bir siber güvenlik olayı üzerine geçici olarak devre dışı bıraktı. Bakanlık Müsteşarı Richard Fordyce, olayda veri kaybı yaşanmadığını söyledi.",
-      "content": "ABD Tarım Bakanlığı, çiftçi ödemeleri, tarım kredileri ve ürün sigortası işlemlerini destekleyen bazı uygulamaları bir siber güvenlik olayı üzerine geçici olarak devre dışı bıraktı. Bakanlık Müsteşarı Richard Fordyce, olayda veri kaybı yaşanmadığını söyledi."
-    },
-    {
-      "title": "Çin’in süt pazarı değişiyor! Peynir ve tereyağı ithalatı 450 bin tona çıkabilir",
-      "url": "https://www.tarimdanhaber.com/cinin-sut-pazari-degisiyor-peynir-ve-tereyagi-ithalati-450-bin-tona-cikabilir",
-      "source": "Tarımdan Haber",
-      "date": "2026-11-21",
-      "summary": "Çin’de süt üretiminin 2027’de 43,83 milyon tona ulaşması beklenirken peynir ve tereyağı ithalatının da artacağı öngörülüyor. ABD Tarım Bakanlığı’nın (USDA) raporunu değerlendiren Tarım Politikaları Uzmanı Ergin Kahveci, Çin’de süt işleyicilerinin tam yağlı süt tozundan peynir, tereyağı ve krema gibi",
-      "content": "Çin’de süt üretiminin 2027’de 43,83 milyon tona ulaşması beklenirken peynir ve tereyağı ithalatının da artacağı öngörülüyor. ABD Tarım Bakanlığı’nın (USDA) raporunu değerlendiren Tarım Politikaları Uzmanı Ergin Kahveci, Çin’de süt işleyicilerinin tam yağlı süt tozundan peynir, tereyağı ve krema gibi daha yüksek katma değerli ürünlere yöneldiğine dikkat çekti."
     }
   ],
   "commoditiesByBorsa": {
