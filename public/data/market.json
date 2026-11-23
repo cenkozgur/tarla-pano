@@ -1,43 +1,67 @@
 {
-  "updatedAt": "2026-11-23T11:59:12.626Z",
+  "updatedAt": "2026-11-23T23:35:59.521Z",
   "fx": [
     {
       "code": "USD",
       "name": "Dolar",
-      "buy": 50.6,
-      "sell": 50.6,
-      "change": 0.07
+      "buy": 50.59,
+      "sell": 50.63,
+      "change": 0.04
     },
     {
       "code": "EUR",
       "name": "Euro",
-      "buy": 55.49,
-      "sell": 55.51,
-      "change": -0.02
+      "buy": 55.26,
+      "sell": 55.34,
+      "change": 0.2
     },
     {
       "code": "GRA",
       "name": "Gram Altın",
-      "buy": 5890.25,
-      "sell": 5891.15,
-      "change": 2.78
+      "buy": 5910.48,
+      "sell": 5911.37,
+      "change": -0.02
     },
     {
       "code": "CEYREKALTIN",
       "name": "Çeyrek Altın",
-      "buy": 9981,
-      "sell": 10113,
-      "change": 1.37
+      "buy": 10019,
+      "sell": 10188,
+      "change": 0.02
     },
     {
       "code": "CUMHURIYETALTINI",
       "name": "Cumhuriyet Altını",
-      "buy": 40779,
-      "sell": 41335,
-      "change": 1.37
+      "buy": 40933,
+      "sell": 41639,
+      "change": 0.01
     }
   ],
   "news": [
+    {
+      "title": "Tarım Kredi Market'te keyfi atama ve işe iade davası faturası: Şirkete ekstra 1.3 milyon TL yük!",
+      "url": "https://www.tarimdanhaber.com/tarim-kredi-markette-keyfi-atama-ve-ise-iade-davasi-faturasi-sirkete-ekstra-13-milyon-tl-yuk",
+      "source": "Tarımdan Haber",
+      "date": "2026-11-23",
+      "summary": "Tarım Kredi Kooperatif Marketleri’nde Nisan 2020 - Aralık 2024 döneminde İç Denetim Müdürü olarak görev yapan bir yöneticinin aktardığı iddialar, kurumsal yönetim ve personel politikalarındaki keyfiyeti yeniden gündeme taşıdı. Görev yerinin değiştirilmek istenmesi üzerine açılan işe iade davası sonr",
+      "content": "Tarım Kredi Kooperatif Marketleri’nde Nisan 2020 - Aralık 2024 döneminde İç Denetim Müdürü olarak görev yapan bir yöneticinin aktardığı iddialar, kurumsal yönetim ve personel politikalarındaki keyfiyeti yeniden gündeme taşıdı. Görev yerinin değiştirilmek istenmesi üzerine açılan işe iade davası sonrası şirketten çıkan toplam tutarın 1,7 milyon TL bandına ulaştığı, bunun yaklaşık 1,3 milyon TL’lik kısmının ek maliyet olarak oluştuğu öne sürüldü."
+    },
+    {
+      "title": "Tarımsal üründe vadeli piyasa tartışması: Ekonomist Ensar Yılmaz'dan çiftçiye kritik uyarılar",
+      "url": "https://www.tarimdanhaber.com/tarimsal-urunde-vadeli-piyasa-tartismasi-ekonomist-ensar-yilmazdan-ciftciye-kritik-uyarilar",
+      "source": "Tarımdan Haber",
+      "date": "2026-11-23",
+      "summary": "Sencer Solakoğlu’nun gündeme taşıdığı vadeli piyasa ve türev araç tartışmasına ekonomist Ensar Yılmaz, kapsamlı bir analizle katıldı. Tarımdaki fiyat istikrarsızlığının üretim ve yapısal sorunlardan kaynaklandığını vurgulayan Yılmaz; türev ürünlerin tek başına sorunu çözemeyeceğini, spekülasyon ve f",
+      "content": "Sencer Solakoğlu’nun gündeme taşıdığı vadeli piyasa ve türev araç tartışmasına ekonomist Ensar Yılmaz, kapsamlı bir analizle katıldı. Tarımdaki fiyat istikrarsızlığının üretim ve yapısal sorunlardan kaynaklandığını vurgulayan Yılmaz; türev ürünlerin tek başına sorunu çözemeyeceğini, spekülasyon ve finansallaşma riskinin tarladaki fiyatı etkileyebileceğini belirterek çiftçiyi sahadaki gerçekler açısından uyardı."
+    },
+    {
+      "title": "Tarımda vadeli borsa tartışması büyüyor: Cibre, Yılmaz ve Yazıcı'dan Sencer Solakoğlu'na sert eleştiriler",
+      "url": "https://www.tarimdanhaber.com/tarimda-vadeli-borsa-tartismasi-buyuyor-cibre-yilmaz-ve-yazicidan-sencer-solakogluna-sert-elestiriler",
+      "source": "Tarımdan Haber",
+      "date": "2026-11-23",
+      "summary": "Yeni Parti Tarım ve Orman Gölge Bakanı Sencer Solakoğlu’nun tarım üreticisi için gündeme getirdiği vadeli opsiyon borsası ve sözleşmeli kontrat önerisi, ekonomi ve tarım çevrelerinde geniş yankı uyandırdı. İris Cibre, Ensar Yılmaz ve Barış Yazıcı’nın peş peşe yaptığı değerlendirmelerde; teminat tama",
+      "content": "Yeni Parti Tarım ve Orman Gölge Bakanı Sencer Solakoğlu’nun tarım üreticisi için gündeme getirdiği vadeli opsiyon borsası ve sözleşmeli kontrat önerisi, ekonomi ve tarım çevrelerinde geniş yankı uyandırdı. İris Cibre, Ensar Yılmaz ve Barış Yazıcı’nın peş peşe yaptığı değerlendirmelerde; teminat tamamlama baskısı, don ve kuraklıkta rekolte kaybı, fiyat makası ve yapısal politika eksikliği öne çıkarılırken, çözüm olarak kooperatifleşme, lojistik ve soğuk zincir gibi temel adımlar işaret edildi."
+    },
     {
       "title": "Mandalina üreticisinden acı isyan: \"Ağaçları keseceğiz dedik, siyasetçiler değil oduncular yazdı!\"",
       "url": "https://www.tarimdanhaber.com/mandalina-ureticisinden-aci-isyan-agaclari-kesecegiz-dedik-siyasetciler-degil-oduncular-yazdi",
@@ -77,30 +101,6 @@
       "date": "2026-11-23",
       "summary": "İYİ Parti Konya İl Başkanı Ali Anlaş, artan maliyetlerin çiftçiyi üretimden uzaklaştırdığını belirterek hükümete çağrıda bulundu. Üreticinin borçlarının faizsiz ertelenmesini, tarımsal üretim üzerindeki ÖTV ve KDV yükünün kaldırılmasını isteyen Anlaş, destek ödemelerinin ekim öncesine çekilmesini ön",
       "content": "İYİ Parti Konya İl Başkanı Ali Anlaş, artan maliyetlerin çiftçiyi üretimden uzaklaştırdığını belirterek hükümete çağrıda bulundu. Üreticinin borçlarının faizsiz ertelenmesini, tarımsal üretim üzerindeki ÖTV ve KDV yükünün kaldırılmasını isteyen Anlaş, destek ödemelerinin ekim öncesine çekilmesini önerdi."
-    },
-    {
-      "title": "Yalanlama geldi ama kulisler durulmadı: Gizligider iddiasında dikkat çeken detay!",
-      "url": "https://www.tarimdanhaber.com/yalanlama-geldi-ama-kulisler-durulmadi-gizligider-iddiasinda-dikkat-ceken-detay",
-      "source": "Tarımdan Haber",
-      "date": "2026-11-22",
-      "summary": "Yeni Parti Grup Başkanvekili Ali Mahir Başarır’ın TBMM Genel Kurulu’nda Tarım ve Orman Bakan Yardımcısı Ebubekir Gizligider’i hedef alan \"1 milyar liranın üzerinde fon\" iddiası Başkent gündemini sarstı. Gizligider iddiaları yalanlayıp yargıyı işaret etse de Ankara kulislerinde konuşulanlar, ateş olm",
-      "content": "Yeni Parti Grup Başkanvekili Ali Mahir Başarır’ın TBMM Genel Kurulu’nda Tarım ve Orman Bakan Yardımcısı Ebubekir Gizligider’i hedef alan \"1 milyar liranın üzerinde fon\" iddiası Başkent gündemini sarstı. Gizligider iddiaları yalanlayıp yargıyı işaret etse de Ankara kulislerinde konuşulanlar, ateş olmayan yerden duman çıkmayacağı yönünde."
-    },
-    {
-      "title": "TİGEM küçükbaşta 5. grup listesini açıkladı! 751 yetiştirici için kredi ve ödeme süreci başladı",
-      "url": "https://www.tarimdanhaber.com/tigem-kucukbasta-5-grup-listesini-acikladi-751-yetistirici-icin-kredi-ve-odeme-sureci-basladi",
-      "source": "Tarımdan Haber",
-      "date": "2026-11-22",
-      "summary": "Kırsalda Bereket Küçükbaşa Destek Projesi’nin 1. etap 5. grup listesinde 61 ilden 751 yetiştirici yer aldı. TİGEM’in 20 Kasım tarihli duyurusuna göre kredi başvurusu için 5 iş günü, ödeme için 20 gün, hayvanların teslim alınması için 35 gün süre verildi. 100 başlık damızlık paketinin KDV dahil bedel",
-      "content": "Kırsalda Bereket Küçükbaşa Destek Projesi’nin 1. etap 5. grup listesinde 61 ilden 751 yetiştirici yer aldı. TİGEM’in 20 Kasım tarihli duyurusuna göre kredi başvurusu için 5 iş günü, ödeme için 20 gün, hayvanların teslim alınması için 35 gün süre verildi. 100 başlık damızlık paketinin KDV dahil bedeli, ırk ve yaş grubuna göre 1 milyon 62 bin TL ile 2 milyon 856 bin TL arasında değişiyor."
-    },
-    {
-      "title": "AB’nin sütü, eti ve meyvesi Endonezya’ya daha düşük maliyetle girecek! Türk üreticisi için ne değişecek?",
-      "url": "https://www.tarimdanhaber.com/abnin-sutu-eti-ve-meyvesi-endonezyaya-daha-dusuk-maliyetle-girecek-turk-ureticisi-icin-ne-degisecek",
-      "source": "Tarımdan Haber",
-      "date": "2026-11-22",
-      "summary": "Avrupa Birliği ile Endonezya, süt ürünlerinden et ve meyve-sebzeye kadar pek çok üründe gümrük vergilerini kaldıracak ticaret anlaşmasını imzaladı. Tarım Politikaları Uzmanı Ergin Kahveci’nin gündeme taşıdığı anlaşma, AB’li ihracatçılara Endonezya pazarında maliyet avantajı sağlayacak. Türkiye açısı",
-      "content": "Avrupa Birliği ile Endonezya, süt ürünlerinden et ve meyve-sebzeye kadar pek çok üründe gümrük vergilerini kaldıracak ticaret anlaşmasını imzaladı. Tarım Politikaları Uzmanı Ergin Kahveci’nin gündeme taşıdığı anlaşma, AB’li ihracatçılara Endonezya pazarında maliyet avantajı sağlayacak. Türkiye açısından ise asıl soru, aynı pazara ürün satan ihracatçıların bu avantaj karşısında nasıl rekabet edeceği."
     }
   ],
   "commoditiesByBorsa": {
