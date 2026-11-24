@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-24T07:06:27.360Z",
+  "updatedAt": "2026-11-24T18:54:10.083Z",
   "fx": [
     {
       "code": "USD",
@@ -11,33 +11,89 @@
     {
       "code": "EUR",
       "name": "Euro",
-      "buy": 55.25,
-      "sell": 55.28,
-      "change": 0.13
+      "buy": 55.62,
+      "sell": 55.64,
+      "change": 0.8
     },
     {
       "code": "GRA",
       "name": "Gram Altın",
-      "buy": 5895.53,
-      "sell": 5896.57,
-      "change": -0.27
+      "buy": 5789.37,
+      "sell": 5790.12,
+      "change": -2.07
     },
     {
       "code": "CEYREKALTIN",
       "name": "Çeyrek Altın",
-      "buy": 10003,
-      "sell": 10162,
-      "change": -0.24
+      "buy": 9871,
+      "sell": 10112,
+      "change": -0.73
     },
     {
       "code": "CUMHURIYETALTINI",
       "name": "Cumhuriyet Altını",
-      "buy": 40869,
-      "sell": 41533,
-      "change": -0.24
+      "buy": 40205,
+      "sell": 40902,
+      "change": -1.76
     }
   ],
   "news": [
+    {
+      "title": "Amasya Şeker’de maaş ve avans krizi: İşçi gecikmeli ödendi, çiftçiye 46 liradan şeker teklifi",
+      "url": "https://www.tarimdanhaber.com/amasya-sekerde-maas-ve-avans-krizi-isci-gecikmeli-odendi-ciftciye-46-liradan-seker-teklifi",
+      "source": "Tarımdan Haber",
+      "date": "2026-11-24",
+      "summary": "Çoğunluk hissesi Amasya Pancar Ekicileri Kooperatifi’ne ait olan Amasya Şeker Fabrikası’nda mali sıkışma derinleşti. Halkbank ve Türkşeker’in icra kıskacındaki fabrikada işçi maaşları 20-25 gün gecikmeyle ve krediyle ödenirken, üreticiye 4 avanstan yalnızca biri verilebildi; kalan avansın piyasa üst",
+      "content": "Çoğunluk hissesi Amasya Pancar Ekicileri Kooperatifi’ne ait olan Amasya Şeker Fabrikası’nda mali sıkışma derinleşti. Halkbank ve Türkşeker’in icra kıskacındaki fabrikada işçi maaşları 20-25 gün gecikmeyle ve krediyle ödenirken, üreticiye 4 avanstan yalnızca biri verilebildi; kalan avansın piyasa üstü 46 liradan şekerle ödenmek istenmesi tepki çekti."
+    },
+    {
+      "title": "Ergin Kahveci ABD verilerini analiz etti: Kırsal nüfus yavaşladı, tarıma bağımlı ilçeler küçüldü",
+      "url": "https://www.tarimdanhaber.com/ergin-kahveci-abd-verilerini-analiz-etti-kirsal-nufus-yavasladi-tarima-bagimli-ilceler-kuculdu",
+      "source": "Tarımdan Haber",
+      "date": "2026-11-24",
+      "summary": "Tarım Politikaları Uzmanı Ergin Kahveci, ABD Yönetim ve Bütçe Ofisi (OMB) ile ABD Tarım Bakanlığı Ekonomik Araştırma Servisi’nin (USDA ERS) güncel verilerini değerlendirdi. Kahveci’nin paylaştığı verilere göre, 2025 yılında ABD kırsal nüfus artış hızı bir önceki yılın yarısının altına inerken, ekono",
+      "content": "Tarım Politikaları Uzmanı Ergin Kahveci, ABD Yönetim ve Bütçe Ofisi (OMB) ile ABD Tarım Bakanlığı Ekonomik Araştırma Servisi’nin (USDA ERS) güncel verilerini değerlendirdi. Kahveci’nin paylaştığı verilere göre, 2025 yılında ABD kırsal nüfus artış hızı bir önceki yılın yarısının altına inerken, ekonomisi doğrudan tarıma dayalı kırsal ilçelerde nüfus geriledi."
+    },
+    {
+      "title": "Tek tapu tarla nasıl bölünür? Hissedarlardan biri 'hayır' derse bakın ne oluyor!",
+      "url": "https://www.tarimdanhaber.com/tek-tapu-tarla-nasil-bolunur-hissedarlardan-biri-hayir-derse-bakin-ne-oluyor",
+      "source": "Tarımdan Haber",
+      "date": "2026-11-24",
+      "summary": "Miras yoluyla edinilen veya tapu sicilinde tek parsel olarak kayıtlı bulunan tarım arazilerinin bölünmesi, hissedarların en çok karşılaştığı sorunların başında geliyor. Peki tek tapulu hisseli tarla nasıl ayrılır, hissedarlardan biri onay vermezse süreç nasıl işler?",
+      "content": "Miras yoluyla edinilen veya tapu sicilinde tek parsel olarak kayıtlı bulunan tarım arazilerinin bölünmesi, hissedarların en çok karşılaştığı sorunların başında geliyor. Peki tek tapulu hisseli tarla nasıl ayrılır, hissedarlardan biri onay vermezse süreç nasıl işler?"
+    },
+    {
+      "title": "Mersin Alata Bahçe Kültürleri Araştırma Enstitüsü'nde \"Rapor\" tepkisi: \"Hastaneye gidemez hale geldik\"",
+      "url": "https://www.tarimdanhaber.com/mersin-alata-bahce-kulturleri-arastirma-enstitusunde-rapor-tepkisi-hastaneye-gidemez-hale-geldik",
+      "source": "Tarımdan Haber",
+      "date": "2026-11-24",
+      "summary": "Mersin Alata Bahçe Kültürleri Araştırma Enstitüsü Müdürlüğü’nde görev yapan bazı personeller, Tarımdan Haber İhbar Hattı’na ulaşarak kurum idarecilerinin çalışma barışını bozan uygulamalar ve resmi yazılarla baskı kurduğunu öne sürdü. İhbarda, hastalık raporu alan personele \"idari işlem başlatılacağ",
+      "content": "Mersin Alata Bahçe Kültürleri Araştırma Enstitüsü Müdürlüğü’nde görev yapan bazı personeller, Tarımdan Haber İhbar Hattı’na ulaşarak kurum idarecilerinin çalışma barışını bozan uygulamalar ve resmi yazılarla baskı kurduğunu öne sürdü. İhbarda, hastalık raporu alan personele \"idari işlem başlatılacağı\" yönünde gözdağı verildiği iddia edildi."
+    },
+    {
+      "title": "İbrahim Yumaklı görevi bitince ne yapacak? Planını Ahmet Hakan'a açıkladı: \"Köy Evinde Kitap Okumak\"",
+      "url": "https://www.tarimdanhaber.com/ibrahim-yumakli-gorevi-bitince-ne-yapacak-planini-ahmet-hakana-acikladi-koy-evinde-kitap-okumak",
+      "source": "Tarımdan Haber",
+      "date": "2026-11-24",
+      "summary": "Hürriyet Genel Yayın Yönetmeni Ahmet Hakan, Tarım ve Orman Bakanı İbrahim Yumaklı ile yaptığı görüşmeyi köşesine taşıdı. Bakan Yumaklı’nın tarıma dair makro verileri paylaştığı yazıda, çiftçinin yaşadığı maliyet ve pazarlama sorunlarına değinilmezken; Hakan’ın Bakan hakkındaki \"Kariyer hırsı yok, te",
+      "content": "Hürriyet Genel Yayın Yönetmeni Ahmet Hakan, Tarım ve Orman Bakanı İbrahim Yumaklı ile yaptığı görüşmeyi köşesine taşıdı. Bakan Yumaklı’nın tarıma dair makro verileri paylaştığı yazıda, çiftçinin yaşadığı maliyet ve pazarlama sorunlarına değinilmezken; Hakan’ın Bakan hakkındaki \"Kariyer hırsı yok, tek planı görevini tamamlayıp bir köy evine çekilerek kitap okumak\" ifadeleri dikkat çekti."
+    },
+    {
+      "title": "Fon soruşturmasının ardından Tarfin Tarım gündemde: Çiftçinin senetleri ne olacak?",
+      "url": "https://www.tarimdanhaber.com/fon-krizinden-ciftciye-sicrayan-risk-diger-sirketlere-kayyum-atanirken-tarfin-tarim-neden-sahipsiz-birakildi",
+      "source": "Tarımdan Haber",
+      "date": "2026-11-24",
+      "summary": "Fon soruşturmasında 21 şirkete TMSF tarafından el konulup kayyum atanırken, Savcı Sayan, 6 Ekim’de aracında ölü bulunan Ali Emre Ballı’nın yönetim kurulu başkanı olduğu Tarfin Tarım’ın neden kapsam dışında kaldığını sordu. Faktoring şirketlerinin çiftçilere yönelik toplu haciz işlemleri başlattığını",
+      "content": "Fon soruşturmasında 21 şirkete TMSF tarafından el konulup kayyum atanırken, Savcı Sayan, 6 Ekim’de aracında ölü bulunan Ali Emre Ballı’nın yönetim kurulu başkanı olduğu Tarfin Tarım’ın neden kapsam dışında kaldığını sordu. Faktoring şirketlerinin çiftçilere yönelik toplu haciz işlemleri başlattığını öne süren Sayan, şirketin mali durumunun incelenmesini ve çiftçi senetlerinin akıbetinin açıklanmasını istedi."
+    },
+    {
+      "title": "Deprem bölgesindeki 11 ilde ortak makine desteği: Kimler başvurabilecek, şartlar neler?",
+      "url": "https://www.tarimdanhaber.com/deprem-bolgesindeki-11-ilde-ortak-makine-destegi-kimler-basvurabilecek-sartlar-neler",
+      "source": "Tarımdan Haber",
+      "date": "2026-11-24",
+      "summary": "Tarım ve Orman Bakanlığı Tarım Reformu Genel Müdürlüğü (TRGM), TARDİP Alt Bileşen 1.2 kapsamında deprem bölgesindeki 11 ilde ortak makine parkları kurulması için hibe çağrısını başlattı. Tarımsal amaçlı örgütlere uygun yatırım maliyetinin %90’ına kadar ve örgüt başına 1,2 milyon ABD dolarına kadar h",
+      "content": "Tarım ve Orman Bakanlığı Tarım Reformu Genel Müdürlüğü (TRGM), TARDİP Alt Bileşen 1.2 kapsamında deprem bölgesindeki 11 ilde ortak makine parkları kurulması için hibe çağrısını başlattı. Tarımsal amaçlı örgütlere uygun yatırım maliyetinin %90’ına kadar ve örgüt başına 1,2 milyon ABD dolarına kadar hibe sağlanacak; başvurular 23 Aralık 2026 saat 17.00’ye kadar fiziki olarak alınacak."
+    },
     {
       "title": "Tarım Kredi Market'te keyfi atama ve işe iade davası faturası: Şirkete ekstra 1.3 milyon TL yük!",
       "url": "https://www.tarimdanhaber.com/tarim-kredi-markette-keyfi-atama-ve-ise-iade-davasi-faturasi-sirkete-ekstra-13-milyon-tl-yuk",
@@ -45,62 +101,6 @@
       "date": "2026-11-23",
       "summary": "Tarım Kredi Kooperatif Marketleri’nde Nisan 2020 - Aralık 2024 döneminde İç Denetim Müdürü olarak görev yapan bir yöneticinin aktardığı iddialar, kurumsal yönetim ve personel politikalarındaki keyfiyeti yeniden gündeme taşıdı. Görev yerinin değiştirilmek istenmesi üzerine açılan işe iade davası sonr",
       "content": "Tarım Kredi Kooperatif Marketleri’nde Nisan 2020 - Aralık 2024 döneminde İç Denetim Müdürü olarak görev yapan bir yöneticinin aktardığı iddialar, kurumsal yönetim ve personel politikalarındaki keyfiyeti yeniden gündeme taşıdı. Görev yerinin değiştirilmek istenmesi üzerine açılan işe iade davası sonrası şirketten çıkan toplam tutarın 1,7 milyon TL bandına ulaştığı, bunun yaklaşık 1,3 milyon TL’lik kısmının ek maliyet olarak oluştuğu öne sürüldü."
-    },
-    {
-      "title": "Tarımsal üründe vadeli piyasa tartışması: Ekonomist Ensar Yılmaz'dan çiftçiye kritik uyarılar",
-      "url": "https://www.tarimdanhaber.com/tarimsal-urunde-vadeli-piyasa-tartismasi-ekonomist-ensar-yilmazdan-ciftciye-kritik-uyarilar",
-      "source": "Tarımdan Haber",
-      "date": "2026-11-23",
-      "summary": "Sencer Solakoğlu’nun gündeme taşıdığı vadeli piyasa ve türev araç tartışmasına ekonomist Ensar Yılmaz, kapsamlı bir analizle katıldı. Tarımdaki fiyat istikrarsızlığının üretim ve yapısal sorunlardan kaynaklandığını vurgulayan Yılmaz; türev ürünlerin tek başına sorunu çözemeyeceğini, spekülasyon ve f",
-      "content": "Sencer Solakoğlu’nun gündeme taşıdığı vadeli piyasa ve türev araç tartışmasına ekonomist Ensar Yılmaz, kapsamlı bir analizle katıldı. Tarımdaki fiyat istikrarsızlığının üretim ve yapısal sorunlardan kaynaklandığını vurgulayan Yılmaz; türev ürünlerin tek başına sorunu çözemeyeceğini, spekülasyon ve finansallaşma riskinin tarladaki fiyatı etkileyebileceğini belirterek çiftçiyi sahadaki gerçekler açısından uyardı."
-    },
-    {
-      "title": "Tarımda vadeli borsa tartışması büyüyor: Cibre, Yılmaz ve Yazıcı'dan Sencer Solakoğlu'na sert eleştiriler",
-      "url": "https://www.tarimdanhaber.com/tarimda-vadeli-borsa-tartismasi-buyuyor-cibre-yilmaz-ve-yazicidan-sencer-solakogluna-sert-elestiriler",
-      "source": "Tarımdan Haber",
-      "date": "2026-11-23",
-      "summary": "Yeni Parti Tarım ve Orman Gölge Bakanı Sencer Solakoğlu’nun tarım üreticisi için gündeme getirdiği vadeli opsiyon borsası ve sözleşmeli kontrat önerisi, ekonomi ve tarım çevrelerinde geniş yankı uyandırdı. İris Cibre, Ensar Yılmaz ve Barış Yazıcı’nın peş peşe yaptığı değerlendirmelerde; teminat tama",
-      "content": "Yeni Parti Tarım ve Orman Gölge Bakanı Sencer Solakoğlu’nun tarım üreticisi için gündeme getirdiği vadeli opsiyon borsası ve sözleşmeli kontrat önerisi, ekonomi ve tarım çevrelerinde geniş yankı uyandırdı. İris Cibre, Ensar Yılmaz ve Barış Yazıcı’nın peş peşe yaptığı değerlendirmelerde; teminat tamamlama baskısı, don ve kuraklıkta rekolte kaybı, fiyat makası ve yapısal politika eksikliği öne çıkarılırken, çözüm olarak kooperatifleşme, lojistik ve soğuk zincir gibi temel adımlar işaret edildi."
-    },
-    {
-      "title": "Mandalina üreticisinden acı isyan: \"Ağaçları keseceğiz dedik, siyasetçiler değil oduncular yazdı!\"",
-      "url": "https://www.tarimdanhaber.com/mandalina-ureticisinden-aci-isyan-agaclari-kesecegiz-dedik-siyasetciler-degil-oduncular-yazdi",
-      "source": "Tarımdan Haber",
-      "date": "2026-11-23",
-      "summary": "Ürününü satamadığı için 26 yıllık mandalina ağaçlarını kesme kararı alan üretici, yaşadığı çaresizliği bahçesinden çektiği videoyla anlattı. Kilosunu 6-7 liraya mal ettiği mandalinaya 3 lira teklif edildiğini belirten üretici, \"Ağaçları keseceğiz dediğimizde bana en çok yazan siyasetçiler değil; odu",
-      "content": "Ürününü satamadığı için 26 yıllık mandalina ağaçlarını kesme kararı alan üretici, yaşadığı çaresizliği bahçesinden çektiği videoyla anlattı. Kilosunu 6-7 liraya mal ettiği mandalinaya 3 lira teklif edildiğini belirten üretici, \"Ağaçları keseceğiz dediğimizde bana en çok yazan siyasetçiler değil; oduncular. 'Abi biz odunu kesip alırız' diyorlar\" sözleriyle tepkisini dile getirdi."
-    },
-    {
-      "title": "Tek parsel tarlayı bölmek isteyenler dikkat: 5403 sayılı Kanun ne diyor?",
-      "url": "https://www.tarimdanhaber.com/tek-parsel-tarlayi-bolmek-isteyenler-dikkat-5403-sayili-kanun-ne-diyor",
-      "source": "Tarımdan Haber",
-      "date": "2026-11-23",
-      "summary": "Tarım arazilerinin parsellere ayrılması (ifraz) işlemi, yalnızca tapu işlemlerinden ibaret olmayıp 5403 sayılı Toprak Koruma ve Arazi Kullanımı Kanunu ile 3194 sayılı İmar Kanunu hükümleri çerçevesinde yürütülen sıkı kurallara bağlı bir hukuki süreçtir.",
-      "content": "Tarım arazilerinin parsellere ayrılması (ifraz) işlemi, yalnızca tapu işlemlerinden ibaret olmayıp 5403 sayılı Toprak Koruma ve Arazi Kullanımı Kanunu ile 3194 sayılı İmar Kanunu hükümleri çerçevesinde yürütülen sıkı kurallara bağlı bir hukuki süreçtir."
-    },
-    {
-      "title": "Turhan Çömez'den çarpıcı ithalat hesabı: \"Toni'ye Coni'ye her gün 105 milyon lira, Ali'ye Veli'ye gelince para yok!\"",
-      "url": "https://www.tarimdanhaber.com/turhan-comezden-carpici-ithalat-hesabi-toniye-coniye-her-gun-105-milyon-lira-aliye-veliye-gelince-para-yok",
-      "source": "Tarımdan Haber",
-      "date": "2026-11-23",
-      "summary": "İYİ Parti Grup Başkanvekili Turhan Çömez, Brezilya’nın resmi istatistik verileri üzerinden Türkiye’nin canlı büyükbaş hayvan ithalatını sert sözlerle eleştirdi. İlk 10 ayda Brezilya’dan 485 bin 198 baş hayvan ithal edildiğini ve bunun karşılığında 624 milyon 113 bin 474 dolar (yaklaşık 32 milyar lir",
-      "content": "İYİ Parti Grup Başkanvekili Turhan Çömez, Brezilya’nın resmi istatistik verileri üzerinden Türkiye’nin canlı büyükbaş hayvan ithalatını sert sözlerle eleştirdi. İlk 10 ayda Brezilya’dan 485 bin 198 baş hayvan ithal edildiğini ve bunun karşılığında 624 milyon 113 bin 474 dolar (yaklaşık 32 milyar lira) ödendiğini belirten Çömez, \"Brezilyalı hayvan yetiştiricisine, Toni’ye Coni’ye her Allah’ın günü 105 milyon lira ödemişiz. Ali’ye Veli’ye, yerli ve milliye gelince ise para yok\" dedi."
-    },
-    {
-      "title": "2026'da canlı sığır ithalatı 649 bin başı aştı: Brezilya'da Türkiye lider, 2027 kotası ilk 10 ayın gerisinde",
-      "url": "https://www.tarimdanhaber.com/2026da-canli-sigir-ithalati-649-bin-basi-asti-brezilyada-turkiye-lider-2027-kotasi-ilk-10-ayin-gerisinde",
-      "source": "Tarımdan Haber",
-      "date": "2026-11-23",
-      "summary": "Tarım politikaları uzmanı Ergin Kahveci’nin derlediği dış ticaret verilerine göre Türkiye, 2026 yılında Brezilya, Uruguay ve Avustralya’dan toplam 649 bin 141 baş canlı sığır alımına ulaştı. Brezilya’nın canlı sığır ihracatında açık ara ilk sırada yer alan Türkiye, sadece 10 ayda Brezilya’dan 485 bi",
-      "content": "Tarım politikaları uzmanı Ergin Kahveci’nin derlediği dış ticaret verilerine göre Türkiye, 2026 yılında Brezilya, Uruguay ve Avustralya’dan toplam 649 bin 141 baş canlı sığır alımına ulaştı. Brezilya’nın canlı sığır ihracatında açık ara ilk sırada yer alan Türkiye, sadece 10 ayda Brezilya’dan 485 bin 200 baş hayvan alarak 2027 için açıklanan 480 bin başlık erkek sığır ithalat kotasını şimdiden aştı."
-    },
-    {
-      "title": "İYİ Parti’den çiftçi için faizsiz erteleme çağrısı: Destek ekimden önce ödensin",
-      "url": "https://www.tarimdanhaber.com/iyi-partiden-ciftci-icin-faizsiz-erteleme-cagrisi-destek-ekimden-once-odensin",
-      "source": "Tarımdan Haber",
-      "date": "2026-11-23",
-      "summary": "İYİ Parti Konya İl Başkanı Ali Anlaş, artan maliyetlerin çiftçiyi üretimden uzaklaştırdığını belirterek hükümete çağrıda bulundu. Üreticinin borçlarının faizsiz ertelenmesini, tarımsal üretim üzerindeki ÖTV ve KDV yükünün kaldırılmasını isteyen Anlaş, destek ödemelerinin ekim öncesine çekilmesini ön",
-      "content": "İYİ Parti Konya İl Başkanı Ali Anlaş, artan maliyetlerin çiftçiyi üretimden uzaklaştırdığını belirterek hükümete çağrıda bulundu. Üreticinin borçlarının faizsiz ertelenmesini, tarımsal üretim üzerindeki ÖTV ve KDV yükünün kaldırılmasını isteyen Anlaş, destek ödemelerinin ekim öncesine çekilmesini önerdi."
     }
   ],
   "commoditiesByBorsa": {
@@ -307,7 +307,6 @@
   "note": "Fiyatlar TOBB ticaret borsasından (borsa seçilebilir). Kanola manuel (Trakya 2025).",
   "inputsNote": "Mazot: akaryakıt bayi fiyatı, günlük (şehir seçilebilir). Gübre: manuel (yaklaşık).",
   "errors": [
-    "news: hiçbir haber kaynağı yanıt vermedi",
     "borsa 5ED10: fetch failed",
     "borsa 5KO10: fetch failed",
     "borsa 5ES10: fetch failed"
