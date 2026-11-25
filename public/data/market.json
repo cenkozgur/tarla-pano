@@ -1,43 +1,59 @@
 {
-  "updatedAt": "2026-11-25T12:18:59.564Z",
+  "updatedAt": "2026-11-25T21:48:56.472Z",
   "fx": [
     {
       "code": "USD",
       "name": "Dolar",
       "buy": 50.67,
       "sell": 50.68,
-      "change": 0.11
+      "change": 0
     },
     {
       "code": "EUR",
       "name": "Euro",
-      "buy": 55.48,
-      "sell": 55.49,
-      "change": -0.23
+      "buy": 55.61,
+      "sell": 55.62,
+      "change": -0.01
     },
     {
       "code": "GRA",
       "name": "Gram Altın",
-      "buy": 5734.19,
-      "sell": 5734.99,
-      "change": -0.83
+      "buy": 5831.44,
+      "sell": 5832.45,
+      "change": 0.14
     },
     {
       "code": "CEYREKALTIN",
       "name": "Çeyrek Altın",
-      "buy": 9808,
-      "sell": 10068,
-      "change": -0.32
+      "buy": 9974,
+      "sell": 10307,
+      "change": 0.12
     },
     {
       "code": "CUMHURIYETALTINI",
       "name": "Cumhuriyet Altını",
-      "buy": 40088,
-      "sell": 40635,
-      "change": -0.54
+      "buy": 40767,
+      "sell": 41597,
+      "change": 0.12
     }
   ],
   "news": [
+    {
+      "title": "Bakan Yumaklı’dan 2027 tarım bütçesi sunumu: Tarıma ayrılan toplam kaynak 1 trilyon 305 milyar liraya çıkıyor!",
+      "url": "https://www.tarimdanhaber.com/bakan-yumaklidan-2027-tarim-butcesi-sunumu-tarima-ayrilan-toplam-kaynak-1-trilyon-305-milyar-liraya-cikiyor",
+      "source": "Tarımdan Haber",
+      "date": "2026-11-25",
+      "summary": "Bakan İbrahim Yumaklı, TBMM Plan ve Bütçe Komisyonu’ndaki 2027 bütçe sunumunda bakanlık bütçesini 760 milyar 597 milyon lira, tarıma ayrılan toplam kaynağı ise 1 trilyon 305 milyar lira olarak açıkladı. Konuşmada ata tohumu ve ormanlarda otlatma çıkışlarının yanı sıra 2027’de devreye girecek sera re",
+      "content": "Bakan İbrahim Yumaklı, TBMM Plan ve Bütçe Komisyonu’ndaki 2027 bütçe sunumunda bakanlık bütçesini 760 milyar 597 milyon lira, tarıma ayrılan toplam kaynağı ise 1 trilyon 305 milyar lira olarak açıkladı. Konuşmada ata tohumu ve ormanlarda otlatma çıkışlarının yanı sıra 2027’de devreye girecek sera rehabilitasyonu, zorunlu hasat izleme ve 5,3 milyar dolarlık kırsal dönüşüm projesi öne çıktı."
+    },
+    {
+      "title": "Tarımdan Haber’in X hesabına erişim engeli: Zeytin üreticisinin fiyat tepkisi ve Meclis önergesi \"Kamu Düzeni\" sayıldı!",
+      "url": "https://www.tarimdanhaber.com/tarimdan-haberin-x-hesabina-erisim-engeli-zeytin-ureticisinin-fiyat-tepkisi-ve-meclis-onergesi-kamu-duzeni-sayildi",
+      "source": "Tarımdan Haber",
+      "date": "2026-11-25",
+      "summary": "Tarım ve Orman Bakanlığı’nın bütçesinin görüşüldüğü gün Tarımdan Haber’in X hesabına 5651 sayılı Kanun’un 8/A maddesi uyarınca tamamen erişim engeli getirildi. Yaşam hakkı ve kamu düzeni gibi kritik sebeplere dayandırılan kapatma kararına; zeytin üreticisinin fiyat isyanını anlattığı yerel TV videos",
+      "content": "Tarım ve Orman Bakanlığı’nın bütçesinin görüşüldüğü gün Tarımdan Haber’in X hesabına 5651 sayılı Kanun’un 8/A maddesi uyarınca tamamen erişim engeli getirildi. Yaşam hakkı ve kamu düzeni gibi kritik sebeplere dayandırılan kapatma kararına; zeytin üreticisinin fiyat isyanını anlattığı yerel TV videosu, Amasya Şeker Fabrikası'ndaki kriz haberi ve TBMM'ye verilen sahte gübre soru önergesi gerekçe gösterildi."
+    },
     {
       "title": "Çiftçi ürününü sattıktan sonra da kazanacak! Ağıralioğlu’ndan satış karına ortaklık vaadi",
       "url": "https://www.tarimdanhaber.com/ciftci-urununu-sattiktan-sonra-da-kazanacak-agiralioglundan-satis-karina-ortaklik-vaadi",
@@ -85,22 +101,6 @@
       "date": "2026-11-24",
       "summary": "Tarım Politikaları Uzmanı Ergin Kahveci, ABD Yönetim ve Bütçe Ofisi (OMB) ile ABD Tarım Bakanlığı Ekonomik Araştırma Servisi’nin (USDA ERS) güncel verilerini değerlendirdi. Kahveci’nin paylaştığı verilere göre, 2025 yılında ABD kırsal nüfus artış hızı bir önceki yılın yarısının altına inerken, ekono",
       "content": "Tarım Politikaları Uzmanı Ergin Kahveci, ABD Yönetim ve Bütçe Ofisi (OMB) ile ABD Tarım Bakanlığı Ekonomik Araştırma Servisi’nin (USDA ERS) güncel verilerini değerlendirdi. Kahveci’nin paylaştığı verilere göre, 2025 yılında ABD kırsal nüfus artış hızı bir önceki yılın yarısının altına inerken, ekonomisi doğrudan tarıma dayalı kırsal ilçelerde nüfus geriledi."
-    },
-    {
-      "title": "Tek tapu tarla nasıl bölünür? Hissedarlardan biri 'hayır' derse bakın ne oluyor!",
-      "url": "https://www.tarimdanhaber.com/tek-tapu-tarla-nasil-bolunur-hissedarlardan-biri-hayir-derse-bakin-ne-oluyor",
-      "source": "Tarımdan Haber",
-      "date": "2026-11-24",
-      "summary": "Miras yoluyla edinilen veya tapu sicilinde tek parsel olarak kayıtlı bulunan tarım arazilerinin bölünmesi, hissedarların en çok karşılaştığı sorunların başında geliyor. Peki tek tapulu hisseli tarla nasıl ayrılır, hissedarlardan biri onay vermezse süreç nasıl işler?",
-      "content": "Miras yoluyla edinilen veya tapu sicilinde tek parsel olarak kayıtlı bulunan tarım arazilerinin bölünmesi, hissedarların en çok karşılaştığı sorunların başında geliyor. Peki tek tapulu hisseli tarla nasıl ayrılır, hissedarlardan biri onay vermezse süreç nasıl işler?"
-    },
-    {
-      "title": "Mersin Alata Bahçe Kültürleri Araştırma Enstitüsü'nde \"Rapor\" tepkisi: \"Hastaneye gidemez hale geldik\"",
-      "url": "https://www.tarimdanhaber.com/mersin-alata-bahce-kulturleri-arastirma-enstitusunde-rapor-tepkisi-hastaneye-gidemez-hale-geldik",
-      "source": "Tarımdan Haber",
-      "date": "2026-11-24",
-      "summary": "Mersin Alata Bahçe Kültürleri Araştırma Enstitüsü Müdürlüğü’nde görev yapan bazı personeller, Tarımdan Haber İhbar Hattı’na ulaşarak kurum idarecilerinin çalışma barışını bozan uygulamalar ve resmi yazılarla baskı kurduğunu öne sürdü. İhbarda, hastalık raporu alan personele \"idari işlem başlatılacağ",
-      "content": "Mersin Alata Bahçe Kültürleri Araştırma Enstitüsü Müdürlüğü’nde görev yapan bazı personeller, Tarımdan Haber İhbar Hattı’na ulaşarak kurum idarecilerinin çalışma barışını bozan uygulamalar ve resmi yazılarla baskı kurduğunu öne sürdü. İhbarda, hastalık raporu alan personele \"idari işlem başlatılacağı\" yönünde gözdağı verildiği iddia edildi."
     }
   ],
   "commoditiesByBorsa": {
@@ -254,24 +254,24 @@
     }
   ],
   "dieselByCity": {
-    "ANKARA": 89.9,
-    "ISTANBUL": 88.75,
-    "IZMIR": 90.2,
-    "KONYA": 91.1,
-    "ADANA": 90.8,
-    "BURSA": 89.8,
-    "ANTALYA": 91.3,
-    "SAMSUN": 90.5,
-    "TEKIRDAG": 89.7,
-    "CANAKKALE": 90.6
+    "ANKARA": 85.7,
+    "ISTANBUL": 84.53,
+    "IZMIR": 86,
+    "KONYA": 86.9,
+    "ADANA": 86.6,
+    "BURSA": 85.6,
+    "ANTALYA": 87.1,
+    "SAMSUN": 86.3,
+    "TEKIRDAG": 85.5,
+    "CANAKKALE": 86.4
   },
   "inputs": [
     {
       "key": "motorin",
       "name": "Motorin (mazot)",
       "unit": "₺/lt",
-      "price": 90.6,
-      "change": 0,
+      "price": 86.4,
+      "change": -4.64,
       "source": "CANAKKALE ort."
     },
     {
