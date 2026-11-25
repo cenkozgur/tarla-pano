@@ -1,43 +1,75 @@
 {
-  "updatedAt": "2026-11-25T02:57:29.428Z",
+  "updatedAt": "2026-11-25T12:18:59.564Z",
   "fx": [
     {
       "code": "USD",
       "name": "Dolar",
-      "buy": 50.62,
-      "sell": 50.63,
-      "change": 0.08
+      "buy": 50.67,
+      "sell": 50.68,
+      "change": 0.11
     },
     {
       "code": "EUR",
       "name": "Euro",
-      "buy": 55.62,
-      "sell": 55.64,
-      "change": 0.8
+      "buy": 55.48,
+      "sell": 55.49,
+      "change": -0.23
     },
     {
       "code": "GRA",
       "name": "Gram Altın",
-      "buy": 5789.37,
-      "sell": 5790.12,
-      "change": -2.07
+      "buy": 5734.19,
+      "sell": 5734.99,
+      "change": -0.83
     },
     {
       "code": "CEYREKALTIN",
       "name": "Çeyrek Altın",
-      "buy": 9871,
-      "sell": 10112,
-      "change": -0.73
+      "buy": 9808,
+      "sell": 10068,
+      "change": -0.32
     },
     {
       "code": "CUMHURIYETALTINI",
       "name": "Cumhuriyet Altını",
-      "buy": 40205,
-      "sell": 40902,
-      "change": -1.76
+      "buy": 40088,
+      "sell": 40635,
+      "change": -0.54
     }
   ],
   "news": [
+    {
+      "title": "Çiftçi ürününü sattıktan sonra da kazanacak! Ağıralioğlu’ndan satış karına ortaklık vaadi",
+      "url": "https://www.tarimdanhaber.com/ciftci-urununu-sattiktan-sonra-da-kazanacak-agiralioglundan-satis-karina-ortaklik-vaadi",
+      "source": "Tarımdan Haber",
+      "date": "2026-11-25",
+      "summary": "Anahtar Parti Genel Başkanı Yavuz Ağıralioğlu, Türkiye’de üretilebilen ürünlerin ithalatını durdurmayı ve çiftçi ile besicinin mevcut borçlarını beş yıl faizsiz yapılandırmayı önerdi. Ağıralioğlu, paylaştığı modelde devlet çiftçiye işletme sermayesi ve girdi sağlayacak, üretici de kooperatifin satış",
+      "content": "Anahtar Parti Genel Başkanı Yavuz Ağıralioğlu, Türkiye’de üretilebilen ürünlerin ithalatını durdurmayı ve çiftçi ile besicinin mevcut borçlarını beş yıl faizsiz yapılandırmayı önerdi. Ağıralioğlu, paylaştığı modelde devlet çiftçiye işletme sermayesi ve girdi sağlayacak, üretici de kooperatifin satış karından pay alacak."
+    },
+    {
+      "title": "Hayvancılık desteklerinde yeni düzenleme Resmi Gazete’de: Buzağı, kuzu-oğlak ve atık desteği şartları değişti",
+      "url": "https://www.tarimdanhaber.com/hayvancilik-desteklerinde-yeni-duzenleme-resmi-gazetede-buzagi-kuzu-oglak-ve-atik-destegi-sartlari-degisti",
+      "source": "Tarımdan Haber",
+      "date": "2026-11-25",
+      "summary": "Tarım ve Orman Bakanlığı’nın Hayvancılık Desteklemeleri Uygulama Tebliği’nde yaptığı değişiklikler Resmi Gazete’de yayımlandı. 1 Ocak 2026’dan itibaren geçerli olacak düzenlemeyle; buzağı ve malak ilave desteklerinden atık desteği şartlarına, kuzu-oğlak destek sınırından ari işletme kriterlerine kad",
+      "content": "Tarım ve Orman Bakanlığı’nın Hayvancılık Desteklemeleri Uygulama Tebliği’nde yaptığı değişiklikler Resmi Gazete’de yayımlandı. 1 Ocak 2026’dan itibaren geçerli olacak düzenlemeyle; buzağı ve malak ilave desteklerinden atık desteği şartlarına, kuzu-oğlak destek sınırından ari işletme kriterlerine kadar pek çok alanda yeni kurallar getirildi."
+    },
+    {
+      "title": "Growtech Antalya başladı: 7 ülke pavilyonu, yapay zeka ve tıbbi kenevir öne çıkıyor",
+      "url": "https://www.tarimdanhaber.com/growtech-antalya-basladi-7-ulke-pavilyonu-yapay-zeka-ve-tibbi-kenevir-one-cikiyor",
+      "source": "Tarımdan Haber",
+      "date": "2026-11-25",
+      "summary": "Dünyanın en büyük örtü altı tarım fuarları arasında gösterilen Growtech Antalya, 25’inci kez ANFAŞ Fuar ve Kongre Merkezi’nde kapılarını açtı. 36 ülkeden 722 firmanın yer aldığı ve 27 Kasım’a kadar gezilebilecek fuarda; sürdürülebilir üretim ve yapay zeka teknolojilerinin yanı sıra bu yıl ilk kez tı",
+      "content": "Dünyanın en büyük örtü altı tarım fuarları arasında gösterilen Growtech Antalya, 25’inci kez ANFAŞ Fuar ve Kongre Merkezi’nde kapılarını açtı. 36 ülkeden 722 firmanın yer aldığı ve 27 Kasım’a kadar gezilebilecek fuarda; sürdürülebilir üretim ve yapay zeka teknolojilerinin yanı sıra bu yıl ilk kez tıbbi kenevir bölümü de açıldı."
+    },
+    {
+      "title": "Konya Ticaret Borsası’nda beyaz sert ekmeklik buğday 23,55 liraya çıktı: Günlük artış 1,10 lira",
+      "url": "https://www.tarimdanhaber.com/konya-ticaret-borsasinda-beyaz-sert-ekmeklik-bugday-2355-liraya-cikti-gunluk-artis-110-lira",
+      "source": "Tarımdan Haber",
+      "date": "2026-11-24",
+      "summary": "Konya Ticaret Borsası'nın dünkü işlemlerinde beyaz sert ekmeklik buğdayın ortalama fiyatı 1,10 lira artarak 23,5 liraya yükseldi. Aynı gün toplam işlem hacmi 9.154 tona çıkarken ağırlık mısırda kaldı; kırmızı sert ekmeklik buğday ve arpada ise ortalama fiyatlar geriledi.",
+      "content": "Konya Ticaret Borsası'nın dünkü işlemlerinde beyaz sert ekmeklik buğdayın ortalama fiyatı 1,10 lira artarak 23,5 liraya yükseldi. Aynı gün toplam işlem hacmi 9.154 tona çıkarken ağırlık mısırda kaldı; kırmızı sert ekmeklik buğday ve arpada ise ortalama fiyatlar geriledi."
+    },
     {
       "title": "Amasya Şeker’de maaş ve avans krizi: İşçi gecikmeli ödendi, çiftçiye 46 liradan şeker teklifi",
       "url": "https://www.tarimdanhaber.com/amasya-sekerde-maas-ve-avans-krizi-isci-gecikmeli-odendi-ciftciye-46-liradan-seker-teklifi",
@@ -69,38 +101,6 @@
       "date": "2026-11-24",
       "summary": "Mersin Alata Bahçe Kültürleri Araştırma Enstitüsü Müdürlüğü’nde görev yapan bazı personeller, Tarımdan Haber İhbar Hattı’na ulaşarak kurum idarecilerinin çalışma barışını bozan uygulamalar ve resmi yazılarla baskı kurduğunu öne sürdü. İhbarda, hastalık raporu alan personele \"idari işlem başlatılacağ",
       "content": "Mersin Alata Bahçe Kültürleri Araştırma Enstitüsü Müdürlüğü’nde görev yapan bazı personeller, Tarımdan Haber İhbar Hattı’na ulaşarak kurum idarecilerinin çalışma barışını bozan uygulamalar ve resmi yazılarla baskı kurduğunu öne sürdü. İhbarda, hastalık raporu alan personele \"idari işlem başlatılacağı\" yönünde gözdağı verildiği iddia edildi."
-    },
-    {
-      "title": "İbrahim Yumaklı görevi bitince ne yapacak? Planını Ahmet Hakan'a açıkladı: \"Köy Evinde Kitap Okumak\"",
-      "url": "https://www.tarimdanhaber.com/ibrahim-yumakli-gorevi-bitince-ne-yapacak-planini-ahmet-hakana-acikladi-koy-evinde-kitap-okumak",
-      "source": "Tarımdan Haber",
-      "date": "2026-11-24",
-      "summary": "Hürriyet Genel Yayın Yönetmeni Ahmet Hakan, Tarım ve Orman Bakanı İbrahim Yumaklı ile yaptığı görüşmeyi köşesine taşıdı. Bakan Yumaklı’nın tarıma dair makro verileri paylaştığı yazıda, çiftçinin yaşadığı maliyet ve pazarlama sorunlarına değinilmezken; Hakan’ın Bakan hakkındaki \"Kariyer hırsı yok, te",
-      "content": "Hürriyet Genel Yayın Yönetmeni Ahmet Hakan, Tarım ve Orman Bakanı İbrahim Yumaklı ile yaptığı görüşmeyi köşesine taşıdı. Bakan Yumaklı’nın tarıma dair makro verileri paylaştığı yazıda, çiftçinin yaşadığı maliyet ve pazarlama sorunlarına değinilmezken; Hakan’ın Bakan hakkındaki \"Kariyer hırsı yok, tek planı görevini tamamlayıp bir köy evine çekilerek kitap okumak\" ifadeleri dikkat çekti."
-    },
-    {
-      "title": "Fon soruşturmasının ardından Tarfin Tarım gündemde: Çiftçinin senetleri ne olacak?",
-      "url": "https://www.tarimdanhaber.com/fon-krizinden-ciftciye-sicrayan-risk-diger-sirketlere-kayyum-atanirken-tarfin-tarim-neden-sahipsiz-birakildi",
-      "source": "Tarımdan Haber",
-      "date": "2026-11-24",
-      "summary": "Fon soruşturmasında 21 şirkete TMSF tarafından el konulup kayyum atanırken, Savcı Sayan, 6 Ekim’de aracında ölü bulunan Ali Emre Ballı’nın yönetim kurulu başkanı olduğu Tarfin Tarım’ın neden kapsam dışında kaldığını sordu. Faktoring şirketlerinin çiftçilere yönelik toplu haciz işlemleri başlattığını",
-      "content": "Fon soruşturmasında 21 şirkete TMSF tarafından el konulup kayyum atanırken, Savcı Sayan, 6 Ekim’de aracında ölü bulunan Ali Emre Ballı’nın yönetim kurulu başkanı olduğu Tarfin Tarım’ın neden kapsam dışında kaldığını sordu. Faktoring şirketlerinin çiftçilere yönelik toplu haciz işlemleri başlattığını öne süren Sayan, şirketin mali durumunun incelenmesini ve çiftçi senetlerinin akıbetinin açıklanmasını istedi."
-    },
-    {
-      "title": "Deprem bölgesindeki 11 ilde ortak makine desteği: Kimler başvurabilecek, şartlar neler?",
-      "url": "https://www.tarimdanhaber.com/deprem-bolgesindeki-11-ilde-ortak-makine-destegi-kimler-basvurabilecek-sartlar-neler",
-      "source": "Tarımdan Haber",
-      "date": "2026-11-24",
-      "summary": "Tarım ve Orman Bakanlığı Tarım Reformu Genel Müdürlüğü (TRGM), TARDİP Alt Bileşen 1.2 kapsamında deprem bölgesindeki 11 ilde ortak makine parkları kurulması için hibe çağrısını başlattı. Tarımsal amaçlı örgütlere uygun yatırım maliyetinin %90’ına kadar ve örgüt başına 1,2 milyon ABD dolarına kadar h",
-      "content": "Tarım ve Orman Bakanlığı Tarım Reformu Genel Müdürlüğü (TRGM), TARDİP Alt Bileşen 1.2 kapsamında deprem bölgesindeki 11 ilde ortak makine parkları kurulması için hibe çağrısını başlattı. Tarımsal amaçlı örgütlere uygun yatırım maliyetinin %90’ına kadar ve örgüt başına 1,2 milyon ABD dolarına kadar hibe sağlanacak; başvurular 23 Aralık 2026 saat 17.00’ye kadar fiziki olarak alınacak."
-    },
-    {
-      "title": "Tarım Kredi Market'te keyfi atama ve işe iade davası faturası: Şirkete ekstra 1.3 milyon TL yük!",
-      "url": "https://www.tarimdanhaber.com/tarim-kredi-markette-keyfi-atama-ve-ise-iade-davasi-faturasi-sirkete-ekstra-13-milyon-tl-yuk",
-      "source": "Tarımdan Haber",
-      "date": "2026-11-23",
-      "summary": "Tarım Kredi Kooperatif Marketleri’nde Nisan 2020 - Aralık 2024 döneminde İç Denetim Müdürü olarak görev yapan bir yöneticinin aktardığı iddialar, kurumsal yönetim ve personel politikalarındaki keyfiyeti yeniden gündeme taşıdı. Görev yerinin değiştirilmek istenmesi üzerine açılan işe iade davası sonr",
-      "content": "Tarım Kredi Kooperatif Marketleri’nde Nisan 2020 - Aralık 2024 döneminde İç Denetim Müdürü olarak görev yapan bir yöneticinin aktardığı iddialar, kurumsal yönetim ve personel politikalarındaki keyfiyeti yeniden gündeme taşıdı. Görev yerinin değiştirilmek istenmesi üzerine açılan işe iade davası sonrası şirketten çıkan toplam tutarın 1,7 milyon TL bandına ulaştığı, bunun yaklaşık 1,3 milyon TL’lik kısmının ek maliyet olarak oluştuğu öne sürüldü."
     }
   ],
   "commoditiesByBorsa": {
@@ -307,8 +307,6 @@
   "note": "Fiyatlar TOBB ticaret borsasından (borsa seçilebilir). Kanola manuel (Trakya 2025).",
   "inputsNote": "Mazot: akaryakıt bayi fiyatı, günlük (şehir seçilebilir). Gübre: manuel (yaklaşık).",
   "errors": [
-    "fx: fetch failed",
-    "news: hiçbir haber kaynağı yanıt vermedi",
     "borsa 5ED10: fetch failed",
     "borsa 5KO10: fetch failed",
     "borsa 5ES10: fetch failed"
