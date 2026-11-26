@@ -1,40 +1,40 @@
 {
-  "updatedAt": "2026-11-26T13:13:05.495Z",
+  "updatedAt": "2026-11-26T22:21:43.436Z",
   "fx": [
     {
       "code": "USD",
       "name": "Dolar",
-      "buy": 506705,
-      "sell": 506826,
-      "change": 0
+      "buy": 50.78,
+      "sell": 50.79,
+      "change": 0.23
     },
     {
       "code": "EUR",
       "name": "Euro",
-      "buy": 557673,
-      "sell": 557824,
-      "change": 27
+      "buy": 55.73,
+      "sell": 55.85,
+      "change": 0.11
     },
     {
       "code": "GRA",
       "name": "Gram Altın",
-      "buy": 580776,
-      "sell": 580878,
-      "change": -26
+      "buy": 5817.46,
+      "sell": 5831.13,
+      "change": 0.28
     },
     {
       "code": "CEYREKALTIN",
       "name": "Çeyrek Altın",
-      "buy": 9770,
-      "sell": 9992,
-      "change": -294
+      "buy": 9802,
+      "sell": 10045,
+      "change": 0.23
     },
     {
       "code": "CUMHURIYETALTINI",
       "name": "Cumhuriyet Altını",
-      "buy": 40040,
-      "sell": 40388,
-      "change": -279
+      "buy": 40169,
+      "sell": 40601,
+      "change": 0.23
     }
   ],
   "news": [
@@ -309,6 +309,16 @@
   "errors": [
     "borsa 5ED10: fetch failed",
     "borsa 5KO10: fetch failed",
-    "borsa 5ES10: fetch failed"
+    "borsa 5ES10: fetch failed",
+    "mazot ANKARA: Unexpected token '<', \"<!DOCTYPE \"... is not valid JSON",
+    "mazot ISTANBUL: Unexpected token '<', \"<!DOCTYPE \"... is not valid JSON",
+    "mazot IZMIR: Unexpected token '<', \"<!DOCTYPE \"... is not valid JSON",
+    "mazot KONYA: Unexpected token '<', \"<!DOCTYPE \"... is not valid JSON",
+    "mazot ADANA: Unexpected token '<', \"<!DOCTYPE \"... is not valid JSON",
+    "mazot BURSA: Unexpected token '<', \"<!DOCTYPE \"... is not valid JSON",
+    "mazot ANTALYA: Unexpected token '<', \"<!DOCTYPE \"... is not valid JSON",
+    "mazot SAMSUN: Unexpected token '<', \"<!DOCTYPE \"... is not valid JSON",
+    "mazot TEKIRDAG: Unexpected token '<', \"<!DOCTYPE \"... is not valid JSON",
+    "mazot CANAKKALE: Unexpected token '<', \"<!DOCTYPE \"... is not valid JSON"
   ]
 }
