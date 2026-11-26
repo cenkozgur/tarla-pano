@@ -1,43 +1,51 @@
 {
-  "updatedAt": "2026-11-25T21:48:56.472Z",
+  "updatedAt": "2026-11-26T03:47:37.139Z",
   "fx": [
     {
       "code": "USD",
       "name": "Dolar",
       "buy": 50.67,
-      "sell": 50.68,
+      "sell": 50.69,
       "change": 0
     },
     {
       "code": "EUR",
       "name": "Euro",
-      "buy": 55.61,
-      "sell": 55.62,
-      "change": -0.01
+      "buy": 55.67,
+      "sell": 55.76,
+      "change": 0.17
     },
     {
       "code": "GRA",
       "name": "Gram Altın",
-      "buy": 5831.44,
-      "sell": 5832.45,
-      "change": 0.14
+      "buy": 5835.07,
+      "sell": 5835.98,
+      "change": 0.2
     },
     {
       "code": "CEYREKALTIN",
       "name": "Çeyrek Altın",
-      "buy": 9974,
-      "sell": 10307,
-      "change": 0.12
+      "buy": 9979,
+      "sell": 10313,
+      "change": 0.17
     },
     {
       "code": "CUMHURIYETALTINI",
       "name": "Cumhuriyet Altını",
-      "buy": 40767,
-      "sell": 41597,
-      "change": 0.12
+      "buy": 40787,
+      "sell": 41624,
+      "change": 0.18
     }
   ],
   "news": [
+    {
+      "title": "TARİŞ Pamuk Birliği’ne kayyum atandı: Yönetim Kurulu ve Genel Müdür vekilinin yetkileri askıya alındı",
+      "url": "https://www.tarimdanhaber.com/taris-pamuk-birligine-kayyum-atandi-yonetim-kurulu-ve-genel-mudur-vekilinin-yetkileri-askiya-alindi",
+      "source": "Tarımdan Haber",
+      "date": "2026-11-25",
+      "summary": "İzmir 5. Asliye Ticaret Mahkemesi, SS 131 Nolu Söke Pamuk ve Yağlı Tohumlar Tarım Satış Kooperatifi’nin şikayeti üzerine TARİŞ Pamuk Birliği’ne kayyım atanmasına karar verdi. Karar, yöneticiler hakkında zincirleme görevi kötüye kullanma suçlamasıyla açılan kamu davası ve teftiş-bilirkişi raporları s",
+      "content": "İzmir 5. Asliye Ticaret Mahkemesi, SS 131 Nolu Söke Pamuk ve Yağlı Tohumlar Tarım Satış Kooperatifi’nin şikayeti üzerine TARİŞ Pamuk Birliği’ne kayyım atanmasına karar verdi. Karar, yöneticiler hakkında zincirleme görevi kötüye kullanma suçlamasıyla açılan kamu davası ve teftiş-bilirkişi raporları sürecinde alındı."
+    },
     {
       "title": "Bakan Yumaklı’dan 2027 tarım bütçesi sunumu: Tarıma ayrılan toplam kaynak 1 trilyon 305 milyar liraya çıkıyor!",
       "url": "https://www.tarimdanhaber.com/bakan-yumaklidan-2027-tarim-butcesi-sunumu-tarima-ayrilan-toplam-kaynak-1-trilyon-305-milyar-liraya-cikiyor",
@@ -93,14 +101,6 @@
       "date": "2026-11-24",
       "summary": "Çoğunluk hissesi Amasya Pancar Ekicileri Kooperatifi’ne ait olan Amasya Şeker Fabrikası’nda mali sıkışma derinleşti. Halkbank ve Türkşeker’in icra kıskacındaki fabrikada işçi maaşları 20-25 gün gecikmeyle ve krediyle ödenirken, üreticiye 4 avanstan yalnızca biri verilebildi; kalan avansın piyasa üst",
       "content": "Çoğunluk hissesi Amasya Pancar Ekicileri Kooperatifi’ne ait olan Amasya Şeker Fabrikası’nda mali sıkışma derinleşti. Halkbank ve Türkşeker’in icra kıskacındaki fabrikada işçi maaşları 20-25 gün gecikmeyle ve krediyle ödenirken, üreticiye 4 avanstan yalnızca biri verilebildi; kalan avansın piyasa üstü 46 liradan şekerle ödenmek istenmesi tepki çekti."
-    },
-    {
-      "title": "Ergin Kahveci ABD verilerini analiz etti: Kırsal nüfus yavaşladı, tarıma bağımlı ilçeler küçüldü",
-      "url": "https://www.tarimdanhaber.com/ergin-kahveci-abd-verilerini-analiz-etti-kirsal-nufus-yavasladi-tarima-bagimli-ilceler-kuculdu",
-      "source": "Tarımdan Haber",
-      "date": "2026-11-24",
-      "summary": "Tarım Politikaları Uzmanı Ergin Kahveci, ABD Yönetim ve Bütçe Ofisi (OMB) ile ABD Tarım Bakanlığı Ekonomik Araştırma Servisi’nin (USDA ERS) güncel verilerini değerlendirdi. Kahveci’nin paylaştığı verilere göre, 2025 yılında ABD kırsal nüfus artış hızı bir önceki yılın yarısının altına inerken, ekono",
-      "content": "Tarım Politikaları Uzmanı Ergin Kahveci, ABD Yönetim ve Bütçe Ofisi (OMB) ile ABD Tarım Bakanlığı Ekonomik Araştırma Servisi’nin (USDA ERS) güncel verilerini değerlendirdi. Kahveci’nin paylaştığı verilere göre, 2025 yılında ABD kırsal nüfus artış hızı bir önceki yılın yarısının altına inerken, ekonomisi doğrudan tarıma dayalı kırsal ilçelerde nüfus geriledi."
     }
   ],
   "commoditiesByBorsa": {
@@ -271,7 +271,7 @@
       "name": "Motorin (mazot)",
       "unit": "₺/lt",
       "price": 86.4,
-      "change": -4.64,
+      "change": 0,
       "source": "CANAKKALE ort."
     },
     {
