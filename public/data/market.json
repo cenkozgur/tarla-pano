@@ -1,43 +1,59 @@
 {
-  "updatedAt": "2026-11-26T03:47:37.139Z",
+  "updatedAt": "2026-11-26T13:13:05.495Z",
   "fx": [
     {
       "code": "USD",
       "name": "Dolar",
-      "buy": 50.67,
-      "sell": 50.69,
+      "buy": 506705,
+      "sell": 506826,
       "change": 0
     },
     {
       "code": "EUR",
       "name": "Euro",
-      "buy": 55.67,
-      "sell": 55.76,
-      "change": 0.17
+      "buy": 557673,
+      "sell": 557824,
+      "change": 27
     },
     {
       "code": "GRA",
       "name": "Gram Altın",
-      "buy": 5835.07,
-      "sell": 5835.98,
-      "change": 0.2
+      "buy": 580776,
+      "sell": 580878,
+      "change": -26
     },
     {
       "code": "CEYREKALTIN",
       "name": "Çeyrek Altın",
-      "buy": 9979,
-      "sell": 10313,
-      "change": 0.17
+      "buy": 9770,
+      "sell": 9992,
+      "change": -294
     },
     {
       "code": "CUMHURIYETALTINI",
       "name": "Cumhuriyet Altını",
-      "buy": 40787,
-      "sell": 41624,
-      "change": 0.18
+      "buy": 40040,
+      "sell": 40388,
+      "change": -279
     }
   ],
   "news": [
+    {
+      "title": "Soma ve Kangal’dan gelen işçiler Konya’da eylem yaptı: \"950 kişi mağdur, geleceğimizi savunmak için buradayız\"",
+      "url": "https://www.tarimdanhaber.com/soma-ve-kangaldan-gelen-isciler-konyada-eylem-yapti-950-kisi-magdur-gelecegimizi-savunmak-icin-buradayiz",
+      "source": "Tarımdan Haber",
+      "date": "2026-11-26",
+      "summary": "Konya Şeker tarafından işletilen Kangal ve Soma termik santrallerinde üretimin durması üzerine işçiler Konya’da eylem yaptı. TES-İŞ Sivas Şube Başkanı Hakan Korkmaz, yaklaşık 950 kişinin mağdur olduğunu belirterek kış gelmeden santralin yeniden faaliyete geçmesini istedi.",
+      "content": "Konya Şeker tarafından işletilen Kangal ve Soma termik santrallerinde üretimin durması üzerine işçiler Konya’da eylem yaptı. TES-İŞ Sivas Şube Başkanı Hakan Korkmaz, yaklaşık 950 kişinin mağdur olduğunu belirterek kış gelmeden santralin yeniden faaliyete geçmesini istedi."
+    },
+    {
+      "title": "Mersin Limanı’ndaki ithal hayvan tepkisine Bakan Yumaklı’dan yanıt: \"Almak istemeyenlerin parasını ödedik\"",
+      "url": "https://www.tarimdanhaber.com/mersin-limanindaki-ithal-hayvan-tepkisine-bakan-yumaklidan-yanit-almak-istemeyenlerin-parasini-odedik",
+      "source": "Tarımdan Haber",
+      "date": "2026-11-26",
+      "summary": "Mersin Taşucu Limanı’nda ithal besilik hayvan teslimatı sırasında yaşanan ve Tarımdan Haber’de gündeme gelen kriz, TBMM bütçe görüşmelerinde Bakan İbrahim Yumaklı’ya soruldu. Yumaklı, istemediği hayvanı almaya kimsenin zorlanmayacağını belirterek almak istemeyenlerin ödemelerinin pazartesi günü yapı",
+      "content": "Mersin Taşucu Limanı’nda ithal besilik hayvan teslimatı sırasında yaşanan ve Tarımdan Haber’de gündeme gelen kriz, TBMM bütçe görüşmelerinde Bakan İbrahim Yumaklı’ya soruldu. Yumaklı, istemediği hayvanı almaya kimsenin zorlanmayacağını belirterek almak istemeyenlerin ödemelerinin pazartesi günü yapıldığını söyledi."
+    },
     {
       "title": "TARİŞ Pamuk Birliği’ne kayyum atandı: Yönetim Kurulu ve Genel Müdür vekilinin yetkileri askıya alındı",
       "url": "https://www.tarimdanhaber.com/taris-pamuk-birligine-kayyum-atandi-yonetim-kurulu-ve-genel-mudur-vekilinin-yetkileri-askiya-alindi",
@@ -85,22 +101,6 @@
       "date": "2026-11-25",
       "summary": "Dünyanın en büyük örtü altı tarım fuarları arasında gösterilen Growtech Antalya, 25’inci kez ANFAŞ Fuar ve Kongre Merkezi’nde kapılarını açtı. 36 ülkeden 722 firmanın yer aldığı ve 27 Kasım’a kadar gezilebilecek fuarda; sürdürülebilir üretim ve yapay zeka teknolojilerinin yanı sıra bu yıl ilk kez tı",
       "content": "Dünyanın en büyük örtü altı tarım fuarları arasında gösterilen Growtech Antalya, 25’inci kez ANFAŞ Fuar ve Kongre Merkezi’nde kapılarını açtı. 36 ülkeden 722 firmanın yer aldığı ve 27 Kasım’a kadar gezilebilecek fuarda; sürdürülebilir üretim ve yapay zeka teknolojilerinin yanı sıra bu yıl ilk kez tıbbi kenevir bölümü de açıldı."
-    },
-    {
-      "title": "Konya Ticaret Borsası’nda beyaz sert ekmeklik buğday 23,55 liraya çıktı: Günlük artış 1,10 lira",
-      "url": "https://www.tarimdanhaber.com/konya-ticaret-borsasinda-beyaz-sert-ekmeklik-bugday-2355-liraya-cikti-gunluk-artis-110-lira",
-      "source": "Tarımdan Haber",
-      "date": "2026-11-24",
-      "summary": "Konya Ticaret Borsası'nın dünkü işlemlerinde beyaz sert ekmeklik buğdayın ortalama fiyatı 1,10 lira artarak 23,5 liraya yükseldi. Aynı gün toplam işlem hacmi 9.154 tona çıkarken ağırlık mısırda kaldı; kırmızı sert ekmeklik buğday ve arpada ise ortalama fiyatlar geriledi.",
-      "content": "Konya Ticaret Borsası'nın dünkü işlemlerinde beyaz sert ekmeklik buğdayın ortalama fiyatı 1,10 lira artarak 23,5 liraya yükseldi. Aynı gün toplam işlem hacmi 9.154 tona çıkarken ağırlık mısırda kaldı; kırmızı sert ekmeklik buğday ve arpada ise ortalama fiyatlar geriledi."
-    },
-    {
-      "title": "Amasya Şeker’de maaş ve avans krizi: İşçi gecikmeli ödendi, çiftçiye 46 liradan şeker teklifi",
-      "url": "https://www.tarimdanhaber.com/amasya-sekerde-maas-ve-avans-krizi-isci-gecikmeli-odendi-ciftciye-46-liradan-seker-teklifi",
-      "source": "Tarımdan Haber",
-      "date": "2026-11-24",
-      "summary": "Çoğunluk hissesi Amasya Pancar Ekicileri Kooperatifi’ne ait olan Amasya Şeker Fabrikası’nda mali sıkışma derinleşti. Halkbank ve Türkşeker’in icra kıskacındaki fabrikada işçi maaşları 20-25 gün gecikmeyle ve krediyle ödenirken, üreticiye 4 avanstan yalnızca biri verilebildi; kalan avansın piyasa üst",
-      "content": "Çoğunluk hissesi Amasya Pancar Ekicileri Kooperatifi’ne ait olan Amasya Şeker Fabrikası’nda mali sıkışma derinleşti. Halkbank ve Türkşeker’in icra kıskacındaki fabrikada işçi maaşları 20-25 gün gecikmeyle ve krediyle ödenirken, üreticiye 4 avanstan yalnızca biri verilebildi; kalan avansın piyasa üstü 46 liradan şekerle ödenmek istenmesi tepki çekti."
     }
   ],
   "commoditiesByBorsa": {
