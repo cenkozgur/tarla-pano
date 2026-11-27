@@ -1,43 +1,51 @@
 {
-  "updatedAt": "2026-11-27T14:10:27.488Z",
+  "updatedAt": "2026-11-27T22:43:32.257Z",
   "fx": [
     {
       "code": "USD",
       "name": "Dolar",
-      "buy": 50.77,
-      "sell": 50.79,
-      "change": 0.23
+      "buy": 50.75,
+      "sell": 50.78,
+      "change": 0.2
     },
     {
       "code": "EUR",
       "name": "Euro",
-      "buy": 55.75,
-      "sell": 55.81,
-      "change": 0.1
+      "buy": 55.54,
+      "sell": 55.6,
+      "change": -0.29
     },
     {
       "code": "GRA",
       "name": "Gram Altın",
-      "buy": 5934.28,
-      "sell": 5935.11,
-      "change": 2.07
+      "buy": 5963.87,
+      "sell": 5964.82,
+      "change": 2.58
     },
     {
       "code": "CEYREKALTIN",
       "name": "Çeyrek Altın",
-      "buy": 9983,
-      "sell": 10228,
-      "change": 2.06
+      "buy": 9886,
+      "sell": 10171,
+      "change": 1.49
     },
     {
       "code": "CUMHURIYETALTINI",
       "name": "Cumhuriyet Altını",
-      "buy": 40914,
-      "sell": 41344,
-      "change": 2.06
+      "buy": 40513,
+      "sell": 41114,
+      "change": 1.49
     }
   ],
   "news": [
+    {
+      "title": "Şenol Sunat’tan Tarımdan Haber’e erişim engeli tepkisi: “Çiftçinin sesini duyurma hakkına müdahale”",
+      "url": "https://www.tarimdanhaber.com/senol-sunattan-tarimdan-habere-erisim-engeli-tepkisi-ciftcinin-sesini-duyurma-hakkina-mudahale",
+      "source": "Tarımdan Haber",
+      "date": "2026-11-27",
+      "summary": "İYİ Parti Genel Başkan Yardımcısı ve Manisa Milletvekili Şenol Sunat, Tarımdan Haber’in X hesabına getirilen erişim engelini kınadı. Kararın çiftçinin sesini duyurma ve kamuoyunun haber alma hakkına müdahale olduğunu belirten Sunat, kararın ivedilikle gözden geçirilmesini istedi.",
+      "content": "İYİ Parti Genel Başkan Yardımcısı ve Manisa Milletvekili Şenol Sunat, Tarımdan Haber’in X hesabına getirilen erişim engelini kınadı. Kararın çiftçinin sesini duyurma ve kamuoyunun haber alma hakkına müdahale olduğunu belirten Sunat, kararın ivedilikle gözden geçirilmesini istedi."
+    },
     {
       "title": "Tarımdan Haber’in X hesabına getirilen erişim engeli Meclis gündeminde!",
       "url": "https://www.tarimdanhaber.com/tarimdan-haberin-x-hesabina-getirilen-erisim-engeli-meclis-gundeminde",
@@ -93,14 +101,6 @@
       "date": "2026-11-25",
       "summary": "İzmir 5. Asliye Ticaret Mahkemesi, SS 131 Nolu Söke Pamuk ve Yağlı Tohumlar Tarım Satış Kooperatifi’nin şikayeti üzerine TARİŞ Pamuk Birliği’ne kayyım atanmasına karar verdi. Karar, yöneticiler hakkında zincirleme görevi kötüye kullanma suçlamasıyla açılan kamu davası ve teftiş-bilirkişi raporları s",
       "content": "İzmir 5. Asliye Ticaret Mahkemesi, SS 131 Nolu Söke Pamuk ve Yağlı Tohumlar Tarım Satış Kooperatifi’nin şikayeti üzerine TARİŞ Pamuk Birliği’ne kayyım atanmasına karar verdi. Karar, yöneticiler hakkında zincirleme görevi kötüye kullanma suçlamasıyla açılan kamu davası ve teftiş-bilirkişi raporları sürecinde alındı."
-    },
-    {
-      "title": "Bakan Yumaklı’dan 2027 tarım bütçesi sunumu: Tarıma ayrılan toplam kaynak 1 trilyon 305 milyar liraya çıkıyor!",
-      "url": "https://www.tarimdanhaber.com/bakan-yumaklidan-2027-tarim-butcesi-sunumu-tarima-ayrilan-toplam-kaynak-1-trilyon-305-milyar-liraya-cikiyor",
-      "source": "Tarımdan Haber",
-      "date": "2026-11-25",
-      "summary": "Bakan İbrahim Yumaklı, TBMM Plan ve Bütçe Komisyonu’ndaki 2027 bütçe sunumunda bakanlık bütçesini 760 milyar 597 milyon lira, tarıma ayrılan toplam kaynağı ise 1 trilyon 305 milyar lira olarak açıkladı. Konuşmada ata tohumu ve ormanlarda otlatma çıkışlarının yanı sıra 2027’de devreye girecek sera re",
-      "content": "Bakan İbrahim Yumaklı, TBMM Plan ve Bütçe Komisyonu’ndaki 2027 bütçe sunumunda bakanlık bütçesini 760 milyar 597 milyon lira, tarıma ayrılan toplam kaynağı ise 1 trilyon 305 milyar lira olarak açıkladı. Konuşmada ata tohumu ve ormanlarda otlatma çıkışlarının yanı sıra 2027’de devreye girecek sera rehabilitasyonu, zorunlu hasat izleme ve 5,3 milyar dolarlık kırsal dönüşüm projesi öne çıktı."
     }
   ],
   "commoditiesByBorsa": {
@@ -307,7 +307,6 @@
   "note": "Fiyatlar TOBB ticaret borsasından (borsa seçilebilir). Kanola manuel (Trakya 2025).",
   "inputsNote": "Mazot: akaryakıt bayi fiyatı, günlük (şehir seçilebilir). Gübre: manuel (yaklaşık).",
   "errors": [
-    "fx: fetch failed",
     "borsa 5ED10: fetch failed",
     "borsa 5KO10: fetch failed",
     "borsa 5ES10: fetch failed"
